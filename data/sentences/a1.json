@@ -1,0 +1,4809 @@
+[
+ {
+  "id": "s_05474",
+  "ru": "Так что?",
+  "stress": "Та́к что́?",
+  "it": "E allora?",
+  "words": [
+   "w_tak",
+   "w_chto"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5474 di zmoo; traduzione it #4380 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_05565",
+  "ru": "В чем проблема?",
+  "stress": "В чем пробле́ма?",
+  "it": "Dov'è il problema?",
+  "words": [
+   "w_v",
+   "w_chem",
+   "w_problema"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5565 di al_ex_an_der; traduzione it #373782 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_337608",
+  "ru": "Идёт снег.",
+  "stress": "Идёт сне́г.",
+  "it": "Nevica.",
+  "words": [
+   "w_idti",
+   "w_sneg"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #337608 di al_ex_an_der; traduzione it #373770 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_338490",
+  "ru": "Хороший вопрос.",
+  "stress": "Хоро́ший вопро́с.",
+  "it": "Bella domanda.",
+  "words": [
+   "w_khoroshiy",
+   "w_vopros"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #338490 di rednaxela; traduzione it #338394 di Sprachprofi; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_380005",
+  "ru": "Какая там погода?",
+  "stress": "Кака́я та́м пого́да?",
+  "it": "Com'è il tempo lì?",
+  "words": [
+   "w_kakoy",
+   "w_tam",
+   "w_pogoda"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #380005 di al_ex_an_der; traduzione it #757439 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_381052",
+  "ru": "Он живёт в маленьком уютном доме.",
+  "stress": "О́н живёт в ма́леньком ую́тном до́ме.",
+  "it": "Lui abita in una accogliente piccola casa.",
+  "words": [
+   "w_on",
+   "w_zhit",
+   "w_v",
+   "w_malenkiy",
+   "w_uyutnyy",
+   "w_dom"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #381052 di al_ex_an_der; traduzione it #5632320 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_399613",
+  "ru": "Добрый вечер.",
+  "stress": "До́брый ве́чер.",
+  "it": "Buonasera!",
+  "words": [
+   "w_dobryy_vecher"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #399613 di Dorenda; traduzione it #443808 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_407081",
+  "ru": "А потом?",
+  "stress": "А пото́м?",
+  "it": "E poi?",
+  "words": [
+   "w_a",
+   "w_potom"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #407081 di FeuDRenais; traduzione it #4271736 di bailujia; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_407509",
+  "ru": "Как там погода?",
+  "stress": "Ка́к та́м пого́да?",
+  "it": "Com'è il tempo lì?",
+  "words": [
+   "w_kak",
+   "w_tam",
+   "w_pogoda"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #407509 di Hellerick; traduzione it #757439 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_407793",
+  "ru": "Сегодня понедельник.",
+  "stress": "Сего́дня понеде́льник.",
+  "it": "Oggi è lunedì.",
+  "words": [
+   "w_segodnya",
+   "w_ponedelnik"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #407793 di Hellerick; traduzione it #621648 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_408110",
+  "ru": "Почему я?",
+  "stress": "Почему́ я́?",
+  "it": "Perché io?",
+  "words": [
+   "w_pochemu",
+   "w_ya"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #408110 di arseniiv; traduzione it #383499 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_410523",
+  "ru": "Как погода?",
+  "stress": "Ка́к пого́да?",
+  "it": "Che tempo fa?",
+  "words": [
+   "w_kak",
+   "w_pogoda"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #410523 di Hellerick; traduzione it #946165 di riccioberto; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_418199",
+  "ru": "Откуда вы?",
+  "stress": "Отку́да вы́?",
+  "it": "Di dove siete?",
+  "words": [
+   "w_otkuda",
+   "w_vy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #418199 di Hellerick; traduzione it #740212 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_466686",
+  "ru": "Ты помнишь?",
+  "stress": "Ты́ по́мнишь?",
+  "it": "Ti ricordi?",
+  "words": [
+   "w_ty",
+   "w_pomnit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #466686 di bright; traduzione it #350563 di martin; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_466940",
+  "ru": "Ты купил арбуз?",
+  "stress": "Ты́ купи́л арбу́з?",
+  "it": "Hai comprato un cocomero?",
+  "words": [
+   "w_ty",
+   "w_kupit",
+   "w_arbuz"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #466940 di Mukaltin; traduzione it #374178 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_466961",
+  "ru": "Добрый день.",
+  "stress": "До́брый де́нь.",
+  "it": "Buongiorno!",
+  "words": [
+   "w_dobryy_den"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #466961 di katjka; traduzione it #411945 di shoras; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_467039",
+  "ru": "Что это значит?",
+  "stress": "Что́ э́то зна́чит?",
+  "it": "Che cosa significa?",
+  "words": [
+   "w_chto",
+   "w_eto",
+   "w_znachit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #467039 di Aqn; traduzione it #578262 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_468424",
+  "ru": "Сегодня суббота.",
+  "stress": "Сего́дня суббо́та.",
+  "it": "È sabato oggi.",
+  "words": [
+   "w_segodnya",
+   "w_subbota"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #468424 di Gruzilkin; traduzione it #1086244 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_469113",
+  "ru": "Нет проблем.",
+  "stress": "Нет пробле́м.",
+  "it": "Nessun problema.",
+  "words": [
+   "w_net",
+   "w_problema"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #469113 di OlgaElwen; traduzione it #373785 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_477108",
+  "ru": "Который час?",
+  "stress": "Кото́рый ча́с?",
+  "it": "Che ore sono?",
+  "words": [
+   "w_kotoryy",
+   "w_chas"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #477108 di al_ex_an_der; traduzione it #4426 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_524745",
+  "ru": "Не знаю.",
+  "stress": "Не зна́ю.",
+  "it": "Non so.",
+  "words": [
+   "w_ne",
+   "w_znat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #524745 di paulina; traduzione it #376606 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_541337",
+  "ru": "Он спит?",
+  "stress": "О́н спи́т?",
+  "it": "Lui dorme?",
+  "words": [
+   "w_on",
+   "w_spat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #541337 di ae5s; traduzione it #4513871 di Sirio60; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_600939",
+  "ru": "Какой он?",
+  "stress": "Како́й о́н?",
+  "it": "Com'è lui?",
+  "words": [
+   "w_kakoy",
+   "w_on"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #600939 di ae5s; traduzione it #5507104 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_643966",
+  "ru": "Шёл дождь.",
+  "stress": "Шёл до́ждь.",
+  "it": "Pioveva.",
+  "words": [
+   "w_idti",
+   "w_dozhd"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #643966 di shanghainese; traduzione it #1435703 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_643972",
+  "ru": "Где дождь?",
+  "stress": "Где́ до́ждь?",
+  "it": "Dov'è la pioggia?",
+  "words": [
+   "w_gde",
+   "w_dozhd"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #643972 di shanghainese; traduzione it #705911 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_651217",
+  "ru": "Это стол.",
+  "stress": "Э́то сто́л.",
+  "it": "Questo è un tavolo.",
+  "words": [
+   "w_eto",
+   "w_stol"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #651217 di papersaltserver; traduzione it #2893527 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_652345",
+  "ru": "Где выход?",
+  "stress": "Где́ вы́ход?",
+  "it": "Dov'è l'uscita?",
+  "words": [
+   "w_gde",
+   "w_vykhod"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #652345 di shanghainese; traduzione it #791406 di rado; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_659925",
+  "ru": "Вышло солнце.",
+  "stress": "Вы́шло со́лнце.",
+  "it": "È uscito il sole.",
+  "words": [
+   "w_vyyti",
+   "w_solntse"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #659925 di shanghainese; traduzione it #1535721 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_705539",
+  "ru": "Это трудный вопрос.",
+  "stress": "Э́то тру́дный вопро́с.",
+  "it": "Questa è una domanda complessa.",
+  "words": [
+   "w_eto",
+   "w_trudnyy",
+   "w_vopros"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #705539 di shanghainese; traduzione it #3757556 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_725367",
+  "ru": "Даже так!",
+  "stress": "Да́же та́к!",
+  "it": "Persino così!",
+  "words": [
+   "w_dazhe",
+   "w_tak"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #725367 di tatomeimei; traduzione it #5437886 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_738823",
+  "ru": "Даже мы - люди.",
+  "stress": "Да́же мы́ - лю́ди.",
+  "it": "Perfino noi siamo persone.",
+  "words": [
+   "w_dazhe",
+   "w_my",
+   "w_chelovek"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #738823 di DeSha; traduzione it #738829 di DeSha; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_740238",
+  "ru": "Я женщина.",
+  "stress": "Я́ же́нщина.",
+  "it": "Sono una donna.",
+  "words": [
+   "w_ya",
+   "w_zhenshchina"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #740238 di GranD; traduzione it #740213 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_796489",
+  "ru": "\"Который час?\" — \"Десять\".",
+  "stress": "\"Кото́рый ча́с?\" — \"Де́сять\".",
+  "it": "\"Che ore sono adesso?\" \"Sono le dieci.\"",
+  "words": [
+   "w_kotoryy",
+   "w_chas",
+   "w_desyat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #796489 di Arkadeko; traduzione it #825649 di riccioberto; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_844272",
+  "ru": "Можно войти?",
+  "stress": "Мо́жно войти́?",
+  "it": "Posso entrare?",
+  "words": [
+   "w_mozhno",
+   "w_voyti"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #844272 di Arkadeko; traduzione it #427919 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_848164",
+  "ru": "Он старый.",
+  "stress": "О́н ста́рый.",
+  "it": "È vecchio.",
+  "words": [
+   "w_on",
+   "w_staryy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #848164 di Mauritz; traduzione it #848167 di Mauritz; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_861931",
+  "ru": "Как долго?",
+  "stress": "Ка́к до́лго?",
+  "it": "Quanto a lungo?",
+  "words": [
+   "w_kak",
+   "w_dolgo"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #861931 di afyodor; traduzione it #10885779 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_882179",
+  "ru": "Я работаю.",
+  "stress": "Я́ рабо́таю.",
+  "it": "Sto lavorando.",
+  "words": [
+   "w_ya",
+   "w_rabotat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #882179 di aleph; traduzione it #2411311 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_894671",
+  "ru": "Мы едим, чтобы жить.",
+  "stress": "Мы́ еди́м, что́бы жи́ть.",
+  "it": "Noi mangiamo per vivere.",
+  "words": [
+   "w_my",
+   "w_est",
+   "w_chtoby",
+   "w_zhit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #894671 di pauldhunt; traduzione it #6789156 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_895391",
+  "ru": "Я в машине.",
+  "stress": "Я́ в маши́не.",
+  "it": "Sono nella macchina.",
+  "words": [
+   "w_ya",
+   "w_v",
+   "w_mashina"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #895391 di afyodor; traduzione it #1269471 di riccioberto; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1006240",
+  "ru": "Откуда я?",
+  "stress": "Отку́да я́?",
+  "it": "Di dove sono?",
+  "words": [
+   "w_otkuda",
+   "w_ya"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1006240 di Mira; traduzione it #1003819 di Shishir; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1034827",
+  "ru": "Кто знает?",
+  "stress": "Кто́ зна́ет?",
+  "it": "Chi sa?",
+  "words": [
+   "w_kto",
+   "w_znat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1034827 di afyodor; traduzione it #990269 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1038677",
+  "ru": "А ты?",
+  "stress": "А ты́?",
+  "it": "E tu?",
+  "words": [
+   "w_a",
+   "w_ty"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1038677 di afyodor; traduzione it #1003624 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1061695",
+  "ru": "Сегодня воскресенье.",
+  "stress": "Сего́дня воскресе́нье.",
+  "it": "Oggi è domenica.",
+  "words": [
+   "w_segodnya",
+   "w_voskresene"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1061695 di wuiwie; traduzione it #374299 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1067599",
+  "ru": "Это слишком!",
+  "stress": "Э́то сли́шком!",
+  "it": "Questo è troppo!",
+  "words": [
+   "w_eto",
+   "w_slishkom"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1067599 di ae5s; traduzione it #3176209 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1121200",
+  "ru": "Ты хороший.",
+  "stress": "Ты́ хоро́ший.",
+  "it": "Sei buono.",
+  "words": [
+   "w_ty",
+   "w_khoroshiy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1121200 di shanghainese; traduzione it #3282387 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1121202",
+  "ru": "Ты хорошая.",
+  "stress": "Ты́ хоро́шая.",
+  "it": "Sei buona.",
+  "words": [
+   "w_ty",
+   "w_khoroshiy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1121202 di shanghainese; traduzione it #3282389 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1275197",
+  "ru": "Сегодня пятница.",
+  "stress": "Сего́дня пя́тница.",
+  "it": "Oggi è venerdì.",
+  "words": [
+   "w_segodnya",
+   "w_pyatnitsa"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1275197 di shanghainese; traduzione it #2899508 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1336728",
+  "ru": "Я спал девять часов.",
+  "stress": "Я́ спа́л де́вять часо́в.",
+  "it": "Ho dormito nove ore.",
+  "words": [
+   "w_ya",
+   "w_spat",
+   "w_devyat",
+   "w_chas"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1336728 di saiko; traduzione it #350796 di martin; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1393644",
+  "ru": "Вход свободный.",
+  "stress": "Вхо́д свобо́дный.",
+  "it": "Ingresso libero.",
+  "words": [
+   "w_vkhod",
+   "w_svobodnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1393644 di Balamax; traduzione it #6790782 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1404206",
+  "ru": "Вы работаете?",
+  "stress": "Вы́ рабо́таете?",
+  "it": "Sta lavorando?",
+  "words": [
+   "w_vy",
+   "w_rabotat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1404206 di zhekka; traduzione it #3438549 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1407167",
+  "ru": "Откуда ты?",
+  "stress": "Отку́да ты́?",
+  "it": "Da dove vieni?",
+  "words": [
+   "w_otkuda",
+   "w_ty"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1407167 di saiko; traduzione it #4427 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1419029",
+  "ru": "Они идут.",
+  "stress": "Они́ иду́т.",
+  "it": "Loro stanno andando.",
+  "words": [
+   "w_oni",
+   "w_idti"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1419029 di tien_oroniel; traduzione it #2191579 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1419103",
+  "ru": "Снова ты.",
+  "stress": "Сно́ва ты́.",
+  "it": "Di nuovo tu.",
+  "words": [
+   "w_snova",
+   "w_ty"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1419103 di tien_oroniel; traduzione it #7713748 di Valdast; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1434307",
+  "ru": "Хорошая работа!",
+  "stress": "Хоро́шая рабо́та!",
+  "it": "Bel lavoro!",
+  "words": [
+   "w_khoroshiy",
+   "w_rabota"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1434307 di Avelesy; traduzione it #3513016 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1460858",
+  "ru": "Где вход?",
+  "stress": "Где́ вхо́д?",
+  "it": "Dov'è l'entrata?",
+  "words": [
+   "w_gde",
+   "w_vkhod"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1460858 di Maksimo; traduzione it #1458202 di al_ex_an_der; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1482487",
+  "ru": "Она вышла.",
+  "stress": "Она́ вы́шла.",
+  "it": "È uscita.",
+  "words": [
+   "w_ona",
+   "w_vyyti"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1482487 di Biga; traduzione it #1255615 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1513458",
+  "ru": "Не говори так громко.",
+  "stress": "Не говори́ та́к гро́мко.",
+  "it": "Non parlare così forte.",
+  "words": [
+   "w_ne",
+   "w_govorit",
+   "w_tak",
+   "w_gromko"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1513458 di zalaim; traduzione it #1251844 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1537497",
+  "ru": "Слишком жарко.",
+  "stress": "Сли́шком жа́рко.",
+  "it": "È troppo caldo.",
+  "words": [
+   "w_slishkom",
+   "w_zharko"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1537497 di Wezzel; traduzione it #1055129 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1567451",
+  "ru": "О, я болел.",
+  "stress": "О, я́ боле́л.",
+  "it": "Oh, ero malato.",
+  "words": [
+   "w_o",
+   "w_ya",
+   "w_bolet"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1567451 di Balamax; traduzione it #6890819 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1580521",
+  "ru": "Пока нет.",
+  "stress": "Пока́ нет.",
+  "it": "Non ancora.",
+  "words": [
+   "w_poka",
+   "w_net"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1580521 di Biga; traduzione it #945645 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1632715",
+  "ru": "Тогда кто?",
+  "stress": "Тогда́ кто́?",
+  "it": "Allora chi?",
+  "words": [
+   "w_togda",
+   "w_kto"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1632715 di shanghainese; traduzione it #645548 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1707379",
+  "ru": "Это собака.",
+  "stress": "Э́то соба́ка.",
+  "it": "Questo è un cane.",
+  "words": [
+   "w_eto",
+   "w_sobaka"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1707379 di ashulga; traduzione it #1061083 di leonardo; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1774619",
+  "ru": "Это место свободно?",
+  "stress": "Э́то ме́сто свобо́дно?",
+  "it": "Questo posto è vuoto?",
+  "words": [
+   "w_eto",
+   "w_mesto",
+   "w_svobodno"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1774619 di marafon; traduzione it #1107079 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1800924",
+  "ru": "Родители где?",
+  "stress": "Роди́тели где́?",
+  "it": "Dove sono i genitori?",
+  "words": [
+   "w_roditel",
+   "w_gde"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1800924 di al_ex_an_der; traduzione it #1800910 di al_ex_an_der; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1801308",
+  "ru": "Где родители?",
+  "stress": "Где́ роди́тели?",
+  "it": "Dove sono i genitori?",
+  "words": [
+   "w_gde",
+   "w_roditel"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1801308 di soweli_Elepanto; traduzione it #1800910 di al_ex_an_der; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1833166",
+  "ru": "Это даже хуже!",
+  "stress": "Э́то да́же ху́же!",
+  "it": "È perfino peggio!",
+  "words": [
+   "w_eto",
+   "w_dazhe",
+   "w_plokhoy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1833166 di SilverBaby; traduzione it #10881694 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1865237",
+  "ru": "Сегодня четверг.",
+  "stress": "Сего́дня четве́рг.",
+  "it": "Oggi è giovedì.",
+  "words": [
+   "w_segodnya",
+   "w_chetverg"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1865237 di marafon; traduzione it #2478438 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1889078",
+  "ru": "Я свободен!",
+  "stress": "Я́ свобо́ден!",
+  "it": "Io sono libero!",
+  "words": [
+   "w_ya",
+   "w_svobodnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1889078 di shanghainese; traduzione it #3254842 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1968357",
+  "ru": "Я красивый.",
+  "stress": "Я́ краси́вый.",
+  "it": "Sono bello.",
+  "words": [
+   "w_ya",
+   "w_krasivyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1968357 di marafon; traduzione it #1259984 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1968359",
+  "ru": "Я красивая.",
+  "stress": "Я́ краси́вая.",
+  "it": "Sono bella.",
+  "words": [
+   "w_ya",
+   "w_krasivyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1968359 di marafon; traduzione it #1259985 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1997964",
+  "ru": "Я молода.",
+  "stress": "Я́ молода́.",
+  "it": "Sono giovane.",
+  "words": [
+   "w_ya",
+   "w_molodoy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1997964 di mrtaistoi; traduzione it #671225 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2052500",
+  "ru": "Ты молод.",
+  "stress": "Ты́ мо́лод.",
+  "it": "Sei giovane.",
+  "words": [
+   "w_ty",
+   "w_molodoy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2052500 di marafon; traduzione it #5453341 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2095955",
+  "ru": "Это много!",
+  "stress": "Э́то мно́го!",
+  "it": "È molto!",
+  "words": [
+   "w_eto",
+   "w_mnogo"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2095955 di marafon; traduzione it #5453023 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2131353",
+  "ru": "Но почему?",
+  "stress": "Но почему́?",
+  "it": "Ma perché?",
+  "words": [
+   "w_no",
+   "w_pochemu"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2131353 di Wezzel; traduzione it #375424 di martin; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2205064",
+  "ru": "Где женщина?",
+  "stress": "Где́ же́нщина?",
+  "it": "Dov'è la donna?",
+  "words": [
+   "w_gde",
+   "w_zhenshchina"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2205064 di Balamax; traduzione it #2758391 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2236348",
+  "ru": "Он болел неделю.",
+  "stress": "О́н боле́л неде́лю.",
+  "it": "Lui stava male da una settimana.",
+  "words": [
+   "w_on",
+   "w_bolet",
+   "w_nedelya"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2236348 di corvard; traduzione it #6890821 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2305371",
+  "ru": "Я родился в России.",
+  "stress": "Я́ роди́лся в Росси́и.",
+  "it": "Sono nato in Russia.",
+  "words": [
+   "w_ya",
+   "w_roditsya",
+   "w_v",
+   "w_rossiya"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2305371 di marafon; traduzione it #1084772 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2306441",
+  "ru": "Здесь автобус.",
+  "stress": "Зде́сь авто́бус.",
+  "it": "L'autobus è qui.",
+  "words": [
+   "w_zdes",
+   "w_avtobus"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2306441 di soweli_Elepanto; traduzione it #10849583 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2343994",
+  "ru": "Ищите женщину!",
+  "stress": "Ищи́те же́нщину!",
+  "it": "Cerca la donna!",
+  "words": [
+   "w_iskat",
+   "w_zhenshchina"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2343994 di marafon; traduzione it #4754464 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2353628",
+  "ru": "Он ехал на метро.",
+  "stress": "О́н е́хал на метро́.",
+  "it": "Lui è andato con la metro.",
+  "words": [
+   "w_on",
+   "w_ekhat",
+   "w_na",
+   "w_metro"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2353628 di KatrinI; traduzione it #5470887 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2358243",
+  "ru": "Я люблю часы.",
+  "stress": "Я́ люблю́ часы́.",
+  "it": "Mi piacciono gli orologi.",
+  "words": [
+   "w_ya",
+   "w_lyubit",
+   "w_chas"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2358243 di Selena777; traduzione it #946936 di riccioberto; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2367079",
+  "ru": "Это новое.",
+  "stress": "Э́то но́вое.",
+  "it": "È nuovo.",
+  "words": [
+   "w_eto",
+   "w_novyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2367079 di urusu_tom; traduzione it #373837 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2369092",
+  "ru": "Дождь идёт с прошлого четверга.",
+  "stress": "До́ждь идёт с про́шлого четверга́.",
+  "it": "Piove da giovedì scorso.",
+  "words": [
+   "w_dozhd",
+   "w_idti",
+   "w_s",
+   "w_proshlyy",
+   "w_chetverg"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2369092 di marafon; traduzione it #3961054 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2394148",
+  "ru": "Это глаз.",
+  "stress": "Э́то гла́з.",
+  "it": "Questo è un occhio.",
+  "words": [
+   "w_eto",
+   "w_glaz"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2394148 di marafon; traduzione it #3020104 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2399781",
+  "ru": "Где я родилась?",
+  "stress": "Где́ я́ родила́сь?",
+  "it": "Dove sono nata?",
+  "words": [
+   "w_gde",
+   "w_ya",
+   "w_roditsya"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2399781 di marafon; traduzione it #4101413 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2412556",
+  "ru": "Он не машина.",
+  "stress": "О́н не маши́на.",
+  "it": "Lui non è una macchina.",
+  "words": [
+   "w_on",
+   "w_ne",
+   "w_mashina"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2412556 di al_ex_an_der; traduzione it #2412557 di al_ex_an_der; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2427927",
+  "ru": "Ты один?",
+  "stress": "Ты́ оди́н?",
+  "it": "Sei da solo?",
+  "words": [
+   "w_ty",
+   "w_odin"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2427927 di Balamax; traduzione it #399351 di ver; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2461952",
+  "ru": "Хотеть - значит мочь.",
+  "stress": "Хоте́ть - зна́чит мо́чь.",
+  "it": "Volere è potere.",
+  "words": [
+   "w_khotet",
+   "w_znachit",
+   "w_moch"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2461952 di dimitris; traduzione it #4466 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2466390",
+  "ru": "Как здесь красиво!",
+  "stress": "Ка́к зде́сь краси́во!",
+  "it": "Come è bello qui!",
+  "words": [
+   "w_kak",
+   "w_zdes",
+   "w_krasivo"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2466390 di al_ex_an_der; traduzione it #2466389 di al_ex_an_der; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2484149",
+  "ru": "Сегодня среда.",
+  "stress": "Сего́дня среда́.",
+  "it": "Oggi è mercoledì.",
+  "words": [
+   "w_segodnya",
+   "w_sreda"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2484149 di marafon; traduzione it #4264242 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2486139",
+  "ru": "Видишь это?",
+  "stress": "Ви́дишь э́то?",
+  "it": "Vedi questo?",
+  "words": [
+   "w_videt",
+   "w_eto"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2486139 di odexed; traduzione it #4644894 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2493426",
+  "ru": "Это проблема.",
+  "stress": "Э́то пробле́ма.",
+  "it": "È un problema.",
+  "words": [
+   "w_eto",
+   "w_problema"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2493426 di paul_lingvo; traduzione it #2481994 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2513699",
+  "ru": "Думаю, да.",
+  "stress": "Ду́маю, да.",
+  "it": "Penso di si.",
+  "words": [
+   "w_dumat",
+   "w_da"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2513699 di marafon; traduzione it #5396278 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2558912",
+  "ru": "Я спал.",
+  "stress": "Я́ спа́л.",
+  "it": "Dormivo.",
+  "words": [
+   "w_ya",
+   "w_spat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2558912 di odexed; traduzione it #2795554 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2580356",
+  "ru": "Они дети.",
+  "stress": "Они́ де́ти.",
+  "it": "Sono bambini.",
+  "words": [
+   "w_oni",
+   "w_rebyonok"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2580356 di paul_lingvo; traduzione it #2191480 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2596892",
+  "ru": "Мы помним.",
+  "stress": "Мы́ по́мним.",
+  "it": "Ricordiamo.",
+  "words": [
+   "w_my",
+   "w_pomnit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2596892 di marafon; traduzione it #2191031 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2597293",
+  "ru": "Я не старая.",
+  "stress": "Я́ не ста́рая.",
+  "it": "Non sono vecchia.",
+  "words": [
+   "w_ya",
+   "w_ne",
+   "w_staryy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2597293 di Olya; traduzione it #5458982 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2606166",
+  "ru": "Я первая.",
+  "stress": "Я́ пе́рвая.",
+  "it": "Sono prima.",
+  "words": [
+   "w_ya",
+   "w_pervyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2606166 di Olya; traduzione it #2697470 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2606414",
+  "ru": "Я на работе.",
+  "stress": "Я́ на рабо́те.",
+  "it": "Sono al lavoro.",
+  "words": [
+   "w_ya",
+   "w_na",
+   "w_rabota"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2606414 di Olya; traduzione it #2552443 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2608430",
+  "ru": "Как салат?",
+  "stress": "Ка́к сала́т?",
+  "it": "Com'è l'insalata?",
+  "words": [
+   "w_kak",
+   "w_salat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2608430 di Olya; traduzione it #2560372 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2649319",
+  "ru": "Это много?",
+  "stress": "Э́то мно́го?",
+  "it": "Questo è tanto?",
+  "words": [
+   "w_eto",
+   "w_mnogo"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2649319 di Olya; traduzione it #3494738 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2686727",
+  "ru": "Хорошее начало!",
+  "stress": "Хоро́шее на́чало!",
+  "it": "È un buon inizio!",
+  "words": [
+   "w_khoroshiy",
+   "w_nachat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2686727 di odexed; traduzione it #3293252 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2703082",
+  "ru": "Как далеко?",
+  "stress": "Ка́к далеко́?",
+  "it": "Quanto è lontano?",
+  "words": [
+   "w_kak",
+   "w_daleko"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2703082 di odexed; traduzione it #1308528 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2723293",
+  "ru": "Ты болел.",
+  "stress": "Ты́ боле́л.",
+  "it": "Eri malato.",
+  "words": [
+   "w_ty",
+   "w_bolet"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2723293 di marafon; traduzione it #6890816 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2724200",
+  "ru": "Найдите кошку.",
+  "stress": "Найди́те ко́шку.",
+  "it": "Trovi il gatto.",
+  "words": [
+   "w_nayti",
+   "w_koshka"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2724200 di marafon; traduzione it #2711219 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2724201",
+  "ru": "Найди кошку.",
+  "stress": "Найди́ ко́шку.",
+  "it": "Trova il gatto.",
+  "words": [
+   "w_nayti",
+   "w_koshka"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2724201 di marafon; traduzione it #2711222 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2730378",
+  "ru": "Как отец?",
+  "stress": "Ка́к оте́ц?",
+  "it": "Come sta tuo padre?",
+  "words": [
+   "w_kak",
+   "w_otets"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2730378 di marafon; traduzione it #5453353 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2732298",
+  "ru": "Я видел.",
+  "stress": "Я́ ви́дел.",
+  "it": "Ho visto.",
+  "words": [
+   "w_ya",
+   "w_videt"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2732298 di marafon; traduzione it #2303114 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2732880",
+  "ru": "Хотеть значит мочь.",
+  "stress": "Хоте́ть зна́чит мо́чь.",
+  "it": "Volere vuol dire potere.",
+  "words": [
+   "w_khotet",
+   "w_znachit",
+   "w_moch"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2732880 di shanghainese; traduzione it #5417619 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2743780",
+  "ru": "Хочешь суп?",
+  "stress": "Хо́чешь су́п?",
+  "it": "Vuoi della minestra?",
+  "words": [
+   "w_khotet",
+   "w_sup"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2743780 di afyodor; traduzione it #664362 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2746812",
+  "ru": "Где автобус?",
+  "stress": "Где́ авто́бус?",
+  "it": "Dov'è l'autobus?",
+  "words": [
+   "w_gde",
+   "w_avtobus"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2746812 di afyodor; traduzione it #4536428 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2748318",
+  "ru": "Мы подруги.",
+  "stress": "Мы́ подру́ги.",
+  "it": "Siamo amiche.",
+  "words": [
+   "w_my",
+   "w_podruga"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2748318 di marafon; traduzione it #2941619 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2762399",
+  "ru": "С Днём отца!",
+  "stress": "С Днём отца́!",
+  "it": "Buona festa del papà!",
+  "words": [
+   "w_s",
+   "w_den",
+   "w_otets"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2762399 di marafon; traduzione it #3317456 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2762492",
+  "ru": "Как дети?",
+  "stress": "Ка́к де́ти?",
+  "it": "Come stanno i bambini?",
+  "words": [
+   "w_kak",
+   "w_rebyonok"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2762492 di marafon; traduzione it #2580153 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2774539",
+  "ru": "Далеко ещё?",
+  "stress": "Далеко́ ещё?",
+  "it": "È ancora lontano?",
+  "words": [
+   "w_daleko",
+   "w_eshchyo"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2774539 di marafon; traduzione it #4867665 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2776233",
+  "ru": "Это деревня, где я родилась.",
+  "stress": "Э́то дере́вня, где́ я́ родила́сь.",
+  "it": "Questo è il villaggio dove sono nato.",
+  "words": [
+   "w_eto",
+   "w_derevnya",
+   "w_gde",
+   "w_ya",
+   "w_roditsya"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2776233 di Balamax; traduzione it #5424653 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2776353",
+  "ru": "Я болею.",
+  "stress": "Я́ боле́ю.",
+  "it": "Sono malato.",
+  "words": [
+   "w_ya",
+   "w_bolet"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2776353 di odexed; traduzione it #638387 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2782369",
+  "ru": "Какой сейчас месяц?",
+  "stress": "Како́й сейча́с ме́сяц?",
+  "it": "Quale mese è ora?",
+  "words": [
+   "w_kakoy",
+   "w_seychas",
+   "w_mesyats"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2782369 di marafon; traduzione it #3749695 di Johnny2014; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2795539",
+  "ru": "Я спала.",
+  "stress": "Я́ спала́.",
+  "it": "Dormivo.",
+  "words": [
+   "w_ya",
+   "w_spat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2795539 di marafon; traduzione it #2795554 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2804015",
+  "ru": "Сейчас час.",
+  "stress": "Сейча́с ча́с.",
+  "it": "È l'una.",
+  "words": [
+   "w_seychas",
+   "w_chas"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2804015 di marafon; traduzione it #653792 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2857436",
+  "ru": "Я знал.",
+  "stress": "Я́ зна́л.",
+  "it": "Lo sapevo.",
+  "words": [
+   "w_ya",
+   "w_znat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2857436 di Shady_arc; traduzione it #1209116 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2872702",
+  "ru": "Они везде!",
+  "stress": "Они́ везде́!",
+  "it": "Sono dappertutto!",
+  "words": [
+   "w_oni",
+   "w_vezde"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2872702 di marafon; traduzione it #6788137 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3028424",
+  "ru": "Я хороший.",
+  "stress": "Я́ хоро́ший.",
+  "it": "Io sono buono.",
+  "words": [
+   "w_ya",
+   "w_khoroshiy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3028424 di Selena777; traduzione it #1505140 di rado; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3030030",
+  "ru": "Все ждут.",
+  "stress": "Все́ жду́т.",
+  "it": "Tutti stanno aspettando.",
+  "words": [
+   "w_vse",
+   "w_zhdat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3030030 di odexed; traduzione it #5282924 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3032720",
+  "ru": "Вы красивые.",
+  "stress": "Вы́ краси́вые.",
+  "it": "Siete belli.",
+  "words": [
+   "w_vy",
+   "w_krasivyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3032720 di Selena777; traduzione it #622128 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3052025",
+  "ru": "Ты пьёшь пиво?",
+  "stress": "Ты́ пьёшь пи́во?",
+  "it": "Bevi birra?",
+  "words": [
+   "w_ty",
+   "w_pit",
+   "w_pivo"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3052025 di odexed; traduzione it #2534767 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3054630",
+  "ru": "Вы братья?",
+  "stress": "Вы́ бра́тья?",
+  "it": "Siete fratelli?",
+  "words": [
+   "w_vy",
+   "w_brat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3054630 di marafon; traduzione it #5449946 di Sofia1789; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3076534",
+  "ru": "Девушка красивая.",
+  "stress": "Де́вушка краси́вая.",
+  "it": "La ragazza è bella.",
+  "words": [
+   "w_devushka",
+   "w_krasivyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3076534 di Selena777; traduzione it #5005482 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3082213",
+  "ru": "Вы умный.",
+  "stress": "Вы́ у́мный.",
+  "it": "Siete intelligenti.",
+  "words": [
+   "w_vy",
+   "w_umnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3082213 di marafon; traduzione it #3437384 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3082214",
+  "ru": "Вы умная.",
+  "stress": "Вы́ у́мная.",
+  "it": "Siete intelligente.",
+  "words": [
+   "w_vy",
+   "w_umnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3082214 di marafon; traduzione it #5453123 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3099552",
+  "ru": "Когда ты родился?",
+  "stress": "Когда́ ты́ роди́лся?",
+  "it": "Quando sei nato?",
+  "words": [
+   "w_kogda",
+   "w_ty",
+   "w_roditsya"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3099552 di marafon; traduzione it #757436 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3105205",
+  "ru": "А если найдём?",
+  "stress": "А е́сли найдём?",
+  "it": "E se lo troviamo?",
+  "words": [
+   "w_a",
+   "w_esli",
+   "w_nayti"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3105205 di Balamax; traduzione it #5632465 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3122706",
+  "ru": "Они хорошо платят.",
+  "stress": "Они́ хорошо́ пла́тят.",
+  "it": "Loro pagano bene.",
+  "words": [
+   "w_oni",
+   "w_khorosho",
+   "w_platit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3122706 di Selena777; traduzione it #3122703 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3124974",
+  "ru": "Два кофе, пожалуйста.",
+  "stress": "Два́ ко́фе, пожа́луйста.",
+  "it": "Due caffè, per piacere.",
+  "words": [
+   "w_dva",
+   "w_kofe",
+   "w_pozhaluysta"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3124974 di marafon; traduzione it #715673 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3125551",
+  "ru": "Они готовят.",
+  "stress": "Они́ гото́вят.",
+  "it": "Loro stanno cucinando.",
+  "words": [
+   "w_oni",
+   "w_gotovit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3125551 di Selena777; traduzione it #3125533 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3128332",
+  "ru": "Она ждёт.",
+  "stress": "Она́ ждёт.",
+  "it": "Sta aspettando.",
+  "words": [
+   "w_ona",
+   "w_zhdat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3128332 di marafon; traduzione it #3505474 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3137316",
+  "ru": "Я кошка.",
+  "stress": "Я́ ко́шка.",
+  "it": "Sono una gatta.",
+  "words": [
+   "w_ya",
+   "w_koshka"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3137316 di Selena777; traduzione it #2416930 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3174812",
+  "ru": "Еда вкусная.",
+  "stress": "Еда́ вку́сная.",
+  "it": "Il cibo è delizioso.",
+  "words": [
+   "w_eda",
+   "w_vkusnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3174812 di odexed; traduzione it #5605119 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3174849",
+  "ru": "Ты пьёшь?",
+  "stress": "Ты́ пьёшь?",
+  "it": "Bevi?",
+  "words": [
+   "w_ty",
+   "w_pit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3174849 di odexed; traduzione it #4590752 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3224204",
+  "ru": "Мы братья.",
+  "stress": "Мы́ бра́тья.",
+  "it": "Siamo fratelli.",
+  "words": [
+   "w_my",
+   "w_brat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3224204 di marafon; traduzione it #3224208 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3255285",
+  "ru": "Люблю кошек.",
+  "stress": "Люблю́ ко́шек.",
+  "it": "Amo i gatti.",
+  "words": [
+   "w_lyubit",
+   "w_koshka"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3255285 di Selena777; traduzione it #373502 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3257772",
+  "ru": "Ты собака.",
+  "stress": "Ты́ соба́ка.",
+  "it": "Sei un cane.",
+  "words": [
+   "w_ty",
+   "w_sobaka"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3257772 di Selena777; traduzione it #1193495 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3264045",
+  "ru": "Люди без денег.",
+  "stress": "Лю́ди без де́нег.",
+  "it": "La gente è senza soldi.",
+  "words": [
+   "w_chelovek",
+   "w_bez",
+   "w_dengi"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3264045 di Selena777; traduzione it #3264023 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3279547",
+  "ru": "Я ехал к городу.",
+  "stress": "Я́ е́хал к го́роду.",
+  "it": "Andavo in città.",
+  "words": [
+   "w_ya",
+   "w_ekhat",
+   "w_k",
+   "w_gorod"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3279547 di Ooneykcall; traduzione it #5470908 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3285351",
+  "ru": "Они нормальные люди.",
+  "stress": "Они́ норма́льные лю́ди.",
+  "it": "Sono persone normali.",
+  "words": [
+   "w_oni",
+   "w_normalnyy",
+   "w_chelovek"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3285351 di odexed; traduzione it #3100629 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3292914",
+  "ru": "Это проблема?",
+  "stress": "Э́то пробле́ма?",
+  "it": "È un problema?",
+  "words": [
+   "w_eto",
+   "w_problema"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3292914 di Selena777; traduzione it #1240775 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3304341",
+  "ru": "Я купил билет.",
+  "stress": "Я́ купи́л биле́т.",
+  "it": "Ho comprato il biglietto.",
+  "words": [
+   "w_ya",
+   "w_kupit",
+   "w_bilet"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3304341 di Selena777; traduzione it #3194218 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3304492",
+  "ru": "Я болел.",
+  "stress": "Я́ боле́л.",
+  "it": "Ero malato.",
+  "words": [
+   "w_ya",
+   "w_bolet"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3304492 di marafon; traduzione it #3290811 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3309830",
+  "ru": "Не могу кушать.",
+  "stress": "Не могу́ ку́шать.",
+  "it": "Non riesco a mangiare.",
+  "words": [
+   "w_ne",
+   "w_moch",
+   "w_kushat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3309830 di Balamax; traduzione it #3309820 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3313440",
+  "ru": "Сегодня вторник.",
+  "stress": "Сего́дня вто́рник.",
+  "it": "Oggi è martedì.",
+  "words": [
+   "w_segodnya",
+   "w_vtornik"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3313440 di Selena777; traduzione it #3256499 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3321586",
+  "ru": "Папа ждёт.",
+  "stress": "Па́па ждёт.",
+  "it": "Papà sta aspettando.",
+  "words": [
+   "w_papa",
+   "w_zhdat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3321586 di Selena777; traduzione it #3321585 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3338703",
+  "ru": "Это новый?",
+  "stress": "Э́то но́вый?",
+  "it": "Questo è nuovo?",
+  "words": [
+   "w_eto",
+   "w_novyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3338703 di odexed; traduzione it #5584154 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3388497",
+  "ru": "Ты первый.",
+  "stress": "Ты́ пе́рвый.",
+  "it": "Sei il primo.",
+  "words": [
+   "w_ty",
+   "w_pervyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3388497 di odexed; traduzione it #5464695 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3388498",
+  "ru": "Ты первая.",
+  "stress": "Ты́ пе́рвая.",
+  "it": "Sei la prima.",
+  "words": [
+   "w_ty",
+   "w_pervyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3388498 di odexed; traduzione it #5464691 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3423082",
+  "ru": "Вода холодная.",
+  "stress": "Вода́ холо́дная.",
+  "it": "L'acqua è fredda.",
+  "words": [
+   "w_voda",
+   "w_kholodnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3423082 di odexed; traduzione it #2977218 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3423420",
+  "ru": "Ты свободен?",
+  "stress": "Ты́ свобо́ден?",
+  "it": "Sei libero?",
+  "words": [
+   "w_ty",
+   "w_svobodnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3423420 di Selena777; traduzione it #3423258 di mraz; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3430945",
+  "ru": "Это кошка.",
+  "stress": "Э́то ко́шка.",
+  "it": "Questo è un gatto.",
+  "words": [
+   "w_eto",
+   "w_koshka"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3430945 di odexed; traduzione it #3259078 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3434996",
+  "ru": "Полиция здесь.",
+  "stress": "Поли́ция зде́сь.",
+  "it": "La polizia è qui.",
+  "words": [
+   "w_politsiya",
+   "w_zdes"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3434996 di Selena777; traduzione it #3434909 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3452565",
+  "ru": "Вот пиво.",
+  "stress": "Вот пи́во.",
+  "it": "Ecco la birra.",
+  "words": [
+   "w_vot",
+   "w_pivo"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3452565 di Selena777; traduzione it #1292197 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3501688",
+  "ru": "Он любит готовить.",
+  "stress": "О́н лю́бит гото́вить.",
+  "it": "Gli piace cucinare.",
+  "words": [
+   "w_on",
+   "w_lyubit",
+   "w_gotovit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3501688 di Selena777; traduzione it #656336 di rado; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3545622",
+  "ru": "Где-то так.",
+  "stress": "Где́-то та́к.",
+  "it": "Pressapoco così.",
+  "words": [
+   "w_gde_to",
+   "w_tak"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3545622 di marafon; traduzione it #5453363 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3560868",
+  "ru": "Так лучше?",
+  "stress": "Та́к лу́чше?",
+  "it": "Così va meglio?",
+  "words": [
+   "w_tak",
+   "w_luchshe"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3560868 di marafon; traduzione it #3209631 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3561642",
+  "ru": "Кто ты, подруга?",
+  "stress": "Кто́ ты́, подру́га?",
+  "it": "Chi sei, amica?",
+  "words": [
+   "w_kto",
+   "w_ty",
+   "w_podruga"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3561642 di Selena777; traduzione it #3561639 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3628708",
+  "ru": "Завтра суббота.",
+  "stress": "За́втра суббо́та.",
+  "it": "Domani è sabato.",
+  "words": [
+   "w_zavtra",
+   "w_subbota"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3628708 di marafon; traduzione it #3062004 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3628751",
+  "ru": "Где солнце?",
+  "stress": "Где́ со́лнце?",
+  "it": "Dov'è il sole?",
+  "words": [
+   "w_gde",
+   "w_solntse"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3628751 di marafon; traduzione it #3262887 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3630695",
+  "ru": "Ты женщина.",
+  "stress": "Ты́ же́нщина.",
+  "it": "Sei una donna.",
+  "words": [
+   "w_ty",
+   "w_zhenshchina"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3630695 di Selena777; traduzione it #1228741 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3644228",
+  "ru": "Люблю красивые вещи.",
+  "stress": "Люблю́ краси́вые ве́щи.",
+  "it": "Amo le cose belle.",
+  "words": [
+   "w_lyubit",
+   "w_krasivyy",
+   "w_veshch"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3644228 di sharptoothed; traduzione it #6905401 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3668039",
+  "ru": "Вы пьёте пиво?",
+  "stress": "Вы́ пьёте пи́во?",
+  "it": "Bevete birra?",
+  "words": [
+   "w_vy",
+   "w_pit",
+   "w_pivo"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3668039 di Selena777; traduzione it #2534771 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3676883",
+  "ru": "Так быстро!",
+  "stress": "Та́к бы́стро!",
+  "it": "Così rapido!",
+  "words": [
+   "w_tak",
+   "w_bystro"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3676883 di marafon; traduzione it #4564193 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3681529",
+  "ru": "Я собака.",
+  "stress": "Я́ соба́ка.",
+  "it": "Sono un cane.",
+  "words": [
+   "w_ya",
+   "w_sobaka"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3681529 di Selena777; traduzione it #2669120 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3690783",
+  "ru": "Они все в баре.",
+  "stress": "Они́ все́ в ба́ре.",
+  "it": "Sono tutti al bar.",
+  "words": [
+   "w_oni",
+   "w_vse",
+   "w_v",
+   "w_bar"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3690783 di Selena777; traduzione it #3429333 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3766788",
+  "ru": "Давай спать.",
+  "stress": "Дава́й спа́ть.",
+  "it": "Dormiamo.",
+  "words": [
+   "w_davay",
+   "w_spat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3766788 di marafon; traduzione it #5688585 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3898579",
+  "ru": "Я знаю счёт.",
+  "stress": "Я́ зна́ю счёт.",
+  "it": "So il risultato.",
+  "words": [
+   "w_ya",
+   "w_znat",
+   "w_schyot"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3898579 di marafon; traduzione it #4940723 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3994339",
+  "ru": "Скажешь тоже!",
+  "stress": "Ска́жешь то́же!",
+  "it": "Stai scherzando!",
+  "words": [
+   "w_skazat",
+   "w_tozhe"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3994339 di marafon; traduzione it #4381729 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4102540",
+  "ru": "Завтра суббота?",
+  "stress": "За́втра суббо́та?",
+  "it": "Domani è sabato?",
+  "words": [
+   "w_zavtra",
+   "w_subbota"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4102540 di Selena777; traduzione it #1254510 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4138957",
+  "ru": "Он что-то ищет?",
+  "stress": "О́н что́-то и́щет?",
+  "it": "Lui sta cercando qualcosa?",
+  "words": [
+   "w_on",
+   "w_chto_to",
+   "w_iskat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4138957 di marafon; traduzione it #5914320 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4219647",
+  "ru": "Они многое знают.",
+  "stress": "Они́ мно́гое зна́ют.",
+  "it": "Sanno molte cose.",
+  "words": [
+   "w_oni",
+   "w_mnogie",
+   "w_znat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4219647 di Inego; traduzione it #2729169 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4225757",
+  "ru": "Ты не вышла?",
+  "stress": "Ты́ не вы́шла?",
+  "it": "Non sei uscita?",
+  "words": [
+   "w_ty",
+   "w_ne",
+   "w_vyyti"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4225757 di Inego; traduzione it #3183244 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4237916",
+  "ru": "Они дорогие.",
+  "stress": "Они́ дороги́е.",
+  "it": "Sono costosi.",
+  "words": [
+   "w_oni",
+   "w_dorogoy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4237916 di Inego; traduzione it #2018404 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4332109",
+  "ru": "Женщина читает.",
+  "stress": "Же́нщина чита́ет.",
+  "it": "La donna sta leggendo.",
+  "words": [
+   "w_zhenshchina",
+   "w_chitat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4332109 di marafon; traduzione it #392465 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4339575",
+  "ru": "Что ты учишь?",
+  "stress": "Что́ ты́ у́чишь?",
+  "it": "Cosa studi?",
+  "words": [
+   "w_chto",
+   "w_ty",
+   "w_uchit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4339575 di marafon; traduzione it #4671581 di madriot; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4398366",
+  "ru": "Я нравлюсь людям.",
+  "stress": "Я́ нра́влюсь лю́дям.",
+  "it": "Io piaccio alla gente.",
+  "words": [
+   "w_ya",
+   "w_nravitsya",
+   "w_chelovek"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4398366 di Selena777; traduzione it #4398187 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4401730",
+  "ru": "Ты на работе?",
+  "stress": "Ты́ на рабо́те?",
+  "it": "Sei al lavoro?",
+  "words": [
+   "w_ty",
+   "w_na",
+   "w_rabota"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4401730 di Selena777; traduzione it #4401108 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4401731",
+  "ru": "Вы на работе?",
+  "stress": "Вы́ на рабо́те?",
+  "it": "Siete al lavoro?",
+  "words": [
+   "w_vy",
+   "w_na",
+   "w_rabota"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4401731 di Selena777; traduzione it #4401112 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4442774",
+  "ru": "Я люблю готовить.",
+  "stress": "Я́ люблю́ гото́вить.",
+  "it": "Amo cucinare.",
+  "words": [
+   "w_ya",
+   "w_lyubit",
+   "w_gotovit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4442774 di marafon; traduzione it #3114631 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4452299",
+  "ru": "Как дорого!",
+  "stress": "Ка́к до́рого!",
+  "it": "Che costoso!",
+  "words": [
+   "w_kak",
+   "w_dorogoy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4452299 di Wezel; traduzione it #8785158 di Bethanielle; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4533260",
+  "ru": "Это так.",
+  "stress": "Э́то та́к.",
+  "it": "È così.",
+  "words": [
+   "w_eto",
+   "w_tak"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4533260 di marafon; traduzione it #948517 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4548741",
+  "ru": "Все туда идут.",
+  "stress": "Все́ туда́ иду́т.",
+  "it": "Tutti ci stanno andando.",
+  "words": [
+   "w_vse",
+   "w_tuda",
+   "w_idti"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4548741 di marafon; traduzione it #11530643 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4571380",
+  "ru": "Везде полиция.",
+  "stress": "Везде́ поли́ция.",
+  "it": "La polizia è dappertutto.",
+  "words": [
+   "w_vezde",
+   "w_politsiya"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4571380 di Selena777; traduzione it #4530829 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4770941",
+  "ru": "Где это место?",
+  "stress": "Где́ э́то ме́сто?",
+  "it": "Dov'è questo posto?",
+  "words": [
+   "w_gde",
+   "w_eto",
+   "w_mesto"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4770941 di marafon; traduzione it #3792840 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4913522",
+  "ru": "Он молод.",
+  "stress": "О́н мо́лод.",
+  "it": "Lui è giovane.",
+  "words": [
+   "w_on",
+   "w_molodoy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4913522 di odexed; traduzione it #5627715 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5129088",
+  "ru": "Я быстро ехал?",
+  "stress": "Я́ бы́стро е́хал?",
+  "it": "Andavo veloce?",
+  "words": [
+   "w_ya",
+   "w_bystro",
+   "w_ekhat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5129088 di alik_farber; traduzione it #5470869 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5175208",
+  "ru": "Я не читаю.",
+  "stress": "Я́ не чита́ю.",
+  "it": "Non leggo.",
+  "words": [
+   "w_ya",
+   "w_ne",
+   "w_chitat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5175208 di astru; traduzione it #6827673 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5205085",
+  "ru": "Что учишь?",
+  "stress": "Что́ у́чишь?",
+  "it": "Cosa studi?",
+  "words": [
+   "w_chto",
+   "w_uchit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5205085 di Selena777; traduzione it #4671581 di madriot; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5211471",
+  "ru": "Так хорошо.",
+  "stress": "Та́к хорошо́.",
+  "it": "Bene così.",
+  "words": [
+   "w_tak",
+   "w_khorosho"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5211471 di marafon; traduzione it #3454931 di davzog; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5250177",
+  "ru": "Я старая подруга.",
+  "stress": "Я́ ста́рая подру́га.",
+  "it": "Sono una vecchia amica.",
+  "words": [
+   "w_ya",
+   "w_staryy",
+   "w_podruga"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5250177 di Selena777; traduzione it #2564952 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5276446",
+  "ru": "Я всегда один.",
+  "stress": "Я́ всегда́ оди́н.",
+  "it": "Sono sempre solo.",
+  "words": [
+   "w_ya",
+   "w_vsegda",
+   "w_odin"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5276446 di marafon; traduzione it #4465699 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5383846",
+  "ru": "Здесь налево.",
+  "stress": "Зде́сь нале́во.",
+  "it": "Qui a sinistra.",
+  "words": [
+   "w_zdes",
+   "w_nalevo"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5383846 di marafon; traduzione it #5443872 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5383847",
+  "ru": "Здесь направо.",
+  "stress": "Зде́сь напра́во.",
+  "it": "Qui a destra.",
+  "words": [
+   "w_zdes",
+   "w_napravo"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5383847 di marafon; traduzione it #5443873 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5384211",
+  "ru": "На автобусе дешевле.",
+  "stress": "На авто́бусе деше́вле.",
+  "it": "In autobus è più economico.",
+  "words": [
+   "w_na",
+   "w_avtobus",
+   "w_deshyovyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5384211 di marafon; traduzione it #5384578 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5424807",
+  "ru": "Это не нормально.",
+  "stress": "Э́то не норма́льно.",
+  "it": "Questo non è normale.",
+  "words": [
+   "w_eto",
+   "w_ne",
+   "w_normalno"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5424807 di marafon; traduzione it #4467093 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5444601",
+  "ru": "Думай быстрее!",
+  "stress": "Ду́май быстре́е!",
+  "it": "Pensa più velocemente!",
+  "words": [
+   "w_dumat",
+   "w_bystryy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5444601 di Selena777; traduzione it #5443445 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5480877",
+  "ru": "Говори медленнее, пожалуйста.",
+  "stress": "Говори́ ме́дленнее, пожа́луйста.",
+  "it": "Parla più piano, per favore.",
+  "words": [
+   "w_govorit",
+   "w_medlennyy",
+   "w_pozhaluysta"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5480877 di marafon; traduzione it #5481362 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5481313",
+  "ru": "Это последняя.",
+  "stress": "Э́то после́дняя.",
+  "it": "Questa è l'ultima.",
+  "words": [
+   "w_eto",
+   "w_posledniy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5481313 di odexed; traduzione it #5432226 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5484708",
+  "ru": "Да, я такая.",
+  "stress": "Да, я́ така́я.",
+  "it": "Sì, sono così.",
+  "words": [
+   "w_da",
+   "w_ya",
+   "w_takoy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5484708 di marafon; traduzione it #5484742 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5496956",
+  "ru": "Он где-то здесь.",
+  "stress": "О́н где́-то зде́сь.",
+  "it": "Lui è qui da qualche parte.",
+  "words": [
+   "w_on",
+   "w_gde_to",
+   "w_zdes"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5496956 di marafon; traduzione it #5497046 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5496958",
+  "ru": "Она где-то здесь.",
+  "stress": "Она́ где́-то зде́сь.",
+  "it": "Lei è qui da qualche parte.",
+  "words": [
+   "w_ona",
+   "w_gde_to",
+   "w_zdes"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5496958 di marafon; traduzione it #5497047 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5499146",
+  "ru": "Мы идём в бар.",
+  "stress": "Мы́ идём в ба́р.",
+  "it": "Stiamo andando al bar.",
+  "words": [
+   "w_my",
+   "w_idti",
+   "w_v",
+   "w_bar"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5499146 di odexed; traduzione it #5499235 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5500022",
+  "ru": "Завтра понедельник.",
+  "stress": "За́втра понеде́льник.",
+  "it": "Domani è lunedì.",
+  "words": [
+   "w_zavtra",
+   "w_ponedelnik"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5500022 di marafon; traduzione it #5500087 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5500023",
+  "ru": "Завтра вторник.",
+  "stress": "За́втра вто́рник.",
+  "it": "Domani è martedì.",
+  "words": [
+   "w_zavtra",
+   "w_vtornik"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5500023 di marafon; traduzione it #5500086 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5501026",
+  "ru": "Какой стол?",
+  "stress": "Како́й сто́л?",
+  "it": "Quale tavolo?",
+  "words": [
+   "w_kakoy",
+   "w_stol"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5501026 di odexed; traduzione it #2278151 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5505562",
+  "ru": "Вы друзья?",
+  "stress": "Вы́ друзья́?",
+  "it": "Siete amici?",
+  "words": [
+   "w_vy",
+   "w_drug"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5505562 di marafon; traduzione it #5505780 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5507222",
+  "ru": "Я никогда не болею.",
+  "stress": "Я́ никогда́ не боле́ю.",
+  "it": "Non sto mai male.",
+  "words": [
+   "w_ya",
+   "w_nikogda",
+   "w_ne",
+   "w_bolet"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5507222 di nina99nv; traduzione it #5507275 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5513200",
+  "ru": "Это семья!",
+  "stress": "Э́то семья́!",
+  "it": "È una famiglia!",
+  "words": [
+   "w_eto",
+   "w_semya"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5513200 di Svetislava; traduzione it #3257006 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5513202",
+  "ru": "Это семья?",
+  "stress": "Э́то семья́?",
+  "it": "È una famiglia?",
+  "words": [
+   "w_eto",
+   "w_semya"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5513202 di Svetislava; traduzione it #3257007 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5513595",
+  "ru": "Мы здесь три дня.",
+  "stress": "Мы́ зде́сь три́ дня.",
+  "it": "Siamo qui da tre giorni.",
+  "words": [
+   "w_my",
+   "w_zdes",
+   "w_tri",
+   "w_den"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5513595 di marafon; traduzione it #5513783 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5526056",
+  "ru": "Это большой город.",
+  "stress": "Э́то большо́й го́род.",
+  "it": "Questa è una grande città.",
+  "words": [
+   "w_eto",
+   "w_bolshoy",
+   "w_gorod"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5526056 di odexed; traduzione it #5526213 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5535802",
+  "ru": "Мы здесь с октября месяца.",
+  "stress": "Мы́ зде́сь с октября́ ме́сяца.",
+  "it": "Siamo qui dal mese di ottobre.",
+  "words": [
+   "w_my",
+   "w_zdes",
+   "w_s",
+   "w_oktyabr",
+   "w_mesyats"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5535802 di marafon; traduzione it #5536470 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5541944",
+  "ru": "Мама здесь?",
+  "stress": "Ма́ма зде́сь?",
+  "it": "La mamma è qui?",
+  "words": [
+   "w_mama",
+   "w_zdes"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5541944 di marafon; traduzione it #5541951 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5541945",
+  "ru": "Папа здесь?",
+  "stress": "Па́па зде́сь?",
+  "it": "Il papà è qui?",
+  "words": [
+   "w_papa",
+   "w_zdes"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5541945 di marafon; traduzione it #5541950 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5545654",
+  "ru": "Я вошёл.",
+  "stress": "Я́ вошёл.",
+  "it": "Sono entrato.",
+  "words": [
+   "w_ya",
+   "w_voyti"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5545654 di marafon; traduzione it #5546160 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5545900",
+  "ru": "Теперь лучше.",
+  "stress": "Тепе́рь лу́чше.",
+  "it": "Ora va meglio.",
+  "words": [
+   "w_teper",
+   "w_luchshe"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5545900 di marafon; traduzione it #5546029 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5551899",
+  "ru": "Это вопрос?",
+  "stress": "Э́то вопро́с?",
+  "it": "Questa è una domanda?",
+  "words": [
+   "w_eto",
+   "w_vopros"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5551899 di marafon; traduzione it #5552111 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5558556",
+  "ru": "Все читают.",
+  "stress": "Все́ чита́ют.",
+  "it": "Tutti stanno leggendo.",
+  "words": [
+   "w_vse",
+   "w_chitat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5558556 di marafon; traduzione it #5558834 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5563752",
+  "ru": "Они везде.",
+  "stress": "Они́ везде́.",
+  "it": "Loro sono dappertutto.",
+  "words": [
+   "w_oni",
+   "w_vezde"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5563752 di marafon; traduzione it #2191663 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5563762",
+  "ru": "Никто не может это остановить.",
+  "stress": "Никто́ не мо́жет э́то останови́ть.",
+  "it": "Nessuno può fermare questo.",
+  "words": [
+   "w_nikto",
+   "w_ne",
+   "w_moch",
+   "w_eto",
+   "w_ostanovit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5563762 di marafon; traduzione it #5563908 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5573912",
+  "ru": "Машины дорогие.",
+  "stress": "Маши́ны дороги́е.",
+  "it": "Le macchine sono care.",
+  "words": [
+   "w_mashina",
+   "w_dorogoy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5573912 di marafon; traduzione it #5574025 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5574374",
+  "ru": "Сейчас час дня.",
+  "stress": "Сейча́с ча́с дня.",
+  "it": "Adesso sono le una del pomeriggio.",
+  "words": [
+   "w_seychas",
+   "w_chas",
+   "w_den"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5574374 di marafon; traduzione it #5579044 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5574982",
+  "ru": "Там снег.",
+  "stress": "Та́м сне́г.",
+  "it": "Lì nevica.",
+  "words": [
+   "w_tam",
+   "w_sneg"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5574982 di marafon; traduzione it #5575321 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5576026",
+  "ru": "Ты тоже едешь?",
+  "stress": "Ты́ то́же е́дешь?",
+  "it": "Vai anche tu?",
+  "words": [
+   "w_ty",
+   "w_tozhe",
+   "w_ekhat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5576026 di marafon; traduzione it #5576144 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5582332",
+  "ru": "Почему он такой тихий?",
+  "stress": "Почему́ о́н тако́й ти́хий?",
+  "it": "Perché lui è così calmo?",
+  "words": [
+   "w_pochemu",
+   "w_on",
+   "w_takoy",
+   "w_tikhiy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5582332 di marafon; traduzione it #5582737 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5585283",
+  "ru": "Никто не болел.",
+  "stress": "Никто́ не боле́л.",
+  "it": "Nessuno era malato.",
+  "words": [
+   "w_nikto",
+   "w_ne",
+   "w_bolet"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5585283 di marafon; traduzione it #5586599 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5586120",
+  "ru": "На часах два.",
+  "stress": "На часа́х два́.",
+  "it": "L'orologio segna le due.",
+  "words": [
+   "w_na",
+   "w_chas",
+   "w_dva"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5586120 di marafon; traduzione it #5586549 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5593891",
+  "ru": "В комнате жарко.",
+  "stress": "В ко́мнате жа́рко.",
+  "it": "In camera c'è caldo.",
+  "words": [
+   "w_v",
+   "w_komnata",
+   "w_zharko"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5593891 di Balamax; traduzione it #6806228 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5612095",
+  "ru": "Ничего не выйдет.",
+  "stress": "Ничего́ не вы́йдет.",
+  "it": "Non funzionerà.",
+  "words": [
+   "w_nichego",
+   "w_ne",
+   "w_vyyti"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5612095 di marafon; traduzione it #1856645 di hitori37; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5625233",
+  "ru": "Ты очень умён.",
+  "stress": "Ты́ о́чень умён.",
+  "it": "Sei molto intelligente.",
+  "words": [
+   "w_ty",
+   "w_ochen",
+   "w_umnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5625233 di marafon; traduzione it #4081494 di tiramisu; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5632707",
+  "ru": "Я медленно читаю.",
+  "stress": "Я́ ме́дленно чита́ю.",
+  "it": "Leggo lentamente.",
+  "words": [
+   "w_ya",
+   "w_medlenno",
+   "w_chitat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5632707 di Selena777; traduzione it #5632944 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5643363",
+  "ru": "Без пяти минут четыре.",
+  "stress": "Без пяти мину́т четы́ре.",
+  "it": "Sono le quattro meno cinque.",
+  "words": [
+   "w_bez",
+   "w_pyat",
+   "w_minuta",
+   "w_chetyre"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5643363 di nina99nv; traduzione it #5643486 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5656688",
+  "ru": "Один я купил.",
+  "stress": "Оди́н я́ купи́л.",
+  "it": "Ne ho comprato uno.",
+  "words": [
+   "w_odin",
+   "w_ya",
+   "w_kupit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5656688 di Selena777; traduzione it #4204725 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5658069",
+  "ru": "Я голоден, потому что не ел.",
+  "stress": "Я́ го́лоден, потому́ что́ не е́л.",
+  "it": "Ho fame perché non ho mangiato.",
+  "words": [
+   "w_ya",
+   "w_golodnyy",
+   "w_potomu_chto",
+   "w_ne",
+   "w_est"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5658069 di odexed; traduzione it #1763987 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5661090",
+  "ru": "О, да!",
+  "stress": "О, да!",
+  "it": "Oh, si!",
+  "words": [
+   "w_o",
+   "w_da"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5661090 di Selena777; traduzione it #5663277 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5670564",
+  "ru": "Время дорого.",
+  "stress": "Вре́мя до́рого.",
+  "it": "Il tempo è prezioso.",
+  "words": [
+   "w_vremya",
+   "w_dorogoy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5670564 di marafon; traduzione it #5670879 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5675256",
+  "ru": "Как они?",
+  "stress": "Ка́к они́?",
+  "it": "Come stanno?",
+  "words": [
+   "w_kak",
+   "w_oni"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5675256 di marafon; traduzione it #5675970 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5675259",
+  "ru": "Это ваш сын?",
+  "stress": "Э́то ва́ш сы́н?",
+  "it": "Questo è vostro figlio?",
+  "words": [
+   "w_eto",
+   "w_vash",
+   "w_syn"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5675259 di marafon; traduzione it #5675968 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5677545",
+  "ru": "Какой наш?",
+  "stress": "Како́й на́ш?",
+  "it": "Qual è il nostro?",
+  "words": [
+   "w_kakoy",
+   "w_nash"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5677545 di odexed; traduzione it #5677744 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5679854",
+  "ru": "Я иду быстро.",
+  "stress": "Я́ иду́ бы́стро.",
+  "it": "Vado veloce.",
+  "words": [
+   "w_ya",
+   "w_idti",
+   "w_bystro"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5679854 di nina99nv; traduzione it #5680963 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5691121",
+  "ru": "Он ваш отец.",
+  "stress": "О́н ва́ш оте́ц.",
+  "it": "Lui è vostro padre.",
+  "words": [
+   "w_on",
+   "w_vash",
+   "w_otets"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5691121 di marafon; traduzione it #5691384 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5704994",
+  "ru": "Два, пожалуйста.",
+  "stress": "Два́, пожа́луйста.",
+  "it": "Due, per favore.",
+  "words": [
+   "w_dva",
+   "w_pozhaluysta"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5704994 di odexed; traduzione it #10881764 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5727321",
+  "ru": "Мы ехали несколько часов.",
+  "stress": "Мы́ е́хали не́сколько часо́в.",
+  "it": "Siamo andati per qualche ora.",
+  "words": [
+   "w_my",
+   "w_ekhat",
+   "w_neskolko",
+   "w_chas"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5727321 di nina99nv; traduzione it #5727469 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5777043",
+  "ru": "А я?",
+  "stress": "А я́?",
+  "it": "E io?",
+  "words": [
+   "w_a",
+   "w_ya"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5777043 di Wezel; traduzione it #5777171 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5817581",
+  "ru": "Начни снова.",
+  "stress": "Начни́ сно́ва.",
+  "it": "Comincia di nuovo.",
+  "words": [
+   "w_nachat",
+   "w_snova"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5817581 di odexed; traduzione it #5821127 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5885621",
+  "ru": "Вы следующий.",
+  "stress": "Вы́ сле́дующий.",
+  "it": "Siete il prossimo.",
+  "words": [
+   "w_vy",
+   "w_sleduyushchiy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5885621 di marafon; traduzione it #5886368 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5885622",
+  "ru": "Ты следующая.",
+  "stress": "Ты́ сле́дующая.",
+  "it": "Sei la prossima.",
+  "words": [
+   "w_ty",
+   "w_sleduyushchiy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5885622 di marafon; traduzione it #5886371 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5885623",
+  "ru": "Вы следующая.",
+  "stress": "Вы́ сле́дующая.",
+  "it": "Siete la prossima.",
+  "words": [
+   "w_vy",
+   "w_sleduyushchiy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5885623 di marafon; traduzione it #5886370 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5888878",
+  "ru": "Я голодный.",
+  "stress": "Я́ голо́дный.",
+  "it": "Ho fame.",
+  "words": [
+   "w_ya",
+   "w_golodnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5888878 di marafon; traduzione it #5446778 di Sofia1789; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5888887",
+  "ru": "Он один.",
+  "stress": "О́н оди́н.",
+  "it": "Lui è solo.",
+  "words": [
+   "w_on",
+   "w_odin"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5888887 di marafon; traduzione it #4604428 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5888958",
+  "ru": "Идите медленно.",
+  "stress": "Иди́те ме́дленно.",
+  "it": "Camminate lentamente.",
+  "words": [
+   "w_idti",
+   "w_medlenno"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5888958 di marafon; traduzione it #3282198 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5891080",
+  "ru": "Мы свободны.",
+  "stress": "Мы́ свобо́дны.",
+  "it": "Siamo liberi.",
+  "words": [
+   "w_my",
+   "w_svobodnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5891080 di marafon; traduzione it #5696434 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5893159",
+  "ru": "Я голодная!",
+  "stress": "Я́ голо́дная!",
+  "it": "Ho fame!",
+  "words": [
+   "w_ya",
+   "w_golodnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5893159 di marafon; traduzione it #379689 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5893729",
+  "ru": "Вот он.",
+  "stress": "Вот о́н.",
+  "it": "Eccolo.",
+  "words": [
+   "w_vot",
+   "w_on"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5893729 di marafon; traduzione it #2842138 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5893730",
+  "ru": "Вот оно.",
+  "stress": "Вот оно́.",
+  "it": "Eccolo.",
+  "words": [
+   "w_vot",
+   "w_ono"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5893730 di marafon; traduzione it #2842138 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5893747",
+  "ru": "Вот они.",
+  "stress": "Вот они́.",
+  "it": "Eccoli.",
+  "words": [
+   "w_vot",
+   "w_oni"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5893747 di marafon; traduzione it #4522300 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5894071",
+  "ru": "Да ничего!",
+  "stress": "Да ничего́!",
+  "it": "Non fa niente!",
+  "words": [
+   "w_da",
+   "w_nichego"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5894071 di marafon; traduzione it #2797703 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5897084",
+  "ru": "Он сказал.",
+  "stress": "О́н сказа́л.",
+  "it": "Lui ha parlato.",
+  "words": [
+   "w_on",
+   "w_skazat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5897084 di nina99nv; traduzione it #4092139 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5927560",
+  "ru": "Я умна.",
+  "stress": "Я́ умна́.",
+  "it": "Sono brillante.",
+  "words": [
+   "w_ya",
+   "w_umnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5927560 di sharptoothed; traduzione it #5928026 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5986602",
+  "ru": "Здравствуйте. Чем могу помочь?",
+  "stress": "Здра́вствуйте. Чем могу́ помо́чь?",
+  "it": "Salve. Cosa posso fare per voi?",
+  "words": [
+   "w_zdravstvuyte",
+   "w_chem",
+   "w_moch",
+   "w_pomoch"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5986602 di marafon; traduzione it #5987228 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6001533",
+  "ru": "Извините, я без часов.",
+  "stress": "Извини́те, я́ без часо́в.",
+  "it": "Scusate, sono senza orologio.",
+  "words": [
+   "w_izvinite",
+   "w_ya",
+   "w_bez",
+   "w_chas"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6001533 di odexed; traduzione it #6001547 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6003007",
+  "ru": "Дорогие друзья!",
+  "stress": "Дороги́е друзья́!",
+  "it": "Cari amici!",
+  "words": [
+   "w_dorogoy",
+   "w_drug"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6003007 di astru; traduzione it #6003247 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6003030",
+  "ru": "Как живёшь?",
+  "stress": "Ка́к живёшь?",
+  "it": "Come stai?",
+  "words": [
+   "w_kak",
+   "w_zhit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6003030 di astru; traduzione it #921297 di riccioberto; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6006876",
+  "ru": "Она старая!",
+  "stress": "Она́ ста́рая!",
+  "it": "È vecchia!",
+  "words": [
+   "w_ona",
+   "w_staryy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6006876 di marafon; traduzione it #6007285 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6045617",
+  "ru": "Я работаю!",
+  "stress": "Я́ рабо́таю!",
+  "it": "Sto lavorando!",
+  "words": [
+   "w_ya",
+   "w_rabotat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6045617 di odexed; traduzione it #6045776 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6109945",
+  "ru": "Здесь дети.",
+  "stress": "Зде́сь де́ти.",
+  "it": "Qui ci sono dei bambini.",
+  "words": [
+   "w_zdes",
+   "w_rebyonok"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6109945 di nina99nv; traduzione it #6111189 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6143326",
+  "ru": "Я правильно сказал?",
+  "stress": "Я́ пра́вильно сказа́л?",
+  "it": "Ho detto bene?",
+  "words": [
+   "w_ya",
+   "w_pravilno",
+   "w_skazat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6143326 di nina99nv; traduzione it #6143388 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6143329",
+  "ru": "Я правильно сказала?",
+  "stress": "Я́ пра́вильно сказа́ла?",
+  "it": "Ho detto bene?",
+  "words": [
+   "w_ya",
+   "w_pravilno",
+   "w_skazat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6143329 di nina99nv; traduzione it #6143388 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6145794",
+  "ru": "Ваш билет!",
+  "stress": "Ва́ш биле́т!",
+  "it": "Il Vostro biglietto!",
+  "words": [
+   "w_vash",
+   "w_bilet"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6145794 di marafon; traduzione it #6146293 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6165623",
+  "ru": "Красивая комната!",
+  "stress": "Краси́вая ко́мната!",
+  "it": "Bella camera!",
+  "words": [
+   "w_krasivyy",
+   "w_komnata"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6165623 di nina99nv; traduzione it #6165666 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6203478",
+  "ru": "Извините, можно войти?",
+  "stress": "Извини́те, мо́жно войти́?",
+  "it": "Scusate, posso entrare?",
+  "words": [
+   "w_izvinite",
+   "w_mozhno",
+   "w_voyti"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6203478 di nina99nv; traduzione it #6203867 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6218144",
+  "ru": "Простите, это место ещё свободно?",
+  "stress": "Прости́те, э́то ме́сто ещё свобо́дно?",
+  "it": "Scusate, questo posto è ancora libero?",
+  "words": [
+   "w_prostite",
+   "w_eto",
+   "w_mesto",
+   "w_eshchyo",
+   "w_svobodno"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6218144 di marafon; traduzione it #6219143 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6306891",
+  "ru": "В субботу мы идём в клуб.",
+  "stress": "В суббо́ту мы́ идём в клу́б.",
+  "it": "Sabato andiamo al club.",
+  "words": [
+   "w_v",
+   "w_subbota",
+   "w_my",
+   "w_idti",
+   "w_klub"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6306891 di marafon; traduzione it #6307068 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6375174",
+  "ru": "Откуда деньги?",
+  "stress": "Отку́да де́ньги?",
+  "it": "Da dove arrivano questi soldi?",
+  "words": [
+   "w_otkuda",
+   "w_dengi"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6375174 di marafon; traduzione it #6375484 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6480749",
+  "ru": "Ты грязный.",
+  "stress": "Ты́ гря́зный.",
+  "it": "Sei sporco.",
+  "words": [
+   "w_ty",
+   "w_gryaznyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6480749 di marafon; traduzione it #6480992 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6480750",
+  "ru": "Вы грязный.",
+  "stress": "Вы́ гря́зный.",
+  "it": "Siete sporco.",
+  "words": [
+   "w_vy",
+   "w_gryaznyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6480750 di marafon; traduzione it #6480991 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6480751",
+  "ru": "Вы грязные.",
+  "stress": "Вы́ гря́зные.",
+  "it": "Siete sporchi.",
+  "words": [
+   "w_vy",
+   "w_gryaznyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6480751 di marafon; traduzione it #6480989 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6554456",
+  "ru": "Снег идёт?",
+  "stress": "Сне́г идёт?",
+  "it": "Sta nevicando?",
+  "words": [
+   "w_sneg",
+   "w_idti"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6554456 di soweli_Elepanto; traduzione it #6879410 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6583833",
+  "ru": "Идём туда!",
+  "stress": "Идём туда́!",
+  "it": "Andiamo là!",
+  "words": [
+   "w_idti",
+   "w_tuda"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6583833 di odexed; traduzione it #6587241 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6600690",
+  "ru": "Ты видишь?",
+  "stress": "Ты́ ви́дишь?",
+  "it": "Vedi?",
+  "words": [
+   "w_ty",
+   "w_videt"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6600690 di nina99nv; traduzione it #6600958 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6603927",
+  "ru": "Все на улице.",
+  "stress": "Все́ на у́лице.",
+  "it": "Tutti sono per strada.",
+  "words": [
+   "w_vse",
+   "w_na",
+   "w_ulitsa"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6603927 di Selena777; traduzione it #6611153 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6603928",
+  "ru": "Все там.",
+  "stress": "Все́ та́м.",
+  "it": "Tutti sono lì.",
+  "words": [
+   "w_vse",
+   "w_tam"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6603928 di Selena777; traduzione it #6611152 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6604112",
+  "ru": "Ты смотрел?",
+  "stress": "Ты́ смотре́л?",
+  "it": "Hai visto?",
+  "words": [
+   "w_ty",
+   "w_smotret"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6604112 di Selena777; traduzione it #1308574 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6622770",
+  "ru": "Мы семья.",
+  "stress": "Мы́ семья́.",
+  "it": "Siamo una famiglia.",
+  "words": [
+   "w_my",
+   "w_semya"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6622770 di Balamax; traduzione it #3209969 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6685003",
+  "ru": "Собака голодная.",
+  "stress": "Соба́ка голо́дная.",
+  "it": "Il cane ha fame.",
+  "words": [
+   "w_sobaka",
+   "w_golodnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6685003 di marafon; traduzione it #6685230 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6692322",
+  "ru": "Семь часов.",
+  "stress": "Се́мь часо́в.",
+  "it": "Sono le sette.",
+  "words": [
+   "w_sem",
+   "w_chas"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6692322 di nina99nv; traduzione it #5696477 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6712593",
+  "ru": "В среду я свободна.",
+  "stress": "В среду́ я́ свобо́дна.",
+  "it": "Mercoledì sono libera.",
+  "words": [
+   "w_v",
+   "w_sreda",
+   "w_ya",
+   "w_svobodnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6712593 di nina99nv; traduzione it #6716839 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6774291",
+  "ru": "Прошлой ночью шёл снег.",
+  "stress": "Про́шлой но́чью шёл сне́г.",
+  "it": "La scorsa notte è nevicato.",
+  "words": [
+   "w_proshlyy",
+   "w_noch",
+   "w_idti",
+   "w_sneg"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6774291 di marafon; traduzione it #6775096 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6819185",
+  "ru": "Где туалет? Налево.",
+  "stress": "Где́ туале́т? Нале́во.",
+  "it": "Dov'è la toilette? A sinistra.",
+  "words": [
+   "w_gde",
+   "w_tualet",
+   "w_nalevo"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6819185 di odexed; traduzione it #6819400 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6829530",
+  "ru": "Это нормальные дети.",
+  "stress": "Э́то норма́льные де́ти.",
+  "it": "Sono dei bambini normali.",
+  "words": [
+   "w_eto",
+   "w_normalnyy",
+   "w_rebyonok"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6829530 di marafon; traduzione it #6830041 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6830561",
+  "ru": "Вот как!",
+  "stress": "Вот ка́к!",
+  "it": "Addirittura!",
+  "words": [
+   "w_vot",
+   "w_kak"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6830561 di marafon; traduzione it #4209191 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6839328",
+  "ru": "Простите, не могу.",
+  "stress": "Прости́те, не могу́.",
+  "it": "Scusate, non posso.",
+  "words": [
+   "w_prostite",
+   "w_ne",
+   "w_moch"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6839328 di marafon; traduzione it #6839616 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6845555",
+  "ru": "Он сейчас в гостинице.",
+  "stress": "О́н сейча́с в гости́нице.",
+  "it": "Lui è in albergo adesso.",
+  "words": [
+   "w_on",
+   "w_seychas",
+   "w_v",
+   "w_gostinitsa"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6845555 di marafon; traduzione it #5704124 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6863009",
+  "ru": "Я не знаю, почему плачу.",
+  "stress": "Я́ не зна́ю, почему́ плачу́.",
+  "it": "Non so perché sto piangendo.",
+  "words": [
+   "w_ya",
+   "w_ne",
+   "w_znat",
+   "w_pochemu",
+   "w_platit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6863009 di marafon; traduzione it #6874293 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6875715",
+  "ru": "Мы смотрим.",
+  "stress": "Мы́ смо́трим.",
+  "it": "Stiamo guardando.",
+  "words": [
+   "w_my",
+   "w_smotret"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6875715 di odexed; traduzione it #6876893 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6877253",
+  "ru": "Говори тише.",
+  "stress": "Говори́ ти́ше.",
+  "it": "Abbassa la voce.",
+  "words": [
+   "w_govorit",
+   "w_tikhiy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6877253 di Wezzel; traduzione it #2143286 di hitori37; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6887613",
+  "ru": "Кошка спит.",
+  "stress": "Ко́шка спи́т.",
+  "it": "Il gatto sta dormendo.",
+  "words": [
+   "w_koshka",
+   "w_spat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6887613 di marafon; traduzione it #6887816 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6892633",
+  "ru": "Это свободная страна?",
+  "stress": "Э́то свобо́дная страна́?",
+  "it": "Questo è un paese libero?",
+  "words": [
+   "w_eto",
+   "w_svobodnyy",
+   "w_strana"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6892633 di marafon; traduzione it #6892641 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6894523",
+  "ru": "Я уже в метро.",
+  "stress": "Я́ уже́ в метро́.",
+  "it": "Sono già in metro.",
+  "words": [
+   "w_ya",
+   "w_uzhe",
+   "w_v",
+   "w_metro"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6894523 di marafon; traduzione it #6894854 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6901336",
+  "ru": "Скажи \"пока\"!",
+  "stress": "Скажи́ \"пока́\"!",
+  "it": "Di' \"addio\"!",
+  "words": [
+   "w_skazat",
+   "w_poka"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6901336 di Hellerick; traduzione it #6901948 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6909491",
+  "ru": "Стол грязный?",
+  "stress": "Сто́л гря́зный?",
+  "it": "Il tavolo è sporco?",
+  "words": [
+   "w_stol",
+   "w_gryaznyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6909491 di odexed; traduzione it #6617783 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6923927",
+  "ru": "Вчера я болел.",
+  "stress": "Вчера́ я́ боле́л.",
+  "it": "Ieri stavo male.",
+  "words": [
+   "w_vchera",
+   "w_ya",
+   "w_bolet"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6923927 di nina99nv; traduzione it #6924168 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6946227",
+  "ru": "Я не люблю другие напитки.",
+  "stress": "Я́ не люблю́ други́е напи́тки.",
+  "it": "Non mi piacciono altre bevande.",
+  "words": [
+   "w_ya",
+   "w_ne",
+   "w_lyubit",
+   "w_drugoy",
+   "w_napitok"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6946227 di odexed; traduzione it #6946367 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6950778",
+  "ru": "Долго ехать?",
+  "stress": "До́лго е́хать?",
+  "it": "Il viaggio è lungo?",
+  "words": [
+   "w_dolgo",
+   "w_ekhat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6950778 di nina99nv; traduzione it #6951809 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6956172",
+  "ru": "Все на месте?",
+  "stress": "Все́ на ме́сте?",
+  "it": "Tutti al loro posto?",
+  "words": [
+   "w_vse",
+   "w_na",
+   "w_mesto"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6956172 di nina99nv; traduzione it #6956636 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_7311732",
+  "ru": "Город большой.",
+  "stress": "Го́род большо́й.",
+  "it": "La città è grande.",
+  "words": [
+   "w_gorod",
+   "w_bolshoy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #7311732 di marafon; traduzione it #7312710 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_7447080",
+  "ru": "Я ищу банкомат.",
+  "stress": "Я́ ищу́ банкома́т.",
+  "it": "Sto cercando un bancomat.",
+  "words": [
+   "w_ya",
+   "w_iskat",
+   "w_bankomat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #7447080 di alik_farber; traduzione it #14023515 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_7722389",
+  "ru": "Я обычно такое не ем.",
+  "stress": "Я́ обы́чно тако́е не е́м.",
+  "it": "Di solito non mangio cose simili.",
+  "words": [
+   "w_ya",
+   "w_obychno",
+   "w_takoy",
+   "w_ne",
+   "w_est"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #7722389 di marafon; traduzione it #7722776 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_7748447",
+  "ru": "Иногда это ещё работает.",
+  "stress": "Иногда́ э́то ещё рабо́тает.",
+  "it": "Funziona ancora a volte.",
+  "words": [
+   "w_inogda",
+   "w_eto",
+   "w_eshchyo",
+   "w_rabotat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #7748447 di marafon; traduzione it #4503116 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_8083841",
+  "ru": "Как искать текст?",
+  "stress": "Ка́к иска́ть те́кст?",
+  "it": "Come cercare un testo?",
+  "words": [
+   "w_kak",
+   "w_iskat",
+   "w_tekst"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #8083841 di cykel; traduzione it #8795995 di Valdast; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_10614591",
+  "ru": "Привет, друзья!",
+  "stress": "Приве́т, друзья́!",
+  "it": "Ciao, amici miei!",
+  "words": [
+   "w_privet",
+   "w_drug"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #10614591 di Ooneykcall; traduzione it #10614404 di Ricardo14; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_10755647",
+  "ru": "Здесь уютно.",
+  "stress": "Зде́сь ую́тно.",
+  "it": "È accogliente qui.",
+  "words": [
+   "w_zdes",
+   "w_uyutnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #10755647 di marafon; traduzione it #10755688 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_10928609",
+  "ru": "Лучше ты.",
+  "stress": "Лу́чше ты́.",
+  "it": "Meglio tu.",
+  "words": [
+   "w_luchshe",
+   "w_ty"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #10928609 di marafon; traduzione it #10928688 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_10928610",
+  "ru": "Лучше вы.",
+  "stress": "Лу́чше вы́.",
+  "it": "Meglio voi.",
+  "words": [
+   "w_luchshe",
+   "w_vy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #10928610 di marafon; traduzione it #10928687 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_10933090",
+  "ru": "Это ещё дешевле.",
+  "stress": "Э́то ещё деше́вле.",
+  "it": "È ancora più economico.",
+  "words": [
+   "w_eto",
+   "w_eshchyo",
+   "w_deshyovyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #10933090 di marafon; traduzione it #10933227 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_11189473",
+  "ru": "\"Когда?\" - \"Никогда\".",
+  "stress": "\"Когда́?\" - \"Никогда́\".",
+  "it": "\"Quando?\" \"Mai.\"",
+  "words": [
+   "w_kogda",
+   "w_nikogda"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #11189473 di carlosalberto; traduzione it #11189472 di carlosalberto; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_11575676",
+  "ru": "Это слишком громко.",
+  "stress": "Э́то сли́шком гро́мко.",
+  "it": "È troppo forte.",
+  "words": [
+   "w_eto",
+   "w_slishkom",
+   "w_gromko"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #11575676 di marafon; traduzione it #1255700 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_11575898",
+  "ru": "Это каждый может сказать!",
+  "stress": "Э́то ка́ждый мо́жет сказа́ть!",
+  "it": "Questo può dirlo chiunque!",
+  "words": [
+   "w_eto",
+   "w_kazhdyy",
+   "w_moch",
+   "w_skazat"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #11575898 di marafon; traduzione it #11576853 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_12327499",
+  "ru": "Собака большая.",
+  "stress": "Соба́ка больша́я.",
+  "it": "Il cane è grande.",
+  "words": [
+   "w_sobaka",
+   "w_bolshoy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #12327499 di marafon; traduzione it #12763439 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_12783170",
+  "ru": "Ты отец?",
+  "stress": "Ты́ оте́ц?",
+  "it": "Sei padre?",
+  "words": [
+   "w_ty",
+   "w_otets"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #12783170 di LanguagesLover; traduzione it #12783474 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_12783171",
+  "ru": "Вы отец?",
+  "stress": "Вы́ оте́ц?",
+  "it": "Siete padre?",
+  "words": [
+   "w_vy",
+   "w_otets"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #12783171 di LanguagesLover; traduzione it #12783473 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_12805072",
+  "ru": "Еда дорогая.",
+  "stress": "Еда́ дорога́я.",
+  "it": "Il cibo è costoso.",
+  "words": [
+   "w_eda",
+   "w_dorogoy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #12805072 di marafon; traduzione it #12805659 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_13136550",
+  "ru": "Деньги — ничто.",
+  "stress": "Де́ньги — ничто́.",
+  "it": "I soldi non sono niente.",
+  "words": [
+   "w_dengi",
+   "w_nichto"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #13136550 di marafon; traduzione it #13139244 di rul; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_13236361",
+  "ru": "Здесь кто-то живёт?",
+  "stress": "Зде́сь кто́-то живёт?",
+  "it": "Qui c’è qualcuno che vive?",
+  "words": [
+   "w_zdes",
+   "w_kto_to",
+   "w_zhit"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #13236361 di EugeneGS; traduzione it #13284450 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_13364489",
+  "ru": "Чай холодный.",
+  "stress": "Ча́й холо́дный.",
+  "it": "Il tè è freddo.",
+  "words": [
+   "w_chay",
+   "w_kholodnyy"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #13364489 di marafon; traduzione it #13287486 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_13612769",
+  "ru": "Вопрос – почему.",
+  "stress": "Вопро́с – почему́.",
+  "it": "La domanda è perché.",
+  "words": [
+   "w_vopros",
+   "w_pochemu"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #13612769 di Ooneykcall; traduzione it #4292785 di Guybrush88; licenza CC BY 2.0 FR"
+ }
+]

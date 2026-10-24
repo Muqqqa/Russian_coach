@@ -1,0 +1,1001 @@
+[
+ {
+  "id": "s_05412",
+  "ru": "Что это?",
+  "stress": "Что́ э́то?",
+  "it": "Che cos'è?",
+  "words": [
+   "w_chto",
+   "w_eto"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5412 di TRANG; traduzione it #4371 di TRANG; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_338488",
+  "ru": "Я не понимаю.",
+  "stress": "Я́ не понима́ю.",
+  "it": "Non capisco.",
+  "words": [
+   "w_ya",
+   "w_ne",
+   "w_ponimat"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #338488 di rednaxela; traduzione it #373883 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_376032",
+  "ru": "Сегодня жарко.",
+  "stress": "Сего́дня жа́рко.",
+  "it": "Oggi fa caldo.",
+  "words": [
+   "w_segodnya",
+   "w_zharko"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #376032 di reiji; traduzione it #2094988 di Sirio60; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_396420",
+  "ru": "До свидания!",
+  "stress": "До свида́ния!",
+  "it": "Arrivederci.",
+  "words": [
+   "w_do_svidaniya"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #396420 di mrtaistoi; traduzione it #390573 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_396723",
+  "ru": "Где ты?",
+  "stress": "Где́ ты́?",
+  "it": "Dove sei?",
+  "words": [
+   "w_gde",
+   "w_ty"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #396723 di FeuDRenais; traduzione it #376172 di martin; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_401105",
+  "ru": "Большое спасибо!",
+  "stress": "Большо́е спаси́бо!",
+  "it": "Grazie mille!",
+  "words": [
+   "w_bolshoy",
+   "w_spasibo"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #401105 di Dorenda; traduzione it #382975 di ver; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_445653",
+  "ru": "Я человек.",
+  "stress": "Я́ челове́к.",
+  "it": "Io sono umano.",
+  "words": [
+   "w_ya",
+   "w_chelovek"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #445653 di Hellerick; traduzione it #1271682 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_469213",
+  "ru": "Это люди.",
+  "stress": "Э́то лю́ди.",
+  "it": "Queste sono persone.",
+  "words": [
+   "w_eto",
+   "w_chelovek"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #469213 di ArsWalrus; traduzione it #2711138 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_469604",
+  "ru": "Что ты купил?",
+  "stress": "Что́ ты́ купи́л?",
+  "it": "Che hai comprato?",
+  "words": [
+   "w_chto",
+   "w_ty",
+   "w_kupit"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #469604 di ArsWalrus; traduzione it #1194561 di riccioberto; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_469796",
+  "ru": "Это я.",
+  "stress": "Э́то я́.",
+  "it": "Sono io.",
+  "words": [
+   "w_eto",
+   "w_ya"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #469796 di OlgaElwen; traduzione it #335151 di axcutul; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_573781",
+  "ru": "Где мы?",
+  "stress": "Где́ мы́?",
+  "it": "Dove siamo?",
+  "words": [
+   "w_gde",
+   "w_my"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #573781 di V_Zmoova; traduzione it #573152 di Shishir; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_576512",
+  "ru": "Счёт, пожалуйста.",
+  "stress": "Счёт, пожа́луйста.",
+  "it": "Il conto, per favore.",
+  "words": [
+   "w_schyot",
+   "w_pozhaluysta"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #576512 di Tonari; traduzione it #4447 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_593235",
+  "ru": "Ты понимаешь?",
+  "stress": "Ты́ понима́ешь?",
+  "it": "Capisci?",
+  "words": [
+   "w_ty",
+   "w_ponimat"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #593235 di wondersz1; traduzione it #1539405 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_598872",
+  "ru": "Мы люди.",
+  "stress": "Мы́ лю́ди.",
+  "it": "Siamo persone.",
+  "words": [
+   "w_my",
+   "w_chelovek"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #598872 di kobylkin; traduzione it #672877 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_615493",
+  "ru": "Где туалет?",
+  "stress": "Где́ туале́т?",
+  "it": "Dove sono i bagni?",
+  "words": [
+   "w_gde",
+   "w_tualet"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #615493 di ae5s; traduzione it #1170420 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_647102",
+  "ru": "Где они?",
+  "stress": "Где́ они́?",
+  "it": "Dove sono?",
+  "words": [
+   "w_gde",
+   "w_oni"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #647102 di shanghainese; traduzione it #860644 di riccioberto; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_652847",
+  "ru": "Не холодно.",
+  "stress": "Не хо́лодно.",
+  "it": "Non fa freddo.",
+  "words": [
+   "w_ne",
+   "w_kholodno"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #652847 di shanghainese; traduzione it #3461368 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_658509",
+  "ru": "Он ест.",
+  "stress": "О́н е́ст.",
+  "it": "Sta mangiando.",
+  "words": [
+   "w_on",
+   "w_est"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #658509 di Aleksej; traduzione it #527190 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_803608",
+  "ru": "Я из России.",
+  "stress": "Я́ из Росси́и.",
+  "it": "Vengo dalla Russia.",
+  "words": [
+   "w_ya",
+   "w_iz",
+   "w_rossiya"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #803608 di afyodor; traduzione it #2394521 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_857418",
+  "ru": "Она говорит по-русски.",
+  "stress": "Она́ говори́т по-ру́сски.",
+  "it": "Lei parla russo.",
+  "words": [
+   "w_ona",
+   "w_govorit",
+   "w_po_russki"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #857418 di riccioberto; traduzione it #857400 di riccioberto; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_945636",
+  "ru": "Ещё нет.",
+  "stress": "Ещё нет.",
+  "it": "Non ancora.",
+  "words": [
+   "w_eshchyo",
+   "w_net"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #945636 di shanghainese; traduzione it #945645 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_999607",
+  "ru": "Да, пожалуйста.",
+  "stress": "Да, пожа́луйста.",
+  "it": "Sì, per favore.",
+  "words": [
+   "w_da",
+   "w_pozhaluysta"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #999607 di ellasevia; traduzione it #948509 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1124468",
+  "ru": "Я тоже.",
+  "stress": "Я́ то́же.",
+  "it": "Anch'io.",
+  "words": [
+   "w_ya",
+   "w_tozhe"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1124468 di saiko; traduzione it #978317 di riccioberto; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1335279",
+  "ru": "Очень хорошо!",
+  "stress": "О́чень хорошо́!",
+  "it": "Molto bene!",
+  "words": [
+   "w_ochen",
+   "w_khorosho"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1335279 di saiko; traduzione it #1241714 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_1446191",
+  "ru": "Я хочу жить.",
+  "stress": "Я́ хочу́ жи́ть.",
+  "it": "Voglio vivere.",
+  "words": [
+   "w_ya",
+   "w_khotet",
+   "w_zhit"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #1446191 di Biga; traduzione it #1260331 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2055884",
+  "ru": "Там жарко?",
+  "stress": "Та́м жа́рко?",
+  "it": "Lì fa caldo?",
+  "words": [
+   "w_tam",
+   "w_zharko"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2055884 di sharptoothed; traduzione it #5527145 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2134537",
+  "ru": "Вы кто?",
+  "stress": "Вы́ кто́?",
+  "it": "Voi chi siete?",
+  "words": [
+   "w_vy",
+   "w_kto"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2134537 di marafon; traduzione it #2601442 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2208829",
+  "ru": "Люблю кофе.",
+  "stress": "Люблю́ ко́фе.",
+  "it": "Mi piace il caffè.",
+  "words": [
+   "w_lyubit",
+   "w_kofe"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2208829 di Balamax; traduzione it #3929007 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2297643",
+  "ru": "Где дом?",
+  "stress": "Где́ до́м?",
+  "it": "Dov'è casa?",
+  "words": [
+   "w_gde",
+   "w_dom"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2297643 di tengo; traduzione it #11080173 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2304347",
+  "ru": "Ты где?",
+  "stress": "Ты́ где́?",
+  "it": "Dove sei?",
+  "words": [
+   "w_ty",
+   "w_gde"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2304347 di Elzyata; traduzione it #376172 di martin; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2412895",
+  "ru": "Дом маленький.",
+  "stress": "До́м ма́ленький.",
+  "it": "La casa è piccola.",
+  "words": [
+   "w_dom",
+   "w_malenkiy"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2412895 di odexed; traduzione it #2422693 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2427281",
+  "ru": "Говори медленно.",
+  "stress": "Говори́ ме́дленно.",
+  "it": "Parla lentamente.",
+  "words": [
+   "w_govorit",
+   "w_medlenno"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2427281 di al_ex_an_der; traduzione it #2427279 di al_ex_an_der; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2428795",
+  "ru": "Ты говоришь по-русски?",
+  "stress": "Ты́ говори́шь по-ру́сски?",
+  "it": "Parli russo?",
+  "words": [
+   "w_ty",
+   "w_govorit",
+   "w_po_russki"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2428795 di odexed; traduzione it #2302194 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2501402",
+  "ru": "Я здесь.",
+  "stress": "Я́ зде́сь.",
+  "it": "Sono qua.",
+  "words": [
+   "w_ya",
+   "w_zdes"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2501402 di paul_lingvo; traduzione it #1561370 di ninuzzo; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2531419",
+  "ru": "До свидания.",
+  "stress": "До свида́ния.",
+  "it": "Arrivederci.",
+  "words": [
+   "w_do_svidaniya"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2531419 di Maksimo; traduzione it #390573 di Pharamp; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2578242",
+  "ru": "Можешь помочь?",
+  "stress": "Мо́жешь помо́чь?",
+  "it": "Puoi aiutarmi?",
+  "words": [
+   "w_moch",
+   "w_pomoch"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2578242 di Olya; traduzione it #1389957 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2617499",
+  "ru": "Ты других спросил?",
+  "stress": "Ты́ други́х спроси́л?",
+  "it": "Hai chiesto agli altri?",
+  "words": [
+   "w_ty",
+   "w_drugoy",
+   "w_sprosit"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2617499 di sharptoothed; traduzione it #2719107 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2678670",
+  "ru": "Люди говорят.",
+  "stress": "Лю́ди говоря́т.",
+  "it": "Le persone stanno parlando.",
+  "words": [
+   "w_chelovek",
+   "w_govorit"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2678670 di odexed; traduzione it #5107226 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2732876",
+  "ru": "Это ты.",
+  "stress": "Э́то ты́.",
+  "it": "Sei tu.",
+  "words": [
+   "w_eto",
+   "w_ty"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2732876 di shanghainese; traduzione it #5571679 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_2890880",
+  "ru": "Хотите чай?",
+  "stress": "Хоти́те ча́й?",
+  "it": "Vorreste un po' di tè?",
+  "words": [
+   "w_khotet",
+   "w_chay"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #2890880 di Balamax; traduzione it #4412839 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3079674",
+  "ru": "И что?",
+  "stress": "И что́?",
+  "it": "E quindi?",
+  "words": [
+   "w_i",
+   "w_chto"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3079674 di marafon; traduzione it #1426846 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3163513",
+  "ru": "Что здесь?",
+  "stress": "Что́ зде́сь?",
+  "it": "Cosa c'è qui?",
+  "words": [
+   "w_chto",
+   "w_zdes"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3163513 di odexed; traduzione it #5551745 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3321640",
+  "ru": "Вы говорите по-русски?",
+  "stress": "Вы́ говори́те по-ру́сски?",
+  "it": "Parla russo?",
+  "words": [
+   "w_vy",
+   "w_govorit",
+   "w_po_russki"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3321640 di Selena777; traduzione it #2302197 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3496291",
+  "ru": "Это вода.",
+  "stress": "Э́то вода́.",
+  "it": "Questa è acqua.",
+  "words": [
+   "w_eto",
+   "w_voda"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3496291 di Selena777; traduzione it #5861638 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3522728",
+  "ru": "Кофе нет.",
+  "stress": "Ко́фе нет.",
+  "it": "Non c'è caffè.",
+  "words": [
+   "w_kofe",
+   "w_net"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3522728 di marafon; traduzione it #2523774 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3640734",
+  "ru": "Они маленькие.",
+  "stress": "Они́ ма́ленькие.",
+  "it": "Sono piccoli.",
+  "words": [
+   "w_oni",
+   "w_malenkiy"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3640734 di Selena777; traduzione it #2191391 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4417113",
+  "ru": "Что он купил?",
+  "stress": "Что́ о́н купи́л?",
+  "it": "Che ha comprato?",
+  "words": [
+   "w_chto",
+   "w_on",
+   "w_kupit"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4417113 di Selena777; traduzione it #4416507 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5310347",
+  "ru": "Чаю хочешь?",
+  "stress": "Ча́ю хо́чешь?",
+  "it": "Vuoi del tè?",
+  "words": [
+   "w_chay",
+   "w_khotet"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5310347 di marafon; traduzione it #5443502 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5419267",
+  "ru": "Там холодно.",
+  "stress": "Та́м хо́лодно.",
+  "it": "La fa freddo.",
+  "words": [
+   "w_tam",
+   "w_kholodno"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5419267 di Wezel; traduzione it #5419360 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5422199",
+  "ru": "Не хочу.",
+  "stress": "Не хочу́.",
+  "it": "Non voglio.",
+  "words": [
+   "w_ne",
+   "w_khotet"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5422199 di marafon; traduzione it #2853147 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5470434",
+  "ru": "Я человек маленький.",
+  "stress": "Я́ челове́к ма́ленький.",
+  "it": "Sono una piccola persona.",
+  "words": [
+   "w_ya",
+   "w_chelovek",
+   "w_malenkiy"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5470434 di marafon; traduzione it #5470447 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5517953",
+  "ru": "Да, это вино.",
+  "stress": "Да, э́то вино́.",
+  "it": "Si, questo è vino.",
+  "words": [
+   "w_da",
+   "w_eto",
+   "w_vino"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5517953 di marafon; traduzione it #5518362 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5535800",
+  "ru": "Мы здесь с октября.",
+  "stress": "Мы́ зде́сь с октября́.",
+  "it": "Siamo qui da ottobre.",
+  "words": [
+   "w_my",
+   "w_zdes",
+   "w_s",
+   "w_oktyabr"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5535800 di marafon; traduzione it #5536471 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5621065",
+  "ru": "Это он или нет?",
+  "stress": "Э́то о́н и́ли нет?",
+  "it": "È lui o no?",
+  "words": [
+   "w_eto",
+   "w_on",
+   "w_ili",
+   "w_net"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5621065 di Selena777; traduzione it #5621074 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5629732",
+  "ru": "Не хочу!",
+  "stress": "Не хочу́!",
+  "it": "Non voglio!",
+  "words": [
+   "w_ne",
+   "w_khotet"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5629732 di Patissier; traduzione it #5629934 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5648957",
+  "ru": "Это другой.",
+  "stress": "Э́то друго́й.",
+  "it": "Questo è l'altro.",
+  "words": [
+   "w_eto",
+   "w_drugoy"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5648957 di odexed; traduzione it #5650130 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5672276",
+  "ru": "Вы говорите.",
+  "stress": "Вы́ говори́те.",
+  "it": "Voi parlate.",
+  "words": [
+   "w_vy",
+   "w_govorit"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5672276 di Selena777; traduzione it #1718928 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5885573",
+  "ru": "Что потом?",
+  "stress": "Что́ пото́м?",
+  "it": "Cosa c'è dopo?",
+  "words": [
+   "w_chto",
+   "w_potom"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5885573 di marafon; traduzione it #5886718 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5952170",
+  "ru": "Где оно?",
+  "stress": "Где́ оно́?",
+  "it": "Dov'è?",
+  "words": [
+   "w_gde",
+   "w_ono"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5952170 di Selena777; traduzione it #1098355 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5982168",
+  "ru": "Счёт, пожалуйста!",
+  "stress": "Счёт, пожа́луйста!",
+  "it": "Il conto, per favore!",
+  "words": [
+   "w_schyot",
+   "w_pozhaluysta"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5982168 di marafon; traduzione it #1368676 di Esperantostern; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5989129",
+  "ru": "Сколько стоило?",
+  "stress": "Ско́лько сто́ило?",
+  "it": "Quanto costava?",
+  "words": [
+   "w_skolko",
+   "w_stoit"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5989129 di astru; traduzione it #5989254 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6143331",
+  "ru": "Я правильно говорю?",
+  "stress": "Я́ пра́вильно говорю́?",
+  "it": "Dico bene?",
+  "words": [
+   "w_ya",
+   "w_pravilno",
+   "w_govorit"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6143331 di nina99nv; traduzione it #4524608 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6375173",
+  "ru": "И я нет.",
+  "stress": "И я́ нет.",
+  "it": "Nemmeno io.",
+  "words": [
+   "w_i",
+   "w_ya",
+   "w_net"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6375173 di marafon; traduzione it #1546727 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6600705",
+  "ru": "Ты тоже?",
+  "stress": "Ты́ то́же?",
+  "it": "Anche tu?",
+  "words": [
+   "w_ty",
+   "w_tozhe"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6600705 di marafon; traduzione it #6600944 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_7433914",
+  "ru": "Жили мы трудно.",
+  "stress": "Жи́ли мы́ тру́дно.",
+  "it": "Vivevamo tra gli stenti.",
+  "words": [
+   "w_zhit",
+   "w_my",
+   "w_trudno"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #7433914 di marafon; traduzione it #7434297 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_10180000",
+  "ru": "Он сегодня спросит.",
+  "stress": "О́н сего́дня спро́сит.",
+  "it": "Farà domanda oggi.",
+  "words": [
+   "w_on",
+   "w_segodnya",
+   "w_sprosit"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #10180000 di Walentinio; traduzione it #4085972 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_10220465",
+  "ru": "Или не хочешь?",
+  "stress": "И́ли не хо́чешь?",
+  "it": "O non vuoi?",
+  "words": [
+   "w_ili",
+   "w_ne",
+   "w_khotet"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #10220465 di Julien_PDC; traduzione it #10221057 di carlosalberto; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_12741915",
+  "ru": "Чай или кофе?",
+  "stress": "Ча́й и́ли ко́фе?",
+  "it": "Tè o caffè?",
+  "words": [
+   "w_chay",
+   "w_ili",
+   "w_kofe"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #12741915 di Wezel; traduzione it #12741913 di Adelpa; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_13200053",
+  "ru": "Да, понимаю!",
+  "stress": "Да, понима́ю!",
+  "it": "Sì, capisco!",
+  "words": [
+   "w_da",
+   "w_ponimat"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #13200053 di Adelpa; traduzione it #13200074 di Adelpa; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_13341341",
+  "ru": "Вы можете.",
+  "stress": "Вы́ мо́жете.",
+  "it": "Può.",
+  "words": [
+   "w_vy",
+   "w_moch"
+  ],
+  "level": "zero",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #13341341 di amanshi; traduzione it #13341343 di Guybrush88; licenza CC BY 2.0 FR"
+ }
+]

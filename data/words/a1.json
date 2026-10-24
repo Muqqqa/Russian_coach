@@ -1,0 +1,7554 @@
+[
+ {
+  "id": "w_v",
+  "ru": "в",
+  "stress": "в",
+  "translit": "v",
+  "en": [
+   "in",
+   "to, into",
+   "on, at, in",
+   "per, a",
+   "in"
+  ],
+  "pos": "prep",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_05565",
+   "s_381052",
+   "s_895391"
+  ]
+ },
+ {
+  "id": "w_na",
+  "ru": "на",
+  "stress": "на́",
+  "translit": "nà",
+  "en": [
+   "on, on top of",
+   "onto, on, up against (a surface)",
+   "at, in",
+   "to",
+   "for",
+   "for",
+   "by, in, on",
+   "for, on",
+   "during, in",
+   "by"
+  ],
+  "pos": "prep",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_2353628",
+   "s_2606414",
+   "s_4401730"
+  ]
+ },
+ {
+  "id": "w_kak",
+  "ru": "как",
+  "stress": "ка́к",
+  "translit": "kàk",
+  "en": [
+   "how",
+   "what",
+   "like, as",
+   "as"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_407509",
+   "s_410523",
+   "s_861931"
+  ]
+ },
+ {
+  "id": "w_znat",
+  "ru": "знать",
+  "stress": "зна́ть",
+  "translit": "znàt",
+  "en": [
+   "to know, to be aware, to know about",
+   "to know (a person), to be acquainted with",
+   "to know (a subject), to have a command of, to be good at"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "узнать",
+   "presfut_1sg": "зна́ю",
+   "presfut_2sg": "зна́ешь",
+   "presfut_3sg": "зна́ет",
+   "presfut_1pl": "зна́ем",
+   "presfut_2pl": "зна́ете",
+   "presfut_3pl": "зна́ют",
+   "past_m": "зна́л",
+   "past_f": "зна́ла",
+   "past_n": "зна́ло",
+   "past_pl": "зна́ли",
+   "imp_sg": "зна́й",
+   "imp_pl": "зна́йте"
+  },
+  "examples": [
+   "s_524745",
+   "s_1034827",
+   "s_2857436"
+  ]
+ },
+ {
+  "id": "w_skazat",
+  "ru": "сказать",
+  "stress": "сказа́ть",
+  "translit": "skazàt",
+  "en": [
+   "to say, to tell, to speak, to talk"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "perfective",
+   "aspect_partner": "говорить",
+   "presfut_1sg": "скажу́",
+   "presfut_2sg": "ска́жешь",
+   "presfut_3sg": "ска́жет",
+   "presfut_1pl": "ска́жем",
+   "presfut_2pl": "ска́жете",
+   "presfut_3pl": "ска́жут",
+   "past_m": "сказа́л",
+   "past_f": "сказа́ла",
+   "past_n": "сказа́ло",
+   "past_pl": "сказа́ли",
+   "imp_sg": "скажи́",
+   "imp_pl": "скажи́те"
+  },
+  "examples": [
+   "s_3994339",
+   "s_5897084",
+   "s_6143326"
+  ]
+ },
+ {
+  "id": "w_o",
+  "ru": "о",
+  "stress": "о́",
+  "translit": "ò",
+  "en": [
+   "about, concerning, of",
+   "against, on, over (tripping)"
+  ],
+  "pos": "prep",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_1567451",
+   "s_5661090",
+   "s_05659"
+  ]
+ },
+ {
+  "id": "w_tak",
+  "ru": "так",
+  "stress": "та́к",
+  "translit": "tàk",
+  "en": [
+   "so, thus, like this, this way",
+   "so, so much, such",
+   "then, so, in that case",
+   "indeed, that's right, certainly"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_05474",
+   "s_725367",
+   "s_1513458"
+  ]
+ },
+ {
+  "id": "w_dumat",
+  "ru": "думать",
+  "stress": "ду́мать",
+  "translit": "dùmat",
+  "en": [
+   "to think, to ponder, to reflect",
+   "to think, to believe, to suppose, to consider",
+   "to intend, to plan, to be thinking of"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "подумать",
+   "presfut_1sg": "ду́маю",
+   "presfut_2sg": "ду́маешь",
+   "presfut_3sg": "ду́мает",
+   "presfut_1pl": "ду́маем",
+   "presfut_2pl": "ду́маете",
+   "presfut_3pl": "ду́мают",
+   "past_m": "ду́мал",
+   "past_f": "ду́мала",
+   "past_n": "ду́мало",
+   "past_pl": "ду́мали",
+   "imp_sg": "ду́май",
+   "imp_pl": "ду́майте"
+  },
+  "examples": [
+   "s_2513699",
+   "s_5444601",
+   "s_1793301"
+  ]
+ },
+ {
+  "id": "w_no",
+  "ru": "но",
+  "stress": "но́",
+  "translit": "nò",
+  "en": [
+   "but, however, yet"
+  ],
+  "pos": "conj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_2131353",
+   "s_2447147",
+   "s_5330241"
+  ]
+ },
+ {
+  "id": "w_chtoby",
+  "ru": "чтобы",
+  "stress": "что́бы",
+  "translit": "ctòby",
+  "en": [
+   "in order to, to",
+   "so that",
+   "that"
+  ],
+  "pos": "conj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_894671",
+   "s_2110290",
+   "s_2772306"
+  ]
+ },
+ {
+  "id": "w_a",
+  "ru": "а",
+  "stress": "а́",
+  "translit": "à",
+  "en": [
+   "and, but, whereas",
+   "oh, ah"
+  ],
+  "pos": "conj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_407081",
+   "s_1038677",
+   "s_3105205"
+  ]
+ },
+ {
+  "id": "w_k",
+  "ru": "к",
+  "stress": "к",
+  "translit": "k",
+  "en": [
+   "towards, to, up to",
+   "to, to see, to (someone's place)",
+   "by, towards (a time)",
+   "towards, to",
+   "for, for the purpose of"
+  ],
+  "pos": "prep",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_3279547",
+   "s_1513035",
+   "s_4304608"
+  ]
+ },
+ {
+  "id": "w_esli",
+  "ru": "если",
+  "stress": "е́сли",
+  "translit": "ièsli",
+  "en": [
+   "if",
+   "in case, subject to"
+  ],
+  "pos": "conj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_3105205",
+   "s_3053916",
+   "s_5540409"
+  ]
+ },
+ {
+  "id": "w_kogda",
+  "ru": "когда",
+  "stress": "когда́",
+  "translit": "kogdà",
+  "en": [
+   "when",
+   "when, while, as"
+  ],
+  "pos": "conj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_3099552",
+   "s_11189473",
+   "s_3044854"
+  ]
+ },
+ {
+  "id": "w_takoy",
+  "ru": "такой",
+  "stress": "тако́й",
+  "translit": "takòj",
+  "en": [
+   "such, such a, that sort of, this kind of",
+   "so, so very, such",
+   "like that, like this, to be like that"
+  ],
+  "pos": "pron",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "m_nom": "тако́й",
+   "m_gen": "тако́го",
+   "m_dat": "тако́му",
+   "m_acc": "тако́й, тако́го",
+   "m_ins": "таки́м",
+   "m_prep": "тако́м",
+   "f_nom": "така́я",
+   "f_gen": "тако́й",
+   "f_dat": "тако́й",
+   "f_acc": "таку́ю",
+   "f_ins": "тако́й, тако́ю",
+   "f_prep": "тако́й",
+   "n_nom": "тако́е",
+   "n_gen": "тако́го",
+   "n_dat": "тако́му",
+   "n_acc": "тако́е",
+   "n_ins": "таки́м",
+   "n_prep": "тако́м",
+   "pl_nom": "таки́е",
+   "pl_gen": "таки́х",
+   "pl_dat": "таки́м",
+   "pl_acc": "таки́е, таки́х",
+   "pl_ins": "таки́ми",
+   "pl_prep": "таки́х"
+  },
+  "examples": [
+   "s_5484708",
+   "s_5582332",
+   "s_7722389"
+  ]
+ },
+ {
+  "id": "w_odin",
+  "ru": "один",
+  "stress": "оди́н",
+  "translit": "odìn",
+  "en": [
+   "one",
+   "alone, on one's own, lonely",
+   "only, nothing but"
+  ],
+  "pos": "num",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_2427927",
+   "s_5276446",
+   "s_5656688"
+  ]
+ },
+ {
+  "id": "w_dlya",
+  "ru": "для",
+  "stress": "для́",
+  "translit": "dlià",
+  "en": [
+   "for (the benefit of), for (intended for)",
+   "for (the purpose of)",
+   "to (in the opinion of), for"
+  ],
+  "pos": "prep",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_507322",
+   "s_645699",
+   "s_3600246"
+  ]
+ },
+ {
+  "id": "w_pochemu",
+  "ru": "почему",
+  "stress": "почему́",
+  "translit": "pocemù",
+  "en": [
+   "Why? How come?"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_408110",
+   "s_2131353",
+   "s_5582332"
+  ]
+ },
+ {
+  "id": "w_ot",
+  "ru": "от",
+  "stress": "о́т",
+  "translit": "òt",
+  "en": [
+   "from, away from",
+   "from",
+   "from, because of, out of",
+   "from, of",
+   "from",
+   "from, starting at",
+   "for, against",
+   "of, dated"
+  ],
+  "pos": "prep",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_1996560",
+   "s_5527455",
+   "s_6061387"
+  ]
+ },
+ {
+  "id": "w_videt",
+  "ru": "видеть",
+  "stress": "ви́деть",
+  "translit": "vìdet",
+  "en": [
+   "to see"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "завидеть;увидеть",
+   "presfut_1sg": "ви́жу",
+   "presfut_2sg": "ви́дишь",
+   "presfut_3sg": "ви́дит",
+   "presfut_1pl": "ви́дим",
+   "presfut_2pl": "ви́дите",
+   "presfut_3pl": "ви́дят",
+   "past_m": "ви́дел",
+   "past_f": "ви́дела",
+   "past_n": "ви́дело",
+   "past_pl": "ви́дели",
+   "imp_sg": "ви́дь",
+   "imp_pl": "ви́дьте"
+  },
+  "examples": [
+   "s_2486139",
+   "s_2732298",
+   "s_6600690"
+  ]
+ },
+ {
+  "id": "w_vremya",
+  "ru": "время",
+  "stress": "вре́мя",
+  "translit": "vrèmia",
+  "en": [
+   "time, times, tense, weather"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "n",
+  "animate": false,
+  "forms": {
+   "nom_sg": "вре́мя",
+   "gen_sg": "вре́мени",
+   "dat_sg": "вре́мени",
+   "acc_sg": "вре́мя",
+   "ins_sg": "вре́менем",
+   "prep_sg": "вре́мени",
+   "nom_pl": "времена́",
+   "gen_pl": "времён",
+   "dat_pl": "времена́м",
+   "acc_pl": "времена́",
+   "ins_pl": "времена́ми",
+   "prep_pl": "времена́х"
+  },
+  "examples": [
+   "s_5670564",
+   "s_2061903",
+   "s_3065344"
+  ]
+ },
+ {
+  "id": "w_prosto",
+  "ru": "просто",
+  "stress": "про́сто",
+  "translit": "pròsto",
+  "en": [
+   "just, only, merely",
+   "simply, in a simple way",
+   "it is simple, it is easy"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_4907127",
+   "s_4945535",
+   "s_5642911"
+  ]
+ },
+ {
+  "id": "w_kotoryy",
+  "ru": "который",
+  "stress": "кото́рый",
+  "translit": "kotòryj",
+  "en": [
+   "which, that, what"
+  ],
+  "pos": "pron",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "m_nom": "кото́рый",
+   "m_gen": "кото́рого",
+   "m_dat": "кото́рому",
+   "m_acc": "кото́рый, кото́рого",
+   "m_ins": "кото́рым",
+   "m_prep": "кото́ром",
+   "f_nom": "кото́рая",
+   "f_gen": "кото́рой",
+   "f_dat": "кото́рой",
+   "f_acc": "кото́рую",
+   "f_ins": "кото́рой",
+   "f_prep": "кото́рой",
+   "n_nom": "кото́рое",
+   "n_gen": "кото́рого",
+   "n_dat": "кото́рому",
+   "n_acc": "кото́рое",
+   "n_ins": "кото́рым",
+   "n_prep": "кото́ром",
+   "pl_nom": "кото́рые",
+   "pl_gen": "кото́рых",
+   "pl_dat": "кото́рым",
+   "pl_acc": "кото́рые, кото́рых",
+   "pl_ins": "кото́рыми",
+   "pl_prep": "кото́рых"
+  },
+  "examples": [
+   "s_477108",
+   "s_796489",
+   "s_3253850"
+  ]
+ },
+ {
+  "id": "w_uzhe",
+  "ru": "уже",
+  "stress": "уже́",
+  "translit": "uzhè",
+  "en": [
+   "already, by this time, by now, ready"
+  ],
+  "pos": "part",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_6894523",
+   "s_2900278",
+   "s_3059032"
+  ]
+ },
+ {
+  "id": "w_idti",
+  "ru": "идти",
+  "stress": "идти́",
+  "translit": "idtì",
+  "en": [
+   "to go (on foot), to walk, to be going",
+   "to fall (of rain or snow), to be coming down",
+   "to be going on, to be under way, to take place",
+   "to suit (someone), to become (someone), to look good on",
+   "to be on (TV or radio), to be showing, to be playing"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "-",
+   "presfut_1sg": "иду́",
+   "presfut_2sg": "идёшь",
+   "presfut_3sg": "идёт",
+   "presfut_1pl": "идём",
+   "presfut_2pl": "идёте",
+   "presfut_3pl": "иду́т",
+   "past_m": "шёл",
+   "past_f": "шла́",
+   "past_n": "шло́",
+   "past_pl": "шли́",
+   "imp_sg": "иди́",
+   "imp_pl": "иди́те"
+  },
+  "examples": [
+   "s_337608",
+   "s_643966",
+   "s_1419029"
+  ]
+ },
+ {
+  "id": "w_god",
+  "ru": "год",
+  "stress": "го́д",
+  "translit": "gòd",
+  "en": [
+   "year"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "го́д",
+   "gen_sg": "го́да",
+   "dat_sg": "го́ду",
+   "acc_sg": "го́д",
+   "ins_sg": "го́дом",
+   "prep_sg": "году́",
+   "nom_pl": "лета́",
+   "gen_pl": "ле́т",
+   "dat_pl": "лета́м",
+   "acc_pl": "лета́",
+   "ins_pl": "лета́ми",
+   "prep_pl": "лета́х"
+  },
+  "examples": [
+   "s_1937073",
+   "s_3270157",
+   "s_3478891"
+  ]
+ },
+ {
+  "id": "w_drug",
+  "ru": "друг",
+  "stress": "дру́г",
+  "translit": "drùg",
+  "en": [
+   "friend"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": true,
+  "forms": {
+   "nom_sg": "друг",
+   "gen_sg": "дру́га",
+   "dat_sg": "дру́гу",
+   "acc_sg": "дру́га",
+   "ins_sg": "дру́гом",
+   "prep_sg": "дру́ге",
+   "nom_pl": "друзья́",
+   "gen_pl": "друзе́й",
+   "dat_pl": "друзья́м",
+   "acc_pl": "друзе́й",
+   "ins_pl": "друзья́ми",
+   "prep_pl": "друзья́х"
+  },
+  "examples": [
+   "s_5505562",
+   "s_6003007",
+   "s_10614591"
+  ]
+ },
+ {
+  "id": "w_den",
+  "ru": "день",
+  "stress": "де́нь",
+  "translit": "dèn",
+  "en": [
+   "day",
+   "daytime, daylight hours",
+   "afternoon, early evening"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "день",
+   "gen_sg": "дня",
+   "dat_sg": "дню",
+   "acc_sg": "день",
+   "ins_sg": "днём",
+   "prep_sg": "дне",
+   "nom_pl": "дни",
+   "gen_pl": "дне́й",
+   "dat_pl": "дня́м",
+   "acc_pl": "дни",
+   "ins_pl": "дня́ми",
+   "prep_pl": "днях"
+  },
+  "examples": [
+   "s_2762399",
+   "s_5513595",
+   "s_5574374"
+  ]
+ },
+ {
+  "id": "w_kakoy",
+  "ru": "какой",
+  "stress": "како́й",
+  "translit": "kakòj",
+  "en": [
+   "which, what, what kind of, when"
+  ],
+  "pos": "pron",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "m_nom": "како́й",
+   "m_gen": "како́го",
+   "m_dat": "како́му",
+   "m_acc": "како́й, како́го",
+   "m_ins": "каки́м",
+   "m_prep": "како́м",
+   "f_nom": "кака́я",
+   "f_gen": "како́й",
+   "f_dat": "како́й",
+   "f_acc": "каку́ю",
+   "f_ins": "како́й, како́ю",
+   "f_prep": "како́й",
+   "n_nom": "како́е",
+   "n_gen": "како́го",
+   "n_dat": "како́му",
+   "n_acc": "како́е",
+   "n_ins": "каки́м",
+   "n_prep": "како́м",
+   "pl_nom": "каки́е",
+   "pl_gen": "каки́х",
+   "pl_dat": "каки́м",
+   "pl_acc": "каки́е, каки́х",
+   "pl_ins": "каки́ми",
+   "pl_prep": "каки́х"
+  },
+  "examples": [
+   "s_380005",
+   "s_600939",
+   "s_2782369"
+  ]
+ },
+ {
+  "id": "w_seychas",
+  "ru": "сейчас",
+  "stress": "сейча́с",
+  "translit": "sejciàs",
+  "en": [
+   "now, right now, at the moment",
+   "right away, immediately, at once, in a moment",
+   "just now, a moment ago"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_2782369",
+   "s_2804015",
+   "s_5574374"
+  ]
+ },
+ {
+  "id": "w_nado",
+  "ru": "надо",
+  "stress": "на́до",
+  "translit": "nàdo",
+  "en": [
+   "must, have to, it is necessary, need to",
+   "to need, to require",
+   "over, above"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_4082759",
+   "s_4899593",
+   "s_4933672"
+  ]
+ },
+ {
+  "id": "w_nichto",
+  "ru": "ничто",
+  "stress": "ничто́",
+  "translit": "nictò",
+  "en": [
+   "nothing, nought"
+  ],
+  "pos": "pron",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_13136550"
+  ]
+ },
+ {
+  "id": "w_do",
+  "ru": "до",
+  "stress": "до́",
+  "translit": "dò",
+  "en": [
+   "to, as far as, up to",
+   "to, up to",
+   "before, prior to",
+   "until, till",
+   "up to, as much as, about"
+  ],
+  "pos": "prep",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_1779342",
+   "s_2411502",
+   "s_3219784"
+  ]
+ },
+ {
+  "id": "w_nayti",
+  "ru": "найти",
+  "stress": "найти́",
+  "translit": "najtì",
+  "en": [
+   "to find"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "perfective",
+   "aspect_partner": "находить",
+   "presfut_1sg": "найду́",
+   "presfut_2sg": "найдёшь",
+   "presfut_3sg": "найдёт",
+   "presfut_1pl": "найдём",
+   "presfut_2pl": "найдёте",
+   "presfut_3pl": "найду́т",
+   "past_m": "нашёл",
+   "past_f": "нашла́",
+   "past_n": "нашло́",
+   "past_pl": "нашли́",
+   "imp_sg": "найди́",
+   "imp_pl": "найди́те"
+  },
+  "examples": [
+   "s_2724200",
+   "s_2724201",
+   "s_3105205"
+  ]
+ },
+ {
+  "id": "w_raz",
+  "ru": "раз",
+  "stress": "ра́з",
+  "translit": "ràz",
+  "en": [
+   "time, occasion",
+   "one",
+   "once",
+   "if, since"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "раз",
+   "gen_sg": "ра́за, ра́зу",
+   "dat_sg": "ра́зу",
+   "acc_sg": "раз",
+   "ins_sg": "ра́зом",
+   "prep_sg": "ра́зе",
+   "nom_pl": "разы́",
+   "gen_pl": "раз",
+   "dat_pl": "раза́м",
+   "acc_pl": "разы́",
+   "ins_pl": "раза́ми",
+   "prep_pl": "раза́х"
+  },
+  "examples": [
+   "s_5986779",
+   "s_6841171",
+   "s_7015191"
+  ]
+ },
+ {
+  "id": "w_nikogda",
+  "ru": "никогда",
+  "stress": "никогда́",
+  "translit": "nikogdà",
+  "en": [
+   "never, ever (in negative contexts), not once",
+   "never, not on any account, no way"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5507222",
+   "s_11189473",
+   "s_4693589"
+  ]
+ },
+ {
+  "id": "w_rebyonok",
+  "ru": "ребёнок",
+  "stress": "ребёнок",
+  "translit": "rebiònok",
+  "en": [
+   "child, kid"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": true,
+  "forms": {
+   "nom_sg": "ребёнок",
+   "gen_sg": "ребёнка",
+   "dat_sg": "ребёнку",
+   "acc_sg": "ребёнка",
+   "ins_sg": "ребёнком",
+   "prep_sg": "ребёнке",
+   "nom_pl": "де́ти",
+   "gen_pl": "дете́й",
+   "dat_pl": "де́тям",
+   "acc_pl": "дете́й",
+   "ins_pl": "детьми́",
+   "prep_pl": "де́тях"
+  },
+  "examples": [
+   "s_2580356",
+   "s_2762492",
+   "s_6109945"
+  ]
+ },
+ {
+  "id": "w_vot",
+  "ru": "вот",
+  "stress": "во́т",
+  "translit": "vòt",
+  "en": [
+   "here is, here are, this is, there you go",
+   "so, well"
+  ],
+  "pos": "part",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_3452565",
+   "s_5893729",
+   "s_5893730"
+  ]
+ },
+ {
+  "id": "w_nravitsya",
+  "ru": "нравиться",
+  "stress": "нра́виться",
+  "translit": "nràvitsia",
+  "en": [
+   "to like, to enjoy, to please",
+   "to like (a person), to fancy"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "понравиться",
+   "presfut_1sg": "нра́влюсь",
+   "presfut_2sg": "нра́вишься",
+   "presfut_3sg": "нра́вится",
+   "presfut_1pl": "нра́вимся",
+   "presfut_2pl": "нра́витесь",
+   "presfut_3pl": "нра́вятся",
+   "past_m": "нра́вился",
+   "past_f": "нра́вилась",
+   "past_n": "нра́вилось",
+   "past_pl": "нра́вились",
+   "imp_sg": "нра́вься",
+   "imp_pl": "нра́вьтесь"
+  },
+  "examples": [
+   "s_4398366",
+   "s_5422784",
+   "s_5661169"
+  ]
+ },
+ {
+  "id": "w_rabotat",
+  "ru": "работать",
+  "stress": "рабо́тать",
+  "translit": "rabòtat",
+  "en": [
+   "to work, to be employed",
+   "to work, to operate, to function, to run",
+   "to be open"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "поработать;сработать",
+   "presfut_1sg": "рабо́таю",
+   "presfut_2sg": "рабо́таешь",
+   "presfut_3sg": "рабо́тает",
+   "presfut_1pl": "рабо́таем",
+   "presfut_2pl": "рабо́таете",
+   "presfut_3pl": "рабо́тают",
+   "past_m": "рабо́тал",
+   "past_f": "рабо́тала",
+   "past_n": "рабо́тало",
+   "past_pl": "рабо́тали",
+   "imp_sg": "рабо́тай",
+   "imp_pl": "рабо́тайте"
+  },
+  "examples": [
+   "s_882179",
+   "s_1404206",
+   "s_6045617"
+  ]
+ },
+ {
+  "id": "w_nikto",
+  "ru": "никто",
+  "stress": "никто́",
+  "translit": "niktò",
+  "en": [
+   "nobody, no one"
+  ],
+  "pos": "pron",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5563762",
+   "s_5585283",
+   "s_692447"
+  ]
+ },
+ {
+  "id": "w_mnogo",
+  "ru": "много",
+  "stress": "мно́го",
+  "translit": "mnògo",
+  "en": [
+   "much, a lot of, plenty of",
+   "many, a lot of, plenty of",
+   "a lot, much",
+   "too much"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_2095955",
+   "s_2649319",
+   "s_794678"
+  ]
+ },
+ {
+  "id": "w_khoroshiy",
+  "ru": "хороший",
+  "stress": "хоро́ший",
+  "translit": "khoròscij",
+  "en": [
+   "good, nice"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "лу́чше",
+   "sup": "лу́чший;наилу́чший",
+   "short_m": "хоро́ш",
+   "short_f": "хороша́",
+   "short_n": "хорошо́",
+   "short_pl": "хороши́",
+   "m_nom": "хоро́ший",
+   "m_gen": "хоро́шего",
+   "m_dat": "хоро́шему",
+   "m_acc": "хоро́шего, хоро́ший",
+   "m_ins": "хоро́шим",
+   "m_prep": "хоро́шем",
+   "f_nom": "хоро́шая",
+   "f_gen": "хоро́шей",
+   "f_dat": "хоро́шей",
+   "f_acc": "хоро́шую",
+   "f_ins": "хоро́шей, хоро́шею",
+   "f_prep": "хоро́шей",
+   "n_nom": "хоро́шее",
+   "n_gen": "хоро́шего",
+   "n_dat": "хоро́шему",
+   "n_acc": "хоро́шее",
+   "n_ins": "хоро́шим",
+   "n_prep": "хоро́шем",
+   "pl_nom": "хоро́шие",
+   "pl_gen": "хоро́ших",
+   "pl_dat": "хоро́шим",
+   "pl_acc": "хоро́ших, хоро́шие",
+   "pl_ins": "хоро́шими",
+   "pl_prep": "хоро́ших"
+  },
+  "examples": [
+   "s_338490",
+   "s_1121200",
+   "s_1121202"
+  ]
+ },
+ {
+  "id": "w_chem",
+  "ru": "чем",
+  "stress": "че́м",
+  "translit": "cèm",
+  "en": [
+   "than",
+   "instead of, rather than"
+  ],
+  "pos": "conj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_05565",
+   "s_5986602",
+   "s_1978141"
+  ]
+ },
+ {
+  "id": "w_dengi",
+  "ru": "деньги",
+  "stress": "де́ньги",
+  "translit": "dènghi",
+  "en": [
+   "money, funds, cash"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "animate": false,
+  "forms": {
+   "nom_pl": "де́ньги",
+   "gen_pl": "де́нег",
+   "dat_pl": "деньга́м",
+   "acc_pl": "де́ньги",
+   "ins_pl": "деньга́ми",
+   "prep_pl": "деньга́х"
+  },
+  "examples": [
+   "s_3264045",
+   "s_6375174",
+   "s_13136550"
+  ]
+ },
+ {
+  "id": "w_vsegda",
+  "ru": "всегда",
+  "stress": "всегда́",
+  "translit": "vsegdà",
+  "en": [
+   "always"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5276446",
+   "s_2475508",
+   "s_2818982"
+  ]
+ },
+ {
+  "id": "w_chto_to",
+  "ru": "что-то",
+  "stress": "что́-то",
+  "translit": "ctò-to",
+  "en": [
+   "something"
+  ],
+  "pos": "pron",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_4138957",
+   "s_2681515",
+   "s_3276112"
+  ]
+ },
+ {
+  "id": "w_luchshe",
+  "ru": "лучше",
+  "stress": "лу́чше",
+  "translit": "lùcsce",
+  "en": [
+   "better, it is better"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_3560868",
+   "s_5545900",
+   "s_10928609"
+  ]
+ },
+ {
+  "id": "w_otets",
+  "ru": "отец",
+  "stress": "оте́ц",
+  "translit": "otèz",
+  "en": [
+   "father"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": true,
+  "forms": {
+   "nom_sg": "оте́ц",
+   "gen_sg": "отца́",
+   "dat_sg": "отцу́",
+   "acc_sg": "отца́",
+   "ins_sg": "отцо́м",
+   "prep_sg": "отце́",
+   "nom_pl": "отцы́",
+   "gen_pl": "отцо́в",
+   "dat_pl": "отца́м",
+   "acc_pl": "отцо́в",
+   "ins_pl": "отца́ми",
+   "prep_pl": "отца́х"
+  },
+  "examples": [
+   "s_2730378",
+   "s_2762399",
+   "s_5691121"
+  ]
+ },
+ {
+  "id": "w_teper",
+  "ru": "теперь",
+  "stress": "тепе́рь",
+  "translit": "tepèr",
+  "en": [
+   "now, nowadays"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5545900",
+   "s_899450",
+   "s_1438642"
+  ]
+ },
+ {
+  "id": "w_mashina",
+  "ru": "машина",
+  "stress": "маши́на",
+  "translit": "mascìna",
+  "en": [
+   "car, automobile",
+   "machine, machinery, engine, mechanism"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "маши́на",
+   "gen_sg": "маши́ны",
+   "dat_sg": "маши́не",
+   "acc_sg": "маши́ну",
+   "ins_sg": "маши́ной, маши́ною",
+   "prep_sg": "маши́не",
+   "nom_pl": "маши́ны",
+   "gen_pl": "маши́н",
+   "dat_pl": "маши́нам",
+   "acc_pl": "маши́ны",
+   "ins_pl": "маши́нами",
+   "prep_pl": "маши́нах"
+  },
+  "examples": [
+   "s_895391",
+   "s_2412556",
+   "s_5573912"
+  ]
+ },
+ {
+  "id": "w_dazhe",
+  "ru": "даже",
+  "stress": "да́же",
+  "translit": "dàzhe",
+  "en": [
+   "even"
+  ],
+  "pos": "part",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_725367",
+   "s_738823",
+   "s_1833166"
+  ]
+ },
+ {
+  "id": "w_smotret",
+  "ru": "смотреть",
+  "stress": "смотре́ть",
+  "translit": "smotrèt",
+  "en": [
+   "to look, to watch"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "посмотреть",
+   "presfut_1sg": "смотрю́",
+   "presfut_2sg": "смо́тришь",
+   "presfut_3sg": "смо́трит",
+   "presfut_1pl": "смо́трим",
+   "presfut_2pl": "смо́трите",
+   "presfut_3pl": "смо́трят",
+   "past_m": "смотре́л",
+   "past_f": "смотре́ла",
+   "past_n": "смотре́ло",
+   "past_pl": "смотре́ли",
+   "imp_sg": "смотри́",
+   "imp_pl": "смотри́те"
+  },
+  "examples": [
+   "s_6604112",
+   "s_6875715",
+   "s_498741"
+  ]
+ },
+ {
+  "id": "w_novyy",
+  "ru": "новый",
+  "stress": "но́вый",
+  "translit": "nòvyj",
+  "en": [
+   "new"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "нове́е",
+   "sup": "нове́йший",
+   "short_m": "нов",
+   "short_f": "нова́",
+   "short_n": "но́во",
+   "short_pl": "но́вы / новы́",
+   "m_nom": "но́вый",
+   "m_gen": "но́вого",
+   "m_dat": "но́вому",
+   "m_acc": "но́вый, но́вого",
+   "m_ins": "но́вым",
+   "m_prep": "но́вом",
+   "f_nom": "но́вая",
+   "f_gen": "но́вой",
+   "f_dat": "но́вой",
+   "f_acc": "но́вую",
+   "f_ins": "но́вой, но́вою",
+   "f_prep": "но́вой",
+   "n_nom": "но́вое",
+   "n_gen": "но́вого",
+   "n_dat": "но́вому",
+   "n_acc": "но́вое, но́вого",
+   "n_ins": "но́вым",
+   "n_prep": "но́вом",
+   "pl_nom": "но́вые",
+   "pl_gen": "но́вых",
+   "pl_dat": "но́вым",
+   "pl_acc": "но́вые, но́вых",
+   "pl_ins": "но́выми",
+   "pl_prep": "но́вых"
+  },
+  "examples": [
+   "s_2367079",
+   "s_3338703",
+   "s_2815420"
+  ]
+ },
+ {
+  "id": "w_mesto",
+  "ru": "место",
+  "stress": "ме́сто",
+  "translit": "mèsto",
+  "en": [
+   "place, spot, location, locality",
+   "seat",
+   "room, space",
+   "job, position, post",
+   "site, scene",
+   "region, area, parts",
+   "passage",
+   "piece of luggage"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "n",
+  "animate": false,
+  "forms": {
+   "nom_sg": "ме́сто",
+   "gen_sg": "ме́ста",
+   "dat_sg": "ме́сту",
+   "acc_sg": "ме́сто",
+   "ins_sg": "ме́стом",
+   "prep_sg": "ме́сте",
+   "nom_pl": "места́",
+   "gen_pl": "ме́ст",
+   "dat_pl": "места́м",
+   "acc_pl": "места́",
+   "ins_pl": "места́ми",
+   "prep_pl": "места́х"
+  },
+  "examples": [
+   "s_1774619",
+   "s_4770941",
+   "s_6218144"
+  ]
+ },
+ {
+  "id": "w_poka",
+  "ru": "пока",
+  "stress": "пока́",
+  "translit": "pokà",
+  "en": [
+   "while, as long as",
+   "for now, so far, for the time being, in the meantime",
+   "until",
+   "bye, see you"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_1580521",
+   "s_6901336",
+   "s_2812930"
+  ]
+ },
+ {
+  "id": "w_slishkom",
+  "ru": "слишком",
+  "stress": "сли́шком",
+  "translit": "slìsckom",
+  "en": [
+   "too (much), too (more than enough)"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_1067599",
+   "s_1537497",
+   "s_11575676"
+  ]
+ },
+ {
+  "id": "w_zhdat",
+  "ru": "ждать",
+  "stress": "жда́ть",
+  "translit": "zhdàt",
+  "en": [
+   "to wait, to expect"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "подождать",
+   "presfut_1sg": "жду́",
+   "presfut_2sg": "ждёшь",
+   "presfut_3sg": "ждёт",
+   "presfut_1pl": "ждём",
+   "presfut_2pl": "ждёте",
+   "presfut_3pl": "жду́т",
+   "past_m": "жда́л",
+   "past_f": "ждала́",
+   "past_n": "жда́ло",
+   "past_pl": "жда́ли",
+   "imp_sg": "жди́",
+   "imp_pl": "жди́те"
+  },
+  "examples": [
+   "s_3030030",
+   "s_3128332",
+   "s_3321586"
+  ]
+ },
+ {
+  "id": "w_kazhdyy",
+  "ru": "каждый",
+  "stress": "ка́ждый",
+  "translit": "kàzhdyj",
+  "en": [
+   "each, every, everyone"
+  ],
+  "pos": "pron",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "m_nom": "ка́ждый",
+   "m_gen": "ка́ждого",
+   "m_dat": "ка́ждому",
+   "m_acc": "ка́ждого, ка́ждый",
+   "m_ins": "ка́ждым",
+   "m_prep": "ка́ждом",
+   "f_nom": "ка́ждая",
+   "f_gen": "ка́ждой",
+   "f_dat": "ка́ждой",
+   "f_acc": "ка́ждую",
+   "f_ins": "ка́ждой, ка́ждою",
+   "f_prep": "ка́ждой",
+   "n_nom": "ка́ждое",
+   "n_gen": "ка́ждого",
+   "n_dat": "ка́ждому",
+   "n_acc": "ка́ждое",
+   "n_ins": "ка́ждым",
+   "n_prep": "ка́ждом",
+   "pl_nom": "ка́ждые",
+   "pl_gen": "ка́ждых",
+   "pl_dat": "ка́ждым",
+   "pl_acc": "ка́ждых, ка́ждые",
+   "pl_ins": "ка́ждыми",
+   "pl_prep": "ка́ждых"
+  },
+  "examples": [
+   "s_11575898",
+   "s_2077291",
+   "s_3575213"
+  ]
+ },
+ {
+  "id": "w_tri",
+  "ru": "три",
+  "stress": "три́",
+  "translit": "trì",
+  "en": [
+   "three, 3"
+  ],
+  "pos": "num",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5513595",
+   "s_5389466",
+   "s_5570007"
+  ]
+ },
+ {
+  "id": "w_ruka",
+  "ru": "рука",
+  "stress": "рука́",
+  "translit": "rukà",
+  "en": [
+   "hand",
+   "arm"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "рука́",
+   "gen_sg": "руки́",
+   "dat_sg": "руке́",
+   "acc_sg": "ру́ку",
+   "ins_sg": "руко́й",
+   "prep_sg": "руке́",
+   "nom_pl": "ру́ки",
+   "gen_pl": "ру́к",
+   "dat_pl": "рука́м",
+   "acc_pl": "ру́ки",
+   "ins_pl": "рука́ми",
+   "prep_pl": "рука́х"
+  },
+  "examples": [
+   "s_1350880",
+   "s_4416677",
+   "s_5533679"
+  ]
+ },
+ {
+  "id": "w_problema",
+  "ru": "проблема",
+  "stress": "пробле́ма",
+  "translit": "problèma",
+  "en": [
+   "Problem"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "пробле́ма",
+   "gen_sg": "пробле́мы",
+   "dat_sg": "пробле́ме",
+   "acc_sg": "пробле́му",
+   "ins_sg": "пробле́мой, пробле́мою",
+   "prep_sg": "пробле́ме",
+   "nom_pl": "пробле́мы",
+   "gen_pl": "пробле́м",
+   "dat_pl": "пробле́мам",
+   "acc_pl": "пробле́мы",
+   "ins_pl": "пробле́мами",
+   "prep_pl": "пробле́мах"
+  },
+  "examples": [
+   "s_05565",
+   "s_469113",
+   "s_2493426"
+  ]
+ },
+ {
+  "id": "w_vopros",
+  "ru": "вопрос",
+  "stress": "вопро́с",
+  "translit": "vopròs",
+  "en": [
+   "question",
+   "matter, issue, problem"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "вопро́с",
+   "gen_sg": "вопро́са",
+   "dat_sg": "вопро́су",
+   "acc_sg": "вопро́с",
+   "ins_sg": "вопро́сом",
+   "prep_sg": "вопро́се",
+   "nom_pl": "вопро́сы",
+   "gen_pl": "вопро́сов",
+   "dat_pl": "вопро́сам",
+   "acc_pl": "вопро́сы",
+   "ins_pl": "вопро́сами",
+   "prep_pl": "вопро́сах"
+  },
+  "examples": [
+   "s_338490",
+   "s_705539",
+   "s_5551899"
+  ]
+ },
+ {
+  "id": "w_pervyy",
+  "ru": "первый",
+  "stress": "пе́рвый",
+  "translit": "pèrvyj",
+  "en": [
+   "first, front, former, earliest"
+  ],
+  "pos": "num",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "m_nom": "пе́рвый",
+   "m_gen": "пе́рвого",
+   "m_dat": "пе́рвому",
+   "m_acc": "пе́рвый, пе́рвого",
+   "m_ins": "пе́рвым",
+   "m_prep": "пе́рвом",
+   "f_nom": "пе́рвая",
+   "f_gen": "пе́рвой",
+   "f_dat": "пе́рвой",
+   "f_acc": "пе́рвую",
+   "f_ins": "пе́рвой, пе́рвою",
+   "f_prep": "пе́рвой",
+   "n_nom": "пе́рвое",
+   "n_gen": "пе́рвого",
+   "n_dat": "пе́рвому",
+   "n_acc": "пе́рвое",
+   "n_ins": "пе́рвым",
+   "n_prep": "пе́рвом",
+   "pl_nom": "пе́рвые",
+   "pl_gen": "пе́рвых",
+   "pl_dat": "пе́рвым",
+   "pl_acc": "пе́рвые, пе́рвых",
+   "pl_ins": "пе́рвыми",
+   "pl_prep": "пе́рвых"
+  },
+  "examples": [
+   "s_2606166",
+   "s_3388497",
+   "s_3388498"
+  ]
+ },
+ {
+  "id": "w_potomu_chto",
+  "ru": "потому что",
+  "stress": "потому́ что́",
+  "translit": "potomù ctò",
+  "en": [
+   "because"
+  ],
+  "pos": "conj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5658069",
+   "s_4673175",
+   "s_5982170"
+  ]
+ },
+ {
+  "id": "w_slovo",
+  "ru": "слово",
+  "stress": "сло́во",
+  "translit": "slòvo",
+  "en": [
+   "word",
+   "speech, address",
+   "promise, word (of honour)"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "n",
+  "animate": false,
+  "forms": {
+   "nom_sg": "сло́во",
+   "gen_sg": "сло́ва",
+   "dat_sg": "сло́ву",
+   "acc_sg": "сло́во",
+   "ins_sg": "сло́вом",
+   "prep_sg": "сло́ве",
+   "nom_pl": "слова́",
+   "gen_pl": "сло́в",
+   "dat_pl": "слова́м",
+   "acc_pl": "слова́",
+   "ins_pl": "слова́ми",
+   "prep_pl": "слова́х"
+  },
+  "examples": [
+   "s_05613",
+   "s_507103",
+   "s_2581971"
+  ]
+ },
+ {
+  "id": "w_posle",
+  "ru": "после",
+  "stress": "по́сле",
+  "translit": "pòsle",
+  "en": [
+   "after",
+   "afterwards, later",
+   "after (a clause)"
+  ],
+  "pos": "prep",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_1306410",
+   "s_6960489",
+   "s_12804963"
+  ]
+ },
+ {
+  "id": "w_chas",
+  "ru": "час",
+  "stress": "ча́с",
+  "translit": "ciàs",
+  "en": [
+   "hour",
+   "o'clock, time (of day)",
+   "hour (moment), time"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "ча́с",
+   "gen_sg": "ча́са, часа́",
+   "dat_sg": "ча́су",
+   "acc_sg": "ча́с",
+   "ins_sg": "ча́сом",
+   "prep_sg": "часу́, ча́се",
+   "nom_pl": "часы́",
+   "gen_pl": "часо́в",
+   "dat_pl": "часа́м",
+   "acc_pl": "часы́",
+   "ins_pl": "часа́ми",
+   "prep_pl": "часа́х"
+  },
+  "examples": [
+   "s_477108",
+   "s_796489",
+   "s_1336728"
+  ]
+ },
+ {
+  "id": "w_mama",
+  "ru": "мама",
+  "stress": "ма́ма",
+  "translit": "màma",
+  "en": [
+   "mom, mama, mommy, mummy"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": true,
+  "forms": {
+   "nom_sg": "ма́ма",
+   "gen_sg": "ма́мы",
+   "dat_sg": "ма́ме",
+   "acc_sg": "ма́му",
+   "ins_sg": "ма́мой, ма́мою",
+   "prep_sg": "ма́ме",
+   "nom_pl": "ма́мы",
+   "gen_pl": "ма́м",
+   "dat_pl": "ма́мам",
+   "acc_pl": "ма́м",
+   "ins_pl": "ма́мами",
+   "prep_pl": "ма́мах"
+  },
+  "examples": [
+   "s_5541944",
+   "s_475211",
+   "s_2976105"
+  ]
+ },
+ {
+  "id": "w_posledniy",
+  "ru": "последний",
+  "stress": "после́дний",
+  "translit": "poslèdnij",
+  "en": [
+   "last, final",
+   "latest, most recent, newest",
+   "final, ultimate, definitive",
+   "latter"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "m_nom": "после́дний",
+   "m_gen": "после́днего",
+   "m_dat": "после́днему",
+   "m_acc": "после́дний, после́днего",
+   "m_ins": "после́дним",
+   "m_prep": "после́днем",
+   "f_nom": "после́дняя",
+   "f_gen": "после́дней",
+   "f_dat": "после́дней",
+   "f_acc": "после́днюю",
+   "f_ins": "после́дней, (после́днею)",
+   "f_prep": "после́дней",
+   "n_nom": "после́днее",
+   "n_gen": "после́днего",
+   "n_dat": "после́днему",
+   "n_acc": "после́днее",
+   "n_ins": "после́дним",
+   "n_prep": "после́днем",
+   "pl_nom": "после́дние",
+   "pl_gen": "после́дних",
+   "pl_dat": "после́дним",
+   "pl_acc": "после́дние, после́дних",
+   "pl_ins": "после́дними",
+   "pl_prep": "после́дних"
+  },
+  "examples": [
+   "s_5481313",
+   "s_3013914",
+   "s_5507242"
+  ]
+ },
+ {
+  "id": "w_zhenshchina",
+  "ru": "женщина",
+  "stress": "же́нщина",
+  "translit": "zhènsscina",
+  "en": [
+   "woman, women, womanfolk, womankind"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": true,
+  "forms": {
+   "nom_sg": "же́нщина",
+   "gen_sg": "же́нщины",
+   "dat_sg": "же́нщине",
+   "acc_sg": "же́нщину",
+   "ins_sg": "же́нщиной, же́нщиною",
+   "prep_sg": "же́нщине",
+   "nom_pl": "же́нщины",
+   "gen_pl": "же́нщин",
+   "dat_pl": "же́нщинам",
+   "acc_pl": "же́нщин",
+   "ins_pl": "же́нщинами",
+   "prep_pl": "же́нщинах"
+  },
+  "examples": [
+   "s_740238",
+   "s_2205064",
+   "s_2343994"
+  ]
+ },
+ {
+  "id": "w_nachat",
+  "ru": "начать",
+  "stress": "нача́ть",
+  "translit": "naciàt",
+  "en": [
+   "to begin, to start, to commence"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "perfective",
+   "aspect_partner": "начинать",
+   "presfut_1sg": "начну́",
+   "presfut_2sg": "начнёшь",
+   "presfut_3sg": "начнёт",
+   "presfut_1pl": "начнём",
+   "presfut_2pl": "начнёте",
+   "presfut_3pl": "начну́т",
+   "past_m": "на́чал",
+   "past_f": "начала́",
+   "past_n": "на́чало",
+   "past_pl": "на́чали",
+   "imp_sg": "начни́",
+   "imp_pl": "начни́те"
+  },
+  "examples": [
+   "s_2686727",
+   "s_5817581",
+   "s_2474721"
+  ]
+ },
+ {
+  "id": "w_zavtra",
+  "ru": "завтра",
+  "stress": "за́втра",
+  "translit": "zàvtra",
+  "en": [
+   "tomorrow"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_3628708",
+   "s_4102540",
+   "s_5500022"
+  ]
+ },
+ {
+  "id": "w_spat",
+  "ru": "спать",
+  "stress": "спа́ть",
+  "translit": "spàt",
+  "en": [
+   "to sleep"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "presfut_1sg": "сплю́",
+   "presfut_2sg": "спи́шь",
+   "presfut_3sg": "спи́т",
+   "presfut_1pl": "спи́м",
+   "presfut_2pl": "спи́те",
+   "presfut_3pl": "спя́т",
+   "past_m": "спа́л",
+   "past_f": "спала́",
+   "past_n": "спа́ло",
+   "past_pl": "спа́ли",
+   "imp_sg": "спи́",
+   "imp_pl": "спи́те"
+  },
+  "examples": [
+   "s_541337",
+   "s_1336728",
+   "s_2558912"
+  ]
+ },
+ {
+  "id": "w_kto_to",
+  "ru": "кто-то",
+  "stress": "кто́-то",
+  "translit": "ktò-to",
+  "en": [
+   "someone, somebody"
+  ],
+  "pos": "pron",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_13236361",
+   "s_2430068",
+   "s_2501529"
+  ]
+ },
+ {
+  "id": "w_noch",
+  "ru": "ночь",
+  "stress": "но́чь",
+  "translit": "nòc",
+  "en": [
+   "night"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "но́чь",
+   "gen_sg": "но́чи",
+   "dat_sg": "но́чи",
+   "acc_sg": "но́чь",
+   "ins_sg": "но́чью",
+   "prep_sg": "но́чи",
+   "nom_pl": "но́чи",
+   "gen_pl": "ноче́й",
+   "dat_pl": "ноча́м",
+   "acc_pl": "но́чи",
+   "ins_pl": "ноча́ми",
+   "prep_pl": "ноча́х"
+  },
+  "examples": [
+   "s_6774291",
+   "s_2968486",
+   "s_3026255"
+  ]
+ },
+ {
+  "id": "w_brat",
+  "ru": "брат",
+  "stress": "бра́т",
+  "translit": "bràt",
+  "en": [
+   "brother"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": true,
+  "forms": {
+   "nom_sg": "брат",
+   "gen_sg": "бра́та",
+   "dat_sg": "бра́ту",
+   "acc_sg": "бра́та",
+   "ins_sg": "бра́том",
+   "prep_sg": "бра́те",
+   "nom_pl": "бра́тья",
+   "gen_pl": "бра́тьев",
+   "dat_pl": "бра́тьям",
+   "acc_pl": "бра́тьев",
+   "ins_pl": "бра́тьями",
+   "prep_pl": "бра́тьях"
+  },
+  "examples": [
+   "s_3054630",
+   "s_3224204",
+   "s_1947750"
+  ]
+ },
+ {
+  "id": "w_dva",
+  "ru": "два",
+  "stress": "два́",
+  "translit": "dvà",
+  "en": [
+   "two, 2"
+  ],
+  "pos": "num",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_3124974",
+   "s_5586120",
+   "s_5704994"
+  ]
+ },
+ {
+  "id": "w_komnata",
+  "ru": "комната",
+  "stress": "ко́мната",
+  "translit": "kòmnata",
+  "en": [
+   "room"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "ко́мната",
+   "gen_sg": "ко́мнаты",
+   "dat_sg": "ко́мнате",
+   "acc_sg": "ко́мнату",
+   "ins_sg": "ко́мнатой, ко́мнатою",
+   "prep_sg": "ко́мнате",
+   "nom_pl": "ко́мнаты",
+   "gen_pl": "ко́мнат",
+   "dat_pl": "ко́мнатам",
+   "acc_pl": "ко́мнаты",
+   "ins_pl": "ко́мнатами",
+   "prep_pl": "ко́мнатах"
+  },
+  "examples": [
+   "s_5593891",
+   "s_6165623",
+   "s_351222"
+  ]
+ },
+ {
+  "id": "w_pomnit",
+  "ru": "помнить",
+  "stress": "по́мнить",
+  "translit": "pòmnit",
+  "en": [
+   "to remember"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "запомнить",
+   "presfut_1sg": "по́мню",
+   "presfut_2sg": "по́мнишь",
+   "presfut_3sg": "по́мнит",
+   "presfut_1pl": "по́мним",
+   "presfut_2pl": "по́мните",
+   "presfut_3pl": "по́мнят",
+   "past_m": "по́мнил",
+   "past_f": "по́мнила",
+   "past_n": "по́мнило",
+   "past_pl": "по́мнили",
+   "imp_sg": "по́мни",
+   "imp_pl": "по́мните"
+  },
+  "examples": [
+   "s_466686",
+   "s_2596892",
+   "s_5965534"
+  ]
+ },
+ {
+  "id": "w_vyyti",
+  "ru": "выйти",
+  "stress": "вы́йти",
+  "translit": "vỳjti",
+  "en": [
+   "to go out, to come out, to leave, to get off",
+   "to be published, to be issued, to come out",
+   "to turn out, to come off",
+   "to marry, to get married",
+   "to run out"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "perfective",
+   "aspect_partner": "выходить",
+   "presfut_1sg": "вы́йду",
+   "presfut_2sg": "вы́йдешь",
+   "presfut_3sg": "вы́йдет",
+   "presfut_1pl": "вы́йдем",
+   "presfut_2pl": "вы́йдете",
+   "presfut_3pl": "вы́йдут",
+   "past_m": "вы́шел",
+   "past_f": "вы́шла",
+   "past_n": "вы́шло",
+   "past_pl": "вы́шли",
+   "imp_sg": "вы́йди",
+   "imp_pl": "вы́йдите"
+  },
+  "examples": [
+   "s_659925",
+   "s_1482487",
+   "s_4225757"
+  ]
+ },
+ {
+  "id": "w_nedelya",
+  "ru": "неделя",
+  "stress": "неде́ля",
+  "translit": "nedèlia",
+  "en": [
+   "week"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "неде́ля",
+   "gen_sg": "неде́ли",
+   "dat_sg": "неде́ле",
+   "acc_sg": "неде́лю",
+   "ins_sg": "неде́лей, неде́лею",
+   "prep_sg": "неде́ле",
+   "nom_pl": "неде́ли",
+   "gen_pl": "неде́ль",
+   "dat_pl": "неде́лям",
+   "acc_pl": "неде́ли",
+   "ins_pl": "неде́лями",
+   "prep_pl": "неде́лях"
+  },
+  "examples": [
+   "s_2236348",
+   "s_5605511",
+   "s_12464507"
+  ]
+ },
+ {
+  "id": "w_mat",
+  "ru": "мать",
+  "stress": "ма́ть",
+  "translit": "màt",
+  "en": [
+   "mother"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": true,
+  "forms": {
+   "nom_sg": "мать",
+   "gen_sg": "ма́тери",
+   "dat_sg": "ма́тери",
+   "acc_sg": "мать",
+   "ins_sg": "ма́терью",
+   "prep_sg": "ма́тери",
+   "nom_pl": "ма́тери",
+   "gen_pl": "матере́й",
+   "dat_pl": "матеря́м",
+   "acc_pl": "матере́й",
+   "ins_pl": "матеря́ми, матерьми́",
+   "prep_pl": "матеря́х"
+  },
+  "examples": [
+   "s_1947750",
+   "s_5560580",
+   "s_5606213"
+  ]
+ },
+ {
+  "id": "w_gorod",
+  "ru": "город",
+  "stress": "го́род",
+  "translit": "gòrod",
+  "en": [
+   "city, town"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "го́род",
+   "gen_sg": "го́рода",
+   "dat_sg": "го́роду",
+   "acc_sg": "го́род",
+   "ins_sg": "го́родом",
+   "prep_sg": "го́роде",
+   "nom_pl": "города́",
+   "gen_pl": "городо́в",
+   "dat_pl": "города́м",
+   "acc_pl": "города́",
+   "ins_pl": "города́ми",
+   "prep_pl": "города́х"
+  },
+  "examples": [
+   "s_3279547",
+   "s_5526056",
+   "s_7311732"
+  ]
+ },
+ {
+  "id": "w_syn",
+  "ru": "сын",
+  "stress": "сы́н",
+  "translit": "sỳn",
+  "en": [
+   "son",
+   "son (of a country or an era), sons"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "animate": true,
+  "forms": {
+   "nom_sg": "сы́н",
+   "gen_sg": "сы́на",
+   "dat_sg": "сы́ну",
+   "acc_sg": "сы́на",
+   "ins_sg": "сы́ном",
+   "prep_sg": "сы́не",
+   "nom_pl": "сыновья́",
+   "gen_pl": "сынове́й",
+   "dat_pl": "сыновья́м",
+   "acc_pl": "сынове́й",
+   "ins_pl": "сыновья́ми",
+   "prep_pl": "сыновья́х"
+  },
+  "examples": [
+   "s_5675259",
+   "s_1937073",
+   "s_2736919"
+  ]
+ },
+ {
+  "id": "w_iskat",
+  "ru": "искать",
+  "stress": "иска́ть",
+  "translit": "iskàt",
+  "en": [
+   "to look for, to search, to seek"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "поискать",
+   "presfut_1sg": "ищу́",
+   "presfut_2sg": "и́щешь",
+   "presfut_3sg": "и́щет",
+   "presfut_1pl": "и́щем",
+   "presfut_2pl": "и́щете",
+   "presfut_3pl": "и́щут",
+   "past_m": "иска́л",
+   "past_f": "иска́ла",
+   "past_n": "иска́ло",
+   "past_pl": "иска́ли",
+   "imp_sg": "ищи́",
+   "imp_pl": "ищи́те"
+  },
+  "examples": [
+   "s_2343994",
+   "s_4138957",
+   "s_7447080"
+  ]
+ },
+ {
+  "id": "w_glaz",
+  "ru": "глаз",
+  "stress": "гла́з",
+  "translit": "glàz",
+  "en": [
+   "eye"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "гла́з",
+   "gen_sg": "гла́за",
+   "dat_sg": "гла́зу",
+   "acc_sg": "гла́з",
+   "ins_sg": "гла́зом",
+   "prep_sg": "гла́зе",
+   "nom_pl": "глаза́",
+   "gen_pl": "гла́з",
+   "dat_pl": "глаза́м",
+   "acc_pl": "глаза́",
+   "ins_pl": "глаза́ми",
+   "prep_pl": "глаза́х"
+  },
+  "examples": [
+   "s_2394148",
+   "s_3569985",
+   "s_5651636"
+  ]
+ },
+ {
+  "id": "w_vchera",
+  "ru": "вчера",
+  "stress": "вчера́",
+  "translit": "vcerà",
+  "en": [
+   "yesterday"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_6923927",
+   "s_376033",
+   "s_2521264"
+  ]
+ },
+ {
+  "id": "w_togda",
+  "ru": "тогда",
+  "stress": "тогда́",
+  "translit": "togdà",
+  "en": [
+   "then, in that case",
+   "at that time, back then, then",
+   "whereas, while"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_1632715",
+   "s_4348247",
+   "s_4429271"
+  ]
+ },
+ {
+  "id": "w_nazad",
+  "ru": "назад",
+  "stress": "наза́д",
+  "translit": "nazàd",
+  "en": [
+   "back, backwards",
+   "ago"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_893523",
+   "s_2772778",
+   "s_3667077"
+  ]
+ },
+ {
+  "id": "w_tuda",
+  "ru": "туда",
+  "stress": "туда́",
+  "translit": "tudà",
+  "en": [
+   "there, to there"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_4548741",
+   "s_6583833",
+   "s_2061952"
+  ]
+ },
+ {
+  "id": "w_staryy",
+  "ru": "старый",
+  "stress": "ста́рый",
+  "translit": "stàryj",
+  "en": [
+   "old, aged",
+   "old (of long standing), long-time",
+   "former, previous, old",
+   "ancient, age-old, time-honoured",
+   "old man, the old ones"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "ста́рше;старе́е",
+   "sup": "старе́йший;ста́рший",
+   "short_m": "стар",
+   "short_f": "стара́",
+   "short_n": "ста́ро, старо́",
+   "short_pl": "ста́ры, стары́",
+   "m_nom": "ста́рый",
+   "m_gen": "ста́рого",
+   "m_dat": "ста́рому",
+   "m_acc": "ста́рый, ста́рого",
+   "m_ins": "ста́рым",
+   "m_prep": "ста́ром",
+   "f_nom": "ста́рая",
+   "f_gen": "ста́рой",
+   "f_dat": "ста́рой",
+   "f_acc": "ста́рую",
+   "f_ins": "ста́рой, ста́рою",
+   "f_prep": "ста́рой",
+   "n_nom": "ста́рое",
+   "n_gen": "ста́рого",
+   "n_dat": "ста́рому",
+   "n_acc": "ста́рое",
+   "n_ins": "ста́рым",
+   "n_prep": "ста́ром",
+   "pl_nom": "ста́рые",
+   "pl_gen": "ста́рых",
+   "pl_dat": "ста́рым",
+   "pl_acc": "ста́рых, ста́рые",
+   "pl_ins": "ста́рыми",
+   "pl_prep": "ста́рых"
+  },
+  "examples": [
+   "s_848164",
+   "s_2597293",
+   "s_5250177"
+  ]
+ },
+ {
+  "id": "w_plokhoy",
+  "ru": "плохой",
+  "stress": "плохо́й",
+  "translit": "plokhòj",
+  "en": [
+   "bad"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "ху́же",
+   "sup": "ху́дший;наиху́дший",
+   "short_m": "плох",
+   "short_f": "плоха́",
+   "short_n": "пло́хо",
+   "short_pl": "пло́хи, плохи́",
+   "m_nom": "плохо́й",
+   "m_gen": "плохо́го",
+   "m_dat": "плохо́му",
+   "m_acc": "плохо́го, плохо́й",
+   "m_ins": "плохи́м",
+   "m_prep": "плохо́м",
+   "f_nom": "плоха́я",
+   "f_gen": "плохо́й",
+   "f_dat": "плохо́й",
+   "f_acc": "плоху́ю",
+   "f_ins": "плохо́й, плохо́ю",
+   "f_prep": "плохо́й",
+   "n_nom": "плохо́е",
+   "n_gen": "плохо́го",
+   "n_dat": "плохо́му",
+   "n_acc": "плохо́е",
+   "n_ins": "плохи́м",
+   "n_prep": "плохо́м",
+   "pl_nom": "плохи́е",
+   "pl_gen": "плохи́х",
+   "pl_dat": "плохи́м",
+   "pl_acc": "плохи́х, плохи́е",
+   "pl_ins": "плохи́ми",
+   "pl_prep": "плохи́х"
+  },
+  "examples": [
+   "s_1833166",
+   "s_2580851",
+   "s_3781590"
+  ]
+ },
+ {
+  "id": "w_minuta",
+  "ru": "минута",
+  "stress": "мину́та",
+  "translit": "minùta",
+  "en": [
+   "minute, moment, instant"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "мину́та",
+   "gen_sg": "мину́ты",
+   "dat_sg": "мину́те",
+   "acc_sg": "мину́ту",
+   "ins_sg": "мину́той, мину́тою",
+   "prep_sg": "мину́те",
+   "nom_pl": "мину́ты",
+   "gen_pl": "мину́т",
+   "dat_pl": "мину́там",
+   "acc_pl": "мину́ты",
+   "ins_pl": "мину́тами",
+   "prep_pl": "мину́тах"
+  },
+  "examples": [
+   "s_5643363",
+   "s_3575213",
+   "s_3667077"
+  ]
+ },
+ {
+  "id": "w_zhena",
+  "ru": "жена",
+  "stress": "жена́",
+  "translit": "zhenà",
+  "en": [
+   "wife"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": true,
+  "forms": {
+   "nom_sg": "жена́",
+   "gen_sg": "жены́",
+   "dat_sg": "жене́",
+   "acc_sg": "жену́",
+   "ins_sg": "жено́й, жено́ю",
+   "prep_sg": "жене́",
+   "nom_pl": "жёны",
+   "gen_pl": "жён",
+   "dat_pl": "жёнам",
+   "acc_pl": "жён",
+   "ins_pl": "жёнами",
+   "prep_pl": "жёнах"
+  },
+  "examples": [
+   "s_4262707",
+   "s_5211830",
+   "s_5523780"
+  ]
+ },
+ {
+  "id": "w_neskolko",
+  "ru": "несколько",
+  "stress": "не́сколько",
+  "translit": "nèskolko",
+  "en": [
+   "several, a few, some",
+   "somewhat, slightly, a little"
+  ],
+  "pos": "num",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5727321",
+   "s_5530546",
+   "s_5553007"
+  ]
+ },
+ {
+  "id": "w_semya",
+  "ru": "семья",
+  "stress": "семья́",
+  "translit": "semià",
+  "en": [
+   "family"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "семья́",
+   "gen_sg": "семьи́",
+   "dat_sg": "семье́",
+   "acc_sg": "семью́",
+   "ins_sg": "семьёй, семьёю",
+   "prep_sg": "семье́",
+   "nom_pl": "се́мьи",
+   "gen_pl": "семе́й",
+   "dat_pl": "се́мьям",
+   "acc_pl": "се́мьи",
+   "ins_pl": "се́мьями",
+   "prep_pl": "се́мьях"
+  },
+  "examples": [
+   "s_5513200",
+   "s_5513202",
+   "s_6622770"
+  ]
+ },
+ {
+  "id": "w_sleduyushchiy",
+  "ru": "следующий",
+  "stress": "сле́дующий",
+  "translit": "slèduiusscij",
+  "en": [
+   "next, following",
+   "the following"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "m_nom": "сле́дующий",
+   "m_gen": "сле́дующего",
+   "m_dat": "сле́дующему",
+   "m_acc": "сле́дующего, сле́дующий",
+   "m_ins": "сле́дующим",
+   "m_prep": "сле́дующем",
+   "f_nom": "сле́дующая",
+   "f_gen": "сле́дующей",
+   "f_dat": "сле́дующей",
+   "f_acc": "сле́дующую",
+   "f_ins": "сле́дующей, сле́дующею",
+   "f_prep": "сле́дующей",
+   "n_nom": "сле́дующее",
+   "n_gen": "сле́дующего",
+   "n_dat": "сле́дующему",
+   "n_acc": "сле́дующее",
+   "n_ins": "сле́дующим",
+   "n_prep": "сле́дующем",
+   "pl_nom": "сле́дующие",
+   "pl_gen": "сле́дующих",
+   "pl_dat": "сле́дующим",
+   "pl_acc": "сле́дующих, сле́дующие",
+   "pl_ins": "сле́дующими",
+   "pl_prep": "сле́дующих"
+  },
+  "examples": [
+   "s_5885621",
+   "s_5885622",
+   "s_5885623"
+  ]
+ },
+ {
+  "id": "w_snova",
+  "ru": "снова",
+  "stress": "сно́ва",
+  "translit": "snòva",
+  "en": [
+   "again (anew)"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_1419103",
+   "s_5817581",
+   "s_2497338"
+  ]
+ },
+ {
+  "id": "w_znachit",
+  "ru": "значить",
+  "stress": "зна́чить",
+  "translit": "znàcit",
+  "en": [
+   "to mean, to signify",
+   "so, then, therefore"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "presfut_1sg": "зна́чу",
+   "presfut_2sg": "зна́чишь",
+   "presfut_3sg": "зна́чит",
+   "presfut_1pl": "зна́чим",
+   "presfut_2pl": "зна́чите",
+   "presfut_3pl": "зна́чат",
+   "past_m": "зна́чил",
+   "past_f": "зна́чила",
+   "past_n": "зна́чило",
+   "past_pl": "зна́чили",
+   "imp_sg": "зна́чь",
+   "imp_pl": "зна́чьте"
+  },
+  "examples": [
+   "s_467039",
+   "s_2461952",
+   "s_2732880"
+  ]
+ },
+ {
+  "id": "w_pered",
+  "ru": "перед",
+  "stress": "пе́ред",
+  "translit": "pèred",
+  "en": [
+   "in front of, before",
+   "before, prior to",
+   "to, towards, in the eyes of"
+  ],
+  "pos": "prep",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_1498708",
+   "s_6045539",
+   "s_6882656"
+  ]
+ },
+ {
+  "id": "w_konechno",
+  "ru": "конечно",
+  "stress": "коне́чно",
+  "translit": "konècno",
+  "en": [
+   "of course, certainly, sure"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5528401",
+   "s_5528402",
+   "s_5534699"
+  ]
+ },
+ {
+  "id": "w_sestra",
+  "ru": "сестра",
+  "stress": "сестра́",
+  "translit": "sestrà",
+  "en": [
+   "sister",
+   "nurse"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": true,
+  "forms": {
+   "nom_sg": "сестра́",
+   "gen_sg": "сестры́",
+   "dat_sg": "сестре́",
+   "acc_sg": "сестру́",
+   "ins_sg": "сестро́й, сестро́ю",
+   "prep_sg": "сестре́",
+   "nom_pl": "сёстры",
+   "gen_pl": "сестёр",
+   "dat_pl": "сёстрам",
+   "acc_pl": "сестёр",
+   "ins_pl": "сёстрами",
+   "prep_pl": "сёстрах"
+  },
+  "examples": [
+   "s_469128",
+   "s_945382",
+   "s_1779342"
+  ]
+ },
+ {
+  "id": "w_veshch",
+  "ru": "вещь",
+  "stress": "ве́щь",
+  "translit": "vèssc",
+  "en": [
+   "thing, things, belongings, clothes"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "ве́щь",
+   "gen_sg": "ве́щи",
+   "dat_sg": "ве́щи",
+   "acc_sg": "ве́щь",
+   "ins_sg": "ве́щью",
+   "prep_sg": "ве́щи",
+   "nom_pl": "ве́щи",
+   "gen_pl": "веще́й",
+   "dat_pl": "веща́м",
+   "acc_pl": "ве́щи",
+   "ins_pl": "веща́ми",
+   "prep_pl": "веща́х"
+  },
+  "examples": [
+   "s_3644228",
+   "s_2523412",
+   "s_5503733"
+  ]
+ },
+ {
+  "id": "w_golova",
+  "ru": "голова",
+  "stress": "голова́",
+  "translit": "golovà",
+  "en": [
+   "head",
+   "mind, brains, head"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "голова́",
+   "gen_sg": "головы́",
+   "dat_sg": "голове́",
+   "acc_sg": "го́лову",
+   "ins_sg": "голово́й",
+   "prep_sg": "голове́",
+   "nom_pl": "го́ловы",
+   "gen_pl": "голо́в",
+   "dat_pl": "голова́м",
+   "acc_pl": "го́ловы",
+   "ins_pl": "голова́ми",
+   "prep_pl": "голова́х"
+  },
+  "examples": [
+   "s_795149",
+   "s_3122153",
+   "s_4019402"
+  ]
+ },
+ {
+  "id": "w_pochti",
+  "ru": "почти",
+  "stress": "почти́",
+  "translit": "poctì",
+  "en": [
+   "almost, nearly, close to"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_658418",
+   "s_2475508",
+   "s_5679445"
+  ]
+ },
+ {
+  "id": "w_proshlyy",
+  "ru": "прошлый",
+  "stress": "про́шлый",
+  "translit": "pròsclyj",
+  "en": [
+   "last, previous",
+   "past, bygone"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "m_nom": "про́шлый",
+   "m_gen": "про́шлого",
+   "m_dat": "про́шлому",
+   "m_acc": "про́шлый, про́шлого",
+   "m_ins": "про́шлым",
+   "m_prep": "про́шлом",
+   "f_nom": "про́шлая",
+   "f_gen": "про́шлой",
+   "f_dat": "про́шлой",
+   "f_acc": "про́шлую",
+   "f_ins": "про́шлой, про́шлою",
+   "f_prep": "про́шлой",
+   "n_nom": "про́шлое",
+   "n_gen": "про́шлого",
+   "n_dat": "про́шлому",
+   "n_acc": "про́шлое",
+   "n_ins": "про́шлым",
+   "n_prep": "про́шлом",
+   "pl_nom": "про́шлые",
+   "pl_gen": "про́шлых",
+   "pl_dat": "про́шлым",
+   "pl_acc": "про́шлые, про́шлых",
+   "pl_ins": "про́шлыми",
+   "pl_prep": "про́шлых"
+  },
+  "examples": [
+   "s_2369092",
+   "s_6774291",
+   "s_5508637"
+  ]
+ },
+ {
+  "id": "w_chitat",
+  "ru": "читать",
+  "stress": "чита́ть",
+  "translit": "citàt",
+  "en": [
+   "to read"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "прочитать;почитать;прочесть",
+   "presfut_1sg": "чита́ю",
+   "presfut_2sg": "чита́ешь",
+   "presfut_3sg": "чита́ет",
+   "presfut_1pl": "чита́ем",
+   "presfut_2pl": "чита́ете",
+   "presfut_3pl": "чита́ют",
+   "past_m": "чита́л",
+   "past_f": "чита́ла",
+   "past_n": "чита́ло",
+   "past_pl": "чита́ли",
+   "imp_sg": "чита́й",
+   "imp_pl": "чита́йте"
+  },
+  "examples": [
+   "s_4332109",
+   "s_5175208",
+   "s_5558556"
+  ]
+ },
+ {
+  "id": "w_krasivyy",
+  "ru": "красивый",
+  "stress": "краси́вый",
+  "translit": "krasìvyj",
+  "en": [
+   "beautiful, handsome"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "краси́вее;кра́ше",
+   "sup": "краси́вейший",
+   "short_m": "краси́в",
+   "short_f": "краси́ва",
+   "short_n": "краси́во",
+   "short_pl": "краси́вы",
+   "m_nom": "краси́вый",
+   "m_gen": "краси́вого",
+   "m_dat": "краси́вому",
+   "m_acc": "краси́вый, краси́вого",
+   "m_ins": "краси́вым",
+   "m_prep": "краси́вом",
+   "f_nom": "краси́вая",
+   "f_gen": "краси́вой",
+   "f_dat": "краси́вой",
+   "f_acc": "краси́вую",
+   "f_ins": "краси́вой, (краси́вою)",
+   "f_prep": "краси́вой",
+   "n_nom": "краси́вое",
+   "n_gen": "краси́вого",
+   "n_dat": "краси́вому",
+   "n_acc": "краси́вое",
+   "n_ins": "краси́вым",
+   "n_prep": "краси́вом",
+   "pl_nom": "краси́вые",
+   "pl_gen": "краси́вых",
+   "pl_dat": "краси́вым",
+   "pl_acc": "краси́вые, краси́вых",
+   "pl_ins": "краси́выми",
+   "pl_prep": "краси́вых"
+  },
+  "examples": [
+   "s_1968357",
+   "s_1968359",
+   "s_3032720"
+  ]
+ },
+ {
+  "id": "w_politsiya",
+  "ru": "полиция",
+  "stress": "поли́ция",
+  "translit": "polìziia",
+  "en": [
+   "police"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "поли́ция",
+   "gen_sg": "поли́ции",
+   "dat_sg": "поли́ции",
+   "acc_sg": "поли́цию",
+   "ins_sg": "поли́цией, поли́циею",
+   "prep_sg": "поли́ции",
+   "nom_pl": "поли́ции",
+   "gen_pl": "поли́ций",
+   "dat_pl": "поли́циям",
+   "acc_pl": "поли́ции",
+   "ins_pl": "поли́циями",
+   "prep_pl": "поли́циях"
+  },
+  "examples": [
+   "s_3434996",
+   "s_4571380",
+   "s_614523"
+  ]
+ },
+ {
+  "id": "w_mnogie",
+  "ru": "многие",
+  "stress": "мно́гие",
+  "translit": "mnòghiie",
+  "en": [
+   "many"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "n_nom": "мно́гое",
+   "n_gen": "мно́гого",
+   "n_dat": "мно́гому",
+   "n_acc": "мно́гое",
+   "n_ins": "мно́гим",
+   "n_prep": "мно́гом",
+   "pl_nom": "мно́гие",
+   "pl_gen": "мно́гих",
+   "pl_dat": "мно́гим",
+   "pl_acc": "мно́гие, мно́гих",
+   "pl_ins": "мно́гими",
+   "pl_prep": "мно́гих"
+  },
+  "examples": [
+   "s_4219647",
+   "s_5563777",
+   "s_5664494"
+  ]
+ },
+ {
+  "id": "w_sobaka",
+  "ru": "собака",
+  "stress": "соба́ка",
+  "translit": "sobàka",
+  "en": [
+   "dog",
+   "at sign (@), at symbol"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": true,
+  "forms": {
+   "nom_sg": "соба́ка",
+   "gen_sg": "соба́ки",
+   "dat_sg": "соба́ке",
+   "acc_sg": "соба́ку",
+   "ins_sg": "соба́кой, соба́кою",
+   "prep_sg": "соба́ке",
+   "nom_pl": "соба́ки",
+   "gen_pl": "соба́к",
+   "dat_pl": "соба́кам",
+   "acc_pl": "соба́к",
+   "ins_pl": "соба́ками",
+   "prep_pl": "соба́ках"
+  },
+  "examples": [
+   "s_1707379",
+   "s_3257772",
+   "s_3681529"
+  ]
+ },
+ {
+  "id": "w_ekhat",
+  "ru": "ехать",
+  "stress": "е́хать",
+  "translit": "ièkhat",
+  "en": [
+   "to go, to travel by vehicle in one direction"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "поехать",
+   "presfut_1sg": "е́ду",
+   "presfut_2sg": "е́дешь",
+   "presfut_3sg": "е́дет",
+   "presfut_1pl": "е́дем",
+   "presfut_2pl": "е́дете",
+   "presfut_3pl": "е́дут",
+   "past_m": "е́хал",
+   "past_f": "е́хала",
+   "past_n": "е́хало",
+   "past_pl": "е́хали",
+   "imp_sg": "езжа́й",
+   "imp_pl": "езжа́йте"
+  },
+  "examples": [
+   "s_2353628",
+   "s_3279547",
+   "s_5129088"
+  ]
+ },
+ {
+  "id": "w_mesyats",
+  "ru": "месяц",
+  "stress": "ме́сяц",
+  "translit": "mèsiaz",
+  "en": [
+   "month",
+   "moon, crescent moon",
+   "honeymoon (in медовый месяц)"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "ме́сяц",
+   "gen_sg": "ме́сяца",
+   "dat_sg": "ме́сяцу",
+   "acc_sg": "ме́сяц",
+   "ins_sg": "ме́сяцем",
+   "prep_sg": "ме́сяце",
+   "nom_pl": "ме́сяцы",
+   "gen_pl": "ме́сяцев",
+   "dat_pl": "ме́сяцам",
+   "acc_pl": "ме́сяцы",
+   "ins_pl": "ме́сяцами",
+   "prep_pl": "ме́сяцах"
+  },
+  "examples": [
+   "s_2782369",
+   "s_5535802",
+   "s_2900278"
+  ]
+ },
+ {
+  "id": "w_pit",
+  "ru": "пить",
+  "stress": "пи́ть",
+  "translit": "pìt",
+  "en": [
+   "to drink"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "выпить;попить",
+   "presfut_1sg": "пью́",
+   "presfut_2sg": "пьёшь",
+   "presfut_3sg": "пьёт",
+   "presfut_1pl": "пьём",
+   "presfut_2pl": "пьёте",
+   "presfut_3pl": "пью́т",
+   "past_m": "пи́л",
+   "past_f": "пила́",
+   "past_n": "пи́ло",
+   "past_pl": "пи́ли",
+   "imp_sg": "пе́й",
+   "imp_pl": "пе́йте"
+  },
+  "examples": [
+   "s_3052025",
+   "s_3174849",
+   "s_3668039"
+  ]
+ },
+ {
+  "id": "w_roditel",
+  "ru": "родитель",
+  "stress": "роди́тель",
+  "translit": "rodìtel",
+  "en": [
+   "parent"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": true,
+  "forms": {
+   "nom_sg": "роди́тель",
+   "gen_sg": "роди́теля",
+   "dat_sg": "роди́телю",
+   "acc_sg": "роди́теля",
+   "ins_sg": "роди́телем",
+   "prep_sg": "роди́теле",
+   "nom_pl": "роди́тели",
+   "gen_pl": "роди́телей",
+   "dat_pl": "роди́телям",
+   "acc_pl": "роди́телей",
+   "ins_pl": "роди́телями",
+   "prep_pl": "роди́телях"
+  },
+  "examples": [
+   "s_1800924",
+   "s_1801308",
+   "s_10871799"
+  ]
+ },
+ {
+  "id": "w_poetomu",
+  "ru": "поэтому",
+  "stress": "поэ́тому",
+  "translit": "poètomu",
+  "en": [
+   "therefore, that is why, so"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_3590186",
+   "s_5528319",
+   "s_5566950"
+  ]
+ },
+ {
+  "id": "w_pyat",
+  "ru": "пять",
+  "stress": "пя́ть",
+  "translit": "piàt",
+  "en": [
+   "five, 5"
+  ],
+  "pos": "num",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "пять",
+   "gen_sg": "пяти",
+   "nom_pl": "пяти",
+   "gen_pl": "пя"
+  },
+  "examples": [
+   "s_5643363",
+   "s_2964904",
+   "s_5574574"
+  ]
+ },
+ {
+  "id": "w_strana",
+  "ru": "страна",
+  "stress": "страна́",
+  "translit": "stranà",
+  "en": [
+   "country, state, nation",
+   "land, region"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "страна́",
+   "gen_sg": "страны́",
+   "dat_sg": "стране́",
+   "acc_sg": "страну́",
+   "ins_sg": "страно́й, страно́ю",
+   "prep_sg": "стране́",
+   "nom_pl": "стра́ны",
+   "gen_pl": "стра́н",
+   "dat_pl": "стра́нам",
+   "acc_pl": "стра́ны",
+   "ins_pl": "стра́нами",
+   "prep_pl": "стра́нах"
+  },
+  "examples": [
+   "s_6892633",
+   "s_3228633",
+   "s_5387706"
+  ]
+ },
+ {
+  "id": "w_litso",
+  "ru": "лицо",
+  "stress": "лицо́",
+  "translit": "lizò",
+  "en": [
+   "face",
+   "person, individual",
+   "entity, party",
+   "right side, front side",
+   "person (grammatical), point of view",
+   "face, image, public profile"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "n",
+  "animate": false,
+  "forms": {
+   "nom_sg": "лицо́",
+   "gen_sg": "лица́",
+   "dat_sg": "лицу́",
+   "acc_sg": "лицо́",
+   "ins_sg": "лицо́м",
+   "prep_sg": "лице́",
+   "nom_pl": "ли́ца",
+   "gen_pl": "ли́ц",
+   "dat_pl": "ли́цам",
+   "acc_pl": "ли́ца",
+   "ins_pl": "ли́цами",
+   "prep_pl": "ли́цах"
+  },
+  "examples": [
+   "s_1513035",
+   "s_4708732",
+   "s_10888313"
+  ]
+ },
+ {
+  "id": "w_pryamo",
+  "ru": "прямо",
+  "stress": "пря́мо",
+  "translit": "priàmo",
+  "en": [
+   "straight, straight ahead, directly",
+   "right, just, exactly",
+   "frankly, openly, bluntly",
+   "really, truly, simply, downright",
+   "straight, upright"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_2736639",
+   "s_3866423",
+   "s_5669802"
+  ]
+ },
+ {
+  "id": "w_noga",
+  "ru": "нога",
+  "stress": "нога́",
+  "translit": "nogà",
+  "en": [
+   "leg",
+   "foot"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "нога́",
+   "gen_sg": "ноги́",
+   "dat_sg": "ноге́",
+   "acc_sg": "но́гу",
+   "ins_sg": "ного́й, ного́ю",
+   "prep_sg": "ноге́",
+   "nom_pl": "но́ги",
+   "gen_pl": "ног",
+   "dat_pl": "нога́м",
+   "acc_pl": "но́ги",
+   "ins_pl": "нога́ми",
+   "prep_pl": "нога́х"
+  },
+  "examples": [
+   "s_2940125",
+   "s_5501944",
+   "s_6916315"
+  ]
+ },
+ {
+  "id": "w_otkuda",
+  "ru": "откуда",
+  "stress": "отку́да",
+  "translit": "otkùda",
+  "en": [
+   "from where"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_418199",
+   "s_1006240",
+   "s_1407167"
+  ]
+ },
+ {
+  "id": "w_mezhdu",
+  "ru": "между",
+  "stress": "ме́жду",
+  "translit": "mèzhdu",
+  "en": [
+   "between",
+   "among, amid",
+   "inter-"
+  ],
+  "pos": "prep",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5487509",
+   "s_5606213"
+  ]
+ },
+ {
+  "id": "w_papa",
+  "ru": "папа",
+  "stress": "па́па",
+  "translit": "pàpa",
+  "en": [
+   "dad, daddy, father",
+   "Pope"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": true,
+  "forms": {
+   "nom_sg": "па́па",
+   "gen_sg": "па́пы",
+   "dat_sg": "па́пе",
+   "acc_sg": "па́пу",
+   "ins_sg": "па́пой, па́пою",
+   "prep_sg": "па́пе",
+   "nom_pl": "па́пы",
+   "gen_pl": "па́п",
+   "dat_pl": "па́пам",
+   "acc_pl": "па́п",
+   "ins_pl": "па́пами",
+   "prep_pl": "па́пах"
+  },
+  "examples": [
+   "s_3321586",
+   "s_5541945",
+   "s_5222965"
+  ]
+ },
+ {
+  "id": "w_dorogoy",
+  "ru": "дорогой",
+  "stress": "дорого́й",
+  "translit": "dorogòj",
+  "en": [
+   "expensive, costly, dear (in price)",
+   "dear, darling, beloved",
+   "dear (to someone), important (to someone), cherished"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "доро́же",
+   "sup": "дорожа́йший",
+   "short_m": "до́рог",
+   "short_f": "дорога́",
+   "short_n": "до́рого",
+   "short_pl": "до́роги",
+   "m_nom": "дорого́й",
+   "m_gen": "дорого́го",
+   "m_dat": "дорого́му",
+   "m_acc": "дорого́й, дорого́го",
+   "m_ins": "дороги́м",
+   "m_prep": "дорого́м",
+   "f_nom": "дорога́я",
+   "f_gen": "дорого́й",
+   "f_dat": "дорого́й",
+   "f_acc": "дорогу́ю",
+   "f_ins": "дорого́й, (дорого́ю)",
+   "f_prep": "дорого́й",
+   "n_nom": "дорого́е",
+   "n_gen": "дорого́го",
+   "n_dat": "дорого́му",
+   "n_acc": "дорого́е",
+   "n_ins": "дороги́м",
+   "n_prep": "дорого́м",
+   "pl_nom": "дороги́е",
+   "pl_gen": "дороги́х",
+   "pl_dat": "дороги́м",
+   "pl_acc": "дороги́е, дороги́х",
+   "pl_ins": "дороги́ми",
+   "pl_prep": "дороги́х"
+  },
+  "examples": [
+   "s_4237916",
+   "s_4452299",
+   "s_5573912"
+  ]
+ },
+ {
+  "id": "w_molodoy",
+  "ru": "молодой",
+  "stress": "молодо́й",
+  "translit": "molodòj",
+  "en": [
+   "young, youthful",
+   "new, fresh, this year's",
+   "newly qualified, budding, up-and-coming"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "моло́же",
+   "sup": "молодейший",
+   "short_m": "мо́лод",
+   "short_f": "молода́",
+   "short_n": "мо́лодо",
+   "short_pl": "мо́лоды",
+   "m_nom": "молодо́й",
+   "m_gen": "молодо́го",
+   "m_dat": "молодо́му",
+   "m_acc": "молодо́го, молодо́й",
+   "m_ins": "молоды́м",
+   "m_prep": "молодо́м",
+   "f_nom": "молода́я",
+   "f_gen": "молодо́й",
+   "f_dat": "молодо́й",
+   "f_acc": "молоду́ю",
+   "f_ins": "молодо́й, молодо́ю",
+   "f_prep": "молодо́й",
+   "n_nom": "молодо́е",
+   "n_gen": "молодо́го",
+   "n_dat": "молодо́му",
+   "n_acc": "молодо́е",
+   "n_ins": "молоды́м",
+   "n_prep": "молодо́м",
+   "pl_nom": "молоды́е",
+   "pl_gen": "молоды́х",
+   "pl_dat": "молоды́м",
+   "pl_acc": "молоды́х, молоды́е",
+   "pl_ins": "молоды́ми",
+   "pl_prep": "молоды́х"
+  },
+  "examples": [
+   "s_1997964",
+   "s_2052500",
+   "s_4913522"
+  ]
+ },
+ {
+  "id": "w_ulitsa",
+  "ru": "улица",
+  "stress": "у́лица",
+  "translit": "ùliza",
+  "en": [
+   "street"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "у́лица",
+   "gen_sg": "у́лицы",
+   "dat_sg": "у́лице",
+   "acc_sg": "у́лицу",
+   "ins_sg": "у́лицей, у́лицею",
+   "prep_sg": "у́лице",
+   "nom_pl": "у́лицы",
+   "gen_pl": "у́лиц",
+   "dat_pl": "у́лицам",
+   "acc_pl": "у́лицы",
+   "ins_pl": "у́лицами",
+   "prep_pl": "у́лицах"
+  },
+  "examples": [
+   "s_6603927",
+   "s_2734898",
+   "s_5248585"
+  ]
+ },
+ {
+  "id": "w_stol",
+  "ru": "стол",
+  "stress": "сто́л",
+  "translit": "stòl",
+  "en": [
+   "table",
+   "board, fare, diet",
+   "desk (office section), office"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "сто́л",
+   "gen_sg": "стола́",
+   "dat_sg": "столу́",
+   "acc_sg": "сто́л",
+   "ins_sg": "столо́м",
+   "prep_sg": "столе́",
+   "nom_pl": "столы́",
+   "gen_pl": "столо́в",
+   "dat_pl": "стола́м",
+   "acc_pl": "столы́",
+   "ins_pl": "стола́ми",
+   "prep_pl": "стола́х"
+  },
+  "examples": [
+   "s_651217",
+   "s_5501026",
+   "s_6909491"
+  ]
+ },
+ {
+  "id": "w_prostite",
+  "ru": "простите",
+  "stress": "прости́те",
+  "translit": "prostìte",
+  "en": [
+   "forgive me, excuse me, sorry"
+  ],
+  "pos": "intj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_6218144",
+   "s_6839328",
+   "s_5683031"
+  ]
+ },
+ {
+  "id": "w_dolgo",
+  "ru": "долго",
+  "stress": "до́лго",
+  "translit": "dòlgo",
+  "en": [
+   "a long time, for a long time"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_861931",
+   "s_6950778",
+   "s_2236383"
+  ]
+ },
+ {
+  "id": "w_muzh",
+  "ru": "муж",
+  "stress": "му́ж",
+  "translit": "mùzh",
+  "en": [
+   "husband, man"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": true,
+  "forms": {
+   "nom_sg": "муж",
+   "gen_sg": "му́жа",
+   "dat_sg": "му́жу",
+   "acc_sg": "му́жа",
+   "ins_sg": "му́жем",
+   "prep_sg": "му́же",
+   "nom_pl": "мужья́",
+   "gen_pl": "муже́й",
+   "dat_pl": "мужья́м",
+   "acc_pl": "муже́й",
+   "ins_pl": "мужья́ми",
+   "prep_pl": "мужья́х"
+  },
+  "examples": [
+   "s_5396877",
+   "s_5516195",
+   "s_5523779"
+  ]
+ },
+ {
+  "id": "w_eda",
+  "ru": "еда",
+  "stress": "еда́",
+  "translit": "iedà",
+  "en": [
+   "food, meal"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "еда́",
+   "gen_sg": "еды́",
+   "dat_sg": "еде́",
+   "acc_sg": "еду́",
+   "ins_sg": "едо́й, едо́ю",
+   "prep_sg": "еде́"
+  },
+  "examples": [
+   "s_3174812",
+   "s_12805072",
+   "s_5673994"
+  ]
+ },
+ {
+  "id": "w_inogda",
+  "ru": "иногда",
+  "stress": "иногда́",
+  "translit": "inogdà",
+  "en": [
+   "sometimes, at times"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_7748447",
+   "s_4674084",
+   "s_5461337"
+  ]
+ },
+ {
+  "id": "w_bystryy",
+  "ru": "быстрый",
+  "stress": "бы́стрый",
+  "translit": "bỳstryj",
+  "en": [
+   "fast, quick, rapid, prompt"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "быстре́е",
+   "sup": "быстре́йший",
+   "short_m": "бы́стр",
+   "short_f": "быстра́",
+   "short_n": "бы́стро",
+   "short_pl": "бы́стры, быстры́",
+   "m_nom": "бы́стрый",
+   "m_gen": "бы́строго",
+   "m_dat": "бы́строму",
+   "m_acc": "бы́стрый, бы́строго",
+   "m_ins": "бы́стрым",
+   "m_prep": "бы́стром",
+   "f_nom": "бы́страя",
+   "f_gen": "бы́строй",
+   "f_dat": "бы́строй",
+   "f_acc": "бы́струю",
+   "f_ins": "бы́строй, (бы́строю)",
+   "f_prep": "бы́строй",
+   "n_nom": "бы́строе",
+   "n_gen": "бы́строго",
+   "n_dat": "бы́строму",
+   "n_acc": "бы́строе",
+   "n_ins": "бы́стрым",
+   "n_prep": "бы́стром",
+   "pl_nom": "бы́стрые",
+   "pl_gen": "бы́стрых",
+   "pl_dat": "бы́стрым",
+   "pl_acc": "бы́стрые, бы́стрых",
+   "pl_ins": "бы́стрыми",
+   "pl_prep": "бы́стрых"
+  },
+  "examples": [
+   "s_5444601",
+   "s_1821630",
+   "s_6740871"
+  ]
+ },
+ {
+  "id": "w_ostanovit",
+  "ru": "остановить",
+  "stress": "останови́ть",
+  "translit": "ostanovìt",
+  "en": [
+   "to stop, to bring to a stop, to halt",
+   "to stop (someone from doing something), to hold back, to restrain",
+   "to fix (one's gaze) on, to focus on, to direct at"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "perfective",
+   "aspect_partner": "останавливать",
+   "presfut_1sg": "остановлю́",
+   "presfut_2sg": "остано́вишь",
+   "presfut_3sg": "остано́вит",
+   "presfut_1pl": "остано́вим",
+   "presfut_2pl": "остано́вите",
+   "presfut_3pl": "остано́вят",
+   "past_m": "останови́л",
+   "past_f": "останови́ла",
+   "past_n": "останови́ло",
+   "past_pl": "останови́ли",
+   "imp_sg": "останови́",
+   "imp_pl": "останови́те"
+  },
+  "examples": [
+   "s_5563762",
+   "s_5241460",
+   "s_12372484"
+  ]
+ },
+ {
+  "id": "w_obychno",
+  "ru": "обычно",
+  "stress": "обы́чно",
+  "translit": "obỳcno",
+  "en": [
+   "usually, generally, commonly, as a rule"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_7722389",
+   "s_469971",
+   "s_5499176"
+  ]
+ },
+ {
+  "id": "w_plokho",
+  "ru": "плохо",
+  "stress": "пло́хо",
+  "translit": "plòkho",
+  "en": [
+   "badly, poorly",
+   "it is bad, that's bad",
+   "unwell, sick",
+   "hard (to do something), barely"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5523779",
+   "s_5523780",
+   "s_5544310"
+  ]
+ },
+ {
+  "id": "w_khotya",
+  "ru": "хотя",
+  "stress": "хотя́",
+  "translit": "khotià",
+  "en": [
+   "although, though, at least, despite"
+  ],
+  "pos": "conj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
+ },
+ {
+  "id": "w_nichego",
+  "ru": "ничего",
+  "stress": "ничего́",
+  "translit": "nicegò",
+  "en": [
+   "nothing, not anything",
+   "never mind, that's all right, no problem",
+   "not bad, not badly, passably, so-so"
+  ],
+  "pos": "pron",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5612095",
+   "s_5894071",
+   "s_351222"
+  ]
+ },
+ {
+  "id": "w_desyat",
+  "ru": "десять",
+  "stress": "де́сять",
+  "translit": "dèsiat",
+  "en": [
+   "ten, 10"
+  ],
+  "pos": "num",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_796489",
+   "s_1594925",
+   "s_1937073"
+  ]
+ },
+ {
+  "id": "w_voyti",
+  "ru": "войти",
+  "stress": "войти́",
+  "translit": "vojtì",
+  "en": [
+   "to enter, to come in, to step inside",
+   "to become part of, to be included in, to join",
+   "to fit, to go in",
+   "to penetrate, to go deep into"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "perfective",
+   "aspect_partner": "входить",
+   "presfut_1sg": "войду́",
+   "presfut_2sg": "войдёшь",
+   "presfut_3sg": "войдёт",
+   "presfut_1pl": "войдём",
+   "presfut_2pl": "войдёте",
+   "presfut_3pl": "войду́т",
+   "past_m": "вошёл",
+   "past_f": "вошла́",
+   "past_n": "вошло́",
+   "past_pl": "вошли́",
+   "imp_sg": "войди́",
+   "imp_pl": "войди́те"
+  },
+  "examples": [
+   "s_844272",
+   "s_5545654",
+   "s_6203478"
+  ]
+ },
+ {
+  "id": "w_dozhd",
+  "ru": "дождь",
+  "stress": "до́ждь",
+  "translit": "dòzhd",
+  "en": [
+   "rain"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "до́ждь",
+   "gen_sg": "дождя́",
+   "dat_sg": "дождю́",
+   "acc_sg": "до́ждь",
+   "ins_sg": "дождём",
+   "prep_sg": "дожде́",
+   "nom_pl": "дожди́",
+   "gen_pl": "дожде́й",
+   "dat_pl": "дождя́м",
+   "acc_pl": "дожди́",
+   "ins_pl": "дождя́ми",
+   "prep_pl": "дождя́х"
+  },
+  "examples": [
+   "s_643966",
+   "s_643972",
+   "s_2369092"
+  ]
+ },
+ {
+  "id": "w_umnyy",
+  "ru": "умный",
+  "stress": "у́мный",
+  "translit": "ùmnyj",
+  "en": [
+   "smart, wise, intelligent"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "умне́е",
+   "sup": "умне́йший",
+   "short_m": "умён",
+   "short_f": "умна́",
+   "short_n": "умно́",
+   "short_pl": "умны́",
+   "m_nom": "у́мный",
+   "m_gen": "у́много",
+   "m_dat": "у́мному",
+   "m_acc": "у́мный, у́много",
+   "m_ins": "у́мным",
+   "m_prep": "у́мном",
+   "f_nom": "у́мная",
+   "f_gen": "у́мной",
+   "f_dat": "у́мной",
+   "f_acc": "у́мную",
+   "f_ins": "у́мной, (у́мною)",
+   "f_prep": "у́мной",
+   "n_nom": "у́мное",
+   "n_gen": "у́много",
+   "n_dat": "у́мному",
+   "n_acc": "у́мное",
+   "n_ins": "у́мным",
+   "n_prep": "у́мном",
+   "pl_nom": "у́мные",
+   "pl_gen": "у́мных",
+   "pl_dat": "у́мным",
+   "pl_acc": "у́мные, у́мных",
+   "pl_ins": "у́мными",
+   "pl_prep": "у́мных"
+  },
+  "examples": [
+   "s_3082213",
+   "s_3082214",
+   "s_5625233"
+  ]
+ },
+ {
+  "id": "w_uchit",
+  "ru": "учить",
+  "stress": "учи́ть",
+  "translit": "ucìt",
+  "en": [
+   "to study, to memorize",
+   "to teach, to instruct"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "выучить;научить;обучить",
+   "presfut_1sg": "учу́",
+   "presfut_2sg": "у́чишь",
+   "presfut_3sg": "у́чит",
+   "presfut_1pl": "у́чим",
+   "presfut_2pl": "у́чите",
+   "presfut_3pl": "у́чат",
+   "past_m": "учи́л",
+   "past_f": "учи́ла",
+   "past_n": "учи́ло",
+   "past_pl": "учи́ли",
+   "imp_sg": "учи́",
+   "imp_pl": "учи́те"
+  },
+  "examples": [
+   "s_4339575",
+   "s_5205085",
+   "s_5781695"
+  ]
+ },
+ {
+  "id": "w_svobodnyy",
+  "ru": "свободный",
+  "stress": "свобо́дный",
+  "translit": "svobòdnyj",
+  "en": [
+   "free, vacant, unoccupied",
+   "free, available",
+   "free",
+   "free of charge"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "short_m": "свобо́ден",
+   "short_f": "свобо́дна",
+   "short_n": "свобо́дно",
+   "short_pl": "свобо́дны",
+   "m_nom": "свобо́дный",
+   "m_gen": "свобо́дного",
+   "m_dat": "свобо́дному",
+   "m_acc": "свобо́дный, свобо́дного",
+   "m_ins": "свобо́дным",
+   "m_prep": "свобо́дном",
+   "f_nom": "свобо́дная",
+   "f_gen": "свобо́дной",
+   "f_dat": "свобо́дной",
+   "f_acc": "свобо́дную",
+   "f_ins": "свобо́дной, (свобо́дною)",
+   "f_prep": "свобо́дной",
+   "n_nom": "свобо́дное",
+   "n_gen": "свобо́дного",
+   "n_dat": "свобо́дному",
+   "n_acc": "свобо́дное",
+   "n_ins": "свобо́дным",
+   "n_prep": "свобо́дном",
+   "pl_nom": "свобо́дные",
+   "pl_gen": "свобо́дных",
+   "pl_dat": "свобо́дным",
+   "pl_acc": "свобо́дные, свобо́дных",
+   "pl_ins": "свобо́дными",
+   "pl_prep": "свобо́дных"
+  },
+  "examples": [
+   "s_1393644",
+   "s_1889078",
+   "s_3423420"
+  ]
+ },
+ {
+  "id": "w_chetyre",
+  "ru": "четыре",
+  "stress": "четы́ре",
+  "translit": "cetỳre",
+  "en": [
+   "four, 4"
+  ],
+  "pos": "num",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5643363",
+   "s_1947750",
+   "s_5489697"
+  ]
+ },
+ {
+  "id": "w_malo",
+  "ru": "мало",
+  "stress": "ма́ло",
+  "translit": "màlo",
+  "en": [
+   "little, not much, few, not many",
+   "too little, too few, not enough"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
+ },
+ {
+  "id": "w_avtobus",
+  "ru": "автобус",
+  "stress": "авто́бус",
+  "translit": "avtòbus",
+  "en": [
+   "bus"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "авто́бус",
+   "gen_sg": "авто́буса",
+   "dat_sg": "авто́бусу",
+   "acc_sg": "авто́бус",
+   "ins_sg": "авто́бусом",
+   "prep_sg": "авто́бусе",
+   "nom_pl": "авто́бусы",
+   "gen_pl": "авто́бусов",
+   "dat_pl": "авто́бусам",
+   "acc_pl": "авто́бусы",
+   "ins_pl": "авто́бусами",
+   "prep_pl": "авто́бусах"
+  },
+  "examples": [
+   "s_2306441",
+   "s_2746812",
+   "s_5384211"
+  ]
+ },
+ {
+  "id": "w_gotovit",
+  "ru": "готовить",
+  "stress": "гото́вить",
+  "translit": "gotòvit",
+  "en": [
+   "to cook, to prepare (food)",
+   "to prepare, to make ready, to get ready",
+   "to train"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "приготовить;подготовить;заготовить",
+   "presfut_1sg": "гото́влю",
+   "presfut_2sg": "гото́вишь",
+   "presfut_3sg": "гото́вит",
+   "presfut_1pl": "гото́вим",
+   "presfut_2pl": "гото́вите",
+   "presfut_3pl": "гото́вят",
+   "past_m": "гото́вил",
+   "past_f": "гото́вила",
+   "past_n": "гото́вило",
+   "past_pl": "гото́вили",
+   "imp_sg": "гото́вь",
+   "imp_pl": "гото́вьте"
+  },
+  "examples": [
+   "s_3125551",
+   "s_3501688",
+   "s_4442774"
+  ]
+ },
+ {
+  "id": "w_shest",
+  "ru": "шесть",
+  "stress": "ше́сть",
+  "translit": "scèst",
+  "en": [
+   "six, 6"
+  ],
+  "pos": "num",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_469971",
+   "s_3270157"
+  ]
+ },
+ {
+  "id": "w_podruga",
+  "ru": "подруга",
+  "stress": "подру́га",
+  "translit": "podrùga",
+  "en": [
+   "friend (female)",
+   "girlfriend"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": true,
+  "forms": {
+   "nom_sg": "подру́га",
+   "gen_sg": "подру́ги",
+   "dat_sg": "подру́ге",
+   "acc_sg": "подру́гу",
+   "ins_sg": "подру́гой, подру́гою",
+   "prep_sg": "подру́ге",
+   "nom_pl": "подру́ги",
+   "gen_pl": "подру́г",
+   "dat_pl": "подру́гам",
+   "acc_pl": "подру́г",
+   "ins_pl": "подру́гами",
+   "prep_pl": "подру́гах"
+  },
+  "examples": [
+   "s_2748318",
+   "s_3561642",
+   "s_5250177"
+  ]
+ },
+ {
+  "id": "w_roditsya",
+  "ru": "родиться",
+  "stress": "роди́ться",
+  "translit": "rodìtsia",
+  "en": [
+   "to be born, to come into being, to arise, to thrive"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "perfective",
+   "aspect_partner": "рождаться",
+   "presfut_1sg": "рожу́сь",
+   "presfut_2sg": "роди́шься",
+   "presfut_3sg": "роди́тся",
+   "presfut_1pl": "роди́мся",
+   "presfut_2pl": "роди́тесь",
+   "presfut_3pl": "родя́тся",
+   "past_m": "роди́лся",
+   "past_f": "родила́сь",
+   "past_n": "роди́лось",
+   "past_pl": "родили́сь",
+   "imp_sg": "роди́сь",
+   "imp_pl": "роди́тесь"
+  },
+  "examples": [
+   "s_2305371",
+   "s_2399781",
+   "s_2776233"
+  ]
+ },
+ {
+  "id": "w_platit",
+  "ru": "платить",
+  "stress": "плати́ть",
+  "translit": "platìt",
+  "en": [
+   "to pay, to pay for",
+   "to pay, to pay off (a debt)",
+   "to pay for, to pay the price for"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "выплатить;заплатить",
+   "presfut_1sg": "плачу́",
+   "presfut_2sg": "пла́тишь",
+   "presfut_3sg": "пла́тит",
+   "presfut_1pl": "пла́тим",
+   "presfut_2pl": "пла́тите",
+   "presfut_3pl": "пла́тят",
+   "past_m": "плати́л",
+   "past_f": "плати́ла",
+   "past_n": "плати́ло",
+   "past_pl": "плати́ли",
+   "imp_sg": "плати́",
+   "imp_pl": "плати́те"
+  },
+  "examples": [
+   "s_3122706",
+   "s_6863009",
+   "s_5651755"
+  ]
+ },
+ {
+  "id": "w_solntse",
+  "ru": "солнце",
+  "stress": "со́лнце",
+  "translit": "sòlnze",
+  "en": [
+   "sun"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "n",
+  "animate": false,
+  "forms": {
+   "nom_sg": "со́лнце",
+   "gen_sg": "со́лнца",
+   "dat_sg": "со́лнцу",
+   "acc_sg": "со́лнце",
+   "ins_sg": "со́лнцем",
+   "prep_sg": "со́лнце",
+   "nom_pl": "со́лнца",
+   "gen_pl": "со́лнц",
+   "dat_pl": "со́лнцам",
+   "acc_pl": "со́лнца",
+   "ins_pl": "со́лнцами",
+   "prep_pl": "со́лнцах"
+  },
+  "examples": [
+   "s_659925",
+   "s_3628751",
+   "s_5875123"
+  ]
+ },
+ {
+  "id": "w_bolet",
+  "ru": "болеть",
+  "stress": "боле́ть",
+  "translit": "bolèt",
+  "en": [
+   "to be ill, to be sick, to suffer from (an illness)",
+   "to hurt, to ache, to be painful",
+   "to cheer on, to support (a team), to root for"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "-",
+   "presfut_1sg": "боле́ю",
+   "presfut_2sg": "боле́ешь",
+   "presfut_3sg": "боле́ет, боли́т",
+   "presfut_1pl": "боле́ем",
+   "presfut_2pl": "боле́ете",
+   "presfut_3pl": "боле́ют, боля́т",
+   "past_m": "боле́л",
+   "past_f": "боле́ла",
+   "past_n": "боле́ло",
+   "past_pl": "боле́ли",
+   "imp_sg": "боле́й",
+   "imp_pl": "боле́йте"
+  },
+  "examples": [
+   "s_1567451",
+   "s_2236348",
+   "s_2723293"
+  ]
+ },
+ {
+  "id": "w_normalno",
+  "ru": "нормально",
+  "stress": "норма́льно",
+  "translit": "normàlno",
+  "en": [
+   "normally"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5424807",
+   "s_5588247",
+   "s_5588250"
+  ]
+ },
+ {
+  "id": "w_daleko",
+  "ru": "далеко",
+  "stress": "далеко́",
+  "translit": "dalekò",
+  "en": [
+   "far, far away, far off",
+   "it is far, it is a long way",
+   "far from, by no means"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_2703082",
+   "s_2774539",
+   "s_2411502"
+  ]
+ },
+ {
+  "id": "w_koshka",
+  "ru": "кошка",
+  "stress": "ко́шка",
+  "translit": "kòscka",
+  "en": [
+   "cat, grapnel, drag, climbing-irons"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": true,
+  "forms": {
+   "nom_sg": "ко́шка",
+   "gen_sg": "ко́шки",
+   "dat_sg": "ко́шке",
+   "acc_sg": "ко́шку",
+   "ins_sg": "ко́шкой, ко́шкою",
+   "prep_sg": "ко́шке",
+   "nom_pl": "ко́шки",
+   "gen_pl": "ко́шек",
+   "dat_pl": "ко́шкам",
+   "acc_pl": "ко́шек",
+   "ins_pl": "ко́шками",
+   "prep_pl": "ко́шках"
+  },
+  "examples": [
+   "s_2724200",
+   "s_2724201",
+   "s_3137316"
+  ]
+ },
+ {
+  "id": "w_dolgiy",
+  "ru": "долгий",
+  "stress": "до́лгий",
+  "translit": "dòlghij",
+  "en": [
+   "long, of long duration"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "до́льше",
+   "sup": "до́лее",
+   "short_m": "до́лог",
+   "short_f": "долга́",
+   "short_n": "до́лго",
+   "short_pl": "до́лги",
+   "m_nom": "до́лгий",
+   "m_gen": "до́лгого",
+   "m_dat": "до́лгому",
+   "m_acc": "до́лгий, до́лгого",
+   "m_ins": "до́лгим",
+   "m_prep": "до́лгом",
+   "f_nom": "до́лгая",
+   "f_gen": "до́лгой",
+   "f_dat": "до́лгой",
+   "f_acc": "до́лгую",
+   "f_ins": "до́лгой, (до́лгою)",
+   "f_prep": "до́лгой",
+   "n_nom": "до́лгое",
+   "n_gen": "до́лгого",
+   "n_dat": "до́лгому",
+   "n_acc": "до́лгое",
+   "n_ins": "до́лгим",
+   "n_prep": "до́лгом",
+   "pl_nom": "до́лгие",
+   "pl_gen": "до́лгих",
+   "pl_dat": "до́лгим",
+   "pl_acc": "до́лгие, до́лгих",
+   "pl_ins": "до́лгими",
+   "pl_prep": "до́лгих"
+  },
+  "examples": [
+   "s_1910262",
+   "s_3971208",
+   "s_6909572"
+  ]
+ },
+ {
+  "id": "w_golodnyy",
+  "ru": "голодный",
+  "stress": "голо́дный",
+  "translit": "golòdnyj",
+  "en": [
+   "hungry"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "short_m": "го́лоден",
+   "short_f": "голодна́",
+   "short_n": "голо́дно",
+   "short_pl": "голо́дны, голодны́",
+   "m_nom": "голо́дный",
+   "m_gen": "голо́дного",
+   "m_dat": "голо́дному",
+   "m_acc": "голо́дного, голо́дный",
+   "m_ins": "голо́дным",
+   "m_prep": "голо́дном",
+   "f_nom": "голо́дная",
+   "f_gen": "голо́дной",
+   "f_dat": "голо́дной",
+   "f_acc": "голо́дную",
+   "f_ins": "голо́дной, голо́дною",
+   "f_prep": "голо́дной",
+   "n_nom": "голо́дное",
+   "n_gen": "голо́дного",
+   "n_dat": "голо́дному",
+   "n_acc": "голо́дное",
+   "n_ins": "голо́дным",
+   "n_prep": "голо́дном",
+   "pl_nom": "голо́дные",
+   "pl_gen": "голо́дных",
+   "pl_dat": "голо́дным",
+   "pl_acc": "голо́дных, голо́дные",
+   "pl_ins": "голо́дными",
+   "pl_prep": "голо́дных"
+  },
+  "examples": [
+   "s_5658069",
+   "s_5888878",
+   "s_5893159"
+  ]
+ },
+ {
+  "id": "w_sekunda",
+  "ru": "секунда",
+  "stress": "секу́нда",
+  "translit": "sekùnda",
+  "en": [
+   "second"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "секу́нда",
+   "gen_sg": "секу́нды",
+   "dat_sg": "секу́нде",
+   "acc_sg": "секу́нду",
+   "ins_sg": "секу́ндой, секу́ндою",
+   "prep_sg": "секу́нде",
+   "nom_pl": "секу́нды",
+   "gen_pl": "секу́нд",
+   "dat_pl": "секу́ндам",
+   "acc_pl": "секу́нды",
+   "ins_pl": "секу́ндами",
+   "prep_pl": "секу́ндах"
+  },
+  "examples": [
+   "s_6312165"
+  ]
+ },
+ {
+  "id": "w_bilet",
+  "ru": "билет",
+  "stress": "биле́т",
+  "translit": "bilèt",
+  "en": [
+   "ticket",
+   "card, membership card, ID card"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "биле́т",
+   "gen_sg": "биле́та",
+   "dat_sg": "биле́ту",
+   "acc_sg": "биле́т",
+   "ins_sg": "биле́том",
+   "prep_sg": "биле́те",
+   "nom_pl": "биле́ты",
+   "gen_pl": "биле́тов",
+   "dat_pl": "биле́там",
+   "acc_pl": "биле́ты",
+   "ins_pl": "биле́тами",
+   "prep_pl": "биле́тах"
+  },
+  "examples": [
+   "s_3304341",
+   "s_6145794",
+   "s_5690919"
+  ]
+ },
+ {
+  "id": "w_gde_to",
+  "ru": "где-то",
+  "stress": "где́-то",
+  "translit": "gdè-to",
+  "en": [
+   "somewhere, anywhere"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_3545622",
+   "s_5496956",
+   "s_5496958"
+  ]
+ },
+ {
+  "id": "w_sem",
+  "ru": "семь",
+  "stress": "се́мь",
+  "translit": "sèm",
+  "en": [
+   "seven, 7"
+  ],
+  "pos": "num",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_6692322",
+   "s_5344023",
+   "s_5791146"
+  ]
+ },
+ {
+  "id": "w_krovat",
+  "ru": "кровать",
+  "stress": "крова́ть",
+  "translit": "krovàt",
+  "en": [
+   "bed"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "крова́ть",
+   "gen_sg": "крова́ти",
+   "dat_sg": "крова́ти",
+   "acc_sg": "крова́ть",
+   "ins_sg": "крова́тью",
+   "prep_sg": "крова́ти",
+   "nom_pl": "крова́ти",
+   "gen_pl": "крова́тей",
+   "dat_pl": "крова́тям",
+   "acc_pl": "крова́ти",
+   "ins_pl": "крова́тями",
+   "prep_pl": "крова́тях"
+  },
+  "examples": [
+   "s_1074984",
+   "s_2291298",
+   "s_5470330"
+  ]
+ },
+ {
+  "id": "w_vse",
+  "ru": "все",
+  "stress": "все́",
+  "translit": "vsè",
+  "en": [
+   "all, everybody, everyone",
+   "all (the), every",
+   "everything, all",
+   "the whole (of), all (of)"
+  ],
+  "pos": "pron",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_3030030",
+   "s_3690783",
+   "s_4548741"
+  ]
+ },
+ {
+  "id": "w_derevnya",
+  "ru": "деревня",
+  "stress": "дере́вня",
+  "translit": "derèvnia",
+  "en": [
+   "village, hamlet",
+   "the countryside, the country"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "дере́вня",
+   "gen_sg": "дере́вни",
+   "dat_sg": "дере́вне",
+   "acc_sg": "дере́вню",
+   "ins_sg": "дере́вней, дере́внею",
+   "prep_sg": "дере́вне",
+   "nom_pl": "дере́вни",
+   "gen_pl": "дереве́нь",
+   "dat_pl": "деревня́м",
+   "acc_pl": "дере́вни",
+   "ins_pl": "деревня́ми",
+   "prep_pl": "деревня́х"
+  },
+  "examples": [
+   "s_2776233",
+   "s_505529",
+   "s_4387201"
+  ]
+ },
+ {
+  "id": "w_pogoda",
+  "ru": "погода",
+  "stress": "пого́да",
+  "translit": "pogòda",
+  "en": [
+   "Weather"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "пого́да",
+   "gen_sg": "пого́ды",
+   "dat_sg": "пого́де",
+   "acc_sg": "пого́ду",
+   "ins_sg": "пого́дой, пого́дою",
+   "prep_sg": "пого́де",
+   "nom_pl": "пого́ды",
+   "gen_pl": "пого́д",
+   "dat_pl": "пого́дам",
+   "acc_pl": "пого́ды",
+   "ins_pl": "пого́дами",
+   "prep_pl": "пого́дах"
+  },
+  "examples": [
+   "s_380005",
+   "s_407509",
+   "s_410523"
+  ]
+ },
+ {
+  "id": "w_vykhod",
+  "ru": "выход",
+  "stress": "вы́ход",
+  "translit": "vỳkhod",
+  "en": [
+   "exit, way out",
+   "way out, solution",
+   "leaving, withdrawal, resignation",
+   "publication, release, appearance",
+   "outlet, output, vent"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "вы́ход",
+   "gen_sg": "вы́хода",
+   "dat_sg": "вы́ходу",
+   "acc_sg": "вы́ход",
+   "ins_sg": "вы́ходом",
+   "prep_sg": "вы́ходе",
+   "nom_pl": "вы́ходы",
+   "gen_pl": "вы́ходов",
+   "dat_pl": "вы́ходам",
+   "acc_pl": "вы́ходы",
+   "ins_pl": "вы́ходами",
+   "prep_pl": "вы́ходах"
+  },
+  "examples": [
+   "s_652345",
+   "s_6065545",
+   "s_12758815"
+  ]
+ },
+ {
+  "id": "w_tikho",
+  "ru": "тихо",
+  "stress": "ти́хо",
+  "translit": "tìkho",
+  "en": [
+   "quietly, softly, gently, faintly",
+   "it is quiet, it is calm",
+   "calmly, peacefully",
+   "slowly"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_4391212",
+   "s_5543282",
+   "s_5667829"
+  ]
+ },
+ {
+  "id": "w_sneg",
+  "ru": "снег",
+  "stress": "сне́г",
+  "translit": "snèg",
+  "en": [
+   "snow"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "сне́г",
+   "gen_sg": "сне́га",
+   "dat_sg": "сне́гу",
+   "acc_sg": "сне́г",
+   "ins_sg": "сне́гом",
+   "prep_sg": "сне́ге, снегу́",
+   "nom_pl": "снега́",
+   "gen_pl": "снего́в",
+   "dat_pl": "снега́м",
+   "acc_pl": "снега́",
+   "ins_pl": "снега́ми",
+   "prep_pl": "снега́х"
+  },
+  "examples": [
+   "s_337608",
+   "s_5574982",
+   "s_6554456"
+  ]
+ },
+ {
+  "id": "w_kholodnyy",
+  "ru": "холодный",
+  "stress": "холо́дный",
+  "translit": "kholòdnyj",
+  "en": [
+   "cold"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "холодне́е",
+   "sup": "холодне́йший",
+   "short_m": "хо́лоден",
+   "short_f": "холодна́",
+   "short_n": "хо́лодно",
+   "short_pl": "хо́лодны, холодны́",
+   "m_nom": "холо́дный",
+   "m_gen": "холо́дного",
+   "m_dat": "холо́дному",
+   "m_acc": "холо́дного, холо́дный",
+   "m_ins": "холо́дным",
+   "m_prep": "холо́дном",
+   "f_nom": "холо́дная",
+   "f_gen": "холо́дной",
+   "f_dat": "холо́дной",
+   "f_acc": "холо́дную",
+   "f_ins": "холо́дной, холо́дною",
+   "f_prep": "холо́дной",
+   "n_nom": "холо́дное",
+   "n_gen": "холо́дного",
+   "n_dat": "холо́дному",
+   "n_acc": "холо́дное",
+   "n_ins": "холо́дным",
+   "n_prep": "холо́дном",
+   "pl_nom": "холо́дные",
+   "pl_gen": "холо́дных",
+   "pl_dat": "холо́дным",
+   "pl_acc": "холо́дных, холо́дные",
+   "pl_ins": "холо́дными",
+   "pl_prep": "холо́дных"
+  },
+  "examples": [
+   "s_3423082",
+   "s_13364489",
+   "s_2591019"
+  ]
+ },
+ {
+  "id": "w_vosem",
+  "ru": "восемь",
+  "stress": "во́семь",
+  "translit": "vòsem",
+  "en": [
+   "eight, 8"
+  ],
+  "pos": "num",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5034004"
+  ]
+ },
+ {
+  "id": "w_ponedelnik",
+  "ru": "понедельник",
+  "stress": "понеде́льник",
+  "translit": "ponedèlnik",
+  "en": [
+   "Monday"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "понеде́льник",
+   "gen_sg": "понеде́льника",
+   "dat_sg": "понеде́льнику",
+   "acc_sg": "понеде́льник",
+   "ins_sg": "понеде́льником",
+   "prep_sg": "понеде́льнике",
+   "nom_pl": "понеде́льники",
+   "gen_pl": "понеде́льников",
+   "dat_pl": "понеде́льникам",
+   "acc_pl": "понеде́льники",
+   "ins_pl": "понеде́льниками",
+   "prep_pl": "понеде́льниках"
+  },
+  "examples": [
+   "s_407793",
+   "s_5500022",
+   "s_4045786"
+  ]
+ },
+ {
+  "id": "w_klub",
+  "ru": "клуб",
+  "stress": "клу́б",
+  "translit": "klùb",
+  "en": [
+   "club, clubhouse, society",
+   "puff, cloud, billow"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "клу́б",
+   "gen_sg": "клу́ба",
+   "dat_sg": "клу́бу",
+   "acc_sg": "клу́б",
+   "ins_sg": "клу́бом",
+   "prep_sg": "клу́бе",
+   "nom_pl": "клубы́",
+   "gen_pl": "клубо́в",
+   "dat_pl": "клуба́м",
+   "acc_pl": "клубы́",
+   "ins_pl": "клуба́ми",
+   "prep_pl": "клуба́х"
+  },
+  "examples": [
+   "s_6306891"
+  ]
+ },
+ {
+  "id": "w_stantsiya",
+  "ru": "станция",
+  "stress": "ста́нция",
+  "translit": "stànziia",
+  "en": [
+   "station",
+   "plant, station"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "ста́нция",
+   "gen_sg": "ста́нции",
+   "dat_sg": "ста́нции",
+   "acc_sg": "ста́нцию",
+   "ins_sg": "ста́нцией, ста́нциею",
+   "prep_sg": "ста́нции",
+   "nom_pl": "ста́нции",
+   "gen_pl": "ста́нций",
+   "dat_pl": "ста́нциям",
+   "acc_pl": "ста́нции",
+   "ins_pl": "ста́нциями",
+   "prep_pl": "ста́нциях"
+  },
+  "examples": [
+   "s_1015289",
+   "s_2804335",
+   "s_4357143"
+  ]
+ },
+ {
+  "id": "w_voskresene",
+  "ru": "воскресенье",
+  "stress": "воскресе́нье",
+  "translit": "voskresènie",
+  "en": [
+   "Sunday"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "n",
+  "animate": false,
+  "forms": {
+   "nom_sg": "воскресе́нье",
+   "gen_sg": "воскресе́нья",
+   "dat_sg": "воскресе́нью",
+   "acc_sg": "воскресе́нье",
+   "ins_sg": "воскресе́ньем",
+   "prep_sg": "воскресе́нье",
+   "nom_pl": "воскресе́нья",
+   "gen_pl": "воскресе́ний",
+   "dat_pl": "воскресе́ньям",
+   "acc_pl": "воскресе́нья",
+   "ins_pl": "воскресе́ньями",
+   "prep_pl": "воскресе́ньях"
+  },
+  "examples": [
+   "s_1061695",
+   "s_2521264",
+   "s_5625356"
+  ]
+ },
+ {
+  "id": "w_gryaznyy",
+  "ru": "грязный",
+  "stress": "гря́зный",
+  "translit": "griàznyj",
+  "en": [
+   "dirty, filthy, soiled",
+   "muddy, miry",
+   "sordid, dishonest, obscene"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "грязне́е",
+   "sup": "грязне́йший",
+   "short_m": "гря́зен",
+   "short_f": "грязна́",
+   "short_n": "гря́зно",
+   "short_pl": "гря́зны",
+   "m_nom": "гря́зный",
+   "m_gen": "гря́зного",
+   "m_dat": "гря́зному",
+   "m_acc": "гря́зный, гря́зного",
+   "m_ins": "гря́зным",
+   "m_prep": "гря́зном",
+   "f_nom": "гря́зная",
+   "f_gen": "гря́зной",
+   "f_dat": "гря́зной",
+   "f_acc": "гря́зную",
+   "f_ins": "гря́зной, (гря́зною)",
+   "f_prep": "гря́зной",
+   "n_nom": "гря́зное",
+   "n_gen": "гря́зного",
+   "n_dat": "гря́зному",
+   "n_acc": "гря́зное",
+   "n_ins": "гря́зным",
+   "n_prep": "гря́зном",
+   "pl_nom": "гря́зные",
+   "pl_gen": "гря́зных",
+   "pl_dat": "гря́зным",
+   "pl_acc": "гря́зные, гря́зных",
+   "pl_ins": "гря́зными",
+   "pl_prep": "гря́зных"
+  },
+  "examples": [
+   "s_6480749",
+   "s_6480750",
+   "s_6480751"
+  ]
+ },
+ {
+  "id": "w_trudnyy",
+  "ru": "трудный",
+  "stress": "тру́дный",
+  "translit": "trùdnyj",
+  "en": [
+   "difficult, tough, hard"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "трудне́е",
+   "sup": "трудне́йший",
+   "short_m": "тру́ден",
+   "short_f": "трудна́",
+   "short_n": "тру́дно",
+   "short_pl": "тру́дны, трудны́",
+   "m_nom": "тру́дный",
+   "m_gen": "тру́дного",
+   "m_dat": "тру́дному",
+   "m_acc": "тру́дный, тру́дного",
+   "m_ins": "тру́дным",
+   "m_prep": "тру́дном",
+   "f_nom": "тру́дная",
+   "f_gen": "тру́дной",
+   "f_dat": "тру́дной",
+   "f_acc": "тру́дную",
+   "f_ins": "тру́дной, (тру́дною)",
+   "f_prep": "тру́дной",
+   "n_nom": "тру́дное",
+   "n_gen": "тру́дного",
+   "n_dat": "тру́дному",
+   "n_acc": "тру́дное",
+   "n_ins": "тру́дным",
+   "n_prep": "тру́дном",
+   "pl_nom": "тру́дные",
+   "pl_gen": "тру́дных",
+   "pl_dat": "тру́дным",
+   "pl_acc": "тру́дные, тру́дных",
+   "pl_ins": "тру́дными",
+   "pl_prep": "тру́дных"
+  },
+  "examples": [
+   "s_705539",
+   "s_4825486",
+   "s_5590168"
+  ]
+ },
+ {
+  "id": "w_pravilnyy",
+  "ru": "правильный",
+  "stress": "пра́вильный",
+  "translit": "pràvilnyj",
+  "en": [
+   "correct, right, true",
+   "regular, proper, well-proportioned"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "пра́вильнее",
+   "sup": "са́мый пра́вильный",
+   "short_m": "пра́вилен",
+   "short_f": "пра́вильна",
+   "short_n": "пра́вильно",
+   "short_pl": "пра́вильны",
+   "m_nom": "пра́вильный",
+   "m_gen": "пра́вильного",
+   "m_dat": "пра́вильному",
+   "m_acc": "пра́вильный, пра́вильного",
+   "m_ins": "пра́вильным",
+   "m_prep": "пра́вильном",
+   "f_nom": "пра́вильная",
+   "f_gen": "пра́вильной",
+   "f_dat": "пра́вильной",
+   "f_acc": "пра́вильную",
+   "f_ins": "пра́вильной, (пра́вильною)",
+   "f_prep": "пра́вильной",
+   "n_nom": "пра́вильное",
+   "n_gen": "пра́вильного",
+   "n_dat": "пра́вильному",
+   "n_acc": "пра́вильное",
+   "n_ins": "пра́вильным",
+   "n_prep": "пра́вильном",
+   "pl_nom": "пра́вильные",
+   "pl_gen": "пра́вильных",
+   "pl_dat": "пра́вильным",
+   "pl_acc": "пра́вильные, пра́вильных",
+   "pl_ins": "пра́вильными",
+   "pl_prep": "пра́вильных"
+  },
+  "examples": [
+   "s_475328",
+   "s_5646200",
+   "s_5884154"
+  ]
+ },
+ {
+  "id": "w_tikhiy",
+  "ru": "тихий",
+  "stress": "ти́хий",
+  "translit": "tìkhij",
+  "en": [
+   "quiet, low, soft",
+   "quiet, silent, still",
+   "peaceful, unhurried, calm",
+   "Pacific"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "ти́ше",
+   "sup": "тиша́йший",
+   "short_m": "тих",
+   "short_f": "тиха́",
+   "short_n": "ти́хо",
+   "short_pl": "ти́хи, тихи́",
+   "m_nom": "ти́хий",
+   "m_gen": "ти́хого",
+   "m_dat": "ти́хому",
+   "m_acc": "ти́хий, ти́хого",
+   "m_ins": "ти́хим",
+   "m_prep": "ти́хом",
+   "f_nom": "ти́хая",
+   "f_gen": "ти́хой",
+   "f_dat": "ти́хой",
+   "f_acc": "ти́хую",
+   "f_ins": "ти́хой, (ти́хою)",
+   "f_prep": "ти́хой",
+   "n_nom": "ти́хое",
+   "n_gen": "ти́хого",
+   "n_dat": "ти́хому",
+   "n_acc": "ти́хое",
+   "n_ins": "ти́хим",
+   "n_prep": "ти́хом",
+   "pl_nom": "ти́хие",
+   "pl_gen": "ти́хих",
+   "pl_dat": "ти́хим",
+   "pl_acc": "ти́хие, ти́хих",
+   "pl_ins": "ти́хими",
+   "pl_prep": "ти́хих"
+  },
+  "examples": [
+   "s_5582332",
+   "s_6877253",
+   "s_2623286"
+  ]
+ },
+ {
+  "id": "w_stul",
+  "ru": "стул",
+  "stress": "сту́л",
+  "translit": "stùl",
+  "en": [
+   "chair",
+   "stool, bowel movement"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "сту́л",
+   "gen_sg": "сту́ла",
+   "dat_sg": "сту́лу",
+   "acc_sg": "сту́л",
+   "ins_sg": "сту́лом",
+   "prep_sg": "сту́ле",
+   "nom_pl": "сту́лья",
+   "gen_pl": "сту́льев",
+   "dat_pl": "сту́льям",
+   "acc_pl": "сту́лья",
+   "ins_pl": "сту́льями",
+   "prep_pl": "сту́льях"
+  },
+  "examples": [
+   "s_351222",
+   "s_3302573",
+   "s_3507897"
+  ]
+ },
+ {
+  "id": "w_devyat",
+  "ru": "девять",
+  "stress": "де́вять",
+  "translit": "dèviat",
+  "en": [
+   "nine, 9"
+  ],
+  "pos": "num",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_1336728",
+   "s_443699",
+   "s_782727"
+  ]
+ },
+ {
+  "id": "w_pyatnitsa",
+  "ru": "пятница",
+  "stress": "пя́тница",
+  "translit": "piàtniza",
+  "en": [
+   "Friday"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "пя́тница",
+   "gen_sg": "пя́тницы",
+   "dat_sg": "пя́тнице",
+   "acc_sg": "пя́тницу",
+   "ins_sg": "пя́тницей, пя́тницею",
+   "prep_sg": "пя́тнице",
+   "nom_pl": "пя́тницы",
+   "gen_pl": "пя́тниц",
+   "dat_pl": "пя́тницам",
+   "acc_pl": "пя́тницы",
+   "ins_pl": "пя́тницами",
+   "prep_pl": "пя́тницах"
+  },
+  "examples": [
+   "s_1275197",
+   "s_2082100",
+   "s_6589959"
+  ]
+ },
+ {
+  "id": "w_botinok",
+  "ru": "ботинок",
+  "stress": "боти́нок",
+  "translit": "botìnok",
+  "en": [
+   "ankle-high shoe, boot, shoe"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "боти́нок",
+   "gen_sg": "боти́нка",
+   "dat_sg": "боти́нку",
+   "acc_sg": "боти́нок",
+   "ins_sg": "боти́нком",
+   "prep_sg": "боти́нке",
+   "nom_pl": "боти́нки",
+   "gen_pl": "боти́нок",
+   "dat_pl": "боти́нкам",
+   "acc_pl": "боти́нки",
+   "ins_pl": "боти́нками",
+   "prep_pl": "боти́нках"
+  },
+  "examples": [
+   "s_2355599",
+   "s_2531338",
+   "s_5498835"
+  ]
+ },
+ {
+  "id": "w_chashka",
+  "ru": "чашка",
+  "stress": "ча́шка",
+  "translit": "ciàscka",
+  "en": [
+   "cup"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "ча́шка",
+   "gen_sg": "ча́шки",
+   "dat_sg": "ча́шке",
+   "acc_sg": "ча́шку",
+   "ins_sg": "ча́шкой, ча́шкою",
+   "prep_sg": "ча́шке",
+   "nom_pl": "ча́шки",
+   "gen_pl": "ча́шек",
+   "dat_pl": "ча́шкам",
+   "acc_pl": "ча́шки",
+   "ins_pl": "ча́шками",
+   "prep_pl": "ча́шках"
+  },
+  "examples": [
+   "s_5651726",
+   "s_5651728",
+   "s_6462860"
+  ]
+ },
+ {
+  "id": "w_sup",
+  "ru": "суп",
+  "stress": "су́п",
+  "translit": "sùp",
+  "en": [
+   "soup"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "су́п",
+   "gen_sg": "су́па",
+   "dat_sg": "су́пу",
+   "acc_sg": "су́п",
+   "ins_sg": "су́пом",
+   "prep_sg": "су́пе",
+   "nom_pl": "супы́",
+   "gen_pl": "супо́в",
+   "dat_pl": "супа́м",
+   "acc_pl": "супы́",
+   "ins_pl": "супа́ми",
+   "prep_pl": "супа́х"
+  },
+  "examples": [
+   "s_2743780",
+   "s_440962",
+   "s_3291753"
+  ]
+ },
+ {
+  "id": "w_vkusnyy",
+  "ru": "вкусный",
+  "stress": "вку́сный",
+  "translit": "vkùsnyj",
+  "en": [
+   "tasty, delicious, palatable"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "вкусне́е",
+   "sup": "вкусне́йший",
+   "short_m": "вку́сен",
+   "short_f": "вкусна́",
+   "short_n": "вку́сно",
+   "short_pl": "вкусны́, вку́сны",
+   "m_nom": "вку́сный",
+   "m_gen": "вку́сного",
+   "m_dat": "вку́сному",
+   "m_acc": "вку́сный, вку́сного",
+   "m_ins": "вку́сным",
+   "m_prep": "вку́сном",
+   "f_nom": "вку́сная",
+   "f_gen": "вку́сной",
+   "f_dat": "вку́сной",
+   "f_acc": "вку́сную",
+   "f_ins": "вку́сной, (вку́сною)",
+   "f_prep": "вку́сной",
+   "n_nom": "вку́сное",
+   "n_gen": "вку́сного",
+   "n_dat": "вку́сному",
+   "n_acc": "вку́сное",
+   "n_ins": "вку́сным",
+   "n_prep": "вку́сном",
+   "pl_nom": "вку́сные",
+   "pl_gen": "вку́сных",
+   "pl_dat": "вку́сным",
+   "pl_acc": "вку́сные, вку́сных",
+   "pl_ins": "вку́сными",
+   "pl_prep": "вку́сных"
+  },
+  "examples": [
+   "s_3174812",
+   "s_3291753",
+   "s_5480824"
+  ]
+ },
+ {
+  "id": "w_dobroe_utro",
+  "ru": "доброе утро",
+  "stress": "до́брое у́тро",
+  "translit": "dòbroie ùtro",
+  "en": [
+   "good morning"
+  ],
+  "pos": "phrase",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
+ },
+ {
+  "id": "w_subbota",
+  "ru": "суббота",
+  "stress": "суббо́та",
+  "translit": "subbòta",
+  "en": [
+   "Saturday"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "суббо́та",
+   "gen_sg": "суббо́ты",
+   "dat_sg": "суббо́те",
+   "acc_sg": "суббо́ту",
+   "ins_sg": "суббо́той, суббо́тою",
+   "prep_sg": "суббо́те",
+   "nom_pl": "суббо́ты",
+   "gen_pl": "суббо́т",
+   "dat_pl": "суббо́там",
+   "acc_pl": "суббо́ты",
+   "ins_pl": "суббо́тами",
+   "prep_pl": "суббо́тах"
+  },
+  "examples": [
+   "s_468424",
+   "s_3628708",
+   "s_4102540"
+  ]
+ },
+ {
+  "id": "w_normalnyy",
+  "ru": "нормальный",
+  "stress": "норма́льный",
+  "translit": "normàlnyj",
+  "en": [
+   "normal, sane"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "норма́льнее",
+   "sup": "норма́льнейший",
+   "short_m": "норма́лен",
+   "short_f": "норма́льна",
+   "short_n": "норма́льно",
+   "short_pl": "норма́льны",
+   "m_nom": "норма́льный",
+   "m_gen": "норма́льного",
+   "m_dat": "норма́льному",
+   "m_acc": "норма́льный, норма́льного",
+   "m_ins": "норма́льным",
+   "m_prep": "норма́льном",
+   "f_nom": "норма́льная",
+   "f_gen": "норма́льной",
+   "f_dat": "норма́льной",
+   "f_acc": "норма́льную",
+   "f_ins": "норма́льной, (норма́льною)",
+   "f_prep": "норма́льной",
+   "n_nom": "норма́льное",
+   "n_gen": "норма́льного",
+   "n_dat": "норма́льному",
+   "n_acc": "норма́льное",
+   "n_ins": "норма́льным",
+   "n_prep": "норма́льном",
+   "pl_nom": "норма́льные",
+   "pl_gen": "норма́льных",
+   "pl_dat": "норма́льным",
+   "pl_acc": "норма́льные, норма́льных",
+   "pl_ins": "норма́льными",
+   "pl_prep": "норма́льных"
+  },
+  "examples": [
+   "s_3285351",
+   "s_6829530",
+   "s_5153537"
+  ]
+ },
+ {
+  "id": "w_vezde",
+  "ru": "везде",
+  "stress": "везде́",
+  "translit": "vezdè",
+  "en": [
+   "everywhere"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_2872702",
+   "s_4571380",
+   "s_5563752"
+  ]
+ },
+ {
+  "id": "w_vkhod",
+  "ru": "вход",
+  "stress": "вхо́д",
+  "translit": "vkhòd",
+  "en": [
+   "entrance",
+   "entry, admission, access"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "вхо́д",
+   "gen_sg": "вхо́да",
+   "dat_sg": "вхо́ду",
+   "acc_sg": "вхо́д",
+   "ins_sg": "вхо́дом",
+   "prep_sg": "вхо́де",
+   "nom_pl": "вхо́ды",
+   "gen_pl": "вхо́дов",
+   "dat_pl": "вхо́дам",
+   "acc_pl": "вхо́ды",
+   "ins_pl": "вхо́дами",
+   "prep_pl": "вхо́дах"
+  },
+  "examples": [
+   "s_1393644",
+   "s_1460858",
+   "s_6960139"
+  ]
+ },
+ {
+  "id": "w_malyy",
+  "ru": "малый",
+  "stress": "ма́лый",
+  "translit": "màlyj",
+  "en": [
+   "small, the little, fellow, boy"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "ме́ньше",
+   "sup": "мале́йший;ме́ньший",
+   "short_m": "мал",
+   "short_f": "мала́",
+   "short_n": "мало́",
+   "short_pl": "малы́",
+   "m_nom": "ма́лый",
+   "m_gen": "ма́лого",
+   "m_dat": "ма́лому",
+   "m_acc": "ма́лый, ма́лого",
+   "m_ins": "ма́лым",
+   "m_prep": "ма́лом",
+   "f_nom": "ма́лая",
+   "f_gen": "ма́лой",
+   "f_dat": "ма́лой",
+   "f_acc": "ма́лую",
+   "f_ins": "ма́лой, (ма́лою)",
+   "f_prep": "ма́лой",
+   "n_nom": "ма́лое",
+   "n_gen": "ма́лого",
+   "n_dat": "ма́лому",
+   "n_acc": "ма́лое",
+   "n_ins": "ма́лым",
+   "n_prep": "ма́лом",
+   "pl_nom": "ма́лые",
+   "pl_gen": "ма́лых",
+   "pl_dat": "ма́лым",
+   "pl_acc": "ма́лые, ма́лых",
+   "pl_ins": "ма́лыми",
+   "pl_prep": "ма́лых"
+  },
+  "examples": [
+   "s_6841171",
+   "s_7962297",
+   "s_7962299"
+  ]
+ },
+ {
+  "id": "w_deshyovyy",
+  "ru": "дешёвый",
+  "stress": "дешёвый",
+  "translit": "desciòvyj",
+  "en": [
+   "cheap, inexpensive, low (of a price or quality)"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "деше́вле",
+   "sup": "дешеве́йший",
+   "short_m": "дёшев",
+   "short_f": "дешева́",
+   "short_n": "дёшево",
+   "short_pl": "дёшевы",
+   "m_nom": "дешёвый",
+   "m_gen": "дешёвого",
+   "m_dat": "дешёвому",
+   "m_acc": "дешёвый, дешёвого",
+   "m_ins": "дешёвым",
+   "m_prep": "дешёвом",
+   "f_nom": "дешёвая",
+   "f_gen": "дешёвой",
+   "f_dat": "дешёвой",
+   "f_acc": "дешёвую",
+   "f_ins": "дешёвой, (дешёвою)",
+   "f_prep": "дешёвой",
+   "n_nom": "дешёвое",
+   "n_gen": "дешёвого",
+   "n_dat": "дешёвому",
+   "n_acc": "дешёвое",
+   "n_ins": "дешёвым",
+   "n_prep": "дешёвом",
+   "pl_nom": "дешёвые",
+   "pl_gen": "дешёвых",
+   "pl_dat": "дешёвым",
+   "pl_acc": "дешёвые, дешёвых",
+   "pl_ins": "дешёвыми",
+   "pl_prep": "дешёвых"
+  },
+  "examples": [
+   "s_5384211",
+   "s_10933090",
+   "s_5406527"
+  ]
+ },
+ {
+  "id": "w_sreda",
+  "ru": "среда",
+  "stress": "среда́",
+  "translit": "sredà",
+  "en": [
+   "Wednesday",
+   "environment, surroundings, milieu, social setting",
+   "medium"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "среда́",
+   "gen_sg": "среды́",
+   "dat_sg": "среде́",
+   "acc_sg": "среду́",
+   "ins_sg": "средо́й, средо́ю",
+   "prep_sg": "среде́",
+   "nom_pl": "сре́ды",
+   "gen_pl": "сре́д",
+   "dat_pl": "среда́м",
+   "acc_pl": "сре́ды",
+   "ins_pl": "среда́ми",
+   "prep_pl": "среда́х"
+  },
+  "examples": [
+   "s_2484149",
+   "s_6712593",
+   "s_5500018"
+  ]
+ },
+ {
+  "id": "w_napitok",
+  "ru": "напиток",
+  "stress": "напи́ток",
+  "translit": "napìtok",
+  "en": [
+   "drink, beverage"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "напи́ток",
+   "gen_sg": "напи́тка",
+   "dat_sg": "напи́тку",
+   "acc_sg": "напи́ток",
+   "ins_sg": "напи́тком",
+   "prep_sg": "напи́тке",
+   "nom_pl": "напи́тки",
+   "gen_pl": "напи́тков",
+   "dat_pl": "напи́ткам",
+   "acc_pl": "напи́тки",
+   "ins_pl": "напи́тками",
+   "prep_pl": "напи́тках"
+  },
+  "examples": [
+   "s_6946227",
+   "s_3965387"
+  ]
+ },
+ {
+  "id": "w_gromkiy",
+  "ru": "громкий",
+  "stress": "гро́мкий",
+  "translit": "gròmkij",
+  "en": [
+   "loud"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "гро́мче",
+   "sup": "громча́йший",
+   "short_m": "гро́мок",
+   "short_f": "громка́",
+   "short_n": "гро́мко",
+   "short_pl": "гро́мки",
+   "m_nom": "гро́мкий",
+   "m_gen": "гро́мкого",
+   "m_dat": "гро́мкому",
+   "m_acc": "гро́мкий, гро́мкого",
+   "m_ins": "гро́мким",
+   "m_prep": "гро́мком",
+   "f_nom": "гро́мкая",
+   "f_gen": "гро́мкой",
+   "f_dat": "гро́мкой",
+   "f_acc": "гро́мкую",
+   "f_ins": "гро́мкой, (гро́мкою)",
+   "f_prep": "гро́мкой",
+   "n_nom": "гро́мкое",
+   "n_gen": "гро́мкого",
+   "n_dat": "гро́мкому",
+   "n_acc": "гро́мкое",
+   "n_ins": "гро́мким",
+   "n_prep": "гро́мком",
+   "pl_nom": "гро́мкие",
+   "pl_gen": "гро́мких",
+   "pl_dat": "гро́мким",
+   "pl_acc": "гро́мкие, гро́мких",
+   "pl_ins": "гро́мкими",
+   "pl_prep": "гро́мких"
+  },
+  "examples": [
+   "s_2474721",
+   "s_3748934"
+  ]
+ },
+ {
+  "id": "w_paket",
+  "ru": "пакет",
+  "stress": "паке́т",
+  "translit": "pakèt",
+  "en": [
+   "bag, plastic bag, paper bag",
+   "package, parcel, packet",
+   "package, set, bundle"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "паке́т",
+   "gen_sg": "паке́та",
+   "dat_sg": "паке́ту",
+   "acc_sg": "паке́т",
+   "ins_sg": "паке́том",
+   "prep_sg": "паке́те",
+   "nom_pl": "паке́ты",
+   "gen_pl": "паке́тов",
+   "dat_pl": "паке́там",
+   "acc_pl": "паке́ты",
+   "ins_pl": "паке́тами",
+   "prep_pl": "паке́тах"
+  },
+  "examples": [
+   "s_6162407",
+   "s_6916822"
+  ]
+ },
+ {
+  "id": "w_gromko",
+  "ru": "громко",
+  "stress": "гро́мко",
+  "translit": "gròmko",
+  "en": [
+   "loud, aloud"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_1513458",
+   "s_11575676",
+   "s_5766743"
+  ]
+ },
+ {
+  "id": "w_kurtka",
+  "ru": "куртка",
+  "stress": "ку́ртка",
+  "translit": "kùrtka",
+  "en": [
+   "jacket, coat"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "ку́ртка",
+   "gen_sg": "ку́ртки",
+   "dat_sg": "ку́ртке",
+   "acc_sg": "ку́ртку",
+   "ins_sg": "ку́рткой, ку́рткою",
+   "prep_sg": "ку́ртке",
+   "nom_pl": "ку́ртки",
+   "gen_pl": "ку́рток",
+   "dat_pl": "ку́рткам",
+   "acc_pl": "ку́ртки",
+   "ins_pl": "ку́ртками",
+   "prep_pl": "ку́ртках"
+  },
+  "examples": [
+   "s_4741147",
+   "s_5556249",
+   "s_5999796"
+  ]
+ },
+ {
+  "id": "w_tekst",
+  "ru": "текст",
+  "stress": "те́кст",
+  "translit": "tèkst",
+  "en": [
+   "text, words"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "те́кст",
+   "gen_sg": "те́кста",
+   "dat_sg": "те́ксту",
+   "acc_sg": "те́кст",
+   "ins_sg": "те́кстом",
+   "prep_sg": "те́ксте",
+   "nom_pl": "те́ксты",
+   "gen_pl": "те́кстов",
+   "dat_pl": "те́кстам",
+   "acc_pl": "те́ксты",
+   "ins_pl": "те́кстами",
+   "prep_pl": "те́кстах"
+  },
+  "examples": [
+   "s_8083841"
+  ]
+ },
+ {
+  "id": "w_napravo",
+  "ru": "направо",
+  "stress": "напра́во",
+  "translit": "napràvo",
+  "en": [
+   "to the right"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5383847"
+  ]
+ },
+ {
+  "id": "w_nalevo",
+  "ru": "налево",
+  "stress": "нале́во",
+  "translit": "nalèvo",
+  "en": [
+   "to the left, on the left",
+   "on the side, illicitly"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_5383846",
+   "s_6819185",
+   "s_7079084"
+  ]
+ },
+ {
+  "id": "w_nigde",
+  "ru": "нигде",
+  "stress": "нигде́",
+  "translit": "nigdè",
+  "en": [
+   "nowhere"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
+ },
+ {
+  "id": "w_dochka",
+  "ru": "дочка",
+  "stress": "до́чка",
+  "translit": "dòcka",
+  "en": [
+   "daughter"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": true,
+  "forms": {
+   "nom_sg": "до́чка",
+   "gen_sg": "до́чки",
+   "dat_sg": "до́чке",
+   "acc_sg": "до́чку",
+   "ins_sg": "до́чкой, до́чкою",
+   "prep_sg": "до́чке",
+   "nom_pl": "до́чки",
+   "gen_pl": "до́чек",
+   "dat_pl": "до́чкам",
+   "acc_pl": "до́чек",
+   "ins_pl": "до́чками",
+   "prep_pl": "до́чках"
+  }
+ },
+ {
+  "id": "w_dobryy_den",
+  "ru": "добрый день",
+  "stress": "до́брый де́нь",
+  "translit": "dòbryj dèn",
+  "en": [
+   "good day"
+  ],
+  "pos": "phrase",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_466961"
+  ]
+ },
+ {
+  "id": "w_nedaleko",
+  "ru": "недалеко",
+  "stress": "недалеко́",
+  "translit": "nedalekò",
+  "en": [
+   "not far, nearby, close by, near",
+   "not far off, near (in time)"
+  ],
+  "pos": "adv",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_824039",
+   "s_1109141",
+   "s_10987591"
+  ]
+ },
+ {
+  "id": "w_dobryy_vecher",
+  "ru": "добрый вечер",
+  "stress": "до́брый ве́чер",
+  "translit": "dòbryj vècer",
+  "en": [
+   "good evening"
+  ],
+  "pos": "phrase",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "examples": [
+   "s_399613"
+  ]
+ },
+ {
+  "id": "w_kafe",
+  "ru": "кафе",
+  "stress": "кафе́",
+  "translit": "kafè",
+  "en": [
+   "café, coffee-house, coffee shop"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "n",
+  "animate": false,
+  "forms": {
+   "indeclinable": "1"
+  },
+  "examples": [
+   "s_6692154"
+  ]
+ },
+ {
+  "id": "w_salat",
+  "ru": "салат",
+  "stress": "сала́т",
+  "translit": "salàt",
+  "en": [
+   "salad",
+   "lettuce"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "сала́т",
+   "gen_sg": "сала́та",
+   "dat_sg": "сала́ту",
+   "acc_sg": "сала́т",
+   "ins_sg": "сала́том",
+   "prep_sg": "сала́те",
+   "nom_pl": "сала́ты",
+   "gen_pl": "сала́тов",
+   "dat_pl": "сала́там",
+   "acc_pl": "сала́ты",
+   "ins_pl": "сала́тами",
+   "prep_pl": "сала́тах"
+  },
+  "examples": [
+   "s_2608430",
+   "s_4263317",
+   "s_4263318"
+  ]
+ },
+ {
+  "id": "w_metro",
+  "ru": "метро",
+  "stress": "метро́",
+  "translit": "metrò",
+  "en": [
+   "metro, subway, underground"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "n",
+  "animate": false,
+  "forms": {
+   "indeclinable": "1"
+  },
+  "examples": [
+   "s_2353628",
+   "s_6894523",
+   "s_5661022"
+  ]
+ },
+ {
+  "id": "w_medlennyy",
+  "ru": "медленный",
+  "stress": "ме́дленный",
+  "translit": "mèdlennyj",
+  "en": [
+   "slow"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "ме́дленнее",
+   "sup": "ме́дленнейший",
+   "short_m": "ме́дленен, ме́длен",
+   "short_f": "ме́дленна",
+   "short_n": "ме́дленно",
+   "short_pl": "ме́дленны",
+   "m_nom": "ме́дленный",
+   "m_gen": "ме́дленного",
+   "m_dat": "ме́дленному",
+   "m_acc": "ме́дленный, ме́дленного",
+   "m_ins": "ме́дленным",
+   "m_prep": "ме́дленном",
+   "f_nom": "ме́дленная",
+   "f_gen": "ме́дленной",
+   "f_dat": "ме́дленной",
+   "f_acc": "ме́дленную",
+   "f_ins": "ме́дленной, (ме́дленною)",
+   "f_prep": "ме́дленной",
+   "n_nom": "ме́дленное",
+   "n_gen": "ме́дленного",
+   "n_dat": "ме́дленному",
+   "n_acc": "ме́дленное",
+   "n_ins": "ме́дленным",
+   "n_prep": "ме́дленном",
+   "pl_nom": "ме́дленные",
+   "pl_gen": "ме́дленных",
+   "pl_dat": "ме́дленным",
+   "pl_acc": "ме́дленные, ме́дленных",
+   "pl_ins": "ме́дленными",
+   "pl_prep": "ме́дленных"
+  },
+  "examples": [
+   "s_5480877",
+   "s_5579531",
+   "s_7326154"
+  ]
+ },
+ {
+  "id": "w_vtornik",
+  "ru": "вторник",
+  "stress": "вто́рник",
+  "translit": "vtòrnik",
+  "en": [
+   "Tuesday"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "вто́рник",
+   "gen_sg": "вто́рника",
+   "dat_sg": "вто́рнику",
+   "acc_sg": "вто́рник",
+   "ins_sg": "вто́рником",
+   "prep_sg": "вто́рнике",
+   "nom_pl": "вто́рники",
+   "gen_pl": "вто́рников",
+   "dat_pl": "вто́рникам",
+   "acc_pl": "вто́рники",
+   "ins_pl": "вто́рниками",
+   "prep_pl": "вто́рниках"
+  },
+  "examples": [
+   "s_3313440",
+   "s_5500023",
+   "s_6305900"
+  ]
+ },
+ {
+  "id": "w_chetverg",
+  "ru": "четверг",
+  "stress": "четве́рг",
+  "translit": "cetvèrg",
+  "en": [
+   "Thursday"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "четве́рг",
+   "gen_sg": "четверга́",
+   "dat_sg": "четвергу́",
+   "acc_sg": "четве́рг",
+   "ins_sg": "четверго́м",
+   "prep_sg": "четверге́",
+   "nom_pl": "четверги́",
+   "gen_pl": "четверго́в",
+   "dat_pl": "четверга́м",
+   "acc_pl": "четверги́",
+   "ins_pl": "четверга́ми",
+   "prep_pl": "четверга́х"
+  },
+  "examples": [
+   "s_1865237",
+   "s_2369092",
+   "s_376033"
+  ]
+ },
+ {
+  "id": "w_dalyokiy",
+  "ru": "далёкий",
+  "stress": "далёкий",
+  "translit": "daliòkij",
+  "en": [
+   "far, distant, faraway, remote",
+   "distant, remote, long-past",
+   "far removed (from), alien, unrelated",
+   "by no means, far from"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "short_m": "далёк",
+   "short_f": "далека́",
+   "short_n": "далеко́",
+   "short_pl": "далеки́//далёки",
+   "m_nom": "далёкий",
+   "m_gen": "далёкого",
+   "m_dat": "далёкому",
+   "m_acc": "далёкий, далёкого",
+   "m_ins": "далёким",
+   "m_prep": "далёком",
+   "f_nom": "далёкая",
+   "f_gen": "далёкой",
+   "f_dat": "далёкой",
+   "f_acc": "далёкую",
+   "f_ins": "далёкой, далёкою",
+   "f_prep": "далёкой",
+   "n_nom": "далёкое",
+   "n_gen": "далёкого",
+   "n_dat": "далёкому",
+   "n_acc": "далёкое",
+   "n_ins": "далёким",
+   "n_prep": "далёком",
+   "pl_nom": "далёкие",
+   "pl_gen": "далёких",
+   "pl_dat": "далёким",
+   "pl_acc": "далёкие, далёких",
+   "pl_ins": "далёкими",
+   "pl_prep": "далёких"
+  }
+ },
+ {
+  "id": "w_khobbi",
+  "ru": "хобби",
+  "stress": "хо́бби",
+  "translit": "khòbbi",
+  "en": [
+   "hobby"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "n",
+  "animate": false,
+  "forms": {
+   "indeclinable": "1"
+  }
+ },
+ {
+  "id": "w_zharkiy",
+  "ru": "жаркий",
+  "stress": "жа́ркий",
+  "translit": "zhàrkij",
+  "en": [
+   "hot"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "comp": "жа́рче",
+   "sup": "жа́рчейщий",
+   "short_m": "жа́рок",
+   "short_f": "жарка́",
+   "short_n": "жа́рко",
+   "short_pl": "жа́рки",
+   "m_nom": "жа́ркий",
+   "m_gen": "жа́ркого",
+   "m_dat": "жа́ркому",
+   "m_acc": "жа́ркого, жа́ркий",
+   "m_ins": "жа́рким",
+   "m_prep": "жа́рком",
+   "f_nom": "жа́ркая",
+   "f_gen": "жа́ркой",
+   "f_dat": "жа́ркой",
+   "f_acc": "жа́ркую",
+   "f_ins": "жа́ркой, жа́ркою",
+   "f_prep": "жа́ркой",
+   "n_nom": "жа́ркое",
+   "n_gen": "жа́ркого",
+   "n_dat": "жа́ркому",
+   "n_acc": "жа́ркое",
+   "n_ins": "жа́рким",
+   "n_prep": "жа́рком",
+   "pl_nom": "жа́ркие",
+   "pl_gen": "жа́рких",
+   "pl_dat": "жа́рким",
+   "pl_acc": "жа́рких, жа́ркие",
+   "pl_ins": "жа́ркими",
+   "pl_prep": "жа́рких"
+  },
+  "examples": [
+   "s_5661402",
+   "s_6803276",
+   "s_10921211"
+  ]
+ },
+ {
+  "id": "w_piknik",
+  "ru": "пикник",
+  "stress": "пикни́к",
+  "translit": "piknìk",
+  "en": [
+   "picnic, outing"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "пикни́к",
+   "gen_sg": "пикника́",
+   "dat_sg": "пикнику́",
+   "acc_sg": "пикни́к",
+   "ins_sg": "пикнико́м",
+   "prep_sg": "пикнике́",
+   "nom_pl": "пикники́",
+   "gen_pl": "пикнико́в",
+   "dat_pl": "пикника́м",
+   "acc_pl": "пикники́",
+   "ins_pl": "пикника́ми",
+   "prep_pl": "пикника́х"
+  }
+ },
+ {
+  "id": "w_shtorm",
+  "ru": "шторм",
+  "stress": "што́рм",
+  "translit": "sctòrm",
+  "en": [
+   "storm"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "што́рм",
+   "gen_sg": "што́рма",
+   "dat_sg": "што́рму",
+   "acc_sg": "што́рм",
+   "ins_sg": "што́рмом",
+   "prep_sg": "што́рме",
+   "nom_pl": "што́рмы",
+   "gen_pl": "што́рмов",
+   "dat_pl": "што́рмам",
+   "acc_pl": "што́рмы",
+   "ins_pl": "што́рмами",
+   "prep_pl": "што́рмах"
+  }
+ },
+ {
+  "id": "w_menyu",
+  "ru": "меню",
+  "stress": "меню́",
+  "translit": "meniù",
+  "en": [
+   "menu, bill of fare",
+   "menu"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "n",
+  "animate": false,
+  "forms": {
+   "indeclinable": "1"
+  }
+ },
+ {
+  "id": "w_kushat",
+  "ru": "кушать",
+  "stress": "ку́шать",
+  "translit": "kùsciat",
+  "en": [
+   "to eat"
+  ],
+  "pos": "verb",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "aspect": "imperfective",
+   "aspect_partner": "покушать,скушать",
+   "presfut_1sg": "ку́шаю",
+   "presfut_2sg": "ку́шаешь",
+   "presfut_3sg": "ку́шает",
+   "presfut_1pl": "ку́шаем",
+   "presfut_2pl": "ку́шаете",
+   "presfut_3pl": "ку́шают",
+   "past_m": "ку́шал",
+   "past_f": "ку́шала",
+   "past_n": "ку́шало",
+   "past_pl": "ку́шали",
+   "imp_sg": "ку́шай",
+   "imp_pl": "ку́шайте"
+  },
+  "examples": [
+   "s_3309830",
+   "s_6705800"
+  ]
+ },
+ {
+  "id": "w_arbuz",
+  "ru": "арбуз",
+  "stress": "арбу́з",
+  "translit": "arbùz",
+  "en": [
+   "watermelon"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "арбу́з",
+   "gen_sg": "арбу́за",
+   "dat_sg": "арбу́зу",
+   "acc_sg": "арбу́з",
+   "ins_sg": "арбу́зом",
+   "prep_sg": "арбу́зе",
+   "nom_pl": "арбу́зы",
+   "gen_pl": "арбу́зов",
+   "dat_pl": "арбу́зам",
+   "acc_pl": "арбу́зы",
+   "ins_pl": "арбу́зами",
+   "prep_pl": "арбу́зах"
+  },
+  "examples": [
+   "s_466940"
+  ]
+ },
+ {
+  "id": "w_uyutnyy",
+  "ru": "уютный",
+  "stress": "ую́тный",
+  "translit": "uiùtnyj",
+  "en": [
+   "cozy, snug"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "short_m": "ую́тен",
+   "short_f": "ую́тна",
+   "short_n": "ую́тно",
+   "short_pl": "ую́тны",
+   "m_nom": "ую́тный",
+   "m_gen": "ую́тного",
+   "m_dat": "ую́тному",
+   "m_acc": "ую́тный, ую́тного",
+   "m_ins": "ую́тным",
+   "m_prep": "ую́тном",
+   "f_nom": "ую́тная",
+   "f_gen": "ую́тной",
+   "f_dat": "ую́тной",
+   "f_acc": "ую́тную",
+   "f_ins": "ую́тной, (ую́тною)",
+   "f_prep": "ую́тной",
+   "n_nom": "ую́тное",
+   "n_gen": "ую́тного",
+   "n_dat": "ую́тному",
+   "n_acc": "ую́тное",
+   "n_ins": "ую́тным",
+   "n_prep": "ую́тном",
+   "pl_nom": "ую́тные",
+   "pl_gen": "ую́тных",
+   "pl_dat": "ую́тным",
+   "pl_acc": "ую́тные, ую́тных",
+   "pl_ins": "ую́тными",
+   "pl_prep": "ую́тных"
+  },
+  "examples": [
+   "s_381052",
+   "s_10755647",
+   "s_5672455"
+  ]
+ },
+ {
+  "id": "w_nedalyokiy",
+  "ru": "недалёкий",
+  "stress": "недалёкий",
+  "translit": "nedaliòkij",
+  "en": [
+   "not far, near, close by, short (of a distance)",
+   "near, not distant, immediate",
+   "dim-witted, narrow-minded, dull, not very bright"
+  ],
+  "pos": "adj",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "forms": {
+   "short_m": "недалёк",
+   "short_f": "недалека́",
+   "short_n": "неда́леко//недалеко́",
+   "short_pl": "неда́леки//недалеки́",
+   "m_nom": "недалёкий",
+   "m_gen": "недалёкого",
+   "m_dat": "недалёкому",
+   "m_acc": "недалёкий, недалёкого",
+   "m_ins": "недалёким",
+   "m_prep": "недалёком",
+   "f_nom": "недалёкая",
+   "f_gen": "недалёкой",
+   "f_dat": "недалёкой",
+   "f_acc": "недалёкую",
+   "f_ins": "недалёкой, недалёкою",
+   "f_prep": "недалёкой",
+   "n_nom": "недалёкое",
+   "n_gen": "недалёкого",
+   "n_dat": "недалёкому",
+   "n_acc": "недалёкое",
+   "n_ins": "недалёким",
+   "n_prep": "недалёком",
+   "pl_nom": "недалёкие",
+   "pl_gen": "недалёких",
+   "pl_dat": "недалёким",
+   "pl_acc": "недалёкие, недалёких",
+   "pl_ins": "недалёкими",
+   "pl_prep": "недалёких"
+  }
+ },
+ {
+  "id": "w_eskalator",
+  "ru": "эскалатор",
+  "stress": "эскала́тор",
+  "translit": "eskalàtor",
+  "en": [
+   "escalator"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "nom_sg": "эскала́тор",
+   "gen_sg": "эскала́тора",
+   "dat_sg": "эскала́тору",
+   "acc_sg": "эскала́тор",
+   "ins_sg": "эскала́тором",
+   "prep_sg": "эскала́торе",
+   "nom_pl": "эскала́торы",
+   "gen_pl": "эскала́торов",
+   "dat_pl": "эскала́торам",
+   "acc_pl": "эскала́торы",
+   "ins_pl": "эскала́торами",
+   "prep_pl": "эскала́торах"
+  },
+  "examples": [
+   "s_5401109",
+   "s_5401114",
+   "s_5401116"
+  ]
+ },
+ {
+  "id": "w_fitnes",
+  "ru": "фитнес",
+  "stress": "фи́тнес",
+  "translit": "fìtnes",
+  "en": [
+   "fitness"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "m",
+  "animate": false,
+  "forms": {
+   "indeclinable": "1"
+  }
+ },
+ {
+  "id": "w_sparzha",
+  "ru": "спаржа",
+  "stress": "спа́ржа",
+  "translit": "spàrzha",
+  "en": [
+   "asparagus"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "gender": "f",
+  "animate": false,
+  "forms": {
+   "nom_sg": "спа́ржа",
+   "gen_sg": "спа́ржи",
+   "dat_sg": "спа́рже",
+   "acc_sg": "спа́ржу",
+   "ins_sg": "спа́ржей, спа́ржею",
+   "prep_sg": "спа́рже",
+   "nom_pl": "спа́ржи",
+   "gen_pl": "спа́рж",
+   "dat_pl": "спа́ржам",
+   "acc_pl": "спа́ржи",
+   "ins_pl": "спа́ржами",
+   "prep_pl": "спа́ржах"
+  }
+ },
+ {
+  "id": "w_mem",
+  "ru": "мем",
+  "stress": "ме́м",
+  "translit": "mèm",
+  "en": [
+   "meme"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
+ },
+ {
+  "id": "w_vay_fay",
+  "ru": "вай-фай",
+  "stress": "ва́й-фа́й",
+  "translit": "vàj-fàj",
+  "en": [
+   "Wi-Fi, Wifi"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
+ },
+ {
+  "id": "w_kreditnaya_karta",
+  "ru": "кредитная карта",
+  "stress": "креди́тная ка́рта",
+  "translit": "kredìtnaia kàrta",
+  "en": [
+   "Credit card"
+  ],
+  "pos": "noun",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
+ },
+ {
+  "id": "w_neskolkie",
+  "ru": "несколькие",
+  "stress": "не́сколькие",
+  "translit": "nèskolkiie",
+  "en": [
+   "several, some, a few"
+  ],
+  "pos": "num",
+  "level": "a1",
+  "topics": [],
+  "source": "openrussian",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
+ }
+]
