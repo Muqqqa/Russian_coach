@@ -23,13 +23,16 @@ export function glossParts(entries: readonly string[]): string[] {
 
 interface WordGloss {
   word: Word;
+  /** Glosse nella lingua mostrata: `it` se presente, altrimenti `en`. */
   parts: string[];
   lang: "it" | "en";
+  /** Glosse inglesi (sempre presenti), per usare i distrattori nella stessa lingua. */
+  en: string[];
 }
 
 function glossOf(w: Word): WordGloss {
   const hasIt = !!w.it && w.it.length > 0;
-  return { word: w, parts: glossParts(hasIt ? w.it! : w.en), lang: hasIt ? "it" : "en" };
+  return { word: w, parts: glossParts(hasIt ? w.it! : w.en), lang: hasIt ? "it" : "en", en: glossParts(w.en) };
 }
 
 function sample<T>(pool: readonly T[], n: number, rng: Rng, exclude: (x: T) => boolean): T[] {
@@ -86,19 +89,21 @@ export function generateExercises(words: Word[], sentences: Sentence[]): Exercis
     const primary = g.parts[0];
     const topics = w.topics;
 
-    // 1) Scelta multipla: parola russa -> traduzione
-    const pool = distractorPool(g);
+    // 1) Scelta multipla: parola russa -> traduzione. I distrattori sono nella stessa lingua della risposta:
+    //    italiano solo se anche loro hanno `it`, altrimenti si usa l'inglese per tutte le opzioni.
+    const pool = distractorPool(g).filter((x) => (g.lang === "it" ? x.lang === "it" : x.en.length > 0));
+    const label = (x: WordGloss) => (g.lang === "it" ? x.parts[0] : x.en[0]);
     const seenP = new Set([primary.toLowerCase()]);
     const seenS = new Set([w.stress]);
-    const ds = sample(pool, 8, rng, () => false).filter((x) => {
-      const p = x.parts[0].toLowerCase();
+    const ds = sample(pool, 12, rng, () => false).filter((x) => {
+      const p = label(x).toLowerCase();
       if (x.word.id === w.id || seenP.has(p) || seenS.has(x.word.stress)) return false;
       seenP.add(p);
       seenS.add(x.word.stress);
       return true;
     }).slice(0, 3);
     if (ds.length === 3) {
-      const mc = placeCorrect(primary, ds.map((d) => d.parts[0]), rng);
+      const mc = placeCorrect(primary, ds.map(label), rng);
       out.push(mk({ id: `g_mcw_${w.id}`, type: "multiple_choice", level: w.level, difficulty: clampDiff(base), topics, words: [w.id], est_seconds: 12,
         prompt_it: "Scegli la traduzione corretta" + langNote,
         payload: { type: "multiple_choice", question: w.stress, options: mc.options, correct: mc.correct } }));
@@ -126,7 +131,7 @@ export function generateExercises(words: Word[], sentences: Sentence[]): Exercis
   }
 
   // 5) Abbinamento: gruppi di 4 parole dello stesso livello e categoria, glosse distinte
-  const groupKey = (g: WordGloss) => `${g.word.level}|${g.word.pos}`;
+  const groupKey = (g: WordGloss) => `${g.word.level}|${g.word.pos}|${g.lang}`;
   const groups = new Map<string, WordGloss[]>();
   for (const g of glosses) {
     if (g.parts[0].length > 20) continue;
@@ -138,9 +143,9 @@ export function generateExercises(words: Word[], sentences: Sentence[]): Exercis
       const chunk = sorted.slice(i, i + 4);
       if (new Set(chunk.map((c) => c.parts[0].toLowerCase())).size < 4) continue;
       const level = chunk[0].word.level;
-      out.push(mk({ id: `g_mt_${key.replace("|", "_")}_${i / 4}`, type: "match", level, difficulty: clampDiff(LEVEL_DIFF[level] + 1),
+      out.push(mk({ id: `g_mt_${key.replaceAll("|", "_")}_${i / 4}`, type: "match", level, difficulty: clampDiff(LEVEL_DIFF[level] + 1),
         topics: [], words: chunk.map((c) => c.word.id), est_seconds: 45,
-        prompt_it: chunk.some((c) => c.lang === "en") ? "Abbina ogni parola russa alla traduzione (alcune in inglese)" : "Abbina ogni parola russa alla traduzione",
+        prompt_it: chunk[0].lang === "en" ? "Abbina ogni parola russa alla traduzione (in inglese)" : "Abbina ogni parola russa alla traduzione",
         payload: { type: "match", pairs: chunk.map((c) => ({ ru: c.word.stress, it: c.parts[0] })) } }));
     }
   }

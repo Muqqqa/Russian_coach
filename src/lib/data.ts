@@ -27,6 +27,11 @@ function isExercise(e: unknown): e is Exercise {
   return !!x && typeof x.id === "string" && typeof x.type === "string" && typeof x.payload === "object" && x.payload !== null && x.payload.type === x.type && Array.isArray(x.words) && typeof x.est_seconds === "number";
 }
 
+function isLesson(l: unknown): l is Lesson {
+  const x = l as Lesson;
+  return !!x && typeof x.id === "string" && typeof x.level === "string" && typeof x.order === "number" && typeof x.title_it === "string" && typeof x.explanation_md === "string" && Array.isArray(x.new_words) && Array.isArray(x.grammar_tags);
+}
+
 export async function loadBank(): Promise<Bank> {
   const [words, sentences, lessons, exercises] = await Promise.all([
     fetchJson<Word[]>("words.json"),
@@ -37,14 +42,16 @@ export async function loadBank(): Promise<Bank> {
   const curated = (exercises ?? []).filter(isExercise).filter((e) => e.qa_status === "approved");
   // Il generatore interno integra il banco curato finche' questo e' piccolo.
   const generated = curated.length >= CURATED_MIN ? [] : generateExercises(words ?? [], sentences ?? []);
-  return buildBank({ words: words ?? [], sentences: sentences ?? [], lessons: lessons ?? [], curated, generated });
+  return buildBank({ words: words ?? [], sentences: sentences ?? [], lessons: (lessons ?? []).filter(isLesson), curated, generated });
 }
 
 export interface CreditSource {
   name: string;
   license?: string;
   url?: string;
+  license_url?: string;
   attribution?: string;
+  used_for?: string;
   note?: string;
 }
 
@@ -59,7 +66,9 @@ export async function loadCredits(): Promise<{ sources: CreditSource[]; raw?: un
       name: String(x.name ?? x.source ?? x.title ?? "Fonte"),
       license: x.license ? String(x.license) : undefined,
       url: x.url ? String(x.url) : undefined,
-      attribution: x.attribution ? String(x.attribution) : x.text ? String(x.text) : undefined,
+      license_url: x.license_url ? String(x.license_url) : undefined,
+      used_for: x.used_for ? String(x.used_for) : undefined,
+      attribution: x.attribution_text ? String(x.attribution_text) : x.attribution ? String(x.attribution) : x.text ? String(x.text) : undefined,
       note: x.note ? String(x.note) : x.notes ? String(x.notes) : undefined,
     }));
   return { sources, raw: data };

@@ -64,7 +64,12 @@ export default function CreditsPage() {
       {sources?.map((s) => (
         <section key={s.name} className="card stack" aria-label={s.name}>
           <h2 style={{ margin: 0 }}>{s.name}</h2>
-          {s.license && <p style={{ margin: 0 }}><span className="chip">{s.license}</span></p>}
+          {s.license && (
+            <p style={{ margin: 0 }}>
+              {s.license_url ? <a className="chip" href={s.license_url} target="_blank" rel="noopener noreferrer">{s.license}</a> : <span className="chip">{s.license}</span>}
+            </p>
+          )}
+          {s.used_for && <p className="muted" style={{ margin: 0 }}>Usato per: {s.used_for}</p>}
           {s.attribution && <p style={{ margin: 0 }}>{s.attribution}</p>}
           {s.note && <p className="muted small" style={{ margin: 0 }}>{s.note}</p>}
           {s.url && <p style={{ margin: 0 }}><a href={s.url} target="_blank" rel="noopener noreferrer">{s.url}</a></p>}

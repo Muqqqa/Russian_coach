@@ -53,6 +53,18 @@ describe("generatore interno", () => {
     }
   });
 
+  it("le opzioni di una scelta multipla sono tutte nella stessa lingua", () => {
+    const itLabels = new Set(words.flatMap((w) => glossParts(w.it ?? [])));
+    const enLabels = new Set(words.flatMap((w) => glossParts(w.en)));
+    const byId = new Map(words.map((w) => [w.id, w]));
+    for (const e of exercises) {
+      if (!e.id.startsWith("g_mcw_") || e.payload.type !== "multiple_choice") continue;
+      const w = byId.get(e.words[0])!;
+      const useIt = !!w.it && w.it.length > 0;
+      for (const o of e.payload.options) expect((useIt ? itLabels : enLabels).has(o)).toBe(true);
+    }
+  });
+
   it("e' deterministico", () => {
     const again = generateExercises(words, sentences);
     expect(again.slice(0, 50)).toEqual(exercises.slice(0, 50));

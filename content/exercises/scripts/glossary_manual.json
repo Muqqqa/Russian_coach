@@ -1,0 +1,545 @@
+{
+"w_papa": [
+"papà"
+],
+"w_mat": [
+"madre",
+"mamma"
+],
+"w_otets": [
+"padre",
+"papà"
+],
+"w_sestra": [
+"sorella"
+],
+"w_syn": [
+"figlio"
+],
+"w_dochka": [
+"figlia"
+],
+"w_muzh": [
+"marito"
+],
+"w_zhena": [
+"moglie"
+],
+"w_semya": [
+"famiglia"
+],
+"w_roditel": [
+"genitore"
+],
+"w_rebyonok": [
+"bambino",
+"bambina",
+"figlio"
+],
+"w_podruga": [
+"amica"
+],
+"w_dorogoy": [
+"caro",
+"costoso"
+],
+"w_golodnyy": [
+"affamato"
+],
+"w_zharkiy": [
+"caldo"
+],
+"w_tikhiy": [
+"silenzioso",
+"tranquillo"
+],
+"w_gromkiy": [
+"forte",
+"rumoroso"
+],
+"w_bystryy": [
+"veloce",
+"rapido"
+],
+"w_medlennyy": [
+"lento"
+],
+"w_vkusnyy": [
+"gustoso",
+"buono"
+],
+"w_gryaznyy": [
+"sporco"
+],
+"w_tikho": [
+"piano",
+"in silenzio"
+],
+"w_gromko": [
+"ad alta voce",
+"forte"
+],
+"w_komnata": [
+"stanza",
+"camera"
+],
+"w_gorod": [
+"città"
+],
+"w_derevnya": [
+"villaggio",
+"campagna"
+],
+"w_ulitsa": [
+"strada",
+"via"
+],
+"w_stantsiya": [
+"stazione",
+"fermata"
+],
+"w_mesto": [
+"posto",
+"luogo"
+],
+"w_krovat": [
+"letto"
+],
+"w_stul": [
+"sedia"
+],
+"w_v": [
+"in",
+"a"
+],
+"w_na": [
+"su",
+"in",
+"a"
+],
+"w_nalevo": [
+"a sinistra"
+],
+"w_nedaleko": [
+"non lontano",
+"vicino"
+],
+"w_nedalyokiy": [
+"non lontano",
+"vicino"
+],
+"w_bilet": [
+"biglietto"
+],
+"w_paket": [
+"sacchetto",
+"pacco"
+],
+"w_botinok": [
+"stivaletto"
+],
+"w_tekst": [
+"testo"
+],
+"w_vopros": [
+"domanda"
+],
+"w_slovo": [
+"parola"
+],
+"w_problema": [
+"problema"
+],
+"w_veshch": [
+"cosa",
+"oggetto"
+],
+"w_golova": [
+"testa"
+],
+"w_ruka": [
+"mano",
+"braccio"
+],
+"w_noga": [
+"gamba",
+"piede"
+],
+"w_litso": [
+"viso",
+"faccia"
+],
+"w_koshka": [
+"gatto",
+"gatta"
+],
+"w_kak": [
+"come"
+],
+"w_kakoy": [
+"quale",
+"che tipo di"
+],
+"w_pochemu": [
+"perché"
+],
+"w_kogda": [
+"quando"
+],
+"w_otkuda": [
+"da dove"
+],
+"w_potomu_chto": [
+"perché",
+"poiché"
+],
+"w_dolgo": [
+"a lungo"
+],
+"w_nikto": [
+"nessuno"
+],
+"w_nichto": [
+"niente",
+"nulla"
+],
+"w_nichego": [
+"niente",
+"nulla"
+],
+"w_nigde": [
+"da nessuna parte"
+],
+"w_uzhe": [
+"già"
+],
+"w_prosto": [
+"semplicemente",
+"solo"
+],
+"w_slishkom": [
+"troppo"
+],
+"w_pochti": [
+"quasi"
+],
+"w_snova": [
+"di nuovo",
+"ancora"
+],
+"w_togda": [
+"allora"
+],
+"w_konechno": [
+"certo",
+"naturalmente"
+],
+"w_vot": [
+"ecco"
+],
+"w_dazhe": [
+"perfino",
+"persino",
+"anche"
+],
+"w_poka": [
+"per ora",
+"finché"
+],
+"w_luchshe": [
+"meglio"
+],
+"w_nado": [
+"bisogna",
+"è necessario"
+],
+"w_prostite": [
+"scusate",
+"perdonate"
+],
+"w_moy": [
+"mio"
+],
+"w_tvoy": [
+"tuo"
+],
+"w_etot": [
+"questo"
+],
+"w_tot": [
+"quello"
+],
+"w_imet": [
+"avere",
+"possedere"
+],
+"w_delat": [
+"fare"
+],
+"w_sdelat": [
+"fare",
+"compiere"
+],
+"w_napisat": [
+"scrivere"
+],
+"w_otvechat": [
+"rispondere"
+],
+"w_otvetit": [
+"rispondere"
+],
+"w_rasskazyvat": [
+"raccontare"
+],
+"w_rasskazat": [
+"raccontare"
+],
+"w_sprashivat": [
+"chiedere",
+"domandare"
+],
+"w_posmotret": [
+"guardare"
+],
+"w_poyti": [
+"andare a piedi",
+"mettersi in cammino"
+],
+"w_priyti": [
+"venire",
+"arrivare"
+],
+"w_prikhodit": [
+"venire",
+"arrivare"
+],
+"w_uyti": [
+"andare via",
+"partire"
+],
+"w_ukhodit": [
+"andare via",
+"partire"
+],
+"w_khodit": [
+"andare a piedi",
+"camminare"
+],
+"w_priekhat": [
+"arrivare con un mezzo"
+],
+"w_poekhat": [
+"andare con un mezzo",
+"partire"
+],
+"w_doktor": [
+"dottore"
+],
+"w_paren": [
+"ragazzo"
+],
+"w_devochka": [
+"bambina"
+],
+"w_direktor": [
+"direttore"
+],
+"w_chyornyy": [
+"nero"
+],
+"w_seryy": [
+"grigio"
+],
+"w_zolotoy": [
+"d'oro",
+"dorato"
+],
+"w_dlinnyy": [
+"lungo"
+],
+"w_chistyy": [
+"pulito"
+],
+"w_po_russki": [
+"in russo"
+],
+"w_ono": [
+"esso",
+"lo"
+],
+"w_vash": [
+"vostro",
+"suo"
+],
+"w_ne": [
+"non"
+],
+"w_ponimat": [
+"capire"
+],
+"w_davay": [
+"dai",
+"facciamo"
+],
+"w_stoit": [
+"costare"
+],
+"w_svobodno": [
+"liberamente"
+],
+"w_zavtra": [
+"domani"
+],
+"w_chas": [
+"ora"
+],
+"w_tuda": [
+"verso là"
+],
+"w_syuda": [
+"verso qui"
+],
+"w_napravo": [
+"a destra"
+],
+"w_daleko": [
+"lontano"
+],
+"w_dalyokiy": [
+"lontano"
+],
+"w_kushat": [
+"mangiare"
+],
+"w_takoy": [
+"tale",
+"così"
+],
+"w_normalno": [
+"normale",
+"bene"
+],
+"w_dolgiy": [
+"lungo",
+"di lunga durata"
+],
+"w_malyy": [
+"piccolo"
+],
+"w_teper": [
+"ora",
+"adesso"
+],
+"w_svoy": [
+"proprio"
+],
+"w_ves": [
+"tutto",
+"intero"
+],
+"w_byt": [
+"essere"
+],
+"w_dolzhnyy": [
+"tenuto a",
+"obbligato a"
+],
+"w_nuzhnyy": [
+"necessario"
+],
+"w_malchik": [
+"bambino",
+"ragazzino"
+],
+"w_nachalnik": [
+"capo"
+],
+"w_korotkiy": [
+"corto",
+"breve"
+],
+"w_lyogkiy": [
+"leggero",
+"facile"
+],
+"w_pustoy": [
+"vuoto"
+],
+"w_polnyy": [
+"pieno"
+],
+"w_chem": [
+"di",
+"rispetto a"
+],
+"w_izvinite": [
+"scusi",
+"scusate"
+],
+"w_kotoryy": [
+"quale",
+"che"
+],
+"w_vkusno": [
+"gustoso",
+"buono"
+],
+"w_vtoroy": [
+"secondo"
+],
+"w_tretiy": [
+"terzo"
+],
+"w_chto_to": [
+"qualcosa"
+],
+"w_dvoe": [
+"in due"
+],
+"w_oba": [
+"entrambi"
+],
+"w_bystro": [
+"velocemente",
+"in fretta"
+],
+"w_raz": [
+"volta"
+],
+"w_krasivo": [
+"bello",
+"in modo bello"
+],
+"w_svobodnyy": [
+"libero"
+],
+"w_tak": [
+"così"
+],
+"w_pogoda": [
+"tempo atmosferico"
+],
+"w_kafe": [
+"caffè",
+"bar"
+],
+"w_kofe": [
+"caffè"
+],
+"w_dobroe_utro": [
+"buongiorno"
+],
+"w_dobryy_den": [
+"buongiorno",
+"buon pomeriggio"
+],
+"w_mnogo": [
+"molto",
+"tanto"
+],
+"w_zdes": [
+"qui",
+"qua"
+]
+}
