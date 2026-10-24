@@ -88,7 +88,15 @@ export function generateExercises(words: Word[], sentences: Sentence[]): Exercis
 
     // 1) Scelta multipla: parola russa -> traduzione
     const pool = distractorPool(g);
-    const ds = sample(pool, 3, rng, (x) => x.word.id === w.id || x.parts[0].toLowerCase() === primary.toLowerCase());
+    const seenP = new Set([primary.toLowerCase()]);
+    const seenS = new Set([w.stress]);
+    const ds = sample(pool, 8, rng, () => false).filter((x) => {
+      const p = x.parts[0].toLowerCase();
+      if (x.word.id === w.id || seenP.has(p) || seenS.has(x.word.stress)) return false;
+      seenP.add(p);
+      seenS.add(x.word.stress);
+      return true;
+    }).slice(0, 3);
     if (ds.length === 3) {
       const mc = placeCorrect(primary, ds.map((d) => d.parts[0]), rng);
       out.push(mk({ id: `g_mcw_${w.id}`, type: "multiple_choice", level: w.level, difficulty: clampDiff(base), topics, words: [w.id], est_seconds: 12,

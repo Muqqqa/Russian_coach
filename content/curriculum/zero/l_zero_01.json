@@ -1,0 +1,21 @@
+[
+  {
+    "id": "l_zero_01",
+    "level": "zero",
+    "order": 1,
+    "title_it": "Primi suoni: А, О, К, М, Т, Э, Д, С",
+    "explanation_md": "Il russo si scrive con l'**alfabeto cirillico**: 33 lettere. Non spaventarti: molte somigliano alle nostre e si leggono quasi come in italiano. Oggi impariamo le prime otto.\n\n## Le lettere di oggi\n| Lettera | Suono | Come in italiano |\n|---|---|---|\n| **А а** | a | *casa* |\n| **О о** | o | *sole* |\n| **К к** | k | *casa*, *cane* |\n| **М м** | m | *mamma* |\n| **Т т** | t | *tavolo* |\n| **Э э** | e aperta | *è*, *bello* |\n| **Д д** | d | *dado* |\n| **С с** | s sorda | *sole* (mai come in *rosa*) |\n\n## L'accento tonico\nOgni parola russa ha una vocale **accentata**, più forte e più lunga. In questo corso la segniamo con un piccolo accento: **да́** (dà). I russi di solito non lo scrivono, ma a te serve per pronunciare bene. Nella trascrizione tra parentesi l'accento è un accento grave sulla vocale: *dà*.\n\n## Prime parole\n- **да́** (dà) – **sì**\n- **та́м** (tàm) – **là**\n- **э́то** (èto) – **questo, questa, ciò** (la parola più utile del russo!)\n- **кто́** (ktò) – **chi**\n- **до́м** (dòm) – **casa**\n\nProva a leggerle a voce alta, lettera per lettera. Il russo non ha articoli: non esistono *il*, *la*, *un*. Quindi **до́м** (dòm) significa sia «casa» sia «una casa» sia «la casa».\n\n## Frasi per provare\n- **Что́ э́то?** (Ctò èto?) – Che cos'è?\n- **Где́ до́м?** (Gdè dòm?) – Dov'è casa?\n\nNon preoccuparti di capire ogni dettaglio: oggi conta riconoscere le lettere.\n\n<!-- frasi: s_05412, s_2297643 -->",
+    "grammar_tags": [
+      "alphabet-1",
+      "stress-mark"
+    ],
+    "new_words": [
+      "w_da",
+      "w_tam",
+      "w_eto",
+      "w_kto",
+      "w_dom"
+    ],
+    "review_tags": []
+  }
+]

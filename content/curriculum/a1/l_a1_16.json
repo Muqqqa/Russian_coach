@@ -1,0 +1,26 @@
+[
+  {
+    "id": "l_a1_16",
+    "level": "a1",
+    "order": 16,
+    "title_it": "Parole per chiedere",
+    "explanation_md": "## Le parole interrogative\nGià note: **что́** (ctò) cosa · **кто́** (ktò) chi · **где́** (gdè) dove · **ско́лько** (skòlko) quanto.\nOggi:\n\n| Parola | Significato | Esempio |\n|---|---|---|\n| **ка́к** (kàk) | come | **Ка́к пого́да?** (Kàk pogòda?) – Che tempo fa? |\n| **како́й** (kakòj) | quale, che tipo di | **Како́й о́н?** (Kakòj òn?) – Com'è lui? |\n| **почему́** (pocemù) | perché | **Но почему́?** (No pocemù?) – Ma perché? |\n| **когда́** (kogdà) | quando | **Когда́ ты́ роди́лся?** (Kogdà tỳ rodìlsia?) – Quando sei nato? |\n| **отку́да** (otkùda) | da dove | **Отку́да ты́?** (Otkùda tỳ?) – Da dove vieni? |\n\n## «Perché» e «perché»\n- **почему́** (pocemù) → domanda: *perché?*\n- **потому́ что́** (potomù ctò) → risposta: *perché, poiché*:\n- **Я́ го́лоден, потому́ что́ не е́л.** (Ià gòloden, potomù ctò ne ièl.) – Ho fame perché non ho mangiato.\n\n## **како́й** (kakòj) concorda!\n**како́й** (kakòj) cambia con il genere: **како́й** (kakòj) (m), **кака́я** (kakàia) (f), **како́е** (kakòie) (n), **каки́е** (kakìie) (pl).\n- **Кака́я та́м пого́да?** (Kakàia tàm pogòda?) – Com'è il tempo lì?\n- **Како́й сто́л?** (Kakòj stòl?) – Quale tavolo?\n- **Како́й сейча́с ме́сяц?** (Kakòj sejciàs mèsiaz?) – Quale mese è ora?\n\n## «Tale», «così»\n- **тако́й** (takòj) – **tale**, concorda: **тако́й** (takòj), **така́я** (takàia), **тако́е** (takòie), **таки́е** (takìie)\n- **та́к** (tàk) – **così** (non cambia)\n- **Почему́ о́н тако́й ти́хий?** (Pocemù òn takòj tìkhij?) – Perché lui è così calmo?\n- **Да, я́ така́я.** (Da, ià takàia.) – Sì, sono così.\n- **Та́к лу́чше?** (Tàk lùcsce?) – Così va meglio?\n\n## Domanda con risposta sì/no\nBasta l'intonazione, magari con **да́** (dà) o **не́т** (nèt).\n- **Отку́да вы́?** (Otkùda vỳ?) – Di dove siete?\n\n<!-- frasi: s_1407167, s_2131353, s_2782369, s_3099552, s_3560868, s_380005, s_410523, s_418199, s_5484708, s_5501026, s_5582332, s_5658069, s_600939 -->",
+    "grammar_tags": [
+      "question-words"
+    ],
+    "new_words": [
+      "w_kak",
+      "w_kakoy",
+      "w_pochemu",
+      "w_kogda",
+      "w_otkuda",
+      "w_potomu_chto",
+      "w_takoy",
+      "w_tak"
+    ],
+    "review_tags": [
+      "negation",
+      "questions"
+    ]
+  }
+]

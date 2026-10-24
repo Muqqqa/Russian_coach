@@ -1,0 +1,1751 @@
+{
+ "w_ya": [
+  "grammatica"
+ ],
+ "w_ne": [
+  "grammatica"
+ ],
+ "w_ty": [
+  "grammatica"
+ ],
+ "w_chto": [
+  "grammatica"
+ ],
+ "w_on": [
+  "grammatica"
+ ],
+ "w_eto": [
+  "grammatica"
+ ],
+ "w_vy": [
+  "grammatica"
+ ],
+ "w_my": [
+  "grammatica"
+ ],
+ "w_i": [
+  "grammatica"
+ ],
+ "w_s": [
+  "direzioni"
+ ],
+ "w_ona": [
+  "grammatica"
+ ],
+ "w_u": [
+  "direzioni"
+ ],
+ "w_moch": [
+  "mente"
+ ],
+ "w_oni": [
+  "grammatica"
+ ],
+ "w_khotet": [
+  "mente"
+ ],
+ "w_net": [
+  "grammatica"
+ ],
+ "w_govorit": [
+  "comunicazione"
+ ],
+ "w_eshchyo": [
+  "grammatica"
+ ],
+ "w_iz": [
+  "direzioni"
+ ],
+ "w_kto": [
+  "grammatica"
+ ],
+ "w_ochen": [
+  "avverbi"
+ ],
+ "w_zdes": [
+  "direzioni"
+ ],
+ "w_da": [
+  "grammatica"
+ ],
+ "w_tolko": [
+  "grammatica"
+ ],
+ "w_vash": [
+  "grammatica"
+ ],
+ "w_gde": [
+  "avverbi"
+ ],
+ "w_khorosho": [
+  "avverbi"
+ ],
+ "w_pomoch": [
+  "azioni"
+ ],
+ "w_nash": [
+  "grammatica"
+ ],
+ "w_tam": [
+  "direzioni"
+ ],
+ "w_ili": [
+  "grammatica"
+ ],
+ "w_pozhaluysta": [
+  "saluti"
+ ],
+ "w_segodnya": [
+  "tempo"
+ ],
+ "w_rabota": [
+  "lavoro-scuola"
+ ],
+ "w_zhit": [
+  "azioni"
+ ],
+ "w_spasibo": [
+  "saluti"
+ ],
+ "w_ponimat": [
+  "mente"
+ ],
+ "w_mozhno": [
+  "avverbi"
+ ],
+ "w_davay": [
+  "saluti"
+ ],
+ "w_drugoy": [
+  "grammatica"
+ ],
+ "w_skolko": [
+  "grammatica"
+ ],
+ "w_bez": [
+  "direzioni"
+ ],
+ "w_tozhe": [
+  "avverbi"
+ ],
+ "w_bolshoy": [
+  "descrizioni"
+ ],
+ "w_kupit": [
+  "soldi"
+ ],
+ "w_stoit": [
+  "soldi"
+ ],
+ "w_sprosit": [
+  "comunicazione"
+ ],
+ "w_ono": [
+  "grammatica"
+ ],
+ "w_dver": [
+  "casa"
+ ],
+ "w_ikh": [
+  "grammatica"
+ ],
+ "w_bystro": [
+  "avverbi"
+ ],
+ "w_malenkiy": [
+  "descrizioni"
+ ],
+ "w_zovut": [
+  "saluti",
+  "comunicazione"
+ ],
+ "w_trudno": [
+  "avverbi"
+ ],
+ "w_izvinite": [
+  "saluti"
+ ],
+ "w_schyot": [
+  "ristorante"
+ ],
+ "w_pravilno": [
+  "avverbi"
+ ],
+ "w_kholodno": [
+  "avverbi"
+ ],
+ "w_rossiya": [
+  "luoghi"
+ ],
+ "w_zharko": [
+  "avverbi"
+ ],
+ "w_krasivo": [
+  "avverbi"
+ ],
+ "w_do_svidaniya": [
+  "saluti"
+ ],
+ "w_vkusno": [
+  "avverbi"
+ ],
+ "w_svobodno": [
+  "avverbi"
+ ],
+ "w_po_russki": [
+  "saluti"
+ ],
+ "w_v": [
+  "direzioni"
+ ],
+ "w_na": [
+  "direzioni"
+ ],
+ "w_kak": [
+  "avverbi"
+ ],
+ "w_znat": [
+  "mente"
+ ],
+ "w_skazat": [
+  "comunicazione"
+ ],
+ "w_o": [
+  "grammatica"
+ ],
+ "w_tak": [
+  "avverbi"
+ ],
+ "w_dumat": [
+  "mente"
+ ],
+ "w_no": [
+  "grammatica"
+ ],
+ "w_chtoby": [
+  "grammatica"
+ ],
+ "w_a": [
+  "grammatica"
+ ],
+ "w_k": [
+  "direzioni"
+ ],
+ "w_esli": [
+  "grammatica"
+ ],
+ "w_kogda": [
+  "grammatica"
+ ],
+ "w_takoy": [
+  "grammatica"
+ ],
+ "w_dlya": [
+  "direzioni"
+ ],
+ "w_pochemu": [
+  "avverbi"
+ ],
+ "w_ot": [
+  "direzioni"
+ ],
+ "w_prosto": [
+  "avverbi"
+ ],
+ "w_kotoryy": [
+  "grammatica"
+ ],
+ "w_uzhe": [
+  "grammatica"
+ ],
+ "w_idti": [
+  "movimento"
+ ],
+ "w_kakoy": [
+  "grammatica"
+ ],
+ "w_nado": [
+  "avverbi"
+ ],
+ "w_nichto": [
+  "grammatica"
+ ],
+ "w_do": [
+  "direzioni"
+ ],
+ "w_nayti": [
+  "azioni"
+ ],
+ "w_nikogda": [
+  "tempo"
+ ],
+ "w_vot": [
+  "grammatica"
+ ],
+ "w_nravitsya": [
+  "azioni"
+ ],
+ "w_rabotat": [
+  "lavoro-scuola"
+ ],
+ "w_nikto": [
+  "grammatica"
+ ],
+ "w_mnogo": [
+  "avverbi"
+ ],
+ "w_khoroshiy": [
+  "descrizioni"
+ ],
+ "w_chem": [
+  "grammatica"
+ ],
+ "w_chto_to": [
+  "grammatica"
+ ],
+ "w_luchshe": [
+  "avverbi"
+ ],
+ "w_dazhe": [
+  "grammatica"
+ ],
+ "w_smotret": [
+  "azioni"
+ ],
+ "w_novyy": [
+  "descrizioni"
+ ],
+ "w_mesto": [
+  "luoghi"
+ ],
+ "w_poka": [
+  "avverbi"
+ ],
+ "w_slishkom": [
+  "avverbi"
+ ],
+ "w_kazhdyy": [
+  "grammatica"
+ ],
+ "w_problema": [
+  "concetti"
+ ],
+ "w_vopros": [
+  "comunicazione"
+ ],
+ "w_potomu_chto": [
+  "grammatica"
+ ],
+ "w_slovo": [
+  "comunicazione"
+ ],
+ "w_posle": [
+  "direzioni"
+ ],
+ "w_posledniy": [
+  "descrizioni"
+ ],
+ "w_nachat": [
+  "azioni",
+  "azioni"
+ ],
+ "w_spat": [
+  "azioni"
+ ],
+ "w_kto_to": [
+  "grammatica"
+ ],
+ "w_pomnit": [
+  "mente"
+ ],
+ "w_vyyti": [
+  "movimento"
+ ],
+ "w_gorod": [
+  "luoghi"
+ ],
+ "w_iskat": [
+  "azioni"
+ ],
+ "w_tuda": [
+  "direzioni"
+ ],
+ "w_staryy": [
+  "descrizioni"
+ ],
+ "w_neskolko": [
+  "grammatica"
+ ],
+ "w_sleduyushchiy": [
+  "descrizioni"
+ ],
+ "w_snova": [
+  "avverbi"
+ ],
+ "w_znachit": [
+  "azioni"
+ ],
+ "w_pered": [
+  "direzioni"
+ ],
+ "w_konechno": [
+  "avverbi"
+ ],
+ "w_veshch": [
+  "concetti"
+ ],
+ "w_pochti": [
+  "avverbi"
+ ],
+ "w_proshlyy": [
+  "descrizioni"
+ ],
+ "w_chitat": [
+  "comunicazione"
+ ],
+ "w_krasivyy": [
+  "descrizioni"
+ ],
+ "w_politsiya": [
+  "societa"
+ ],
+ "w_mnogie": [
+  "descrizioni"
+ ],
+ "w_ekhat": [
+  "movimento"
+ ],
+ "w_roditel": [
+  "famiglia"
+ ],
+ "w_poetomu": [
+  "avverbi"
+ ],
+ "w_strana": [
+  "luoghi"
+ ],
+ "w_pryamo": [
+  "direzioni"
+ ],
+ "w_otkuda": [
+  "avverbi"
+ ],
+ "w_mezhdu": [
+  "direzioni"
+ ],
+ "w_molodoy": [
+  "descrizioni"
+ ],
+ "w_prostite": [
+  "saluti"
+ ],
+ "w_bystryy": [
+  "descrizioni"
+ ],
+ "w_ostanovit": [
+  "azioni"
+ ],
+ "w_plokho": [
+  "avverbi"
+ ],
+ "w_khotya": [
+  "grammatica"
+ ],
+ "w_nichego": [
+  "grammatica"
+ ],
+ "w_uchit": [
+  "lavoro-scuola"
+ ],
+ "w_malo": [
+  "avverbi"
+ ],
+ "w_shest": [
+  "numeri"
+ ],
+ "w_podruga": [
+  "persone"
+ ],
+ "w_roditsya": [
+  "azioni"
+ ],
+ "w_platit": [
+  "soldi"
+ ],
+ "w_normalno": [
+  "avverbi"
+ ],
+ "w_daleko": [
+  "direzioni"
+ ],
+ "w_golodnyy": [
+  "descrizioni"
+ ],
+ "w_bilet": [
+  "trasporti"
+ ],
+ "w_gde_to": [
+  "direzioni"
+ ],
+ "w_vse": [
+  "grammatica"
+ ],
+ "w_derevnya": [
+  "luoghi"
+ ],
+ "w_vykhod": [
+  "trasporti"
+ ],
+ "w_tikho": [
+  "avverbi"
+ ],
+ "w_kholodnyy": [
+  "descrizioni"
+ ],
+ "w_vosem": [
+  "numeri"
+ ],
+ "w_klub": [
+  "luoghi"
+ ],
+ "w_gryaznyy": [
+  "descrizioni"
+ ],
+ "w_trudnyy": [
+  "descrizioni"
+ ],
+ "w_pravilnyy": [
+  "descrizioni"
+ ],
+ "w_tikhiy": [
+  "descrizioni"
+ ],
+ "w_stul": [
+  "casa"
+ ],
+ "w_chashka": [
+  "cibo-bevande"
+ ],
+ "w_vkusnyy": [
+  "descrizioni"
+ ],
+ "w_normalnyy": [
+  "descrizioni"
+ ],
+ "w_vezde": [
+  "direzioni"
+ ],
+ "w_vkhod": [
+  "trasporti"
+ ],
+ "w_malyy": [
+  "descrizioni"
+ ],
+ "w_deshyovyy": [
+  "soldi"
+ ],
+ "w_sreda": [
+  "tempo"
+ ],
+ "w_gromkiy": [
+  "descrizioni"
+ ],
+ "w_gromko": [
+  "avverbi"
+ ],
+ "w_tekst": [
+  "lavoro-scuola"
+ ],
+ "w_nigde": [
+  "direzioni"
+ ],
+ "w_dochka": [
+  "famiglia"
+ ],
+ "w_nedaleko": [
+  "direzioni"
+ ],
+ "w_medlennyy": [
+  "descrizioni"
+ ],
+ "w_dalyokiy": [
+  "direzioni"
+ ],
+ "w_zharkiy": [
+  "descrizioni"
+ ],
+ "w_piknik": [
+  "cibo-bevande",
+  "tempo-libero"
+ ],
+ "w_menyu": [
+  "cibo-bevande"
+ ],
+ "w_kushat": [
+  "cibo-bevande"
+ ],
+ "w_uyutnyy": [
+  "descrizioni"
+ ],
+ "w_nedalyokiy": [
+  "direzioni"
+ ],
+ "w_eskalator": [
+  "trasporti"
+ ],
+ "w_fitnes": [
+  "tempo-libero"
+ ],
+ "w_sparzha": [
+  "cibo-bevande"
+ ],
+ "w_mem": [
+  "tempo-libero"
+ ],
+ "w_vay_fay": [
+  "tecnologia"
+ ],
+ "w_kreditnaya_karta": [
+  "soldi"
+ ],
+ "w_neskolkie": [
+  "grammatica"
+ ],
+ "w_byt": [
+  "azioni"
+ ],
+ "w_etot": [
+  "grammatica"
+ ],
+ "w_ves": [
+  "grammatica"
+ ],
+ "w_moy": [
+  "grammatica"
+ ],
+ "w_tot": [
+  "grammatica"
+ ],
+ "w_by": [
+  "grammatica"
+ ],
+ "w_svoy": [
+  "grammatica"
+ ],
+ "w_za": [
+  "direzioni"
+ ],
+ "w_sdelat": [
+  "azioni"
+ ],
+ "w_dolzhnyy": [
+  "descrizioni"
+ ],
+ "w_tvoy": [
+  "grammatica"
+ ],
+ "w_po": [
+  "grammatica"
+ ],
+ "w_delat": [
+  "azioni"
+ ],
+ "w_sebya": [
+  "grammatica"
+ ],
+ "w_zhe": [
+  "grammatica"
+ ],
+ "w_poyti": [
+  "movimento"
+ ],
+ "w_dat": [
+  "azioni"
+ ],
+ "w_priyti": [
+  "movimento"
+ ],
+ "w_li": [
+  "grammatica"
+ ],
+ "w_delo": [
+  "concetti"
+ ],
+ "w_pravda": [
+  "concetti"
+ ],
+ "w_zhizn": [
+  "concetti"
+ ],
+ "w_samyy": [
+  "grammatica"
+ ],
+ "w_nuzhnyy": [
+  "descrizioni"
+ ],
+ "w_ni": [
+  "grammatica"
+ ],
+ "w_stat": [
+  "azioni"
+ ],
+ "w_smoch": [
+  "mente"
+ ],
+ "w_sam": [
+  "grammatica"
+ ],
+ "w_vzyat": [
+  "azioni"
+ ],
+ "w_vernutsya": [
+  "movimento"
+ ],
+ "w_nu": [
+  "grammatica"
+ ],
+ "w_slyshat": [
+  "comunicazione"
+ ],
+ "w_imet": [
+  "azioni"
+ ],
+ "w_ponyat": [
+  "mente"
+ ],
+ "w_ostatsya": [
+  "azioni"
+ ],
+ "w_davat": [
+  "azioni"
+ ],
+ "w_chyom": [
+  "grammatica"
+ ],
+ "w_sobiratsya": [
+  "azioni"
+ ],
+ "w_uvidet": [
+  "azioni"
+ ],
+ "w_rasskazat": [
+  "comunicazione"
+ ],
+ "w_posmotret": [
+  "azioni"
+ ],
+ "w_potomu": [
+  "avverbi"
+ ],
+ "w_pytatsya": [
+  "azioni"
+ ],
+ "w_uyti": [
+  "movimento"
+ ],
+ "w_ubit": [
+  "azioni"
+ ],
+ "w_zabyt": [
+  "mente"
+ ],
+ "w_sluchitsya": [
+  "azioni"
+ ],
+ "w_kazatsya": [
+  "azioni"
+ ],
+ "w_nemnogo": [
+  "avverbi"
+ ],
+ "w_syuda": [
+  "direzioni"
+ ],
+ "w_domoy": [
+  "movimento"
+ ],
+ "w_igrat": [
+  "tempo-libero"
+ ],
+ "w_umeret": [
+  "azioni"
+ ],
+ "w_ostavit": [
+  "azioni"
+ ],
+ "w_uznat": [
+  "mente"
+ ],
+ "w_mir": [
+  "concetti"
+ ],
+ "w_kniga": [
+  "lavoro-scuola"
+ ],
+ "w_poekhat": [
+  "movimento"
+ ],
+ "w_zachem": [
+  "avverbi"
+ ],
+ "w_prosit": [
+  "comunicazione"
+ ],
+ "w_cherez": [
+  "direzioni"
+ ],
+ "w_reshit": [
+  "mente"
+ ],
+ "w_kuda": [
+  "avverbi"
+ ],
+ "w_poluchit": [
+  "azioni"
+ ],
+ "w_imya": [
+  "concetti"
+ ],
+ "w_gotovyy": [
+  "descrizioni"
+ ],
+ "w_ved": [
+  "grammatica"
+ ],
+ "w_verit": [
+  "mente"
+ ],
+ "w_pomoshch": [
+  "concetti"
+ ],
+ "w_pod": [
+  "direzioni"
+ ],
+ "w_priytis": [
+  "azioni"
+ ],
+ "w_chuvstvovat": [
+  "emozioni"
+ ],
+ "w_vmeste": [
+  "avverbi"
+ ],
+ "w_pokazat": [
+  "azioni"
+ ],
+ "w_stoyat": [
+  "azioni"
+ ],
+ "w_vozmozhno": [
+  "avverbi"
+ ],
+ "w_pravyy": [
+  "descrizioni"
+ ],
+ "w_poryadok": [
+  "concetti"
+ ],
+ "w_schitat": [
+  "mente"
+ ],
+ "w_poprosit": [
+  "comunicazione"
+ ],
+ "w_vid": [
+  "concetti"
+ ],
+ "w_deystvitelno": [
+  "avverbi"
+ ],
+ "w_podumat": [
+  "azioni"
+ ],
+ "w_proizoyti": [
+  "azioni"
+ ],
+ "w_ladno": [
+  "avverbi"
+ ],
+ "w_sovsem": [
+  "avverbi"
+ ],
+ "w_luchshiy": [
+  "descrizioni"
+ ],
+ "w_lish": [
+  "grammatica"
+ ],
+ "w_tochno": [
+  "avverbi"
+ ],
+ "w_sledovat": [
+  "azioni"
+ ],
+ "w_priekhat": [
+  "movimento"
+ ],
+ "w_nelzya": [
+  "avverbi"
+ ],
+ "w_istoriya": [
+  "concetti"
+ ],
+ "w_sidet": [
+  "azioni"
+ ],
+ "w_plan": [
+  "concetti"
+ ],
+ "w_smert": [
+  "concetti"
+ ],
+ "w_proyti": [
+  "movimento"
+ ],
+ "w_derzhat": [
+  "azioni"
+ ],
+ "w_nikakoy": [
+  "grammatica"
+ ],
+ "w_edinstvennyy": [
+  "descrizioni"
+ ],
+ "w_prinyat": [
+  "azioni"
+ ],
+ "w_napisat": [
+  "comunicazione"
+ ],
+ "w_ukhodit": [
+  "movimento"
+ ],
+ "w_prinesti": [
+  "azioni"
+ ],
+ "w_otkryt": [
+  "azioni"
+ ],
+ "w_zanimatsya": [
+  "lavoro-scuola"
+ ],
+ "w_vesti": [
+  "azioni"
+ ],
+ "w_nad": [
+  "direzioni"
+ ],
+ "w_umet": [
+  "mente"
+ ],
+ "w_razve": [
+  "grammatica"
+ ],
+ "w_imenno": [
+  "grammatica"
+ ],
+ "w_storona": [
+  "concetti"
+ ],
+ "w_prikhodit": [
+  "movimento"
+ ],
+ "w_proiskhodit": [
+  "azioni"
+ ],
+ "w_brosit": [
+  "azioni"
+ ],
+ "w_protiv": [
+  "direzioni"
+ ],
+ "w_ostavatsya": [
+  "azioni"
+ ],
+ "w_pisat": [
+  "comunicazione"
+ ],
+ "w_sluchay": [
+  "concetti"
+ ],
+ "w_zemlya": [
+  "natura"
+ ],
+ "w_khvatit": [
+  "azioni"
+ ],
+ "w_pri": [
+  "direzioni"
+ ],
+ "w_bolee": [
+  "avverbi"
+ ],
+ "w_voobshche": [
+  "avverbi"
+ ],
+ "w_pismo": [
+  "lavoro-scuola"
+ ],
+ "w_bog": [
+  "concetti"
+ ],
+ "w_lyuboy": [
+  "grammatica"
+ ],
+ "w_silnyy": [
+  "descrizioni"
+ ],
+ "w_svet": [
+  "concetti"
+ ],
+ "w_pro": [
+  "grammatica"
+ ],
+ "w_nakhoditsya": [
+  "azioni"
+ ],
+ "w_otvetit": [
+  "comunicazione"
+ ],
+ "w_chast": [
+  "concetti"
+ ],
+ "w_dostatochno": [
+  "avverbi"
+ ],
+ "w_provesti": [
+  "azioni"
+ ],
+ "w_otvet": [
+  "comunicazione"
+ ],
+ "w_sila": [
+  "concetti"
+ ],
+ "w_byvat": [
+  "azioni"
+ ],
+ "w_vysokiy": [
+  "descrizioni"
+ ],
+ "w_navernoe": [
+  "avverbi"
+ ],
+ "w_zhivoy": [
+  "descrizioni"
+ ],
+ "w_polnyy": [
+  "descrizioni"
+ ],
+ "w_sest": [
+  "azioni"
+ ],
+ "w_prichina": [
+  "concetti"
+ ],
+ "w_nekotoryy": [
+  "descrizioni"
+ ],
+ "w_ravno": [
+  "avverbi"
+ ],
+ "w_vstrecha": [
+  "comunicazione"
+ ],
+ "w_vykhodit": [
+  "movimento"
+ ],
+ "w_voyna": [
+  "societa"
+ ],
+ "w_reshenie": [
+  "mente"
+ ],
+ "w_pokhozhiy": [
+  "descrizioni"
+ ],
+ "w_khotetsya": [
+  "azioni"
+ ],
+ "w_pravo": [
+  "societa"
+ ],
+ "w_uslyshat": [
+  "comunicazione"
+ ],
+ "w_obyasnit": [
+  "comunicazione"
+ ],
+ "w_popast": [
+  "movimento"
+ ],
+ "w_brat_verb": [
+  "azioni"
+ ],
+ "w_otnoshenie": [
+  "concetti"
+ ],
+ "w_vnimanie": [
+  "concetti"
+ ],
+ "w_uzh": [
+  "grammatica"
+ ],
+ "w_chuvstvo": [
+  "emozioni"
+ ],
+ "w_sprashivat": [
+  "comunicazione"
+ ],
+ "w_smysl": [
+  "mente"
+ ],
+ "w_belyy": [
+  "colori"
+ ],
+ "w_um": [
+  "mente"
+ ],
+ "w_polozhit": [
+  "azioni"
+ ],
+ "w_prodolzhat": [
+  "azioni"
+ ],
+ "w_rasskazyvat": [
+  "comunicazione"
+ ],
+ "w_krome": [
+  "direzioni"
+ ],
+ "w_okno": [
+  "casa"
+ ],
+ "w_prinimat": [
+  "azioni"
+ ],
+ "w_budto": [
+  "grammatica"
+ ],
+ "w_zametit": [
+  "azioni"
+ ],
+ "w_son": [
+  "concetti"
+ ],
+ "w_opyat": [
+  "tempo"
+ ],
+ "w_nachinat": [
+  "azioni"
+ ],
+ "w_ostanovitsya": [
+  "azioni"
+ ],
+ "w_dovolno": [
+  "avverbi"
+ ],
+ "w_privesti": [
+  "azioni"
+ ],
+ "w_khvatat": [
+  "azioni"
+ ],
+ "w_sobstvennyy": [
+  "descrizioni"
+ ],
+ "w_snachala": [
+  "tempo"
+ ],
+ "w_pust": [
+  "grammatica"
+ ],
+ "w_snyat": [
+  "azioni"
+ ],
+ "w_bezhat": [
+  "movimento"
+ ],
+ "w_sovershenno": [
+  "avverbi"
+ ],
+ "w_strannyy": [
+  "descrizioni"
+ ],
+ "w_postavit": [
+  "azioni"
+ ],
+ "w_okazatsya": [
+  "azioni"
+ ],
+ "w_nazyvat": [
+  "comunicazione"
+ ],
+ "w_khot": [
+  "grammatica"
+ ],
+ "w_vozmozhnost": [
+  "concetti"
+ ],
+ "w_tselyy": [
+  "descrizioni"
+ ],
+ "w_stanovitsya": [
+  "azioni"
+ ],
+ "w_soglasitsya": [
+  "azioni"
+ ],
+ "w_legko": [
+  "avverbi"
+ ],
+ "w_vstat": [
+  "azioni"
+ ],
+ "w_prostoy": [
+  "descrizioni"
+ ],
+ "w_otvechat": [
+  "comunicazione"
+ ],
+ "w_yavlyatsya": [
+  "azioni"
+ ],
+ "w_yasno": [
+  "avverbi"
+ ],
+ "w_golos": [
+  "comunicazione"
+ ],
+ "w_znakomyy": [
+  "descrizioni"
+ ],
+ "w_nazvat": [
+  "comunicazione"
+ ],
+ "w_predstavit": [
+  "mente"
+ ],
+ "w_mysl": [
+  "mente"
+ ],
+ "w_bolnoy": [
+  "salute"
+ ],
+ "w_vyzvat": [
+  "azioni"
+ ],
+ "w_tsel": [
+  "concetti"
+ ],
+ "w_pol": [
+  "casa"
+ ],
+ "w_staratsya": [
+  "azioni"
+ ],
+ "w_budushchee": [
+  "tempo"
+ ],
+ "w_rech": [
+  "concetti"
+ ],
+ "w_chut": [
+  "avverbi"
+ ],
+ "w_sostoyanie": [
+  "concetti"
+ ],
+ "w_nachatsya": [
+  "azioni"
+ ],
+ "w_stena": [
+  "casa"
+ ],
+ "w_prezident": [
+  "persone"
+ ],
+ "w_okolo": [
+  "direzioni"
+ ],
+ "w_dyadya": [
+  "famiglia"
+ ],
+ "w_nebo": [
+  "natura"
+ ],
+ "w_sushchestvovat": [
+  "azioni"
+ ],
+ "w_gruppa": [
+  "concetti"
+ ],
+ "w_oruzhie": [
+  "societa"
+ ],
+ "w_mera": [
+  "concetti"
+ ],
+ "w_podoyti": [
+  "movimento"
+ ],
+ "w_otkrytyy": [
+  "descrizioni"
+ ],
+ "w_zakon": [
+  "societa"
+ ],
+ "w_razgovor": [
+  "comunicazione"
+ ],
+ "w_vokrug": [
+  "direzioni"
+ ],
+ "w_obshchiy": [
+  "descrizioni"
+ ],
+ "w_lezhat": [
+  "azioni"
+ ],
+ "w_vrag": [
+  "societa"
+ ],
+ "w_takzhe": [
+  "avverbi"
+ ],
+ "w_predlozhit": [
+  "comunicazione"
+ ],
+ "w_rebyata": [
+  "persone"
+ ],
+ "w_rezultat": [
+  "concetti"
+ ],
+ "w_poyavitsya": [
+  "azioni"
+ ],
+ "w_glavnyy": [
+  "descrizioni"
+ ],
+ "w_udatsya": [
+  "azioni"
+ ],
+ "w_vsyakiy": [
+  "grammatica"
+ ],
+ "w_gost": [
+  "persone"
+ ],
+ "w_soobshchit": [
+  "comunicazione"
+ ],
+ "w_zvat": [
+  "comunicazione"
+ ],
+ "w_predstavlyat": [
+  "mente"
+ ],
+ "w_ogromnyy": [
+  "descrizioni"
+ ],
+ "w_nakonets": [
+  "tempo"
+ ],
+ "w_vspomnit": [
+  "mente"
+ ],
+ "w_gazeta": [
+  "lavoro-scuola"
+ ],
+ "w_vrode": [
+  "grammatica"
+ ],
+ "w_svyaz": [
+  "concetti"
+ ],
+ "w_sistema": [
+  "tecnologia"
+ ],
+ "w_velikiy": [
+  "descrizioni"
+ ],
+ "w_kapitan": [
+  "persone"
+ ],
+ "w_poslat": [
+  "azioni"
+ ],
+ "w_nebolshoy": [
+  "descrizioni"
+ ],
+ "w_inache": [
+  "avverbi"
+ ],
+ "w_starshiy": [
+  "descrizioni"
+ ],
+ "w_podobnyy": [
+  "descrizioni"
+ ],
+ "w_izvestnyy": [
+  "descrizioni"
+ ],
+ "w_schaste": [
+  "emozioni"
+ ],
+ "w_obraz": [
+  "concetti"
+ ],
+ "w_lyogkiy": [
+  "descrizioni"
+ ],
+ "w_tyazhyolyy": [
+  "descrizioni"
+ ],
+ "w_podnyat": [
+  "movimento"
+ ],
+ "w_raznyy": [
+  "descrizioni"
+ ],
+ "w_korotkiy": [
+  "descrizioni"
+ ],
+ "w_ochered": [
+  "societa"
+ ],
+ "w_bumaga": [
+  "lavoro-scuola"
+ ],
+ "w_pustoy": [
+  "descrizioni"
+ ],
+ "w_kstati": [
+  "avverbi"
+ ],
+ "w_blizkiy": [
+  "direzioni"
+ ],
+ "w_kartina": [
+  "concetti"
+ ],
+ "w_dlinnyy": [
+  "descrizioni"
+ ],
+ "w_lichnyy": [
+  "descrizioni"
+ ],
+ "w_prokhodit": [
+  "movimento"
+ ],
+ "w_chistyy": [
+  "descrizioni"
+ ],
+ "w_krichat": [
+  "comunicazione"
+ ],
+ "w_pochuvstvovat": [
+  "emozioni"
+ ],
+ "w_dannyy": [
+  "descrizioni"
+ ],
+ "w_chtob": [
+  "grammatica"
+ ],
+ "w_vdrug": [
+  "tempo"
+ ],
+ "w_vmesto": [
+  "direzioni"
+ ],
+ "w_shag": [
+  "concetti"
+ ],
+ "w_vzglyad": [
+  "concetti"
+ ],
+ "w_soldat": [
+  "persone"
+ ],
+ "w_sredi": [
+  "direzioni"
+ ],
+ "w_obychnyy": [
+  "descrizioni"
+ ],
+ "w_dokument": [
+  "lavoro-scuola"
+ ],
+ "w_pamyat": [
+  "mente"
+ ],
+ "w_osobenno": [
+  "avverbi"
+ ],
+ "w_kachestvo": [
+  "concetti"
+ ],
+ "w_dukh": [
+  "concetti"
+ ],
+ "w_edva": [
+  "avverbi"
+ ],
+ "w_vpolne": [
+  "avverbi"
+ ],
+ "w_sudba": [
+  "concetti"
+ ],
+ "w_byvshiy": [
+  "descrizioni"
+ ],
+ "w_russkiy": [
+  "descrizioni"
+ ],
+ "w_nikak": [
+  "avverbi"
+ ],
+ "w_prikhoditsya": [
+  "azioni"
+ ],
+ "w_vidno": [
+  "avverbi"
+ ],
+ "w_geroy": [
+  "persone"
+ ],
+ "w_spokoyno": [
+  "avverbi"
+ ],
+ "w_prislat": [
+  "azioni"
+ ],
+ "w_vlast": [
+  "societa"
+ ],
+ "w_libo": [
+  "grammatica"
+ ],
+ "w_armiya": [
+  "societa"
+ ],
+ "w_podnyatsya": [
+  "movimento"
+ ],
+ "w_trebovat": [
+  "azioni"
+ ],
+ "w_mestnyy": [
+  "descrizioni"
+ ],
+ "w_pokazatsya": [
+  "azioni"
+ ],
+ "w_tyomnyy": [
+  "colori"
+ ],
+ "w_slovno": [
+  "grammatica"
+ ],
+ "w_ugol": [
+  "casa"
+ ],
+ "w_osnovnoy": [
+  "descrizioni"
+ ],
+ "w_trud": [
+  "lavoro-scuola"
+ ],
+ "w_chelovecheskiy": [
+  "descrizioni"
+ ],
+ "w_molchat": [
+  "comunicazione"
+ ],
+ "w_ulybatsya": [
+  "emozioni"
+ ],
+ "w_naprimer": [
+  "avverbi"
+ ],
+ "w_obshchestvo": [
+  "concetti"
+ ],
+ "w_menee": [
+  "avverbi"
+ ],
+ "w_uslovie": [
+  "concetti"
+ ],
+ "w_sluzhba": [
+  "lavoro-scuola"
+ ],
+ "w_sled": [
+  "concetti"
+ ],
+ "w_dvizhenie": [
+  "concetti"
+ ],
+ "w_krupnyy": [
+  "descrizioni"
+ ],
+ "w_vniz": [
+  "direzioni"
+ ],
+ "w_boy": [
+  "societa"
+ ],
+ "w_zolotoy": [
+  "colori"
+ ],
+ "w_odnako": [
+  "grammatica"
+ ],
+ "w_tolstyy": [
+  "descrizioni"
+ ],
+ "w_interes": [
+  "concetti"
+ ],
+ "w_vovse": [
+  "avverbi"
+ ],
+ "w_koleno": [
+  "corpo"
+ ],
+ "w_osobyy": [
+  "descrizioni"
+ ],
+ "w_neobkhodimyy": [
+  "descrizioni"
+ ],
+ "w_chuzhoy": [
+  "descrizioni"
+ ],
+ "w_dvor": [
+  "casa"
+ ],
+ "w_khod": [
+  "concetti"
+ ],
+ "w_rabochiy": [
+  "descrizioni"
+ ],
+ "w_ulybnutsya": [
+  "emozioni"
+ ],
+ "w_mimo": [
+  "direzioni"
+ ],
+ "w_glava": [
+  "concetti"
+ ],
+ "w_simpatichnyy": [
+  "descrizioni"
+ ],
+ "w_protsess": [
+  "societa"
+ ],
+ "w_inoy": [
+  "grammatica"
+ ],
+ "w_leytenant": [
+  "persone"
+ ],
+ "w_avtor": [
+  "societa"
+ ],
+ "w_vozle": [
+  "direzioni"
+ ],
+ "w_glyadet": [
+  "azioni"
+ ],
+ "w_kray": [
+  "luoghi"
+ ],
+ "w_gosudarstvo": [
+  "societa"
+ ],
+ "w_ryad": [
+  "concetti"
+ ],
+ "w_shirokiy": [
+  "descrizioni"
+ ],
+ "w_politicheskiy": [
+  "descrizioni"
+ ],
+ "w_gosudarstvennyy": [
+  "descrizioni"
+ ],
+ "w_cherta": [
+  "concetti"
+ ],
+ "w_skvoz": [
+  "direzioni"
+ ],
+ "w_komandir": [
+  "persone"
+ ],
+ "w_sovetskiy": [
+  "descrizioni"
+ ],
+ "w_proiznesti": [
+  "azioni"
+ ],
+ "w_prezhniy": [
+  "descrizioni"
+ ],
+ "w_klassno": [
+  "avverbi"
+ ],
+ "w_koy": [
+  "descrizioni"
+ ],
+ "w_literatura": [
+  "lavoro-scuola"
+ ],
+ "w_rossiyskiy": [
+  "descrizioni"
+ ],
+ "w_khudoy": [
+  "descrizioni"
+ ],
+ "w_taki": [
+  "grammatica"
+ ],
+ "w_vprochem": [
+  "avverbi"
+ ],
+ "w_sey": [
+  "grammatica"
+ ],
+ "w_kriknut": [
+  "comunicazione"
+ ],
+ "w_pisat_verb": [
+  "azioni"
+ ],
+ "w_rota": [
+  "societa"
+ ],
+ "w_getero": [
+  "persone"
+ ],
+ "w_vykhodit_verb": [
+  "azioni"
+ ],
+ "w_sidushka": [
+  "casa"
+ ],
+ "w_zh": [
+  "grammatica"
+ ],
+ "w_bezoblachno": [
+  "avverbi"
+ ]
+}

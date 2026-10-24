@@ -1,0 +1,25 @@
+[
+  {
+    "id": "l_zero_08",
+    "level": "zero",
+    "order": 8,
+    "title_it": "Il genere dei nomi",
+    "explanation_md": "Ogni nome russo ha un **genere**: maschile, femminile o neutro. Non c'è articolo, ma il genere serve per accordare aggettivi e verbi. Fortunatamente quasi sempre lo riconosci dalla **terminazione**.\n\n| Genere | Terminazione | Esempi |\n|---|---|---|\n| **Maschile** (м.) | consonante o **й** | **до́м** (dòm), **ба́р** (bàr), **ча́й** (ciàj), **счёт** (sciòt) |\n| **Femminile** (ж.) | **-а**, **-я** | **вода́** (vodà), **рабо́та** (rabòta), **де́вушка** (dèvuscka), **Росси́я** (rossìia) |\n| **Neutro** (с.) | **-о**, **-е** | **вино́** (vinò), **пи́во** (pìvo) |\n\n## Casi particolari\n- **-ь** finale può essere maschile o femminile: **ру́бль** (rùbl) è maschile, **две́рь** (dvèr) è femminile. Va imparato con la parola.\n- **ко́фе** (kòfe) finisce in **-е** ma è **maschile**; **такси́** (taksì) non cambia mai ed è neutro.\n- **челове́к** (celovèk) («persona») è maschile anche se si riferisce a una donna.\n- Nomi come **носо́к** (nosòk) («calzino») sono maschili perché finiscono in consonante.\n\n## Nuove parole\n- **рабо́та** (rabòta) – **lavoro**\n- **де́вушка** (dèvuscka) – **ragazza**\n- **две́рь** (dvèr) – **porta**\n- **челове́к** (celovèk) – **persona**\n- **ру́бль** (rùbl) – **rublo**\n- **носо́к** (nosòk) – **calzino**\n\n## Prova\n- **Я́ челове́к.** (Ià celovèk.) – Io sono umano.\n- **Я́ же́нщина.** (Ià zhènsscina.) – Sono una donna.\n- **Э́то вода́.** (Èto vodà.) – Questa è acqua.\n\n<!-- frasi: s_3496291, s_445653, s_740238 -->",
+    "grammar_tags": [
+      "gender",
+      "nouns"
+    ],
+    "new_words": [
+      "w_rabota",
+      "w_devushka",
+      "w_dver",
+      "w_chelovek",
+      "w_rubl",
+      "w_nosok"
+    ],
+    "review_tags": [
+      "greetings",
+      "alphabet-5"
+    ]
+  }
+]

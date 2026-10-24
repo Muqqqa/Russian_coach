@@ -1,0 +1,29 @@
+[
+  {
+    "id": "l_a1_15",
+    "level": "a1",
+    "order": 15,
+    "title_it": "Il genitivo e le preposizioni",
+    "explanation_md": "## Il caso genitivo\nIl **genitivo** risponde a «di chi? di che cosa?». Singolare:\n\n| Genere | Terminazione | Esempio |\n|---|---|---|\n| maschile | **-а / -я** | **дом** (dom) → **до́ма** (dòma), **брат** (brat) → **бра́та** (bràta), **оте́ц** (otèz) → **отца́** (otzà) |\n| femminile in -а | **-ы / -и** | **ма́ма** (màma) → **ма́мы** (màmy), **жена́** (zhenà) → **жены́** (zhenỳ), **рабо́та** (rabòta) → **рабо́ты** (rabòty) |\n| neutro | **-а / -я** | **вино́** (vinò) → **вина́** (vinà) |\n\nEsempi: **С Днём отца́!** (S dniòm otzà!) – Buona festa del papà!, **Извини́те, я́ без часо́в.** (Izvinìte, ià bez ciasòv.) – Scusate, sono senza orologio..\n\n## Quando si usa\n1. **Possesso**: **ма́ма бра́та** (màma bràta) (la mamma *del* fratello).\n2. **«Non c'è»** → **не́т** (nèt) + genitivo: **Ко́фе не́т.** (Kòfe nèt.), **У меня́ не́т вре́мени.** (U menià nèt vrèmeni.)\n3. **«Non ho»** → **У меня́ не́т ...** (U menià nèt ...) + genitivo.\n4. **Dopo 2, 3, 4** (singolare) e dopo 5+ (plurale): **два́ часа́** (dvà ciasà), **пять мину́т** (piat minùt).\n5. **Dopo molte preposizioni.**\n\n## Preposizioni con il genitivo\nGià note: **у́** (ù) presso · **и́з** (ìz) da, fuori da · **бе́з** (bèz) senza · **с** (s) da (un tempo, un luogo)\n\nNuove:\n- **для́** (dlià) – **per** (a vantaggio di): **для ма́мы** (dlia màmy)\n- **о́т** (òt) – **da** (persona, origine): **от отца́** (ot otzà)\n- **до́** (dò) – **fino a**: **до го́рода** (do gòroda)\n- **по́сле** (pòsle) – **dopo**: **по́сле рабо́ты** (pòsle rabòty)\n\nEsempi:\n- **Лю́ди без де́нег.** (Liùdi bez dèneg.) – La gente è senza soldi.\n- **Мы́ зде́сь с октября́.** (Mỳ zdès s oktiabrià.) – Siamo qui da ottobre.\n- **До́ждь идёт с про́шлого четверга́.** (Dòzhd idiòt s pròsclogo cetvergà.) – Piove da giovedì scorso.\n- **Без пяти мину́т четы́ре.** (Bez piati minùt cetỳre.) – Sono le quattro meno cinque.\n\n## Altre due preposizioni\n- **к** (k) – **verso, da** (persona): vuole il **dativo**. **Я́ е́хал к го́роду.** (Ià ièkhal k gòrodu.) – Andavo in città.\n- **пе́ред** (pèred) – **davanti a, prima di**: vuole lo **strumentale**.\n- **ме́жду** (mèzhdu) – **tra**: vuole lo **strumentale**.\n\nQuesti due casi (dativo e strumentale) li vedrai nel livello A2.\n\n## Parole nuove\n- **страна́** (stranà) – paese: **Э́то свобо́дная страна́?** (Èto svobòdnaia stranà?) – Questo è un paese libero?\n- **поли́ция** (polìziia) – polizia: **Поли́ция зде́сь.** (Polìziia zdès.)\n\n<!-- frasi: s_2369092, s_2762399, s_3264045, s_3279547, s_5535800, s_5643363, s_6001533, s_6892633 -->",
+    "grammar_tags": [
+      "genitive",
+      "prepositions"
+    ],
+    "new_words": [
+      "w_dlya",
+      "w_ot",
+      "w_do",
+      "w_posle",
+      "w_k",
+      "w_strana",
+      "w_politsiya",
+      "w_pered",
+      "w_mezhdu"
+    ],
+    "review_tags": [
+      "u-menya-est",
+      "prepositions",
+      "accusative"
+    ]
+  }
+]

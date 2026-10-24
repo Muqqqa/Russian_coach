@@ -1,0 +1,30 @@
+[
+  {
+    "id": "l_a2_09",
+    "level": "a2",
+    "order": 9,
+    "title_it": "Quando? Avverbi di tempo e di successione",
+    "explanation_md": "## Parti del giorno\n- **у́тро** (ùtro) – **mattina**\n- **ве́чер** (vècer) – **sera**\nPer «di mattina», «di sera» si usa lo **strumentale**: **у́тром** (ùtrom), **ве́чером** (vècerom).\n- **Я́ пойду́ за́втра у́тром.** (Ià pojdù zàvtra ùtrom.) – Ci andrò domani mattina.\n- **Начнём за́втра у́тром.** (Nacniòm zàvtra ùtrom.) – Cominceremo domani mattina.\n- **Вернёмся ве́чером.** (Verniòmsia vècerom.) – Ritorniamo stasera.\n\n## Frequenza e ritmo\n- **ча́сто** (ciàsto) – **spesso**: **Я́ ча́сто зде́сь быва́ю.** (Ià ciàsto zdès byvàiu.) – Sono spesso qui.\n- **ско́ро** (skòro) – **presto, fra poco**: **Ско́ро пя́тница.** (Skòro piàtniza.) – Presto è venerdì., **Ско́ро ухожу́.** (Skòro ukhozhù.) – Sto per andarmene.\n- **давно́** (davnò) – **da tempo, tanto tempo fa**: **Уже́ сплю́ давно́.** (Uzhè spliù davnò.) – Dormo già da un pezzo., **Давно́ ты́ та́м?** (Davnò tỳ tàm?) – Da quanto sei lì?\n- **опя́ть** (opiàt) – **di nuovo**: **Опя́ть до́ждь!** (Opiàt dòzhd!) – Ancora pioggia!, **Ста́ло опя́ть ти́хо.** (Stàlo opiàt tìkho.) – Fu di nuovo calma.\n\n## Successione\n- **снача́ла** (snaciàla) – **prima di tutto**: **Что́ бы́ло снача́ла?** (Ctò bỳlo snaciàla?) – Cos'è successo in precedenza?\n- **сра́зу** (sràzu) – **subito**: **Сра́зу уходи́.** (Sràzu ukhodì.) – Vattene subito., **Мы́ сра́зу ушли́.** (Mỳ sràzu usclì.) – Ce ne siamo andati immediatamente.\n- **наконе́ц** (nakonèz) – **finalmente**: **Я́ наконе́ц ушёл.** (Ià nakonèz usciòl.) – Finalmente me ne sono andato., **Наконе́ц о́н пришёл.** (Nakonèz òn prisciòl.) – Alla fine lui arrivò.\n- **вдру́г** (vdrùg) – **improvvisamente**: **Вдру́г идёт до́ждь.** (Vdrùg idiòt dòzhd.)\n\n## Ordine\nSequenza tipica: **снача́ла** (snaciàla) → **пото́м** (potòm) → **наконе́ц** (nakonèz).\n\n<!-- frasi: s_1738591, s_1749708, s_2082100, s_2674384, s_3543631, s_4250063, s_507333, s_5188961, s_5512964, s_5520711, s_5522288, s_5543282, s_5631120, s_6327294, s_6963131 -->",
+    "grammar_tags": [
+      "time-adverbs",
+      "sequence"
+    ],
+    "new_words": [
+      "w_utro",
+      "w_vecher",
+      "w_chasto",
+      "w_skoro",
+      "w_davno",
+      "w_srazu",
+      "w_snachala",
+      "w_nakonets",
+      "w_vdrug",
+      "w_opyat"
+    ],
+    "review_tags": [
+      "days",
+      "time",
+      "past-tense"
+    ]
+  }
+]

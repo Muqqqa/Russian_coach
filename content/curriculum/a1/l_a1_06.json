@@ -1,0 +1,29 @@
+[
+  {
+    "id": "l_a1_06",
+    "level": "a1",
+    "order": 6,
+    "title_it": "Aggettivi: maschile, femminile, neutro",
+    "explanation_md": "Gli aggettivi russi **si accordano** con il nome in genere e numero.\n\n| | Maschile | Femminile | Neutro | Plurale |\n|---|---|---|---|---|\n| nuovo | **но́вый** (nòvyj) | **но́вая** (nòvaia) | **но́вое** (nòvoie) | **но́вые** (nòvyie) |\n| buono | **хоро́ший** (khoròscij) | **хоро́шая** (khoròsciaia) | **хоро́шее** (khoròsceie) | **хоро́шие** (khoròsciie) |\n| grande | **большо́й** (bolsciòj) | **больша́я** (bolsciàia) | **большо́е** (bolsciòie) | **больши́е** (bolscìie) |\n\nTerminazioni del maschile: **-ый**, **-ий**, **-ой**. Femminile **-ая/-яя**, neutro **-ое/-ее**, plurale **-ые/-ие**.\n\n## Nuovi aggettivi\n**хоро́ший** (khoròscij) buono · **плохо́й** (plokhòj) cattivo · **но́вый** (nòvyj) nuovo · **ста́рый** (stàryj) vecchio · **молодо́й** (molodòj) giovane · **краси́вый** (krasìvyj) bello · **у́мный** (ùmnyj) intelligente · **дорого́й** (dorogòj) caro · **дешёвый** (desciòvyj) economico · **голо́дный** (golòdnyj) affamato\n\n## Esempi\n- **Ты́ хоро́ший.** (Tỳ khoròscij.) – Sei buono. (m) / **Ты́ хоро́шая.** (Tỳ khoròsciaia.) – Sei buona. (f)\n- **Я́ краси́вый.** (Ià krasìvyj.) – Sono bello. / **Я́ краси́вая.** (Ià krasìvaia.) – Sono bella.\n- **Де́вушка краси́вая.** (Dèvuscka krasìvaia.) – La ragazza è bella.\n- **Соба́ка больша́я.** (Sobàka bolsciàia.) – Il cane è grande.\n- **Еда́ дорога́я.** (Iedà dorogàia.) – Il cibo è costoso.\n- **Я́ голо́дный.** (Ià golòdnyj.) – Ho fame. / **Я́ голо́дная!** (Ià golòdnaia!) – Ho fame!\n- **Вы́ краси́вые.** (Vỳ krasìvyie.) – Siete belli.\n\nGli aggettivi stanno prima del nome (**но́вый дом** (nòvyj dom)) oppure dopo il verbo «essere» sottinteso (**До́м но́вый** (Dòm nòvyj)). «Il tavolo è nuovo» si dice proprio così: *Tavolo nuovo*, cioè **Сто́л но́вый** (Stòl nòvyj).\n\n<!-- frasi: s_1121200, s_1121202, s_12327499, s_12805072, s_1968357, s_1968359, s_3032720, s_3076534, s_5888878, s_5893159 -->",
+    "grammar_tags": [
+      "adjectives",
+      "agreement"
+    ],
+    "new_words": [
+      "w_khoroshiy",
+      "w_plokhoy",
+      "w_novyy",
+      "w_staryy",
+      "w_molodoy",
+      "w_krasivyy",
+      "w_umnyy",
+      "w_dorogoy",
+      "w_deshyovyy",
+      "w_golodnyy"
+    ],
+    "review_tags": [
+      "gender",
+      "plural-nominative"
+    ]
+  }
+]

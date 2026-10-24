@@ -1,0 +1,28 @@
+[
+  {
+    "id": "l_a2_05",
+    "level": "a2",
+    "order": 5,
+    "title_it": "A chi? Il dativo",
+    "explanation_md": "## Il caso dativo\nIl **dativo** risponde a «a chi?». In italiano: «do il libro **a mamma**».\n\n## Pronomi\n| Nominativo | Dativo |\n|---|---|\n| я | **мне́** (mnè) |\n| ты | **тебе́** (tebè) |\n| он, оно | **ему́** (iemù) |\n| она | **ей** (iej) |\n| мы | **на́м** (nàm) |\n| вы | **ва́м** (vàm) |\n| они | **им** (im) |\n\n## Nomi\n| Genere | Terminazione | Esempio |\n|---|---|---|\n| maschile | **-у / -ю** | **бра́т** (bràt) → **бра́ту** (bràtu) |\n| femminile in -а | **-е** | **ма́ма** (màma) → **ма́ме** (màme) |\n| neutro | **-у / -ю** | **сло́во** (slòvo) → **сло́ву** (slòvu) |\n\n## Verbi che vogliono il dativo\n- **да́ть** (dàt) / **дава́ть** (davàt) – **dare**: **Даю́ сло́во.** (Daiù slòvo.) – Ti do la mia parola., **Дава́йте игра́ть.** (Davàjte igràt.) – Giochiamo.\n- **показа́ть** (pokazàt) – **mostrare**: **Сейча́с покажу́.** (Sejciàs pokazhù.) – Ora ti mostro.\n- **принести́** (prinestì) – **portare**\n- **посла́ть** (poslàt) – **mandare**\n- **объясни́ть** (obiasnìt) – **spiegare**: **Я́ могу́ объясни́ть.** (Ià mogù obiasnìt.) – Io posso spiegare., **Пожа́луйста, объясни́те.** (Pozhàlujsta, obiasnìte.) – Spiegatevi, per favore.\n- **предложи́ть** (predlozhìt) – **proporre**: **Что́ они́ предложи́ли?** (Ctò onì predlozhìli?) – Cosa hanno offerto?\n- **попроси́ть** (poprosìt) – **chiedere** (qualcosa a qualcuno): **Они́ попроси́ли по́мощи.** (Onì poprosìli pòmossci.) – Hanno chiesto aiuto.\n\nEsempi liberi:\n- **Я́ покажу́ биле́т бра́ту.** (Ià pokazhù bilèt bràtu.) (Mostrerò il biglietto a mio fratello.)\n- **Я́ даю́ кни́гу ма́ме.** (Ià daiù knìgu màme.) (Do il libro a mamma.)\n\n## Dativo già incontrato\n**Мне́ нра́вится ...** (Mnè nràvitsia ...), **Мне́ на́до ...** (Mnè nàdo ...), **Мне́ хо́чется ...** (Mnè khòcetsia ...) usano proprio il dativo del pronome.\n\n<!-- frasi: s_3709000, s_4679106, s_507103, s_5494682, s_5508504, s_5529336, s_6983707 -->",
+    "grammar_tags": [
+      "dative-case",
+      "dative-pronouns"
+    ],
+    "new_words": [
+      "w_dat",
+      "w_davat",
+      "w_pokazat",
+      "w_prinesti",
+      "w_poslat",
+      "w_obyasnit",
+      "w_predlozhit",
+      "w_poprosit"
+    ],
+    "review_tags": [
+      "accusative",
+      "genitive",
+      "prepositions"
+    ]
+  }
+]

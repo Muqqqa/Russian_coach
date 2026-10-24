@@ -1,0 +1,27 @@
+[
+  {
+    "id": "l_zero_02",
+    "level": "zero",
+    "order": 2,
+    "title_it": "Lettere che ingannano: Н, В, Р, У, И, П, Б",
+    "explanation_md": "Oggi incontri lettere che **somigliano a lettere latine ma suonano diversamente**. Sono i famosi «falsi amici» dell'alfabeto.\n\n## Falsi amici\n| Lettera | Suono | Attenzione |\n|---|---|---|\n| **Н н** | n | sembra una H, ma è la nostra N |\n| **В в** | v | sembra una B, ma è la nostra V |\n| **Р р** | r | sembra una P, ma è una R **rotolata**, come in italiano |\n| **У у** | u | sembra una Y, ma è la nostra U |\n\n## Lettere nuove e amiche\n| Lettera | Suono | Come in italiano |\n|---|---|---|\n| **И и** | i | *vino* |\n| **П п** | p | *pane* |\n| **Б б** | b | *bello* |\n\n## Parole nuove\n- **о́н** (òn) – **lui**\n- **она́** (onà) – **lei**\n- **они́** (onì) – **loro**\n- **вино́** (vinò) – **vino**\n- **пи́во** (pìvo) – **birra**\n- **такси́** (taksì) – **taxi**\n- **ба́р** (bàr) – **bar**\n- **вода́** (vodà) – **acqua**\n\nNota: in **о́н** (òn) l'accento cade sulla **о** perché la parola ha una sola vocale. Nelle parole di una sola vocale l'accento è automatico.\n\nAlcune parole le riconosci subito: **вино́** (vinò), **такси́** (taksì), **ба́р** (bàr) sono quasi italiane. Il russo ha molti prestiti internazionali, un buon aiuto all'inizio.\n\n## Prova\n- **Да, э́то вино́.** (Da, èto vinò.) – Si, questo è vino.\n- **Где́ они́?** (Gdè onì?) – Dove sono?\n\n<!-- frasi: s_5517953, s_647102 -->",
+    "grammar_tags": [
+      "alphabet-2",
+      "false-friends"
+    ],
+    "new_words": [
+      "w_on",
+      "w_ona",
+      "w_oni",
+      "w_vino",
+      "w_pivo",
+      "w_taksi",
+      "w_bar",
+      "w_voda"
+    ],
+    "review_tags": [
+      "alphabet-1",
+      "stress-mark"
+    ]
+  }
+]

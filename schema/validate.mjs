@@ -87,6 +87,8 @@ const checks = {
 function files(path) {
   if (statSync(path).isDirectory())
     return readdirSync(path).flatMap((f) => files(join(path, f)));
+  // file ausiliari che non contengono array di record
+  if (/(^|\/)(topics|word_topics|credits)\.json$/.test(path)) return [];
   return path.endsWith(".json") ? [path] : [];
 }
 

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "l_a1_09",
+    "level": "a1",
+    "order": 9,
+    "title_it": "Verbi in -ать/-еть: prima coniugazione",
+    "explanation_md": "## La coniugazione «e»\nQuasi tutti i verbi russi seguono una di due «famiglie». La **prima coniugazione** ha le terminazioni:\n\n| Persona | Terminazione | **чита́ть** (citàt) (leggere) |\n|---|---|---|\n| я | **-ю** | **чита́ю** (citàiu) |\n| ты | **-ешь** | **чита́ешь** (citàiesc) |\n| он, она | **-ет** | **чита́ет** (citàiet) |\n| мы | **-ем** | **чита́ем** (citàiem) |\n| вы | **-ете** | **чита́ете** (citàiete) |\n| они | **-ют** | **чита́ют** (citàiut) |\n\nPer ottenere il presente togli **-ть** dall'infinito e aggiungi le terminazioni. Il russo ha **un solo presente**: **Я́ чита́ю** (Ià citàiu) vuol dire sia *leggo* sia *sto leggendo*.\n\n## Verbi nuovi\n- **зна́ть** (znàt) – sapere, conoscere\n- **ду́мать** (dùmat) – pensare\n- **рабо́тать** (rabòtat) – lavorare\n- **чита́ть** (citàt) – leggere\n- **жда́ть** (zhdàt) – aspettare: **жду́** (zhdù), **ждёшь** (zhdiòsc), **ждёт** (zhdiòt), **ждём** (zhdiòm), **ждёте** (zhdiòte), **ждут** (zhdut)\n- **иска́ть** (iskàt) – cercare: **ищу́** (issciù), **и́щешь** (ìsscesc), **и́щет** (ìsscet), **и́щем** (ìsscem), **и́щете** (ìsscete), **и́щут** (ìssciut)\n- **пи́ть** (pìt) – bere: **пью́** (più), **пьёшь** (piòsc), **пьёт** (piòt), **пьём** (piòm), **пьёте** (piòte), **пью́т** (piùt)\n- **боле́ть** (bolèt) – essere malato: **боле́ю** (bolèiu), **боле́ешь** (bolèiesc), **боле́ет** (bolèiet)\n\nQuando l'accento cade sulla terminazione la **е** diventa **ё**: **ждёшь** (zhdiòsc), **пьёшь** (piòsc).\n\n## Esempi\n- **Я́ рабо́таю.** (Ià rabòtaiu.) – Sto lavorando.\n- **Я́ не чита́ю.** (Ià ne citàiu.) – Non leggo.\n- **Не зна́ю.** (Ne znàiu.) – Non so.\n- **Ду́маю, да.** (Dùmaiu, da.) – Penso di si.\n- **Ты́ пьёшь пи́во?** (Tỳ piòsc pìvo?) – Bevi birra?\n- **Вы́ пьёте пи́во?** (Vỳ piòte pìvo?) – Bevete birra?\n- **Я́ ищу́ банкома́т.** (Ià issciù bankomàt.) – Sto cercando un bancomat.\n- **Я́ боле́ю.** (Ià bolèiu.) – Sono malato.\n- **Все́ жду́т.** (Vsè zhdùt.) – Tutti stanno aspettando.\n\nRicorda: negare un verbo = **не́** (nè) davanti al verbo.\n\n<!-- frasi: s_2513699, s_2776353, s_3030030, s_3052025, s_3668039, s_5175208, s_524745, s_7447080, s_882179 -->",
+    "grammar_tags": [
+      "verbs-present",
+      "conjugation-1"
+    ],
+    "new_words": [
+      "w_znat",
+      "w_dumat",
+      "w_rabotat",
+      "w_chitat",
+      "w_zhdat",
+      "w_iskat",
+      "w_pit",
+      "w_bolet"
+    ],
+    "review_tags": [
+      "verbs-present",
+      "negation"
+    ]
+  }
+]

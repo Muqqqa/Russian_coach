@@ -1,0 +1,30 @@
+[
+  {
+    "id": "l_zero_05",
+    "level": "zero",
+    "order": 5,
+    "title_it": "Segni e suoni speciali: Ь, Ъ, Ы, Й, Ю",
+    "explanation_md": "Ultime lettere: sono poche ma importanti.\n\n| Lettera | Cosa fa |\n|---|---|\n| **Ы ы** | vocale che in italiano non esiste: una *i* pronunciata «all'indietro», con la lingua arretrata. Non sta mai a inizio parola. |\n| **Й й** | suono breve *j*, come la *i* di *ieri* o di *mai*: in **ча́й** (ciàj) forma un dittongo con la vocale. |\n| **Ю ю** | «iu», come in *più* (dolce di **у**). |\n| **Ь ь** | **segno debole** (*myagkiy znak*): non ha suono, ma **ammorbidisce** la consonante prima. |\n| **Ъ ъ** | **segno duro**: raro, separa un prefisso dalla radice. Per ora basta sapere che esiste: non compare nelle parole di questo livello. |\n\n## Il segno debole\nIn **зде́сь** (zdès) e **о́чень** (òcen) la **ь** non si legge: la consonante prima di lei è un po' «più morbida», come se dicessimo *zdies'* con la lingua verso il palato.\n\n## Ripasso: l'alfabeto in sintesi\nА Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я: **33 lettere**. Hai incontrato tutte le lettere importanti. Ora serve solo allenamento.\n\n## Parole nuove\n- **вы́** (vỳ) – **voi, Lei** (forma di cortesia)\n- **мы́** (mỳ) – **noi**\n- **ты́** (tỳ) – **tu**\n- **зде́сь** (zdès) – **qui**\n- **о́чень** (òcen) – **molto**\n- **то́лько** (tòlko) – **solo, soltanto**\n- **бы́стро** (bỳstro) – **in fretta**\n- **люби́ть** (liubìt) – **amare, voler bene, piacere**\n- **пожа́луйста** (pozhàlujsta) – **per favore; prego**\n- **большо́й** (bolsciòj) – **grande**\n\n## Prova\n- **Вы́ кто́?** (Vỳ ktò?) – Voi chi siete?\n- **Я́ зде́сь.** (Ià zdès.) – Sono qua.\n- **Большо́е спаси́бо!** (Bolsciòie spasìbo!) – Grazie mille!\n\n<!-- frasi: s_2134537, s_2501402, s_401105 -->",
+    "grammar_tags": [
+      "alphabet-5",
+      "soft-sign",
+      "y-sound"
+    ],
+    "new_words": [
+      "w_vy",
+      "w_my",
+      "w_ty",
+      "w_zdes",
+      "w_ochen",
+      "w_tolko",
+      "w_bystro",
+      "w_lyubit",
+      "w_pozhaluysta",
+      "w_bolshoy"
+    ],
+    "review_tags": [
+      "alphabet-4",
+      "sibilants"
+    ]
+  }
+]

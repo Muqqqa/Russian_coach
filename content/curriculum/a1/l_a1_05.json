@@ -1,0 +1,30 @@
+[
+  {
+    "id": "l_a1_05",
+    "level": "a1",
+    "order": 5,
+    "title_it": "Più persone: il plurale e «molti»",
+    "explanation_md": "## Il plurale nominativo\nRegola generale:\n- maschile in consonante: aggiungi **-ы** → **сто́л** (stòl) → **столы́** (stolỳ); dopo г, к, х, ж, ш, ч, щ: **-и**\n- femminile in **-а**: **-а → -ы** (**ко́мната** (kòmnata) → **ко́мнаты** (kòmnaty)); in -я o dopo г, к...: **-и**\n- neutro **-о → -а**: **сло́во** (slòvo) → **слова́** (slovà)\n\n## Plurali irregolari frequenti\n| Singolare | Plurale |\n|---|---|\n| **челове́к** (celovèk) persona | **лю́ди** (liùdi) persone, gente |\n| **ребёнок** (rebiònok) bambino | **де́ти** (dèti) bambini |\n| **дру́г** (drùg) amico | **друзья́** (druzià) amici |\n| **бра́т** (bràt) fratello | **бра́тья** (bràtia) fratelli |\n| **ма́ть** (màt) madre | **ма́тери** (màteri) madri |\n\nNuove parole: **семья́** (semià) (famiglia), **роди́тель** (rodìtel) (genitore), **подру́га** (podrùga) (amica), **же́нщина** (zhènsscina) (donna).\n\n## Frasi\n- **Они́ де́ти.** (Onì dèti.) – Sono bambini.\n- **Вы́ друзья́?** (Vỳ druzià?) – Siete amici?\n- **Вы́ бра́тья?** (Vỳ bràtia?) – Siete fratelli?\n- **Мы́ подру́ги.** (Mỳ podrùghi.) – Siamo amiche.\n- **Где́ роди́тели?** (Gdè rodìteli?) – Dove sono i genitori?\n\n## Quantità\n- **мно́го** (mnògo) – **molto, molti**\n- **ма́ло** (màlo) – **poco**\n- **не́сколько** (nèskolko) – **alcuni, diversi**\n- **все́** (vsè) – **tutti**\n- **ка́ждый** (kàzhdyj) – **ogni, ciascuno**\n\nDopo **мно́го** (mnògo), **ма́ло** (màlo), **не́сколько** (nèskolko) il nome va al **genitivo plurale**: **мно́го люде́й** (mnògo liudèj), **не́сколько часо́в** (nèskolko ciasòv).\n- **Все́ жду́т.** (Vsè zhdùt.) – Tutti stanno aspettando.\n- **Э́то мно́го!** (Èto mnògo!) – È molto!\n\n<!-- frasi: s_1801308, s_2095955, s_2580356, s_2748318, s_3030030, s_3054630, s_5505562 -->",
+    "grammar_tags": [
+      "plural-nominative",
+      "quantifiers"
+    ],
+    "new_words": [
+      "w_semya",
+      "w_roditel",
+      "w_rebyonok",
+      "w_drug",
+      "w_podruga",
+      "w_zhenshchina",
+      "w_mnogo",
+      "w_malo",
+      "w_neskolko",
+      "w_vse",
+      "w_kazhdyy"
+    ],
+    "review_tags": [
+      "family",
+      "nouns-nominative"
+    ]
+  }
+]

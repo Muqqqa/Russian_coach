@@ -1,0 +1,28 @@
+[
+  {
+    "id": "l_zero_11",
+    "level": "zero",
+    "order": 11,
+    "title_it": "Primi verbi: io, tu, lui",
+    "explanation_md": "I verbi russi cambiano la terminazione a seconda della persona. All'inizio ti bastano alcune forme chiave.\n\n## Forme del presente\n| | **говори́ть** (govorìt) (parlare) | **понима́ть** (ponimàt) (capire) |\n|---|---|---|\n| я | **говорю́** (govoriù) | **понима́ю** (ponimàiu) |\n| ты | **говори́шь** (govorìsc) | **понима́ешь** (ponimàiesc) |\n| он, она | **говори́т** (govorìt) | **понима́ет** (ponimàiet) |\n| мы | **говори́м** (govorìm) | **понима́ем** (ponimàiem) |\n| вы | **говори́те** (govorìte) | **понима́ете** (ponimàiete) |\n| они | **говоря́т** (govoriàt) | **понима́ют** (ponimàiut) |\n\nLe terminazioni **-ю/-у, -ешь/-ишь, -ет/-ит, -ем/-им, -ете/-ите, -ют/-ут** sono il cuore del russo; le studieremo con calma in A1.\n\n## Verbi irregolari frequentissimi\n- **хоте́ть** (khotèt) – **volere**: **хочу́** (khociù), **хо́чешь** (khòcesc), **хо́чет** (khòcet)\n- **мо́чь** (mòc) – **potere**: **могу́** (mogù), **мо́жешь** (mòzhesc), **мо́жет** (mòzhet)\n- **жи́ть** (zhìt) – **vivere**: **живу́** (zhivù), **живёшь** (zhiviòsc), **живёт** (zhiviòt)\n\nEsempi:\n- **Ты́ говори́шь по-ру́сски?** (Tỳ govorìsc po-rùsski?) – Parli russo?\n- **Да, понима́ю!** (Da, ponimàiu!) – Sì, capisco!\n- **Я́ хочу́ жи́ть.** (Ià khociù zhìt.) – Voglio vivere.\n- **Мо́жешь помо́чь?** (Mòzhesc pomòc?) – Puoi aiutarmi?\n\n## Verbi da imparare come blocchi\nQuesti verbi sono «perfettivi» (azione compiuta, ad esempio *comprare = aver finito di comprare*):\n- **купи́ть** (kupìt) – **comprare**\n- **спроси́ть** (sprosìt) – **chiedere** (una domanda)\n- **помо́чь** (pomòc) – **aiutare**\n\nIl verbo **сто́ить** (stòit) – **costare** si usa spesso con **ско́лько** (skòlko): **Ско́лько сто́ило?** (Skòlko stòilo?) – Quanto costava?\n\nPer ora usali come li trovi.\n\n<!-- frasi: s_13200053, s_1446191, s_2428795, s_2578242, s_5989129 -->",
+    "grammar_tags": [
+      "verbs-present",
+      "conjugation-intro"
+    ],
+    "new_words": [
+      "w_govorit",
+      "w_ponimat",
+      "w_khotet",
+      "w_moch",
+      "w_zhit",
+      "w_kupit",
+      "w_sprosit",
+      "w_pomoch",
+      "w_stoit"
+    ],
+    "review_tags": [
+      "negation",
+      "pronouns"
+    ]
+  }
+]

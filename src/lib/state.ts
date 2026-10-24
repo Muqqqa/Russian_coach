@@ -30,7 +30,7 @@ export interface DayStats {
 export interface ActiveSession {
   day: string;
   minutes: 15 | 30 | 45;
-  /** Contatore delle lezioni dello stesso giorno (per variare la selezione). */
+  /** Numero progressivo della lezione nella giornata (varia la selezione). */
   n: number;
   exerciseIds: string[];
   index: number;
@@ -41,11 +41,12 @@ export interface ActiveSession {
 export interface AppExtra {
   history: Record<string, DayStats>;
   active?: ActiveSession;
-  lessonsToday: Record<string, number>;
+  /** Esercizi gia' proposti oggi: nelle lezioni successive dello stesso giorno si evitano. */
+  usedToday: { day: string; ids: string[] };
 }
 
 export function defaultExtra(): AppExtra {
-  return { history: {}, lessonsToday: {} };
+  return { history: {}, usedToday: { day: "", ids: [] } };
 }
 
 const isObj = (v: unknown): v is Record<string, unknown> => typeof v === "object" && v !== null && !Array.isArray(v);
@@ -224,7 +225,10 @@ export function loadExtra(): AppExtra {
     if (!isObj(raw)) return defaultExtra();
     return {
       history: isObj(raw.history) ? (raw.history as AppExtra["history"]) : {},
-      lessonsToday: isObj(raw.lessonsToday) ? (raw.lessonsToday as Record<string, number>) : {},
+      usedToday:
+        isObj(raw.usedToday) && typeof raw.usedToday.day === "string" && Array.isArray(raw.usedToday.ids)
+          ? { day: raw.usedToday.day, ids: raw.usedToday.ids.filter((x): x is string => typeof x === "string") }
+          : { day: "", ids: [] },
       active: isObj(raw.active) ? (raw.active as unknown as ActiveSession) : undefined,
     };
   } catch {

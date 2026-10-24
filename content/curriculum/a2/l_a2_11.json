@@ -1,0 +1,31 @@
+[
+  {
+    "id": "l_a2_11",
+    "level": "a2",
+    "order": 11,
+    "title_it": "Sopra, sotto, dietro: preposizioni di luogo",
+    "explanation_md": "## Con il genitivo\n- **о́коло** (òkolo) – **vicino a, circa**: **Сейча́с о́коло пяти.** (Sejciàs òkolo piati.) – Ora sono le cinque circa.\n- **во́зле** (vòzle) – **accanto a**: **Во́зле до́ма.** (Vòzle dòma.)\n- **ми́мо** (mìmo) – **oltre, davanti a (passando)**\n- **среди́** (sredì) – **tra, in mezzo a**\n- **вокру́г** (vokrùg) – **intorno a**: **Посмотри́ вокру́г.** (Posmotrì vokrùg.) – Guardati attorno.\n- **про́тив** (pròtiv) – **contro**: **Я́ не про́тив, я́ — за.** (Ià ne pròtiv, ià — za.) – Non sono contrario, sono a favore.\n\n## Con lo strumentale\n- **на́д** (nàd) – **sopra**: **Не́бо — над голово́й.** (Nèbo — nad golovòj.) – Il cielo è sopra la testa.\n- **по́д** (pòd) – **sotto**: **Под крова́тью ко́шка.** (Pod krovàtiu kòscka.) – C'è un gatto sotto il letto., **Сту́лья под де́ревом.** (Stùlia pod dèrevom.) – Le sedie sono sotto l'albero.\n- **за́** (zà) – **dietro, oltre**\n\n## Con l'accusativo\n- **че́рез** (cèrez) – **attraverso, tra (tempo)**: **Я́ ухожу́ че́рез ча́с.** (Ià ukhozhù cèrez ciàs.) – Me ne vado tra un'ora.\n\n## Con il prepositivo\n- **при́** (prì) – **presso, alla presenza di**\n\n## Preposizioni a due casi\nAlcune preposizioni cambiano caso a seconda che indichino **posizione** o **direzione**: **за́** (zà), **по́д** (pòd), **на́д** (nàd):\n- Posizione → strumentale: **Сту́л за столо́м.** (Stùl za stolòm.)\n- Direzione → accusativo: **Поста́вь сту́л за сто́л.** (Postàv stùl za stòl.)\n\nRicorda anche **пе́ред** (pèred) e **ме́жду** (mèzhdu) dell'A1 (strumentale).\n\n<!-- frasi: s_1074984, s_13734510, s_2732233, s_2824889, s_3302573, s_5574574, s_795149 -->",
+    "grammar_tags": [
+      "prepositions-place",
+      "instrumental-case"
+    ],
+    "new_words": [
+      "w_okolo",
+      "w_vozle",
+      "w_nad",
+      "w_pod",
+      "w_za",
+      "w_cherez",
+      "w_mimo",
+      "w_sredi",
+      "w_vokrug",
+      "w_protiv",
+      "w_pri"
+    ],
+    "review_tags": [
+      "genitive",
+      "prepositional-case",
+      "dative-case"
+    ]
+  }
+]

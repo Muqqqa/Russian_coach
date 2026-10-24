@@ -1,0 +1,25 @@
+[
+  {
+    "id": "l_a1_21",
+    "level": "a1",
+    "order": 21,
+    "title_it": "Il passato",
+    "explanation_md": "## Formare il passato\nIl passato russo è facile: non cambia in base alla persona, ma al **genere**. Togli **-ть** e aggiungi:\n\n| Soggetto | Terminazione | **чита́ть** (citàt) |\n|---|---|---|\n| maschile | **-л** | **чита́л** (citàl) |\n| femminile | **-ла** | **чита́ла** (citàla) |\n| neutro | **-ло** | **чита́ло** (citàlo) |\n| plurale | **-ли** | **чита́ли** (citàli) |\n\nIl parlante dice quindi **Я́ чита́л** (Ià citàl) se è un uomo e **Я́ чита́ла** (Ià citàla) se è una donna.\n\n- **Я́ зна́л.** (Ià znàl.) – Lo sapevo.\n- **Я́ боле́л.** (Ià bolèl.) – Ero malato.\n- **Ты́ боле́л.** (Tỳ bolèl.) – Eri malato.\n- **Я́ спа́л де́вять часо́в.** (Ià spàl dèviat ciasòv.) – Ho dormito nove ore.\n- **Когда́ ты́ роди́лся?** (Kogdà tỳ rodìlsia?) – Quando sei nato?\n- **Где́ я́ родила́сь?** (Gdè ià rodilàs?) – Dove sono nata?\n\n## Irregolari\n- **идти́** (idtì) → **шёл** (sciòl), **шла́** (sclà), **шло́** (sclò), **шли́** (sclì): **Шёл до́ждь.** (Sciòl dòzhd.) – Pioveva.\n- **мо́чь** (mòc) → **мо́г** (mòg), **могла́** (moglà)\n- **е́сть** (ièst) → **е́л** (ièl), **е́ла** (ièla)\n\n## Imperfettivo e perfettivo\nLa maggior parte dei verbi ha due forme, dette *aspetti*:\n- **imperfettivo**: azione in corso o abituale (**говори́л** (govorìl) – parlavo)\n- **perfettivo**: azione compiuta (**сказа́л** (skazàl) – ho detto)\n\nNuovi verbi:\n- **сказа́ть** (skazàt) – dire\n- **найти́** (najtì) – trovare\n- **нача́ть** (naciàt) – iniziare\n- **роди́ться** (rodìtsia) – nascere: **роди́лся** (rodìlsia), **родила́сь** (rodilàs)\n- **зна́чить** (znàcit) – significare, voler dire\n\nEsempi:\n- **О́н сказа́л.** (Òn skazàl.) – Lui ha parlato.\n- **Я́ пра́вильно сказа́ла?** (Ià pràvilno skazàla?) – Ho detto bene?\n- **Что́ ты́ купи́л?** (Ctò tỳ kupìl?) – Che hai comprato?\n- **Я́ роди́лся в Росси́и.** (Ià rodìlsia v rossìi.) – Sono nato in Russia.\n- **Что́ э́то зна́чит?** (Ctò èto znàcit?) – Che cosa significa?\n\n<!-- frasi: s_1336728, s_2305371, s_2399781, s_2723293, s_2857436, s_3099552, s_3304492, s_467039, s_469604, s_5897084, s_6143329, s_643966 -->",
+    "grammar_tags": [
+      "past-tense",
+      "aspect"
+    ],
+    "new_words": [
+      "w_skazat",
+      "w_nayti",
+      "w_nachat",
+      "w_roditsya",
+      "w_znachit"
+    ],
+    "review_tags": [
+      "verbs-present",
+      "conjugation-1",
+      "conjugation-2"
+    ]
+  }
+]
