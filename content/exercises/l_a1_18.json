@@ -1,12 +1,11 @@
 [
  {
-  "id": "e_001094",
+  "id": "e_001102",
   "type": "translate",
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "descrizioni",
-   "avverbi"
+   "descrizioni"
   ],
   "grammar_tags": [
    "adjectives",
@@ -14,7 +13,7 @@
    "comparative"
   ],
   "words": [
-   "w_svobodnyy"
+   "w_malyy"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 10,
@@ -22,22 +21,23 @@
   "payload": {
    "type": "translate",
    "direction": "ru_it",
-   "source": "свобо́дный",
-   "answer": "libero",
+   "source": "ма́лый",
+   "answer": "piccolo",
    "accepted": [
-    "libero"
+    "piccolo"
    ]
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001095",
+  "id": "e_001899",
   "type": "translate",
   "level": "a1",
   "difficulty": 3,
   "topics": [
    "grammatica",
-   "luoghi"
+   "descrizioni",
+   "mente"
   ],
   "grammar_tags": [
    "adjectives",
@@ -45,9 +45,9 @@
    "comparative"
   ],
   "words": [
-   "w_eto",
-   "w_svobodnyy",
-   "w_strana"
+   "w_oni",
+   "w_mnogie",
+   "w_znat"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 17,
@@ -55,16 +55,17 @@
   "payload": {
    "type": "translate",
    "direction": "ru_it",
-   "source": "Э́то свобо́дная страна́?",
-   "answer": "Questo è un paese libero?",
+   "source": "Они́ мно́гое зна́ют.",
+   "answer": "Sanno molte cose.",
    "accepted": [
-    "Questo è un paese libero?",
-    "Questo è un paese libero",
-    "questo è un paese libero",
-    "questo è un paese libero?",
-    "Questo e' un paese libero?",
-    "questo e' un paese libero",
-    "questo e un paese libero"
+    "Sanno molte cose.",
+    "Sanno molte cose",
+    "sanno molte cose",
+    "sanno molte cose.",
+    "Loro sanno molte cose.",
+    "Loro sanno molte cose",
+    "loro sanno molte cose",
+    "loro sanno molte cose."
    ]
   },
   "qa_status": "pending"
@@ -177,12 +178,13 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001099",
+  "id": "e_001900",
   "type": "translate",
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "avverbi"
+   "grammatica",
+   "descrizioni"
   ],
   "grammar_tags": [
    "adjectives",
@@ -190,8 +192,8 @@
    "comparative"
   ],
   "words": [
-   "w_kak",
-   "w_dolgo"
+   "w_ty",
+   "w_svobodnyy"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 14,
@@ -199,13 +201,17 @@
   "payload": {
    "type": "translate",
    "direction": "ru_it",
-   "source": "Ка́к до́лго?",
-   "answer": "Quanto a lungo?",
+   "source": "Ты́ свобо́ден?",
+   "answer": "Sei libero?",
    "accepted": [
-    "Quanto a lungo?",
-    "Quanto a lungo",
-    "quanto a lungo",
-    "quanto a lungo?"
+    "Sei libero?",
+    "Sei libero",
+    "sei libero",
+    "sei libero?",
+    "Tu sei libero?",
+    "Tu sei libero",
+    "tu sei libero",
+    "tu sei libero?"
    ]
   },
   "qa_status": "pending"
@@ -283,7 +289,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001102",
+  "id": "e_001901",
   "type": "translate",
   "level": "a1",
   "difficulty": 2,
@@ -296,7 +302,7 @@
    "comparative"
   ],
   "words": [
-   "w_malyy"
+   "w_prostoy"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 10,
@@ -304,22 +310,22 @@
   "payload": {
    "type": "translate",
    "direction": "ru_it",
-   "source": "ма́лый",
-   "answer": "piccolo",
+   "source": "просто́й",
+   "answer": "semplice",
    "accepted": [
-    "piccolo"
+    "semplice",
+    "facile"
    ]
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001103",
+  "id": "e_001902",
   "type": "cloze",
   "level": "a1",
   "difficulty": 4,
   "topics": [
-   "descrizioni",
-   "avverbi"
+   "descrizioni"
   ],
   "grammar_tags": [
    "adjectives",
@@ -335,23 +341,24 @@
   "prompt_it": "Completa con la forma corretta.",
   "payload": {
    "type": "cloze",
-   "text": "Э́то ___ дома́.",
-   "answer": "свобо́дные",
+   "text": "Э́то ___ до́м.",
+   "answer": "свобо́дный",
    "accepted": [
-    "свобо́дные",
-    "свободные"
+    "свобо́дный",
+    "свободный"
    ],
-   "hint_it": "libero: concorda con «case» (plurale)."
+   "hint_it": "libero: concorda con «casa» (maschile)."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001104",
+  "id": "e_001903",
   "type": "cloze",
   "level": "a1",
-  "difficulty": 4,
+  "difficulty": 2,
   "topics": [
-   "tempo"
+   "descrizioni",
+   "avverbi"
   ],
   "grammar_tags": [
    "adjectives",
@@ -359,20 +366,20 @@
    "comparative"
   ],
   "words": [
-   "w_sreda"
+   "w_dolgo"
   ],
   "lesson": "l_a1_18",
-  "est_seconds": 18,
+  "est_seconds": 14,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "В ___ я́ свобо́дна.",
-   "answer": "среду́",
+   "text": "Ка́к ___?",
+   "answer": "до́лго",
    "accepted": [
-    "среду́",
-    "среду"
+    "до́лго",
+    "долго"
    ],
-   "hint_it": "Mercoledì sono libera."
+   "hint_it": "Quanto a lungo?"
   },
   "qa_status": "pending"
  },
@@ -409,43 +416,12 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001106",
-  "type": "cloze",
-  "level": "a1",
-  "difficulty": 3,
-  "topics": [
-   "direzioni"
-  ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs",
-   "comparative"
-  ],
-  "words": [
-   "w_zdes"
-  ],
-  "lesson": "l_a1_18",
-  "est_seconds": 20,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "Я́ ___ до́льше, чем ты́.",
-   "answer": "зде́сь",
-   "accepted": [
-    "зде́сь",
-    "здесь"
-   ],
-   "hint_it": "Sono qui da più tempo di te."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001107",
+  "id": "e_001904",
   "type": "cloze",
   "level": "a1",
   "difficulty": 4,
   "topics": [
-   "avverbi"
+   "descrizioni"
   ],
   "grammar_tags": [
    "adjectives",
@@ -453,51 +429,84 @@
    "comparative"
   ],
   "words": [
-   "w_plokho"
-  ],
-  "lesson": "l_a1_18",
-  "est_seconds": 16,
-  "prompt_it": "Completa con la forma corretta.",
-  "payload": {
-   "type": "cloze",
-   "text": "пло́хо → comparativo: ___",
-   "answer": "ху́же",
-   "accepted": [
-    "ху́же",
-    "хуже"
-   ],
-   "hint_it": "Comparativo di «пло́хо» (male)."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001108",
-  "type": "cloze",
-  "level": "a1",
-  "difficulty": 3,
-  "topics": [
-   "avverbi"
-  ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs",
-   "comparative"
-  ],
-  "words": [
-   "w_normalno"
+   "w_svobodnyy"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 18,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Ты́ ___ себя́ чу́вствуешь?",
-   "answer": "норма́льно",
+   "text": "В среду́ я́ ___.",
+   "answer": "свобо́дна",
    "accepted": [
-    "норма́льно",
-    "нормально"
+    "свобо́дна",
+    "свободна"
    ],
-   "hint_it": "Ti senti bene?"
+   "hint_it": "Mercoledì sono libera."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001905",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs",
+   "comparative"
+  ],
+  "words": [
+   "w_malyy"
+  ],
+  "lesson": "l_a1_18",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "ма́лый → comparativo: ___",
+   "answer": "ме́ньше",
+   "accepted": [
+    "ме́ньше",
+    "меньше"
+   ],
+   "hint_it": "Comparativo di «ма́лый» (piccolo)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001906",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs",
+   "comparative"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_a1_18",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ не норма́льно.",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "Questo non è normale."
   },
   "qa_status": "pending"
  },
@@ -534,12 +543,13 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001110",
+  "id": "e_001907",
   "type": "cloze",
   "level": "a1",
-  "difficulty": 3,
+  "difficulty": 2,
   "topics": [
-   "soldi"
+   "descrizioni",
+   "avverbi"
   ],
   "grammar_tags": [
    "adjectives",
@@ -547,20 +557,20 @@
    "comparative"
   ],
   "words": [
-   "w_deshyovyy"
+   "w_dolgo"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 16,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "На авто́бусе ___.",
-   "answer": "деше́вле",
+   "text": "Мне́ ___ жда́ть?",
+   "answer": "до́лго",
    "accepted": [
-    "деше́вле",
-    "дешевле"
+    "до́лго",
+    "долго"
    ],
-   "hint_it": "In autobus è più economico."
+   "hint_it": "Devo aspettare tanto?"
   },
   "qa_status": "pending"
  },
@@ -599,48 +609,13 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001112",
-  "type": "multiple_choice",
-  "level": "a1",
-  "difficulty": 3,
-  "topics": [
-   "grammatica",
-   "luoghi"
-  ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs",
-   "comparative"
-  ],
-  "words": [
-   "w_eto",
-   "w_svobodnyy",
-   "w_strana"
-  ],
-  "lesson": "l_a1_18",
-  "est_seconds": 16,
-  "prompt_it": "Scegli la traduzione italiana corretta.",
-  "payload": {
-   "type": "multiple_choice",
-   "question": "Э́то свобо́дная страна́?",
-   "options": [
-    "Questo è un paese libero?",
-    "È ancora più economico.",
-    "Queste sono le sue cose.",
-    "Questo è vostro figlio?"
-   ],
-   "correct": 0
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001113",
+  "id": "e_001908",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "descrizioni",
-   "avverbi"
+   "grammatica",
+   "descrizioni"
   ],
   "grammar_tags": [
    "adjectives",
@@ -648,21 +623,54 @@
    "comparative"
   ],
   "words": [
+   "w_ty",
    "w_svobodnyy"
+  ],
+  "lesson": "l_a1_18",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Ты́ свобо́ден?",
+   "options": [
+    "Ti ricordi?",
+    "Sei libero?",
+    "Dove sei?",
+    "Anche tu?"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001909",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs",
+   "comparative"
+  ],
+  "words": [
+   "w_normalnyy"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 10,
   "prompt_it": "Scegli il significato giusto.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Che cosa significa «свобо́дный»?",
+   "question": "Che cosa significa «норма́льный»?",
    "options": [
-    "vecchio",
-    "cattivo",
-    "libero",
-    "lontano"
+    "caldo",
+    "economico",
+    "nuovo",
+    "normale"
    ],
-   "correct": 2
+   "correct": 3
   },
   "qa_status": "pending"
  },
@@ -729,14 +737,14 @@
     "хоро́ший",
     "дорого́й",
     "мно́гие",
-    "но́вый"
+    "плохо́й"
    ],
    "correct": 2
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001116",
+  "id": "e_001910",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 4,
@@ -746,36 +754,35 @@
   "grammar_tags": [
    "adjectives",
    "adverbs",
-   "comparative",
-   "adjectives-agreement"
+   "comparative"
   ],
   "words": [
    "w_normalnyy"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 14,
-  "prompt_it": "Accorda l'aggettivo «норма́льный» con il nome.",
+  "prompt_it": "Scegli il comparativo giusto.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Э́то ___ вино́. — normale: concorda con «vino» (neutro).",
+   "question": "норма́льный → comparativo: ___ — Comparativo di «норма́льный» (normale).",
    "options": [
-    "норма́льная",
-    "норма́льный",
-    "норма́льные",
-    "норма́льное"
+    "до́льше",
+    "норма́льнее",
+    "жа́рче",
+    "лу́чше"
    ],
-   "correct": 3
+   "correct": 1
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001117",
+  "id": "e_001911",
   "type": "multiple_choice",
   "level": "a1",
-  "difficulty": 4,
+  "difficulty": 3,
   "topics": [
    "grammatica",
-   "direzioni"
+   "azioni"
   ],
   "grammar_tags": [
    "adjectives",
@@ -784,34 +791,32 @@
   ],
   "words": [
    "w_ya",
-   "w_zdes",
-   "w_dolgiy",
-   "w_chem",
-   "w_ty"
+   "w_dolgo",
+   "w_zhdat"
   ],
   "lesson": "l_a1_18",
-  "est_seconds": 20,
+  "est_seconds": 16,
   "prompt_it": "Scegli la traduzione italiana corretta.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Я́ зде́сь до́льше, чем ты́.",
+   "question": "Мне́ до́лго жда́ть?",
    "options": [
-    "Che ti è successo alla faccia?",
-    "Non mi piacciono altre bevande.",
-    "Sono qui da più tempo di te.",
-    "Hai una figlia molto bella."
+    "Non sono vecchia.",
+    "L'ho comprata.",
+    "Ieri stavo male.",
+    "Devo aspettare tanto?"
    ],
-   "correct": 2
+   "correct": 3
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001118",
+  "id": "e_001912",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "descrizioni"
+   "avverbi"
   ],
   "grammar_tags": [
    "adjectives",
@@ -819,32 +824,32 @@
    "comparative"
   ],
   "words": [
-   "w_mnogie"
+   "w_normalno"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 10,
   "prompt_it": "Scegli il significato giusto.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Che cosa significa «мно́гие»?",
+   "question": "Che cosa significa «норма́льно»?",
    "options": [
-    "normale",
-    "molti",
-    "sporco",
-    "affamato"
+    "velocemente",
+    "correttamente",
+    "verso là",
+    "normale"
    ],
-   "correct": 1
+   "correct": 3
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001119",
+  "id": "e_001913",
   "type": "match",
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "avverbi",
-   "descrizioni"
+   "descrizioni",
+   "avverbi"
   ],
   "grammar_tags": [
    "adjectives",
@@ -852,42 +857,46 @@
    "comparative"
   ],
   "words": [
-   "w_normalno",
    "w_plokho",
-   "w_normalnyy",
-   "w_dolgo"
+   "w_svobodnyy",
+   "w_dolgo",
+   "w_normalnyy"
   ],
   "lesson": "l_a1_18",
-  "est_seconds": 27,
+  "est_seconds": 32,
   "prompt_it": "Abbina ogni parola russa al suo significato.",
   "payload": {
    "type": "match",
    "pairs": [
     {
-     "ru": "норма́льно",
-     "it": "normale"
-    },
-    {
      "ru": "пло́хо",
      "it": "male"
     },
     {
+     "ru": "свобо́дный",
+     "it": "libero"
+    },
+    {
      "ru": "до́лго",
      "it": "a lungo"
+    },
+    {
+     "ru": "норма́льный",
+     "it": "normale"
     }
    ]
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001120",
+  "id": "e_001914",
   "type": "match",
   "level": "a1",
   "difficulty": 4,
   "topics": [
-   "grammatica",
-   "avverbi",
-   "direzioni"
+   "direzioni",
+   "soldi",
+   "grammatica"
   ],
   "grammar_tags": [
    "adjectives",
@@ -895,12 +904,12 @@
    "comparative"
   ],
   "words": [
-   "w_eto",
-   "w_ne",
-   "w_normalno",
    "w_na",
    "w_avtobus",
-   "w_deshyovyy"
+   "w_deshyovyy",
+   "w_oni",
+   "w_mnogie",
+   "w_znat"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 45,
@@ -909,34 +918,34 @@
    "type": "match",
    "pairs": [
     {
-     "ru": "Э́то не норма́льно.",
-     "it": "Questo non è normale."
-    },
-    {
      "ru": "На авто́бусе деше́вле.",
      "it": "In autobus è più economico."
     },
     {
-     "ru": "До́лго е́хать?",
-     "it": "Il viaggio è lungo?"
+     "ru": "Они́ мно́гое зна́ют.",
+     "it": "Sanno molte cose."
     },
     {
      "ru": "Ка́к живёшь?",
      "it": "Come stai?"
+    },
+    {
+     "ru": "Мы́ свобо́дны.",
+     "it": "Siamo liberi."
     }
    ]
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001121",
+  "id": "e_001915",
   "type": "match",
   "level": "a1",
   "difficulty": 4,
   "topics": [
+   "grammatica",
    "avverbi",
-   "descrizioni",
-   "grammatica"
+   "descrizioni"
   ],
   "grammar_tags": [
    "adjectives",
@@ -946,10 +955,10 @@
   "words": [
    "w_normalno",
    "w_svobodnyy",
-   "w_malyy",
-   "w_gostinitsa",
+   "w_dolgo",
    "w_vy",
-   "w_vchera"
+   "w_vchera",
+   "w_ty"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 42,
@@ -966,12 +975,8 @@
      "it": "libero"
     },
     {
-     "ru": "ма́лый",
-     "it": "piccolo"
-    },
-    {
-     "ru": "гости́ница",
-     "it": "albergo"
+     "ru": "до́лго",
+     "it": "a lungo"
     },
     {
      "ru": "вы́",
@@ -980,13 +985,17 @@
     {
      "ru": "вчера́",
      "it": "ieri"
+    },
+    {
+     "ru": "ты́",
+     "it": "tu"
     }
    ]
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001122",
+  "id": "e_001916",
   "type": "match",
   "level": "a1",
   "difficulty": 3,
@@ -1000,11 +1009,11 @@
    "comparative"
   ],
   "words": [
-   "w_plokho",
    "w_malyy",
-   "w_svobodnyy",
    "w_mnogie",
-   "w_dolgiy"
+   "w_svobodnyy",
+   "w_normalno",
+   "w_prostoy"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 37,
@@ -1013,38 +1022,38 @@
    "type": "match",
    "pairs": [
     {
-     "ru": "пло́хо",
-     "it": "male"
-    },
-    {
      "ru": "ма́лый",
      "it": "piccolo"
-    },
-    {
-     "ru": "свобо́дный",
-     "it": "libero"
     },
     {
      "ru": "мно́гие",
      "it": "molti"
     },
     {
-     "ru": "до́лгий",
-     "it": "lungo"
+     "ru": "свобо́дный",
+     "it": "libero"
+    },
+    {
+     "ru": "норма́льно",
+     "it": "normale"
+    },
+    {
+     "ru": "просто́й",
+     "it": "semplice"
     }
    ]
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001123",
+  "id": "e_001917",
   "type": "match",
   "level": "a1",
   "difficulty": 4,
   "topics": [
-   "descrizioni",
    "grammatica",
-   "mente"
+   "descrizioni",
+   "soldi"
   ],
   "grammar_tags": [
    "adjectives",
@@ -1053,10 +1062,11 @@
   ],
   "words": [
    "w_oni",
-   "w_mnogie",
-   "w_znat",
    "w_normalnyy",
-   "w_chelovek"
+   "w_chelovek",
+   "w_eto",
+   "w_eshchyo",
+   "w_deshyovyy"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 45,
@@ -1065,16 +1075,16 @@
    "type": "match",
    "pairs": [
     {
-     "ru": "Они́ мно́гое зна́ют.",
-     "it": "Sanno molte cose."
-    },
-    {
      "ru": "Они́ норма́льные лю́ди.",
      "it": "Sono persone normali."
     },
     {
-     "ru": "Э́то свобо́дная страна́?",
-     "it": "Questo è un paese libero?"
+     "ru": "Э́то ещё деше́вле.",
+     "it": "È ancora più economico."
+    },
+    {
+     "ru": "Э́то норма́льные де́ти.",
+     "it": "Sono dei bambini normali."
     },
     {
      "ru": "Ты́ свобо́ден?",
@@ -1085,10 +1095,10 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001124",
+  "id": "e_001918",
   "type": "match",
   "level": "a1",
-  "difficulty": 3,
+  "difficulty": 4,
   "topics": [
    "descrizioni",
    "avverbi",
@@ -1102,13 +1112,13 @@
   "words": [
    "w_normalno",
    "w_svobodnyy",
-   "w_normalnyy",
+   "w_prostoy",
    "w_krasivyy",
    "w_dver",
    "w_daleko"
   ],
   "lesson": "l_a1_18",
-  "est_seconds": 37,
+  "est_seconds": 42,
   "prompt_it": "Abbina le parole russe al significato (ripasso).",
   "payload": {
    "type": "match",
@@ -1120,6 +1130,10 @@
     {
      "ru": "свобо́дный",
      "it": "libero"
+    },
+    {
+     "ru": "просто́й",
+     "it": "semplice"
     },
     {
      "ru": "краси́вый",
@@ -1138,12 +1152,13 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001125",
+  "id": "e_001919",
   "type": "match",
   "level": "a1",
   "difficulty": 3,
   "topics": [
-   "descrizioni"
+   "descrizioni",
+   "avverbi"
   ],
   "grammar_tags": [
    "adjectives",
@@ -1151,25 +1166,30 @@
    "comparative"
   ],
   "words": [
+   "w_prostoy",
    "w_mnogie",
-   "w_svobodnyy",
+   "w_normalno",
    "w_malyy",
    "w_uyutnyy",
    "w_dolgiy"
   ],
   "lesson": "l_a1_18",
-  "est_seconds": 37,
+  "est_seconds": 42,
   "prompt_it": "Abbina ogni parola russa al suo significato.",
   "payload": {
    "type": "match",
    "pairs": [
     {
+     "ru": "просто́й",
+     "it": "semplice"
+    },
+    {
      "ru": "мно́гие",
      "it": "molti"
     },
     {
-     "ru": "свобо́дный",
-     "it": "libero"
+     "ru": "норма́льно",
+     "it": "normale"
     },
     {
      "ru": "ма́лый",
@@ -1188,13 +1208,13 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001126",
+  "id": "e_001920",
   "type": "dictation",
   "level": "a1",
   "difficulty": 4,
   "topics": [
    "grammatica",
-   "direzioni"
+   "descrizioni"
   ],
   "grammar_tags": [
    "adjectives",
@@ -1202,27 +1222,25 @@
    "comparative"
   ],
   "words": [
-   "w_ya",
-   "w_zdes",
-   "w_dolgiy",
-   "w_chem",
-   "w_ty"
+   "w_oni",
+   "w_normalnyy",
+   "w_chelovek"
   ],
   "lesson": "l_a1_18",
-  "est_seconds": 30,
+  "est_seconds": 22,
   "prompt_it": "Ascolta e scrivi la frase in russo.",
   "payload": {
    "type": "dictation",
-   "text": "Я́ зде́сь до́льше, чем ты́.",
-   "translation_it": "Sono qui da più tempo di te.",
+   "text": "Они́ норма́льные лю́ди.",
+   "translation_it": "Sono persone normali.",
    "accepted": [
-    "Я́ зде́сь до́льше, чем ты́.",
-    "Я́ зде́сь до́льше чем ты́",
-    "Я здесь дольше, чем ты.",
-    "Я здесь дольше чем ты",
-    "я здесь дольше, чем ты.",
-    "я здесь дольше чем ты",
-    "я́ зде́сь до́льше чем ты́"
+    "Они́ норма́льные лю́ди.",
+    "Они́ норма́льные лю́ди",
+    "Они нормальные люди.",
+    "Они нормальные люди",
+    "они нормальные люди.",
+    "они нормальные люди",
+    "они́ норма́льные лю́ди"
    ]
   },
   "qa_status": "pending"
@@ -1253,72 +1271,6 @@
    "accepted": [
     "норма́льный",
     "нормальный"
-   ]
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001128",
-  "type": "dictation",
-  "level": "a1",
-  "difficulty": 3,
-  "topics": [
-   "movimento"
-  ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs",
-   "comparative"
-  ],
-  "words": [
-   "w_dolgo",
-   "w_ekhat"
-  ],
-  "lesson": "l_a1_18",
-  "est_seconds": 19,
-  "prompt_it": "Ascolta e scrivi la frase in russo.",
-  "payload": {
-   "type": "dictation",
-   "text": "До́лго е́хать?",
-   "translation_it": "Il viaggio è lungo?",
-   "accepted": [
-    "До́лго е́хать?",
-    "До́лго е́хать",
-    "Долго ехать?",
-    "Долго ехать",
-    "долго ехать?",
-    "долго ехать",
-    "до́лго е́хать"
-   ]
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001129",
-  "type": "dictation",
-  "level": "a1",
-  "difficulty": 2,
-  "topics": [
-   "avverbi"
-  ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs",
-   "comparative"
-  ],
-  "words": [
-   "w_normalno"
-  ],
-  "lesson": "l_a1_18",
-  "est_seconds": 12,
-  "prompt_it": "Ascolta e scrivi la parola in russo.",
-  "payload": {
-   "type": "dictation",
-   "text": "норма́льно",
-   "translation_it": "normale",
-   "accepted": [
-    "норма́льно",
-    "нормально"
    ]
   },
   "qa_status": "pending"
@@ -1363,6 +1315,73 @@
   "qa_status": "pending"
  },
  {
+  "id": "e_001129",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs",
+   "comparative"
+  ],
+  "words": [
+   "w_normalno"
+  ],
+  "lesson": "l_a1_18",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "норма́льно",
+   "translation_it": "normale",
+   "accepted": [
+    "норма́льно",
+    "нормально"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001921",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "mente",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs",
+   "comparative"
+  ],
+  "words": [
+   "w_dumat",
+   "w_bystryy"
+  ],
+  "lesson": "l_a1_18",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ду́май быстре́е!",
+   "translation_it": "Pensa più velocemente!",
+   "accepted": [
+    "Ду́май быстре́е!",
+    "Ду́май быстре́е",
+    "Думай быстрее!",
+    "Думай быстрее",
+    "думай быстрее!",
+    "думай быстрее",
+    "ду́май быстре́е"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
   "id": "e_001131",
   "type": "dictation",
   "level": "a1",
@@ -1393,13 +1412,13 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001132",
+  "id": "e_001922",
   "type": "dictation",
   "level": "a1",
   "difficulty": 4,
   "topics": [
-   "direzioni",
-   "soldi"
+   "grammatica",
+   "azioni"
   ],
   "grammar_tags": [
    "adjectives",
@@ -1407,25 +1426,25 @@
    "comparative"
   ],
   "words": [
-   "w_na",
-   "w_avtobus",
-   "w_deshyovyy"
+   "w_ya",
+   "w_dolgo",
+   "w_zhdat"
   ],
   "lesson": "l_a1_18",
   "est_seconds": 22,
   "prompt_it": "Ascolta e scrivi la frase in russo.",
   "payload": {
    "type": "dictation",
-   "text": "На авто́бусе деше́вле.",
-   "translation_it": "In autobus è più economico.",
+   "text": "Мне́ до́лго жда́ть?",
+   "translation_it": "Devo aspettare tanto?",
    "accepted": [
-    "На авто́бусе деше́вле.",
-    "На авто́бусе деше́вле",
-    "На автобусе дешевле.",
-    "На автобусе дешевле",
-    "на автобусе дешевле.",
-    "на автобусе дешевле",
-    "на авто́бусе деше́вле"
+    "Мне́ до́лго жда́ть?",
+    "Мне́ до́лго жда́ть",
+    "Мне долго ждать?",
+    "Мне долго ждать",
+    "мне долго ждать?",
+    "мне долго ждать",
+    "мне́ до́лго жда́ть"
    ]
   },
   "qa_status": "pending"

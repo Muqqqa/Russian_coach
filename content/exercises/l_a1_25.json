@@ -1,36 +1,6 @@
 [
  {
-  "id": "e_001361",
-  "type": "translate",
-  "level": "a1",
-  "difficulty": 2,
-  "topics": [
-   "saluti"
-  ],
-  "grammar_tags": [
-   "greetings",
-   "loanwords"
-  ],
-  "words": [
-   "w_prostite"
-  ],
-  "lesson": "l_a1_25",
-  "est_seconds": 10,
-  "prompt_it": "Traduci in italiano la parola russa.",
-  "payload": {
-   "type": "translate",
-   "direction": "ru_it",
-   "source": "прости́те",
-   "answer": "scusate",
-   "accepted": [
-    "scusate",
-    "perdonate"
-   ]
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001362",
+  "id": "e_001936",
   "type": "translate",
   "level": "a1",
   "difficulty": 2,
@@ -47,38 +17,73 @@
    "w_dobryy_den"
   ],
   "lesson": "l_a1_25",
-  "est_seconds": 14,
-  "prompt_it": "Traduci in italiano la frase russa.",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
   "payload": {
    "type": "translate",
    "direction": "ru_it",
-   "source": "До́брый де́нь.",
-   "answer": "Buongiorno!",
+   "source": "до́брый де́нь",
+   "answer": "buongiorno",
    "accepted": [
-    "Buongiorno!",
-    "Buongiorno",
     "buongiorno",
-    "buongiorno!"
+    "buon pomeriggio"
    ]
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001363",
+  "id": "e_001937",
   "type": "translate",
   "level": "a1",
-  "difficulty": 3,
+  "difficulty": 4,
   "topics": [
-   "saluti",
-   "luoghi",
-   "tempo-libero"
+   "grammatica",
+   "mente",
+   "azioni"
   ],
   "grammar_tags": [
    "greetings",
    "loanwords"
   ],
   "words": [
-   "w_khobbi"
+   "w_dobryy_den",
+   "w_chem",
+   "w_ya",
+   "w_moch",
+   "w_vy",
+   "w_pomoch"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 29,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "До́брый де́нь, чем я́ могу́ Ва́м помо́чь?",
+   "answer": "Buongiorno, come posso aiutarVi?",
+   "accepted": [
+    "Buongiorno, come posso aiutarVi?",
+    "Buongiorno come posso aiutarVi",
+    "buongiorno come posso aiutarvi",
+    "buongiorno, come posso aiutarvi?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001938",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "tecnologia"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords"
+  ],
+  "words": [
+   "w_sistema"
   ],
   "lesson": "l_a1_25",
   "est_seconds": 14,
@@ -86,11 +91,11 @@
   "payload": {
    "type": "translate",
    "direction": "it_ru",
-   "source": "hobby",
-   "answer": "хо́бби",
+   "source": "sistema",
+   "answer": "систе́ма",
    "accepted": [
-    "хо́бби",
-    "хобби"
+    "систе́ма",
+    "система"
    ]
   },
   "qa_status": "pending"
@@ -135,10 +140,79 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001365",
+  "id": "e_001939",
   "type": "translate",
   "level": "a1",
   "difficulty": 2,
+  "topics": [
+   "tecnologia"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords"
+  ],
+  "words": [
+   "w_sistema"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "систе́ма",
+   "answer": "sistema",
+   "accepted": [
+    "sistema",
+    "la sistema",
+    "una sistema"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001940",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords"
+  ],
+  "words": [
+   "w_kto",
+   "w_u",
+   "w_telefon"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Кто́ у телефо́на?",
+   "answer": "Chi c'è al telefono?",
+   "accepted": [
+    "Chi c'è al telefono?",
+    "Chi c'è al telefono",
+    "chi c'è al telefono",
+    "chi c'è al telefono?",
+    "Chi c'e' al telefono?",
+    "chi c'e' al telefono",
+    "chi c'e al telefono"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001363",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
   "topics": [
    "saluti",
    "luoghi",
@@ -152,86 +226,16 @@
    "w_khobbi"
   ],
   "lesson": "l_a1_25",
-  "est_seconds": 10,
-  "prompt_it": "Traduci in italiano la parola russa.",
-  "payload": {
-   "type": "translate",
-   "direction": "ru_it",
-   "source": "хо́бби",
-   "answer": "hobby",
-   "accepted": [
-    "hobby",
-    "il hobby",
-    "un hobby"
-   ]
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001366",
-  "type": "translate",
-  "level": "a1",
-  "difficulty": 3,
-  "topics": [
-   "grammatica",
-   "direzioni"
-  ],
-  "grammar_tags": [
-   "greetings",
-   "loanwords"
-  ],
-  "words": [
-   "w_kakoy",
-   "w_u",
-   "w_vy",
-   "w_khobbi"
-  ],
-  "lesson": "l_a1_25",
-  "est_seconds": 20,
-  "prompt_it": "Traduci in italiano la frase russa.",
-  "payload": {
-   "type": "translate",
-   "direction": "ru_it",
-   "source": "Како́е у Ва́с хо́бби?",
-   "answer": "Qual è il Vostro hobby?",
-   "accepted": [
-    "Qual è il Vostro hobby?",
-    "Qual è il Vostro hobby",
-    "qual è il vostro hobby",
-    "qual è il vostro hobby?",
-    "Qual e' il Vostro hobby?",
-    "qual e' il vostro hobby",
-    "qual e il vostro hobby"
-   ]
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001367",
-  "type": "translate",
-  "level": "a1",
-  "difficulty": 3,
-  "topics": [
-   "tempo-libero"
-  ],
-  "grammar_tags": [
-   "greetings",
-   "loanwords"
-  ],
-  "words": [
-   "w_fitnes"
-  ],
-  "lesson": "l_a1_25",
   "est_seconds": 14,
   "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
   "payload": {
    "type": "translate",
    "direction": "it_ru",
-   "source": "fitness",
-   "answer": "фи́тнес",
+   "source": "hobby",
+   "answer": "хо́бби",
    "accepted": [
-    "фи́тнес",
-    "фитнес"
+    "хо́бби",
+    "хобби"
    ]
   },
   "qa_status": "pending"
@@ -280,40 +284,103 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001369",
-  "type": "cloze",
+  "id": "e_001941",
+  "type": "translate",
   "level": "a1",
-  "difficulty": 4,
+  "difficulty": 2,
   "topics": [
-   "luoghi"
+   "saluti",
+   "luoghi",
+   "tempo-libero"
   ],
   "grammar_tags": [
    "greetings",
    "loanwords"
   ],
   "words": [
-   "w_klub"
+   "w_telefon"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "телефо́н",
+   "answer": "telefono",
+   "accepted": [
+    "telefono",
+    "il telefono",
+    "un telefono"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001373",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords"
+  ],
+  "words": [
+   "w_moch"
   ],
   "lesson": "l_a1_25",
   "est_seconds": 22,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "В суббо́ту мы́ идём в ___.",
-   "answer": "клу́б",
+   "text": "До́брый де́нь, я́ ___ Ва́м помо́чь?",
+   "answer": "могу́",
    "accepted": [
-    "клу́б",
-    "клуб"
+    "могу́",
+    "могу"
    ],
-   "hint_it": "Sabato andiamo al club."
+   "hint_it": "Buon giorno, posso aiutarVi?"
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001370",
+  "id": "e_001942",
   "type": "cloze",
   "level": "a1",
-  "difficulty": 3,
+  "difficulty": 4,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords"
+  ],
+  "words": [
+   "w_moch"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 24,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "До́брый де́нь, чем я́ ___ Ва́м помо́чь?",
+   "answer": "могу́",
+   "accepted": [
+    "могу́",
+    "могу"
+   ],
+   "hint_it": "Buongiorno, come posso aiutarVi?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001943",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
   "topics": [
    "grammatica"
   ],
@@ -322,52 +389,22 @@
    "loanwords"
   ],
   "words": [
-   "w_eto"
+   "w_kto"
   ],
   "lesson": "l_a1_25",
-  "est_seconds": 20,
+  "est_seconds": 16,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Прости́те, ___ ме́сто ещё свобо́дно?",
-   "answer": "э́то",
+   "text": "___ у телефо́на?",
+   "answer": "Кто́",
    "accepted": [
-    "э́то",
-    "это"
+    "Кто́",
+    "Кто",
+    "кто",
+    "кто́"
    ],
-   "hint_it": "Scusate, questo posto è ancora libero?"
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001371",
-  "type": "cloze",
-  "level": "a1",
-  "difficulty": 3,
-  "topics": [
-   "grammatica"
-  ],
-  "grammar_tags": [
-   "greetings",
-   "loanwords"
-  ],
-  "words": [
-   "w_kakoy"
-  ],
-  "lesson": "l_a1_25",
-  "est_seconds": 18,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "___ у ва́с хо́бби?",
-   "answer": "Како́е",
-   "accepted": [
-    "Како́е",
-    "Какое",
-    "какое",
-    "како́е"
-   ],
-   "hint_it": "Qual è il vostro hobby?"
+   "hint_it": "Chi c'è al telefono?"
   },
   "qa_status": "pending"
  },
@@ -404,102 +441,72 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001373",
+  "id": "e_001369",
   "type": "cloze",
   "level": "a1",
   "difficulty": 4,
   "topics": [
-   "mente"
+   "luoghi"
   ],
   "grammar_tags": [
    "greetings",
    "loanwords"
   ],
   "words": [
-   "w_moch"
+   "w_klub"
   ],
   "lesson": "l_a1_25",
   "est_seconds": 22,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "До́брый де́нь, я́ ___ Ва́м помо́чь?",
-   "answer": "могу́",
+   "text": "В суббо́ту мы́ идём в ___.",
+   "answer": "клу́б",
    "accepted": [
-    "могу́",
-    "могу"
+    "клу́б",
+    "клуб"
    ],
-   "hint_it": "Buon giorno, posso aiutarVi?"
+   "hint_it": "Sabato andiamo al club."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001374",
+  "id": "e_001371",
   "type": "cloze",
   "level": "a1",
   "difficulty": 3,
   "topics": [
-   "mente"
+   "grammatica"
   ],
   "grammar_tags": [
    "greetings",
    "loanwords"
   ],
   "words": [
-   "w_moch"
-  ],
-  "lesson": "l_a1_25",
-  "est_seconds": 16,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "Прости́те, не ___.",
-   "answer": "могу́",
-   "accepted": [
-    "могу́",
-    "могу"
-   ],
-   "hint_it": "Scusate, non posso."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001375",
-  "type": "cloze",
-  "level": "a1",
-  "difficulty": 3,
-  "topics": [
-   "saluti",
-   "luoghi",
-   "tempo-libero"
-  ],
-  "grammar_tags": [
-   "greetings",
-   "loanwords"
-  ],
-  "words": [
-   "w_khobbi"
+   "w_kakoy"
   ],
   "lesson": "l_a1_25",
   "est_seconds": 18,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Како́е у ва́с ___?",
-   "answer": "хо́бби",
+   "text": "___ у ва́с хо́бби?",
+   "answer": "Како́е",
    "accepted": [
-    "хо́бби",
-    "хобби"
+    "Како́е",
+    "Какое",
+    "какое",
+    "како́е"
    ],
    "hint_it": "Qual è il vostro hobby?"
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001376",
-  "type": "multiple_choice",
+  "id": "e_001944",
+  "type": "cloze",
   "level": "a1",
-  "difficulty": 2,
+  "difficulty": 3,
   "topics": [
    "saluti",
    "luoghi",
@@ -510,26 +517,90 @@
    "loanwords"
   ],
   "words": [
-   "w_dobryy_vecher"
+   "w_telefon"
   ],
   "lesson": "l_a1_25",
-  "est_seconds": 14,
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Кто́ у ___?",
+   "answer": "телефо́на",
+   "accepted": [
+    "телефо́на",
+    "телефона"
+   ],
+   "hint_it": "Chi c'è al telefono?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001945",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ Ва́ш телефо́н?",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "Questo è il suo telefono?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001946",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords"
+  ],
+  "words": [
+   "w_eto",
+   "w_vash",
+   "w_telefon"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 16,
   "prompt_it": "Scegli la traduzione italiana corretta.",
   "payload": {
    "type": "multiple_choice",
-   "question": "До́брый ве́чер.",
+   "question": "Э́то Ва́ш телефо́н?",
    "options": [
-    "Che ore sono?",
-    "Oggi è mercoledì.",
-    "Buonasera!",
-    "Il Vostro biglietto!"
+    "Questo posto è vuoto?",
+    "Questa è la sua ragazza.",
+    "Questo è il suo telefono?",
+    "È troppo forte."
    ],
    "correct": 2
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001377",
+  "id": "e_001947",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 2,
@@ -543,31 +614,33 @@
    "loanwords"
   ],
   "words": [
-   "w_khobbi"
+   "w_telefon"
   ],
   "lesson": "l_a1_25",
   "est_seconds": 10,
   "prompt_it": "Scegli il significato giusto.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Che cosa significa «хо́бби»?",
+   "question": "Che cosa significa «телефо́н»?",
    "options": [
-    "hobby",
-    "figlia",
-    "viso",
-    "figlio"
+    "tempo atmosferico",
+    "insalata",
+    "telefono",
+    "mercoledì"
    ],
-   "correct": 0
+   "correct": 2
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001378",
+  "id": "e_001948",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 3,
   "topics": [
-   "luoghi"
+   "saluti",
+   "luoghi",
+   "tempo-libero"
   ],
   "grammar_tags": [
    "greetings",
@@ -575,14 +648,14 @@
    "gender"
   ],
   "words": [
-   "w_klub"
+   "w_telefon"
   ],
   "lesson": "l_a1_25",
   "est_seconds": 11,
   "prompt_it": "Scegli il genere del nome russo.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Di che genere è il nome «клу́б»?",
+   "question": "Di che genere è il nome «телефо́н»?",
    "options": [
     "maschile",
     "femminile",
@@ -593,39 +666,40 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001379",
+  "id": "e_001949",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 4,
   "topics": [
-   "direzioni",
    "grammatica",
-   "movimento"
+   "mente",
+   "azioni"
   ],
   "grammar_tags": [
    "greetings",
    "loanwords"
   ],
   "words": [
-   "w_v",
-   "w_subbota",
-   "w_my",
-   "w_idti",
-   "w_klub"
+   "w_dobryy_den",
+   "w_chem",
+   "w_ya",
+   "w_moch",
+   "w_vy",
+   "w_pomoch"
   ],
   "lesson": "l_a1_25",
-  "est_seconds": 24,
+  "est_seconds": 26,
   "prompt_it": "Scegli la traduzione russa corretta.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Sabato andiamo al club.",
+   "question": "Buongiorno, come posso aiutarVi?",
    "options": [
-    "В дере́вне его́ не лю́бят.",
-    "О́н живёт в ма́леньком ую́тном до́ме.",
-    "В суббо́ту мы́ идём в клу́б.",
-    "Мы́ зде́сь с октября́ ме́сяца."
+    "До́брый де́нь, чем я́ могу́ Ва́м помо́чь?",
+    "Я́ ду́маю, о́н плохо́й челове́к.",
+    "До́брый де́нь, я́ могу́ Ва́м помо́чь?",
+    "Мо́жешь говори́ть гро́мче? Я́ тебя́ не понима́ю."
    ],
-   "correct": 2
+   "correct": 0
   },
   "qa_status": "pending"
  },
@@ -663,48 +737,13 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001381",
+  "id": "e_001950",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 4,
   "topics": [
-   "direzioni",
    "grammatica",
-   "movimento"
-  ],
-  "grammar_tags": [
-   "greetings",
-   "loanwords"
-  ],
-  "words": [
-   "w_v",
-   "w_subbota",
-   "w_my",
-   "w_idti",
-   "w_klub"
-  ],
-  "lesson": "l_a1_25",
-  "est_seconds": 22,
-  "prompt_it": "Scegli la traduzione italiana corretta.",
-  "payload": {
-   "type": "multiple_choice",
-   "question": "В суббо́ту мы́ идём в клу́б.",
-   "options": [
-    "Lui abita in una accogliente piccola casa.",
-    "Nel villaggio non lo amano.",
-    "Siamo andati per qualche ora.",
-    "Sabato andiamo al club."
-   ],
-   "correct": 3
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001382",
-  "type": "multiple_choice",
-  "level": "a1",
-  "difficulty": 2,
-  "topics": [
+   "saluti",
    "luoghi"
   ],
   "grammar_tags": [
@@ -712,32 +751,100 @@
    "loanwords"
   ],
   "words": [
-   "w_klub"
+   "w_prostite",
+   "w_eto",
+   "w_mesto",
+   "w_eshchyo",
+   "w_svobodno"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 20,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Прости́те, э́то ме́сто ещё свобо́дно?",
+   "options": [
+    "È lui o no?",
+    "Funziona ancora a volte.",
+    "Scusate, questo posto è ancora libero?",
+    "Questo è il villaggio dove sono nata."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001951",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "saluti",
+   "luoghi",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords"
+  ],
+  "words": [
+   "w_dobroe_utro"
   ],
   "lesson": "l_a1_25",
   "est_seconds": 10,
   "prompt_it": "Scegli il significato giusto.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Che cosa significa «клу́б»?",
+   "question": "Che cosa significa «до́брое у́тро»?",
    "options": [
-    "persona",
-    "bancomat",
-    "sole",
-    "club"
+    "verso là",
+    "c'è",
+    "giovane",
+    "buongiorno"
    ],
    "correct": 3
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001383",
+  "id": "e_001952",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords",
+   "gender"
+  ],
+  "words": [
+   "w_fitnes"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «фи́тнес»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001953",
   "type": "match",
   "level": "a1",
   "difficulty": 3,
   "topics": [
-   "tempo-libero",
-   "saluti"
+   "saluti",
+   "luoghi"
   ],
   "grammar_tags": [
    "greetings",
@@ -745,13 +852,13 @@
   ],
   "words": [
    "w_dobroe_utro",
-   "w_dobryy_den",
-   "w_fitnes",
    "w_prostite",
+   "w_khobbi",
+   "w_klub",
    "w_dobryy_vecher"
   ],
   "lesson": "l_a1_25",
-  "est_seconds": 32,
+  "est_seconds": 37,
   "prompt_it": "Abbina ogni parola russa al suo significato.",
   "payload": {
    "type": "match",
@@ -761,12 +868,16 @@
      "it": "buongiorno"
     },
     {
-     "ru": "фи́тнес",
-     "it": "fitness"
-    },
-    {
      "ru": "прости́те",
      "it": "scusate"
+    },
+    {
+     "ru": "хо́бби",
+     "it": "hobby"
+    },
+    {
+     "ru": "клу́б",
+     "it": "club"
     },
     {
      "ru": "до́брый ве́чер",
@@ -777,26 +888,72 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001384",
+  "id": "e_001954",
   "type": "match",
   "level": "a1",
   "difficulty": 4,
   "topics": [
-   "luoghi",
-   "tempo-libero",
-   "cibo-bevande"
+   "grammatica",
+   "direzioni"
   ],
   "grammar_tags": [
    "greetings",
    "loanwords"
   ],
   "words": [
-   "w_klub",
-   "w_dobryy_den",
-   "w_fitnes",
+   "w_kto",
+   "w_u",
+   "w_telefon",
+   "w_kakoy",
+   "w_vy"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Кто́ у телефо́на?",
+     "it": "Chi c'è al telefono?"
+    },
+    {
+     "ru": "Како́е у ва́с хо́бби?",
+     "it": "Qual è il vostro hobby?"
+    },
+    {
+     "ru": "До́брый ве́чер.",
+     "it": "Buonasera!"
+    },
+    {
+     "ru": "Э́то Ва́ш телефо́н?",
+     "it": "Questo è il suo telefono?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001955",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "tecnologia",
+   "saluti",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords"
+  ],
+  "words": [
+   "w_sistema",
+   "w_prostite",
+   "w_khobbi",
+   "w_videt",
    "w_kushat",
-   "w_sreda",
-   "w_ty"
+   "w_sprosit"
   ],
   "lesson": "l_a1_25",
   "est_seconds": 42,
@@ -805,81 +962,87 @@
    "type": "match",
    "pairs": [
     {
-     "ru": "клу́б",
-     "it": "club"
+     "ru": "систе́ма",
+     "it": "sistema"
     },
     {
-     "ru": "до́брый де́нь",
-     "it": "buongiorno"
+     "ru": "прости́те",
+     "it": "scusate"
     },
     {
-     "ru": "фи́тнес",
-     "it": "fitness"
+     "ru": "хо́бби",
+     "it": "hobby"
+    },
+    {
+     "ru": "ви́деть",
+     "it": "vedere"
     },
     {
      "ru": "ку́шать",
      "it": "mangiare"
     },
     {
-     "ru": "среда́",
-     "it": "mercoledì"
-    },
-    {
-     "ru": "ты́",
-     "it": "tu"
+     "ru": "спроси́ть",
+     "it": "chiedere"
     }
    ]
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001385",
+  "id": "e_001956",
   "type": "match",
   "level": "a1",
-  "difficulty": 2,
+  "difficulty": 3,
   "topics": [
-   "luoghi"
+   "tempo-libero",
+   "tecnologia"
   ],
   "grammar_tags": [
    "greetings",
    "loanwords"
   ],
   "words": [
+   "w_fitnes",
+   "w_telefon",
    "w_khobbi",
-   "w_klub",
-   "w_dobryy_den"
+   "w_sistema"
   ],
   "lesson": "l_a1_25",
-  "est_seconds": 27,
+  "est_seconds": 32,
   "prompt_it": "Abbina ogni parola russa al suo significato.",
   "payload": {
    "type": "match",
    "pairs": [
     {
+     "ru": "фи́тнес",
+     "it": "fitness"
+    },
+    {
+     "ru": "телефо́н",
+     "it": "telefono"
+    },
+    {
      "ru": "хо́бби",
      "it": "hobby"
     },
     {
-     "ru": "клу́б",
-     "it": "club"
-    },
-    {
-     "ru": "до́брый де́нь",
-     "it": "buongiorno"
+     "ru": "систе́ма",
+     "it": "sistema"
     }
    ]
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001386",
+  "id": "e_001957",
   "type": "match",
   "level": "a1",
-  "difficulty": 3,
+  "difficulty": 4,
   "topics": [
+   "grammatica",
    "saluti",
-   "cibo-bevande",
-   "descrizioni"
+   "mente"
   ],
   "grammar_tags": [
    "greetings",
@@ -887,24 +1050,72 @@
   ],
   "words": [
    "w_prostite",
-   "w_dobryy_den",
+   "w_ne",
+   "w_moch",
+   "w_kakoy",
+   "w_u",
+   "w_vy"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 40,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Прости́те, не могу́.",
+     "it": "Scusate, non posso."
+    },
+    {
+     "ru": "Како́е у Ва́с хо́бби?",
+     "it": "Qual è il Vostro hobby?"
+    },
+    {
+     "ru": "До́брый де́нь.",
+     "it": "Buongiorno!"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001958",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "cibo-bevande",
+   "descrizioni",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords"
+  ],
+  "words": [
+   "w_telefon",
+   "w_dobryy_vecher",
    "w_dobroe_utro",
    "w_chashka",
    "w_krasivyy",
-   "w_ty"
+   "w_tuda"
   ],
   "lesson": "l_a1_25",
-  "est_seconds": 37,
+  "est_seconds": 42,
   "prompt_it": "Abbina le parole russe al significato (ripasso).",
   "payload": {
    "type": "match",
    "pairs": [
     {
-     "ru": "прости́те",
-     "it": "scusate"
+     "ru": "телефо́н",
+     "it": "telefono"
     },
     {
-     "ru": "до́брый де́нь",
+     "ru": "до́брый ве́чер",
+     "it": "buonasera"
+    },
+    {
+     "ru": "до́брое у́тро",
      "it": "buongiorno"
     },
     {
@@ -916,61 +1127,123 @@
      "it": "bello"
     },
     {
-     "ru": "ты́",
-     "it": "tu"
+     "ru": "туда́",
+     "it": "verso là"
     }
    ]
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001387",
+  "id": "e_001959",
   "type": "match",
   "level": "a1",
-  "difficulty": 3,
+  "difficulty": 2,
   "topics": [
-   "azioni",
-   "famiglia",
-   "direzioni"
+   "tecnologia",
+   "tempo-libero"
   ],
   "grammar_tags": [
    "greetings",
    "loanwords"
   ],
   "words": [
-   "w_dobroe_utro",
-   "w_dobryy_vecher",
+   "w_telefon",
    "w_dobryy_den",
-   "w_ostanovit",
-   "w_roditel",
-   "w_u"
+   "w_sistema",
+   "w_fitnes"
   ],
   "lesson": "l_a1_25",
-  "est_seconds": 37,
-  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
   "payload": {
    "type": "match",
    "pairs": [
     {
-     "ru": "до́брое у́тро",
+     "ru": "телефо́н",
+     "it": "telefono"
+    },
+    {
+     "ru": "до́брый де́нь",
      "it": "buongiorno"
     },
     {
-     "ru": "до́брый ве́чер",
-     "it": "buonasera"
+     "ru": "систе́ма",
+     "it": "sistema"
     },
     {
-     "ru": "останови́ть",
-     "it": "fermare"
-    },
-    {
-     "ru": "роди́тель",
-     "it": "genitore"
-    },
-    {
-     "ru": "у́",
-     "it": "presso"
+     "ru": "фи́тнес",
+     "it": "fitness"
     }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001390",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "saluti",
+   "grammatica",
+   "mente"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords"
+  ],
+  "words": [
+   "w_prostite",
+   "w_ne",
+   "w_moch"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Прости́те, не могу́.",
+   "translation_it": "Scusate, non posso.",
+   "accepted": [
+    "Прости́те, не могу́.",
+    "Прости́те не могу́",
+    "Простите, не могу.",
+    "Простите не могу",
+    "простите, не могу.",
+    "простите не могу",
+    "прости́те не могу́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001960",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "saluti",
+   "luoghi",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords"
+  ],
+  "words": [
+   "w_dobryy_vecher"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "до́брый ве́чер",
+   "translation_it": "buonasera",
+   "accepted": [
+    "до́брый ве́чер",
+    "добрый вечер"
    ]
   },
   "qa_status": "pending"
@@ -1048,77 +1321,50 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001390",
+  "id": "e_001961",
   "type": "dictation",
   "level": "a1",
   "difficulty": 4,
   "topics": [
-   "saluti",
    "grammatica",
-   "mente"
+   "mente",
+   "azioni"
   ],
   "grammar_tags": [
    "greetings",
    "loanwords"
   ],
   "words": [
-   "w_prostite",
-   "w_ne",
-   "w_moch"
+   "w_dobryy_den",
+   "w_ya",
+   "w_moch",
+   "w_vy",
+   "w_pomoch"
   ],
   "lesson": "l_a1_25",
-  "est_seconds": 22,
+  "est_seconds": 33,
   "prompt_it": "Ascolta e scrivi la frase in russo.",
   "payload": {
    "type": "dictation",
-   "text": "Прости́те, не могу́.",
-   "translation_it": "Scusate, non posso.",
+   "text": "До́брый де́нь, я́ могу́ Ва́м помо́чь?",
+   "translation_it": "Buon giorno, posso aiutarVi?",
    "accepted": [
-    "Прости́те, не могу́.",
-    "Прости́те не могу́",
-    "Простите, не могу.",
-    "Простите не могу",
-    "простите, не могу.",
-    "простите не могу",
-    "прости́те не могу́"
+    "До́брый де́нь, я́ могу́ Ва́м помо́чь?",
+    "До́брый де́нь я́ могу́ Ва́м помо́чь",
+    "Добрый день, я могу Вам помочь?",
+    "Добрый день я могу Вам помочь",
+    "добрый день, я могу вам помочь?",
+    "добрый день я могу вам помочь",
+    "до́брый де́нь я́ могу́ ва́м помо́чь"
    ]
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001391",
+  "id": "e_001962",
   "type": "dictation",
   "level": "a1",
   "difficulty": 2,
-  "topics": [
-   "luoghi"
-  ],
-  "grammar_tags": [
-   "greetings",
-   "loanwords"
-  ],
-  "words": [
-   "w_klub"
-  ],
-  "lesson": "l_a1_25",
-  "est_seconds": 12,
-  "prompt_it": "Ascolta e scrivi la parola in russo.",
-  "payload": {
-   "type": "dictation",
-   "text": "клу́б",
-   "translation_it": "club",
-   "accepted": [
-    "клу́б",
-    "клуб"
-   ]
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001392",
-  "type": "dictation",
-  "level": "a1",
-  "difficulty": 3,
   "topics": [
    "saluti",
    "luoghi",
@@ -1132,57 +1378,21 @@
    "w_dobryy_den"
   ],
   "lesson": "l_a1_25",
-  "est_seconds": 19,
-  "prompt_it": "Ascolta e scrivi la frase in russo.",
-  "payload": {
-   "type": "dictation",
-   "text": "До́брый де́нь.",
-   "translation_it": "Buongiorno!",
-   "accepted": [
-    "До́брый де́нь.",
-    "До́брый де́нь",
-    "Добрый день.",
-    "Добрый день",
-    "добрый день.",
-    "добрый день",
-    "до́брый де́нь"
-   ]
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001393",
-  "type": "dictation",
-  "level": "a1",
-  "difficulty": 2,
-  "topics": [
-   "saluti",
-   "luoghi",
-   "tempo-libero"
-  ],
-  "grammar_tags": [
-   "greetings",
-   "loanwords"
-  ],
-  "words": [
-   "w_khobbi"
-  ],
-  "lesson": "l_a1_25",
   "est_seconds": 12,
   "prompt_it": "Ascolta e scrivi la parola in russo.",
   "payload": {
    "type": "dictation",
-   "text": "хо́бби",
-   "translation_it": "hobby",
+   "text": "до́брый де́нь",
+   "translation_it": "buongiorno",
    "accepted": [
-    "хо́бби",
-    "хобби"
+    "до́брый де́нь",
+    "добрый день"
    ]
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001394",
+  "id": "e_001963",
   "type": "dictation",
   "level": "a1",
   "difficulty": 4,
@@ -1205,16 +1415,45 @@
   "prompt_it": "Ascolta e scrivi la frase in russo.",
   "payload": {
    "type": "dictation",
-   "text": "Како́е у Ва́с хо́бби?",
-   "translation_it": "Qual è il Vostro hobby?",
+   "text": "Како́е у ва́с хо́бби?",
+   "translation_it": "Qual è il vostro hobby?",
    "accepted": [
-    "Како́е у Ва́с хо́бби?",
-    "Како́е у Ва́с хо́бби",
-    "Какое у Вас хобби?",
-    "Какое у Вас хобби",
+    "Како́е у ва́с хо́бби?",
+    "Како́е у ва́с хо́бби",
+    "Какое у вас хобби?",
+    "Какое у вас хобби",
     "какое у вас хобби?",
     "какое у вас хобби",
     "како́е у ва́с хо́бби"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001964",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "loanwords"
+  ],
+  "words": [
+   "w_prostite"
+  ],
+  "lesson": "l_a1_25",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "прости́те",
+   "translation_it": "scusate",
+   "accepted": [
+    "прости́те",
+    "простите"
    ]
   },
   "qa_status": "pending"
