@@ -36,11 +36,6 @@
   ],
   "governs": [
    "+ins"
-  ],
-  "examples": [
-   "s_351222",
-   "s_376033",
-   "s_468201"
   ]
  },
  {
@@ -83,12 +78,7 @@
    "pl_ins": "э́тими",
    "pl_prep": "э́тих"
   },
-  "ipa": "[ˈɛtət]",
-  "examples": [
-   "s_471486",
-   "s_507322",
-   "s_2291298"
-  ]
+  "ipa": "[ˈɛtət]"
  },
  {
   "id": "w_ves",
@@ -131,12 +121,7 @@
    "pl_ins": "все́ми",
    "pl_prep": "все́х"
   },
-  "ipa": "[vʲesʲ]",
-  "examples": [
-   "s_466937",
-   "s_505814",
-   "s_1076742"
-  ]
+  "ipa": "[vʲesʲ]"
  },
  {
   "id": "w_moy",
@@ -178,12 +163,7 @@
    "pl_ins": "мои́ми",
    "pl_prep": "мои́х"
   },
-  "ipa": "[moj]",
-  "examples": [
-   "s_469128",
-   "s_469971",
-   "s_475211"
-  ]
+  "ipa": "[moj]"
  },
  {
   "id": "w_tot",
@@ -227,12 +207,7 @@
    "pl_ins": "те́ми",
    "pl_prep": "тех"
   },
-  "ipa": "[tot]",
-  "examples": [
-   "s_417113",
-   "s_645550",
-   "s_1498708"
-  ]
+  "ipa": "[tot]"
  },
  {
   "id": "w_by",
@@ -248,12 +223,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[bɨ]",
-  "examples": [
-   "s_734784",
-   "s_4263317",
-   "s_4263318"
-  ]
+  "ipa": "[bɨ]"
  },
  {
   "id": "w_svoy",
@@ -295,12 +265,7 @@
    "pl_ins": "свои́ми",
    "pl_prep": "свои́х"
   },
-  "ipa": "[svoj]",
-  "examples": [
-   "s_5169209",
-   "s_5207161",
-   "s_5207163"
-  ]
+  "ipa": "[svoj]"
  },
  {
   "id": "w_za",
@@ -334,11 +299,6 @@
   "governs": [
    "+acc",
    "+ins"
-  ],
-  "examples": [
-   "s_379121",
-   "s_412085",
-   "s_440962"
   ]
  },
  {
@@ -376,11 +336,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_1513656",
-   "s_1563992",
-   "s_2589046"
   ]
  },
  {
@@ -429,12 +384,7 @@
    "pl_ins": "до́лжными",
    "pl_prep": "до́лжных"
   },
-  "ipa": "[ˈdoɫʐnɨj]",
-  "examples": [
-   "s_2225221",
-   "s_3801849",
-   "s_3801851"
-  ]
+  "ipa": "[ˈdoɫʐnɨj]"
  },
  {
   "id": "w_tvoy",
@@ -476,12 +426,7 @@
    "pl_ins": "твои́ми",
    "pl_prep": "твои́х"
   },
-  "ipa": "[tvoj]",
-  "examples": [
-   "s_475328",
-   "s_661287",
-   "s_2519411"
-  ]
+  "ipa": "[tvoj]"
  },
  {
   "id": "w_po",
@@ -511,11 +456,6 @@
    "+dat",
    "+prep",
    "+acc"
-  ],
-  "examples": [
-   "s_2668113",
-   "s_4416677",
-   "s_4421644"
   ]
  },
  {
@@ -553,11 +493,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_611010",
-   "s_862127",
-   "s_1878530"
   ]
  },
  {
@@ -592,12 +527,7 @@
    "n_prep": "нём, njom",
    "f_prep": "ней, nej"
   },
-  "ipa": "[sʲɪˈbʲa]",
-  "examples": [
-   "s_637069",
-   "s_790889",
-   "s_5456187"
-  ]
+  "ipa": "[sʲɪˈbʲa]"
  },
  {
   "id": "w_zhe",
@@ -616,12 +546,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ʐɨ]",
-  "examples": [
-   "s_639272",
-   "s_1821630",
-   "s_2743079"
-  ]
+  "ipa": "[ʐɨ]"
  },
  {
   "id": "w_poyti",
@@ -660,11 +585,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_520186",
-   "s_642117",
-   "s_1512491"
   ]
  },
  {
@@ -706,11 +626,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2517838",
-   "s_2517839",
-   "s_5893231"
   ]
  },
  {
@@ -751,11 +666,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_692447",
-   "s_4647158",
-   "s_5207549"
   ]
  },
  {
@@ -774,12 +684,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[lʲi]",
-  "examples": [
-   "s_752099",
-   "s_2732973",
-   "s_2766625"
-  ]
+  "ipa": "[lʲi]"
  },
  {
   "id": "w_delo",
@@ -817,12 +722,7 @@
    "ins_pl": "дела́ми",
    "prep_pl": "дела́х"
   },
-  "ipa": "[ˈdʲeɫə]",
-  "examples": [
-   "s_794678",
-   "s_3164924",
-   "s_4415192"
-  ]
+  "ipa": "[ˈdʲeɫə]"
  },
  {
   "id": "w_pravda",
@@ -857,12 +757,7 @@
    "ins_pl": "пра́вдами",
    "prep_pl": "пра́вдах"
   },
-  "ipa": "[ˈpravdə]",
-  "examples": [
-   "s_675294",
-   "s_3160874",
-   "s_4551796"
-  ]
+  "ipa": "[ˈpravdə]"
  },
  {
   "id": "w_zhizn",
@@ -894,12 +789,7 @@
    "ins_pl": "жи́знями",
    "prep_pl": "жи́знях"
   },
-  "ipa": "[ˈʐɨzʲ(ɪ)nʲ]",
-  "examples": [
-   "s_443699",
-   "s_645699",
-   "s_952886"
-  ]
+  "ipa": "[ˈʐɨzʲ(ɪ)nʲ]"
  },
  {
   "id": "w_samyy",
@@ -943,12 +833,7 @@
    "pl_ins": "са́мыми",
    "pl_prep": "са́мых"
   },
-  "ipa": "[ˈsamɨj]",
-  "examples": [
-   "s_2964904",
-   "s_3496094",
-   "s_5493898"
-  ]
+  "ipa": "[ˈsamɨj]"
  },
  {
   "id": "w_nuzhnyy",
@@ -1000,11 +885,6 @@
   "ipa": "[ˈnuʐnɨj]",
   "governs": [
    "+dat"
-  ],
-  "examples": [
-   "s_2053925",
-   "s_5508637",
-   "s_6170268"
   ]
  },
  {
@@ -1023,12 +903,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[nʲɪ]",
-  "examples": [
-   "s_379121",
-   "s_2517784",
-   "s_3238225"
-  ]
+  "ipa": "[nʲɪ]"
  },
  {
   "id": "w_stat",
@@ -1073,11 +948,6 @@
    "+dat",
    "+ins",
    "+gen"
-  ],
-  "examples": [
-   "s_2580851",
-   "s_2623286",
-   "s_3267408"
   ]
  },
  {
@@ -1114,11 +984,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_4694145",
-   "s_5552463",
-   "s_6007764"
   ]
  },
  {
@@ -1161,12 +1026,7 @@
    "pl_ins": "сами́ми",
    "pl_prep": "сами́х"
   },
-  "ipa": "[sam]",
-  "examples": [
-   "s_1393653",
-   "s_4545759",
-   "s_4545760"
-  ]
+  "ipa": "[sam]"
  },
  {
   "id": "w_vzyat",
@@ -1211,11 +1071,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2239445",
-   "s_2298855",
-   "s_2613446"
   ]
  },
  {
@@ -1253,11 +1108,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_500660",
-   "s_639620",
-   "s_1575933"
   ]
  },
  {
@@ -1274,12 +1124,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "examples": [
-   "s_398503",
-   "s_1821630",
-   "s_5664075"
-  ]
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
  },
  {
   "id": "w_slyshat",
@@ -1317,11 +1162,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_3035338",
-   "s_3035340",
-   "s_5573974"
   ]
  },
  {
@@ -1357,11 +1197,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_446126",
-   "s_3173288",
-   "s_3607496"
   ]
  },
  {
@@ -1399,11 +1234,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_589153",
-   "s_989897",
-   "s_1746593"
   ]
  },
  {
@@ -1443,11 +1273,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_3040674",
-   "s_3095647",
-   "s_3590169"
   ]
  },
  {
@@ -1485,11 +1310,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_507103",
-   "s_3709000",
-   "s_3766789"
   ]
  },
  {
@@ -1505,12 +1325,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "examples": [
-   "s_05659",
-   "s_469114",
-   "s_650602"
-  ]
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
  },
  {
   "id": "w_sobiratsya",
@@ -1549,11 +1364,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_2134922",
-   "s_2434882",
-   "s_2806848"
   ]
  },
  {
@@ -1591,11 +1401,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_3880666",
-   "s_3880667",
-   "s_10162488"
   ]
  },
  {
@@ -1634,11 +1439,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_5501926",
-   "s_5659166",
-   "s_6854154"
   ]
  },
  {
@@ -1675,11 +1475,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_893523",
-   "s_2732233",
-   "s_3052920"
   ]
  },
  {
@@ -1732,11 +1527,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_1601651",
-   "s_2590209",
-   "s_3282059"
   ]
  },
  {
@@ -1776,11 +1566,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_514364",
-   "s_1109141",
-   "s_1889381"
   ]
  },
  {
@@ -1795,23 +1580,15 @@
   ],
   "pos": "adv",
   "level": "a2",
-  "topics": [
-   "cibo-bevande",
-   "tempo"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "it": [
    "qui",
    "qua"
   ],
-  "ipa": "[tut]",
-  "examples": [
-   "s_824039",
-   "s_987934",
-   "s_2171722"
-  ]
+  "ipa": "[tut]"
  },
  {
   "id": "w_ubit",
@@ -1884,11 +1661,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2214542",
-   "s_2522129",
-   "s_2608532"
   ]
  },
  {
@@ -1927,11 +1699,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_4398318",
-   "s_5661175",
-   "s_6462857"
   ]
  },
  {
@@ -1969,11 +1736,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_379958",
-   "s_505529",
-   "s_1699547"
   ]
  },
  {
@@ -1990,12 +1752,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[nʲɪˈmnoɡə]",
-  "examples": [
-   "s_424959",
-   "s_4006100",
-   "s_5520946"
-  ]
+  "ipa": "[nʲɪˈmnoɡə]"
  },
  {
   "id": "w_syuda",
@@ -2011,12 +1768,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[sʲʊˈda]",
-  "examples": [
-   "s_4391212",
-   "s_5514598",
-   "s_5794100"
-  ]
+  "ipa": "[sʲʊˈda]"
  },
  {
   "id": "w_domoy",
@@ -2032,12 +1784,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[dɐˈmoj]",
-  "examples": [
-   "s_469971",
-   "s_1031560",
-   "s_1515078"
-  ]
+  "ipa": "[dɐˈmoj]"
  },
  {
   "id": "w_igrat",
@@ -2077,11 +1824,6 @@
   "governs": [
    "+acc",
    "+ins"
-  ],
-  "examples": [
-   "s_2563943",
-   "s_2563952",
-   "s_3576264"
   ]
  },
  {
@@ -2159,11 +1901,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2447147",
-   "s_2453345",
-   "s_3291283"
   ]
  },
  {
@@ -2202,11 +1939,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_1924747",
-   "s_3053916",
-   "s_5387656"
   ]
  },
  {
@@ -2243,11 +1975,6 @@
   "ipa": "[mʲir]",
   "grammar_tags": [
    "uncountable"
-  ],
-  "examples": [
-   "s_507322",
-   "s_3496094",
-   "s_5555804"
   ]
  },
  {
@@ -2262,12 +1989,10 @@
   ],
   "pos": "verb",
   "level": "a2",
-  "topics": [
-   "salute"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "forms": {
    "aspect": "imperfective",
    "aspect_partner": "послушать",
@@ -2288,11 +2013,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_507111",
-   "s_2765749",
-   "s_5470326"
   ]
  },
  {
@@ -2328,12 +2048,7 @@
   "it": [
    "libro"
   ],
-  "ipa": "[ˈknʲiɡə]",
-  "examples": [
-   "s_582675",
-   "s_1350880",
-   "s_1396319"
-  ]
+  "ipa": "[ˈknʲiɡə]"
  },
  {
   "id": "w_pora",
@@ -2369,12 +2084,7 @@
    "ins_pl": "пора́ми",
    "prep_pl": "пора́х"
   },
-  "ipa": "[pɐˈra]",
-  "examples": [
-   "s_3219784",
-   "s_4171795",
-   "s_4691358"
-  ]
+  "ipa": "[pɐˈra]"
  },
  {
   "id": "w_poekhat",
@@ -2411,11 +2121,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_5528402",
-   "s_5661022",
-   "s_5705722"
   ]
  },
  {
@@ -2429,7 +2134,6 @@
   "pos": "noun",
   "level": "a2",
   "topics": [
-   "casa",
    "scuola"
   ],
   "source": "openrussian",
@@ -2451,12 +2155,7 @@
    "ins_pl": "шко́лами",
    "prep_pl": "шко́лах"
   },
-  "ipa": "[ˈʂkoɫə]",
-  "examples": [
-   "s_3270157",
-   "s_4186207",
-   "s_5503860"
-  ]
+  "ipa": "[ˈʂkoɫə]"
  },
  {
   "id": "w_zachem",
@@ -2472,12 +2171,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[zɐˈt͡ɕem]",
-  "examples": [
-   "s_2536890",
-   "s_5434915",
-   "s_5540133"
-  ]
+  "ipa": "[zɐˈt͡ɕem]"
  },
  {
   "id": "w_prosit",
@@ -2519,11 +2213,6 @@
   "governs": [
    "+acc",
    "+gen"
-  ],
-  "examples": [
-   "s_2632241",
-   "s_2632242",
-   "s_5633235"
   ]
  },
  {
@@ -2543,12 +2232,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈt͡ɕerʲɪs]",
-  "examples": [
-   "s_1489756",
-   "s_2824889",
-   "s_5553483"
-  ]
+  "ipa": "[ˈt͡ɕerʲɪs]"
  },
  {
   "id": "w_boyatsya",
@@ -2591,11 +2275,6 @@
   ],
   "governs": [
    "+gen"
-  ],
-  "examples": [
-   "s_637069",
-   "s_2606571",
-   "s_2606572"
   ]
  },
  {
@@ -2633,11 +2312,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_3817471",
-   "s_5587992",
-   "s_5625416"
   ]
  },
  {
@@ -2656,12 +2330,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[kʊˈda]",
-  "examples": [
-   "s_3015095",
-   "s_3261265",
-   "s_4229076"
-  ]
+  "ipa": "[kʊˈda]"
  },
  {
   "id": "w_poluchit",
@@ -2700,11 +2369,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_1953146",
-   "s_2606840",
-   "s_2606842"
   ]
  },
  {
@@ -2739,12 +2403,7 @@
    "ins_pl": "имена́ми",
    "prep_pl": "имена́х"
   },
-  "ipa": "[ˈimʲə]",
-  "examples": [
-   "s_3254612",
-   "s_4921630",
-   "s_5478280"
-  ]
+  "ipa": "[ˈimʲə]"
  },
  {
   "id": "w_gotovyy",
@@ -2794,12 +2453,7 @@
    "pl_prep": "гото́вых",
    "comp": "гото́вее, гото́вей"
   },
-  "ipa": "[ɡɐˈtovɨj]",
-  "examples": [
-   "s_533056",
-   "s_2965454",
-   "s_3793598"
-  ]
+  "ipa": "[ɡɐˈtovɨj]"
  },
  {
   "id": "w_paren",
@@ -2834,12 +2488,7 @@
    "ins_pl": "парня́ми",
    "prep_pl": "парня́х"
   },
-  "ipa": "[ˈparʲɪnʲ]",
-  "examples": [
-   "s_1575933",
-   "s_3289473",
-   "s_5461582"
-  ]
+  "ipa": "[ˈparʲɪnʲ]"
  },
  {
   "id": "w_ved",
@@ -2856,12 +2505,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "examples": [
-   "s_3626195",
-   "s_3951935",
-   "s_5466073"
-  ]
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
  },
  {
   "id": "w_verit",
@@ -2901,11 +2545,6 @@
   ],
   "governs": [
    "+dat"
-  ],
-  "examples": [
-   "s_3296716",
-   "s_5624084",
-   "s_5651636"
   ]
  },
  {
@@ -2938,12 +2577,7 @@
    "ins_pl": "по́мощами",
    "prep_pl": "по́мощах"
   },
-  "ipa": "[ˈpoməɕː]",
-  "examples": [
-   "s_2053925",
-   "s_2430068",
-   "s_5494682"
-  ]
+  "ipa": "[ˈpoməɕː]"
  },
  {
   "id": "w_pod",
@@ -2971,11 +2605,6 @@
   "governs": [
    "+acc",
    "+ins"
-  ],
-  "examples": [
-   "s_1074984",
-   "s_3302573",
-   "s_3507897"
   ]
  },
  {
@@ -3017,11 +2646,6 @@
   ],
   "governs": [
    "+dat"
-  ],
-  "examples": [
-   "s_1576500",
-   "s_5482857",
-   "s_7977697"
   ]
  },
  {
@@ -3060,11 +2684,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_3015439",
-   "s_3503941",
-   "s_4682079"
   ]
  },
  {
@@ -3077,12 +2696,10 @@
   ],
   "pos": "verb",
   "level": "a2",
-  "topics": [
-   "salute"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "forms": {
    "aspect": "imperfective",
    "aspect_partner": "сходить",
@@ -3103,11 +2720,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_3261265",
-   "s_3270157",
-   "s_3575213"
   ]
  },
  {
@@ -3125,12 +2737,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈvmʲesʲtʲe]",
-  "examples": [
-   "s_1512491",
-   "s_4302948",
-   "s_5731727"
-  ]
+  "ipa": "[ˈvmʲesʲtʲe]"
  },
  {
   "id": "w_pokazat",
@@ -3168,11 +2775,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2480402",
-   "s_5529336",
-   "s_6943825"
   ]
  },
  {
@@ -3213,11 +2815,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_3095647",
-   "s_4479967",
-   "s_4708732"
   ]
  },
  {
@@ -3235,12 +2832,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[vɐzˈmoʐnə]",
-  "examples": [
-   "s_1793301",
-   "s_3035159",
-   "s_4921053"
-  ]
+  "ipa": "[vɐzˈmoʐnə]"
  },
  {
   "id": "w_pravyy",
@@ -3290,11 +2882,7 @@
    "pl_ins": "пра́выми",
    "pl_prep": "пра́вых"
   },
-  "ipa": "[ˈpravɨj]",
-  "examples": [
-   "s_5526189",
-   "s_6712651"
-  ]
+  "ipa": "[ˈpravɨj]"
  },
  {
   "id": "w_poryadok",
@@ -3332,12 +2920,7 @@
    "ins_pl": "поря́дками",
    "prep_pl": "поря́дках"
   },
-  "ipa": "[pɐˈrʲadək]",
-  "examples": [
-   "s_5384145",
-   "s_5927566",
-   "s_6170258"
-  ]
+  "ipa": "[pɐˈrʲadək]"
  },
  {
   "id": "w_schitat",
@@ -3374,11 +2957,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_468917",
-   "s_903123",
-   "s_1182935"
   ]
  },
  {
@@ -3419,11 +2997,6 @@
   "governs": [
    "+gen",
    "+acc"
-  ],
-  "examples": [
-   "s_4439272",
-   "s_5494682",
-   "s_5679558"
   ]
  },
  {
@@ -3437,7 +3010,6 @@
   "pos": "noun",
   "level": "a2",
   "topics": [
-   "corpo",
    "tempo"
   ],
   "source": "openrussian",
@@ -3459,12 +3031,7 @@
    "ins_pl": "конца́ми",
    "prep_pl": "конца́х"
   },
-  "ipa": "[kɐˈnʲet͡s]",
-  "examples": [
-   "s_660702",
-   "s_2269855",
-   "s_4283407"
-  ]
+  "ipa": "[kɐˈnʲet͡s]"
  },
  {
   "id": "w_vid",
@@ -3501,12 +3068,7 @@
    "ins_pl": "ви́дами",
    "prep_pl": "ви́дах"
   },
-  "ipa": "[vʲit]",
-  "examples": [
-   "s_3270138",
-   "s_3607496",
-   "s_5656393"
-  ]
+  "ipa": "[vʲit]"
  },
  {
   "id": "w_deystvitelno",
@@ -3523,12 +3085,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "/dʲɪ(j)stˈvʲitʲɪlʲnə/",
-  "examples": [
-   "s_784864",
-   "s_6850233",
-   "s_8585519"
-  ]
+  "ipa": "/dʲɪ(j)stˈvʲitʲɪlʲnə/"
  },
  {
   "id": "w_oba",
@@ -3556,12 +3113,7 @@
    "pl_ins": "обо́ими, обе́ими",
    "pl_prep": "обо́их, обе́их"
   },
-  "ipa": "[ˈobə]",
-  "examples": [
-   "s_903023",
-   "s_5046025",
-   "s_6865230"
-  ]
+  "ipa": "[ˈobə]"
  },
  {
   "id": "w_podumat",
@@ -3598,11 +3150,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2564579",
-   "s_2650654",
-   "s_6329221"
   ]
  },
  {
@@ -3641,11 +3188,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_2035816",
-   "s_2501480",
-   "s_4171795"
   ]
  },
  {
@@ -3661,12 +3203,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "examples": [
-   "s_3007219",
-   "s_4128193",
-   "s_5436523"
-  ]
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
  },
  {
   "id": "w_sovsem",
@@ -3683,12 +3220,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[sɐfˈsʲem]",
-  "examples": [
-   "s_2608535",
-   "s_2608536",
-   "s_11340640"
-  ]
+  "ipa": "[sɐfˈsʲem]"
  },
  {
   "id": "w_luchshiy",
@@ -3731,12 +3263,7 @@
    "pl_acc": "лу́чшие, лу́чших",
    "pl_ins": "лу́чшими",
    "pl_prep": "лу́чших"
-  },
-  "examples": [
-   "s_3032728",
-   "s_3242891",
-   "s_3418663"
-  ]
+  }
  },
  {
   "id": "w_lish",
@@ -3754,12 +3281,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[lʲiʂ]",
-  "examples": [
-   "s_505814",
-   "s_1793201",
-   "s_3803447"
-  ]
+  "ipa": "[lʲiʂ]"
  },
  {
   "id": "w_muzhchina",
@@ -3796,12 +3318,7 @@
   "it": [
    "uomo"
   ],
-  "ipa": "[mʊˈɕːinə]",
-  "examples": [
-   "s_1419008",
-   "s_2992965",
-   "s_3127837"
-  ]
+  "ipa": "[mʊˈɕːinə]"
  },
  {
   "id": "w_tochno",
@@ -3822,12 +3339,7 @@
   "forms": {
    "comp": "точне́е, точне́й"
   },
-  "ipa": "[ˈtot͡ɕnə]",
-  "examples": [
-   "s_2778788",
-   "s_10933116",
-   "s_12373137"
-  ]
+  "ipa": "[ˈtot͡ɕnə]"
  },
  {
   "id": "w_sledovat",
@@ -3869,11 +3381,6 @@
   ],
   "governs": [
    "+dat"
-  ],
-  "examples": [
-   "s_718871",
-   "s_5656438",
-   "s_6740836"
   ]
  },
  {
@@ -3910,11 +3417,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_782842",
-   "s_1015289",
-   "s_5480830"
   ]
  },
  {
@@ -3931,12 +3433,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "examples": [
-   "s_550011",
-   "s_4268002",
-   "s_5241460"
-  ]
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
  },
  {
   "id": "w_istoriya",
@@ -3973,12 +3470,7 @@
   "it": [
    "storia"
   ],
-  "ipa": "[ɪˈstorʲɪjə]",
-  "examples": [
-   "s_1910262",
-   "s_3035338",
-   "s_3035340"
-  ]
+  "ipa": "[ɪˈstorʲɪjə]"
  },
  {
   "id": "w_telefon",
@@ -4015,12 +3507,7 @@
   "it": [
    "telefono"
   ],
-  "ipa": "[tʲɪlʲɪˈfon]",
-  "examples": [
-   "s_5351028",
-   "s_5552982",
-   "s_5692185"
-  ]
+  "ipa": "[tʲɪlʲɪˈfon]"
  },
  {
   "id": "w_sidet",
@@ -4059,11 +3546,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_5488862",
-   "s_5606213",
-   "s_5649046"
   ]
  },
  {
@@ -4099,12 +3581,7 @@
    "ins_pl": "пла́нами",
    "prep_pl": "пла́нах"
   },
-  "ipa": "[pɫan]",
-  "examples": [
-   "s_3290314",
-   "s_5438655",
-   "s_5496123"
-  ]
+  "ipa": "[pɫan]"
  },
  {
   "id": "w_yazyk",
@@ -4117,12 +3594,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "corpo"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -4139,12 +3614,7 @@
    "ins_pl": "языка́ми",
    "prep_pl": "языка́х"
   },
-  "ipa": "[(j)ɪˈzɨk]",
-  "examples": [
-   "s_755304",
-   "s_1594925",
-   "s_4749476"
-  ]
+  "ipa": "[(j)ɪˈzɨk]"
  },
  {
   "id": "w_smert",
@@ -4219,11 +3689,6 @@
   "grammar_tags": [
    "intransitive",
    "transitive"
-  ],
-  "examples": [
-   "s_2900278",
-   "s_5558578",
-   "s_5605511"
   ]
  },
  {
@@ -4265,11 +3730,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_1350880",
-   "s_6005121",
-   "s_10996286"
   ]
  },
  {
@@ -4312,12 +3772,7 @@
    "pl_ins": "никаки́ми",
    "pl_prep": "никаки́х"
   },
-  "ipa": "[nʲɪkɐˈkoj]",
-  "examples": [
-   "s_4661579",
-   "s_5518728",
-   "s_5969196"
-  ]
+  "ipa": "[nʲɪkɐˈkoj]"
  },
  {
   "id": "w_edinstvennyy",
@@ -4363,12 +3818,7 @@
    "pl_ins": "еди́нственными",
    "pl_prep": "еди́нственных"
   },
-  "ipa": "[(j)ɪˈdʲinstvʲɪn(ː)ɨj]",
-  "examples": [
-   "s_6065545",
-   "s_6794098",
-   "s_6878346"
-  ]
+  "ipa": "[(j)ɪˈdʲinstvʲɪn(ː)ɨj]"
  },
  {
   "id": "w_prinyat",
@@ -4410,11 +3860,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_3644179",
-   "s_6312140",
-   "s_12805055"
   ]
  },
  {
@@ -4452,11 +3897,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2606597",
-   "s_2606598",
-   "s_4920997"
   ]
  },
  {
@@ -4470,21 +3910,14 @@
   ],
   "pos": "adv",
   "level": "a2",
-  "topics": [
-   "tempo"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "comp": "скоре́е, скоре́й"
   },
-  "ipa": "[ˈskorə]",
-  "examples": [
-   "s_1749708",
-   "s_2082100",
-   "s_3043020"
-  ]
+  "ipa": "[ˈskorə]"
  },
  {
   "id": "w_ukhodit",
@@ -4521,11 +3954,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_468802",
-   "s_1515078",
-   "s_1749708"
   ]
  },
  {
@@ -4562,11 +3990,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2606956",
-   "s_2606958",
-   "s_2606966"
   ]
  },
  {
@@ -4606,11 +4029,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_394544",
-   "s_2824223",
-   "s_3572710"
   ]
  },
  {
@@ -4653,11 +4071,6 @@
   ],
   "governs": [
    "+ins"
-  ],
-  "examples": [
-   "s_5113780",
-   "s_5392412",
-   "s_5664699"
   ]
  },
  {
@@ -4699,11 +4112,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_598013",
-   "s_637069",
-   "s_2012299"
   ]
  },
  {
@@ -4722,12 +4130,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[nət]",
-  "examples": [
-   "s_795149",
-   "s_2564579",
-   "s_5496874"
-  ]
+  "ipa": "[nət]"
  },
  {
   "id": "w_malchik",
@@ -4761,12 +4164,7 @@
    "ins_pl": "ма́льчиками",
    "prep_pl": "ма́льчиках"
   },
-  "ipa": "[ˈmalʲt͡ɕɪk]",
-  "examples": [
-   "s_575018",
-   "s_614573",
-   "s_1959666"
-  ]
+  "ipa": "[ˈmalʲt͡ɕɪk]"
  },
  {
   "id": "w_umet",
@@ -4802,11 +4200,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_3679791",
-   "s_5508917",
-   "s_5652781"
   ]
  },
  {
@@ -4825,12 +4218,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈrazvʲe]",
-  "examples": [
-   "s_1559026",
-   "s_4760283",
-   "s_5615613"
-  ]
+  "ipa": "[ˈrazvʲe]"
  },
  {
   "id": "w_doroga",
@@ -4845,8 +4233,7 @@
   "pos": "noun",
   "level": "a2",
   "topics": [
-   "trasporti",
-   "viaggi"
+   "trasporti"
   ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
@@ -4867,12 +4254,7 @@
    "ins_pl": "доро́гами",
    "prep_pl": "доро́гах"
   },
-  "ipa": "[dɐˈroɡə]",
-  "examples": [
-   "s_4176628",
-   "s_5473384",
-   "s_6943825"
-  ]
+  "ipa": "[dɐˈroɡə]"
  },
  {
   "id": "w_imenno",
@@ -4889,12 +4271,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈimʲɪn(ː)ə]",
-  "examples": [
-   "s_3789324",
-   "s_5521193",
-   "s_6856588"
-  ]
+  "ipa": "[ˈimʲɪn(ː)ə]"
  },
  {
   "id": "w_storona",
@@ -4929,12 +4306,7 @@
    "ins_pl": "сторона́ми",
    "prep_pl": "сторона́х"
   },
-  "ipa": "[stərɐˈna]",
-  "examples": [
-   "s_5248585",
-   "s_5248586",
-   "s_13626671"
-  ]
+  "ipa": "[stərɐˈna]"
  },
  {
   "id": "w_prikhodit",
@@ -4973,11 +4345,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_469971",
-   "s_4214624",
-   "s_5670495"
   ]
  },
  {
@@ -5016,12 +4383,7 @@
   "it": [
    "amore"
   ],
-  "ipa": "[lʲʊˈbofʲ]",
-  "examples": [
-   "s_952974",
-   "s_3440415",
-   "s_3540785"
-  ]
+  "ipa": "[lʲʊˈbofʲ]"
  },
  {
   "id": "w_proiskhodit",
@@ -5059,11 +4421,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_987934",
-   "s_3195521",
-   "s_5461337"
   ]
  },
  {
@@ -5103,11 +4460,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_5515772",
-   "s_5515773",
-   "s_5967863"
   ]
  },
  {
@@ -5127,12 +4479,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈprotʲɪf]",
-  "examples": [
-   "s_7072768",
-   "s_7954866",
-   "s_13734510"
-  ]
+  "ipa": "[ˈprotʲɪf]"
  },
  {
   "id": "w_ostavatsya",
@@ -5172,11 +4519,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_5560486",
-   "s_5586140",
-   "s_5733364"
   ]
  },
  {
@@ -5217,11 +4559,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_424297",
-   "s_2771666",
-   "s_4674084"
   ]
  },
  {
@@ -5257,12 +4594,7 @@
    "ins_pl": "слу́чаями",
    "prep_pl": "слу́чаях"
   },
-  "ipa": "[ˈsɫut͡ɕɪj]",
-  "examples": [
-   "s_400315",
-   "s_2777594",
-   "s_3238225"
-  ]
+  "ipa": "[ˈsɫut͡ɕɪj]"
  },
  {
   "id": "w_zemlya",
@@ -5301,12 +4633,7 @@
   "it": [
    "terra"
   ],
-  "ipa": "[zʲɪˈmlʲa]",
-  "examples": [
-   "s_825773",
-   "s_6032132",
-   "s_8176966"
-  ]
+  "ipa": "[zʲɪˈmlʲa]"
  },
  {
   "id": "w_igra",
@@ -5341,12 +4668,7 @@
    "ins_pl": "и́грами",
    "prep_pl": "и́грах"
   },
-  "ipa": "[ɪˈɡra]",
-  "examples": [
-   "s_05613",
-   "s_2701453",
-   "s_5509305"
-  ]
+  "ipa": "[ɪˈɡra]"
  },
  {
   "id": "w_khvatit",
@@ -5384,11 +4706,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_2501605",
-   "s_4662522",
-   "s_5436522"
   ]
  },
  {
@@ -5409,12 +4726,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[prʲɪ]",
-  "examples": [
-   "s_5169209",
-   "s_5647595",
-   "s_5893443"
-  ]
+  "ipa": "[prʲɪ]"
  },
  {
   "id": "w_bolee",
@@ -5433,11 +4745,6 @@
   "ipa": "[ˈbolʲɪje]",
   "governs": [
    "+gen"
-  ],
-  "examples": [
-   "s_1978141",
-   "s_2806260",
-   "s_4488254"
   ]
  },
  {
@@ -5456,12 +4763,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[vɐɐpˈɕːe]",
-  "examples": [
-   "s_3656317",
-   "s_4456685",
-   "s_4921053"
-  ]
+  "ipa": "[vɐɐpˈɕːe]"
  },
  {
   "id": "w_pismo",
@@ -5498,11 +4800,6 @@
   "ipa": "[pʲɪsʲˈmo]",
   "grammar_tags": [
    "uncountable"
-  ],
-  "examples": [
-   "s_424297",
-   "s_3148042",
-   "s_5658631"
   ]
  },
  {
@@ -5580,12 +4877,7 @@
    "pl_ins": "любы́ми",
    "pl_prep": "любы́х"
   },
-  "ipa": "[lʲʊˈboj]",
-  "examples": [
-   "s_2777594",
-   "s_6946260",
-   "s_8139813"
-  ]
+  "ipa": "[lʲʊˈboj]"
  },
  {
   "id": "w_utro",
@@ -5619,12 +4911,7 @@
    "ins_pl": "у́трами, утра́ми",
    "prep_pl": "у́трах, утра́х"
   },
-  "ipa": "[ˈutrə]",
-  "examples": [
-   "s_5520711",
-   "s_5522288",
-   "s_5524964"
-  ]
+  "ipa": "[ˈutrə]"
  },
  {
   "id": "w_silnyy",
@@ -5679,12 +4966,7 @@
   "it": [
    "forte"
   ],
-  "ipa": "[ˈsʲilʲnɨj]",
-  "examples": [
-   "s_2418343",
-   "s_2618823",
-   "s_4408394"
-  ]
+  "ipa": "[ˈsʲilʲnɨj]"
  },
  {
   "id": "w_para",
@@ -5699,13 +4981,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "abbigliamento",
-   "scuola"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -5722,12 +5001,7 @@
    "ins_pl": "па́рами",
    "prep_pl": "па́рах"
   },
-  "ipa": "[ˈparə]",
-  "examples": [
-   "s_5478722",
-   "s_13788395",
-   "s_13788402"
-  ]
+  "ipa": "[ˈparə]"
  },
  {
   "id": "w_svet",
@@ -5764,11 +5038,6 @@
   "ipa": "[svʲet]",
   "grammar_tags": [
    "uncountable"
-  ],
-  "examples": [
-   "s_379121",
-   "s_2269855",
-   "s_2453345"
   ]
  },
  {
@@ -5785,12 +5054,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[prə]",
-  "examples": [
-   "s_2651239",
-   "s_2651241",
-   "s_5911371"
-  ]
+  "ipa": "[prə]"
  },
  {
   "id": "w_chasto",
@@ -5812,12 +5076,7 @@
   "forms": {
    "comp": "ча́ще"
   },
-  "ipa": "[ˈt͡ɕastə]",
-  "examples": [
-   "s_2674384",
-   "s_3493475",
-   "s_3743828"
-  ]
+  "ipa": "[ˈt͡ɕastə]"
  },
  {
   "id": "w_nastoyashchiy",
@@ -5831,12 +5090,10 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [
-   "tempo"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "forms": {
    "m_nom": "настоя́щий",
    "m_gen": "настоя́щего",
@@ -5863,12 +5120,7 @@
    "pl_ins": "настоя́щими",
    "pl_prep": "настоя́щих"
   },
-  "ipa": "[nəstɐˈjæɕːɪj]",
-  "examples": [
-   "s_2457013",
-   "s_3526127",
-   "s_5478280"
-  ]
+  "ipa": "[nəstɐˈjæɕːɪj]"
  },
  {
   "id": "w_devochka",
@@ -5902,12 +5154,7 @@
    "ins_pl": "де́вочками",
    "prep_pl": "де́вочках"
   },
-  "ipa": "[ˈdʲevət͡ɕkə]",
-  "examples": [
-   "s_614616",
-   "s_3163460",
-   "s_5454397"
-  ]
+  "ipa": "[ˈdʲevət͡ɕkə]"
  },
  {
   "id": "w_nakhoditsya",
@@ -5943,11 +5190,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_4283407",
-   "s_5783853",
-   "s_5825995"
   ]
  },
  {
@@ -5985,11 +5227,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_1653759",
-   "s_3349707",
-   "s_6315993"
   ]
  },
  {
@@ -6007,7 +5244,6 @@
   "pos": "noun",
   "level": "a2",
   "topics": [
-   "numeri",
    "tempo-libero"
   ],
   "source": "openrussian",
@@ -6029,12 +5265,7 @@
    "ins_pl": "номера́ми",
    "prep_pl": "номера́х"
   },
-  "ipa": "[ˈnomʲɪr]",
-  "examples": [
-   "s_3073620",
-   "s_3185787",
-   "s_5692185"
-  ]
+  "ipa": "[ˈnomʲɪr]"
  },
  {
   "id": "w_chast",
@@ -6070,12 +5301,7 @@
    "ins_pl": "частя́ми",
    "prep_pl": "частя́х"
   },
-  "ipa": "[t͡ɕæsʲtʲ]",
-  "examples": [
-   "s_5113780",
-   "s_5438655",
-   "s_5664699"
-  ]
+  "ipa": "[t͡ɕæsʲtʲ]"
  },
  {
   "id": "w_dostatochno",
@@ -6093,12 +5319,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[dɐˈstatət͡ɕnə]",
-  "examples": [
-   "s_1978141",
-   "s_2812930",
-   "s_2931490"
-  ]
+  "ipa": "[dɐˈstatət͡ɕnə]"
  },
  {
   "id": "w_dobryy",
@@ -6111,12 +5332,10 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [
-   "persone"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "comp": "добре́е",
    "sup": "добре́йший",
@@ -6152,12 +5371,7 @@
   "it": [
    "gentile"
   ],
-  "ipa": "[ˈdobrɨj]",
-  "examples": [
-   "s_2012299",
-   "s_2968486",
-   "s_3163460"
-  ]
+  "ipa": "[ˈdobrɨj]"
  },
  {
   "id": "w_provesti",
@@ -6197,11 +5411,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2061903",
-   "s_2782718",
-   "s_6808368"
   ]
  },
  {
@@ -6234,12 +5443,7 @@
    "ins_pl": "отве́тами",
    "prep_pl": "отве́тах"
   },
-  "ipa": "[ɐtˈvʲet]",
-  "examples": [
-   "s_475328",
-   "s_1996560",
-   "s_2609723"
-  ]
+  "ipa": "[ɐtˈvʲet]"
  },
  {
   "id": "w_sila",
@@ -6279,12 +5483,7 @@
   "it": [
    "forza"
   ],
-  "ipa": "[ˈsʲiɫə]",
-  "examples": [
-   "s_5629196",
-   "s_5629198",
-   "s_6963185"
-  ]
+  "ipa": "[ˈsʲiɫə]"
  },
  {
   "id": "w_byvat",
@@ -6323,11 +5522,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_752099",
-   "s_2674384",
-   "s_3493475"
   ]
  },
  {
@@ -6383,12 +5577,7 @@
   "it": [
    "alto"
   ],
-  "ipa": "[vɨˈsokʲɪj]",
-  "examples": [
-   "s_668315",
-   "s_1627776",
-   "s_1730044"
-  ]
+  "ipa": "[vɨˈsokʲɪj]"
  },
  {
   "id": "w_navernoe",
@@ -6404,12 +5593,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[nɐˈvʲernəjə]",
-  "examples": [
-   "s_3116696",
-   "s_3684072",
-   "s_4353547"
-  ]
+  "ipa": "[nɐˈvʲernəjə]"
  },
  {
   "id": "w_vrach",
@@ -6446,12 +5630,7 @@
   "it": [
    "medico"
   ],
-  "ipa": "[vrat͡ɕ]",
-  "examples": [
-   "s_1006976",
-   "s_1795726",
-   "s_3032637"
-  ]
+  "ipa": "[vrat͡ɕ]"
  },
  {
   "id": "w_zhivoy",
@@ -6500,12 +5679,7 @@
    "pl_prep": "живы́х",
    "comp": "живе́е, живе́й, живе́йший"
   },
-  "ipa": "[ʐɨˈvoj]",
-  "examples": [
-   "s_903023",
-   "s_2151814",
-   "s_3054621"
-  ]
+  "ipa": "[ʐɨˈvoj]"
  },
  {
   "id": "w_polnyy",
@@ -6558,12 +5732,7 @@
    "pl_ins": "по́лными",
    "pl_prep": "по́лных"
   },
-  "ipa": "[ˈpoɫnɨj]",
-  "examples": [
-   "s_3164924",
-   "s_5512996",
-   "s_5564518"
-  ]
+  "ipa": "[ˈpoɫnɨj]"
  },
  {
   "id": "w_sest",
@@ -6601,11 +5770,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_1513035",
-   "s_2527521",
-   "s_2527522"
   ]
  },
  {
@@ -6642,12 +5806,7 @@
   "it": [
    "causa"
   ],
-  "ipa": "[prʲɪˈt͡ɕinə]",
-  "examples": [
-   "s_4421644",
-   "s_5548643",
-   "s_5615609"
-  ]
+  "ipa": "[prʲɪˈt͡ɕinə]"
  },
  {
   "id": "w_nekotoryy",
@@ -6689,12 +5848,7 @@
    "pl_acc": "не́которых, не́которые",
    "pl_ins": "не́которыми",
    "pl_prep": "не́которых"
-  },
-  "examples": [
-   "s_2606846",
-   "s_2606848",
-   "s_2606849"
-  ]
+  }
  },
  {
   "id": "w_put",
@@ -6710,8 +5864,7 @@
   "pos": "noun",
   "level": "a2",
   "topics": [
-   "trasporti",
-   "viaggi"
+   "trasporti"
   ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
@@ -6732,12 +5885,7 @@
    "ins_pl": "путя́ми",
    "prep_pl": "путя́х"
   },
-  "ipa": "[putʲ]",
-  "examples": [
-   "s_5384461",
-   "s_5480847",
-   "s_6363058"
-  ]
+  "ipa": "[putʲ]"
  },
  {
   "id": "w_ravno",
@@ -6755,12 +5903,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[rɐvˈno]",
-  "examples": [
-   "s_5017368",
-   "s_5171745",
-   "s_5209571"
-  ]
+  "ipa": "[rɐvˈno]"
  },
  {
   "id": "w_serdtse",
@@ -6775,8 +5918,7 @@
   "pos": "noun",
   "level": "a2",
   "topics": [
-   "corpo",
-   "emozioni"
+   "corpo"
   ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
@@ -6800,12 +5942,7 @@
   "it": [
    "cuore"
   ],
-  "ipa": "[ˈsʲert͡s(ː)ə]",
-  "examples": [
-   "s_3163460",
-   "s_5470326",
-   "s_5665432"
-  ]
+  "ipa": "[ˈsʲert͡s(ː)ə]"
  },
  {
   "id": "w_vstrecha",
@@ -6842,12 +5979,7 @@
    "ins_pl": "встре́чами",
    "prep_pl": "встре́чах"
   },
-  "ipa": "[ˈfstrʲet͡ɕə]",
-  "examples": [
-   "s_5582361",
-   "s_5683052",
-   "s_6361322"
-  ]
+  "ipa": "[ˈfstrʲet͡ɕə]"
  },
  {
   "id": "w_vykhodit",
@@ -6954,12 +6086,7 @@
    "ins_pl": "реше́ниями",
    "prep_pl": "реше́ниях"
   },
-  "ipa": "[rʲɪˈʂɛnʲɪje]",
-  "examples": [
-   "s_3644179",
-   "s_4311734",
-   "s_4661579"
-  ]
+  "ipa": "[rʲɪˈʂɛnʲɪje]"
  },
  {
   "id": "w_doktor",
@@ -6973,7 +6100,6 @@
   "level": "a2",
   "topics": [
    "lavoro",
-   "salute",
    "scuola"
   ],
   "source": "openrussian",
@@ -6995,12 +6121,7 @@
    "ins_pl": "доктора́ми",
    "prep_pl": "доктора́х"
   },
-  "ipa": "[ˈdoktər]",
-  "examples": [
-   "s_472138",
-   "s_2283827",
-   "s_3801849"
-  ]
+  "ipa": "[ˈdoktər]"
  },
  {
   "id": "w_pokhozhiy",
@@ -7046,12 +6167,7 @@
    "pl_ins": "похо́жими",
    "pl_prep": "похо́жих"
   },
-  "ipa": "[pɐˈxoʐɨj]",
-  "examples": [
-   "s_3262953",
-   "s_5513892",
-   "s_5606881"
-  ]
+  "ipa": "[pɐˈxoʐɨj]"
  },
  {
   "id": "w_khotetsya",
@@ -7077,11 +6193,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_3462064",
-   "s_5091678",
-   "s_5984656"
   ]
  },
  {
@@ -7120,12 +6231,7 @@
   "it": [
    "sera"
   ],
-  "ipa": "[ˈvʲet͡ɕɪr]",
-  "examples": [
-   "s_1738591",
-   "s_2782718",
-   "s_5986647"
-  ]
+  "ipa": "[ˈvʲet͡ɕɪr]"
  },
  {
   "id": "w_vtoroy",
@@ -7137,12 +6243,10 @@
   ],
   "pos": "num",
   "level": "a2",
-  "topics": [
-   "numeri"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "m_nom": "второ́й",
    "m_gen": "второ́го",
@@ -7172,12 +6276,7 @@
   "it": [
    "secondo in una sequenza ordinata"
   ],
-  "ipa": "[ftɐˈroj]",
-  "examples": [
-   "s_3029149",
-   "s_5676662",
-   "s_7302698"
-  ]
+  "ipa": "[ftɐˈroj]"
  },
  {
   "id": "w_pravo",
@@ -7213,12 +6312,7 @@
   "it": [
    "diritto"
   ],
-  "ipa": "[ˈpravə]",
-  "examples": [
-   "s_3173288",
-   "s_4949604",
-   "s_5822272"
-  ]
+  "ipa": "[ˈpravə]"
  },
  {
   "id": "w_davno",
@@ -7240,12 +6334,7 @@
   "it": [
    "da molto tempo"
   ],
-  "ipa": "[dɐvˈno]",
-  "examples": [
-   "s_3543631",
-   "s_5631120",
-   "s_5631121"
-  ]
+  "ipa": "[dɐvˈno]"
  },
  {
   "id": "w_uslyshat",
@@ -7282,11 +6371,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_3221975",
-   "s_4585637",
-   "s_5629864"
   ]
  },
  {
@@ -7323,11 +6407,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_4679106",
-   "s_6983707",
-   "s_6983708"
   ]
  },
  {
@@ -7371,10 +6450,7 @@
   "it": [
    "mille"
   ],
-  "ipa": "[ˈtɨsʲɪt͡ɕə]",
-  "examples": [
-   "s_5057202"
-  ]
+  "ipa": "[ˈtɨsʲɪt͡ɕə]"
  },
  {
   "id": "w_popast",
@@ -7412,11 +6488,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_5427153",
-   "s_5514598",
-   "s_5541064"
   ]
  },
  {
@@ -7457,11 +6528,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2606939",
-   "s_2606943",
-   "s_3007219"
   ]
  },
  {
@@ -7497,11 +6563,7 @@
    "ins_pl": "отноше́ниями",
    "prep_pl": "отноше́ниях"
   },
-  "ipa": "[ɐtnɐˈʂɛnʲɪje]",
-  "examples": [
-   "s_3515026",
-   "s_5518728"
-  ]
+  "ipa": "[ɐtnɐˈʂɛnʲɪje]"
  },
  {
   "id": "w_vnimanie",
@@ -7535,12 +6597,7 @@
    "ins_pl": "внима́ниями",
    "prep_pl": "внима́ниях"
   },
-  "ipa": "[vnʲɪˈmanʲɪje]",
-  "examples": [
-   "s_1076742",
-   "s_5693645",
-   "s_6945422"
-  ]
+  "ipa": "[vnʲɪˈmanʲɪje]"
  },
  {
   "id": "w_uzh",
@@ -7558,12 +6615,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[uʂ]",
-  "examples": [
-   "s_6871818",
-   "s_9025210",
-   "s_10952247"
-  ]
+  "ipa": "[uʂ]"
  },
  {
   "id": "w_chuvstvo",
@@ -7596,12 +6648,7 @@
    "ins_pl": "чу́вствами",
    "prep_pl": "чу́вствах"
   },
-  "ipa": "[ˈt͡ɕu(f)stvə]",
-  "examples": [
-   "s_661287",
-   "s_2056369",
-   "s_4082759"
-  ]
+  "ipa": "[ˈt͡ɕu(f)stvə]"
  },
  {
   "id": "w_moment",
@@ -7636,12 +6683,7 @@
    "ins_pl": "моме́нтами",
    "prep_pl": "моме́нтах"
   },
-  "ipa": "[mɐˈmʲent]",
-  "examples": [
-   "s_5397887",
-   "s_5513395",
-   "s_6964466"
-  ]
+  "ipa": "[mɐˈmʲent]"
  },
  {
   "id": "w_sprashivat",
@@ -7682,11 +6724,6 @@
   ],
   "governs": [
    "+acc"
-  ],
-  "examples": [
-   "s_05502",
-   "s_5479841",
-   "s_6604114"
   ]
  },
  {
@@ -7721,12 +6758,7 @@
    "ins_pl": "смы́слами",
    "prep_pl": "смы́слах"
   },
-  "ipa": "[ˈsmɨs(ə)ɫ]",
-  "examples": [
-   "s_5168881",
-   "s_5629116",
-   "s_6597890"
-  ]
+  "ipa": "[ˈsmɨs(ə)ɫ]"
  },
  {
   "id": "w_belyy",
@@ -7776,12 +6808,7 @@
   "it": [
    "bianco"
   ],
-  "ipa": "[ˈbʲeɫəj]",
-  "examples": [
-   "s_610320",
-   "s_3324761",
-   "s_3496105"
-  ]
+  "ipa": "[ˈbʲeɫəj]"
  },
  {
   "id": "w_um",
@@ -7853,11 +6880,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_3377049",
-   "s_4274865",
-   "s_5501944"
   ]
  },
  {
@@ -7898,9 +6920,6 @@
   "ipa": "[krofʲ]",
   "grammar_tags": [
    "uncountable"
-  ],
-  "examples": [
-   "s_4785579"
   ]
  },
  {
@@ -7938,11 +6957,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_1393653",
-   "s_1576482",
-   "s_2501446"
   ]
  },
  {
@@ -7979,11 +6993,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_5517957",
-   "s_5517958",
-   "s_5540133"
   ]
  },
  {
@@ -8000,12 +7009,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈkromʲe]",
-  "examples": [
-   "s_351222",
-   "s_645550",
-   "s_5570002"
-  ]
+  "ipa": "[ˈkromʲe]"
  },
  {
   "id": "w_okno",
@@ -8039,12 +7043,7 @@
    "ins_pl": "о́кнами",
    "prep_pl": "о́кнах"
   },
-  "ipa": "[ɐkˈno]",
-  "examples": [
-   "s_3052920",
-   "s_5343195",
-   "s_5387018"
-  ]
+  "ipa": "[ɐkˈno]"
  },
  {
   "id": "w_srazu",
@@ -8063,12 +7062,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
-  "ipa": "[ˈsrazʊ]",
-  "examples": [
-   "s_4250063",
-   "s_5188961",
-   "s_5453908"
-  ]
+  "ipa": "[ˈsrazʊ]"
  },
  {
   "id": "w_chyornyy",
@@ -8085,8 +7079,7 @@
   "pos": "adj",
   "level": "a2",
   "topics": [
-   "colori",
-   "lavoro"
+   "colori"
   ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
@@ -8123,12 +7116,7 @@
    "comp": "черне́е, черне́й",
    "sup": "черне́йший"
   },
-  "ipa": "[ˈt͡ɕɵrnɨj]",
-  "examples": [
-   "s_4728557",
-   "s_5499178",
-   "s_5499179"
-  ]
+  "ipa": "[ˈt͡ɕɵrnɨj]"
  },
  {
   "id": "w_prinimat",
@@ -8170,11 +7158,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2005476",
-   "s_2560677",
-   "s_5057052"
   ]
  },
  {
@@ -8191,12 +7174,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈbutːə]",
-  "examples": [
-   "s_466937",
-   "s_637069",
-   "s_1507339"
-  ]
+  "ipa": "[ˈbutːə]"
  },
  {
   "id": "w_zametit",
@@ -8233,11 +7211,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_1944544",
-   "s_2517784",
-   "s_3257079"
   ]
  },
  {
@@ -8274,12 +7247,7 @@
   "it": [
    "sogno"
   ],
-  "ipa": "[son]",
-  "examples": [
-   "s_505814",
-   "s_1793201",
-   "s_3579969"
-  ]
+  "ipa": "[son]"
  },
  {
   "id": "w_opyat",
@@ -8295,12 +7263,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ɐˈpʲætʲ]",
-  "examples": [
-   "s_507333",
-   "s_5543282",
-   "s_5635054"
-  ]
+  "ipa": "[ɐˈpʲætʲ]"
  },
  {
   "id": "w_nachinat",
@@ -8336,11 +7299,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2501565",
-   "s_3270157",
-   "s_3804001"
   ]
  },
  {
@@ -8394,12 +7352,7 @@
   "it": [
    "rosso"
   ],
-  "ipa": "[ˈkrasnɨj]",
-  "examples": [
-   "s_1971744",
-   "s_5885575",
-   "s_5897149"
-  ]
+  "ipa": "[ˈkrasnɨj]"
  },
  {
   "id": "w_ostanovitsya",
@@ -8436,11 +7389,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_734098",
-   "s_893523",
-   "s_5559253"
   ]
  },
  {
@@ -8454,12 +7402,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "lavoro"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -8476,12 +7422,7 @@
    "ins_pl": "компа́ниями",
    "prep_pl": "компа́ниях"
   },
-  "ipa": "[kɐmˈpanʲɪjə]",
-  "examples": [
-   "s_5582389",
-   "s_5987004",
-   "s_6884040"
-  ]
+  "ipa": "[kɐmˈpanʲɪjə]"
  },
  {
   "id": "w_derevo",
@@ -8516,12 +7457,7 @@
    "ins_pl": "дере́вьями",
    "prep_pl": "дере́вьях"
   },
-  "ipa": "[ˈdʲerʲɪvə]",
-  "examples": [
-   "s_448078",
-   "s_2341021",
-   "s_3302573"
-  ]
+  "ipa": "[ˈdʲerʲɪvə]"
  },
  {
   "id": "w_dovolno",
@@ -8542,12 +7478,7 @@
   "forms": {
    "comp": "дово́льнее, дово́льней"
   },
-  "ipa": "[dɐˈvolʲnə]",
-  "examples": [
-   "s_3274855",
-   "s_5134797",
-   "s_5679427"
-  ]
+  "ipa": "[dɐˈvolʲnə]"
  },
  {
   "id": "w_telo",
@@ -8559,12 +7490,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "corpo"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -8620,11 +7549,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_4082759",
-   "s_5910741",
-   "s_6764600"
   ]
  },
  {
@@ -8662,11 +7586,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_3189771",
-   "s_5459434",
-   "s_10933105"
   ]
  },
  {
@@ -8715,12 +7634,7 @@
    "pl_ins": "со́бственными",
    "pl_prep": "со́бственных"
   },
-  "ipa": "[ˈsopstvʲɪn(ː)ɨj]",
-  "examples": [
-   "s_5414122",
-   "s_5476053",
-   "s_5476054"
-  ]
+  "ipa": "[ˈsopstvʲɪn(ː)ɨj]"
  },
  {
   "id": "w_snachala",
@@ -8736,12 +7650,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[snɐˈt͡ɕaɫə]",
-  "examples": [
-   "s_2967125",
-   "s_5512964",
-   "s_7729418"
-  ]
+  "ipa": "[snɐˈt͡ɕaɫə]"
  },
  {
   "id": "w_skoryy",
@@ -8755,12 +7664,10 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [
-   "trasporti"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "forms": {
    "comp": "скоре́е",
    "sup": "скоре́йший",
@@ -8793,12 +7700,7 @@
    "pl_ins": "ско́рыми",
    "pl_prep": "ско́рых"
   },
-  "ipa": "[ˈskorɨj]",
-  "examples": [
-   "s_2851415",
-   "s_6461364",
-   "s_8971347"
-  ]
+  "ipa": "[ˈskorɨj]"
  },
  {
   "id": "w_pust",
@@ -8819,12 +7721,7 @@
   "forms": {
    "aspect": "perfective"
   },
-  "ipa": "[pusʲtʲ]",
-  "examples": [
-   "s_3274751",
-   "s_5509305",
-   "s_5667858"
-  ]
+  "ipa": "[pusʲtʲ]"
  },
  {
   "id": "w_snyat",
@@ -8864,11 +7761,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2355599",
-   "s_2531338",
-   "s_3234673"
   ]
  },
  {
@@ -8907,11 +7799,6 @@
   "aspect": "both",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_445397",
-   "s_2501565",
-   "s_4472932"
   ]
  },
  {
@@ -8928,12 +7815,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[səvʲɪrˈʂɛnːə]",
-  "examples": [
-   "s_2608532",
-   "s_2608533",
-   "s_5478724"
-  ]
+  "ipa": "[səvʲɪrˈʂɛnːə]"
  },
  {
   "id": "w_strannyy",
@@ -8980,12 +7862,7 @@
    "pl_prep": "стра́нных",
    "comp": "странне́е, странне́й"
   },
-  "ipa": "[ˈstranːɨj]",
-  "examples": [
-   "s_5393806",
-   "s_5461456",
-   "s_5549454"
-  ]
+  "ipa": "[ˈstranːɨj]"
  },
  {
   "id": "w_postavit",
@@ -9027,11 +7904,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_5343195",
-   "s_6044229",
-   "s_6044230"
   ]
  },
  {
@@ -9044,12 +7916,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "scuola"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -9070,12 +7940,7 @@
    "aula",
    "classe"
   ],
-  "ipa": "[kɫas]",
-  "examples": [
-   "s_646950",
-   "s_5205066",
-   "s_5976275"
-  ]
+  "ipa": "[kɫas]"
  },
  {
   "id": "w_volos",
@@ -9112,12 +7977,7 @@
   "it": [
    "capello"
   ],
-  "ipa": "[ˈvoɫəs]",
-  "examples": [
-   "s_1779342",
-   "s_4398318",
-   "s_5788513"
-  ]
+  "ipa": "[ˈvoɫəs]"
  },
  {
   "id": "w_okazatsya",
@@ -9154,11 +8014,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_5438199",
-   "s_5438203",
-   "s_8139813"
   ]
  },
  {
@@ -9200,11 +8055,6 @@
   ],
   "governs": [
    "+acc"
-  ],
-  "examples": [
-   "s_1414307",
-   "s_4921630",
-   "s_5783807"
   ]
  },
  {
@@ -9224,12 +8074,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[xotʲ]",
-  "examples": [
-   "s_5179532",
-   "s_11339400",
-   "s_11339401"
-  ]
+  "ipa": "[xotʲ]"
  },
  {
   "id": "w_vozmozhnost",
@@ -9313,12 +8158,7 @@
    "pl_prep": "це́лых",
    "comp": "целе́е, целе́й"
   },
-  "ipa": "[ˈt͡sɛɫɨj]",
-  "examples": [
-   "s_6841084",
-   "s_6841085",
-   "s_6841086"
-  ]
+  "ipa": "[ˈt͡sɛɫɨj]"
  },
  {
   "id": "w_stanovitsya",
@@ -9356,11 +8196,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_536906",
-   "s_1494819",
-   "s_2577623"
   ]
  },
  {
@@ -9398,11 +8233,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_4472938",
-   "s_4472972",
-   "s_5697346"
   ]
  },
  {
@@ -9424,12 +8254,7 @@
   "forms": {
    "comp": "ле́гче"
   },
-  "ipa": "[lʲɪxˈko]",
-  "examples": [
-   "s_869117",
-   "s_2798894",
-   "s_5865599"
-  ]
+  "ipa": "[lʲɪxˈko]"
  },
  {
   "id": "w_vstat",
@@ -9470,11 +8295,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_2606410",
-   "s_4640390",
-   "s_5555063"
   ]
  },
  {
@@ -9509,12 +8329,7 @@
    "ins_pl": "бо́лями",
    "prep_pl": "бо́лях"
   },
-  "ipa": "[bolʲ]",
-  "examples": [
-   "s_4746637",
-   "s_4956704",
-   "s_5527455"
-  ]
+  "ipa": "[bolʲ]"
  },
  {
   "id": "w_prostoy",
@@ -9566,12 +8381,7 @@
    "pl_ins": "просты́ми",
    "pl_prep": "просты́х"
   },
-  "ipa": "[prɐˈstoj]",
-  "examples": [
-   "s_5387296",
-   "s_5499038",
-   "s_5499152"
-  ]
+  "ipa": "[prɐˈstoj]"
  },
  {
   "id": "w_otvechat",
@@ -9609,11 +8419,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_2795628",
-   "s_2795629",
-   "s_5897134"
   ]
  },
  {
@@ -9654,11 +8459,6 @@
   ],
   "governs": [
    "+ins"
-  ],
-  "examples": [
-   "s_5082608",
-   "s_5651679",
-   "s_12994215"
   ]
  },
  {
@@ -9679,11 +8479,7 @@
   "forms": {
    "comp": "ясне́е, ясне́й"
   },
-  "ipa": "[ˈjasnə]",
-  "examples": [
-   "s_2035768",
-   "s_4081255"
-  ]
+  "ipa": "[ˈjasnə]"
  },
  {
   "id": "w_golos",
@@ -9715,12 +8511,7 @@
    "ins_pl": "голоса́ми",
    "prep_pl": "голоса́х"
   },
-  "ipa": "[ˈɡoɫəs]",
-  "examples": [
-   "s_2474721",
-   "s_3748934",
-   "s_4585637"
-  ]
+  "ipa": "[ˈɡoɫəs]"
  },
  {
   "id": "w_prezhde",
@@ -9741,11 +8532,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
-  "ipa": "[ˈprʲeʐdʲe]",
-  "examples": [
-   "s_5090835",
-   "s_5090836"
-  ]
+  "ipa": "[ˈprʲeʐdʲe]"
  },
  {
   "id": "w_znakomyy",
@@ -9792,12 +8579,7 @@
    "pl_ins": "знако́мыми",
    "pl_prep": "знако́мых"
   },
-  "ipa": "[znɐˈkomɨj]",
-  "examples": [
-   "s_435486",
-   "s_4138705",
-   "s_5683031"
-  ]
+  "ipa": "[znɐˈkomɨj]"
  },
  {
   "id": "w_nazvat",
@@ -9877,9 +8659,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_1513656"
   ]
  },
  {
@@ -9914,12 +8693,7 @@
    "ins_pl": "самолётами",
    "prep_pl": "самолётах"
   },
-  "ipa": "[səmɐˈlʲɵt]",
-  "examples": [
-   "s_5514805",
-   "s_5563692",
-   "s_5715115"
-  ]
+  "ipa": "[səmɐˈlʲɵt]"
  },
  {
   "id": "w_mysl",
@@ -9952,12 +8726,7 @@
    "ins_pl": "мы́слями",
    "prep_pl": "мы́слях"
   },
-  "ipa": "[ˈmɨs(ə)lʲ]",
-  "examples": [
-   "s_3700403",
-   "s_6217977",
-   "s_6363077"
-  ]
+  "ipa": "[ˈmɨs(ə)lʲ]"
  },
  {
   "id": "w_bolnoy",
@@ -10007,12 +8776,7 @@
    "pl_ins": "больны́ми",
    "pl_prep": "больны́х"
   },
-  "ipa": "[bɐlʲˈnoj]",
-  "examples": [
-   "s_790889",
-   "s_1109406",
-   "s_2723333"
-  ]
+  "ipa": "[bɐlʲˈnoj]"
  },
  {
   "id": "w_vyzvat",
@@ -10050,11 +8814,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2851415",
-   "s_5966815",
-   "s_5966816"
   ]
  },
  {
@@ -10067,12 +8826,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "casa"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -10092,12 +8849,7 @@
   "it": [
    "appartamento"
   ],
-  "ipa": "[kvɐrˈtʲirə]",
-  "examples": [
-   "s_824039",
-   "s_4067962",
-   "s_4729102"
-  ]
+  "ipa": "[kvɐrˈtʲirə]"
  },
  {
   "id": "w_tsel",
@@ -10131,10 +8883,7 @@
    "ins_pl": "це́лями",
    "prep_pl": "це́лях"
   },
-  "ipa": "[t͡sɛlʲ]",
-  "examples": [
-   "s_5905822"
-  ]
+  "ipa": "[t͡sɛlʲ]"
  },
  {
   "id": "w_gospodin",
@@ -10202,10 +8951,7 @@
    "ins_pl": "пола́ми",
    "prep_pl": "пола́х"
   },
-  "ipa": "[poɫ]",
-  "examples": [
-   "s_3588594"
-  ]
+  "ipa": "[poɫ]"
  },
  {
   "id": "w_tretiy",
@@ -10253,10 +8999,7 @@
   "it": [
    "terzo in una sequenza ordinata"
   ],
-  "ipa": "[ˈtrʲetʲɪj]",
-  "examples": [
-   "s_5976275"
-  ]
+  "ipa": "[ˈtrʲetʲɪj]"
  },
  {
   "id": "w_staratsya",
@@ -10292,11 +9035,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_4322116",
-   "s_5596193",
-   "s_5596194"
   ]
  },
  {
@@ -10336,11 +9074,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_4472925",
-   "s_5496874",
-   "s_6963023"
   ]
  },
  {
@@ -10367,12 +9100,7 @@
    "ins_sg": "бу́дущим",
    "prep_sg": "бу́дущем"
   },
-  "ipa": "[ˈbudʊɕːɪje]",
-  "examples": [
-   "s_2480402",
-   "s_3030906",
-   "s_5465886"
-  ]
+  "ipa": "[ˈbudʊɕːɪje]"
  },
  {
   "id": "w_rech",
@@ -10404,12 +9132,7 @@
    "ins_pl": "реча́ми",
    "prep_pl": "реча́х"
   },
-  "ipa": "[rʲet͡ɕ]",
-  "examples": [
-   "s_650602",
-   "s_669035",
-   "s_4224575"
-  ]
+  "ipa": "[rʲet͡ɕ]"
  },
  {
   "id": "w_gora",
@@ -10443,12 +9166,7 @@
    "ins_pl": "гора́ми",
    "prep_pl": "гора́х"
   },
-  "ipa": "[ɡɐˈra]",
-  "examples": [
-   "s_468201",
-   "s_2034393",
-   "s_5384716"
-  ]
+  "ipa": "[ɡɐˈra]"
  },
  {
   "id": "w_chut",
@@ -10466,11 +9184,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[t͡ɕʉtʲ]",
-  "examples": [
-   "s_5585006",
-   "s_5661402"
-  ]
+  "ipa": "[t͡ɕʉtʲ]"
  },
  {
   "id": "w_sostoyanie",
@@ -10505,12 +9219,7 @@
    "ins_pl": "состоя́ниями",
    "prep_pl": "состоя́ниях"
   },
-  "ipa": "[səstɐˈjænʲɪje]",
-  "examples": [
-   "s_3003072",
-   "s_3015136",
-   "s_4447121"
-  ]
+  "ipa": "[səstɐˈjænʲɪje]"
  },
  {
   "id": "w_nachatsya",
@@ -10546,11 +9255,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_5505457",
-   "s_5509305",
-   "s_5575711"
   ]
  },
  {
@@ -10625,12 +9329,7 @@
    "ins_pl": "огня́ми",
    "prep_pl": "огня́х"
   },
-  "ipa": "[ɐˈɡonʲ]",
-  "examples": [
-   "s_3576264",
-   "s_5967863",
-   "s_6136305"
-  ]
+  "ipa": "[ɐˈɡonʲ]"
  },
  {
   "id": "w_prezident",
@@ -10679,10 +9378,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈokəɫə]",
-  "examples": [
-   "s_5574574"
-  ]
+  "ipa": "[ˈokəɫə]"
  },
  {
   "id": "w_dyadya",
@@ -10713,12 +9409,7 @@
    "ins_pl": "дядья́ми",
    "prep_pl": "дядья́х"
   },
-  "ipa": "[ˈdʲædʲə]",
-  "examples": [
-   "s_3803856",
-   "s_4400257",
-   "s_4593327"
-  ]
+  "ipa": "[ˈdʲædʲə]"
  },
  {
   "id": "w_nebo",
@@ -10755,12 +9446,7 @@
   "it": [
    "cielo"
   ],
-  "ipa": "[ˈnʲebə]",
-  "examples": [
-   "s_498741",
-   "s_795149",
-   "s_3585917"
-  ]
+  "ipa": "[ˈnʲebə]"
  },
  {
   "id": "w_sushchestvovat",
@@ -10797,11 +9483,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_5499152",
-   "s_5624084",
-   "s_6604194"
   ]
  },
  {
@@ -10835,11 +9516,7 @@
    "ins_pl": "гру́ппами",
    "prep_pl": "гру́ппах"
   },
-  "ipa": "[ˈɡrup(ː)ə]",
-  "examples": [
-   "s_7954812",
-   "s_10771080"
-  ]
+  "ipa": "[ˈɡrup(ː)ə]"
  },
  {
   "id": "w_oruzhie",
@@ -10907,10 +9584,7 @@
    "ins_pl": "ме́рами",
    "prep_pl": "ме́рах"
   },
-  "ipa": "[ˈmʲerə]",
-  "examples": [
-   "s_2619065"
-  ]
+  "ipa": "[ˈmʲerə]"
  },
  {
   "id": "w_podoyti",
@@ -10951,11 +9625,6 @@
   ],
   "governs": [
    "+dat"
-  ],
-  "examples": [
-   "s_5690843",
-   "s_5794100",
-   "s_5794101"
   ]
  },
  {
@@ -10991,10 +9660,7 @@
    "ins_pl": "па́льцами",
    "prep_pl": "па́льцах"
   },
-  "ipa": "[ˈpalʲɪt͡s]",
-  "examples": [
-   "s_6586377"
-  ]
+  "ipa": "[ˈpalʲɪt͡s]"
  },
  {
   "id": "w_otkrytyy",
@@ -11047,12 +9713,7 @@
   "it": [
    "aperto"
   ],
-  "ipa": "[ɐtˈkrɨtɨj]",
-  "examples": [
-   "s_2478272",
-   "s_3059032",
-   "s_3059033"
-  ]
+  "ipa": "[ɐtˈkrɨtɨj]"
  },
  {
   "id": "w_zakon",
@@ -11117,12 +9778,7 @@
    "ins_pl": "разгово́рами",
    "prep_pl": "разгово́рах"
   },
-  "ipa": "[rəzɡɐˈvor]",
-  "examples": [
-   "s_5642911",
-   "s_5642914",
-   "s_5668709"
-  ]
+  "ipa": "[rəzɡɐˈvor]"
  },
  {
   "id": "w_vokrug",
@@ -11138,11 +9794,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[vɐˈkruk]",
-  "examples": [
-   "s_2732233",
-   "s_5559253"
-  ]
+  "ipa": "[vɐˈkruk]"
  },
  {
   "id": "w_obshchiy",
@@ -11191,12 +9843,7 @@
    "pl_prep": "о́бщих",
    "comp": "обще́е, обще́й"
   },
-  "ipa": "[ˈopɕːɪj]",
-  "examples": [
-   "s_5972947",
-   "s_10754844",
-   "s_11111262"
-  ]
+  "ipa": "[ˈopɕːɪj]"
  },
  {
   "id": "w_lezhat",
@@ -11234,11 +9881,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_498741",
-   "s_5431906",
-   "s_5527513"
   ]
  },
  {
@@ -11287,12 +9929,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈtaɡʐɨ]",
-  "examples": [
-   "s_3928738",
-   "s_4128373",
-   "s_5461702"
-  ]
+  "ipa": "[ˈtaɡʐɨ]"
  },
  {
   "id": "w_predlozhit",
@@ -11329,11 +9966,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_5476129",
-   "s_5508504",
-   "s_6007579"
   ]
  },
  {
@@ -11395,12 +10027,7 @@
    "ins_pl": "результа́тами",
    "prep_pl": "результа́тах"
   },
-  "ipa": "[rʲɪzʊlʲˈtat]",
-  "examples": [
-   "s_6024478",
-   "s_7528517",
-   "s_10871766"
-  ]
+  "ipa": "[rʲɪzʊlʲˈtat]"
  },
  {
   "id": "w_poyavitsya",
@@ -11438,11 +10065,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_5561523",
-   "s_6329101",
-   "s_6828028"
   ]
  },
  {
@@ -11492,12 +10114,7 @@
    "pl_ins": "гла́вными",
    "pl_prep": "гла́вных"
   },
-  "ipa": "[ˈɡɫavnɨj]",
-  "examples": [
-   "s_5657958",
-   "s_6684977",
-   "s_7528517"
-  ]
+  "ipa": "[ˈɡɫavnɨj]"
  },
  {
   "id": "w_dusha",
@@ -11510,12 +10127,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "persone"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -11532,12 +10147,7 @@
    "ins_pl": "ду́шами",
    "prep_pl": "ду́шах"
   },
-  "ipa": "[dʊˈʂa]",
-  "examples": [
-   "s_2005476",
-   "s_2560677",
-   "s_5057052"
-  ]
+  "ipa": "[dʊˈʂa]"
  },
  {
   "id": "w_udatsya",
@@ -11617,12 +10227,7 @@
    "pl_ins": "вся́кими",
    "pl_prep": "вся́ких"
   },
-  "ipa": "[ˈfsʲækʲɪj]",
-  "examples": [
-   "s_4171795",
-   "s_5930252",
-   "s_6001476"
-  ]
+  "ipa": "[ˈfsʲækʲɪj]"
  },
  {
   "id": "w_narod",
@@ -11659,12 +10264,7 @@
   "it": [
    "popolo"
   ],
-  "ipa": "[nɐˈrot]",
-  "examples": [
-   "s_3801858",
-   "s_5573854",
-   "s_5573855"
-  ]
+  "ipa": "[nɐˈrot]"
  },
  {
   "id": "w_gost",
@@ -11697,12 +10297,7 @@
    "ins_pl": "гостя́ми",
    "prep_pl": "гостя́х"
   },
-  "ipa": "[ɡosʲtʲ]",
-  "examples": [
-   "s_3874693",
-   "s_5670491",
-   "s_5670492"
-  ]
+  "ipa": "[ɡosʲtʲ]"
  },
  {
   "id": "w_soobshchit",
@@ -11738,11 +10333,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_3393369",
-   "s_5590183",
-   "s_6798961"
   ]
  },
  {
@@ -11781,11 +10371,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2430068",
-   "s_2501529",
-   "s_4440291"
   ]
  },
  {
@@ -11824,11 +10409,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_4578716",
-   "s_5515940",
-   "s_5677148"
   ]
  },
  {
@@ -11877,12 +10457,7 @@
    "pl_prep": "огро́мных",
    "comp": "огро́мнее, огро́мней"
   },
-  "ipa": "[ɐˈɡromnɨj]",
-  "examples": [
-   "s_3228633",
-   "s_4447121",
-   "s_5537790"
-  ]
+  "ipa": "[ɐˈɡromnɨj]"
  },
  {
   "id": "w_nakonets",
@@ -11899,12 +10474,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[nəkɐˈnʲet͡s]",
-  "examples": [
-   "s_4019402",
-   "s_4996403",
-   "s_6327294"
-  ]
+  "ipa": "[nəkɐˈnʲet͡s]"
  },
  {
   "id": "w_vspomnit",
@@ -11940,11 +10510,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_2813996",
-   "s_5501744",
-   "s_6588439"
   ]
  },
  {
@@ -11958,18 +10523,11 @@
   ],
   "pos": "adv",
   "level": "a2",
-  "topics": [
-   "numeri"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
-  "ipa": "[ɐdˈnaʐdɨ]",
-  "examples": [
-   "s_5387656",
-   "s_6835012",
-   "s_6973005"
-  ]
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "ipa": "[ɐdˈnaʐdɨ]"
  },
  {
   "id": "w_gazeta",
@@ -12004,12 +10562,7 @@
   "it": [
    "giornale"
   ],
-  "ipa": "[ɡɐˈzʲetə]",
-  "examples": [
-   "s_1354600",
-   "s_3578041",
-   "s_5594812"
-  ]
+  "ipa": "[ɡɐˈzʲetə]"
  },
  {
   "id": "w_vrode",
@@ -12026,11 +10579,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈvrodʲe]",
-  "examples": [
-   "s_5875080",
-   "s_11507830"
-  ]
+  "ipa": "[ˈvrodʲe]"
  },
  {
   "id": "w_svyaz",
@@ -12065,12 +10614,7 @@
    "ins_pl": "свя́зями",
    "prep_pl": "свя́зях"
   },
-  "ipa": "[svʲæsʲ]",
-  "examples": [
-   "s_5861707",
-   "s_6031474",
-   "s_6985597"
-  ]
+  "ipa": "[svʲæsʲ]"
  },
  {
   "id": "w_sistema",
@@ -12152,10 +10696,7 @@
    "pl_ins": "вели́кими",
    "pl_prep": "вели́ких"
   },
-  "ipa": "[vʲɪˈlʲikʲɪj]",
-  "examples": [
-   "s_5387706"
-  ]
+  "ipa": "[vʲɪˈlʲikʲɪj]"
  },
  {
   "id": "w_kapitan",
@@ -12224,11 +10765,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_400315",
-   "s_1618244",
-   "s_2233092"
   ]
  },
  {
@@ -12243,18 +10779,11 @@
   ],
   "pos": "adv",
   "level": "a2",
-  "topics": [
-   "direzioni"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
-  "ipa": "[f⁽ʲ⁾pʲɪˈrʲɵt]",
-  "examples": [
-   "s_1576482",
-   "s_5628276",
-   "s_5635295"
-  ]
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "ipa": "[f⁽ʲ⁾pʲɪˈrʲɵt]"
  },
  {
   "id": "w_les",
@@ -12335,12 +10864,7 @@
    "pl_ins": "небольши́ми",
    "pl_prep": "небольши́х"
   },
-  "ipa": "[nʲɪbɐlʲˈʂoj]",
-  "examples": [
-   "s_5621056",
-   "s_6449254",
-   "s_7553925"
-  ]
+  "ipa": "[nʲɪbɐlʲˈʂoj]"
  },
  {
   "id": "w_inache",
@@ -12357,12 +10881,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ɪˈnat͡ɕe]",
-  "examples": [
-   "s_1800244",
-   "s_4268002",
-   "s_4268006"
-  ]
+  "ipa": "[ɪˈnat͡ɕe]"
  },
  {
   "id": "w_starshiy",
@@ -12406,12 +10925,7 @@
    "comp": "ста́рше",
    "sup": "са́мый ста́рший"
   },
-  "ipa": "[ˈstarʂɨj]",
-  "examples": [
-   "s_2519411",
-   "s_5513892",
-   "s_5670332"
-  ]
+  "ipa": "[ˈstarʂɨj]"
  },
  {
   "id": "w_more",
@@ -12423,12 +10937,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "natura"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -12448,12 +10960,7 @@
   "it": [
    "mare"
   ],
-  "ipa": "[ˈmorʲe]",
-  "examples": [
-   "s_2809302",
-   "s_5591772",
-   "s_6329101"
-  ]
+  "ipa": "[ˈmorʲe]"
  },
  {
   "id": "w_podobnyy",
@@ -12500,12 +11007,7 @@
    "pl_ins": "подо́бными",
    "pl_prep": "подо́бных"
   },
-  "ipa": "[pɐˈdobnɨj]",
-  "examples": [
-   "s_3035338",
-   "s_3035340",
-   "s_6366930"
-  ]
+  "ipa": "[pɐˈdobnɨj]"
  },
  {
   "id": "w_reka",
@@ -12542,12 +11044,7 @@
   "it": [
    "fiume"
   ],
-  "ipa": "[rʲɪˈka]",
-  "examples": [
-   "s_1559898",
-   "s_2809302",
-   "s_3496094"
-  ]
+  "ipa": "[rʲɪˈka]"
  },
  {
   "id": "w_izvestnyy",
@@ -12597,12 +11094,7 @@
    "comp": "изве́стнее, изве́стней",
    "sup": "изве́стнейший"
   },
-  "ipa": "[ɪzˈvʲesnɨj]",
-  "examples": [
-   "s_5927529",
-   "s_5927530",
-   "s_6712641"
-  ]
+  "ipa": "[ɪzˈvʲesnɨj]"
  },
  {
   "id": "w_schaste",
@@ -12634,12 +11126,7 @@
    "ins_pl": "сча́стьями",
    "prep_pl": "сча́стьях"
   },
-  "ipa": "[ˈɕːæsʲtʲje]",
-  "examples": [
-   "s_550011",
-   "s_4304608",
-   "s_5384461"
-  ]
+  "ipa": "[ˈɕːæsʲtʲje]"
  },
  {
   "id": "w_obraz",
@@ -12673,10 +11160,7 @@
    "ins_pl": "о́бразами",
    "prep_pl": "о́бразах"
   },
-  "ipa": "[ˈobrəs]",
-  "examples": [
-   "s_5587992"
-  ]
+  "ipa": "[ˈobrəs]"
  },
  {
   "id": "w_lyogkiy",
@@ -12727,12 +11211,7 @@
    "pl_ins": "лёгкими",
    "pl_prep": "лёгких"
   },
-  "ipa": "[ˈlʲɵxʲkʲɪj]",
-  "examples": [
-   "s_2592064",
-   "s_4185577",
-   "s_5861963"
-  ]
+  "ipa": "[ˈlʲɵxʲkʲɪj]"
  },
  {
   "id": "w_tyazhyolyy",
@@ -12785,12 +11264,7 @@
   "it": [
    "pesante"
   ],
-  "ipa": "[tʲɪˈʐoɫɨj]",
-  "examples": [
-   "s_1464801",
-   "s_2291298",
-   "s_4375162"
-  ]
+  "ipa": "[tʲɪˈʐoɫɨj]"
  },
  {
   "id": "w_podnyat",
@@ -12828,11 +11302,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_3122153",
-   "s_4019402",
-   "s_5609906"
   ]
  },
  {
@@ -12880,12 +11349,7 @@
    "pl_prep": "ра́зных",
    "comp": "ра́знее, ра́зней"
   },
-  "ipa": "[ˈraznɨj]",
-  "examples": [
-   "s_5483918",
-   "s_6765663",
-   "s_12373299"
-  ]
+  "ipa": "[ˈraznɨj]"
  },
  {
   "id": "w_tsentr",
@@ -12899,12 +11363,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "tecnologia"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -12921,12 +11383,7 @@
    "ins_pl": "це́нтрами",
    "prep_pl": "це́нтрах"
   },
-  "ipa": "[t͡sɛntr]",
-  "examples": [
-   "s_5497634",
-   "s_5497635",
-   "s_5705722"
-  ]
+  "ipa": "[t͡sɛntr]"
  },
  {
   "id": "w_zub",
@@ -12939,9 +11396,7 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "corpo"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
@@ -12980,12 +11435,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "abbigliamento"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -13002,12 +11455,7 @@
    "ins_pl": "фо́рмами",
    "prep_pl": "фо́рмах"
   },
-  "ipa": "[ˈformə]",
-  "examples": [
-   "s_3740727",
-   "s_5476158",
-   "s_5642035"
-  ]
+  "ipa": "[ˈformə]"
  },
  {
   "id": "w_uspet",
@@ -13020,12 +11468,10 @@
   ],
   "pos": "verb",
   "level": "a2",
-  "topics": [
-   "tempo"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "forms": {
    "aspect": "perfective",
    "aspect_partner": "успевать",
@@ -13046,11 +11492,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_3119251",
-   "s_6055368",
-   "s_6893146"
   ]
  },
  {
@@ -13099,12 +11540,7 @@
    "pl_ins": "коро́ткими",
    "pl_prep": "коро́тких"
   },
-  "ipa": "[kɐˈrotkʲɪj]",
-  "examples": [
-   "s_952886",
-   "s_1494819",
-   "s_3708836"
-  ]
+  "ipa": "[kɐˈrotkʲɪj]"
  },
  {
   "id": "w_ochered",
@@ -13139,12 +11575,7 @@
    "ins_pl": "очередя́ми",
    "prep_pl": "очередя́х"
   },
-  "ipa": "[ˈot͡ɕɪrʲɪtʲ]",
-  "examples": [
-   "s_899450",
-   "s_3339030",
-   "s_5649046"
-  ]
+  "ipa": "[ˈot͡ɕɪrʲɪtʲ]"
  },
  {
   "id": "w_bumaga",
@@ -13177,12 +11608,7 @@
    "ins_pl": "бума́гами",
    "prep_pl": "бума́гах"
   },
-  "ipa": "[bʊˈmaɡə]",
-  "examples": [
-   "s_610320",
-   "s_5551836",
-   "s_5967863"
-  ]
+  "ipa": "[bʊˈmaɡə]"
  },
  {
   "id": "w_pustoy",
@@ -13229,12 +11655,7 @@
    "pl_prep": "пусты́х",
    "comp": "пусте́е, пусте́й"
   },
-  "ipa": "[pʊˈstoj]",
-  "examples": [
-   "s_505529",
-   "s_3739498",
-   "s_5651726"
-  ]
+  "ipa": "[pʊˈstoj]"
  },
  {
   "id": "w_kstati",
@@ -13283,9 +11704,6 @@
   "ipa": "[ˈvozdʊx]",
   "grammar_tags": [
    "uncountable"
-  ],
-  "examples": [
-   "s_645699"
   ]
  },
  {
@@ -13340,11 +11758,6 @@
   "ipa": "[ˈblʲiskʲɪj]",
   "governs": [
    "+dat"
-  ],
-  "examples": [
-   "s_4357143",
-   "s_5676659",
-   "s_5676669"
   ]
  },
  {
@@ -13380,12 +11793,7 @@
    "ins_pl": "карти́нами",
    "prep_pl": "карти́нах"
   },
-  "ipa": "[kɐrˈtʲinə]",
-  "examples": [
-   "s_4138705",
-   "s_4687284",
-   "s_5548111"
-  ]
+  "ipa": "[kɐrˈtʲinə]"
  },
  {
   "id": "w_chlen",
@@ -13400,8 +11808,7 @@
   "pos": "noun",
   "level": "a2",
   "topics": [
-   "corpo",
-   "persone"
+   "corpo"
   ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
@@ -13470,12 +11877,7 @@
    "pl_ins": "дли́нными",
    "pl_prep": "дли́нных"
   },
-  "ipa": "[ˈdlʲinːɨj]",
-  "examples": [
-   "s_536906",
-   "s_3339030",
-   "s_3496094"
-  ]
+  "ipa": "[ˈdlʲinːɨj]"
  },
  {
   "id": "w_lichnyy",
@@ -13522,12 +11924,7 @@
    "pl_ins": "ли́чными",
    "pl_prep": "ли́чных"
   },
-  "ipa": "[ˈlʲit͡ɕnɨj]",
-  "examples": [
-   "s_2813943",
-   "s_3034925",
-   "s_3700403"
-  ]
+  "ipa": "[ˈlʲit͡ɕnɨj]"
  },
  {
   "id": "w_prokhodit",
@@ -13569,11 +11966,6 @@
   "grammar_tags": [
    "intransitive",
    "transitive"
-  ],
-  "examples": [
-   "s_5401052",
-   "s_5885580",
-   "s_11863647"
   ]
  },
  {
@@ -13611,10 +12003,7 @@
   "it": [
    "orecchio"
   ],
-  "ipa": "[ˈuxə]",
-  "examples": [
-   "s_4492816"
-  ]
+  "ipa": "[ˈuxə]"
  },
  {
   "id": "w_chistyy",
@@ -13665,12 +12054,7 @@
    "pl_prep": "чи́стых",
    "comp": "чи́ще, чисте́йший"
   },
-  "ipa": "[ˈt͡ɕistɨj]",
-  "examples": [
-   "s_1051789",
-   "s_3291139",
-   "s_3291140"
-  ]
+  "ipa": "[ˈt͡ɕistɨj]"
  },
  {
   "id": "w_nos",
@@ -13683,13 +12067,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "corpo",
-   "natura"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -13735,12 +12116,7 @@
    "pl_ins": "двои́ми",
    "pl_prep": "двои́х"
   },
-  "ipa": "[ˈdvoje]",
-  "examples": [
-   "s_3291356",
-   "s_5493898",
-   "s_5672636"
-  ]
+  "ipa": "[ˈdvoje]"
  },
  {
   "id": "w_krichat",
@@ -13778,11 +12154,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_1737851",
-   "s_2474721",
-   "s_2501605"
   ]
  },
  {
@@ -13817,12 +12188,7 @@
    "ins_pl": "спи́нами",
    "prep_pl": "спи́нах"
   },
-  "ipa": "[spʲɪˈna]",
-  "examples": [
-   "s_498741",
-   "s_4585637",
-   "s_5527513"
-  ]
+  "ipa": "[spʲɪˈna]"
  },
  {
   "id": "w_kamen",
@@ -13835,13 +12201,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "salute",
-   "tecnologia"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -13858,12 +12221,7 @@
    "ins_pl": "камня́ми",
    "prep_pl": "камня́х"
   },
-  "ipa": "[ˈkamʲɪnʲ]",
-  "examples": [
-   "s_412085",
-   "s_3470212",
-   "s_5665432"
-  ]
+  "ipa": "[ˈkamʲɪnʲ]"
  },
  {
   "id": "w_pochuvstvovat",
@@ -13899,11 +12257,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_790889",
-   "s_4956704",
-   "s_5670518"
   ]
  },
  {
@@ -13966,10 +12319,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "examples": [
-   "s_6909699"
-  ]
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
  },
  {
   "id": "w_vdrug",
@@ -13985,12 +12335,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[vdruk]",
-  "examples": [
-   "s_893523",
-   "s_5462519",
-   "s_5555063"
-  ]
+  "ipa": "[vdruk]"
  },
  {
   "id": "w_vmesto",
@@ -14006,10 +12351,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈvmʲestə]",
-  "examples": [
-   "s_5033973"
-  ]
+  "ipa": "[ˈvmʲestə]"
  },
  {
   "id": "w_starik",
@@ -14023,7 +12365,6 @@
   "pos": "noun",
   "level": "a2",
   "topics": [
-   "famiglia",
    "persone"
   ],
   "source": "openrussian",
@@ -14045,12 +12386,7 @@
    "ins_pl": "старика́ми",
    "prep_pl": "старика́х"
   },
-  "ipa": "[stɐˈrʲik]",
-  "examples": [
-   "s_2236479",
-   "s_5590519",
-   "s_6872194"
-  ]
+  "ipa": "[stɐˈrʲik]"
  },
  {
   "id": "w_shag",
@@ -14085,12 +12421,7 @@
    "prep_pl": "шага́х"
   },
   "gender": "m",
-  "ipa": "[ʂak]",
-  "examples": [
-   "s_5573974",
-   "s_5867308",
-   "s_5905822"
-  ]
+  "ipa": "[ʂak]"
  },
  {
   "id": "w_vzglyad",
@@ -14124,12 +12455,7 @@
    "ins_pl": "взгля́дами",
    "prep_pl": "взгля́дах"
   },
-  "ipa": "[vzɡlʲat]",
-  "examples": [
-   "s_5485183",
-   "s_5485190",
-   "s_6327299"
-  ]
+  "ipa": "[vzɡlʲat]"
  },
  {
   "id": "w_soldat",
@@ -14180,11 +12506,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[srʲɪˈdʲi]",
-  "examples": [
-   "s_5670332",
-   "s_6227025"
-  ]
+  "ipa": "[srʲɪˈdʲi]"
  },
  {
   "id": "w_butylka",
@@ -14218,12 +12540,7 @@
    "ins_pl": "буты́лками",
    "prep_pl": "буты́лках"
   },
-  "ipa": "[bʊˈtɨɫkə]",
-  "examples": [
-   "s_3572710",
-   "s_5564518",
-   "s_5672821"
-  ]
+  "ipa": "[bʊˈtɨɫkə]"
  },
  {
   "id": "w_nachalnik",
@@ -14257,12 +12574,7 @@
    "ins_pl": "нача́льниками",
    "prep_pl": "нача́льниках"
   },
-  "ipa": "[nɐˈt͡ɕælʲnʲɪk]",
-  "examples": [
-   "s_2525851",
-   "s_3258211",
-   "s_5657956"
-  ]
+  "ipa": "[nɐˈt͡ɕælʲnʲɪk]"
  },
  {
   "id": "w_obychnyy",
@@ -14310,12 +12622,7 @@
    "pl_prep": "обы́чных",
    "comp": "обы́чнее, обы́чней"
   },
-  "ipa": "[ɐˈbɨt͡ɕnɨj]",
-  "examples": [
-   "s_468917",
-   "s_5661402",
-   "s_5677163"
-  ]
+  "ipa": "[ɐˈbɨt͡ɕnɨj]"
  },
  {
   "id": "w_khleb",
@@ -14354,12 +12661,7 @@
   "it": [
    "pane"
   ],
-  "ipa": "[xlʲep]",
-  "examples": [
-   "s_424959",
-   "s_1414307",
-   "s_2783172"
-  ]
+  "ipa": "[xlʲep]"
  },
  {
   "id": "w_dokument",
@@ -14391,12 +12693,7 @@
    "ins_pl": "докуме́нтами",
    "prep_pl": "докуме́нтах"
   },
-  "ipa": "[dəkʊˈmʲent]",
-  "examples": [
-   "s_5551837",
-   "s_5761743",
-   "s_7551909"
-  ]
+  "ipa": "[dəkʊˈmʲent]"
  },
  {
   "id": "w_veter",
@@ -14425,11 +12722,6 @@
   "ipa": "[ˈvʲetʲɪr]",
   "grammar_tags": [
    "plural_only"
-  ],
-  "examples": [
-   "s_468362",
-   "s_4408394",
-   "s_10251499"
   ]
  },
  {
@@ -14466,10 +12758,7 @@
    "ins_pl": "па́мятями",
    "prep_pl": "па́мятях"
   },
-  "ipa": "[ˈpamʲɪtʲ]",
-  "examples": [
-   "s_2140010"
-  ]
+  "ipa": "[ˈpamʲɪtʲ]"
  },
  {
   "id": "w_osobenno",
@@ -14519,10 +12808,7 @@
    "ins_pl": "ка́чествами",
    "prep_pl": "ка́чествах"
   },
-  "ipa": "[ˈkat͡ɕɪstvə]",
-  "examples": [
-   "s_10885943"
-  ]
+  "ipa": "[ˈkat͡ɕɪstvə]"
  },
  {
   "id": "w_zatem",
@@ -14577,12 +12863,7 @@
    "ins_pl": "ду́хами",
    "prep_pl": "ду́хах"
   },
-  "ipa": "[ˈdux]",
-  "examples": [
-   "s_438882",
-   "s_2475508",
-   "s_6905825"
-  ]
+  "ipa": "[ˈdux]"
  },
  {
   "id": "w_dvadtsat",
@@ -14603,12 +12884,7 @@
   "it": [
    "venti"
   ],
-  "ipa": "[ˈdvat͡s(ː)ɨtʲ]",
-  "examples": [
-   "s_3575213",
-   "s_5605022",
-   "s_6686906"
-  ]
+  "ipa": "[ˈdvat͡s(ː)ɨtʲ]"
  },
  {
   "id": "w_edva",
@@ -14624,12 +12900,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[(j)ɪdˈva]",
-  "examples": [
-   "s_2710989",
-   "s_3778624",
-   "s_4830488"
-  ]
+  "ipa": "[(j)ɪdˈva]"
  },
  {
   "id": "w_strakh",
@@ -14664,12 +12935,7 @@
    "ins_pl": "стра́хами",
    "prep_pl": "стра́хах"
   },
-  "ipa": "[strax]",
-  "examples": [
-   "s_2056369",
-   "s_3569985",
-   "s_10837039"
-  ]
+  "ipa": "[strax]"
  },
  {
   "id": "w_rodnoy",
@@ -14717,10 +12983,7 @@
    "pl_ins": "родны́ми",
    "pl_prep": "родны́х"
   },
-  "ipa": "[rɐdˈnoj]",
-  "examples": [
-   "s_3270363"
-  ]
+  "ipa": "[rɐdˈnoj]"
  },
  {
   "id": "w_chislo",
@@ -14734,13 +12997,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "numeri",
-   "tempo"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -14757,12 +13017,7 @@
    "ins_pl": "чи́слами",
    "prep_pl": "чи́слах"
   },
-  "ipa": "[t͡ɕɪsˈɫo]",
-  "examples": [
-   "s_469136",
-   "s_5579648",
-   "s_7453608"
-  ]
+  "ipa": "[t͡ɕɪsˈɫo]"
  },
  {
   "id": "w_karman",
@@ -14775,9 +13030,7 @@
   "pos": "noun",
   "level": "a2",
   "topics": [
-   "abbigliamento",
-   "tecnologia",
-   "trasporti"
+   "abbigliamento"
   ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
@@ -14798,10 +13051,7 @@
    "ins_pl": "карма́нами",
    "prep_pl": "карма́нах"
   },
-  "ipa": "[kɐrˈman]",
-  "examples": [
-   "s_3377049"
-  ]
+  "ipa": "[kɐrˈman]"
  },
  {
   "id": "w_vpolne",
@@ -14818,12 +13068,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[fpɐɫˈnʲe]",
-  "examples": [
-   "s_2931490",
-   "s_4258931",
-   "s_5461582"
-  ]
+  "ipa": "[fpɐɫˈnʲe]"
  },
  {
   "id": "w_zelyonyy",
@@ -14878,12 +13123,7 @@
   "it": [
    "verde"
   ],
-  "ipa": "[zʲɪˈlʲɵnɨj]",
-  "examples": [
-   "s_448078",
-   "s_3522383",
-   "s_5891187"
-  ]
+  "ipa": "[zʲɪˈlʲɵnɨj]"
  },
  {
   "id": "w_sudba",
@@ -14915,12 +13155,7 @@
    "ins_pl": "су́дьбами",
    "prep_pl": "су́дьбах"
   },
-  "ipa": "[sʊdʲˈba]",
-  "examples": [
-   "s_3624507",
-   "s_5115410",
-   "s_5513583"
-  ]
+  "ipa": "[sʊdʲˈba]"
  },
  {
   "id": "w_byvshiy",
@@ -14963,11 +13198,7 @@
    "pl_ins": "бы́вшими",
    "pl_prep": "бы́вших"
   },
-  "ipa": "[ˈbɨfʂɨj]",
-  "examples": [
-   "s_5501160",
-   "s_5696152"
-  ]
+  "ipa": "[ˈbɨfʂɨj]"
  },
  {
   "id": "w_russkiy",
@@ -15009,12 +13240,7 @@
    "pl_ins": "ру́сскими",
    "pl_prep": "ру́сских"
   },
-  "ipa": "[ˈrus(ː)kʲɪj]",
-  "examples": [
-   "s_2714609",
-   "s_5672551",
-   "s_5781695"
-  ]
+  "ipa": "[ˈrus(ː)kʲɪj]"
  },
  {
   "id": "w_nikak",
@@ -15030,11 +13256,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[nʲɪˈkak]",
-  "examples": [
-   "s_4224575",
-   "s_4268006"
-  ]
+  "ipa": "[nʲɪˈkak]"
  },
  {
   "id": "w_prikhoditsya",
@@ -15076,10 +13298,6 @@
   ],
   "governs": [
    "+dat"
-  ],
-  "examples": [
-   "s_5651755",
-   "s_5677457"
   ]
  },
  {
@@ -15097,10 +13315,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈvʲidnə]",
-  "examples": [
-   "s_10185064"
-  ]
+  "ipa": "[ˈvʲidnə]"
  },
  {
   "id": "w_geroy",
@@ -15132,12 +13347,7 @@
    "ins_pl": "геро́ями",
    "prep_pl": "геро́ях"
   },
-  "ipa": "[ɡʲɪˈroj]",
-  "examples": [
-   "s_3305184",
-   "s_5658495",
-   "s_5678280"
-  ]
+  "ipa": "[ɡʲɪˈroj]"
  },
  {
   "id": "w_spokoyno",
@@ -15157,12 +13367,7 @@
   "forms": {
    "comp": "споко́йнее, споко́йней"
   },
-  "ipa": "[spɐˈkojnə]",
-  "examples": [
-   "s_5495544",
-   "s_5512687",
-   "s_6901343"
-  ]
+  "ipa": "[spɐˈkojnə]"
  },
  {
   "id": "w_polozhenie",
@@ -15178,12 +13383,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "tempo-libero"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -15200,10 +13403,7 @@
    "ins_pl": "положе́ниями",
    "prep_pl": "положе́ниях"
   },
-  "ipa": "[pəɫɐˈʐɛnʲɪje]",
-  "examples": [
-   "s_5783853"
-  ]
+  "ipa": "[pəɫɐˈʐɛnʲɪje]"
  },
  {
   "id": "w_prislat",
@@ -15239,11 +13439,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_658418",
-   "s_5775562",
-   "s_6001489"
   ]
  },
  {
@@ -15302,10 +13497,7 @@
   "it": [
    "cento"
   ],
-  "ipa": "[sto]",
-  "examples": [
-   "s_446126"
-  ]
+  "ipa": "[sto]"
  },
  {
   "id": "w_deystvie",
@@ -15321,12 +13513,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "tempo-libero"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -15343,11 +13533,7 @@
    "ins_pl": "де́йствиями",
    "prep_pl": "де́йствиях"
   },
-  "ipa": "[ˈdʲejstvʲɪje]",
-  "examples": [
-   "s_659934",
-   "s_5569676"
-  ]
+  "ipa": "[ˈdʲejstvʲɪje]"
  },
  {
   "id": "w_libo",
@@ -15439,10 +13625,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_5605363",
-   "s_5668144"
   ]
  },
  {
@@ -15482,11 +13664,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_3065344",
-   "s_4311734",
-   "s_5569676"
   ]
  },
  {
@@ -15533,11 +13710,7 @@
    "pl_ins": "ме́стными",
    "pl_prep": "ме́стных"
   },
-  "ipa": "[ˈmʲesnɨj]",
-  "examples": [
-   "s_2984436",
-   "s_5545897"
-  ]
+  "ipa": "[ˈmʲesnɨj]"
  },
  {
   "id": "w_pokazatsya",
@@ -15575,11 +13748,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_3801849",
-   "s_3801851",
-   "s_3801852"
   ]
  },
  {
@@ -15631,12 +13799,7 @@
   "it": [
    "scuro"
   ],
-  "ipa": "[ˈtʲɵmnɨj]",
-  "examples": [
-   "s_2517924",
-   "s_2577623",
-   "s_2734898"
-  ]
+  "ipa": "[ˈtʲɵmnɨj]"
  },
  {
   "id": "w_slovno",
@@ -15654,10 +13817,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈsɫovnə]",
-  "examples": [
-   "s_3289473"
-  ]
+  "ipa": "[ˈsɫovnə]"
  },
  {
   "id": "w_strashnyy",
@@ -15712,11 +13872,6 @@
   "ipa": "[ˈstraʂnɨj]",
   "governs": [
    "+ins"
-  ],
-  "examples": [
-   "s_5826055",
-   "s_6602620",
-   "s_7646360"
   ]
  },
  {
@@ -15750,11 +13905,7 @@
    "ins_pl": "угла́ми",
    "prep_pl": "угла́х"
   },
-  "ipa": "[ˈuɡəɫ]",
-  "examples": [
-   "s_6850035",
-   "s_10798362"
-  ]
+  "ipa": "[ˈuɡəɫ]"
  },
  {
   "id": "w_osnovnoy",
@@ -15833,11 +13984,6 @@
   "ipa": "[trut]",
   "grammar_tags": [
    "uncountable"
-  ],
-  "examples": [
-   "s_3056476",
-   "s_6850333",
-   "s_6905409"
   ]
  },
  {
@@ -15853,12 +13999,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "salute"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -15875,10 +14019,7 @@
    "ins_pl": "уда́рами",
    "prep_pl": "уда́рах"
   },
-  "ipa": "[ʊˈdar]",
-  "examples": [
-   "s_5638006"
-  ]
+  "ipa": "[ʊˈdar]"
  },
  {
   "id": "w_chelovecheskiy",
@@ -15921,10 +14062,7 @@
    "pl_ins": "челове́ческими",
    "pl_prep": "челове́ческих"
   },
-  "ipa": "[t͡ɕɪɫɐˈvʲet͡ɕɪskʲɪj]",
-  "examples": [
-   "s_4932118"
-  ]
+  "ipa": "[t͡ɕɪɫɐˈvʲet͡ɕɪskʲɪj]"
  },
  {
   "id": "w_molchat",
@@ -15960,11 +14098,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "intransitive"
-  ],
-  "examples": [
-   "s_507111",
-   "s_5670490",
-   "s_6901352"
   ]
  },
  {
@@ -16001,11 +14134,6 @@
   "aspect": "impf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_2501446",
-   "s_4973572",
-   "s_6865230"
   ]
  },
  {
@@ -16020,9 +14148,7 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "corpo"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
@@ -16109,13 +14235,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "corpo",
-   "trasporti"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -16132,12 +14255,7 @@
    "ins_pl": "плеча́ми",
    "prep_pl": "плеча́х"
   },
-  "ipa": "[plʲɪˈt͡ɕɵ]",
-  "examples": [
-   "s_1779342",
-   "s_5467545",
-   "s_5501759"
-  ]
+  "ipa": "[plʲɪˈt͡ɕɵ]"
  },
  {
   "id": "w_menee",
@@ -16153,12 +14271,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈmʲenʲɪje]",
-  "examples": [
-   "s_3106072",
-   "s_3764966",
-   "s_6306897"
-  ]
+  "ipa": "[ˈmʲenʲɪje]"
  },
  {
   "id": "w_uslovie",
@@ -16225,11 +14338,7 @@
    "ins_pl": "слу́жбами",
    "prep_pl": "слу́жбах"
   },
-  "ipa": "[ˈsɫuʐbə]",
-  "examples": [
-   "s_608829",
-   "s_5646445"
-  ]
+  "ipa": "[ˈsɫuʐbə]"
  },
  {
   "id": "w_vek",
@@ -16244,13 +14353,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "numeri",
-   "tempo"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -16267,10 +14373,7 @@
    "ins_pl": "века́ми",
    "prep_pl": "века́х"
   },
-  "ipa": "[vʲek]",
-  "examples": [
-   "s_6960752"
-  ]
+  "ipa": "[vʲek]"
  },
  {
   "id": "w_sled",
@@ -16303,11 +14406,7 @@
    "ins_pl": "следа́ми",
    "prep_pl": "следа́х"
   },
-  "ipa": "[s⁽ʲ⁾lʲet]",
-  "examples": [
-   "s_5888919",
-   "s_6173871"
-  ]
+  "ipa": "[s⁽ʲ⁾lʲet]"
  },
  {
   "id": "w_dvizhenie",
@@ -16393,10 +14492,7 @@
    "pl_ins": "кру́пными",
    "pl_prep": "кру́пных"
   },
-  "ipa": "[ˈkrupnɨj]",
-  "examples": [
-   "s_5695315"
-  ]
+  "ipa": "[ˈkrupnɨj]"
  },
  {
   "id": "w_vniz",
@@ -16448,10 +14544,7 @@
    "ins_pl": "мужика́ми",
    "prep_pl": "мужика́х"
   },
-  "ipa": "[mʊˈʐɨk]",
-  "examples": [
-   "s_3575219"
-  ]
+  "ipa": "[mʊˈʐɨk]"
  },
  {
   "id": "w_boy",
@@ -16502,13 +14595,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "lavoro",
-   "soldi"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -16567,10 +14657,7 @@
    "pl_ins": "золоты́ми",
    "pl_prep": "золоты́х"
   },
-  "ipa": "[zəɫɐˈtoj]",
-  "examples": [
-   "s_1959666"
-  ]
+  "ipa": "[zəɫɐˈtoj]"
  },
  {
   "id": "w_odnako",
@@ -16622,11 +14709,7 @@
    "ins_pl": "това́рищами",
    "prep_pl": "това́рищах"
   },
-  "ipa": "[tɐˈvarʲɪɕː]",
-  "examples": [
-   "s_4082759",
-   "s_6003006"
-  ]
+  "ipa": "[tɐˈvarʲɪɕː]"
  },
  {
   "id": "w_tolstyy",
@@ -16678,10 +14761,7 @@
   "it": [
    "grasso"
   ],
-  "ipa": "[ˈtoɫstɨj]",
-  "examples": [
-   "s_5822090"
-  ]
+  "ipa": "[ˈtoɫstɨj]"
  },
  {
   "id": "w_direktor",
@@ -16715,10 +14795,7 @@
    "ins_pl": "директора́ми",
    "prep_pl": "директора́х"
   },
-  "ipa": "[dʲɪˈrʲektər]",
-  "examples": [
-   "s_3667561"
-  ]
+  "ipa": "[dʲɪˈrʲektər]"
  },
  {
   "id": "w_interes",
@@ -16750,10 +14827,7 @@
    "ins_pl": "интере́сами",
    "prep_pl": "интере́сах"
   },
-  "ipa": "[ɪnʲtʲɪˈrʲes]",
-  "examples": [
-   "s_6004543"
-  ]
+  "ipa": "[ɪnʲtʲɪˈrʲes]"
  },
  {
   "id": "w_vovse",
@@ -16801,10 +14875,7 @@
    "ins_pl": "коле́нями",
    "prep_pl": "коле́нях"
   },
-  "ipa": "[kɐˈlʲenə]",
-  "examples": [
-   "s_6449283"
-  ]
+  "ipa": "[kɐˈlʲenə]"
  },
  {
   "id": "w_khozyain",
@@ -16820,8 +14891,7 @@
   "pos": "noun",
   "level": "a2",
   "topics": [
-   "persone",
-   "tecnologia"
+   "persone"
   ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
@@ -16842,11 +14912,7 @@
    "ins_pl": "хозя́евами",
    "prep_pl": "хозя́евах"
   },
-  "ipa": "[xɐˈzʲaɪn]",
-  "examples": [
-   "s_3221912",
-   "s_5584952"
-  ]
+  "ipa": "[xɐˈzʲaɪn]"
  },
  {
   "id": "w_zal",
@@ -16882,10 +14948,7 @@
    "ins_pl": "за́лами",
    "prep_pl": "за́лах"
   },
-  "ipa": "[zaɫ]",
-  "examples": [
-   "s_5635082"
-  ]
+  "ipa": "[zaɫ]"
  },
  {
   "id": "w_osobyy",
@@ -16980,12 +15043,7 @@
    "pl_ins": "необходи́мыми",
    "pl_prep": "необходи́мых"
   },
-  "ipa": "[nʲɪəpxɐˈdʲimɨj]",
-  "examples": [
-   "s_645699",
-   "s_4829339",
-   "s_6895419"
-  ]
+  "ipa": "[nʲɪəpxɐˈdʲimɨj]"
  },
  {
   "id": "w_chuzhoy",
@@ -17030,10 +15088,7 @@
    "pl_ins": "чужи́ми",
    "pl_prep": "чужи́х"
   },
-  "ipa": "[t͡ɕʊˈʐoj]",
-  "examples": [
-   "s_5777521"
-  ]
+  "ipa": "[t͡ɕʊˈʐoj]"
  },
  {
   "id": "w_dvor",
@@ -17065,11 +15120,7 @@
    "ins_pl": "двора́ми",
    "prep_pl": "двора́х"
   },
-  "ipa": "[dvor]",
-  "examples": [
-   "s_6740870",
-   "s_6740871"
-  ]
+  "ipa": "[dvor]"
  },
  {
   "id": "w_bereg",
@@ -17103,10 +15154,7 @@
    "ins_pl": "берега́ми",
    "prep_pl": "берега́х"
   },
-  "ipa": "[ˈbʲerʲɪk]",
-  "examples": [
-   "s_5992778"
-  ]
+  "ipa": "[ˈbʲerʲɪk]"
  },
  {
   "id": "w_khod",
@@ -17144,11 +15192,6 @@
   "ipa": "[xot]",
   "grammar_tags": [
    "uncountable"
-  ],
-  "examples": [
-   "s_3164924",
-   "s_6856154",
-   "s_6943741"
   ]
  },
  {
@@ -17192,10 +15235,7 @@
    "pl_ins": "рабо́чими",
    "pl_prep": "рабо́чих"
   },
-  "ipa": "[rɐˈbot͡ɕɪj]",
-  "examples": [
-   "s_5679482"
-  ]
+  "ipa": "[rɐˈbot͡ɕɪj]"
  },
  {
   "id": "w_voennyy",
@@ -17209,12 +15249,10 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [
-   "lavoro"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "forms": {
    "short_m": "вое́нен",
    "short_f": "вое́нна",
@@ -17281,11 +15319,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "reflexive"
-  ],
-  "examples": [
-   "s_563861",
-   "s_4203320",
-   "s_4465038"
   ]
  },
  {
@@ -17303,11 +15336,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈmʲimə]",
-  "examples": [
-   "s_5885579",
-   "s_5885580"
-  ]
+  "ipa": "[ˈmʲimə]"
  },
  {
   "id": "w_kabinet",
@@ -17343,10 +15372,7 @@
    "ins_pl": "кабине́тами",
    "prep_pl": "кабине́тах"
   },
-  "ipa": "[kəbʲɪˈnʲet]",
-  "examples": [
-   "s_6167194"
-  ]
+  "ipa": "[kəbʲɪˈnʲet]"
  },
  {
   "id": "w_glava",
@@ -17379,10 +15405,7 @@
    "ins_pl": "гла́вами",
    "prep_pl": "гла́вах"
   },
-  "ipa": "[ɡɫɐˈva]",
-  "examples": [
-   "s_5507242"
-  ]
+  "ipa": "[ɡɫɐˈva]"
  },
  {
   "id": "w_zhyoltyy",
@@ -17435,11 +15458,7 @@
   "it": [
    "giallo"
   ],
-  "ipa": "[ˈʐoɫtɨj]",
-  "examples": [
-   "s_4617842",
-   "s_5654494"
-  ]
+  "ipa": "[ˈʐoɫtɨj]"
  },
  {
   "id": "w_guba",
@@ -17451,12 +15470,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "corpo"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -17473,11 +15490,7 @@
    "ins_pl": "губа́ми",
    "prep_pl": "губа́х"
   },
-  "ipa": "[ɡʊˈba]",
-  "examples": [
-   "s_5672707",
-   "s_5672708"
-  ]
+  "ipa": "[ɡʊˈba]"
  },
  {
   "id": "w_partiya",
@@ -17492,12 +15505,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "tempo-libero"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -17563,12 +15574,7 @@
    "pl_ins": "симпати́чными",
    "pl_prep": "симпати́чных"
   },
-  "ipa": "[sʲɪmpɐˈtʲit͡ɕnɨj]",
-  "examples": [
-   "s_2609133",
-   "s_5401587",
-   "s_6798949"
-  ]
+  "ipa": "[sʲɪmpɐˈtʲit͡ɕnɨj]"
  },
  {
   "id": "w_protsess",
@@ -17638,12 +15644,7 @@
   "it": [
    "scrittore"
   ],
-  "ipa": "[pʲɪˈsatʲɪlʲ]",
-  "examples": [
-   "s_3817471",
-   "s_4128373",
-   "s_5683955"
-  ]
+  "ipa": "[pʲɪˈsatʲɪlʲ]"
  },
  {
   "id": "w_nemets",
@@ -17677,10 +15678,7 @@
    "ins_pl": "не́мцами",
    "prep_pl": "не́мцах"
   },
-  "ipa": "[ˈnʲemʲɪt͡s]",
-  "examples": [
-   "s_6137695"
-  ]
+  "ipa": "[ˈnʲemʲɪt͡s]"
  },
  {
   "id": "w_inoy",
@@ -17788,12 +15786,7 @@
   "it": [
    "Mosca"
   ],
-  "ipa": "[mɐskˈva]",
-  "examples": [
-   "s_1791800",
-   "s_2024912",
-   "s_9157358"
-  ]
+  "ipa": "[mɐskˈva]"
  },
  {
   "id": "w_avtor",
@@ -17825,12 +15818,7 @@
    "ins_pl": "а́вторами",
    "prep_pl": "а́вторах"
   },
-  "ipa": "[ˈaftər]",
-  "examples": [
-   "s_435486",
-   "s_5082608",
-   "s_5499040"
-  ]
+  "ipa": "[ˈaftər]"
  },
  {
   "id": "w_vozle",
@@ -17858,12 +15846,10 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [
-   "salute"
-  ],
+  "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -18019,12 +16005,7 @@
    "ins_pl": "ряда́ми",
    "prep_pl": "ряда́х"
   },
-  "ipa": "[rʲat]",
-  "examples": [
-   "s_4479967",
-   "s_5044470",
-   "s_7221622"
-  ]
+  "ipa": "[rʲat]"
  },
  {
   "id": "w_shirokiy",
@@ -18077,11 +16058,7 @@
   "it": [
    "largo"
   ],
-  "ipa": "[ʂɨˈrokʲɪj]",
-  "examples": [
-   "s_5485183",
-   "s_5485190"
-  ]
+  "ipa": "[ʂɨˈrokʲɪj]"
  },
  {
   "id": "w_politicheskiy",
@@ -18220,12 +16197,7 @@
    "pl_prep": "се́рых",
    "comp": "сере́е, сере́й"
   },
-  "ipa": "[ˈsʲerɨj]",
-  "examples": [
-   "s_3585917",
-   "s_4367050",
-   "s_4409196"
-  ]
+  "ipa": "[ˈsʲerɨj]"
  },
  {
   "id": "w_cherta",
@@ -18387,9 +16359,6 @@
   "aspect": "pf",
   "grammar_tags": [
    "transitive"
-  ],
-  "examples": [
-   "s_6130006"
   ]
  },
  {
@@ -18470,12 +16439,7 @@
    "ins_pl": "коридо́рами",
    "prep_pl": "коридо́рах"
   },
-  "ipa": "[kərʲɪˈdor]",
-  "examples": [
-   "s_4006081",
-   "s_4283407",
-   "s_4406959"
-  ]
+  "ipa": "[kərʲɪˈdor]"
  },
  {
   "id": "w_klassno",
@@ -18491,10 +16455,7 @@
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
   "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "ipa": "[ˈkɫasnə]",
-  "examples": [
-   "s_5134797"
-  ]
+  "ipa": "[ˈkɫasnə]"
  },
  {
   "id": "w_ranniy",
@@ -18539,12 +16500,7 @@
    "pl_ins": "ра́нними",
    "pl_prep": "ра́нних"
   },
-  "ipa": "[ˈranʲːɪj]",
-  "examples": [
-   "s_3965133",
-   "s_5549380",
-   "s_6686906"
-  ]
+  "ipa": "[ˈranʲːɪj]"
  },
  {
   "id": "w_koy",
@@ -18587,10 +16543,7 @@
    "pl_ins": "ко́ими",
    "pl_prep": "ко́их"
   },
-  "ipa": "[koj]",
-  "examples": [
-   "s_3238225"
-  ]
+  "ipa": "[koj]"
  },
  {
   "id": "w_literatura",
@@ -18624,10 +16577,7 @@
   "it": [
    "letteratura"
   ],
-  "ipa": "[lʲɪtʲɪrɐˈturə]",
-  "examples": [
-   "s_5628723"
-  ]
+  "ipa": "[lʲɪtʲɪrɐˈturə]"
  },
  {
   "id": "w_rossiyskiy",
@@ -18669,10 +16619,7 @@
    "pl_ins": "росси́йскими",
    "pl_prep": "росси́йских"
   },
-  "ipa": "[rɐˈsʲijskʲɪj]",
-  "examples": [
-   "s_1791800"
-  ]
+  "ipa": "[rɐˈsʲijskʲɪj]"
  },
  {
   "id": "w_khudoy",
@@ -18725,12 +16672,7 @@
   "it": [
    "magro"
   ],
-  "ipa": "[xʊˈdoj]",
-  "examples": [
-   "s_668315",
-   "s_3013677",
-   "s_5539682"
-  ]
+  "ipa": "[xʊˈdoj]"
  },
  {
   "id": "w_popkorn",
@@ -18762,11 +16704,7 @@
    "prep_sg": "попко́рне",
    "prep_pl": "попко́рнах"
   },
-  "ipa": "[pɐpˈkorn]",
-  "examples": [
-   "s_6697415",
-   "s_7453598"
-  ]
+  "ipa": "[pɐpˈkorn]"
  },
  {
   "id": "w_taki",
@@ -18843,12 +16781,7 @@
    "pl_ins": "си́ми",
    "pl_prep": "си́х"
   },
-  "ipa": "[sʲej]",
-  "examples": [
-   "s_2668113",
-   "s_3219784",
-   "s_4691358"
-  ]
+  "ipa": "[sʲej]"
  },
  {
   "id": "w_kriknut",
@@ -18957,12 +16890,7 @@
    "ins_pl": "ро́тами",
    "prep_pl": "ро́тах"
   },
-  "ipa": "[ˈrotə]",
-  "examples": [
-   "s_394544",
-   "s_2824223",
-   "s_4148380"
-  ]
+  "ipa": "[ˈrotə]"
  },
  {
   "id": "w_stringi",
@@ -19138,9 +17066,6 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
-  "examples": [
-   "s_2756357"
-  ]
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
  }
 ]

@@ -206,9 +206,6 @@
   "it_from": "itwiktionary"
  },
  "w_chelovek": {
-  "topics_from": [
-   "People"
-  ],
   "decl_class": [
    "velar-stem",
    "accent-a"
@@ -297,8 +294,6 @@
  },
  "w_dom": {
   "topics_from": [
-   "Buildings",
-   "Home",
    "Housing"
   ],
   "it_candidates": [
@@ -371,9 +366,6 @@
   ]
  },
  "w_devushka": {
-  "topics_from": [
-   "Female people"
-  ],
   "decl_class": [
    "velar-stem",
    "accent-a"
@@ -422,8 +414,7 @@
  },
  "w_kofe": {
   "topics_from": [
-   "Coffee",
-   "Plants"
+   "Coffee"
   ],
   "it_from": "itwiktionary"
  },
@@ -448,7 +439,6 @@
  },
  "w_vino": {
   "topics_from": [
-   "Alcoholic beverages",
    "Wines"
   ],
   "it_from": "itwiktionary",
@@ -482,8 +472,7 @@
  },
  "w_pivo": {
   "topics_from": [
-   "Alcoholic beverages",
-   "Beer"
+   "Alcoholic beverages"
   ],
   "it_from": "itwiktionary",
   "decl_class": [
@@ -517,7 +506,6 @@
  },
  "w_tualet": {
   "topics_from": [
-   "Clothing",
    "Furniture",
    "Rooms",
    "Toilet (room)"
@@ -531,15 +519,11 @@
   "forms_added": [
    "comp"
   ],
-  "topics_from": [
-   "Time"
-  ],
   "it_from": "itwiktionary"
  },
  "w_bar": {
   "topics_from": [
-   "Bars",
-   "Restaurants"
+   "Bars"
   ],
   "decl_class": [
    "hard-stem",
@@ -586,17 +570,9 @@
   ]
  },
  "w_nosok": {
-  "topics_from": [
-   "Footwear"
-  ],
   "decl_class": [
    "velar-stem",
    "accent-b"
-  ]
- },
- "w_est": {
-  "topics_from": [
-   "Food and drink"
   ]
  },
  "w_supermarket": {
@@ -676,15 +652,9 @@
   ],
   "it_from": "itwiktionary"
  },
- "w_videt": {
-  "topics_from": [
-   "Computing"
-  ]
- },
  "w_vremya": {
   "topics_from": [
-   "Time",
-   "Weather"
+   "Time"
   ],
   "it_from": "itwiktionary",
   "decl_class": [
@@ -708,8 +678,7 @@
  },
  "w_drug": {
   "topics_from": [
-   "Friendship",
-   "People"
+   "Friendship"
   ],
   "it_from": "itwiktionary",
   "decl_class": [
@@ -731,18 +700,10 @@
    "accent-b"
   ]
  },
- "w_seychas": {
-  "topics_from": [
-   "Time"
-  ]
- },
  "w_nado": {
   "no_wiktionary_entry": true
  },
  "w_raz": {
-  "topics_from": [
-   "One"
-  ],
   "it_candidates": [
    "volta (una volta, due volte)",
    "occasione",
@@ -789,8 +750,6 @@
  },
  "w_otets": {
   "topics_from": [
-   "Male family members",
-   "Male people",
    "Parents"
   ],
   "decl_class": [
@@ -828,11 +787,6 @@
    "accent-c"
   ]
  },
- "w_zhdat": {
-  "topics_from": [
-   "Time"
-  ]
- },
  "w_tri": {
   "topics_from": [
    "Three"
@@ -865,9 +819,6 @@
   ]
  },
  "w_pervyy": {
-  "topics_from": [
-   "One"
-  ],
   "it_candidates": [
    "primo",
    "iniziale",
@@ -883,20 +834,12 @@
   ]
  },
  "w_chas": {
-  "topics_from": [
-   "Time"
-  ],
   "decl_class": [
    "hard-stem",
    "accent-c"
   ]
  },
  "w_mama": {
-  "topics_from": [
-   "Computing",
-   "Female family members",
-   "Parents"
-  ],
   "it_from": "itwiktionary",
   "decl_class": [
    "hard-stem",
@@ -917,11 +860,6 @@
    "accent-a"
   ]
  },
- "w_zavtra": {
-  "topics_from": [
-   "Time"
-  ]
- },
  "w_spat": {
   "forms_added": [
    "aspect_partner"
@@ -939,8 +877,7 @@
  },
  "w_brat": {
   "topics_from": [
-   "Male family members",
-   "Male people"
+   "Male family members"
   ],
   "it_from": "itwiktionary",
   "decl_class": [
@@ -975,8 +912,7 @@
  },
  "w_nedelya": {
   "topics_from": [
-   "Days of the week",
-   "Time"
+   "Days of the week"
   ],
   "it_from": "itwiktionary",
   "decl_class": [
@@ -1005,9 +941,6 @@
  },
  "w_syn": {
   "gender_from_wikt": true,
-  "topics_from": [
-   "Male family members"
-  ],
   "decl_class": [
    "hard-stem",
    "accent-c"
@@ -1039,11 +972,6 @@
    "Time"
   ]
  },
- "w_nazad": {
-  "topics_from": [
-   "Directions"
-  ]
- },
  "w_staryy": {
   "it_from": "itwiktionary",
   "decl_class": [
@@ -1052,9 +980,6 @@
   ]
  },
  "w_plokhoy": {
-  "topics_from": [
-   "Health"
-  ],
   "it_from": "itwiktionary",
   "decl_class": [
    "c′",
@@ -1062,9 +987,6 @@
   ]
  },
  "w_minuta": {
-  "topics_from": [
-   "Time"
-  ],
   "decl_class": [
    "hard-stem",
    "accent-a",
@@ -1074,9 +996,7 @@
  },
  "w_zhena": {
   "topics_from": [
-   "Female family members",
-   "Female people",
-   "Marriage"
+   "Female family members"
   ],
   "decl_class": [
    "hard-stem",
@@ -1112,8 +1032,7 @@
  },
  "w_sestra": {
   "topics_from": [
-   "Female family members",
-   "Medicine"
+   "Female family members"
   ],
   "it_candidates": [
    "sorella",
@@ -1134,9 +1053,6 @@
   ]
  },
  "w_golova": {
-  "topics_from": [
-   "Body parts"
-  ],
   "decl_class": [
    "hard-stem",
    "accent-f",
@@ -1163,9 +1079,7 @@
  },
  "w_sobaka": {
   "topics_from": [
-   "Computing",
-   "Dogs",
-   "Internet"
+   "Dogs"
   ],
   "it_from": "itwiktionary",
   "decl_class": [
@@ -1177,8 +1091,6 @@
  },
  "w_mesyats": {
   "topics_from": [
-   "Light sources",
-   "Moon",
    "Time"
   ],
   "it_from": "itwiktionary",
@@ -1238,7 +1150,6 @@
  },
  "w_papa": {
   "topics_from": [
-   "Electronics",
    "Male family members",
    "Parents"
   ],
@@ -1250,9 +1161,6 @@
   ]
  },
  "w_dorogoy": {
-  "topics_from": [
-   "People"
-  ],
   "it_candidates": [
    "caro",
    "costoso"
@@ -1302,8 +1210,7 @@
  },
  "w_muzh": {
   "topics_from": [
-   "Male family members",
-   "Marriage"
+   "Male family members"
   ],
   "decl_class": [
    "sibilant-stem",
@@ -1334,11 +1241,6 @@
    "c′"
   ]
  },
- "w_obychno": {
-  "topics_from": [
-   "Time"
-  ]
- },
  "w_plokho": {
   "forms_added": [
    "comp"
@@ -1354,11 +1256,6 @@
   "it_from": "itwiktionary",
   "decl_class": [
    "accent-b"
-  ]
- },
- "w_voyti": {
-  "topics_from": [
-   "Computing"
   ]
  },
  "w_dozhd": {
@@ -1384,9 +1281,6 @@
   ]
  },
  "w_svobodnyy": {
-  "topics_from": [
-   "Software"
-  ],
   "it_candidates": [
    "libero (bagno libero)",
    "libero (stato libero)"
@@ -1418,11 +1312,6 @@
    "accent-a"
   ]
  },
- "w_gotovit": {
-  "topics_from": [
-   "Cooking"
-  ]
- },
  "w_shest": {
   "it_from": "itwiktionary",
   "decl_class": [
@@ -1445,12 +1334,6 @@
    "accent-a"
   ]
  },
- "w_bolet": {
-  "topics_from": [
-   "Health",
-   "Medicine"
-  ]
- },
  "w_daleko": {
   "forms_added": [
    "comp"
@@ -1458,8 +1341,7 @@
  },
  "w_koshka": {
   "topics_from": [
-   "Cats",
-   "Footwear"
+   "Cats"
   ],
   "decl_class": [
    "velar-stem",
@@ -1606,10 +1488,6 @@
   ]
  },
  "w_stantsiya": {
-  "topics_from": [
-   "Rail transportation",
-   "Telephony"
-  ],
   "decl_class": [
    "i-stem",
    "accent-a"
@@ -1679,9 +1557,6 @@
   ]
  },
  "w_botinok": {
-  "topics_from": [
-   "Footwear"
-  ],
   "decl_class": [
    "velar-stem",
    "accent-a"
@@ -1754,9 +1629,6 @@
   ]
  },
  "w_napitok": {
-  "topics_from": [
-   "Food and drink"
-  ],
   "it_from": "itwiktionary",
   "decl_class": [
    "velar-stem",
@@ -1770,8 +1642,7 @@
  },
  "w_paket": {
   "topics_from": [
-   "Bags",
-   "Networking"
+   "Bags"
   ],
   "decl_class": [
    "hard-stem",
@@ -1804,11 +1675,6 @@
    "Directions"
   ]
  },
- "w_nalevo": {
-  "topics_from": [
-   "Directions"
-  ]
- },
  "w_dochka": {
   "no_wiktionary_entry": true
  },
@@ -1833,9 +1699,6 @@
   "it_from": "itwiktionary"
  },
  "w_salat": {
-  "topics_from": [
-   "Food and drink"
-  ],
   "it_from": "itwiktionary",
   "decl_class": [
    "hard-stem",
@@ -2044,10 +1907,6 @@
   "no_wiktionary_entry": true
  },
  "w_tut": {
-  "topics_from": [
-   "Fruits",
-   "Time"
-  ],
   "it_from": "itwiktionary"
  },
  "w_mir": {
@@ -2058,11 +1917,6 @@
   "decl_class": [
    "hard-stem",
    "accent-c"
-  ]
- },
- "w_slushat": {
-  "topics_from": [
-   "Medicine"
   ]
  },
  "w_kniga": {
@@ -2088,7 +1942,6 @@
  },
  "w_shkola": {
   "topics_from": [
-   "Buildings",
    "Schools"
   ],
   "decl_class": [
@@ -2143,11 +1996,6 @@
    "accent-a"
   ]
  },
- "w_khodit": {
-  "topics_from": [
-   "Medicine"
-  ]
- },
  "w_pravyy": {
   "decl_class": [
    "c",
@@ -2162,7 +2010,6 @@
  },
  "w_konets": {
   "topics_from": [
-   "Anatomy",
    "Time"
   ],
   "decl_class": [
@@ -2254,9 +2101,6 @@
   ]
  },
  "w_yazyk": {
-  "topics_from": [
-   "Body parts"
-  ],
   "it_candidates": [
    "lingua, idioma",
    "lingua"
@@ -2280,9 +2124,6 @@
  "w_skoro": {
   "forms_added": [
    "comp"
-  ],
-  "topics_from": [
-   "Time"
   ]
  },
  "w_malchik": {
@@ -2296,8 +2137,7 @@
  },
  "w_doroga": {
   "topics_from": [
-   "Roads",
-   "Travel"
+   "Roads"
   ],
   "decl_class": [
    "velar-stem",
@@ -2354,9 +2194,7 @@
  "w_igra": {
   "topics_from": [
    "Entertainment",
-   "Music",
-   "Recreation",
-   "Sports"
+   "Recreation"
   ],
   "decl_class": [
    "hard-stem",
@@ -2402,10 +2240,6 @@
   ]
  },
  "w_para": {
-  "topics_from": [
-   "Clothing",
-   "Universities"
-  ],
   "decl_class": [
    "hard-stem",
    "accent-a",
@@ -2429,11 +2263,6 @@
   "forms_added": [
    "comp"
   ],
-  "topics_from": [
-   "Time"
-  ]
- },
- "w_nastoyashchiy": {
   "topics_from": [
    "Time"
   ]
@@ -2464,9 +2293,6 @@
   ]
  },
  "w_dobryy": {
-  "topics_from": [
-   "Personality"
-  ],
   "it_from": "itwiktionary",
   "decl_class": [
    "c″",
@@ -2533,9 +2359,7 @@
  },
  "w_put": {
   "topics_from": [
-   "Rail transportation",
-   "Roads",
-   "Travel"
+   "Roads"
   ],
   "decl_class": [
    "soft-stem",
@@ -2546,8 +2370,7 @@
  },
  "w_serdtse": {
   "topics_from": [
-   "Anatomy",
-   "Emotions"
+   "Anatomy"
   ],
   "it_from": "itwiktionary",
   "decl_class": [
@@ -2580,7 +2403,6 @@
  "w_doktor": {
   "topics_from": [
    "Academic degrees",
-   "Medicine",
    "Occupations"
   ],
   "decl_class": [
@@ -2604,9 +2426,6 @@
   ]
  },
  "w_vtoroy": {
-  "topics_from": [
-   "Two"
-  ],
   "it_from": "itwiktionary"
  },
  "w_pravo": {
@@ -2726,8 +2545,7 @@
    "sup"
   ],
   "topics_from": [
-   "Blacks",
-   "Labour"
+   "Blacks"
   ],
   "it_candidates": [
    "nero",
@@ -2757,9 +2575,6 @@
   ]
  },
  "w_kompaniya": {
-  "topics_from": [
-   "Business"
-  ],
   "decl_class": [
    "i-stem",
    "accent-a"
@@ -2783,18 +2598,12 @@
   ]
  },
  "w_telo": {
-  "topics_from": [
-   "Anatomy"
-  ],
   "decl_class": [
    "hard-stem",
    "accent-c"
   ]
  },
  "w_skoryy": {
-  "topics_from": [
-   "Rail transportation"
-  ],
   "decl_class": [
    "c"
   ]
@@ -2808,9 +2617,6 @@
   ]
  },
  "w_klass": {
-  "topics_from": [
-   "Education"
-  ],
   "it_from": "itwiktionary",
   "decl_class": [
    "hard-stem",
@@ -2901,9 +2707,6 @@
   ]
  },
  "w_kvartira": {
-  "topics_from": [
-   "Housing"
-  ],
   "it_from": "itwiktionary",
   "decl_class": [
    "hard-stem",
@@ -3039,7 +2842,6 @@
  },
  "w_palets": {
   "topics_from": [
-   "Body parts",
    "Fingers"
   ],
   "decl_class": [
@@ -3101,9 +2903,6 @@
   ]
  },
  "w_dusha": {
-  "topics_from": [
-   "People"
-  ],
   "decl_class": [
    "sibilant-stem",
    "accent-d",
@@ -3133,11 +2932,6 @@
   ],
   "decl_class": [
    "a*"
-  ]
- },
- "w_odnazhdy": {
-  "topics_from": [
-   "One"
   ]
  },
  "w_gazeta": {
@@ -3175,11 +2969,6 @@
    "accent-a"
   ]
  },
- "w_vperyod": {
-  "topics_from": [
-   "Directions"
-  ]
- },
  "w_les": {
   "topics_from": [
    "Forests"
@@ -3196,10 +2985,6 @@
   ]
  },
  "w_more": {
-  "topics_from": [
-   "Bodies of water",
-   "Landforms"
-  ],
   "it_from": "itwiktionary",
   "decl_class": [
    "soft-stem",
@@ -3272,9 +3057,6 @@
   ]
  },
  "w_tsentr": {
-  "topics_from": [
-   "Telephony"
-  ],
   "decl_class": [
    "hard-stem",
    "accent-a"
@@ -3282,9 +3064,6 @@
  },
  "w_zub": {
   "gender_from_wikt": true,
-  "topics_from": [
-   "Anatomy"
-  ],
   "it_from": "itwiktionary",
   "decl_class": [
    "hard-stem",
@@ -3292,19 +3071,11 @@
   ]
  },
  "w_forma": {
-  "topics_from": [
-   "Clothing"
-  ],
   "decl_class": [
    "hard-stem",
    "accent-a",
    "hard-stem",
    "accent-a"
-  ]
- },
- "w_uspet": {
-  "topics_from": [
-   "Time"
   ]
  },
  "w_korotkiy": {
@@ -3359,8 +3130,7 @@
  "w_chlen": {
   "gender_from_wikt": true,
   "topics_from": [
-   "Body parts",
-   "People"
+   "Body parts"
   ],
   "decl_class": [
    "hard-stem",
@@ -3401,10 +3171,6 @@
   ]
  },
  "w_nos": {
-  "topics_from": [
-   "Face",
-   "Landforms"
-  ],
   "it_from": "itwiktionary",
   "decl_class": [
    "hard-stem",
@@ -3436,10 +3202,6 @@
   ]
  },
  "w_kamen": {
-  "topics_from": [
-   "Computing",
-   "Medicine"
-  ],
   "decl_class": [
    "soft-stem",
    "accent-e",
@@ -3452,8 +3214,7 @@
  },
  "w_starik": {
   "topics_from": [
-   "Male people",
-   "Marriage"
+   "Male people"
   ],
   "decl_class": [
    "velar-stem",
@@ -3588,10 +3349,6 @@
   ]
  },
  "w_chislo": {
-  "topics_from": [
-   "Numbers",
-   "Time"
-  ],
   "it_candidates": [
    "numero",
    "data, giorno del calendario"
@@ -3603,9 +3360,7 @@
  },
  "w_karman": {
   "topics_from": [
-   "Clothing",
-   "Computing",
-   "Road transport"
+   "Clothing"
   ],
   "decl_class": [
    "hard-stem",
@@ -3644,9 +3399,6 @@
   ]
  },
  "w_polozhenie": {
-  "topics_from": [
-   "Chess"
-  ],
   "decl_class": [
    "i-stem",
    "accent-a"
@@ -3668,9 +3420,6 @@
   "it_from": "itwiktionary"
  },
  "w_deystvie": {
-  "topics_from": [
-   "Theater"
-  ],
   "decl_class": [
    "i-stem",
    "accent-a"
@@ -3721,9 +3470,6 @@
   ]
  },
  "w_udar": {
-  "topics_from": [
-   "Medicine"
-  ],
   "decl_class": [
    "hard-stem",
    "accent-a"
@@ -3741,9 +3487,6 @@
    "prep_pl",
    "prep_sg"
   ],
-  "topics_from": [
-   "Anatomy"
-  ],
   "decl_class": [
    "accent-f",
    "accent-f"
@@ -3759,10 +3502,6 @@
   ]
  },
  "w_plecho": {
-  "topics_from": [
-   "Anatomy",
-   "Transport"
-  ],
   "decl_class": [
    "sibilant-stem",
    "accent-f",
@@ -3785,10 +3524,6 @@
   ]
  },
  "w_vek": {
-  "topics_from": [
-   "Hundred",
-   "Time"
-  ],
   "decl_class": [
    "velar-stem",
    "accent-c"
@@ -3831,10 +3566,6 @@
   ]
  },
  "w_sredstvo": {
-  "topics_from": [
-   "Business",
-   "Finance"
-  ],
   "it_candidates": [
    "mezzo (4): modo o strumento per completare un lavoro o raggiungere un determinato fine",
    "rimedio, sostanza o preparato per la cura di malattie o soluzione di un problema concreto",
@@ -3850,8 +3581,7 @@
  },
  "w_tovarishch": {
   "topics_from": [
-   "Friendship",
-   "People"
+   "Friendship"
   ],
   "decl_class": [
    "sibilant-stem",
@@ -3888,7 +3618,6 @@
  },
  "w_khozyain": {
   "topics_from": [
-   "Computing",
    "Male people"
   ],
   "it_candidates": [
@@ -3943,9 +3672,6 @@
   ]
  },
  "w_voennyy": {
-  "topics_from": [
-   "Occupations"
-  ],
   "decl_class": [
    "a*",
    "a*"
@@ -3953,7 +3679,6 @@
  },
  "w_kabinet": {
   "topics_from": [
-   "Furniture",
    "Rooms"
   ],
   "decl_class": [
@@ -3980,9 +3705,6 @@
   ]
  },
  "w_guba": {
-  "topics_from": [
-   "Face"
-  ],
   "decl_class": [
    "hard-stem",
    "accent-f",
@@ -3991,9 +3713,6 @@
   ]
  },
  "w_partiya": {
-  "topics_from": [
-   "Music"
-  ],
   "decl_class": [
    "i-stem",
    "accent-a"
@@ -4023,8 +3742,7 @@
  },
  "w_nemets": {
   "topics_from": [
-   "Male people",
-   "Nationalities"
+   "Male people"
   ],
   "decl_class": [
    "ц-stem",
@@ -4059,9 +3777,6 @@
   ]
  },
  "w_general": {
-  "topics_from": [
-   "Diseases"
-  ],
   "decl_class": [
    "hard-stem",
    "accent-a"

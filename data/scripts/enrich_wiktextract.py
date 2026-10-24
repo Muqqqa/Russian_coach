@@ -64,6 +64,9 @@ _t("tempo-libero", "Hobbies|Games|Sports|Music|Entertainment|Theater|Recreation|
 _t("emozioni", "Emotions|Fear|Love|Laughter")
 
 
+TOPIC_OVERRIDES = {}  # riempito sotto, dopo la revisione
+
+
 def has_acc(s):
     return ACC in s
 
@@ -325,15 +328,21 @@ def main():
                     gov[CASES[m.group(1)]] += 5
             if gov:
                 ex["governs"] = [k for k, _ in gov.most_common()]
-            # --- topics ---
-            cats = {c["name"] for c in (e.get("categories") or [])}
-            for s in e["senses"]:
-                cats |= {c["name"] for c in (s.get("categories") or [])}
+            # --- topics: solo categorie del PRIMO senso (evita contaminazione da sensi secondari) ---
+            cats = {c["name"] for c in (e["senses"][0].get("categories") or [])} if e["senses"] else set()
             tp = sorted({CATEGORY_TOPICS[c] for c in cats if c in CATEGORY_TOPICS})
+            if w["pos"] != "num" and "numeri" in tp:
+                tp.remove("numeri")  # 'One', 'Two'... su non-numerali (раз, однажды) non indicano l'argomento numeri
+            if w["pos"] in ("verb", "adj") and "tempo" in tp and w["ru"] not in ("долгий", "ранний"):
+                tp.remove("tempo")
+            tp = [t for t in tp if t != "tecnologia" or w["ru"] in ("телефон",)]
             if tp:
                 w["topics"] = sorted(set(w.get("topics", [])) | set(tp))
                 ex["topics_from"] = sorted(c for c in cats if c in CATEGORY_TOPICS)
                 stats["parole con topics"] += 1
+            if wid in TOPIC_OVERRIDES:
+                w["topics"] = list(TOPIC_OVERRIDES[wid])
+                ex["topics_override"] = True
         # --- italiano da Wikizionario ---
         ies = [d for d in it_entries.get(w["ru"], []) if d["pos"] in IT_POS_COMPAT[w["pos"]]]
         senses = []
