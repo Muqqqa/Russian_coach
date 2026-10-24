@@ -12,6 +12,7 @@ export type Gender = "m" | "f" | "n";
 export type ExerciseType =
   | "translate" | "cloze" | "multiple_choice" | "match" | "dictation";
 export type QaStatus = "pending" | "approved" | "rejected";
+export type Aspect = "impf" | "pf" | "both";
 export type Difficulty = 1 | 2 | 3 | 4 | 5;
 
 export interface Provenance {
@@ -19,6 +20,9 @@ export interface Provenance {
   license: string; // identificatore SPDX, es. "CC-BY-SA-4.0"
   attribution?: string; // autore / ID originale, se la licenza lo richiede
 }
+
+// Licenza dei dati del progetto (data/): CC-BY-SA-4.0.
+// Nuovi campi opzionali in Word (ipa, aspect, grammar_tags, governs): retrocompatibili, SCHEMA_VERSION resta 1 finché non c'è una release.
 
 export interface Word extends Provenance {
   id: string; // "w_" + slug traslitterato, stabile (es. "w_mama")
@@ -34,6 +38,10 @@ export interface Word extends Provenance {
   topics: string[]; // slug, es. "famiglia"
   forms?: Record<string, string>; // forme flesse con accento (chiavi libere ma documentate in data/README.md)
   examples?: string[]; // id frasi
+  ipa?: string; // pronuncia IPA (da Wiktionary)
+  aspect?: Aspect; // verbi
+  grammar_tags?: string[]; // es. "reflexive", "indeclinable", "plural_only", "transitive"
+  governs?: string[]; // reggenza, es. "+dat", "+acc", "на+acc"
 }
 
 export interface Sentence extends Provenance {

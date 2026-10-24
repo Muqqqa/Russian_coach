@@ -33,6 +33,9 @@ const checks = {
     if (!POS.includes(r.pos)) e.push("pos non valido");
     if (!LEVELS.includes(r.level)) e.push("level non valido");
     if (!isStrArr(r.topics)) e.push("topics deve essere un array di stringhe");
+    if (r.ipa !== undefined && !isStr(r.ipa)) e.push("ipa deve essere stringa");
+    if (r.aspect !== undefined && !["impf", "pf", "both"].includes(r.aspect)) e.push("aspect non valido");
+    for (const k of ["grammar_tags", "governs"]) if (r[k] !== undefined && !isStrArr(r[k])) e.push(`${k} deve essere un array di stringhe`);
     provenance(r, e);
   },
   sentence(r, e) {
