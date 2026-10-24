@@ -11,17 +11,33 @@ const out = join(root, "public", "data");
 rmSync(out, { recursive: true, force: true });
 mkdirSync(out, { recursive: true });
 
+function listJson(full) {
+  const out = [];
+  for (const name of readdirSync(full).sort()) {
+    const p = join(full, name);
+    if (statSync(p).isDirectory()) out.push(...listJson(p));
+    else if (name.endsWith(".json")) out.push(p);
+  }
+  return out;
+}
+
+// Legge ricorsivamente i .json di una cartella. I file che non sono array di record
+// (per esempio metadati come topics.json) vengono saltati con un avviso.
 function readArrays(dir) {
   const full = join(root, dir);
   if (!existsSync(full) || !statSync(full).isDirectory()) return { records: [], files: 0 };
-  const names = readdirSync(full).filter((n) => n.endsWith(".json")).sort();
   const records = [];
-  for (const n of names) {
-    const data = JSON.parse(readFileSync(join(full, n), "utf8"));
-    if (!Array.isArray(data)) throw new Error(`${dir}/${n}: atteso un array`);
-    records.push(...data);
+  let files = 0;
+  for (const p of listJson(full)) {
+    const data = JSON.parse(readFileSync(p, "utf8"));
+    if (!Array.isArray(data)) {
+      console.warn(`  salto ${p.slice(root.length + 1)}: non e' un array di record`);
+      continue;
+    }
+    records.push(...data.filter((r) => r && typeof r === "object" && typeof r.id === "string"));
+    files++;
   }
-  return { records, files: names.length };
+  return { records, files };
 }
 
 function dedupe(records, label) {
