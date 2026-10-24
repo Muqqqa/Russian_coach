@@ -1,0 +1,1111 @@
+[
+ {
+  "id": "e_001209",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_skazat"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "сказа́ть",
+   "answer": "dire",
+   "accepted": [
+    "dire"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001210",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_nayti",
+   "w_koshka"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Найди́ ко́шку.",
+   "answer": "Trova il gatto.",
+   "accepted": [
+    "Trova il gatto.",
+    "Trova il gatto",
+    "trova il gatto",
+    "trova il gatto."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001211",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_skazat"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "dire",
+   "answer": "сказа́ть",
+   "accepted": [
+    "сказа́ть",
+    "говори́ть",
+    "говорить",
+    "сказать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001212",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_on",
+   "w_skazat"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Lui ha parlato.",
+   "answer": "О́н сказа́л.",
+   "accepted": [
+    "О́н сказа́л.",
+    "О́н сказа́л",
+    "Он сказал.",
+    "Он сказал",
+    "он сказал.",
+    "он сказал",
+    "о́н сказа́л"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001213",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_roditsya"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "роди́ться",
+   "answer": "nascere",
+   "accepted": [
+    "nascere"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001214",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_on",
+   "w_nayti",
+   "w_ya"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Его́ нашёл я́.",
+   "answer": "L'ho trovato io.",
+   "accepted": [
+    "L'ho trovato io.",
+    "L'ho trovato io",
+    "l'ho trovato io",
+    "l'ho trovato io."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001215",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_nayti"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "trovare",
+   "answer": "найти́",
+   "accepted": [
+    "найти́",
+    "найти"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001216",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_nayti"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вчера́ они́ ___ (найти́).",
+   "answer": "нашли́",
+   "accepted": [
+    "нашли́",
+    "нашли"
+   ],
+   "hint_it": "trovare (ieri): loro"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001217",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_ty"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ боле́л.",
+   "answer": "Ты́",
+   "accepted": [
+    "Ты́",
+    "Ты",
+    "ты",
+    "ты́"
+   ],
+   "hint_it": "Eri malato."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001218",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_nachat"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "За́втра вы́ ___ (нача́ть).",
+   "answer": "начнёте",
+   "accepted": [
+    "начнёте",
+    "начнете"
+   ],
+   "hint_it": "iniziare: voi (domani)"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001219",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_ona"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Скажи́те ___.",
+   "answer": "е́й",
+   "accepted": [
+    "е́й",
+    "ей"
+   ],
+   "hint_it": "Diteglielo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001220",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_skazat"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "За́втра вы́ ___ (сказа́ть).",
+   "answer": "ска́жете",
+   "accepted": [
+    "ска́жете",
+    "скажете"
+   ],
+   "hint_it": "dire: voi (domani)"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001221",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_koshka"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Найди́те ___.",
+   "answer": "ко́шку",
+   "accepted": [
+    "ко́шку",
+    "кошку"
+   ],
+   "hint_it": "Trovi il gatto."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001222",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_nayti"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma del passato giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вчера́ он ___ (найти́). — trovare (ieri): lui",
+   "options": [
+    "нашёл",
+    "нашла́",
+    "нашли́"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001223",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_eto",
+   "w_tolko",
+   "w_nachat"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то то́лько на́чало.",
+   "options": [
+    "Questo è solamente l'inizio.",
+    "Questa è la sua ragazza.",
+    "Dov'è questo posto?",
+    "Queste sono le sue cose."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001224",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_znachit"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «зна́чить»?",
+   "options": [
+    "entrare",
+    "cercare",
+    "uscire",
+    "significare"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001225",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_ya",
+   "w_spat",
+   "w_devyat",
+   "w_chas"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 20,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Ho dormito nove ore.",
+   "options": [
+    "Я́ спа́л де́вять часо́в.",
+    "Я́ роди́лся в Росси́и.",
+    "\"Кото́рый ча́с?\" — \"Де́сять\".",
+    "Мы́ е́хали не́сколько часо́в."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001226",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_nayti"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «trovare» in russo?",
+   "options": [
+    "зна́ть",
+    "гото́вить",
+    "найти́",
+    "е́сть"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001227",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_nayti"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 14,
+  "prompt_it": "Coniuga il verbo: scegli la forma giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "За́втра они́ ___ (найти́). — trovare: loro (domani)",
+   "options": [
+    "найду́т",
+    "найдёшь",
+    "найдёте",
+    "найдёт"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001228",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_roditsya",
+   "w_skazat",
+   "w_nachat",
+   "w_nayti",
+   "w_znachit"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "роди́ться",
+     "it": "nascere"
+    },
+    {
+     "ru": "сказа́ть",
+     "it": "dire"
+    },
+    {
+     "ru": "нача́ть",
+     "it": "iniziare"
+    },
+    {
+     "ru": "найти́",
+     "it": "trovare"
+    },
+    {
+     "ru": "зна́чить",
+     "it": "significare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001229",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "comunicazione",
+   "mente"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_on",
+   "w_skazat",
+   "w_eto",
+   "w_kazhdyy",
+   "w_moch"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "О́н сказа́л.",
+     "it": "Lui ha parlato."
+    },
+    {
+     "ru": "Э́то ка́ждый мо́жет сказа́ть!",
+     "it": "Questo può dirlo chiunque!"
+    },
+    {
+     "ru": "Хоте́ть - зна́чит мо́чь.",
+     "it": "Volere è potere."
+    },
+    {
+     "ru": "Я́ пра́вильно сказа́ла?",
+     "it": "Ho detto bene?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001230",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "azioni",
+   "tempo"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_nayti",
+   "w_nachat",
+   "w_roditsya",
+   "w_nikogda",
+   "w_chetyre",
+   "w_dorogoy"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "найти́",
+     "it": "trovare"
+    },
+    {
+     "ru": "нача́ть",
+     "it": "iniziare"
+    },
+    {
+     "ru": "роди́ться",
+     "it": "nascere"
+    },
+    {
+     "ru": "никогда́",
+     "it": "mai"
+    },
+    {
+     "ru": "четы́ре",
+     "it": "quattro"
+    },
+    {
+     "ru": "дорого́й",
+     "it": "caro"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001231",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_nachat",
+   "w_skazat",
+   "w_znachit",
+   "w_roditsya",
+   "w_nayti"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "нача́ть",
+     "it": "iniziare"
+    },
+    {
+     "ru": "сказа́ть",
+     "it": "dire"
+    },
+    {
+     "ru": "зна́чить",
+     "it": "significare"
+    },
+    {
+     "ru": "роди́ться",
+     "it": "nascere"
+    },
+    {
+     "ru": "найти́",
+     "it": "trovare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001232",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_chto",
+   "w_eto",
+   "w_znachit",
+   "w_ya",
+   "w_pravilno",
+   "w_skazat"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Что́ э́то зна́чит?",
+     "it": "Che cosa significa?"
+    },
+    {
+     "ru": "Я́ пра́вильно сказа́л?",
+     "it": "Ho detto bene?"
+    },
+    {
+     "ru": "Я́ зна́л.",
+     "it": "Lo sapevo."
+    },
+    {
+     "ru": "Что́ ты́ купи́л?",
+     "it": "Che hai comprato?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001233",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "azioni",
+   "soldi",
+   "concetti"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_nayti",
+   "w_znachit",
+   "w_roditsya",
+   "w_kupit",
+   "w_problema",
+   "w_smotret"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "найти́",
+     "it": "trovare"
+    },
+    {
+     "ru": "зна́чить",
+     "it": "significare"
+    },
+    {
+     "ru": "роди́ться",
+     "it": "nascere"
+    },
+    {
+     "ru": "купи́ть",
+     "it": "comprare"
+    },
+    {
+     "ru": "пробле́ма",
+     "it": "problema"
+    },
+    {
+     "ru": "смотре́ть",
+     "it": "guardare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001234",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "mente",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_khotet",
+   "w_znachit",
+   "w_moch"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Хоте́ть зна́чит мо́чь.",
+   "translation_it": "Volere vuol dire potere.",
+   "accepted": [
+    "Хоте́ть зна́чит мо́чь.",
+    "Хоте́ть зна́чит мо́чь",
+    "Хотеть значит мочь.",
+    "Хотеть значит мочь",
+    "хотеть значит мочь.",
+    "хотеть значит мочь",
+    "хоте́ть зна́чит мо́чь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001235",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_roditsya"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "роди́ться",
+   "translation_it": "nascere",
+   "accepted": [
+    "роди́ться",
+    "родиться"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001236",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_khoroshiy",
+   "w_nachat"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Хоро́шее на́чало!",
+   "translation_it": "È un buon inizio!",
+   "accepted": [
+    "Хоро́шее на́чало!",
+    "Хоро́шее на́чало",
+    "Хорошее начало!",
+    "Хорошее начало",
+    "хорошее начало!",
+    "хорошее начало",
+    "хоро́шее на́чало"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001237",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_znachit"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "зна́чить",
+   "translation_it": "significare",
+   "accepted": [
+    "зна́чить",
+    "значить"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001238",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "luoghi",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_eto",
+   "w_derevnya",
+   "w_gde",
+   "w_ya",
+   "w_roditsya"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 30,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то дере́вня, где́ я́ родила́сь.",
+   "translation_it": "Questo è il villaggio dove sono nata.",
+   "accepted": [
+    "Э́то дере́вня, где́ я́ родила́сь.",
+    "Э́то дере́вня где́ я́ родила́сь",
+    "Это деревня, где я родилась.",
+    "Это деревня где я родилась",
+    "это деревня, где я родилась.",
+    "это деревня где я родилась",
+    "э́то дере́вня где́ я́ родила́сь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001239",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense",
+   "aspect"
+  ],
+  "words": [
+   "w_nayti"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "найти́",
+   "translation_it": "trovare",
+   "accepted": [
+    "найти́",
+    "найти"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

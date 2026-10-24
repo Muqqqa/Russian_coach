@@ -1,0 +1,1326 @@
+[
+ {
+  "id": "e_001394",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_svoy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "сво́й",
+   "answer": "proprio",
+   "accepted": [
+    "proprio"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001395",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "casa"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_skolko",
+   "w_ves",
+   "w_stul"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Ско́лько всего́ сту́льев?",
+   "answer": "Quante sono le sedie?",
+   "accepted": [
+    "Quante sono le sedie?",
+    "Quante sono le sedie",
+    "quante sono le sedie",
+    "quante sono le sedie?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001396",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "mente",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_khotet",
+   "w_etot"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Voglio questa.",
+   "answer": "Хочу́ э́ту.",
+   "accepted": [
+    "Хочу́ э́ту.",
+    "Хочу́ э́ту",
+    "Хочу эту.",
+    "Хочу эту",
+    "хочу эту.",
+    "хочу эту",
+    "хочу́ э́ту"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001397",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_ves"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ве́сь",
+   "answer": "tutto",
+   "accepted": [
+    "tutto",
+    "intero"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001398",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_ty",
+   "w_moy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Ты́ моя́.",
+   "answer": "Sei mia.",
+   "accepted": [
+    "Sei mia.",
+    "Sei mia",
+    "sei mia",
+    "sei mia.",
+    "Tu sei mia.",
+    "Tu sei mia",
+    "tu sei mia",
+    "tu sei mia."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001399",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_vot",
+   "w_tvoy",
+   "w_napitok"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Ecco la tua bibita.",
+   "answer": "Вот тво́й напи́ток.",
+   "accepted": [
+    "Вот тво́й напи́ток.",
+    "Вот тво́й напи́ток",
+    "Вот твой напиток.",
+    "Вот твой напиток",
+    "вот твой напиток.",
+    "вот твой напиток",
+    "вот тво́й напи́ток"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001400",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_tot"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "то́т",
+   "answer": "quello",
+   "accepted": [
+    "quello"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001401",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "cibo-bevande",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_tvoy",
+   "w_chashka",
+   "w_na",
+   "w_stol"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Твоя́ ча́шка на столе́.",
+   "answer": "La tua tazza è sul tavolo.",
+   "accepted": [
+    "La tua tazza è sul tavolo.",
+    "La tua tazza è sul tavolo",
+    "la tua tazza è sul tavolo",
+    "la tua tazza è sul tavolo.",
+    "La tua tazza e' sul tavolo.",
+    "la tua tazza e' sul tavolo",
+    "la tua tazza e sul tavolo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001402",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_sam"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___!",
+   "answer": "сама́",
+   "accepted": [
+    "сама́",
+    "сама"
+   ],
+   "hint_it": "Io stessa!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001403",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_syn"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Моему́ ___ во́семь ле́т.",
+   "answer": "сы́ну",
+   "accepted": [
+    "сы́ну",
+    "сыну"
+   ],
+   "hint_it": "Mio figlio ha otto anni."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001404",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_tvoy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Кото́рый ___?",
+   "answer": "тво́й",
+   "accepted": [
+    "тво́й",
+    "твой"
+   ],
+   "hint_it": "Qual è il tuo?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001405",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_moy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Она́ ___ сестра́.",
+   "answer": "моя́",
+   "accepted": [
+    "моя́",
+    "моя"
+   ],
+   "hint_it": "Lei è mia sorella."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001406",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_tvoy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Кото́рая ___?",
+   "answer": "твоя́",
+   "accepted": [
+    "твоя́",
+    "твоя"
+   ],
+   "hint_it": "Qual è la tua?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001407",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_drug"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Твои́ ___?",
+   "answer": "друзья́",
+   "accepted": [
+    "друзья́",
+    "друзья"
+   ],
+   "hint_it": "Amici tuoi?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001408",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_tvoy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Како́й ___?",
+   "answer": "тво́й",
+   "accepted": [
+    "тво́й",
+    "твой"
+   ],
+   "hint_it": "Qual è il tuo?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001409",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_ya",
+   "w_prinesti",
+   "w_svoy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ принёс свою́.",
+   "options": [
+    "Ho portato la mia.",
+    "Ho comprato il biglietto.",
+    "Vai senza di me.",
+    "Nemmeno io."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001410",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_tot"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «то́т»?",
+   "options": [
+    "tu",
+    "quello",
+    "mio",
+    "voi"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001411",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_eto",
+   "w_moy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "È mio?",
+   "options": [
+    "Э́то семья́?",
+    "Э́то мо́й?",
+    "Э́то после́дняя.",
+    "Э́то пробле́ма."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001412",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_brat",
+   "w_moy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Бра́тья мои́!",
+   "options": [
+    "È mio?",
+    "Fratelli miei!",
+    "Mi fa male un braccio.",
+    "Questo posto è mio."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001413",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_ves"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «ве́сь»?",
+   "options": [
+    "tutto",
+    "se stesso",
+    "tale",
+    "proprio"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001414",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_u",
+   "w_my",
+   "w_ves",
+   "w_kak",
+   "w_obychno"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 22,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Per noi tutto come al solito.",
+   "options": [
+    "Мы́ зде́сь с октября́ ме́сяца.",
+    "Мы́ идём в ба́р.",
+    "У ва́с о́чень краси́вая до́чка.",
+    "У на́с всё ка́к обы́чно."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001415",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_etot",
+   "w_chay",
+   "w_vkusnyy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́тот ча́й вку́сный.",
+   "options": [
+    "Il cibo è delizioso.",
+    "Questo tè è delizioso.",
+    "Tè o caffè?",
+    "Voglio questi tre."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001416",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_sebya",
+   "w_etot",
+   "w_svoy",
+   "w_tvoy",
+   "w_moy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "себя́",
+     "it": "se stesso"
+    },
+    {
+     "ru": "э́тот",
+     "it": "questo"
+    },
+    {
+     "ru": "сво́й",
+     "it": "proprio"
+    },
+    {
+     "ru": "тво́й",
+     "it": "tuo"
+    },
+    {
+     "ru": "мо́й",
+     "it": "mio"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001417",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_etot",
+   "w_vy",
+   "w_tvoy",
+   "w_plokhoy",
+   "w_ona",
+   "w_moy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Э́ти ва́м.",
+     "it": "Questi sono per voi."
+    },
+    {
+     "ru": "Твоё ху́же.",
+     "it": "Il tuo è peggio."
+    },
+    {
+     "ru": "Она́ моя́ сестра́.",
+     "it": "Lei è mia sorella."
+    },
+    {
+     "ru": "Вот моя́ ко́мната.",
+     "it": "Ecco la mia stanza."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001418",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "trasporti",
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_ves",
+   "w_tot",
+   "w_svoy",
+   "w_vkhod",
+   "w_roditel",
+   "w_schyot"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ве́сь",
+     "it": "tutto"
+    },
+    {
+     "ru": "то́т",
+     "it": "quello"
+    },
+    {
+     "ru": "сво́й",
+     "it": "proprio"
+    },
+    {
+     "ru": "вхо́д",
+     "it": "entrata"
+    },
+    {
+     "ru": "роди́тель",
+     "it": "genitore"
+    },
+    {
+     "ru": "счёт",
+     "it": "conto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001419",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_ves",
+   "w_etot",
+   "w_svoy",
+   "w_sam"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ве́сь",
+     "it": "tutto"
+    },
+    {
+     "ru": "э́тот",
+     "it": "questo"
+    },
+    {
+     "ru": "сво́й",
+     "it": "proprio"
+    },
+    {
+     "ru": "са́м",
+     "it": "stesso"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001420",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "descrizioni",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_ya",
+   "w_tvoy",
+   "w_starshiy",
+   "w_sestra",
+   "w_prinesti"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ твоя́ ста́ршая сестра́.",
+     "it": "Sono la tua sorella maggiore."
+    },
+    {
+     "ru": "Я́ принёс сво́й.",
+     "it": "Ho portato il mio."
+    },
+    {
+     "ru": "Вы́ почти́ всё?",
+     "it": "Avete quasi finito?"
+    },
+    {
+     "ru": "Э́ти не дешёвые.",
+     "it": "Questi non sono economici."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001421",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "tempo"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_tot",
+   "w_sebya",
+   "w_tvoy",
+   "w_nikogda",
+   "w_otets",
+   "w_botinok"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "то́т",
+     "it": "quello"
+    },
+    {
+     "ru": "себя́",
+     "it": "se stesso"
+    },
+    {
+     "ru": "тво́й",
+     "it": "tuo"
+    },
+    {
+     "ru": "никогда́",
+     "it": "mai"
+    },
+    {
+     "ru": "оте́ц",
+     "it": "padre"
+    },
+    {
+     "ru": "боти́нок",
+     "it": "stivaletto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001422",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_tvoy",
+   "w_sebya",
+   "w_tot",
+   "w_moy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "тво́й",
+     "it": "tuo"
+    },
+    {
+     "ru": "себя́",
+     "it": "se stesso"
+    },
+    {
+     "ru": "то́т",
+     "it": "quello"
+    },
+    {
+     "ru": "мо́й",
+     "it": "mio"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001423",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_ty",
+   "w_moy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ты́ моя́.",
+   "translation_it": "Sei mia.",
+   "accepted": [
+    "Ты́ моя́.",
+    "Ты́ моя́",
+    "Ты моя.",
+    "Ты моя",
+    "ты моя.",
+    "ты моя",
+    "ты́ моя́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001424",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_tvoy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "тво́й",
+   "translation_it": "tuo",
+   "accepted": [
+    "тво́й",
+    "твой"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001425",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_ty",
+   "w_moy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ты́ мо́й.",
+   "translation_it": "Sei mio.",
+   "accepted": [
+    "Ты́ мо́й.",
+    "Ты́ мо́й",
+    "Ты мой.",
+    "Ты мой",
+    "ты мой.",
+    "ты мой",
+    "ты́ мо́й"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001426",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_sebya"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "себя́",
+   "translation_it": "se stesso",
+   "accepted": [
+    "себя́",
+    "себя"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001427",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "numeri"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_moy",
+   "w_syn",
+   "w_vosem",
+   "w_god"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Моему́ сы́ну во́семь ле́т.",
+   "translation_it": "Mio figlio ha otto anni.",
+   "accepted": [
+    "Моему́ сы́ну во́семь ле́т.",
+    "Моему́ сы́ну во́семь ле́т",
+    "Моему сыну восемь лет.",
+    "Моему сыну восемь лет",
+    "моему сыну восемь лет.",
+    "моему сыну восемь лет",
+    "моему́ сы́ну во́семь ле́т"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001428",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_svoy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "сво́й",
+   "translation_it": "proprio",
+   "accepted": [
+    "сво́й",
+    "свой"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001429",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_eto",
+   "w_restoran",
+   "w_moy",
+   "w_mat"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то рестора́н мое́й ма́тери.",
+   "translation_it": "Questo ristorante è di mia madre.",
+   "accepted": [
+    "Э́то рестора́н мое́й ма́тери.",
+    "Э́то рестора́н мое́й ма́тери",
+    "Это ресторан моей матери.",
+    "Это ресторан моей матери",
+    "это ресторан моей матери.",
+    "это ресторан моей матери",
+    "э́то рестора́н мое́й ма́тери"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

@@ -71,6 +71,25 @@ def it_variants(text):
     return out
 
 
+def _articles(g):
+    """articoli plausibili per un nome italiano (euristica sulla desinenza)"""
+    g = g.lower()
+    w0 = g.split(" ")[0]
+    vow = w0[0] in "aeiouàèéìòù"
+    last = w0[-1]
+    fem = last in "aàù" or w0.endswith("ione")
+    both = last == "e"
+    lo = bool(re.match(r"^(s[^aeiou]|z|gn|ps|x|y)", w0))
+    out = []
+    if not fem or both:
+        if vow:
+            out += ["l'", "un "]
+        else:
+            out += ["lo ", "uno "] if lo else ["il ", "un "]
+    if fem or both:
+        out += ["l'", "un'"] if vow else ["la ", "una "]
+    return out
+
 def gloss_variants(glosses, pos=None):
     out = []
     def add(x):
@@ -81,13 +100,10 @@ def gloss_variants(glosses, pos=None):
         g = g.strip()
         add(g)
         add(g.lower())
-        if pos == "noun":
-            for art in ("il ", "lo ", "la ", "l'", "un ", "uno ", "una ", "un'"):
+        if pos == "noun" and " " not in g.strip():
+            for art in _articles(g):
                 add(art + g.lower())
-        if pos == "verb" and False:
-            pass
-        sd = strip_diacritics(g.lower())
-        add(sd)
+        add(strip_diacritics(g.lower()))
     return out
 
 

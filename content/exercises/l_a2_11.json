@@ -1,0 +1,1443 @@
+[
+ {
+  "id": "e_001778",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_nad"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "на́д",
+   "answer": "sopra",
+   "accepted": [
+    "sopra"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001779",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_ty",
+   "w_za",
+   "w_ya"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Ты́ за мно́й?",
+   "answer": "Sei venuto per me?",
+   "accepted": [
+    "Sei venuto per me?",
+    "Sei venuto per me",
+    "sei venuto per me",
+    "sei venuto per me?",
+    "Tu sei venuto per me?",
+    "Tu sei venuto per me",
+    "tu sei venuto per me",
+    "tu sei venuto per me?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001780",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_oni",
+   "w_sredi",
+   "w_my"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Sono tra noi!",
+   "answer": "Они́ среди́ на́с!",
+   "accepted": [
+    "Они́ среди́ на́с!",
+    "Они́ среди́ на́с",
+    "Они среди нас!",
+    "Они среди нас",
+    "они среди нас!",
+    "они среди нас",
+    "они́ среди́ на́с"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001781",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_vokrug"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "вокру́г",
+   "answer": "intorno a",
+   "accepted": [
+    "intorno a"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001782",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_ona",
+   "w_pod",
+   "w_stul"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Она́ под сту́лом.",
+   "answer": "Lei è sotto la sedia.",
+   "accepted": [
+    "Lei è sotto la sedia.",
+    "Lei è sotto la sedia",
+    "lei è sotto la sedia",
+    "lei è sotto la sedia.",
+    "Lei e' sotto la sedia.",
+    "lei e' sotto la sedia",
+    "lei e sotto la sedia"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001783",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_chto",
+   "w_eto",
+   "w_za",
+   "w_sup"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Che tipo di minestra è questa?",
+   "answer": "Что́ э́то за су́п?",
+   "accepted": [
+    "Что́ э́то за су́п?",
+    "Что́ э́то за су́п",
+    "Что это за суп?",
+    "Что это за суп",
+    "что это за суп?",
+    "что это за суп",
+    "что́ э́то за су́п"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001784",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_pod"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "по́д",
+   "answer": "sotto",
+   "accepted": [
+    "sotto"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001785",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_vse",
+   "w_vokrug",
+   "w_lyubit",
+   "w_ya"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Все́ вокру́г лю́бят меня́.",
+   "answer": "Piaccio a tutti qui intorno.",
+   "accepted": [
+    "Piaccio a tutti qui intorno.",
+    "Piaccio a tutti qui intorno",
+    "piaccio a tutti qui intorno",
+    "piaccio a tutti qui intorno."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001786",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_ya",
+   "w_ukhodit",
+   "w_cherez",
+   "w_chas"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Me ne vado tra un'ora.",
+   "answer": "Я́ ухожу́ че́рез ча́с.",
+   "accepted": [
+    "Я́ ухожу́ че́рез ча́с.",
+    "Я́ ухожу́ че́рез ча́с",
+    "Я ухожу через час.",
+    "Я ухожу через час",
+    "я ухожу через час.",
+    "я ухожу через час",
+    "я́ ухожу́ че́рез ча́с"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001787",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case",
+   "genitive"
+  ],
+  "words": [
+   "w_krovat"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ко́шка во́зле ___.",
+   "answer": "крова́ти",
+   "accepted": [
+    "крова́ти",
+    "кровати"
+   ],
+   "hint_it": "Il gatto è vicino al letto."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001788",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "natura"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_nebo"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ — над голово́й.",
+   "answer": "Не́бо",
+   "accepted": [
+    "Не́бо",
+    "Небо",
+    "небо",
+    "не́бо"
+   ],
+   "hint_it": "Il cielo è sopra la testa."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001789",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_dom"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Соба́ка за ___.",
+   "answer": "до́мом",
+   "accepted": [
+    "до́мом",
+    "домом"
+   ],
+   "hint_it": "Il cane è dietro la casa."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001790",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_my"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "За ___.",
+   "answer": "на́с",
+   "accepted": [
+    "на́с",
+    "нас"
+   ],
+   "hint_it": "A noi."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001791",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case",
+   "genitive"
+  ],
+  "words": [
+   "w_dom"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Соба́ка о́коло ___.",
+   "answer": "до́ма",
+   "accepted": [
+    "до́ма",
+    "дома"
+   ],
+   "hint_it": "Il cane è vicino alla casa."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001792",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_lyubit"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 20,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ко́шка ___ спа́ть во́зле меня́.",
+   "answer": "лю́бит",
+   "accepted": [
+    "лю́бит",
+    "любит"
+   ],
+   "hint_it": "Al gatto piace dormire accanto a me."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001793",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_stul"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ко́шка пе́ред ___.",
+   "answer": "сту́лом",
+   "accepted": [
+    "сту́лом",
+    "стулом"
+   ],
+   "hint_it": "Il gatto è davanti alla sedia."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001794",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_vokrug"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Посмотри́ ___.",
+   "answer": "вокру́г",
+   "accepted": [
+    "вокру́г",
+    "вокруг"
+   ],
+   "hint_it": "Guardati attorno."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001795",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_dom"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (posizione: dove?).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Маши́на пе́ред ___. — L'auto è davanti alla casa.",
+   "options": [
+    "до́му",
+    "до́м",
+    "до́ма",
+    "до́мом"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001796",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "azioni",
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_koshka",
+   "w_lyubit",
+   "w_spat",
+   "w_vozle",
+   "w_ya"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 20,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Ко́шка лю́бит спа́ть во́зле меня́.",
+   "options": [
+    "Al gatto piace dormire accanto a me.",
+    "Penso che lui sia una brutta persona.",
+    "Nel villaggio non lo amano.",
+    "Faccio questo ogni settimana."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001797",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_za"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «за́»?",
+   "options": [
+    "su",
+    "fino a",
+    "dietro",
+    "presso"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001798",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_za",
+   "w_my"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "A noi.",
+   "options": [
+    "Мы́ лю́ди.",
+    "За на́с.",
+    "Мы́ пое́дем.",
+    "Мы́ семья́."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001799",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_za",
+   "w_my"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "За на́с.",
+   "options": [
+    "Ci piace!",
+    "Noi stiamo scrivendo.",
+    "Dove siamo?",
+    "A noi."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001800",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_pod"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «по́д»?",
+   "options": [
+    "attraverso",
+    "sotto",
+    "dietro",
+    "tra"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001801",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_ya",
+   "w_ne",
+   "w_protiv",
+   "w_za"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 24,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Non sono contrario, sono a favore.",
+   "options": [
+    "В дере́вне его́ не лю́бят.",
+    "Я́ не про́тив, я́ — за.",
+    "Сле́дующего ра́за мо́жет и не бы́ть.",
+    "Не ду́маю, что́ они́ плохи́е лю́ди."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001802",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_chto",
+   "w_vy",
+   "w_protiv",
+   "w_ona",
+   "w_imet"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 20,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Что́ вы́ про́тив неё име́ете?",
+   "options": [
+    "Non siamo riusciti a trovarla.",
+    "Cosa avete contro di lei?",
+    "Niente può fermarvi.",
+    "Cosa fate dopo la scuola?"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001803",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_mimo",
+   "w_nad",
+   "w_protiv",
+   "w_vozle",
+   "w_cherez"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ми́мо",
+     "it": "oltre"
+    },
+    {
+     "ru": "на́д",
+     "it": "sopra"
+    },
+    {
+     "ru": "про́тив",
+     "it": "contro"
+    },
+    {
+     "ru": "во́зле",
+     "it": "accanto a"
+    },
+    {
+     "ru": "че́рез",
+     "it": "attraverso"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001804",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni",
+   "azioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_posmotret",
+   "w_vokrug",
+   "w_seychas",
+   "w_okolo",
+   "w_pyat",
+   "w_ya"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Посмотри́ вокру́г.",
+     "it": "Guardati attorno."
+    },
+    {
+     "ru": "Сейча́с о́коло пяти́.",
+     "it": "Ora sono le cinque circa."
+    },
+    {
+     "ru": "Я́ ухожу́ че́рез ча́с.",
+     "it": "Me ne vado tra un'ora."
+    },
+    {
+     "ru": "Все́ вокру́г лю́бят меня́.",
+     "it": "Piaccio a tutti qui intorno."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001805",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni",
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_pod",
+   "w_pri",
+   "w_za",
+   "w_zhena",
+   "w_vkusno",
+   "w_nikto"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "по́д",
+     "it": "sotto"
+    },
+    {
+     "ru": "при́",
+     "it": "presso"
+    },
+    {
+     "ru": "за́",
+     "it": "dietro"
+    },
+    {
+     "ru": "жена́",
+     "it": "moglie"
+    },
+    {
+     "ru": "вку́сно",
+     "it": "gustoso"
+    },
+    {
+     "ru": "никто́",
+     "it": "nessuno"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001806",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_okolo",
+   "w_pod",
+   "w_protiv",
+   "w_cherez"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "о́коло",
+     "it": "vicino a"
+    },
+    {
+     "ru": "по́д",
+     "it": "sotto"
+    },
+    {
+     "ru": "про́тив",
+     "it": "contro"
+    },
+    {
+     "ru": "че́рез",
+     "it": "attraverso"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001807",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_my",
+   "w_ekhat",
+   "w_cherez",
+   "w_gorod",
+   "w_ona",
+   "w_pod"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Мы́ е́хали че́рез го́род.",
+     "it": "Abbiamo guidato attraverso la città."
+    },
+    {
+     "ru": "Она́ под сту́лом.",
+     "it": "Lei è sotto la sedia."
+    },
+    {
+     "ru": "Они́ среди́ на́с!",
+     "it": "Sono tra noi!"
+    },
+    {
+     "ru": "Не́бо — над голово́й.",
+     "it": "Il cielo è sopra la testa."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001808",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni",
+   "numeri",
+   "tempo"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_pod",
+   "w_pri",
+   "w_mimo",
+   "w_shest",
+   "w_segodnya",
+   "w_kupit"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "по́д",
+     "it": "sotto"
+    },
+    {
+     "ru": "при́",
+     "it": "presso"
+    },
+    {
+     "ru": "ми́мо",
+     "it": "oltre"
+    },
+    {
+     "ru": "ше́сть",
+     "it": "sei"
+    },
+    {
+     "ru": "сего́дня",
+     "it": "oggi"
+    },
+    {
+     "ru": "купи́ть",
+     "it": "comprare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001809",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_sredi",
+   "w_pri",
+   "w_vozle"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "среди́",
+     "it": "tra"
+    },
+    {
+     "ru": "при́",
+     "it": "presso"
+    },
+    {
+     "ru": "во́зле",
+     "it": "accanto a"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001810",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_chto",
+   "w_vy",
+   "w_protiv",
+   "w_ona",
+   "w_imet"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 30,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Что́ вы́ про́тив неё име́ете?",
+   "translation_it": "Cosa avete contro di lei?",
+   "accepted": [
+    "Что́ вы́ про́тив неё име́ете?",
+    "Что́ вы́ про́тив неё име́ете",
+    "Что вы против неё имеете?",
+    "Что вы против неё имеете",
+    "что вы против неё имеете?",
+    "что вы против неё имеете",
+    "что́ вы́ про́тив неё име́ете",
+    "Что вы против нее имеете?",
+    "что вы против нее имеете"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001811",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_okolo"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "о́коло",
+   "translation_it": "vicino a",
+   "accepted": [
+    "о́коло",
+    "около"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001812",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_oni",
+   "w_uzhe",
+   "w_sredi",
+   "w_my"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Они́ уже́ среди́ на́с.",
+   "translation_it": "Loro sono già tra di noi.",
+   "accepted": [
+    "Они́ уже́ среди́ на́с.",
+    "Они́ уже́ среди́ на́с",
+    "Они уже среди нас.",
+    "Они уже среди нас",
+    "они уже среди нас.",
+    "они уже среди нас",
+    "они́ уже́ среди́ на́с"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001813",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_protiv"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "про́тив",
+   "translation_it": "contro",
+   "accepted": [
+    "про́тив",
+    "против"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001814",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_pod",
+   "w_krovat",
+   "w_koshka"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Под крова́тью ко́шка.",
+   "translation_it": "C'è un gatto sotto il letto.",
+   "accepted": [
+    "Под крова́тью ко́шка.",
+    "Под крова́тью ко́шка",
+    "Под кроватью кошка.",
+    "Под кроватью кошка",
+    "под кроватью кошка.",
+    "под кроватью кошка",
+    "под крова́тью ко́шка"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001815",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_vozle"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "во́зле",
+   "translation_it": "accanto a",
+   "accepted": [
+    "во́зле",
+    "возле"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001816",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_ya",
+   "w_ukhodit",
+   "w_cherez",
+   "w_chas"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ ухожу́ че́рез ча́с.",
+   "translation_it": "Me ne vado tra un'ora.",
+   "accepted": [
+    "Я́ ухожу́ че́рез ча́с.",
+    "Я́ ухожу́ че́рез ча́с",
+    "Я ухожу через час.",
+    "Я ухожу через час",
+    "я ухожу через час.",
+    "я ухожу через час",
+    "я́ ухожу́ че́рез ча́с"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001817",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositions-place",
+   "instrumental-case"
+  ],
+  "words": [
+   "w_pod"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "по́д",
+   "translation_it": "sotto",
+   "accepted": [
+    "по́д",
+    "под"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

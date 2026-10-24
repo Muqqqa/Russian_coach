@@ -1,0 +1,1388 @@
+[
+ {
+  "id": "e_000180",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_vkusno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 12,
+  "prompt_it": "Leggi la parola russa e scrivila con lettere italiane (come si pronuncia).",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "вку́сно",
+   "answer": "vkùsno",
+   "accepted": [
+    "vkùsno"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000181",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_bankomat"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "банкома́т",
+   "answer": "bancomat",
+   "accepted": [
+    "bancomat",
+    "il bancomat",
+    "un bancomat"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000182",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_ya",
+   "w_iz",
+   "w_rossiya"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ из Росси́и.",
+   "answer": "Vengo dalla Russia.",
+   "accepted": [
+    "Vengo dalla Russia.",
+    "Vengo dalla Russia",
+    "vengo dalla russia",
+    "vengo dalla russia.",
+    "Io vengo dalla Russia.",
+    "Io vengo dalla Russia",
+    "io vengo dalla russia",
+    "io vengo dalla russia."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000183",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_kholodno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "fa freddo",
+   "answer": "хо́лодно",
+   "accepted": [
+    "хо́лодно",
+    "холодно"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000184",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_govorit",
+   "w_medlenno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Parla lentamente.",
+   "answer": "Говори́ ме́дленно.",
+   "accepted": [
+    "Говори́ ме́дленно.",
+    "Говори́ ме́дленно",
+    "Говори медленно.",
+    "Говори медленно",
+    "говори медленно.",
+    "говори медленно",
+    "говори́ ме́дленно"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000185",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_rossiya"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 12,
+  "prompt_it": "Leggi la parola russa e scrivila con lettere italiane (come si pronuncia).",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Росси́я",
+   "answer": "rossìia",
+   "accepted": [
+    "rossìia"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000186",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_rossiya"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Росси́я",
+   "answer": "Russia",
+   "accepted": [
+    "Russia",
+    "russia",
+    "la russia",
+    "una russia"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000187",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_tam",
+   "w_kholodno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Та́м хо́лодно.",
+   "answer": "Lì fa freddo.",
+   "accepted": [
+    "Lì fa freddo.",
+    "Lì fa freddo",
+    "lì fa freddo",
+    "lì fa freddo.",
+    "Li' fa freddo.",
+    "li' fa freddo",
+    "li fa freddo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000188",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_oktyabr"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "ottobre",
+   "answer": "октя́брь",
+   "accepted": [
+    "октя́брь",
+    "октябрь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000189",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_govorit"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ме́дленно.",
+   "answer": "Говори́",
+   "accepted": [
+    "Говори́",
+    "Говори",
+    "говори",
+    "говори́"
+   ],
+   "hint_it": "Parla lentamente."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000190",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_medlenno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Говори́ ___.",
+   "answer": "ме́дленно",
+   "accepted": [
+    "ме́дленно",
+    "медленно"
+   ],
+   "hint_it": "Parla lentamente."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000191",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_tam"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ хо́лодно.",
+   "answer": "Та́м",
+   "accepted": [
+    "Та́м",
+    "Там",
+    "там",
+    "та́м"
+   ],
+   "hint_it": "Lì fa freddo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000192",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_rossiya"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ из ___.",
+   "answer": "Росси́и",
+   "accepted": [
+    "Росси́и",
+    "России",
+    "россии",
+    "росси́и"
+   ],
+   "hint_it": "Vengo dalla Russia."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000193",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_ya"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ хо́лодно.",
+   "answer": "Мне́",
+   "accepted": [
+    "Мне́",
+    "Мне",
+    "мне",
+    "мне́"
+   ],
+   "hint_it": "Ho freddo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000194",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_iz"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ Росси́и.",
+   "answer": "из",
+   "accepted": [
+    "из"
+   ],
+   "hint_it": "Vengo dalla Russia."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000195",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_kholodno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Та́м ___.",
+   "answer": "хо́лодно",
+   "accepted": [
+    "хо́лодно",
+    "холодно"
+   ],
+   "hint_it": "Lì fa freddo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000196",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_kholodno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Мне́ ___.",
+   "answer": "хо́лодно",
+   "accepted": [
+    "хо́лодно",
+    "холодно"
+   ],
+   "hint_it": "Ho freddo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000197",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_restoran"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 15,
+  "prompt_it": "Scegli la risposta giusta su accento e pronuncia.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come suona circa «рестора́н» (restoràn)?",
+   "options": [
+    "ristarèn",
+    "ristarán",
+    "ristoràn",
+    "restoràn"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000198",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_rossiya"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 12,
+  "prompt_it": "Scegli la lettura giusta della parola.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge «Россия»?",
+   "options": [
+    "khorosciò",
+    "taksì",
+    "rossìia",
+    "liubìt"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000199",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_ya",
+   "w_iz",
+   "w_rossiya"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ из Росси́и.",
+   "options": [
+    "Sono io.",
+    "La amo.",
+    "Vengo dalla Russia.",
+    "Ho caldo."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000200",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_kholodno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «хо́лодно»?",
+   "options": [
+    "fa caldo",
+    "fa freddo",
+    "bello",
+    "qui"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000201",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing",
+   "gender"
+  ],
+  "words": [
+   "w_bankomat"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «банкома́т»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000202",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_tam",
+   "w_kholodno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Lì fa freddo.",
+   "options": [
+    "Та́м жа́рко?",
+    "Мне́ хо́лодно.",
+    "Что́ э́то?",
+    "Та́м хо́лодно."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000203",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_bankomat"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «bancomat» in russo?",
+   "options": [
+    "банкома́т",
+    "вода́",
+    "суперма́ркет",
+    "ча́й"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000204",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing",
+   "stress-mark"
+  ],
+  "words": [
+   "w_pravilno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 13,
+  "prompt_it": "Individua la vocale accentata.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Nella parola «правильно» su quale vocale cade l'accento?",
+   "options": [
+    "1ª vocale",
+    "2ª vocale",
+    "3ª vocale"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000205",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_medlenno",
+   "w_krasivo",
+   "w_rossiya",
+   "w_vkusno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa alla sua lettura.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ме́дленно",
+     "it": "mèdlenno"
+    },
+    {
+     "ru": "краси́во",
+     "it": "krasìvo"
+    },
+    {
+     "ru": "Росси́я",
+     "it": "rossìia"
+    },
+    {
+     "ru": "вку́сно",
+     "it": "vkùsno"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000206",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "luoghi",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_medlenno",
+   "w_klub",
+   "w_vkhod"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 30,
+  "prompt_it": "Abbina la parola russa alla sua pronuncia reale.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ме́дленно",
+     "it": "si pronuncia circa «mièdlenna»"
+    },
+    {
+     "ru": "клу́б",
+     "it": "si legge «klup»"
+    },
+    {
+     "ru": "вхо́д",
+     "it": "si legge «fkhòt»"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000207",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_medlenno",
+   "w_kholodno",
+   "w_vkusno",
+   "w_rossiya",
+   "w_bankomat"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ме́дленно",
+     "it": "lentamente"
+    },
+    {
+     "ru": "хо́лодно",
+     "it": "fa freddo"
+    },
+    {
+     "ru": "вку́сно",
+     "it": "gustoso"
+    },
+    {
+     "ru": "Росси́я",
+     "it": "Russia"
+    },
+    {
+     "ru": "банкома́т",
+     "it": "bancomat"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000208",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_ya",
+   "w_kholodno",
+   "w_iz",
+   "w_rossiya",
+   "w_tam"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Мне́ хо́лодно.",
+     "it": "Ho freddo."
+    },
+    {
+     "ru": "Я́ из Росси́и.",
+     "it": "Vengo dalla Russia."
+    },
+    {
+     "ru": "Та́м хо́лодно.",
+     "it": "Lì fa freddo."
+    },
+    {
+     "ru": "Говори́ ме́дленно.",
+     "it": "Parla lentamente."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000209",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "luoghi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_kholodno",
+   "w_medlenno",
+   "w_rossiya",
+   "w_vy",
+   "w_khorosho",
+   "w_privet"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "хо́лодно",
+     "it": "fa freddo"
+    },
+    {
+     "ru": "ме́дленно",
+     "it": "lentamente"
+    },
+    {
+     "ru": "Росси́я",
+     "it": "Russia"
+    },
+    {
+     "ru": "вы́",
+     "it": "voi"
+    },
+    {
+     "ru": "хорошо́",
+     "it": "bene"
+    },
+    {
+     "ru": "приве́т",
+     "it": "ciao"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000210",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_oktyabr",
+   "w_supermarket",
+   "w_kholodno",
+   "w_pravilno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa alla sua lettura.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "октя́брь",
+     "it": "oktiàbr"
+    },
+    {
+     "ru": "суперма́ркет",
+     "it": "supermàrket"
+    },
+    {
+     "ru": "хо́лодно",
+     "it": "khòlodno"
+    },
+    {
+     "ru": "пра́вильно",
+     "it": "pràvilno"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000211",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_tam",
+   "w_kholodno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Та́м хо́лодно.",
+   "translation_it": "Lì fa freddo.",
+   "accepted": [
+    "Та́м хо́лодно.",
+    "Та́м хо́лодно",
+    "Там холодно.",
+    "Там холодно",
+    "там холодно.",
+    "там холодно",
+    "та́м хо́лодно"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000212",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_krasivo"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "краси́во",
+   "translation_it": "bello",
+   "accepted": [
+    "краси́во",
+    "красиво"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000213",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_ya",
+   "w_kholodno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Мне́ хо́лодно.",
+   "translation_it": "Ho freddo.",
+   "accepted": [
+    "Мне́ хо́лодно.",
+    "Мне́ хо́лодно",
+    "Мне холодно.",
+    "Мне холодно",
+    "мне холодно.",
+    "мне холодно",
+    "мне́ хо́лодно"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000214",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_bankomat"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "банкома́т",
+   "translation_it": "bancomat",
+   "accepted": [
+    "банкома́т",
+    "банкомат"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000215",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_ya",
+   "w_iz",
+   "w_rossiya"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ из Росси́и.",
+   "translation_it": "Vengo dalla Russia.",
+   "accepted": [
+    "Я́ из Росси́и.",
+    "Я́ из Росси́и",
+    "Я из России.",
+    "Я из России",
+    "я из россии.",
+    "я из россии",
+    "я́ из росси́и"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000216",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_rossiya"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Росси́я",
+   "translation_it": "Russia",
+   "accepted": [
+    "Росси́я",
+    "Россия",
+    "россия",
+    "росси́я"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000217",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_govorit",
+   "w_medlenno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Говори́ ме́дленно.",
+   "translation_it": "Parla lentamente.",
+   "accepted": [
+    "Говори́ ме́дленно.",
+    "Говори́ ме́дленно",
+    "Говори медленно.",
+    "Говори медленно",
+    "говори медленно.",
+    "говори медленно",
+    "говори́ ме́дленно"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000218",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "words": [
+   "w_pravilno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "пра́вильно",
+   "translation_it": "correttamente",
+   "accepted": [
+    "пра́вильно",
+    "правильно"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

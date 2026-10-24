@@ -1,0 +1,1312 @@
+[
+ {
+  "id": "e_001622",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_seryy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "се́рый",
+   "answer": "grigio",
+   "accepted": [
+    "grigio"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001623",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_sobaka",
+   "w_chyornyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Соба́ка чёрная.",
+   "answer": "Il cane è nero.",
+   "accepted": [
+    "Il cane è nero.",
+    "Il cane è nero",
+    "il cane è nero",
+    "il cane è nero.",
+    "Il cane e' nero.",
+    "il cane e' nero",
+    "il cane e nero"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001624",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_belyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "bianco",
+   "answer": "бе́лый",
+   "accepted": [
+    "бе́лый",
+    "белый"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001625",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "natura"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_nebo",
+   "w_seryy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Il cielo è grigio.",
+   "answer": "Не́бо се́рое.",
+   "accepted": [
+    "Не́бо се́рое.",
+    "Не́бо се́рое",
+    "Небо серое.",
+    "Небо серое",
+    "небо серое.",
+    "небо серое",
+    "не́бо се́рое"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001626",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_tyomnyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "тёмный",
+   "answer": "scuro",
+   "accepted": [
+    "scuro"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001627",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_voda",
+   "w_zelyonyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Вода́ зелёная.",
+   "answer": "L'acqua è verde.",
+   "accepted": [
+    "L'acqua è verde.",
+    "L'acqua è verde",
+    "l'acqua è verde",
+    "l'acqua è verde.",
+    "L'acqua e' verde.",
+    "l'acqua e' verde",
+    "l'acqua e verde"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001628",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_chyornyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "nero",
+   "answer": "чёрный",
+   "accepted": [
+    "чёрный",
+    "черный"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001629",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_chto",
+   "w_v",
+   "w_krasnyy",
+   "w_paket"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Cosa c'è nel pacchetto rosso?",
+   "answer": "Что́ в кра́сном паке́те?",
+   "accepted": [
+    "Что́ в кра́сном паке́те?",
+    "Что́ в кра́сном паке́те",
+    "Что в красном пакете?",
+    "Что в красном пакете",
+    "что в красном пакете?",
+    "что в красном пакете",
+    "что́ в кра́сном паке́те"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001630",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_chyornyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вода́.",
+   "answer": "чёрная",
+   "accepted": [
+    "чёрная",
+    "черная"
+   ],
+   "hint_it": "nero: concorda con «acqua» (femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001631",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_zhyoltyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 22,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "О́н живёт в том ___ до́ме.",
+   "answer": "жёлтом",
+   "accepted": [
+    "жёлтом",
+    "желтом"
+   ],
+   "hint_it": "Lui abita in quella casa gialla."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001632",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_zolotoy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вода́.",
+   "answer": "золота́я",
+   "accepted": [
+    "золота́я",
+    "золотая"
+   ],
+   "hint_it": "d'oro: concorda con «acqua» (femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001633",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_voda"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ зелёная.",
+   "answer": "Вода́",
+   "accepted": [
+    "Вода́",
+    "Вода",
+    "вода",
+    "вода́"
+   ],
+   "hint_it": "L'acqua è verde."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001634",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_seryy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вода́.",
+   "answer": "се́рая",
+   "accepted": [
+    "се́рая",
+    "серая"
+   ],
+   "hint_it": "grigio: concorda con «acqua» (femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001635",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_seryy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ко́шка ___?",
+   "answer": "се́рая",
+   "accepted": [
+    "се́рая",
+    "серая"
+   ],
+   "hint_it": "Il gatto è grigio?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001636",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_belyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вода́.",
+   "answer": "бе́лая",
+   "accepted": [
+    "бе́лая",
+    "белая"
+   ],
+   "hint_it": "bianco: concorda con «acqua» (femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001637",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_zhyoltyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «жёлтый» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ дома́. — giallo: concorda con «case» (plurale).",
+   "options": [
+    "жёлтый",
+    "жёлтое",
+    "жёлтые",
+    "жёлтая"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001638",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "natura"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_nebo",
+   "w_seryy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Не́бо се́рое.",
+   "options": [
+    "Le persone stanno parlando.",
+    "Il cielo è grigio.",
+    "Dov'è l'uscita?",
+    "Il gatto è grigio?"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001639",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_krasnyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «кра́сный»?",
+   "options": [
+    "silenzioso",
+    "nuovo",
+    "rosso",
+    "nero"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001640",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_derevo",
+   "w_zelyonyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Gli alberi sono verdi.",
+   "options": [
+    "Дере́вья зелёные.",
+    "Вода́ зелёная.",
+    "Она́ зелёная.",
+    "Оно́ зелёное."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001641",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_zhyoltyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «giallo» in russo?",
+   "options": [
+    "ну́жный",
+    "тёмный",
+    "жёлтый",
+    "хоро́ший"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001642",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_zelyonyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «зелёный» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ вино́. — verde: concorda con «vino» (neutro).",
+   "options": [
+    "зелёный",
+    "зелёное",
+    "зелёная",
+    "зелёные"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001643",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "avverbi",
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_pochti",
+   "w_tyomnyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Почти́ темно́.",
+   "options": [
+    "Avete quasi finito?",
+    "È ancora buio.",
+    "È quasi buio.",
+    "È così buio."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001644",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_chyornyy",
+   "w_zhyoltyy",
+   "w_zelyonyy",
+   "w_krasnyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "чёрный",
+     "it": "nero"
+    },
+    {
+     "ru": "жёлтый",
+     "it": "giallo"
+    },
+    {
+     "ru": "зелёный",
+     "it": "verde"
+    },
+    {
+     "ru": "кра́сный",
+     "it": "rosso"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001645",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "natura",
+   "avverbi",
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_nebo",
+   "w_seryy",
+   "w_pochti",
+   "w_tyomnyy",
+   "w_na",
+   "w_ulitsa"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Не́бо се́рое.",
+     "it": "Il cielo è grigio."
+    },
+    {
+     "ru": "Почти́ темно́.",
+     "it": "È quasi buio."
+    },
+    {
+     "ru": "На у́лице темно́.",
+     "it": "C'è buio fuori."
+    },
+    {
+     "ru": "Ещё темно́.",
+     "it": "È ancora buio."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001646",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "colori",
+   "luoghi",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_krasnyy",
+   "w_zolotoy",
+   "w_zelyonyy",
+   "w_nazad",
+   "w_gorod",
+   "w_spasibo"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "кра́сный",
+     "it": "rosso"
+    },
+    {
+     "ru": "золото́й",
+     "it": "d'oro"
+    },
+    {
+     "ru": "зелёный",
+     "it": "verde"
+    },
+    {
+     "ru": "наза́д",
+     "it": "indietro"
+    },
+    {
+     "ru": "го́род",
+     "it": "città"
+    },
+    {
+     "ru": "спаси́бо",
+     "it": "grazie"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001647",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_zolotoy",
+   "w_chyornyy",
+   "w_zelyonyy",
+   "w_belyy",
+   "w_krasnyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "золото́й",
+     "it": "d'oro"
+    },
+    {
+     "ru": "чёрный",
+     "it": "nero"
+    },
+    {
+     "ru": "зелёный",
+     "it": "verde"
+    },
+    {
+     "ru": "бе́лый",
+     "it": "bianco"
+    },
+    {
+     "ru": "кра́сный",
+     "it": "rosso"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001648",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_ona",
+   "w_belyy",
+   "w_ono",
+   "w_zelyonyy",
+   "w_sobaka",
+   "w_chyornyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Она́ бе́лая?",
+     "it": "È bianca?"
+    },
+    {
+     "ru": "Оно́ зелёное.",
+     "it": "È verde."
+    },
+    {
+     "ru": "Соба́ка чёрная.",
+     "it": "Il cane è nero."
+    },
+    {
+     "ru": "Вино́ кра́сное?",
+     "it": "Il vino è rosso?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001649",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "colori",
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_krasnyy",
+   "w_seryy",
+   "w_zolotoy",
+   "w_lyubit",
+   "w_vot",
+   "w_v"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "кра́сный",
+     "it": "rosso"
+    },
+    {
+     "ru": "се́рый",
+     "it": "grigio"
+    },
+    {
+     "ru": "золото́й",
+     "it": "d'oro"
+    },
+    {
+     "ru": "люби́ть",
+     "it": "amare"
+    },
+    {
+     "ru": "во́т",
+     "it": "ecco"
+    },
+    {
+     "ru": "в",
+     "it": "in"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001650",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_belyy",
+   "w_seryy",
+   "w_zolotoy",
+   "w_tyomnyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "бе́лый",
+     "it": "bianco"
+    },
+    {
+     "ru": "се́рый",
+     "it": "grigio"
+    },
+    {
+     "ru": "золото́й",
+     "it": "d'oro"
+    },
+    {
+     "ru": "тёмный",
+     "it": "scuro"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001651",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "avverbi",
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_pochti",
+   "w_tyomnyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Почти́ темно́.",
+   "translation_it": "È quasi buio.",
+   "accepted": [
+    "Почти́ темно́.",
+    "Почти́ темно́",
+    "Почти темно.",
+    "Почти темно",
+    "почти темно.",
+    "почти темно",
+    "почти́ темно́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001652",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_zhyoltyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "жёлтый",
+   "translation_it": "giallo",
+   "accepted": [
+    "жёлтый",
+    "желтый"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001653",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_ono",
+   "w_zelyonyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Оно́ зелёное.",
+   "translation_it": "È verde.",
+   "accepted": [
+    "Оно́ зелёное.",
+    "Оно́ зелёное",
+    "Оно зелёное.",
+    "Оно зелёное",
+    "оно зелёное.",
+    "оно зелёное",
+    "оно́ зелёное",
+    "Оно зеленое.",
+    "оно зеленое"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001654",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_chyornyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "чёрный",
+   "translation_it": "nero",
+   "accepted": [
+    "чёрный",
+    "черный"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001655",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "lavoro-scuola",
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_bumaga",
+   "w_belyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Бума́га бе́лая.",
+   "translation_it": "La carta è bianca.",
+   "accepted": [
+    "Бума́га бе́лая.",
+    "Бума́га бе́лая",
+    "Бумага белая.",
+    "Бумага белая",
+    "бумага белая.",
+    "бумага белая",
+    "бума́га бе́лая"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001656",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_zolotoy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "золото́й",
+   "translation_it": "d'oro",
+   "accepted": [
+    "золото́й",
+    "золотой"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001657",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni",
+   "colori"
+  ],
+  "grammar_tags": [
+   "colors",
+   "adjectives-agreement",
+   "spelling-rule"
+  ],
+  "words": [
+   "w_stanovitsya",
+   "w_tyomnyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Стано́вится темно́.",
+   "translation_it": "Si fa scuro.",
+   "accepted": [
+    "Стано́вится темно́.",
+    "Стано́вится темно́",
+    "Становится темно.",
+    "Становится темно",
+    "становится темно.",
+    "становится темно",
+    "стано́вится темно́"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

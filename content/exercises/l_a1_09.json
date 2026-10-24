@@ -1,0 +1,1285 @@
+[
+ {
+  "id": "e_000763",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_dumat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ду́мать",
+   "answer": "pensare",
+   "accepted": [
+    "pensare"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000764",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "mente"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_kto",
+   "w_znat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Кто́ зна́ет?",
+   "answer": "Chi sa?",
+   "accepted": [
+    "Chi sa?",
+    "Chi sa",
+    "chi sa",
+    "chi sa?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000765",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente",
+   "lavoro-scuola",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_bolet"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "essere malato",
+   "answer": "боле́ть",
+   "accepted": [
+    "боле́ть",
+    "болеть"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000766",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_ya",
+   "w_rabotat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Sto lavorando.",
+   "answer": "Я́ рабо́таю.",
+   "accepted": [
+    "Я́ рабо́таю.",
+    "Я́ рабо́таю",
+    "Я работаю.",
+    "Я работаю",
+    "я работаю.",
+    "я работаю",
+    "я́ рабо́таю"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000767",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente",
+   "lavoro-scuola",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_bolet"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "боле́ть",
+   "answer": "essere malato",
+   "accepted": [
+    "essere malato"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000768",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_ya",
+   "w_bolet"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ боле́л.",
+   "answer": "Ero malato.",
+   "accepted": [
+    "Ero malato.",
+    "Ero malato",
+    "ero malato",
+    "ero malato.",
+    "Io ero malato.",
+    "Io ero malato",
+    "io ero malato",
+    "io ero malato."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000769",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_rabotat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "lavorare",
+   "answer": "рабо́тать",
+   "accepted": [
+    "рабо́тать",
+    "работать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000770",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_ya",
+   "w_medlenno",
+   "w_chitat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Leggo lentamente.",
+   "answer": "Я́ ме́дленно чита́ю.",
+   "accepted": [
+    "Я́ ме́дленно чита́ю.",
+    "Я́ ме́дленно чита́ю",
+    "Я медленно читаю.",
+    "Я медленно читаю",
+    "я медленно читаю.",
+    "я медленно читаю",
+    "я́ ме́дленно чита́ю"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000771",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_dumat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Он ___ (ду́мать).",
+   "answer": "ду́мает",
+   "accepted": [
+    "ду́мает",
+    "думает"
+   ],
+   "hint_it": "pensare: lui"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000772",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente",
+   "lavoro-scuola",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_zhdat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Все́ ___?",
+   "answer": "жду́т",
+   "accepted": [
+    "жду́т",
+    "ждут"
+   ],
+   "hint_it": "Tutti aspettano?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000773",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_iskat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Он ___ (иска́ть).",
+   "answer": "и́щет",
+   "accepted": [
+    "и́щет",
+    "ищет"
+   ],
+   "hint_it": "cercare: lui"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000774",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente",
+   "lavoro-scuola",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_zhdat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Она́ ___.",
+   "answer": "ждёт",
+   "accepted": [
+    "ждёт",
+    "ждет"
+   ],
+   "hint_it": "Sta aspettando."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000775",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "mente",
+   "lavoro-scuola",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_zhdat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ (жда́ть).",
+   "answer": "жду́",
+   "accepted": [
+    "жду́",
+    "жду"
+   ],
+   "hint_it": "aspettare: io"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000776",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_iskat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ банкома́т.",
+   "answer": "ищу́",
+   "accepted": [
+    "ищу́",
+    "ищу"
+   ],
+   "hint_it": "Sto cercando un bancomat."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000777",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_dumat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ (ду́мать).",
+   "answer": "ду́маю",
+   "accepted": [
+    "ду́маю",
+    "думаю"
+   ],
+   "hint_it": "pensare: io"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000778",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente",
+   "lavoro-scuola",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_pit"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 14,
+  "prompt_it": "Coniuga il verbo: scegli la forma giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Мы́ ___ (пи́ть). — bere: noi",
+   "options": [
+    "пьёте",
+    "пьёт",
+    "пью́т",
+    "пьём"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000779",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_ya",
+   "w_medlenno",
+   "w_chitat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ ме́дленно чита́ю.",
+   "options": [
+    "Posso averne tre?",
+    "Leggo lentamente.",
+    "Ieri stavo male.",
+    "Nemmeno io."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000780",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_rabotat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «рабо́тать»?",
+   "options": [
+    "volere",
+    "cercare",
+    "lavorare",
+    "chiedere"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000781",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "mente"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_kto",
+   "w_znat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Chi sa?",
+   "options": [
+    "Я́ зна́л.",
+    "Кто́ зна́ет?",
+    "Кто́ ты́, подру́га?",
+    "Не зна́ю."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000782",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_rabotat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «lavorare» in russo?",
+   "options": [
+    "рабо́тать",
+    "зна́ть",
+    "е́сть",
+    "мо́чь"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000783",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente",
+   "lavoro-scuola",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_zhdat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 14,
+  "prompt_it": "Coniuga il verbo: scegli la forma giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Они́ ___ (жда́ть). — aspettare: loro",
+   "options": [
+    "жду́т",
+    "ждёшь",
+    "ждёт",
+    "жду́"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000784",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_ya",
+   "w_bolet"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ боле́л.",
+   "options": [
+    "Ero malato.",
+    "Sono una donna.",
+    "Anch'io.",
+    "Aiutami tu!"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000785",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente",
+   "comunicazione",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_chitat",
+   "w_dumat",
+   "w_rabotat",
+   "w_znat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "чита́ть",
+     "it": "leggere"
+    },
+    {
+     "ru": "ду́мать",
+     "it": "pensare"
+    },
+    {
+     "ru": "рабо́тать",
+     "it": "lavorare"
+    },
+    {
+     "ru": "зна́ть",
+     "it": "sapere"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000786",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "azioni",
+   "mente"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_iskat",
+   "w_zhenshchina",
+   "w_kto",
+   "w_znat",
+   "w_ya",
+   "w_medlenno"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Ищи́те же́нщину!",
+     "it": "Cerca la donna!"
+    },
+    {
+     "ru": "Кто́ зна́ет?",
+     "it": "Chi sa?"
+    },
+    {
+     "ru": "Я́ ме́дленно чита́ю.",
+     "it": "Leggo lentamente."
+    },
+    {
+     "ru": "О, я́ боле́л.",
+     "it": "Oh, ero malato."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000787",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_bolet",
+   "w_pit",
+   "w_dumat",
+   "w_chas",
+   "w_noch",
+   "w_mnogo"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "боле́ть",
+     "it": "essere malato"
+    },
+    {
+     "ru": "пи́ть",
+     "it": "bere"
+    },
+    {
+     "ru": "ду́мать",
+     "it": "pensare"
+    },
+    {
+     "ru": "ча́с",
+     "it": "ora"
+    },
+    {
+     "ru": "но́чь",
+     "it": "notte"
+    },
+    {
+     "ru": "мно́го",
+     "it": "molto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000788",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "lavoro-scuola",
+   "mente",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_rabotat",
+   "w_dumat",
+   "w_chitat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "рабо́тать",
+     "it": "lavorare"
+    },
+    {
+     "ru": "ду́мать",
+     "it": "pensare"
+    },
+    {
+     "ru": "чита́ть",
+     "it": "leggere"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000789",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "mente"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_ya",
+   "w_znat",
+   "w_bolet",
+   "w_pit"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ зна́л.",
+     "it": "Lo sapevo."
+    },
+    {
+     "ru": "Я́ боле́л.",
+     "it": "Ero malato."
+    },
+    {
+     "ru": "Я́ пи́ть хочу́.",
+     "it": "Ho sete."
+    },
+    {
+     "ru": "Па́па ждёт.",
+     "it": "Papà sta aspettando."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000790",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni",
+   "descrizioni",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_bolet",
+   "w_iskat",
+   "w_zhdat",
+   "w_pravilnyy",
+   "w_po_russki",
+   "w_desyat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "боле́ть",
+     "it": "essere malato"
+    },
+    {
+     "ru": "иска́ть",
+     "it": "cercare"
+    },
+    {
+     "ru": "жда́ть",
+     "it": "aspettare"
+    },
+    {
+     "ru": "пра́вильный",
+     "it": "corretto"
+    },
+    {
+     "ru": "по-ру́сски",
+     "it": "in russo"
+    },
+    {
+     "ru": "де́сять",
+     "it": "dieci"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000791",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_bolet",
+   "w_zhdat",
+   "w_pit",
+   "w_iskat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "боле́ть",
+     "it": "essere malato"
+    },
+    {
+     "ru": "жда́ть",
+     "it": "aspettare"
+    },
+    {
+     "ru": "пи́ть",
+     "it": "bere"
+    },
+    {
+     "ru": "иска́ть",
+     "it": "cercare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000792",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "mente"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_ya",
+   "w_pit",
+   "w_khotet"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ пи́ть хочу́.",
+   "translation_it": "Ho sete.",
+   "accepted": [
+    "Я́ пи́ть хочу́.",
+    "Я́ пи́ть хочу́",
+    "Я пить хочу.",
+    "Я пить хочу",
+    "я пить хочу.",
+    "я пить хочу",
+    "я́ пи́ть хочу́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000793",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_chitat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "чита́ть",
+   "translation_it": "leggere",
+   "accepted": [
+    "чита́ть",
+    "читать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000794",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_ona",
+   "w_zhdat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Она́ ждёт.",
+   "translation_it": "Sta aspettando.",
+   "accepted": [
+    "Она́ ждёт.",
+    "Она́ ждёт",
+    "Она ждёт.",
+    "Она ждёт",
+    "она ждёт.",
+    "она ждёт",
+    "она́ ждёт",
+    "Она ждет.",
+    "она ждет"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000795",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_iskat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "иска́ть",
+   "translation_it": "cercare",
+   "accepted": [
+    "иска́ть",
+    "искать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000796",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "mente"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_ne",
+   "w_dumat",
+   "w_chto",
+   "w_oni",
+   "w_plokhoy",
+   "w_chelovek"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 33,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Не ду́маю, что́ они́ плохи́е лю́ди.",
+   "translation_it": "Non penso che loro siano delle brutte persone.",
+   "accepted": [
+    "Не ду́маю, что́ они́ плохи́е лю́ди.",
+    "Не ду́маю что́ они́ плохи́е лю́ди",
+    "Не думаю, что они плохие люди.",
+    "Не думаю что они плохие люди",
+    "не думаю, что они плохие люди.",
+    "не думаю что они плохие люди",
+    "не ду́маю что́ они́ плохи́е лю́ди"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000797",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_znat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "зна́ть",
+   "translation_it": "sapere",
+   "accepted": [
+    "зна́ть",
+    "знать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000798",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-1"
+  ],
+  "words": [
+   "w_ya",
+   "w_rabotat"
+  ],
+  "lesson": "l_a1_09",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ рабо́таю.",
+   "translation_it": "Sto lavorando.",
+   "accepted": [
+    "Я́ рабо́таю.",
+    "Я́ рабо́таю",
+    "Я работаю.",
+    "Я работаю",
+    "я работаю.",
+    "я работаю",
+    "я́ рабо́таю"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

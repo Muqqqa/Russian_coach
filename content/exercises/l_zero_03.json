@@ -1,0 +1,1197 @@
+[
+ {
+  "id": "e_000066",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_kofe"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 12,
+  "prompt_it": "Leggi la parola russa e scrivila con lettere italiane (come si pronuncia).",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ко́фе",
+   "answer": "kòfe",
+   "accepted": [
+    "kòfe"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000067",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_restoran"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "рестора́н",
+   "answer": "ristorante",
+   "accepted": [
+    "ristorante",
+    "il ristorante",
+    "un ristorante",
+    "la ristorante",
+    "una ristorante"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000068",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_gde",
+   "w_dom"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Где́ до́м?",
+   "answer": "Dov'è casa?",
+   "accepted": [
+    "Dov'è casa?",
+    "Dov'è casa",
+    "dov'è casa",
+    "dov'è casa?",
+    "Dov'e' casa?",
+    "dov'e' casa",
+    "dov'e casa"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000069",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_kofe"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "caffè",
+   "answer": "ко́фе",
+   "accepted": [
+    "ко́фе",
+    "кофе"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000070",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_kofe",
+   "w_net"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Non c'è caffè.",
+   "answer": "Ко́фе нет.",
+   "accepted": [
+    "Ко́фе нет.",
+    "Ко́фе нет",
+    "Кофе нет.",
+    "Кофе нет",
+    "кофе нет.",
+    "кофе нет",
+    "ко́фе нет"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000071",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_tualet"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 12,
+  "prompt_it": "Leggi la parola russa e scrivila con lettere italiane (come si pronuncia).",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "туале́т",
+   "answer": "tualèt",
+   "accepted": [
+    "tualèt"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000072",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_ya"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "я́",
+   "answer": "io",
+   "accepted": [
+    "io"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000073",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_gde",
+   "w_tualet"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Где́ туале́т?",
+   "answer": "Dov'è il bagno?",
+   "accepted": [
+    "Dov'è il bagno?",
+    "Dov'è il bagno",
+    "dov'è il bagno",
+    "dov'è il bagno?",
+    "Dov'e' il bagno?",
+    "dov'e' il bagno",
+    "dov'e il bagno"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000074",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_ty"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Где́ ___?",
+   "answer": "ты́",
+   "accepted": [
+    "ты́",
+    "ты"
+   ],
+   "hint_it": "Dove sei?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000075",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_net"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "н___т",
+   "answer": "е",
+   "accepted": [
+    "е",
+    "Е"
+   ],
+   "hint_it": "no, si legge «nèt»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000076",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_oni"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Где́ ___?",
+   "answer": "они́",
+   "accepted": [
+    "они́",
+    "они"
+   ],
+   "hint_it": "Dove sono?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000077",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_gde"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___де",
+   "answer": "г",
+   "accepted": [
+    "г",
+    "Г"
+   ],
+   "hint_it": "dove, si legge «gdè»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000078",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ я́.",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "Sono io."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000079",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_tualet"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "туал___т",
+   "answer": "е",
+   "accepted": [
+    "е",
+    "Е"
+   ],
+   "hint_it": "bagno, si legge «tualèt»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000080",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_gde"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ туале́т?",
+   "answer": "Где́",
+   "accepted": [
+    "Где́",
+    "Где",
+    "где",
+    "где́"
+   ],
+   "hint_it": "Dov'è il bagno?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000081",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_ya"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il suono della lettera.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge la lettera «Я я»?",
+   "options": [
+    "ia",
+    "n",
+    "s sorda",
+    "b"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000082",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_net",
+   "w_gde"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 10,
+  "prompt_it": "Scegli la lettera russa che corrisponde al suono.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Quale lettera russa si legge «ie»?",
+   "options": [
+    "И и",
+    "Б б",
+    "Е е",
+    "Р р"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000083",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_kofe"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 12,
+  "prompt_it": "Scegli la lettura giusta della parola.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge «кофе»?",
+   "options": [
+    "pìvo",
+    "privèt",
+    "kòfe",
+    "òn"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000084",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_kofe"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 10,
+  "prompt_it": "Scegli la sillaba giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Quale sillaba si legge «fa»?",
+   "options": [
+    "па",
+    "ла",
+    "фа",
+    "ва"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000085",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_eto",
+   "w_ya"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то я́.",
+   "options": [
+    "Dov'è casa?",
+    "Sono io.",
+    "Questa è acqua.",
+    "Sì, questo è vino."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000086",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_net"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «не́т»?",
+   "options": [
+    "no",
+    "ciao",
+    "questo",
+    "chi"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000087",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels",
+   "gender"
+  ],
+  "words": [
+   "w_privet"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «приве́т»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000088",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_ya"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 28,
+  "prompt_it": "Abbina ogni lettera russa al suo suono.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я я",
+     "it": "ia"
+    },
+    {
+     "ru": "З з",
+     "it": "z dolce"
+    },
+    {
+     "ru": "Ф ф",
+     "it": "f"
+    },
+    {
+     "ru": "Е е",
+     "it": "ie"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000089",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_ya"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 28,
+  "prompt_it": "Abbina le lettere ai suoni (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "З з",
+     "it": "z dolce"
+    },
+    {
+     "ru": "Х х",
+     "it": "kh"
+    },
+    {
+     "ru": "М м",
+     "it": "m"
+    },
+    {
+     "ru": "У у",
+     "it": "u"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000090",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_restoran",
+   "w_privet",
+   "w_tualet",
+   "w_net"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa alla sua lettura.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "рестора́н",
+     "it": "restoràn"
+    },
+    {
+     "ru": "приве́т",
+     "it": "privèt"
+    },
+    {
+     "ru": "туале́т",
+     "it": "tualèt"
+    },
+    {
+     "ru": "не́т",
+     "it": "nèt"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000091",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_kofe",
+   "w_tualet",
+   "w_gde",
+   "w_net"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ко́фе",
+     "it": "caffè"
+    },
+    {
+     "ru": "туале́т",
+     "it": "bagno"
+    },
+    {
+     "ru": "где́",
+     "it": "dove"
+    },
+    {
+     "ru": "не́т",
+     "it": "no"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000092",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_gde",
+   "w_oni",
+   "w_dom",
+   "w_ty"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Где́ они́?",
+     "it": "Dove sono?"
+    },
+    {
+     "ru": "Где́ до́м?",
+     "it": "Dov'è casa?"
+    },
+    {
+     "ru": "Где́ ты́?",
+     "it": "Dove sei?"
+    },
+    {
+     "ru": "Ко́фе нет.",
+     "it": "Non c'è caffè."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000093",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_restoran",
+   "w_tualet",
+   "w_privet",
+   "w_ona",
+   "w_voda",
+   "w_dom"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "рестора́н",
+     "it": "ristorante"
+    },
+    {
+     "ru": "туале́т",
+     "it": "bagno"
+    },
+    {
+     "ru": "приве́т",
+     "it": "ciao"
+    },
+    {
+     "ru": "она́",
+     "it": "lei"
+    },
+    {
+     "ru": "вода́",
+     "it": "acqua"
+    },
+    {
+     "ru": "до́м",
+     "it": "casa"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000094",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_gde"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 10,
+  "prompt_it": "Ascolta e scrivi la sillaba in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "го́",
+   "translation_it": "sillaba «go»",
+   "accepted": [
+    "го",
+    "го́",
+    "ГО",
+    "Го"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000095",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_gde",
+   "w_ty"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Где́ ты́?",
+   "translation_it": "Dove sei?",
+   "accepted": [
+    "Где́ ты́?",
+    "Где́ ты́",
+    "Где ты?",
+    "Где ты",
+    "где ты?",
+    "где ты",
+    "где́ ты́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000096",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_kofe"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ко́фе",
+   "translation_it": "caffè",
+   "accepted": [
+    "ко́фе",
+    "кофе"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000097",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_tualet"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 10,
+  "prompt_it": "Ascolta e scrivi la sillaba in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ля́",
+   "translation_it": "sillaba «lia»",
+   "accepted": [
+    "ля",
+    "ля́",
+    "ЛЯ",
+    "Ля"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000098",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_gde",
+   "w_tualet"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Где́ туале́т?",
+   "translation_it": "Dov'è il bagno?",
+   "accepted": [
+    "Где́ туале́т?",
+    "Где́ туале́т",
+    "Где туалет?",
+    "Где туалет",
+    "где туалет?",
+    "где туалет",
+    "где́ туале́т"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000099",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_gde"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "где́",
+   "translation_it": "dove",
+   "accepted": [
+    "где́",
+    "где"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000100",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "words": [
+   "w_kofe"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 10,
+  "prompt_it": "Ascolta e scrivi la sillaba in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "фа́",
+   "translation_it": "sillaba «fa»",
+   "accepted": [
+    "фа",
+    "фа́",
+    "ФА",
+    "Фа"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

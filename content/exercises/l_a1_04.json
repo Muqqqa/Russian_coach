@@ -1,0 +1,1425 @@
+[
+ {
+  "id": "e_000553",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_mama"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ма́ма",
+   "answer": "mamma",
+   "accepted": [
+    "mamma",
+    "la mamma",
+    "una mamma"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000554",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_vy",
+   "w_otets"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Вы́ оте́ц?",
+   "answer": "Siete padre?",
+   "accepted": [
+    "Siete padre?",
+    "Siete padre",
+    "siete padre",
+    "siete padre?",
+    "Voi siete padre?",
+    "Voi siete padre",
+    "voi siete padre",
+    "voi siete padre?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000555",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_otets"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "padre",
+   "answer": "оте́ц",
+   "accepted": [
+    "оте́ц",
+    "отец"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000556",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_s",
+   "w_den",
+   "w_otets"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Buona festa del papà!",
+   "answer": "С Днём отца́!",
+   "accepted": [
+    "С Днём отца́!",
+    "С Днём отца́",
+    "С Днём отца!",
+    "С Днём отца",
+    "с днём отца!",
+    "с днём отца",
+    "с днём отца́",
+    "С Днем отца!",
+    "с днем отца"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000557",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_syn"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "сы́н",
+   "answer": "figlio",
+   "accepted": [
+    "figlio",
+    "il figlio",
+    "un figlio"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000558",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_vy",
+   "w_brat"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Вы́ бра́тья?",
+   "answer": "Siete fratelli?",
+   "accepted": [
+    "Siete fratelli?",
+    "Siete fratelli",
+    "siete fratelli",
+    "siete fratelli?",
+    "Voi siete fratelli?",
+    "Voi siete fratelli",
+    "voi siete fratelli",
+    "voi siete fratelli?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000559",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_dochka"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "figlia",
+   "answer": "до́чка",
+   "accepted": [
+    "до́чка",
+    "дочка"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000560",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_vy",
+   "w_otets"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Siete padre?",
+   "answer": "Вы́ оте́ц?",
+   "accepted": [
+    "Вы́ оте́ц?",
+    "Вы́ оте́ц",
+    "Вы отец?",
+    "Вы отец",
+    "вы отец?",
+    "вы отец",
+    "вы́ оте́ц"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000561",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_mat"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ма́ть",
+   "answer": "madre",
+   "accepted": [
+    "madre",
+    "il madre",
+    "un madre",
+    "la madre",
+    "una madre",
+    "mamma",
+    "la mamma",
+    "una mamma"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000562",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_otets"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ка́к ___?",
+   "answer": "оте́ц",
+   "accepted": [
+    "оте́ц",
+    "отец"
+   ],
+   "hint_it": "Come sta tuo padre?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000563",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_mama"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ зде́сь?",
+   "answer": "Ма́ма",
+   "accepted": [
+    "Ма́ма",
+    "Мама",
+    "мама",
+    "ма́ма"
+   ],
+   "hint_it": "La mamma è qui?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000564",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_otets"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "С Днём ___!",
+   "answer": "отца́",
+   "accepted": [
+    "отца́",
+    "отца"
+   ],
+   "hint_it": "Buona festa del papà!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000565",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_syn"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "У меня́ три́ ___.",
+   "answer": "сы́на",
+   "accepted": [
+    "сы́на",
+    "сына"
+   ],
+   "hint_it": "Ho tre figli."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000566",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_syn"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ва́ш ___?",
+   "answer": "сы́н",
+   "accepted": [
+    "сы́н",
+    "сын"
+   ],
+   "hint_it": "Questo è vostro figlio?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000567",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_brat"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вы́ ___?",
+   "answer": "бра́тья",
+   "accepted": [
+    "бра́тья",
+    "братья"
+   ],
+   "hint_it": "Siete fratelli?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000568",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_kak"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ оте́ц?",
+   "answer": "Ка́к",
+   "accepted": [
+    "Ка́к",
+    "Как",
+    "как",
+    "ка́к"
+   ],
+   "hint_it": "Come sta tuo padre?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000569",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_my"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ бра́тья.",
+   "answer": "Мы́",
+   "accepted": [
+    "Мы́",
+    "Мы",
+    "мы",
+    "мы́"
+   ],
+   "hint_it": "Siamo fratelli."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000570",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_vy",
+   "w_otets"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вы́ оте́ц?",
+   "options": [
+    "Cosa avete che non va?",
+    "Siete padre?",
+    "Siete fratelli?",
+    "Sei padre?"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000571",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_mat"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «ма́ть»?",
+   "options": [
+    "madre",
+    "giorno",
+    "fratello",
+    "calzino"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000572",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative",
+   "gender"
+  ],
+  "words": [
+   "w_sestra"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «сестра́»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000573",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "numeri"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_on",
+   "w_syn",
+   "w_vosem",
+   "w_god"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 20,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Suo figlio ha otto anni.",
+   "options": [
+    "Его́ сы́ну во́семь ле́т.",
+    "Она́ его́ жена́?",
+    "У меня́ во́семь бра́тьев.",
+    "Я́ его́ купи́л."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000574",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_otets"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «padre» in russo?",
+   "options": [
+    "ко́фе",
+    "сестра́",
+    "оте́ц",
+    "ма́ть"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000575",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_u",
+   "w_ya",
+   "w_tri",
+   "w_syn"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "У меня́ три́ сы́на.",
+   "options": [
+    "Scusate, sono senza orologio.",
+    "Ho tre figli.",
+    "L'ho comprato.",
+    "Suo figlio ha otto anni."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000576",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_mama"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «ма́ма»?",
+   "options": [
+    "marito",
+    "persona",
+    "birra",
+    "mamma"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000577",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative",
+   "gender"
+  ],
+  "words": [
+   "w_dochka"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «до́чка»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000578",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_syn",
+   "w_brat",
+   "w_dochka",
+   "w_zhena",
+   "w_muzh"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сы́н",
+     "it": "figlio"
+    },
+    {
+     "ru": "бра́т",
+     "it": "fratello"
+    },
+    {
+     "ru": "до́чка",
+     "it": "figlia"
+    },
+    {
+     "ru": "жена́",
+     "it": "moglie"
+    },
+    {
+     "ru": "му́ж",
+     "it": "marito"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000579",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_ona",
+   "w_on",
+   "w_zhena",
+   "w_ty",
+   "w_otets",
+   "w_papa"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Она́ его́ жена́?",
+     "it": "Lei è sua moglie?"
+    },
+    {
+     "ru": "Ты́ оте́ц?",
+     "it": "Sei padre?"
+    },
+    {
+     "ru": "Па́па зде́сь?",
+     "it": "Il papà è qui?"
+    },
+    {
+     "ru": "Вы́ бра́тья?",
+     "it": "Siete fratelli?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000580",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia",
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_brat",
+   "w_sestra",
+   "w_dochka",
+   "w_sem",
+   "w_bez",
+   "w_ona"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "бра́т",
+     "it": "fratello"
+    },
+    {
+     "ru": "сестра́",
+     "it": "sorella"
+    },
+    {
+     "ru": "до́чка",
+     "it": "figlia"
+    },
+    {
+     "ru": "се́мь",
+     "it": "sette"
+    },
+    {
+     "ru": "бе́з",
+     "it": "senza"
+    },
+    {
+     "ru": "она́",
+     "it": "lei"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000581",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_sestra",
+   "w_mat",
+   "w_dochka",
+   "w_brat",
+   "w_muzh",
+   "w_syn"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 42,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сестра́",
+     "it": "sorella"
+    },
+    {
+     "ru": "ма́ть",
+     "it": "madre"
+    },
+    {
+     "ru": "до́чка",
+     "it": "figlia"
+    },
+    {
+     "ru": "бра́т",
+     "it": "fratello"
+    },
+    {
+     "ru": "му́ж",
+     "it": "marito"
+    },
+    {
+     "ru": "сы́н",
+     "it": "figlio"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000582",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_my",
+   "w_brat",
+   "w_vy",
+   "w_otets",
+   "w_s",
+   "w_den"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Мы́ бра́тья.",
+     "it": "Siamo fratelli."
+    },
+    {
+     "ru": "Вы́ оте́ц?",
+     "it": "Siete padre?"
+    },
+    {
+     "ru": "С Днём отца́!",
+     "it": "Buona festa del papà!"
+    },
+    {
+     "ru": "У меня́ три́ сы́на.",
+     "it": "Ho tre figli."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000583",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_otets",
+   "w_zhena",
+   "w_mat",
+   "w_voda",
+   "w_ochen",
+   "w_stoit"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "оте́ц",
+     "it": "padre"
+    },
+    {
+     "ru": "жена́",
+     "it": "moglie"
+    },
+    {
+     "ru": "ма́ть",
+     "it": "madre"
+    },
+    {
+     "ru": "вода́",
+     "it": "acqua"
+    },
+    {
+     "ru": "о́чень",
+     "it": "molto"
+    },
+    {
+     "ru": "сто́ить",
+     "it": "costare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000584",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_papa",
+   "w_mama",
+   "w_otets",
+   "w_sestra",
+   "w_mat"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "па́па",
+     "it": "papà"
+    },
+    {
+     "ru": "ма́ма",
+     "it": "mamma"
+    },
+    {
+     "ru": "оте́ц",
+     "it": "padre"
+    },
+    {
+     "ru": "сестра́",
+     "it": "sorella"
+    },
+    {
+     "ru": "ма́ть",
+     "it": "madre"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000585",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_vy",
+   "w_brat"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вы́ бра́тья?",
+   "translation_it": "Siete fratelli?",
+   "accepted": [
+    "Вы́ бра́тья?",
+    "Вы́ бра́тья",
+    "Вы братья?",
+    "Вы братья",
+    "вы братья?",
+    "вы братья",
+    "вы́ бра́тья"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000586",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_mama"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ма́ма",
+   "translation_it": "mamma",
+   "accepted": [
+    "ма́ма",
+    "мама"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000587",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_on",
+   "w_vash",
+   "w_otets"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "О́н ва́ш оте́ц.",
+   "translation_it": "Lui è vostro padre.",
+   "accepted": [
+    "О́н ва́ш оте́ц.",
+    "О́н ва́ш оте́ц",
+    "Он ваш отец.",
+    "Он ваш отец",
+    "он ваш отец.",
+    "он ваш отец",
+    "о́н ва́ш оте́ц"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000588",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_mat"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ма́ть",
+   "translation_it": "madre",
+   "accepted": [
+    "ма́ть",
+    "мать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000589",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_papa",
+   "w_zdes"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Па́па зде́сь?",
+   "translation_it": "Il papà è qui?",
+   "accepted": [
+    "Па́па зде́сь?",
+    "Па́па зде́сь",
+    "Папа здесь?",
+    "Папа здесь",
+    "папа здесь?",
+    "папа здесь",
+    "па́па зде́сь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000590",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_brat"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "бра́т",
+   "translation_it": "fratello",
+   "accepted": [
+    "бра́т",
+    "брат"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000591",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_vy",
+   "w_otets"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вы́ оте́ц?",
+   "translation_it": "Siete padre?",
+   "accepted": [
+    "Вы́ оте́ц?",
+    "Вы́ оте́ц",
+    "Вы отец?",
+    "Вы отец",
+    "вы отец?",
+    "вы отец",
+    "вы́ оте́ц"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000592",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "family",
+   "nouns-nominative"
+  ],
+  "words": [
+   "w_sestra"
+  ],
+  "lesson": "l_a1_04",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "сестра́",
+   "translation_it": "sorella",
+   "accepted": [
+    "сестра́",
+    "сестра"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

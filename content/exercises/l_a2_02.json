@@ -1,0 +1,1423 @@
+[
+ {
+  "id": "e_001430",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_nuzhnyy"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ну́жный",
+   "answer": "necessario",
+   "accepted": [
+    "necessario"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001431",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_govorit",
+   "w_nelzya"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Говори́ть нельзя́.",
+   "answer": "Non si può parlare.",
+   "accepted": [
+    "Non si può parlare.",
+    "Non si può parlare",
+    "non si può parlare",
+    "non si può parlare.",
+    "Non si puo' parlare.",
+    "non si puo' parlare",
+    "non si puo parlare"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001432",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_dolzhnyy"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "tenuto a",
+   "answer": "до́лжный",
+   "accepted": [
+    "до́лжный",
+    "должный"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001433",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_eto",
+   "w_byt",
+   "w_tak",
+   "w_krasivo"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "È stato così bello.",
+   "answer": "Э́то бы́ло та́к краси́во.",
+   "accepted": [
+    "Э́то бы́ло та́к краси́во.",
+    "Э́то бы́ло та́к краси́во",
+    "Это было так красиво.",
+    "Это было так красиво",
+    "это было так красиво.",
+    "это было так красиво",
+    "э́то бы́ло та́к краси́во"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001434",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_imet"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "име́ть",
+   "answer": "avere",
+   "accepted": [
+    "avere",
+    "possedere"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001435",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "azioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_v",
+   "w_restoran",
+   "w_byt",
+   "w_tikho"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "В рестора́не бы́ло ти́хо.",
+   "answer": "C'era silenzio al ristorante.",
+   "accepted": [
+    "C'era silenzio al ristorante.",
+    "C'era silenzio al ristorante",
+    "c'era silenzio al ristorante",
+    "c'era silenzio al ristorante."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001436",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_nelzya"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "non si può",
+   "answer": "нельзя́",
+   "accepted": [
+    "нельзя́",
+    "нельзя"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001437",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_nuzhnyy",
+   "w_ostanovitsya"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Bisogna fermarsi.",
+   "answer": "Ну́жно останови́ться.",
+   "accepted": [
+    "Ну́жно останови́ться.",
+    "Ну́жно останови́ться",
+    "Нужно остановиться.",
+    "Нужно остановиться",
+    "нужно остановиться.",
+    "нужно остановиться",
+    "ну́жно останови́ться"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001438",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "descrizioni",
+   "mente"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_pora"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "пора́",
+   "answer": "è ora di",
+   "accepted": [
+    "è ora di",
+    "e ora di"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001439",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals",
+   "past-tense"
+  ],
+  "words": [
+   "w_umet"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вчера́ они́ ___ (уме́ть).",
+   "answer": "уме́ли",
+   "accepted": [
+    "уме́ли",
+    "умели"
+   ],
+   "hint_it": "saper fare (ieri): loro"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001440",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_byt"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вчера́ ___ четве́рг.",
+   "answer": "бы́л",
+   "accepted": [
+    "бы́л",
+    "был"
+   ],
+   "hint_it": "Ieri era giovedì."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001441",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals",
+   "past-tense"
+  ],
+  "words": [
+   "w_byt"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вчера́ они́ ___ (бы́ть).",
+   "answer": "бы́ли",
+   "accepted": [
+    "бы́ли",
+    "были"
+   ],
+   "hint_it": "essere (ieri): loro"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001442",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_byt"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вчера́ ___ плоха́я пого́да.",
+   "answer": "была́",
+   "accepted": [
+    "была́",
+    "была"
+   ],
+   "hint_it": "Ieri c'era brutto tempo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001443",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals",
+   "past-tense"
+  ],
+  "words": [
+   "w_umet"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вчера́ он ___ (уме́ть).",
+   "answer": "уме́л",
+   "accepted": [
+    "уме́л",
+    "умел"
+   ],
+   "hint_it": "saper fare (ieri): lui"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001444",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_byt"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вчера́.",
+   "answer": "бы́ло",
+   "accepted": [
+    "бы́ло",
+    "было"
+   ],
+   "hint_it": "È stato ieri."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001445",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals",
+   "past-tense"
+  ],
+  "words": [
+   "w_imet"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вчера́ она́ ___ (име́ть).",
+   "answer": "име́ла",
+   "accepted": [
+    "име́ла",
+    "имела"
+   ],
+   "hint_it": "avere (ieri): lei"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001446",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ бы́ло та́к краси́во.",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "È stato così bello."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001447",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals",
+   "future-perfective"
+  ],
+  "words": [
+   "w_smoch"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 14,
+  "prompt_it": "Coniuga il verbo: scegli la forma giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "За́втра они́ ___ (смо́чь). — riuscire a: loro (domani)",
+   "options": [
+    "смо́жет",
+    "смо́гут",
+    "смо́жете",
+    "смогу́"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001448",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_vchera",
+   "w_byt",
+   "w_vtornik"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вчера́ бы́л вто́рник.",
+   "options": [
+    "Ieri era giovedì.",
+    "C'era silenzio dappertutto.",
+    "Ieri stavo male.",
+    "Ieri era martedì."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001449",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_nelzya"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «нельзя́»?",
+   "options": [
+    "normale",
+    "domani",
+    "non si può",
+    "si può"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001450",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "descrizioni",
+   "mente"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals",
+   "gender"
+  ],
+  "words": [
+   "w_pora"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «пора́»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001451",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "mente"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_ya",
+   "w_umet",
+   "w_slushat"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Io so ascoltare.",
+   "options": [
+    "Я́ уме́ю слу́шать.",
+    "О́н у́чит меня́.",
+    "Мне́ до́лго жда́ть?",
+    "Я́ ста́рая подру́га."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001452",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_imet"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «avere» in russo?",
+   "options": [
+    "име́ть",
+    "рабо́тать",
+    "останови́ть",
+    "гото́вить"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001453",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals",
+   "past-tense"
+  ],
+  "words": [
+   "w_byt"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma del passato giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вчера́ она́ ___ (бы́ть). — essere (ieri): lei",
+   "options": [
+    "бы́л",
+    "бы́ли",
+    "была́"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001454",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_vchera",
+   "w_byt",
+   "w_chetverg"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вчера́ бы́л четве́рг.",
+   "options": [
+    "Ieri era martedì.",
+    "Ieri era giovedì.",
+    "Ieri stavo male.",
+    "Sii sempre te stesso!"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001455",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "mente",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_dolzhnyy",
+   "w_umet",
+   "w_smoch",
+   "w_pora"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "до́лжный",
+     "it": "tenuto a"
+    },
+    {
+     "ru": "уме́ть",
+     "it": "saper fare"
+    },
+    {
+     "ru": "смо́чь",
+     "it": "riuscire a"
+    },
+    {
+     "ru": "пора́",
+     "it": "è ora di"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001456",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni",
+   "concetti"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_byt",
+   "w_dozhd",
+   "w_eto",
+   "w_lish",
+   "w_son"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Бы́л до́ждь.",
+     "it": "È piovuto."
+    },
+    {
+     "ru": "Э́то бы́л лишь со́н.",
+     "it": "Era soltanto un sogno."
+    },
+    {
+     "ru": "В рестора́не бы́ло ти́хо.",
+     "it": "C'era silenzio al ristorante."
+    },
+    {
+     "ru": "Вре́мя нельзя́ останови́ть.",
+     "it": "Il tempo non può essere fermato."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001457",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni",
+   "azioni",
+   "mente"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_dolzhnyy",
+   "w_nuzhnyy",
+   "w_byt",
+   "w_ponimat",
+   "w_derevnya",
+   "w_mnogo"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "до́лжный",
+     "it": "tenuto a"
+    },
+    {
+     "ru": "ну́жный",
+     "it": "necessario"
+    },
+    {
+     "ru": "бы́ть",
+     "it": "essere"
+    },
+    {
+     "ru": "понима́ть",
+     "it": "capire"
+    },
+    {
+     "ru": "дере́вня",
+     "it": "villaggio"
+    },
+    {
+     "ru": "мно́го",
+     "it": "molto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001458",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "mente",
+   "azioni",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_umet",
+   "w_pora",
+   "w_khotetsya",
+   "w_dolzhnyy"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "уме́ть",
+     "it": "saper fare"
+    },
+    {
+     "ru": "пора́",
+     "it": "è ora di"
+    },
+    {
+     "ru": "хоте́ться",
+     "it": "avere voglia di"
+    },
+    {
+     "ru": "до́лжный",
+     "it": "tenuto a"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001459",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "mente",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_ya",
+   "w_ne",
+   "w_umet",
+   "w_chitat",
+   "w_ty",
+   "w_dolzhnyy"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ не уме́ю чита́ть.",
+     "it": "Non so leggere."
+    },
+    {
+     "ru": "Ты́ до́лжен помо́чь ма́тери!",
+     "it": "Devi aiutare tua madre!"
+    },
+    {
+     "ru": "Про́шлой но́чью бы́л сне́г.",
+     "it": "La scorsa notte è nevicato."
+    },
+    {
+     "ru": "Э́то бы́ло та́к краси́во.",
+     "it": "È stato così bello."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001460",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "descrizioni",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_imet",
+   "w_nuzhnyy",
+   "w_byt",
+   "w_nigde",
+   "w_kafe",
+   "w_uchit"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "име́ть",
+     "it": "avere"
+    },
+    {
+     "ru": "ну́жный",
+     "it": "necessario"
+    },
+    {
+     "ru": "бы́ть",
+     "it": "essere"
+    },
+    {
+     "ru": "нигде́",
+     "it": "da nessuna parte"
+    },
+    {
+     "ru": "кафе́",
+     "it": "caffetteria"
+    },
+    {
+     "ru": "учи́ть",
+     "it": "studiare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001461",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "avverbi",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_imet",
+   "w_byt",
+   "w_nelzya",
+   "w_nuzhnyy",
+   "w_khotetsya"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "име́ть",
+     "it": "avere"
+    },
+    {
+     "ru": "бы́ть",
+     "it": "essere"
+    },
+    {
+     "ru": "нельзя́",
+     "it": "non si può"
+    },
+    {
+     "ru": "ну́жный",
+     "it": "necessario"
+    },
+    {
+     "ru": "хоте́ться",
+     "it": "avere voglia di"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001462",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_spat",
+   "w_khotetsya"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Спа́ть хо́чется.",
+   "translation_it": "Ho voglia di dormire.",
+   "accepted": [
+    "Спа́ть хо́чется.",
+    "Спа́ть хо́чется",
+    "Спать хочется.",
+    "Спать хочется",
+    "спать хочется.",
+    "спать хочется",
+    "спа́ть хо́чется"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001463",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "descrizioni",
+   "mente"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_pora"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "пора́",
+   "translation_it": "è ora di",
+   "accepted": [
+    "пора́",
+    "пора"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001464",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "descrizioni",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_vy",
+   "w_dolzhnyy",
+   "w_pomoch",
+   "w_mat"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вы́ должны́ помо́чь ма́тери!",
+   "translation_it": "Dovete aiutare vostra madre!",
+   "accepted": [
+    "Вы́ должны́ помо́чь ма́тери!",
+    "Вы́ должны́ помо́чь ма́тери",
+    "Вы должны помочь матери!",
+    "Вы должны помочь матери",
+    "вы должны помочь матери!",
+    "вы должны помочь матери",
+    "вы́ должны́ помо́чь ма́тери"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001465",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_nuzhnyy"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ну́жный",
+   "translation_it": "necessario",
+   "accepted": [
+    "ну́жный",
+    "нужный"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001466",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "descrizioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_ya",
+   "w_dolzhnyy",
+   "w_idti"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ до́лжен идти́.",
+   "translation_it": "Io devo andare.",
+   "accepted": [
+    "Я́ до́лжен идти́.",
+    "Я́ до́лжен идти́",
+    "Я должен идти.",
+    "Я должен идти",
+    "я должен идти.",
+    "я должен идти",
+    "я́ до́лжен идти́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001467",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_imet"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "име́ть",
+   "translation_it": "avere",
+   "accepted": [
+    "име́ть",
+    "иметь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001468",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_nuzhnyy",
+   "w_ostanovitsya"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ну́жно останови́ться.",
+   "translation_it": "Bisogna fermarsi.",
+   "accepted": [
+    "Ну́жно останови́ться.",
+    "Ну́жно останови́ться",
+    "Нужно остановиться.",
+    "Нужно остановиться",
+    "нужно остановиться.",
+    "нужно остановиться",
+    "ну́жно останови́ться"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001469",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-of-byt",
+   "modals"
+  ],
+  "words": [
+   "w_byt"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "бы́ть",
+   "translation_it": "essere",
+   "accepted": [
+    "бы́ть",
+    "быть"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

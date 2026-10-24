@@ -1,0 +1,1249 @@
+[
+ {
+  "id": "e_001026",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kogda"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "когда́",
+   "answer": "quando",
+   "accepted": [
+    "quando"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001027",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_vopros",
+   "w_pochemu"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Вопро́с – почему́.",
+   "answer": "La domanda è perché.",
+   "accepted": [
+    "La domanda è perché.",
+    "La domanda è perché",
+    "la domanda è perché",
+    "la domanda è perché.",
+    "La domanda e' perche'.",
+    "la domanda e' perche'",
+    "la domanda e perche"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001028",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_tak"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "così",
+   "answer": "та́к",
+   "accepted": [
+    "та́к",
+    "так",
+    "тако́й",
+    "такой"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001029",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_privet",
+   "w_ty",
+   "w_kak"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Ciao, come va?",
+   "answer": "Приве́т, ты́ ка́к?",
+   "accepted": [
+    "Приве́т, ты́ ка́к?",
+    "Приве́т ты́ ка́к",
+    "Привет, ты как?",
+    "Привет ты как",
+    "привет, ты как?",
+    "привет ты как",
+    "приве́т ты́ ка́к"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001030",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_tak"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "та́к",
+   "answer": "così",
+   "accepted": [
+    "così",
+    "cosi"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001031",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_otkuda",
+   "w_vy"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Отку́да вы́?",
+   "answer": "Di dove siete?",
+   "accepted": [
+    "Di dove siete?",
+    "Di dove siete",
+    "di dove siete",
+    "di dove siete?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001032",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kak"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "come",
+   "answer": "ка́к",
+   "accepted": [
+    "ка́к",
+    "как"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001033",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kak",
+   "w_rebyonok"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Come stanno i bambini?",
+   "answer": "Ка́к де́ти?",
+   "accepted": [
+    "Ка́к де́ти?",
+    "Ка́к де́ти",
+    "Как дети?",
+    "Как дети",
+    "как дети?",
+    "как дети",
+    "ка́к де́ти"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001034",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_otkuda"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ я́?",
+   "answer": "Отку́да",
+   "accepted": [
+    "Отку́да",
+    "Откуда",
+    "откуда",
+    "отку́да"
+   ],
+   "hint_it": "Di dove sono?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001035",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_tak"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ хорошо́.",
+   "answer": "Та́к",
+   "accepted": [
+    "Та́к",
+    "Так",
+    "так",
+    "та́к"
+   ],
+   "hint_it": "Bene così."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001036",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_khorosho"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Та́к ___.",
+   "answer": "хорошо́",
+   "accepted": [
+    "хорошо́",
+    "хорошо"
+   ],
+   "hint_it": "Bene così."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001037",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ та́к.",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "È così."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001038",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kakoy"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ на́ш?",
+   "answer": "Како́й",
+   "accepted": [
+    "Како́й",
+    "Какой",
+    "какой",
+    "како́й"
+   ],
+   "hint_it": "Qual è il nostro?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001039",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kakoy"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ о́н?",
+   "answer": "Како́й",
+   "accepted": [
+    "Како́й",
+    "Какой",
+    "какой",
+    "како́й"
+   ],
+   "hint_it": "Com'è lui?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001040",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kakoy"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 20,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ напи́тки тебе́ не нра́вятся?",
+   "answer": "Каки́е",
+   "accepted": [
+    "Каки́е",
+    "Какие",
+    "какие",
+    "каки́е"
+   ],
+   "hint_it": "Quali sono le bibite che non ti piacciono?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001041",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_eto",
+   "w_tak"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то та́к.",
+   "options": [
+    "È così.",
+    "Sei tu.",
+    "Bene così.",
+    "Questo è l'altro."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001042",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_otkuda"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «отку́да»?",
+   "options": [
+    "in russo",
+    "da dove",
+    "come",
+    "anche"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001043",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kakoy",
+   "w_stol"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Quale tavolo?",
+   "options": [
+    "Како́й сто́л?",
+    "Како́й на́ш?",
+    "Како́й о́н?",
+    "Сто́л гря́зный?"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001044",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kak"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «come» in russo?",
+   "options": [
+    "наза́д",
+    "напра́во",
+    "за́втра",
+    "ка́к"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001045",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_otkuda",
+   "w_vy"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Отку́да вы́?",
+   "options": [
+    "Siete belli.",
+    "Siete sporchi.",
+    "Di dove siete?",
+    "Siete sporco."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001046",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_tak"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «та́к»?",
+   "options": [
+    "perché",
+    "poi",
+    "difficile",
+    "così"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001047",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kogda",
+   "w_ty",
+   "w_roditsya"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Quando sei nato?",
+   "options": [
+    "Ско́лько тебе́ пла́тят?",
+    "Когда́ ты́ роди́лся?",
+    "Э́то для тебя́!",
+    "Приве́т, ты́ ка́к?"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001048",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kak",
+   "w_potomu_chto",
+   "w_tak",
+   "w_otkuda",
+   "w_kakoy"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ка́к",
+     "it": "come"
+    },
+    {
+     "ru": "потому́ что́",
+     "it": "perché"
+    },
+    {
+     "ru": "та́к",
+     "it": "così"
+    },
+    {
+     "ru": "отку́да",
+     "it": "da dove"
+    },
+    {
+     "ru": "како́й",
+     "it": "quale"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001049",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_da",
+   "w_ya",
+   "w_takoy",
+   "w_privet",
+   "w_ty",
+   "w_kak"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Да, я́ така́я.",
+     "it": "Sì, sono così."
+    },
+    {
+     "ru": "Приве́т, ты́ ка́к?",
+     "it": "Ciao, come va?"
+    },
+    {
+     "ru": "Ка́к пого́да?",
+     "it": "Che tempo fa?"
+    },
+    {
+     "ru": "Ка́к они́?",
+     "it": "Come stanno?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001050",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_otkuda",
+   "w_pochemu",
+   "w_takoy",
+   "w_chashka",
+   "w_nedaleko",
+   "w_drugoy"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "отку́да",
+     "it": "da dove"
+    },
+    {
+     "ru": "почему́",
+     "it": "perché"
+    },
+    {
+     "ru": "тако́й",
+     "it": "tale"
+    },
+    {
+     "ru": "ча́шка",
+     "it": "tazza"
+    },
+    {
+     "ru": "недалеко́",
+     "it": "non lontano"
+    },
+    {
+     "ru": "друго́й",
+     "it": "altro"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001051",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kakoy",
+   "w_otkuda",
+   "w_potomu_chto",
+   "w_kak"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "како́й",
+     "it": "quale"
+    },
+    {
+     "ru": "отку́да",
+     "it": "da dove"
+    },
+    {
+     "ru": "потому́ что́",
+     "it": "perché"
+    },
+    {
+     "ru": "ка́к",
+     "it": "come"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001052",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_eto",
+   "w_tak",
+   "w_kak",
+   "w_zdes",
+   "w_krasivo",
+   "w_no"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Э́то та́к.",
+     "it": "È così."
+    },
+    {
+     "ru": "Ка́к зде́сь краси́во!",
+     "it": "Come è bello qui!"
+    },
+    {
+     "ru": "Но почему́?",
+     "it": "Ma perché?"
+    },
+    {
+     "ru": "Ка́к живёшь?",
+     "it": "Come stai?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001053",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kak",
+   "w_pochemu",
+   "w_otkuda",
+   "w_eto",
+   "w_tozhe",
+   "w_pyat"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ка́к",
+     "it": "come"
+    },
+    {
+     "ru": "почему́",
+     "it": "perché"
+    },
+    {
+     "ru": "отку́да",
+     "it": "da dove"
+    },
+    {
+     "ru": "э́то",
+     "it": "questo"
+    },
+    {
+     "ru": "то́же",
+     "it": "anche"
+    },
+    {
+     "ru": "пя́ть",
+     "it": "cinque"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001054",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_takoy",
+   "w_kogda",
+   "w_pochemu"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "тако́й",
+     "it": "tale"
+    },
+    {
+     "ru": "когда́",
+     "it": "quando"
+    },
+    {
+     "ru": "почему́",
+     "it": "perché"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001055",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kakoy",
+   "w_on"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Како́й о́н?",
+   "translation_it": "Com'è lui?",
+   "accepted": [
+    "Како́й о́н?",
+    "Како́й о́н",
+    "Какой он?",
+    "Какой он",
+    "какой он?",
+    "какой он",
+    "како́й о́н"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001056",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kogda"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "когда́",
+   "translation_it": "quando",
+   "accepted": [
+    "когда́",
+    "когда"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001057",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_otkuda",
+   "w_ty"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Отку́да ты́?",
+   "translation_it": "Da dove vieni?",
+   "accepted": [
+    "Отку́да ты́?",
+    "Отку́да ты́",
+    "Откуда ты?",
+    "Откуда ты",
+    "откуда ты?",
+    "откуда ты",
+    "отку́да ты́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001058",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_pochemu"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "почему́",
+   "translation_it": "perché",
+   "accepted": [
+    "почему́",
+    "почему"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001059",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kakoy",
+   "w_seychas",
+   "w_mesyats"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Како́й сейча́с ме́сяц?",
+   "translation_it": "Quale mese è ora?",
+   "accepted": [
+    "Како́й сейча́с ме́сяц?",
+    "Како́й сейча́с ме́сяц",
+    "Какой сейчас месяц?",
+    "Какой сейчас месяц",
+    "какой сейчас месяц?",
+    "какой сейчас месяц",
+    "како́й сейча́с ме́сяц"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001060",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kak"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ка́к",
+   "translation_it": "come",
+   "accepted": [
+    "ка́к",
+    "как"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001061",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "question-words"
+  ],
+  "words": [
+   "w_kakoy",
+   "w_nash"
+  ],
+  "lesson": "l_a1_16",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Како́й на́ш?",
+   "translation_it": "Qual è il nostro?",
+   "accepted": [
+    "Како́й на́ш?",
+    "Како́й на́ш",
+    "Какой наш?",
+    "Какой наш",
+    "какой наш?",
+    "какой наш",
+    "како́й на́ш"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

@@ -1,0 +1,1247 @@
+[
+ {
+  "id": "e_000287",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_ono"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "оно́",
+   "answer": "esso",
+   "accepted": [
+    "esso"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000288",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_ya",
+   "w_chelovek",
+   "w_malenkiy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ челове́к ма́ленький.",
+   "answer": "Sono un uomo semplice.",
+   "accepted": [
+    "Sono un uomo semplice.",
+    "Sono un uomo semplice",
+    "sono un uomo semplice",
+    "sono un uomo semplice.",
+    "Io sono un uomo semplice.",
+    "Io sono un uomo semplice",
+    "io sono un uomo semplice",
+    "io sono un uomo semplice."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000289",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_malenkiy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "piccolo",
+   "answer": "ма́ленький",
+   "accepted": [
+    "ма́ленький",
+    "маленький",
+    "ма́лый",
+    "малый"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000290",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_gde",
+   "w_ono"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Dov'è?",
+   "answer": "Где́ оно́?",
+   "accepted": [
+    "Где́ оно́?",
+    "Где́ оно́",
+    "Где оно?",
+    "Где оно",
+    "где оно?",
+    "где оно",
+    "где́ оно́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000291",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_malenkiy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ма́ленький",
+   "answer": "piccolo",
+   "accepted": [
+    "piccolo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000292",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_gde",
+   "w_ono"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Где́ оно́?",
+   "answer": "Dov'è?",
+   "accepted": [
+    "Dov'è?",
+    "Dov'è",
+    "dov'è",
+    "dov'è?",
+    "Dov'e'?",
+    "dov'e'",
+    "dov'e"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000293",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_vash",
+   "w_syn"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Questo è vostro figlio?",
+   "answer": "Э́то ва́ш сы́н?",
+   "accepted": [
+    "Э́то ва́ш сы́н?",
+    "Э́то ва́ш сы́н",
+    "Это ваш сын?",
+    "Это ваш сын",
+    "это ваш сын?",
+    "это ваш сын",
+    "э́то ва́ш сы́н"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000294",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_vash"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ва́ш",
+   "answer": "vostro",
+   "accepted": [
+    "vostro",
+    "suo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000295",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_malenkiy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вино́.",
+   "answer": "ма́ленькое",
+   "accepted": [
+    "ма́ленькое",
+    "маленькое"
+   ],
+   "hint_it": "piccolo: concorda con «vino» (neutro)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000296",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_gde"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ оно́?",
+   "answer": "Где́",
+   "accepted": [
+    "Где́",
+    "Где",
+    "где",
+    "где́"
+   ],
+   "hint_it": "Dov'è?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000297",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ сто́л.",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "Questo è un tavolo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000298",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_vash"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "О́н ___ оте́ц.",
+   "answer": "ва́ш",
+   "accepted": [
+    "ва́ш",
+    "ваш"
+   ],
+   "hint_it": "Lui è vostro padre."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000299",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ ма́ленький.",
+   "answer": "челове́к",
+   "accepted": [
+    "челове́к",
+    "человек"
+   ],
+   "hint_it": "Sono un uomo semplice."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000300",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_ty"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___.",
+   "answer": "ты́",
+   "accepted": [
+    "ты́",
+    "ты"
+   ],
+   "hint_it": "Sei tu."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000301",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_dom"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ма́ленький.",
+   "answer": "До́м",
+   "accepted": [
+    "До́м",
+    "Дом",
+    "дом",
+    "до́м"
+   ],
+   "hint_it": "La casa è piccola."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000302",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_malenkiy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «ма́ленький» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ дома́. — piccolo: concorda con «case» (plurale).",
+   "options": [
+    "ма́ленькая",
+    "ма́ленький",
+    "ма́ленькое",
+    "ма́ленькие"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000303",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_stol"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то сто́л.",
+   "options": [
+    "Sei tu.",
+    "Sono io.",
+    "Questo è un tavolo.",
+    "Queste sono persone."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000304",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_malenkiy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «ма́ленький»?",
+   "options": [
+    "sì",
+    "piccolo",
+    "arrivederci",
+    "bene"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000305",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_ya",
+   "w_chelovek",
+   "w_malenkiy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Sono un uomo semplice.",
+   "options": [
+    "Я́ челове́к ма́ленький.",
+    "Мне́ жа́рко.",
+    "Я́ люблю́ её.",
+    "До́м ма́ленький."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000306",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_drugoy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то друго́й.",
+   "options": [
+    "Questo è l'altro.",
+    "Questa è acqua.",
+    "Che cos'è?",
+    "Sei tu."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000307",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_nash"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «на́ш»?",
+   "options": [
+    "noi",
+    "io",
+    "nostro",
+    "che cosa"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000308",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_drugoy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Questo è l'altro.",
+   "options": [
+    "Да, э́то вино́.",
+    "Что́ э́то?",
+    "Э́то друго́й.",
+    "Э́то лю́ди."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000309",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_drugoy",
+   "w_nash",
+   "w_vash",
+   "w_ikh",
+   "w_malenkiy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "друго́й",
+     "it": "altro"
+    },
+    {
+     "ru": "на́ш",
+     "it": "nostro"
+    },
+    {
+     "ru": "ва́ш",
+     "it": "vostro"
+    },
+    {
+     "ru": "и́х",
+     "it": "loro"
+    },
+    {
+     "ru": "ма́ленький",
+     "it": "piccolo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000310",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_drugoy",
+   "w_voda",
+   "w_chto"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Э́то друго́й.",
+     "it": "Questo è l'altro."
+    },
+    {
+     "ru": "Э́то вода́.",
+     "it": "Questa è acqua."
+    },
+    {
+     "ru": "Что́ э́то?",
+     "it": "Che cos'è?"
+    },
+    {
+     "ru": "Они́ ма́ленькие.",
+     "it": "Sono piccoli."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000311",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "descrizioni",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_vash",
+   "w_malenkiy",
+   "w_ikh",
+   "w_oni",
+   "w_davay",
+   "w_supermarket"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 37,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ва́ш",
+     "it": "vostro"
+    },
+    {
+     "ru": "ма́ленький",
+     "it": "piccolo"
+    },
+    {
+     "ru": "и́х",
+     "it": "loro"
+    },
+    {
+     "ru": "дава́й",
+     "it": "dai"
+    },
+    {
+     "ru": "суперма́ркет",
+     "it": "supermercato"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000312",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_ikh",
+   "w_malenkiy",
+   "w_ono",
+   "w_drugoy",
+   "w_nash",
+   "w_vash"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 42,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "и́х",
+     "it": "loro"
+    },
+    {
+     "ru": "ма́ленький",
+     "it": "piccolo"
+    },
+    {
+     "ru": "оно́",
+     "it": "esso"
+    },
+    {
+     "ru": "друго́й",
+     "it": "altro"
+    },
+    {
+     "ru": "на́ш",
+     "it": "nostro"
+    },
+    {
+     "ru": "ва́ш",
+     "it": "vostro"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000313",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_ya",
+   "w_gde",
+   "w_ono",
+   "w_on",
+   "w_vash"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Э́то я́.",
+     "it": "Sono io."
+    },
+    {
+     "ru": "Где́ оно́?",
+     "it": "Dov'è?"
+    },
+    {
+     "ru": "О́н ва́ш оте́ц.",
+     "it": "Lui è vostro padre."
+    },
+    {
+     "ru": "Э́то сто́л.",
+     "it": "Questo è un tavolo."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000314",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_ikh",
+   "w_ono",
+   "w_drugoy",
+   "w_kholodno",
+   "w_zdravstvuyte",
+   "w_rabota"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "и́х",
+     "it": "loro"
+    },
+    {
+     "ru": "оно́",
+     "it": "esso"
+    },
+    {
+     "ru": "друго́й",
+     "it": "altro"
+    },
+    {
+     "ru": "хо́лодно",
+     "it": "fa freddo"
+    },
+    {
+     "ru": "здра́вствуйте",
+     "it": "salve"
+    },
+    {
+     "ru": "рабо́та",
+     "it": "lavoro"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000315",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_ya"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то я́.",
+   "translation_it": "Sono io.",
+   "accepted": [
+    "Э́то я́.",
+    "Э́то я́",
+    "Это я.",
+    "Это я",
+    "это я.",
+    "это я",
+    "э́то я́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000316",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_nash"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "на́ш",
+   "translation_it": "nostro",
+   "accepted": [
+    "на́ш",
+    "наш"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000317",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_oni",
+   "w_malenkiy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Они́ ма́ленькие.",
+   "translation_it": "Sono piccoli.",
+   "accepted": [
+    "Они́ ма́ленькие.",
+    "Они́ ма́ленькие",
+    "Они маленькие.",
+    "Они маленькие",
+    "они маленькие.",
+    "они маленькие",
+    "они́ ма́ленькие"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000318",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_drugoy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "друго́й",
+   "translation_it": "altro",
+   "accepted": [
+    "друго́й",
+    "другой"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000319",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_stol"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то сто́л.",
+   "translation_it": "Questo è un tavolo.",
+   "accepted": [
+    "Э́то сто́л.",
+    "Э́то сто́л",
+    "Это стол.",
+    "Это стол",
+    "это стол.",
+    "это стол",
+    "э́то сто́л"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000320",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_ono"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "оно́",
+   "translation_it": "esso",
+   "accepted": [
+    "оно́",
+    "оно"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000321",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "eto",
+   "pronouns"
+  ],
+  "words": [
+   "w_dom",
+   "w_malenkiy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "До́м ма́ленький.",
+   "translation_it": "La casa è piccola.",
+   "accepted": [
+    "До́м ма́ленький.",
+    "До́м ма́ленький",
+    "Дом маленький.",
+    "Дом маленький",
+    "дом маленький.",
+    "дом маленький",
+    "до́м ма́ленький"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

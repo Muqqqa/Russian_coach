@@ -1,0 +1,1466 @@
+[
+ {
+  "id": "e_001738",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_stena"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "стена́",
+   "answer": "parete",
+   "accepted": [
+    "parete",
+    "il parete",
+    "un parete",
+    "la parete",
+    "una parete",
+    "muro",
+    "il muro",
+    "un muro"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001739",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "casa",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_okno",
+   "w_gryaznyy"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Окно́ гря́зное.",
+   "answer": "La finestra è sporca.",
+   "accepted": [
+    "La finestra è sporca.",
+    "La finestra è sporca",
+    "la finestra è sporca",
+    "la finestra è sporca.",
+    "La finestra e' sporca.",
+    "la finestra e' sporca",
+    "la finestra e sporca"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001740",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_ugol"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "angolo",
+   "answer": "у́гол",
+   "accepted": [
+    "у́гол",
+    "угол"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001741",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "casa",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_okno",
+   "w_gryaznyy"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "La finestra è sporca.",
+   "answer": "Окно́ гря́зное.",
+   "accepted": [
+    "Окно́ гря́зное.",
+    "Окно́ гря́зное",
+    "Окно грязное.",
+    "Окно грязное",
+    "окно грязное.",
+    "окно грязное",
+    "окно́ гря́зное"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001742",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_kvartira"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "кварти́ра",
+   "answer": "appartamento",
+   "accepted": [
+    "appartamento",
+    "l'appartamento",
+    "un appartamento"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001743",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "casa",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_dvor",
+   "w_bystryy"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Двора́ми быстре́е.",
+   "answer": "Dal cortile si fa prima.",
+   "accepted": [
+    "Dal cortile si fa prima.",
+    "Dal cortile si fa prima",
+    "dal cortile si fa prima",
+    "dal cortile si fa prima."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001744",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_dvor"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "cortile",
+   "answer": "дво́р",
+   "accepted": [
+    "дво́р",
+    "двор"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001745",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "movimento",
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_poyti",
+   "w_dvor"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Passiamo dal cortile.",
+   "answer": "Пойдём двора́ми.",
+   "accepted": [
+    "Пойдём двора́ми.",
+    "Пойдём двора́ми",
+    "Пойдём дворами.",
+    "Пойдём дворами",
+    "пойдём дворами.",
+    "пойдём дворами",
+    "пойдём двора́ми",
+    "Пойдем дворами.",
+    "пойдем дворами"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001746",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_zal"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "за́л",
+   "answer": "sala",
+   "accepted": [
+    "sala",
+    "la sala",
+    "una sala"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001747",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u",
+   "prepositional-case"
+  ],
+  "words": [
+   "w_pol"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ко́шка на ___.",
+   "answer": "полу́",
+   "accepted": [
+    "полу́",
+    "полу"
+   ],
+   "hint_it": "Il gatto è sul pavimento."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001748",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_shkola"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вы́ в ___?",
+   "answer": "шко́лу",
+   "accepted": [
+    "шко́лу",
+    "школу"
+   ],
+   "hint_it": "State andando a scuola?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001749",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u",
+   "prepositional-case"
+  ],
+  "words": [
+   "w_dvor"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ма́ма на ___.",
+   "answer": "дворе́",
+   "accepted": [
+    "дворе́",
+    "дворе"
+   ],
+   "hint_it": "La mamma è nel cortile."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001750",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_bystryy"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Двора́ми ___.",
+   "answer": "быстре́е",
+   "accepted": [
+    "быстре́е",
+    "быстрее"
+   ],
+   "hint_it": "Dal cortile si fa prima."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001751",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u",
+   "prepositional-case"
+  ],
+  "words": [
+   "w_kvartira"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ в ___.",
+   "answer": "кварти́ре",
+   "accepted": [
+    "кварти́ре",
+    "квартире"
+   ],
+   "hint_it": "Sono in appartamento."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001752",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_kvartira"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то моя́ ___.",
+   "answer": "кварти́ра",
+   "accepted": [
+    "кварти́ра",
+    "квартира"
+   ],
+   "hint_it": "Questo è il mio appartamento."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001753",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u",
+   "prepositional-case"
+  ],
+  "words": [
+   "w_zal"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Они́ в ___.",
+   "answer": "за́ле",
+   "accepted": [
+    "за́ле",
+    "зале"
+   ],
+   "hint_it": "Sono nella sala."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001754",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_on"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ в шко́ле.",
+   "answer": "О́н",
+   "accepted": [
+    "О́н",
+    "Он",
+    "он",
+    "о́н"
+   ],
+   "hint_it": "Lui è a scuola."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001755",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u",
+   "prepositional-case"
+  ],
+  "words": [
+   "w_kabinet"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (stato in luogo: dove?).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Он в ___. — Lui è nello studio.",
+   "options": [
+    "кабине́т",
+    "кабине́та",
+    "кабине́те",
+    "кабине́ту"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001756",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_on",
+   "w_v",
+   "w_shkola"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "О́н в шко́ле.",
+   "options": [
+    "L'ho comprato.",
+    "Lui è a scuola.",
+    "Con cosa sta scrivendo?",
+    "Qual è il problema?"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001757",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_ugol"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «у́гол»?",
+   "options": [
+    "stanza",
+    "cosa",
+    "ciao",
+    "angolo"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001758",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u",
+   "gender"
+  ],
+  "words": [
+   "w_kvartira"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «кварти́ра»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001759",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_vy",
+   "w_v",
+   "w_shkola"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "State andando a scuola?",
+   "options": [
+    "В ко́мнате жа́рко.",
+    "Ва́м туда́ нельзя́.",
+    "Вы́ в шко́лу?",
+    "Ка́к вы́, па́рни?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001760",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_ugol"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «angolo» in russo?",
+   "options": [
+    "у́гол",
+    "по́л",
+    "клу́б",
+    "дере́вня"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001761",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u",
+   "prepositional-case"
+  ],
+  "words": [
+   "w_koridor"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (stato in luogo: dove?).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Мы́ в ___. — Siamo nel corridoio.",
+   "options": [
+    "коридо́ра",
+    "коридо́р",
+    "коридо́ру",
+    "коридо́ре"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001762",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "casa",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_okno",
+   "w_gryaznyy"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Окно́ гря́зное.",
+   "options": [
+    "Siete sporco.",
+    "Guarda fuori dalla finestra.",
+    "La finestra è sporca.",
+    "Il tavolo è sporco?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001763",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_okno",
+   "w_kabinet",
+   "w_koridor",
+   "w_shkola",
+   "w_kvartira"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "окно́",
+     "it": "finestra"
+    },
+    {
+     "ru": "кабине́т",
+     "it": "studio"
+    },
+    {
+     "ru": "коридо́р",
+     "it": "corridoio"
+    },
+    {
+     "ru": "шко́ла",
+     "it": "scuola"
+    },
+    {
+     "ru": "кварти́ра",
+     "it": "appartamento"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001764",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "casa",
+   "azioni",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_posmotret",
+   "w_v",
+   "w_okno",
+   "w_poyti",
+   "w_dvor",
+   "w_eto"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Посмотри́ в окно́.",
+     "it": "Guarda fuori dalla finestra."
+    },
+    {
+     "ru": "Пойдём двора́ми.",
+     "it": "Passiamo dal cortile."
+    },
+    {
+     "ru": "Э́то моя́ кварти́ра.",
+     "it": "Questo è il mio appartamento."
+    },
+    {
+     "ru": "Ка́к но́вая кварти́ра?",
+     "it": "Com'è l'appartamento?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001765",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "casa",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_ugol",
+   "w_pol",
+   "w_shkola",
+   "w_dorogoy",
+   "w_svobodnyy",
+   "w_posmotret"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "у́гол",
+     "it": "angolo"
+    },
+    {
+     "ru": "по́л",
+     "it": "pavimento"
+    },
+    {
+     "ru": "шко́ла",
+     "it": "scuola"
+    },
+    {
+     "ru": "дорого́й",
+     "it": "caro"
+    },
+    {
+     "ru": "свобо́дный",
+     "it": "libero"
+    },
+    {
+     "ru": "посмотре́ть",
+     "it": "guardare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001766",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_stena",
+   "w_shkola",
+   "w_koridor",
+   "w_kvartira"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "стена́",
+     "it": "parete"
+    },
+    {
+     "ru": "шко́ла",
+     "it": "scuola"
+    },
+    {
+     "ru": "коридо́р",
+     "it": "corridoio"
+    },
+    {
+     "ru": "кварти́ра",
+     "it": "appartamento"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001767",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_on",
+   "w_v",
+   "w_shkola",
+   "w_dvor",
+   "w_bystryy"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "О́н в шко́ле.",
+     "it": "Lui è a scuola."
+    },
+    {
+     "ru": "Двора́ми быстре́е.",
+     "it": "Dal cortile si fa prima."
+    },
+    {
+     "ru": "О́н хо́дит в шко́лу.",
+     "it": "Lui va a scuola."
+    },
+    {
+     "ru": "Окно́ гря́зное.",
+     "it": "La finestra è sporca."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001768",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "casa",
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_dvor",
+   "w_zal",
+   "w_shkola",
+   "w_my",
+   "w_komnata",
+   "w_priyti"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "дво́р",
+     "it": "cortile"
+    },
+    {
+     "ru": "за́л",
+     "it": "sala"
+    },
+    {
+     "ru": "шко́ла",
+     "it": "scuola"
+    },
+    {
+     "ru": "мы́",
+     "it": "noi"
+    },
+    {
+     "ru": "ко́мната",
+     "it": "stanza"
+    },
+    {
+     "ru": "прийти́",
+     "it": "venire"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001769",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_ugol",
+   "w_dvor",
+   "w_stena",
+   "w_pol",
+   "w_zal"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "у́гол",
+     "it": "angolo"
+    },
+    {
+     "ru": "дво́р",
+     "it": "cortile"
+    },
+    {
+     "ru": "стена́",
+     "it": "parete"
+    },
+    {
+     "ru": "по́л",
+     "it": "pavimento"
+    },
+    {
+     "ru": "за́л",
+     "it": "sala"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001770",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "avverbi",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_kak",
+   "w_novyy",
+   "w_kvartira"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ка́к но́вая кварти́ра?",
+   "translation_it": "Com'è l'appartamento?",
+   "accepted": [
+    "Ка́к но́вая кварти́ра?",
+    "Ка́к но́вая кварти́ра",
+    "Как новая квартира?",
+    "Как новая квартира",
+    "как новая квартира?",
+    "как новая квартира",
+    "ка́к но́вая кварти́ра"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001771",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_dvor"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "дво́р",
+   "translation_it": "cortile",
+   "accepted": [
+    "дво́р",
+    "двор"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001772",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "azioni",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_ya",
+   "w_sidet",
+   "w_v",
+   "w_ugol"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ сиде́л в углу́.",
+   "translation_it": "Ero seduto nell'angolo.",
+   "accepted": [
+    "Я́ сиде́л в углу́.",
+    "Я́ сиде́л в углу́",
+    "Я сидел в углу.",
+    "Я сидел в углу",
+    "я сидел в углу.",
+    "я сидел в углу",
+    "я́ сиде́л в углу́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001773",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_stena"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "стена́",
+   "translation_it": "parete",
+   "accepted": [
+    "стена́",
+    "стена"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001774",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "casa",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_okno",
+   "w_gryaznyy"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Окно́ гря́зное.",
+   "translation_it": "La finestra è sporca.",
+   "accepted": [
+    "Окно́ гря́зное.",
+    "Окно́ гря́зное",
+    "Окно грязное.",
+    "Окно грязное",
+    "окно грязное.",
+    "окно грязное",
+    "окно́ гря́зное"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001775",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_ugol"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "у́гол",
+   "translation_it": "angolo",
+   "accepted": [
+    "у́гол",
+    "угол"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001776",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_srazu",
+   "w_posle",
+   "w_shkola",
+   "w_idti",
+   "w_domoy"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 30,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Сра́зу по́сле шко́лы иди́те домо́й.",
+   "translation_it": "Andate a casa subito dopo la scuola.",
+   "accepted": [
+    "Сра́зу по́сле шко́лы иди́те домо́й.",
+    "Сра́зу по́сле шко́лы иди́те домо́й",
+    "Сразу после школы идите домой.",
+    "Сразу после школы идите домой",
+    "сразу после школы идите домой.",
+    "сразу после школы идите домой",
+    "сра́зу по́сле шко́лы иди́те домо́й"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001777",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "home",
+   "locations",
+   "locative-u"
+  ],
+  "words": [
+   "w_shkola"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "шко́ла",
+   "translation_it": "scuola",
+   "accepted": [
+    "шко́ла",
+    "школа"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

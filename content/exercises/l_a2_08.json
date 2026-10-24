@@ -1,0 +1,1449 @@
+[
+ {
+  "id": "e_001658",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_vysokiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "высо́кий",
+   "answer": "alto",
+   "accepted": [
+    "alto"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001659",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "concetti",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_zhizn",
+   "w_korotkiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Жи́знь коротка́.",
+   "answer": "La vita è breve.",
+   "accepted": [
+    "La vita è breve.",
+    "La vita è breve",
+    "la vita è breve",
+    "la vita è breve.",
+    "La vita e' breve.",
+    "la vita e' breve",
+    "la vita e breve"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001660",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_dlinnyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "lungo",
+   "answer": "дли́нный",
+   "accepted": [
+    "дли́нный",
+    "длинный",
+    "до́лгий",
+    "долгий"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001661",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_ulitsa",
+   "w_pustoy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Le strade sono deserte.",
+   "answer": "У́лицы пусты́.",
+   "accepted": [
+    "У́лицы пусты́.",
+    "У́лицы пусты́",
+    "Улицы пусты.",
+    "Улицы пусты",
+    "улицы пусты.",
+    "улицы пусты",
+    "у́лицы пусты́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001662",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_korotkiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "коро́ткий",
+   "answer": "corto",
+   "accepted": [
+    "corto",
+    "breve"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001663",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "cibo-bevande",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_etot",
+   "w_chashka",
+   "w_pustoy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Э́та ча́шка пуста́я.",
+   "answer": "Questa tazza è vuota.",
+   "accepted": [
+    "Questa tazza è vuota.",
+    "Questa tazza è vuota",
+    "questa tazza è vuota",
+    "questa tazza è vuota.",
+    "Questa tazza e' vuota.",
+    "questa tazza e' vuota",
+    "questa tazza e vuota"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001664",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_tyazhyolyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "pesante",
+   "answer": "тяжёлый",
+   "accepted": [
+    "тяжёлый",
+    "тяжелый"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001665",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_ona",
+   "w_chistyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "È pulita.",
+   "answer": "Она́ чи́стая.",
+   "accepted": [
+    "Она́ чи́стая.",
+    "Она́ чи́стая",
+    "Она чистая.",
+    "Она чистая",
+    "она чистая.",
+    "она чистая",
+    "она́ чи́стая"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001666",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_pustoy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "пусто́й",
+   "answer": "vuoto",
+   "accepted": [
+    "vuoto"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001667",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_pustoy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ дома́.",
+   "answer": "пусты́е",
+   "accepted": [
+    "пусты́е",
+    "пустые"
+   ],
+   "hint_it": "vuoto: concorda con «case» (plurale)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001668",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_chashka"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ пуста́я.",
+   "answer": "Ча́шка",
+   "accepted": [
+    "Ча́шка",
+    "Чашка",
+    "чашка",
+    "ча́шка"
+   ],
+   "hint_it": "La tazza è vuota."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001669",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_korotkiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вино́.",
+   "answer": "коро́ткое",
+   "accepted": [
+    "коро́ткое",
+    "короткое"
+   ],
+   "hint_it": "corto: concorda con «vino» (neutro)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001670",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_vysokiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___.",
+   "answer": "вы́ше",
+   "accepted": [
+    "вы́ше",
+    "выше"
+   ],
+   "hint_it": "Sono più alto."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001671",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_lyogkiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вода́.",
+   "answer": "лёгкая",
+   "accepted": [
+    "лёгкая",
+    "легкая"
+   ],
+   "hint_it": "leggero: concorda con «acqua» (femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001672",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_etot"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ча́шка пуста́я.",
+   "answer": "Э́та",
+   "accepted": [
+    "Э́та",
+    "Эта",
+    "эта",
+    "э́та"
+   ],
+   "hint_it": "Questa tazza è vuota."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001673",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_chistyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вино́.",
+   "answer": "чи́стое",
+   "accepted": [
+    "чи́стое",
+    "чистое"
+   ],
+   "hint_it": "pulito: concorda con «vino» (neutro)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001674",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_on"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ чи́стый.",
+   "answer": "О́н",
+   "accepted": [
+    "О́н",
+    "Он",
+    "он",
+    "о́н"
+   ],
+   "hint_it": "È pulito."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001675",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_polnyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «по́лный» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ вино́. — pieno: concorda con «vino» (neutro).",
+   "options": [
+    "по́лное",
+    "по́лный",
+    "по́лные",
+    "по́лная"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001676",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_eto",
+   "w_chistyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то чи́стое.",
+   "options": [
+    "Questa è l'ultima.",
+    "Questo è un tavolo.",
+    "Questo è pulito.",
+    "È pulito."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001677",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_shirokiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «широ́кий»?",
+   "options": [
+    "scorso",
+    "largo",
+    "cattivo",
+    "corto"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001678",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "cibo-bevande",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_etot",
+   "w_chashka",
+   "w_pustoy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Questa tazza è vuota.",
+   "options": [
+    "Э́та крова́ть тяжёлая.",
+    "Э́тот паке́т для ва́с.",
+    "Э́та ча́шка пуста́я.",
+    "Э́тот ча́й вку́сный."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001679",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_shirokiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «largo» in russo?",
+   "options": [
+    "кра́сный",
+    "после́дний",
+    "дешёвый",
+    "широ́кий"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001680",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_polnyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «по́лный» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ дома́. — pieno: concorda con «case» (plurale).",
+   "options": [
+    "по́лный",
+    "по́лное",
+    "по́лные",
+    "по́лная"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001681",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "avverbi",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_slishkom",
+   "w_korotkiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Сли́шком коро́ткий.",
+   "options": [
+    "È troppo forte.",
+    "È troppo caldo.",
+    "È troppo corto.",
+    "Questo è troppo!"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001682",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_polnyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «по́лный»?",
+   "options": [
+    "scuro",
+    "pulito",
+    "prossimo",
+    "pieno"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001683",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_polnyy",
+   "w_tyazhyolyy",
+   "w_chistyy",
+   "w_shirokiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "по́лный",
+     "it": "pieno"
+    },
+    {
+     "ru": "тяжёлый",
+     "it": "pesante"
+    },
+    {
+     "ru": "чи́стый",
+     "it": "pulito"
+    },
+    {
+     "ru": "широ́кий",
+     "it": "largo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001684",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni",
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_eto",
+   "w_chistyy",
+   "w_voda",
+   "w_tyazhyolyy",
+   "w_byt"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Э́то чи́стое.",
+     "it": "Questo è pulito."
+    },
+    {
+     "ru": "Вода́ тяжёлая.",
+     "it": "L'acqua è pesante."
+    },
+    {
+     "ru": "Тяжело́ бы́ло?",
+     "it": "È stata dura?"
+    },
+    {
+     "ru": "Я́ вы́ше.",
+     "it": "Sono più alto."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001685",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_chistyy",
+   "w_polnyy",
+   "w_vysokiy",
+   "w_komnata",
+   "w_nichego",
+   "w_no"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "чи́стый",
+     "it": "pulito"
+    },
+    {
+     "ru": "по́лный",
+     "it": "pieno"
+    },
+    {
+     "ru": "высо́кий",
+     "it": "alto"
+    },
+    {
+     "ru": "ко́мната",
+     "it": "stanza"
+    },
+    {
+     "ru": "ничего́",
+     "it": "niente"
+    },
+    {
+     "ru": "но́",
+     "it": "ma"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001686",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_chistyy",
+   "w_vysokiy",
+   "w_polnyy",
+   "w_dlinnyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "чи́стый",
+     "it": "pulito"
+    },
+    {
+     "ru": "высо́кий",
+     "it": "alto"
+    },
+    {
+     "ru": "по́лный",
+     "it": "pieno"
+    },
+    {
+     "ru": "дли́нный",
+     "it": "lungo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001687",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni",
+   "avverbi",
+   "concetti"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_slishkom",
+   "w_korotkiy",
+   "w_zhizn",
+   "w_on",
+   "w_vysokiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Сли́шком коро́ткая.",
+     "it": "È troppo corta."
+    },
+    {
+     "ru": "Жи́знь коротка́.",
+     "it": "La vita è breve."
+    },
+    {
+     "ru": "О́н высо́кий.",
+     "it": "Lui è alto."
+    },
+    {
+     "ru": "О́чередь была́ дли́нной.",
+     "it": "La coda era lunga."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001688",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni",
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_lyogkiy",
+   "w_polnyy",
+   "w_korotkiy",
+   "w_tikhiy",
+   "w_eshchyo",
+   "w_poetomu"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "лёгкий",
+     "it": "leggero"
+    },
+    {
+     "ru": "по́лный",
+     "it": "pieno"
+    },
+    {
+     "ru": "коро́ткий",
+     "it": "corto"
+    },
+    {
+     "ru": "ти́хий",
+     "it": "silenzioso"
+    },
+    {
+     "ru": "ещё",
+     "it": "ancora"
+    },
+    {
+     "ru": "поэ́тому",
+     "it": "perciò"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001689",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_pustoy",
+   "w_tyazhyolyy",
+   "w_shirokiy",
+   "w_korotkiy",
+   "w_lyogkiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "пусто́й",
+     "it": "vuoto"
+    },
+    {
+     "ru": "тяжёлый",
+     "it": "pesante"
+    },
+    {
+     "ru": "широ́кий",
+     "it": "largo"
+    },
+    {
+     "ru": "коро́ткий",
+     "it": "corto"
+    },
+    {
+     "ru": "лёгкий",
+     "it": "leggero"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001690",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_on",
+   "w_chistyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "О́н чи́стый.",
+   "translation_it": "È pulito.",
+   "accepted": [
+    "О́н чи́стый.",
+    "О́н чи́стый",
+    "Он чистый.",
+    "Он чистый",
+    "он чистый.",
+    "он чистый",
+    "о́н чи́стый"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001691",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_chistyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "чи́стый",
+   "translation_it": "pulito",
+   "accepted": [
+    "чи́стый",
+    "чистый"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001692",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_voda",
+   "w_chistyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вода́ чи́стая.",
+   "translation_it": "L'acqua è pulita.",
+   "accepted": [
+    "Вода́ чи́стая.",
+    "Вода́ чи́стая",
+    "Вода чистая.",
+    "Вода чистая",
+    "вода чистая.",
+    "вода чистая",
+    "вода́ чи́стая"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001693",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_polnyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "по́лный",
+   "translation_it": "pieno",
+   "accepted": [
+    "по́лный",
+    "полный"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001694",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_papa",
+   "w_vysokiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Па́па высо́кий.",
+   "translation_it": "Papà è alto.",
+   "accepted": [
+    "Па́па высо́кий.",
+    "Па́па высо́кий",
+    "Папа высокий.",
+    "Папа высокий",
+    "папа высокий.",
+    "папа высокий",
+    "па́па высо́кий"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001695",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_vysokiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "высо́кий",
+   "translation_it": "alto",
+   "accepted": [
+    "высо́кий",
+    "высокий"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001696",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "avverbi",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_slishkom",
+   "w_korotkiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Сли́шком коро́ткий.",
+   "translation_it": "È troppo corto.",
+   "accepted": [
+    "Сли́шком коро́ткий.",
+    "Сли́шком коро́ткий",
+    "Слишком короткий.",
+    "Слишком короткий",
+    "слишком короткий.",
+    "слишком короткий",
+    "сли́шком коро́ткий"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001697",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_pustoy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "пусто́й",
+   "translation_it": "vuoto",
+   "accepted": [
+    "пусто́й",
+    "пустой"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

@@ -69,7 +69,22 @@ def _grave_last(piece):
     return piece
 
 
+# eccezioni di pronuncia ([što], [kɐˈnʲeʂnə]) indicate da qa-russian
+_TRANSLIT_TOKEN = {"что\u0301": "st\u00f2", "что\u0301бы": "st\u00f2by", "что\u0301б": "st\u00f2b", "ничто\u0301": "nist\u00f2",
+                   "что\u0301-то": "st\u00f2-to", "коне\u0301чно": "kon\u00e8sno"}
+
+
 def translit(stress):
+    """Per frasi di piu' parole traslittera ogni parola; applica le eccezioni per token."""
+    if " " in stress:
+        return " ".join(translit(t) for t in stress.split(" "))
+    t = stress.lower()
+    if t in _TRANSLIT_TOKEN:
+        return _TRANSLIT_TOKEN[t]
+    return _translit(stress)
+
+
+def _translit(stress):
     """stress: russo con U+0301. Ritorna la trascrizione latina con accento grave sulla tonica."""
     chars = []  # (lettera, tonica)
     for ch in stress.lower():
@@ -85,7 +100,10 @@ def translit(stress):
         if c == "\u0451":
             c, st = "\u0451", True
         if c in _CONS:
-            out.append(_CONS[c])
+            piece = _CONS[c]
+            if c in _HUSH and (nxt == "" or nxt not in VOWELS):
+                piece += "i"  # ч/ш/щ davanti a consonante, ь o a fine parola: ci/sci/ssci (altrimenti un italiano legge k/sk)
+            out.append(piece)
         elif c == "г":
             out.append("gh" if nxt in ("е", "и", "ё", "ь") else "g")
         elif c in _PLAIN_V:

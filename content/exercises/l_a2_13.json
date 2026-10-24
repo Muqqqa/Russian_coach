@@ -1,0 +1,1435 @@
+[
+ {
+  "id": "e_001858",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_serdtse"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "се́рдце",
+   "answer": "cuore",
+   "accepted": [
+    "cuore",
+    "il cuore",
+    "un cuore",
+    "la cuore",
+    "una cuore"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001859",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_on",
+   "w_lezhat",
+   "w_na",
+   "w_spina"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "О́н лежи́т на спине́.",
+   "answer": "Lui è sdraiato sulla schiena.",
+   "accepted": [
+    "Lui è sdraiato sulla schiena.",
+    "Lui è sdraiato sulla schiena",
+    "lui è sdraiato sulla schiena",
+    "lui è sdraiato sulla schiena.",
+    "Lui e' sdraiato sulla schiena.",
+    "lui e' sdraiato sulla schiena",
+    "lui e sdraiato sulla schiena"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001860",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_plecho"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "spalla",
+   "answer": "плечо́",
+   "accepted": [
+    "плечо́",
+    "плечо"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001861",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_u",
+   "w_koshka",
+   "w_dva",
+   "w_ukho"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "I gatti hanno due orecchie.",
+   "answer": "У ко́шек два́ у́ха.",
+   "accepted": [
+    "У ко́шек два́ у́ха.",
+    "У ко́шек два́ у́ха",
+    "У кошек два уха.",
+    "У кошек два уха",
+    "у кошек два уха.",
+    "у кошек два уха",
+    "у ко́шек два́ у́ха"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001862",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_grud"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "гру́дь",
+   "answer": "petto",
+   "accepted": [
+    "petto",
+    "il petto",
+    "un petto"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001863",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_na",
+   "w_ruka",
+   "w_pyat",
+   "w_palets"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "На руке́ пя́ть па́льцев.",
+   "answer": "La mano ha cinque dita.",
+   "accepted": [
+    "La mano ha cinque dita.",
+    "La mano ha cinque dita",
+    "la mano ha cinque dita",
+    "la mano ha cinque dita."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001864",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_spina"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "schiena",
+   "answer": "спина́",
+   "accepted": [
+    "спина́",
+    "спина"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001865",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni",
+   "grammatica",
+   "colori"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_u",
+   "w_ya",
+   "w_tyomnyy",
+   "w_volos"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Ho i capelli scuri.",
+   "answer": "У меня́ тёмные во́лосы.",
+   "accepted": [
+    "У меня́ тёмные во́лосы.",
+    "У меня́ тёмные во́лосы",
+    "У меня тёмные волосы.",
+    "У меня тёмные волосы",
+    "у меня тёмные волосы.",
+    "у меня тёмные волосы",
+    "у меня́ тёмные во́лосы",
+    "У меня темные волосы.",
+    "у меня темные волосы"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001866",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_ukho"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "у́хо",
+   "answer": "orecchio",
+   "accepted": [
+    "orecchio",
+    "l'orecchio",
+    "un orecchio"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001867",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular",
+   "plural-nominative"
+  ],
+  "words": [
+   "w_nos"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "но́с → plurale (nominativo): ___",
+   "answer": "носы́",
+   "accepted": [
+    "носы́",
+    "носы"
+   ],
+   "hint_it": "Plurale di «но́с» (naso)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001868",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_spina"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 20,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Что́ у Ва́с за ___?",
+   "answer": "спино́й",
+   "accepted": [
+    "спино́й",
+    "спиной"
+   ],
+   "hint_it": "Cosa avete dietro la schiena?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001869",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular",
+   "plural-nominative"
+  ],
+  "words": [
+   "w_plecho"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "плечо́ → plurale (nominativo): ___",
+   "answer": "пле́чи",
+   "accepted": [
+    "пле́чи",
+    "плечи"
+   ],
+   "hint_it": "Plurale di «плечо́» (spalla)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001870",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_ona"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "У ___ дли́нные во́лосы.",
+   "answer": "неё",
+   "accepted": [
+    "неё",
+    "нее"
+   ],
+   "hint_it": "I suoi capelli sono lunghi."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001871",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular",
+   "plural-nominative"
+  ],
+  "words": [
+   "w_spina"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "спина́ → plurale (nominativo): ___",
+   "answer": "спи́ны",
+   "accepted": [
+    "спи́ны",
+    "спины"
+   ],
+   "hint_it": "Plurale di «спина́» (schiena)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001872",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_grud"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "У неё больша́я ___.",
+   "answer": "гру́дь",
+   "accepted": [
+    "гру́дь",
+    "грудь"
+   ],
+   "hint_it": "Lei ha un grande seno."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001873",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular",
+   "plural-nominative"
+  ],
+  "words": [
+   "w_palets"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "па́лец → plurale (nominativo): ___",
+   "answer": "па́льцы",
+   "accepted": [
+    "па́льцы",
+    "пальцы"
+   ],
+   "hint_it": "Plurale di «па́лец» (dito)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001874",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_ona"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "У ___ бе́лые зу́бы.",
+   "answer": "неё",
+   "accepted": [
+    "неё",
+    "нее"
+   ],
+   "hint_it": "Ha i denti bianchi."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001875",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular",
+   "plural-nominative"
+  ],
+  "words": [
+   "w_volos"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 14,
+  "prompt_it": "Scegli il nominativo plurale.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "во́лос → plurale (nominativo): ___ — Plurale di «во́лос» (capello).",
+   "options": [
+    "во́лоса",
+    "во́лос",
+    "во́лосы"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001876",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_u",
+   "w_ona",
+   "w_dlinnyy",
+   "w_volos"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "У неё дли́нные во́лосы.",
+   "options": [
+    "I suoi capelli sono lunghi.",
+    "Non riesco a fermarla.",
+    "Mi fanno male le orecchie.",
+    "Qual è il Vostro hobby?"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001877",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_nos"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «но́с»?",
+   "options": [
+    "albergo",
+    "angolo",
+    "sabato",
+    "naso"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001878",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular",
+   "gender"
+  ],
+  "words": [
+   "w_serdtse"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «се́рдце»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001879",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni",
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_u",
+   "w_ona",
+   "w_bolshoy",
+   "w_grud"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 20,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Lei ha un grande seno.",
+   "options": [
+    "У меня́ боли́т нога́.",
+    "У неё больша́я гру́дь.",
+    "Мне́ её не останови́ть.",
+    "У неё бе́лые зу́бы."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001880",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_ukho"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «orecchio» in russo?",
+   "options": [
+    "рабо́та",
+    "число́",
+    "метро́",
+    "у́хо"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001881",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular",
+   "plural-nominative"
+  ],
+  "words": [
+   "w_zub"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 14,
+  "prompt_it": "Scegli il nominativo plurale.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "зу́б → plurale (nominativo): ___ — Plurale di «зу́б» (dente).",
+   "options": [
+    "зу́ба",
+    "зу́б",
+    "зу́бы",
+    "зубо́в"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001882",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_chto",
+   "w_u",
+   "w_vy",
+   "w_za",
+   "w_spina"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 20,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Что́ у Ва́с за спино́й?",
+   "options": [
+    "Cosa avete dietro la schiena?",
+    "Cosa avete contro di lei?",
+    "Lei ha i capelli fino alle spalle.",
+    "Per noi tutto come al solito."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001883",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_plecho",
+   "w_nos",
+   "w_grud",
+   "w_ukho",
+   "w_volos"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "плечо́",
+     "it": "spalla"
+    },
+    {
+     "ru": "но́с",
+     "it": "naso"
+    },
+    {
+     "ru": "гру́дь",
+     "it": "petto"
+    },
+    {
+     "ru": "у́хо",
+     "it": "orecchio"
+    },
+    {
+     "ru": "во́лос",
+     "it": "capello"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001884",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_u",
+   "w_ona",
+   "w_dlinnyy",
+   "w_volos",
+   "w_slushat",
+   "w_svoy"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "У неё дли́нные во́лосы.",
+     "it": "I suoi capelli sono lunghi."
+    },
+    {
+     "ru": "Слу́шайте своё се́рдце.",
+     "it": "Ascoltate il vostro cuore."
+    },
+    {
+     "ru": "На руке́ пя́ть па́льцев.",
+     "it": "La mano ha cinque dita."
+    },
+    {
+     "ru": "Ско́лько па́льцев на руке́?",
+     "it": "Quante dita ha la mano?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001885",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_volos",
+   "w_grud",
+   "w_zub",
+   "w_nosok",
+   "w_tyazhyolyy",
+   "w_restoran"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "во́лос",
+     "it": "capello"
+    },
+    {
+     "ru": "гру́дь",
+     "it": "petto"
+    },
+    {
+     "ru": "зу́б",
+     "it": "dente"
+    },
+    {
+     "ru": "носо́к",
+     "it": "calzino"
+    },
+    {
+     "ru": "тяжёлый",
+     "it": "pesante"
+    },
+    {
+     "ru": "рестора́н",
+     "it": "ristorante"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001886",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_zub",
+   "w_grud",
+   "w_ukho",
+   "w_palets"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "зу́б",
+     "it": "dente"
+    },
+    {
+     "ru": "гру́дь",
+     "it": "petto"
+    },
+    {
+     "ru": "у́хо",
+     "it": "orecchio"
+    },
+    {
+     "ru": "па́лец",
+     "it": "dito"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001887",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_kak",
+   "w_plecho",
+   "w_serdtse",
+   "w_ne",
+   "w_kamen",
+   "w_u"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Ка́к плечо́?",
+     "it": "Come sta la spalla?"
+    },
+    {
+     "ru": "Се́рдце не ка́мень.",
+     "it": "Il cuore non è di pietra."
+    },
+    {
+     "ru": "У меня́ боля́т у́ши.",
+     "it": "Mi fanno male le orecchie."
+    },
+    {
+     "ru": "О́н лежи́т на спине́.",
+     "it": "Lui è sdraiato sulla schiena."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001888",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "casa",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_serdtse",
+   "w_spina",
+   "w_ukho",
+   "w_pol",
+   "w_pomoch",
+   "w_zelyonyy"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "се́рдце",
+     "it": "cuore"
+    },
+    {
+     "ru": "спина́",
+     "it": "schiena"
+    },
+    {
+     "ru": "у́хо",
+     "it": "orecchio"
+    },
+    {
+     "ru": "по́л",
+     "it": "pavimento"
+    },
+    {
+     "ru": "помо́чь",
+     "it": "aiutare"
+    },
+    {
+     "ru": "зелёный",
+     "it": "verde"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001889",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_serdtse",
+   "w_spina",
+   "w_nos",
+   "w_plecho",
+   "w_volos"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "се́рдце",
+     "it": "cuore"
+    },
+    {
+     "ru": "спина́",
+     "it": "schiena"
+    },
+    {
+     "ru": "но́с",
+     "it": "naso"
+    },
+    {
+     "ru": "плечо́",
+     "it": "spalla"
+    },
+    {
+     "ru": "во́лос",
+     "it": "capello"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001890",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_u",
+   "w_ya",
+   "w_bolet",
+   "w_zub"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "У меня́ боли́т зу́б.",
+   "translation_it": "Mi fa male un dente.",
+   "accepted": [
+    "У меня́ боли́т зу́б.",
+    "У меня́ боли́т зу́б",
+    "У меня болит зуб.",
+    "У меня болит зуб",
+    "у меня болит зуб.",
+    "у меня болит зуб",
+    "у меня́ боли́т зу́б"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001891",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_nos"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "но́с",
+   "translation_it": "naso",
+   "accepted": [
+    "но́с",
+    "нос"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001892",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_u",
+   "w_ya",
+   "w_bolet",
+   "w_ukho"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "У меня́ боля́т у́ши.",
+   "translation_it": "Mi fanno male le orecchie.",
+   "accepted": [
+    "У меня́ боля́т у́ши.",
+    "У меня́ боля́т у́ши",
+    "У меня болят уши.",
+    "У меня болят уши",
+    "у меня болят уши.",
+    "у меня болят уши",
+    "у меня́ боля́т у́ши"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001893",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_volos"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "во́лос",
+   "translation_it": "capello",
+   "accepted": [
+    "во́лос",
+    "волос"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001894",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_u",
+   "w_koshka",
+   "w_dva",
+   "w_ukho"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "У ко́шек два́ у́ха.",
+   "translation_it": "I gatti hanno due orecchie.",
+   "accepted": [
+    "У ко́шек два́ у́ха.",
+    "У ко́шек два́ у́ха",
+    "У кошек два уха.",
+    "У кошек два уха",
+    "у кошек два уха.",
+    "у кошек два уха",
+    "у ко́шек два́ у́ха"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001895",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_zub"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "зу́б",
+   "translation_it": "dente",
+   "accepted": [
+    "зу́б",
+    "зуб"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001896",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_chto",
+   "w_u",
+   "w_vy",
+   "w_za",
+   "w_spina"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 30,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Что́ у Ва́с за спино́й?",
+   "translation_it": "Cosa avete dietro la schiena?",
+   "accepted": [
+    "Что́ у Ва́с за спино́й?",
+    "Что́ у Ва́с за спино́й",
+    "Что у Вас за спиной?",
+    "Что у Вас за спиной",
+    "что у вас за спиной?",
+    "что у вас за спиной",
+    "что́ у ва́с за спино́й"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001897",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "plural-irregular"
+  ],
+  "words": [
+   "w_ukho"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "у́хо",
+   "translation_it": "orecchio",
+   "accepted": [
+    "у́хо",
+    "ухо"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

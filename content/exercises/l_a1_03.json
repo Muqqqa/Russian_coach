@@ -1,0 +1,1452 @@
+[
+ {
+  "id": "e_000513",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_noch"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "но́чь",
+   "answer": "notte",
+   "accepted": [
+    "notte",
+    "il notte",
+    "un notte",
+    "la notte",
+    "una notte"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000514",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_sem",
+   "w_chas"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Се́мь часо́в.",
+   "answer": "Sono le sette.",
+   "accepted": [
+    "Sono le sette.",
+    "Sono le sette",
+    "sono le sette",
+    "sono le sette."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000515",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_noch"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "notte",
+   "answer": "но́чь",
+   "accepted": [
+    "но́чь",
+    "ночь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000516",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_kotoryy",
+   "w_chas"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Che ore sono?",
+   "answer": "Кото́рый ча́с?",
+   "accepted": [
+    "Кото́рый ча́с?",
+    "Кото́рый ча́с",
+    "Который час?",
+    "Который час",
+    "который час?",
+    "который час",
+    "кото́рый ча́с"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000517",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_sekunda"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "секу́нда",
+   "answer": "secondo",
+   "accepted": [
+    "secondo",
+    "il secondo",
+    "un secondo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000518",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_eshchyo",
+   "w_pyat",
+   "w_minuta"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Ещё пя́ть мину́т!",
+   "answer": "Ancora cinque minuti!",
+   "accepted": [
+    "Ancora cinque minuti!",
+    "Ancora cinque minuti",
+    "ancora cinque minuti",
+    "ancora cinque minuti!"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000519",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_vremya"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "tempo",
+   "answer": "вре́мя",
+   "accepted": [
+    "вре́мя",
+    "время"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000520",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_na",
+   "w_chas",
+   "w_dva"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "L'orologio segna le due.",
+   "answer": "На часа́х два́.",
+   "accepted": [
+    "На часа́х два́.",
+    "На часа́х два́",
+    "На часах два.",
+    "На часах два",
+    "на часах два.",
+    "на часах два",
+    "на часа́х два́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000521",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_seychas"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "сейча́с",
+   "answer": "adesso",
+   "accepted": [
+    "adesso"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000522",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_den"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "пя́ть ___.",
+   "answer": "дне́й",
+   "accepted": [
+    "дне́й",
+    "дней"
+   ],
+   "hint_it": "Cinque giorni."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000523",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_chas"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "На ___ два́.",
+   "answer": "часа́х",
+   "accepted": [
+    "часа́х",
+    "часах"
+   ],
+   "hint_it": "L'orologio segna le due."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000524",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_den"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "два́ ___.",
+   "answer": "дня",
+   "accepted": [
+    "дня"
+   ],
+   "hint_it": "Due giorni."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000525",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_sem"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ часо́в.",
+   "answer": "Се́мь",
+   "accepted": [
+    "Се́мь",
+    "Семь",
+    "семь",
+    "се́мь"
+   ],
+   "hint_it": "Sono le sette."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000526",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_nedelya"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "три́ ___.",
+   "answer": "неде́ли",
+   "accepted": [
+    "неде́ли",
+    "недели"
+   ],
+   "hint_it": "Tre settimane."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000527",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_seychas"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ча́с дня.",
+   "answer": "Сейча́с",
+   "accepted": [
+    "Сейча́с",
+    "Сейчас",
+    "сейчас",
+    "сейча́с"
+   ],
+   "hint_it": "È l'una del pomeriggio."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000528",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_mesyats"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "пя́ть ___.",
+   "answer": "ме́сяцев",
+   "accepted": [
+    "ме́сяцев",
+    "месяцев"
+   ],
+   "hint_it": "Cinque mesi."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000529",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_proshlyy"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ но́чью шёл сне́г.",
+   "answer": "Про́шлой",
+   "accepted": [
+    "Про́шлой",
+    "Прошлой",
+    "прошлой",
+    "про́шлой"
+   ],
+   "hint_it": "La scorsa notte è nevicato."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000530",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_eshchyo",
+   "w_pyat",
+   "w_minuta"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Ещё пя́ть мину́т!",
+   "options": [
+    "Ancora cinque minuti!",
+    "Non ancora.",
+    "Lei ha cinque anni.",
+    "Sono le quattro meno cinque."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000531",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_sekunda"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «секу́нда»?",
+   "options": [
+    "lunedì",
+    "lavoro",
+    "secondo",
+    "ottobre"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000532",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers",
+   "gender"
+  ],
+  "words": [
+   "w_minuta"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «мину́та»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000533",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_skolko",
+   "w_on",
+   "w_god"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Quanti anni hanno?",
+   "options": [
+    "О́н сего́дня спро́сит.",
+    "О́н лю́бит пи́во?",
+    "Ско́лько и́м ле́т?",
+    "Ско́лько сто́ило?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000534",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_god"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «anno» in russo?",
+   "options": [
+    "ме́сяц",
+    "ру́бль",
+    "го́д",
+    "рестора́н"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000535",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_na",
+   "w_chas",
+   "w_dva"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "На часа́х два́.",
+   "options": [
+    "Che ore sono?",
+    "L'orologio segna le due.",
+    "Due, per favore.",
+    "È l'una del pomeriggio."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000536",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_minuta"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «мину́та»?",
+   "options": [
+    "minuto",
+    "casa",
+    "ciao",
+    "venerdì"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000537",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers",
+   "gender"
+  ],
+  "words": [
+   "w_sekunda"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «секу́нда»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000538",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_kotoryy",
+   "w_mesyats",
+   "w_vremya",
+   "w_chas",
+   "w_raz"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "кото́рый",
+     "it": "quale"
+    },
+    {
+     "ru": "ме́сяц",
+     "it": "mese"
+    },
+    {
+     "ru": "вре́мя",
+     "it": "tempo"
+    },
+    {
+     "ru": "ча́с",
+     "it": "ora"
+    },
+    {
+     "ru": "ра́з",
+     "it": "volta"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000539",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_kotoryy",
+   "w_chas",
+   "w_na",
+   "w_dva"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Кото́рый ча́с?",
+     "it": "Che ore sono?"
+    },
+    {
+     "ru": "На часа́х два́.",
+     "it": "L'orologio segna le due."
+    },
+    {
+     "ru": "\"Кото́рый ча́с?\" — \"Де́сять\".",
+     "it": "\"Che ore sono adesso?\" \"Sono le dieci.\""
+    },
+    {
+     "ru": "Сейча́с ча́с дня.",
+     "it": "È l'una del pomeriggio."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000540",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_sekunda",
+   "w_chas",
+   "w_god",
+   "w_odin",
+   "w_dom",
+   "w_pyat"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "секу́нда",
+     "it": "secondo"
+    },
+    {
+     "ru": "ча́с",
+     "it": "ora"
+    },
+    {
+     "ru": "го́д",
+     "it": "anno"
+    },
+    {
+     "ru": "оди́н",
+     "it": "uno"
+    },
+    {
+     "ru": "до́м",
+     "it": "casa"
+    },
+    {
+     "ru": "пя́ть",
+     "it": "cinque"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000541",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_vremya",
+   "w_kotoryy",
+   "w_seychas",
+   "w_noch",
+   "w_god",
+   "w_sekunda"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 42,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "вре́мя",
+     "it": "tempo"
+    },
+    {
+     "ru": "кото́рый",
+     "it": "quale"
+    },
+    {
+     "ru": "сейча́с",
+     "it": "adesso"
+    },
+    {
+     "ru": "но́чь",
+     "it": "notte"
+    },
+    {
+     "ru": "го́д",
+     "it": "anno"
+    },
+    {
+     "ru": "секу́нда",
+     "it": "secondo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000542",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "descrizioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_proshlyy",
+   "w_noch",
+   "w_idti",
+   "w_sneg",
+   "w_skolko",
+   "w_on"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Про́шлой но́чью шёл сне́г.",
+     "it": "La scorsa notte è nevicato."
+    },
+    {
+     "ru": "Ско́лько и́м ле́т?",
+     "it": "Quanti anni hanno?"
+    },
+    {
+     "ru": "Извини́те, я́ без часо́в.",
+     "it": "Scusate, sono senza orologio."
+    },
+    {
+     "ru": "Ещё пя́ть мину́т!",
+     "it": "Ancora cinque minuti!"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000543",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_minuta",
+   "w_chas",
+   "w_seychas",
+   "w_tualet",
+   "w_den",
+   "w_rubl"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "мину́та",
+     "it": "minuto"
+    },
+    {
+     "ru": "ча́с",
+     "it": "ora"
+    },
+    {
+     "ru": "сейча́с",
+     "it": "adesso"
+    },
+    {
+     "ru": "туале́т",
+     "it": "bagno"
+    },
+    {
+     "ru": "де́нь",
+     "it": "giorno"
+    },
+    {
+     "ru": "ру́бль",
+     "it": "rublo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000544",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_god",
+   "w_noch",
+   "w_seychas",
+   "w_minuta",
+   "w_sekunda"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "го́д",
+     "it": "anno"
+    },
+    {
+     "ru": "но́чь",
+     "it": "notte"
+    },
+    {
+     "ru": "сейча́с",
+     "it": "adesso"
+    },
+    {
+     "ru": "мину́та",
+     "it": "minuto"
+    },
+    {
+     "ru": "секу́нда",
+     "it": "secondo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000545",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_proshlyy",
+   "w_noch",
+   "w_idti",
+   "w_sneg"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Про́шлой но́чью шёл сне́г.",
+   "translation_it": "La scorsa notte è nevicato.",
+   "accepted": [
+    "Про́шлой но́чью шёл сне́г.",
+    "Про́шлой но́чью шёл сне́г",
+    "Прошлой ночью шёл снег.",
+    "Прошлой ночью шёл снег",
+    "прошлой ночью шёл снег.",
+    "прошлой ночью шёл снег",
+    "про́шлой но́чью шёл сне́г",
+    "Прошлой ночью шел снег.",
+    "прошлой ночью шел снег"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000546",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_minuta"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "мину́та",
+   "translation_it": "minuto",
+   "accepted": [
+    "мину́та",
+    "минута"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000547",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_seychas",
+   "w_chas",
+   "w_den"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Сейча́с ча́с дня.",
+   "translation_it": "È l'una del pomeriggio.",
+   "accepted": [
+    "Сейча́с ча́с дня.",
+    "Сейча́с ча́с дня",
+    "Сейчас час дня.",
+    "Сейчас час дня",
+    "сейчас час дня.",
+    "сейчас час дня",
+    "сейча́с ча́с дня"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000548",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_kotoryy"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "кото́рый",
+   "translation_it": "quale",
+   "accepted": [
+    "кото́рый",
+    "который"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000549",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_skolko",
+   "w_on",
+   "w_god"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ско́лько и́м ле́т?",
+   "translation_it": "Quanti anni hanno?",
+   "accepted": [
+    "Ско́лько и́м ле́т?",
+    "Ско́лько и́м ле́т",
+    "Сколько им лет?",
+    "Сколько им лет",
+    "сколько им лет?",
+    "сколько им лет",
+    "ско́лько и́м ле́т"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000550",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_sekunda"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "секу́нда",
+   "translation_it": "secondo",
+   "accepted": [
+    "секу́нда",
+    "секунда"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000551",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_bez",
+   "w_pyat",
+   "w_minuta",
+   "w_chetyre"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Без пяти́ мину́т четы́ре.",
+   "translation_it": "Sono le quattro meno cinque.",
+   "accepted": [
+    "Без пяти́ мину́т четы́ре.",
+    "Без пяти́ мину́т четы́ре",
+    "Без пяти минут четыре.",
+    "Без пяти минут четыре",
+    "без пяти минут четыре.",
+    "без пяти минут четыре",
+    "без пяти́ мину́т четы́ре"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000552",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time",
+   "numbers",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_noch"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "но́чь",
+   "translation_it": "notte",
+   "accepted": [
+    "но́чь",
+    "ночь"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

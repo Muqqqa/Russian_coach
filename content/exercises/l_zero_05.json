@@ -1,0 +1,1428 @@
+[
+ {
+  "id": "e_000140",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_pozhaluysta"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 12,
+  "prompt_it": "Leggi la parola russa e scrivila con lettere italiane (come si pronuncia).",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "пожа́луйста",
+   "answer": "pozhàlujsta",
+   "accepted": [
+    "pozhàlujsta"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000141",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_bolshoy"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "большо́й",
+   "answer": "grande",
+   "accepted": [
+    "grande",
+    "grosso"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000142",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "ristorante",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_schyot",
+   "w_pozhaluysta"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Счёт, пожа́луйста!",
+   "answer": "Il conto, per favore!",
+   "accepted": [
+    "Il conto, per favore!",
+    "Il conto per favore",
+    "il conto per favore",
+    "il conto, per favore!"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000143",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_lyubit"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "amare",
+   "answer": "люби́ть",
+   "accepted": [
+    "люби́ть",
+    "любить"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000144",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_chto",
+   "w_zdes"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Cosa c'è qui?",
+   "answer": "Что́ зде́сь?",
+   "accepted": [
+    "Что́ зде́сь?",
+    "Что́ зде́сь",
+    "Что здесь?",
+    "Что здесь",
+    "что здесь?",
+    "что здесь",
+    "что́ зде́сь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000145",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_lyubit"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 12,
+  "prompt_it": "Leggi la parola russa e scrivila con lettere italiane (come si pronuncia).",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "люби́ть",
+   "answer": "liubìt",
+   "accepted": [
+    "liubìt"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000146",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_tolko"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "то́лько",
+   "answer": "solo",
+   "accepted": [
+    "solo",
+    "soltanto"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000147",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_ya",
+   "w_lyubit",
+   "w_ona"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ люблю́ её.",
+   "answer": "La amo.",
+   "accepted": [
+    "La amo.",
+    "La amo",
+    "la amo",
+    "la amo.",
+    "Io la amo.",
+    "Io la amo",
+    "io la amo",
+    "io la amo."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000148",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_ochen"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "molto",
+   "answer": "о́чень",
+   "accepted": [
+    "о́чень",
+    "мно́го",
+    "много",
+    "очень"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000149",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_bolshoy"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вода́.",
+   "answer": "больша́я",
+   "accepted": [
+    "больша́я",
+    "большая"
+   ],
+   "hint_it": "grande: concorda con «acqua» (femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000150",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_kto"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вы́ ___?",
+   "answer": "кто́",
+   "accepted": [
+    "кто́",
+    "кто"
+   ],
+   "hint_it": "Voi chi siete?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000151",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_bolshoy"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "бол___шой",
+   "answer": "ь",
+   "accepted": [
+    "ь",
+    "Ь"
+   ],
+   "hint_it": "grande, si legge «bolsciòj»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000152",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_lyubit"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ко́фе.",
+   "answer": "Люблю́",
+   "accepted": [
+    "Люблю́",
+    "Люблю",
+    "люблю",
+    "люблю́"
+   ],
+   "hint_it": "Mi piace il caffè."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000153",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_bystro"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "б___стро",
+   "answer": "ы",
+   "accepted": [
+    "ы",
+    "Ы"
+   ],
+   "hint_it": "velocemente, si legge «bỳstro»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000154",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_schyot"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___, пожа́луйста!",
+   "answer": "Счёт",
+   "accepted": [
+    "Счёт",
+    "счёт",
+    "Счет",
+    "счет"
+   ],
+   "hint_it": "Il conto, per favore!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000155",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_ochen"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "очен___",
+   "answer": "ь",
+   "accepted": [
+    "ь",
+    "Ь"
+   ],
+   "hint_it": "molto, si legge «òcen»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000156",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_ona"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ люблю́ ___.",
+   "answer": "её",
+   "accepted": [
+    "её",
+    "ее"
+   ],
+   "hint_it": "La amo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000157",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_bolshoy"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «большо́й» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ вино́. — grande: concorda con «vino» (neutro).",
+   "options": [
+    "большо́е",
+    "больша́я",
+    "большо́й",
+    "больши́е"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000158",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_vy",
+   "w_my"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il suono della lettera.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge la lettera «Ы ы»?",
+   "options": [
+    "bl",
+    "kh",
+    "k",
+    "y (i all'indietro)"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000159",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_pozhaluysta",
+   "w_bolshoy"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 10,
+  "prompt_it": "Scegli la lettera russa che corrisponde al suono.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Quale lettera russa si legge «j (i breve)»?",
+   "options": [
+    "Й й",
+    "М м",
+    "У у",
+    "Н н"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000160",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_my"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 12,
+  "prompt_it": "Scegli la lettura giusta della parola.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge «мы»?",
+   "options": [
+    "ktò",
+    "òn",
+    "gdè",
+    "mỳ"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000161",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_eto",
+   "w_ty"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ты́.",
+   "options": [
+    "Sei tu.",
+    "Sono io.",
+    "Dove sei?",
+    "Anche tu?"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000162",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_tolko"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «то́лько»?",
+   "options": [
+    "sì",
+    "no",
+    "ancora",
+    "solo"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000163",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_chto",
+   "w_zdes"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Cosa c'è qui?",
+   "options": [
+    "Ещё чего́?",
+    "Они́ зде́сь.",
+    "Я́ зде́сь.",
+    "Что́ зде́сь?"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000164",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_zdes"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «qui» in russo?",
+   "options": [
+    "где́",
+    "хорошо́",
+    "то́же",
+    "зде́сь"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000165",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_lyubit"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 24,
+  "prompt_it": "Abbina ogni lettera russa al suo suono.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Ю ю",
+     "it": "iu"
+    },
+    {
+     "ru": "Ы ы",
+     "it": "y (i all'indietro)"
+    },
+    {
+     "ru": "Й й",
+     "it": "j (i breve)"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000166",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_lyubit"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 28,
+  "prompt_it": "Abbina le lettere ai suoni (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Ю ю",
+     "it": "iu"
+    },
+    {
+     "ru": "Ы ы",
+     "it": "y (i all'indietro)"
+    },
+    {
+     "ru": "Я я",
+     "it": "ia"
+    },
+    {
+     "ru": "О о",
+     "it": "o"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000167",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "saluti",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_ty",
+   "w_pozhaluysta",
+   "w_bolshoy",
+   "w_bystro"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa alla sua lettura.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ты́",
+     "it": "tỳ"
+    },
+    {
+     "ru": "пожа́луйста",
+     "it": "pozhàlujsta"
+    },
+    {
+     "ru": "большо́й",
+     "it": "bolsciòj"
+    },
+    {
+     "ru": "бы́стро",
+     "it": "bỳstro"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000168",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_ty",
+   "w_lyubit",
+   "w_tolko",
+   "w_zdes",
+   "w_bolshoy"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ты́",
+     "it": "tu"
+    },
+    {
+     "ru": "люби́ть",
+     "it": "amare"
+    },
+    {
+     "ru": "то́лько",
+     "it": "solo"
+    },
+    {
+     "ru": "зде́сь",
+     "it": "qui"
+    },
+    {
+     "ru": "большо́й",
+     "it": "grande"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000169",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "ristorante",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_lyubit",
+   "w_kofe",
+   "w_schyot",
+   "w_pozhaluysta",
+   "w_eto",
+   "w_ty"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Люблю́ ко́фе.",
+     "it": "Mi piace il caffè."
+    },
+    {
+     "ru": "Счёт, пожа́луйста!",
+     "it": "Il conto, per favore!"
+    },
+    {
+     "ru": "Э́то ты́.",
+     "it": "Sei tu."
+    },
+    {
+     "ru": "Большо́е спаси́бо!",
+     "it": "Grazie mille!"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000170",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_vy",
+   "w_my",
+   "w_zdes",
+   "w_eto",
+   "w_tozhe",
+   "w_kofe"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "вы́",
+     "it": "voi"
+    },
+    {
+     "ru": "мы́",
+     "it": "noi"
+    },
+    {
+     "ru": "зде́сь",
+     "it": "qui"
+    },
+    {
+     "ru": "э́то",
+     "it": "questo"
+    },
+    {
+     "ru": "то́же",
+     "it": "anche"
+    },
+    {
+     "ru": "ко́фе",
+     "it": "caffè"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000171",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_my",
+   "w_ochen",
+   "w_lyubit",
+   "w_vy"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa alla sua lettura.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "мы́",
+     "it": "mỳ"
+    },
+    {
+     "ru": "о́чень",
+     "it": "òcen"
+    },
+    {
+     "ru": "люби́ть",
+     "it": "liubìt"
+    },
+    {
+     "ru": "вы́",
+     "it": "vỳ"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000172",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_ya",
+   "w_lyubit",
+   "w_ona"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ люблю́ её.",
+   "translation_it": "La amo.",
+   "accepted": [
+    "Я́ люблю́ её.",
+    "Я́ люблю́ её",
+    "Я люблю её.",
+    "Я люблю её",
+    "я люблю её.",
+    "я люблю её",
+    "я́ люблю́ её",
+    "Я люблю ее.",
+    "я люблю ее"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000173",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_bystro"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "бы́стро",
+   "translation_it": "velocemente",
+   "accepted": [
+    "бы́стро",
+    "быстро"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000174",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_ya",
+   "w_zdes"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ зде́сь.",
+   "translation_it": "Sono qua.",
+   "accepted": [
+    "Я́ зде́сь.",
+    "Я́ зде́сь",
+    "Я здесь.",
+    "Я здесь",
+    "я здесь.",
+    "я здесь",
+    "я́ зде́сь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000175",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_zdes"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "зде́сь",
+   "translation_it": "qui",
+   "accepted": [
+    "зде́сь",
+    "здесь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000176",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_vy",
+   "w_kto"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вы́ кто́?",
+   "translation_it": "Voi chi siete?",
+   "accepted": [
+    "Вы́ кто́?",
+    "Вы́ кто́",
+    "Вы кто?",
+    "Вы кто",
+    "вы кто?",
+    "вы кто",
+    "вы́ кто́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000177",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_lyubit"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "люби́ть",
+   "translation_it": "amare",
+   "accepted": [
+    "люби́ть",
+    "любить"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000178",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "descrizioni",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_bolshoy",
+   "w_spasibo"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Большо́е спаси́бо!",
+   "translation_it": "Grazie mille!",
+   "accepted": [
+    "Большо́е спаси́бо!",
+    "Большо́е спаси́бо",
+    "Большое спасибо!",
+    "Большое спасибо",
+    "большое спасибо!",
+    "большое спасибо",
+    "большо́е спаси́бо"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000179",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound"
+  ],
+  "words": [
+   "w_pozhaluysta"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "пожа́луйста",
+   "translation_it": "per favore",
+   "accepted": [
+    "пожа́луйста",
+    "пожалуйста"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

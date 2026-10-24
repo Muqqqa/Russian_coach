@@ -1,0 +1,1463 @@
+[
+ {
+  "id": "e_000432",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_pyatnitsa"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "пя́тница",
+   "answer": "venerdì",
+   "accepted": [
+    "venerdì",
+    "il venerdì",
+    "un venerdì",
+    "venerdi"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000433",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_segodnya",
+   "w_sreda"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Сего́дня среда́.",
+   "answer": "Oggi è mercoledì.",
+   "accepted": [
+    "Oggi è mercoledì.",
+    "Oggi è mercoledì",
+    "oggi è mercoledì",
+    "oggi è mercoledì.",
+    "Oggi e' mercoledi'.",
+    "oggi e' mercoledi'",
+    "oggi e mercoledi"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000434",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_vtornik"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "martedì",
+   "answer": "вто́рник",
+   "accepted": [
+    "вто́рник",
+    "вторник"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000435",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_zavtra",
+   "w_ponedelnik"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Domani è lunedì.",
+   "answer": "За́втра понеде́льник.",
+   "accepted": [
+    "За́втра понеде́льник.",
+    "За́втра понеде́льник",
+    "Завтра понедельник.",
+    "Завтра понедельник",
+    "завтра понедельник.",
+    "завтра понедельник",
+    "за́втра понеде́льник"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000436",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_zavtra"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "за́втра",
+   "answer": "domani",
+   "accepted": [
+    "domani"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000437",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_segodnya",
+   "w_voskresene"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Сего́дня воскресе́нье.",
+   "answer": "Oggi è domenica.",
+   "accepted": [
+    "Oggi è domenica.",
+    "Oggi è domenica",
+    "oggi è domenica",
+    "oggi è domenica.",
+    "Oggi e' domenica.",
+    "oggi e' domenica",
+    "oggi e domenica"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000438",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_chetverg"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "giovedì",
+   "answer": "четве́рг",
+   "accepted": [
+    "четве́рг",
+    "четверг"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000439",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_segodnya",
+   "w_subbota"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "È sabato oggi.",
+   "answer": "Сего́дня суббо́та.",
+   "accepted": [
+    "Сего́дня суббо́та.",
+    "Сего́дня суббо́та",
+    "Сегодня суббота.",
+    "Сегодня суббота",
+    "сегодня суббота.",
+    "сегодня суббота",
+    "сего́дня суббо́та"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000440",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_voskresene"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "воскресе́нье",
+   "answer": "domenica",
+   "accepted": [
+    "domenica",
+    "la domenica",
+    "una domenica"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000441",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time",
+   "accusative"
+  ],
+  "words": [
+   "w_pyatnitsa"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Мы́ рабо́таем в ___.",
+   "answer": "пя́тницу",
+   "accepted": [
+    "пя́тницу",
+    "пятницу"
+   ],
+   "hint_it": "Lavoriamo il venerdì."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000442",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_subbota"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Сего́дня ___.",
+   "answer": "суббо́та",
+   "accepted": [
+    "суббо́та",
+    "суббота"
+   ],
+   "hint_it": "È sabato oggi."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000443",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_segodnya"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ среда́.",
+   "answer": "Сего́дня",
+   "accepted": [
+    "Сего́дня",
+    "Сегодня",
+    "сегодня",
+    "сего́дня"
+   ],
+   "hint_it": "Oggi è mercoledì."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000444",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_sreda"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Сего́дня ___.",
+   "answer": "среда́",
+   "accepted": [
+    "среда́",
+    "среда"
+   ],
+   "hint_it": "Oggi è mercoledì."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000445",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_zavtra"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ понеде́льник.",
+   "answer": "За́втра",
+   "accepted": [
+    "За́втра",
+    "Завтра",
+    "завтра",
+    "за́втра"
+   ],
+   "hint_it": "Domani è lunedì."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000446",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_segodnya"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ четве́рг.",
+   "answer": "Сего́дня",
+   "accepted": [
+    "Сего́дня",
+    "Сегодня",
+    "сегодня",
+    "сего́дня"
+   ],
+   "hint_it": "Oggi è giovedì."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000447",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_zavtra"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ вто́рник.",
+   "answer": "За́втра",
+   "accepted": [
+    "За́втра",
+    "Завтра",
+    "завтра",
+    "за́втра"
+   ],
+   "hint_it": "Domani è martedì."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000448",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_segodnya"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ суббо́та.",
+   "answer": "Сего́дня",
+   "accepted": [
+    "Сего́дня",
+    "Сегодня",
+    "сегодня",
+    "сего́дня"
+   ],
+   "hint_it": "È sabato oggi."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000449",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time",
+   "accusative"
+  ],
+  "words": [
+   "w_sreda"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (in che giorno?).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ рабо́таю в ___. — Lavoro il mercoledì.",
+   "options": [
+    "среду́",
+    "среде́",
+    "среды́",
+    "среда́"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000450",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_segodnya",
+   "w_subbota"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Сего́дня суббо́та.",
+   "options": [
+    "Oggi è venerdì.",
+    "Oggi fa caldo.",
+    "È sabato oggi.",
+    "Oggi è martedì."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000451",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_vchera"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «вчера́»?",
+   "options": [
+    "poi",
+    "fa freddo",
+    "ieri",
+    "molto"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000452",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time",
+   "gender"
+  ],
+  "words": [
+   "w_vtornik"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «вто́рник»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000453",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_segodnya",
+   "w_chetverg"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Oggi è giovedì.",
+   "options": [
+    "Сего́дня понеде́льник.",
+    "Сего́дня среда́.",
+    "Сего́дня четве́рг.",
+    "Сего́дня жа́рко."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000454",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_ponedelnik"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «lunedì» in russo?",
+   "options": [
+    "суббо́та",
+    "понеде́льник",
+    "ру́бль",
+    "суперма́ркет"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000455",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time",
+   "accusative"
+  ],
+  "words": [
+   "w_subbota"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (in che giorno?).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Он спи́т в ___. — Lui dorme il sabato.",
+   "options": [
+    "суббо́та",
+    "суббо́те",
+    "суббо́ты",
+    "суббо́ту"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000456",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_zavtra",
+   "w_ponedelnik"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "За́втра понеде́льник.",
+   "options": [
+    "Oggi è lunedì.",
+    "Domani è sabato.",
+    "Domani è lunedì.",
+    "Domani è sabato?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000457",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_subbota",
+   "w_sreda",
+   "w_voskresene"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "суббо́та",
+     "it": "sabato"
+    },
+    {
+     "ru": "среда́",
+     "it": "mercoledì"
+    },
+    {
+     "ru": "воскресе́нье",
+     "it": "domenica"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000458",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_zavtra",
+   "w_vtornik",
+   "w_segodnya",
+   "w_sreda"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "За́втра вто́рник.",
+     "it": "Domani è martedì."
+    },
+    {
+     "ru": "Сего́дня вто́рник.",
+     "it": "Oggi è martedì."
+    },
+    {
+     "ru": "Сего́дня среда́.",
+     "it": "Oggi è mercoledì."
+    },
+    {
+     "ru": "За́втра суббо́та.",
+     "it": "Domani è sabato."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000459",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_ponedelnik",
+   "w_subbota",
+   "w_pyatnitsa",
+   "w_bar",
+   "w_kofe",
+   "w_bystro"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "понеде́льник",
+     "it": "lunedì"
+    },
+    {
+     "ru": "суббо́та",
+     "it": "sabato"
+    },
+    {
+     "ru": "пя́тница",
+     "it": "venerdì"
+    },
+    {
+     "ru": "ба́р",
+     "it": "bar"
+    },
+    {
+     "ru": "ко́фе",
+     "it": "caffè"
+    },
+    {
+     "ru": "бы́стро",
+     "it": "velocemente"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000460",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_vtornik",
+   "w_nedelya",
+   "w_ponedelnik",
+   "w_pyatnitsa",
+   "w_subbota"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "вто́рник",
+     "it": "martedì"
+    },
+    {
+     "ru": "неде́ля",
+     "it": "settimana"
+    },
+    {
+     "ru": "понеде́льник",
+     "it": "lunedì"
+    },
+    {
+     "ru": "пя́тница",
+     "it": "venerdì"
+    },
+    {
+     "ru": "суббо́та",
+     "it": "sabato"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000461",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_segodnya",
+   "w_ponedelnik",
+   "w_subbota",
+   "w_zavtra"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Сего́дня понеде́льник.",
+     "it": "Oggi è lunedì."
+    },
+    {
+     "ru": "Сего́дня суббо́та.",
+     "it": "È sabato oggi."
+    },
+    {
+     "ru": "За́втра понеде́льник.",
+     "it": "Domani è lunedì."
+    },
+    {
+     "ru": "Сего́дня пя́тница.",
+     "it": "Oggi è venerdì."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000462",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_pyatnitsa",
+   "w_zavtra",
+   "w_chetverg",
+   "w_on",
+   "w_ono",
+   "w_mozhno"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "пя́тница",
+     "it": "venerdì"
+    },
+    {
+     "ru": "за́втра",
+     "it": "domani"
+    },
+    {
+     "ru": "четве́рг",
+     "it": "giovedì"
+    },
+    {
+     "ru": "о́н",
+     "it": "lui"
+    },
+    {
+     "ru": "оно́",
+     "it": "esso"
+    },
+    {
+     "ru": "мо́жно",
+     "it": "si può"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000463",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_chetverg",
+   "w_vchera",
+   "w_vtornik",
+   "w_ponedelnik"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "четве́рг",
+     "it": "giovedì"
+    },
+    {
+     "ru": "вчера́",
+     "it": "ieri"
+    },
+    {
+     "ru": "вто́рник",
+     "it": "martedì"
+    },
+    {
+     "ru": "понеде́льник",
+     "it": "lunedì"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000464",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_zavtra",
+   "w_subbota"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "За́втра суббо́та?",
+   "translation_it": "Domani è sabato?",
+   "accepted": [
+    "За́втра суббо́та?",
+    "За́втра суббо́та",
+    "Завтра суббота?",
+    "Завтра суббота",
+    "завтра суббота?",
+    "завтра суббота",
+    "за́втра суббо́та"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000465",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_ponedelnik"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "понеде́льник",
+   "translation_it": "lunedì",
+   "accepted": [
+    "понеде́льник",
+    "понедельник"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000466",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_segodnya",
+   "w_sreda"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Сего́дня среда́.",
+   "translation_it": "Oggi è mercoledì.",
+   "accepted": [
+    "Сего́дня среда́.",
+    "Сего́дня среда́",
+    "Сегодня среда.",
+    "Сегодня среда",
+    "сегодня среда.",
+    "сегодня среда",
+    "сего́дня среда́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000467",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_vtornik"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "вто́рник",
+   "translation_it": "martedì",
+   "accepted": [
+    "вто́рник",
+    "вторник"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000468",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_zavtra",
+   "w_subbota"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "За́втра суббо́та.",
+   "translation_it": "Domani è sabato.",
+   "accepted": [
+    "За́втра суббо́та.",
+    "За́втра суббо́та",
+    "Завтра суббота.",
+    "Завтра суббота",
+    "завтра суббота.",
+    "завтра суббота",
+    "за́втра суббо́та"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000469",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_sreda"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "среда́",
+   "translation_it": "mercoledì",
+   "accepted": [
+    "среда́",
+    "среда"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000470",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo",
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_segodnya",
+   "w_u",
+   "w_my",
+   "w_chetverg"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Сего́дня у на́с четве́рг.",
+   "translation_it": "Oggi è giovedì.",
+   "accepted": [
+    "Сего́дня у на́с четве́рг.",
+    "Сего́дня у на́с четве́рг",
+    "Сегодня у нас четверг.",
+    "Сегодня у нас четверг",
+    "сегодня у нас четверг.",
+    "сегодня у нас четверг",
+    "сего́дня у на́с четве́рг"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000471",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_chetverg"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "четве́рг",
+   "translation_it": "giovedì",
+   "accepted": [
+    "четве́рг",
+    "четверг"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000472",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "words": [
+   "w_den"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "де́нь",
+   "answer": "giorno",
+   "accepted": [
+    "giorno",
+    "il giorno",
+    "un giorno"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

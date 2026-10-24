@@ -1,0 +1,1315 @@
+[
+ {
+  "id": "e_000799",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_pomnit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "по́мнить",
+   "answer": "ricordare",
+   "accepted": [
+    "ricordare"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000800",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_ya",
+   "w_spat"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ спа́л.",
+   "answer": "Dormivo.",
+   "accepted": [
+    "Dormivo.",
+    "Dormivo",
+    "dormivo",
+    "dormivo.",
+    "Io dormivo.",
+    "Io dormivo",
+    "io dormivo",
+    "io dormivo."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000801",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_uchit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "studiare",
+   "answer": "учи́ть",
+   "accepted": [
+    "учи́ть",
+    "учить"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000802",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_ya",
+   "w_lyubit",
+   "w_gotovit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Amo cucinare.",
+   "answer": "Я́ люблю́ гото́вить.",
+   "accepted": [
+    "Я́ люблю́ гото́вить.",
+    "Я́ люблю́ гото́вить",
+    "Я люблю готовить.",
+    "Я люблю готовить",
+    "я люблю готовить.",
+    "я люблю готовить",
+    "я́ люблю́ гото́вить"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000803",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni",
+   "mente",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_videt"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ви́деть",
+   "answer": "vedere",
+   "accepted": [
+    "vedere"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000804",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_ty",
+   "w_nravitsya"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Тебе́ нра́вится?",
+   "answer": "Ti piace?",
+   "accepted": [
+    "Ti piace?",
+    "Ti piace",
+    "ti piace",
+    "ti piace?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000805",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_nravitsya"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "piacere",
+   "answer": "нра́виться",
+   "accepted": [
+    "нра́виться",
+    "нравиться"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000806",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_ty",
+   "w_videt"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Vedi?",
+   "answer": "Ты́ ви́дишь?",
+   "accepted": [
+    "Ты́ ви́дишь?",
+    "Ты́ ви́дишь",
+    "Ты видишь?",
+    "Ты видишь",
+    "ты видишь?",
+    "ты видишь",
+    "ты́ ви́дишь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000807",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_uchit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ты́ ___ (учи́ть).",
+   "answer": "у́чишь",
+   "accepted": [
+    "у́чишь",
+    "учишь"
+   ],
+   "hint_it": "studiare: tu"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000808",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_spat"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ко́шка ___.",
+   "answer": "спи́т",
+   "accepted": [
+    "спи́т",
+    "спит"
+   ],
+   "hint_it": "Il gatto sta dormendo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000809",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "mente",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_gotovit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ (гото́вить).",
+   "answer": "гото́влю",
+   "accepted": [
+    "гото́влю",
+    "готовлю"
+   ],
+   "hint_it": "cucinare: io"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000810",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_ona"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ви́дели?",
+   "answer": "Её",
+   "accepted": [
+    "Её",
+    "её",
+    "Ее",
+    "ее"
+   ],
+   "hint_it": "L'avete vista?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000811",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_uchit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вы́ ___ (учи́ть).",
+   "answer": "у́чите",
+   "accepted": [
+    "у́чите",
+    "учите"
+   ],
+   "hint_it": "studiare: voi"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000812",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni",
+   "mente",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_lyubit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ гото́вить.",
+   "answer": "люблю́",
+   "accepted": [
+    "люблю́",
+    "люблю"
+   ],
+   "hint_it": "Amo cucinare."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000813",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_pomnit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Он ___ (по́мнить).",
+   "answer": "по́мнит",
+   "accepted": [
+    "по́мнит",
+    "помнит"
+   ],
+   "hint_it": "ricordare: lui"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000814",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni",
+   "mente",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_gotovit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 14,
+  "prompt_it": "Coniuga il verbo: scegli la forma giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Он ___ (гото́вить). — cucinare: lui",
+   "options": [
+    "гото́вит",
+    "гото́вишь",
+    "гото́вим",
+    "гото́влю"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000815",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_ya",
+   "w_spat"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ спала́.",
+   "options": [
+    "Ero malato.",
+    "Sto lavorando.",
+    "Anch'io.",
+    "Dormivo."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000816",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_spat"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «спа́ть»?",
+   "options": [
+    "vedere",
+    "cercare",
+    "dormire",
+    "sapere"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000817",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_oni",
+   "w_khorosho",
+   "w_platit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Loro pagano bene.",
+   "options": [
+    "Они́ дороги́е.",
+    "Они́ ма́ленькие.",
+    "Они́ хорошо́ пла́тят.",
+    "Ско́лько тебе́ пла́тят?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000818",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_nravitsya"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «piacere» in russo?",
+   "options": [
+    "плати́ть",
+    "смотре́ть",
+    "люби́ть",
+    "нра́виться"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000819",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_smotret"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 14,
+  "prompt_it": "Coniuga il verbo: scegli la forma giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Они́ ___ (смотре́ть). — guardare: loro",
+   "options": [
+    "смо́трите",
+    "смо́трят",
+    "смо́трит",
+    "смотрю́"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000820",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_koshka",
+   "w_spat"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Ко́шка спи́т.",
+   "options": [
+    "Lui dorme?",
+    "Dormiamo.",
+    "Dormivo.",
+    "Il gatto sta dormendo."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000821",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_nravitsya",
+   "w_videt",
+   "w_uchit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "нра́виться",
+     "it": "piacere"
+    },
+    {
+     "ru": "ви́деть",
+     "it": "vedere"
+    },
+    {
+     "ru": "учи́ть",
+     "it": "studiare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000822",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_ya",
+   "w_lyubit",
+   "w_gotovit",
+   "w_ty",
+   "w_videt"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ люблю́ гото́вить.",
+     "it": "Amo cucinare."
+    },
+    {
+     "ru": "Ты́ ви́дишь?",
+     "it": "Vedi?"
+    },
+    {
+     "ru": "Тебе́ нра́вится?",
+     "it": "Ti piace?"
+    },
+    {
+     "ru": "Ско́лько тебе́ пла́тят?",
+     "it": "Quanto ti pagano?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000823",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_spat",
+   "w_gotovit",
+   "w_nravitsya",
+   "w_zdravstvuyte",
+   "w_sestra",
+   "w_mozhno"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "спа́ть",
+     "it": "dormire"
+    },
+    {
+     "ru": "гото́вить",
+     "it": "cucinare"
+    },
+    {
+     "ru": "нра́виться",
+     "it": "piacere"
+    },
+    {
+     "ru": "здра́вствуйте",
+     "it": "salve"
+    },
+    {
+     "ru": "сестра́",
+     "it": "sorella"
+    },
+    {
+     "ru": "мо́жно",
+     "it": "si può"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000824",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_videt",
+   "w_smotret",
+   "w_spat",
+   "w_nravitsya"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ви́деть",
+     "it": "vedere"
+    },
+    {
+     "ru": "смотре́ть",
+     "it": "guardare"
+    },
+    {
+     "ru": "спа́ть",
+     "it": "dormire"
+    },
+    {
+     "ru": "нра́виться",
+     "it": "piacere"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000825",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "azioni",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_ya",
+   "w_spat",
+   "w_ty",
+   "w_nravitsya",
+   "w_gorod",
+   "w_my"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ спа́л.",
+     "it": "Dormivo."
+    },
+    {
+     "ru": "Тебе́ нра́вится го́род?",
+     "it": "Ti piace la città?"
+    },
+    {
+     "ru": "Мы́ по́мним.",
+     "it": "Ricordiamo."
+    },
+    {
+     "ru": "Мне́ нра́вится.",
+     "it": "Mi piace."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000826",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni",
+   "grammatica",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_smotret",
+   "w_spat",
+   "w_uchit",
+   "w_eto",
+   "w_ty",
+   "w_krovat"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "смотре́ть",
+     "it": "guardare"
+    },
+    {
+     "ru": "спа́ть",
+     "it": "dormire"
+    },
+    {
+     "ru": "учи́ть",
+     "it": "studiare"
+    },
+    {
+     "ru": "э́то",
+     "it": "questo"
+    },
+    {
+     "ru": "ты́",
+     "it": "tu"
+    },
+    {
+     "ru": "крова́ть",
+     "it": "letto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000827",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente",
+   "lavoro-scuola",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_pomnit",
+   "w_gotovit",
+   "w_uchit",
+   "w_platit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "по́мнить",
+     "it": "ricordare"
+    },
+    {
+     "ru": "гото́вить",
+     "it": "cucinare"
+    },
+    {
+     "ru": "учи́ть",
+     "it": "studiare"
+    },
+    {
+     "ru": "плати́ть",
+     "it": "pagare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000828",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_ya",
+   "w_nravitsya"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Мне́ нра́вится.",
+   "translation_it": "Mi piace.",
+   "accepted": [
+    "Мне́ нра́вится.",
+    "Мне́ нра́вится",
+    "Мне нравится.",
+    "Мне нравится",
+    "мне нравится.",
+    "мне нравится",
+    "мне́ нра́вится"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000829",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni",
+   "mente",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_videt"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ви́деть",
+   "translation_it": "vedere",
+   "accepted": [
+    "ви́деть",
+    "видеть"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000830",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_ty",
+   "w_nravitsya"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Тебе́ нра́вится?",
+   "translation_it": "Ti piace?",
+   "accepted": [
+    "Тебе́ нра́вится?",
+    "Тебе́ нра́вится",
+    "Тебе нравится?",
+    "Тебе нравится",
+    "тебе нравится?",
+    "тебе нравится",
+    "тебе́ нра́вится"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000831",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_uchit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "учи́ть",
+   "translation_it": "studiare",
+   "accepted": [
+    "учи́ть",
+    "учить"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000832",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_koshka",
+   "w_spat"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ко́шка спи́т.",
+   "translation_it": "Il gatto sta dormendo.",
+   "accepted": [
+    "Ко́шка спи́т.",
+    "Ко́шка спи́т",
+    "Кошка спит.",
+    "Кошка спит",
+    "кошка спит.",
+    "кошка спит",
+    "ко́шка спи́т"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000833",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni",
+   "mente",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_gotovit"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "гото́вить",
+   "translation_it": "cucinare",
+   "accepted": [
+    "гото́вить",
+    "готовить"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000834",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "verbs-present",
+   "conjugation-2",
+   "reflexive"
+  ],
+  "words": [
+   "w_ya",
+   "w_spat",
+   "w_devyat",
+   "w_chas"
+  ],
+  "lesson": "l_a1_10",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ спа́л де́вять часо́в.",
+   "translation_it": "Ho dormito nove ore.",
+   "accepted": [
+    "Я́ спа́л де́вять часо́в.",
+    "Я́ спа́л де́вять часо́в",
+    "Я спал девять часов.",
+    "Я спал девять часов",
+    "я спал девять часов.",
+    "я спал девять часов",
+    "я́ спа́л де́вять часо́в"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

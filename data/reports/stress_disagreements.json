@@ -23,75 +23,30 @@
    ]
   },
   {
-   "id": "w_molodoy",
-   "ru": "молодой",
-   "key": "sup",
-   "openrussian": "молодейший",
-   "wiktextract": [
-    "са́мый молодо́й"
-   ]
-  },
-  {
-   "id": "w_golodnyy",
-   "ru": "голодный",
-   "key": "short_n",
-   "openrussian": "голо́дно",
-   "wiktextract": [
-    "го́лодно"
-   ]
-  },
-  {
-   "id": "w_sreda",
-   "ru": "среда",
+   "id": "w_pora",
+   "ru": "пора",
    "key": "dat_pl",
-   "openrussian": "среда́м",
+   "openrussian": "по́рам",
    "wiktextract": [
-    "сре́дам"
-   ]
-  },
-  {
-   "id": "w_sreda",
-   "ru": "среда",
-   "key": "ins_pl",
-   "openrussian": "среда́ми",
-   "wiktextract": [
-    "сре́дами"
-   ]
-  },
-  {
-   "id": "w_sreda",
-   "ru": "среда",
-   "key": "prep_pl",
-   "openrussian": "среда́х",
-   "wiktextract": [
-    "сре́дах"
+    "пора́м"
    ]
   },
   {
    "id": "w_pora",
    "ru": "пора",
-   "key": "acc_sg",
-   "openrussian": "пору́",
+   "key": "ins_pl",
+   "openrussian": "по́рами",
    "wiktextract": [
-    "по́ру"
+    "пора́ми"
    ]
   },
   {
-   "id": "w_proiskhodit",
-   "ru": "происходить",
-   "key": "presfut_3sg",
-   "openrussian": "происходи́т",
+   "id": "w_pora",
+   "ru": "пора",
+   "key": "prep_pl",
+   "openrussian": "по́рах",
    "wiktextract": [
-    "происхо́дит"
-   ]
-  },
-  {
-   "id": "w_proiskhodit",
-   "ru": "происходить",
-   "key": "presfut_2pl",
-   "openrussian": "происходи́те",
-   "wiktextract": [
-    "происхо́дите"
+    "пора́х"
    ]
   },
   {
@@ -101,34 +56,6 @@
    "openrussian": "силён",
    "wiktextract": [
     "си́лен"
-   ]
-  },
-  {
-   "id": "w_sobstvennyy",
-   "ru": "собственный",
-   "key": "short_n",
-   "openrussian": "со́бственна",
-   "wiktextract": [
-    "со́бственно"
-   ]
-  },
-  {
-   "id": "w_sobstvennyy",
-   "ru": "собственный",
-   "key": "short_f",
-   "openrussian": "со́бственно",
-   "wiktextract": [
-    "со́бственна"
-   ]
-  },
-  {
-   "id": "w_bolnoy",
-   "ru": "больной",
-   "key": "comp",
-   "openrussian": "больн",
-   "wiktextract": [
-    "больне́е",
-    "больне́й"
    ]
   },
   {
@@ -159,16 +86,6 @@
    ]
   },
   {
-   "id": "w_velikiy",
-   "ru": "великий",
-   "key": "comp",
-   "openrussian": "бо́льше;бо́лее",
-   "wiktextract": [
-    "бо́лее вели́кий",
-    "бо́льший"
-   ]
-  },
-  {
    "id": "w_korotkiy",
    "ru": "короткий",
    "key": "sup",
@@ -184,16 +101,6 @@
    "openrussian": "длинно́",
    "wiktextract": [
     "дли́нно"
-   ]
-  },
-  {
-   "id": "w_krupnyy",
-   "ru": "крупный",
-   "key": "short_pl",
-   "openrussian": "кру́пны́",
-   "wiktextract": [
-    "крупны́",
-    "кру́пны"
    ]
   },
   {

@@ -1,0 +1,1404 @@
+[
+ {
+  "id": "e_000473",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_odin"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "оди́н",
+   "answer": "uno",
+   "accepted": [
+    "uno",
+    "solo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000474",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_na",
+   "w_chas",
+   "w_dva"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "На часа́х два́.",
+   "answer": "L'orologio segna le due.",
+   "accepted": [
+    "L'orologio segna le due.",
+    "L'orologio segna le due",
+    "l'orologio segna le due",
+    "l'orologio segna le due."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000475",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_chetyre"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "quattro",
+   "answer": "четы́ре",
+   "accepted": [
+    "четы́ре",
+    "четыре"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000476",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_ona",
+   "w_pyat"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Lei ha cinque anni.",
+   "answer": "Е́й пя́ть.",
+   "accepted": [
+    "Е́й пя́ть.",
+    "Е́й пя́ть",
+    "Ей пять.",
+    "Ей пять",
+    "ей пять.",
+    "ей пять",
+    "е́й пя́ть"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000477",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_dva"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "два́",
+   "answer": "due",
+   "accepted": [
+    "due"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000478",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_kotoryy",
+   "w_chas",
+   "w_desyat"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "\"Кото́рый ча́с?\" — \"Де́сять\".",
+   "answer": "\"Che ore sono adesso?\" \"Sono le dieci.\"",
+   "accepted": [
+    "\"Che ore sono adesso?\" \"Sono le dieci.\"",
+    "Che ore sono adesso Sono le dieci",
+    "che ore sono adesso sono le dieci",
+    "\"che ore sono adesso?\" \"sono le dieci.\""
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000479",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_desyat"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "dieci",
+   "answer": "де́сять",
+   "accepted": [
+    "де́сять",
+    "десять"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000480",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_dva",
+   "w_pozhaluysta"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Due, per favore.",
+   "answer": "Два́, пожа́луйста.",
+   "accepted": [
+    "Два́, пожа́луйста.",
+    "Два́ пожа́луйста",
+    "Два, пожалуйста.",
+    "Два пожалуйста",
+    "два, пожалуйста.",
+    "два пожалуйста",
+    "два́ пожа́луйста"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000481",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_vosem"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "во́семь",
+   "answer": "otto",
+   "accepted": [
+    "otto"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000482",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_chas"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "оди́н ___.",
+   "answer": "ча́с",
+   "accepted": [
+    "ча́с",
+    "час"
+   ],
+   "hint_it": "Un'ora."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000483",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_pyat"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Е́й ___.",
+   "answer": "пя́ть",
+   "accepted": [
+    "пя́ть",
+    "пять"
+   ],
+   "hint_it": "Lei ha cinque anni."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000484",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_minuta",
+   "w_dva"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ мину́ты",
+   "answer": "две́",
+   "accepted": [
+    "две́",
+    "две"
+   ],
+   "hint_it": "Due minuti."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000485",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_mozhno"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ мне́ три́?",
+   "answer": "Мо́жно",
+   "accepted": [
+    "Мо́жно",
+    "Можно",
+    "можно",
+    "мо́жно"
+   ],
+   "hint_it": "Posso averne tre?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000486",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_nedelya",
+   "w_dva"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ неде́ли",
+   "answer": "две́",
+   "accepted": [
+    "две́",
+    "две"
+   ],
+   "hint_it": "Due settimane."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000487",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_ty"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ оди́н?",
+   "answer": "Ты́",
+   "accepted": [
+    "Ты́",
+    "Ты",
+    "ты",
+    "ты́"
+   ],
+   "hint_it": "Sei da solo?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000488",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_minuta"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "три́ ___.",
+   "answer": "мину́ты",
+   "accepted": [
+    "мину́ты",
+    "минуты"
+   ],
+   "hint_it": "Tre minuti."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000489",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_odin"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "О́н ___.",
+   "answer": "оди́н",
+   "accepted": [
+    "оди́н",
+    "один"
+   ],
+   "hint_it": "Lui è solo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000490",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_sekunda"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta del nome dopo il numero.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "четы́ре ___. — Quattro secondi.",
+   "options": [
+    "секу́нды",
+    "секу́нда",
+    "секу́нд"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000491",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_on",
+   "w_odin"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "О́н оди́н.",
+   "options": [
+    "Sei da solo?",
+    "Quanto ha?",
+    "Quanto hanno?",
+    "Lui è solo."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000492",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_dva"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «два́»?",
+   "options": [
+    "quattro",
+    "otto",
+    "due",
+    "cinque"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000493",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_na",
+   "w_chas",
+   "w_dva"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "L'orologio segna le due.",
+   "options": [
+    "Два́ ко́фе, пожа́луйста.",
+    "На часа́х два́.",
+    "Два́, пожа́луйста.",
+    "Она́ говори́т по-ру́сски."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000494",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_pyat"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «cinque» in russo?",
+   "options": [
+    "три́",
+    "пя́ть",
+    "се́мь",
+    "оди́н"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000495",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_minuta"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta del nome dopo il numero.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "пя́ть ___. — Cinque minuti.",
+   "options": [
+    "мину́ты",
+    "мину́та",
+    "мину́т"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000496",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_mozhno",
+   "w_ya",
+   "w_tri"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Мо́жно мне́ три́?",
+   "options": [
+    "L'ho comprato.",
+    "Posso averne tre?",
+    "Sono un uomo semplice.",
+    "La amo."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000497",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_odin"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «оди́н»?",
+   "options": [
+    "nove",
+    "tre",
+    "due",
+    "uno"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000498",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_sem",
+   "w_odin",
+   "w_shest",
+   "w_tri",
+   "w_chetyre",
+   "w_vosem"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 42,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "се́мь",
+     "it": "sette"
+    },
+    {
+     "ru": "оди́н",
+     "it": "uno"
+    },
+    {
+     "ru": "ше́сть",
+     "it": "sei"
+    },
+    {
+     "ru": "три́",
+     "it": "tre"
+    },
+    {
+     "ru": "четы́ре",
+     "it": "quattro"
+    },
+    {
+     "ru": "во́семь",
+     "it": "otto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000499",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_mozhno",
+   "w_ya",
+   "w_tri",
+   "w_ona",
+   "w_pyat",
+   "w_sem"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Мо́жно мне́ три́?",
+     "it": "Posso averne tre?"
+    },
+    {
+     "ru": "Е́й пя́ть.",
+     "it": "Lei ha cinque anni."
+    },
+    {
+     "ru": "Се́мь часо́в.",
+     "it": "Sono le sette."
+    },
+    {
+     "ru": "Ты́ оди́н?",
+     "it": "Sei da solo?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000500",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_desyat",
+   "w_chetyre",
+   "w_pyat",
+   "w_tozhe",
+   "w_medlenno",
+   "w_devushka"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "де́сять",
+     "it": "dieci"
+    },
+    {
+     "ru": "четы́ре",
+     "it": "quattro"
+    },
+    {
+     "ru": "пя́ть",
+     "it": "cinque"
+    },
+    {
+     "ru": "то́же",
+     "it": "anche"
+    },
+    {
+     "ru": "ме́дленно",
+     "it": "lentamente"
+    },
+    {
+     "ru": "де́вушка",
+     "it": "ragazza"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000501",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_dva",
+   "w_desyat",
+   "w_devyat",
+   "w_shest",
+   "w_chetyre"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "два́",
+     "it": "due"
+    },
+    {
+     "ru": "де́сять",
+     "it": "dieci"
+    },
+    {
+     "ru": "де́вять",
+     "it": "nove"
+    },
+    {
+     "ru": "ше́сть",
+     "it": "sei"
+    },
+    {
+     "ru": "четы́ре",
+     "it": "quattro"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000502",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "saluti",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_dva",
+   "w_kofe",
+   "w_pozhaluysta",
+   "w_na",
+   "w_chas"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Два́ ко́фе, пожа́луйста.",
+     "it": "Due caffè, per piacere."
+    },
+    {
+     "ru": "На часа́х два́.",
+     "it": "L'orologio segna le due."
+    },
+    {
+     "ru": "Два́, пожа́луйста.",
+     "it": "Due, per favore."
+    },
+    {
+     "ru": "О́н оди́н.",
+     "it": "Lui è solo."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000503",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "numeri",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_desyat",
+   "w_vosem",
+   "w_dva",
+   "w_khorosho",
+   "w_tozhe",
+   "w_eshchyo"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "де́сять",
+     "it": "dieci"
+    },
+    {
+     "ru": "во́семь",
+     "it": "otto"
+    },
+    {
+     "ru": "два́",
+     "it": "due"
+    },
+    {
+     "ru": "хорошо́",
+     "it": "bene"
+    },
+    {
+     "ru": "то́же",
+     "it": "anche"
+    },
+    {
+     "ru": "ещё",
+     "it": "ancora"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000504",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_odin",
+   "w_pyat",
+   "w_sem",
+   "w_vosem",
+   "w_tri"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "оди́н",
+     "it": "uno"
+    },
+    {
+     "ru": "пя́ть",
+     "it": "cinque"
+    },
+    {
+     "ru": "се́мь",
+     "it": "sette"
+    },
+    {
+     "ru": "во́семь",
+     "it": "otto"
+    },
+    {
+     "ru": "три́",
+     "it": "tre"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000505",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_ty",
+   "w_odin"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ты́ оди́н?",
+   "translation_it": "Sei da solo?",
+   "accepted": [
+    "Ты́ оди́н?",
+    "Ты́ оди́н",
+    "Ты один?",
+    "Ты один",
+    "ты один?",
+    "ты один",
+    "ты́ оди́н"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000506",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_sem"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "се́мь",
+   "translation_it": "sette",
+   "accepted": [
+    "се́мь",
+    "семь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000507",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_sem",
+   "w_chas"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Се́мь часо́в.",
+   "translation_it": "Sono le sette.",
+   "accepted": [
+    "Се́мь часо́в.",
+    "Се́мь часо́в",
+    "Семь часов.",
+    "Семь часов",
+    "семь часов.",
+    "семь часов",
+    "се́мь часо́в"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000508",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_chetyre"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "четы́ре",
+   "translation_it": "quattro",
+   "accepted": [
+    "четы́ре",
+    "четыре"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000509",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_na",
+   "w_chas",
+   "w_dva"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "На часа́х два́.",
+   "translation_it": "L'orologio segna le due.",
+   "accepted": [
+    "На часа́х два́.",
+    "На часа́х два́",
+    "На часах два.",
+    "На часах два",
+    "на часах два.",
+    "на часах два",
+    "на часа́х два́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000510",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_desyat"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "де́сять",
+   "translation_it": "dieci",
+   "accepted": [
+    "де́сять",
+    "десять"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000511",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_on",
+   "w_odin"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "О́н оди́н.",
+   "translation_it": "Lui è solo.",
+   "accepted": [
+    "О́н оди́н.",
+    "О́н оди́н",
+    "Он один.",
+    "Он один",
+    "он один.",
+    "он один",
+    "о́н оди́н"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000512",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "words": [
+   "w_vosem"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "во́семь",
+   "translation_it": "otto",
+   "accepted": [
+    "во́семь",
+    "восемь"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

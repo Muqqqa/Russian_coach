@@ -1,0 +1,1244 @@
+[
+ {
+  "id": "e_001240",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_poetomu"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "поэ́тому",
+   "answer": "perciò",
+   "accepted": [
+    "perciò",
+    "percio",
+    "per questo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001241",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "mente",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_zdravstvuyte",
+   "w_chem",
+   "w_moch",
+   "w_pomoch"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Здра́вствуйте. Чем могу́ помо́чь?",
+   "answer": "Salve. Cosa posso fare per voi?",
+   "accepted": [
+    "Salve. Cosa posso fare per voi?",
+    "Salve Cosa posso fare per voi",
+    "salve cosa posso fare per voi",
+    "salve. cosa posso fare per voi?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001242",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_poetomu"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "perciò",
+   "answer": "поэ́тому",
+   "accepted": [
+    "поэ́тому",
+    "поэтому"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001243",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "mente",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_zdravstvuyte",
+   "w_chem",
+   "w_moch",
+   "w_pomoch"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Salve. Cosa posso fare per voi?",
+   "answer": "Здра́вствуйте. Чем могу́ помо́чь?",
+   "accepted": [
+    "Здра́вствуйте. Чем могу́ помо́чь?",
+    "Здра́вствуйте Чем могу́ помо́чь",
+    "Здравствуйте. Чем могу помочь?",
+    "Здравствуйте Чем могу помочь",
+    "здравствуйте. чем могу помочь?",
+    "здравствуйте чем могу помочь",
+    "здра́вствуйте чем могу́ помо́чь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001244",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_no"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "но́",
+   "answer": "ma",
+   "accepted": [
+    "ma"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001245",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_ya",
+   "w_zdes",
+   "w_dolgiy",
+   "w_chem",
+   "w_ty"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 23,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ зде́сь до́льше, чем ты́.",
+   "answer": "Sono qui da più tempo di te.",
+   "accepted": [
+    "Sono qui da più tempo di te.",
+    "Sono qui da più tempo di te",
+    "sono qui da più tempo di te",
+    "sono qui da più tempo di te.",
+    "Sono qui da piu' tempo di te.",
+    "sono qui da piu' tempo di te",
+    "sono qui da piu tempo di te",
+    "Io sono qui da più tempo di te.",
+    "Io sono qui da più tempo di te",
+    "io sono qui da più tempo di te",
+    "io sono qui da più tempo di te.",
+    "Io sono qui da piu' tempo di te.",
+    "io sono qui da piu' tempo di te",
+    "io sono qui da piu tempo di te"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001246",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_no",
+   "w_pochemu"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Ma perché?",
+   "answer": "Но почему́?",
+   "accepted": [
+    "Но почему́?",
+    "Но почему́",
+    "Но почему?",
+    "Но почему",
+    "но почему?",
+    "но почему",
+    "но почему́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001247",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_khotya"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "хотя́",
+   "answer": "sebbene",
+   "accepted": [
+    "sebbene"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001248",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_khotet"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Е́сли ___ говори́ть, говори́.",
+   "answer": "хо́чешь",
+   "accepted": [
+    "хо́чешь",
+    "хочешь"
+   ],
+   "hint_it": "Se vuoi parlare, parla."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001249",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_zdravstvuyte"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___. Чем могу́ помо́чь?",
+   "answer": "Здра́вствуйте",
+   "accepted": [
+    "Здра́вствуйте",
+    "Здравствуйте",
+    "здравствуйте",
+    "здра́вствуйте"
+   ],
+   "hint_it": "Salve. Cosa posso fare per voi?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001250",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_chem"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Здра́вствуйте. ___ могу́ помо́чь?",
+   "answer": "Чем",
+   "accepted": [
+    "Чем",
+    "чем"
+   ],
+   "hint_it": "Salve. Cosa posso fare per voi?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001251",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_no"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ почему́?",
+   "answer": "Но",
+   "accepted": [
+    "Но",
+    "но"
+   ],
+   "hint_it": "Ma perché?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001252",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_esli"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ хо́чешь говори́ть, говори́.",
+   "answer": "Е́сли",
+   "accepted": [
+    "Е́сли",
+    "Если",
+    "если",
+    "е́сли"
+   ],
+   "hint_it": "Se vuoi parlare, parla."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001253",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_pochemu"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Но ___?",
+   "answer": "почему́",
+   "accepted": [
+    "почему́",
+    "почему"
+   ],
+   "hint_it": "Ma perché?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001254",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_dolgiy"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 20,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ зде́сь ___, чем ты́.",
+   "answer": "до́льше",
+   "accepted": [
+    "до́льше",
+    "дольше"
+   ],
+   "hint_it": "Sono qui da più tempo di te."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001255",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "mente",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_esli",
+   "w_khotet",
+   "w_govorit"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Е́сли хо́чешь говори́ть, говори́.",
+   "options": [
+    "Se vuoi parlare, parla.",
+    "Ho sete.",
+    "Parla più piano, per favore.",
+    "Volere è potere."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001256",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_esli"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «е́сли»?",
+   "options": [
+    "se",
+    "o",
+    "quando",
+    "ma"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001257",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "mente",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_zdravstvuyte",
+   "w_chem",
+   "w_moch",
+   "w_pomoch"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 20,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Salve. Cosa posso fare per voi?",
+   "options": [
+    "Хоте́ть зна́чит мо́чь.",
+    "Здра́вствуйте. Чем могу́ помо́чь?",
+    "Не могу́ ку́шать.",
+    "Хоте́ть - зна́чит мо́чь."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001258",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_poetomu"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «perciò» in russo?",
+   "options": [
+    "вку́сно",
+    "та́к",
+    "поэ́тому",
+    "напра́во"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001259",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_ya",
+   "w_zdes",
+   "w_dolgiy",
+   "w_chem",
+   "w_ty"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 20,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ зде́сь до́льше, чем ты́.",
+   "options": [
+    "Quali sono le bibite che non ti piacciono?",
+    "Sono qui da più tempo di te.",
+    "Vieni da noi, qui è libero.",
+    "Questo è il villaggio dove sono nata."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001260",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_no"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «но́»?",
+   "options": [
+    "se",
+    "di",
+    "ma",
+    "per"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001261",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "mente",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_esli",
+   "w_khotet",
+   "w_govorit"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 20,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Se vuoi parlare, parla.",
+   "options": [
+    "Она́ говори́т по-ру́сски.",
+    "Ты́ говори́шь по-ру́сски?",
+    "Я́ пи́ть хочу́.",
+    "Е́сли хо́чешь говори́ть, говори́."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001262",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_poetomu",
+   "w_no",
+   "w_khotya",
+   "w_esli",
+   "w_chtoby"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "поэ́тому",
+     "it": "perciò"
+    },
+    {
+     "ru": "но́",
+     "it": "ma"
+    },
+    {
+     "ru": "хотя́",
+     "it": "sebbene"
+    },
+    {
+     "ru": "е́сли",
+     "it": "se"
+    },
+    {
+     "ru": "что́бы",
+     "it": "per"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001263",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "mente",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_zdravstvuyte",
+   "w_chem",
+   "w_moch",
+   "w_pomoch",
+   "w_esli",
+   "w_khotet"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 40,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Здра́вствуйте. Чем могу́ помо́чь?",
+     "it": "Salve. Cosa posso fare per voi?"
+    },
+    {
+     "ru": "Е́сли хо́чешь говори́ть, говори́.",
+     "it": "Se vuoi parlare, parla."
+    },
+    {
+     "ru": "Но почему́?",
+     "it": "Ma perché?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001264",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "soldi",
+   "mente"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_chem",
+   "w_no",
+   "w_esli",
+   "w_kupit",
+   "w_zhena",
+   "w_dumat"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "че́м",
+     "it": "di"
+    },
+    {
+     "ru": "но́",
+     "it": "ma"
+    },
+    {
+     "ru": "е́сли",
+     "it": "se"
+    },
+    {
+     "ru": "купи́ть",
+     "it": "comprare"
+    },
+    {
+     "ru": "жена́",
+     "it": "moglie"
+    },
+    {
+     "ru": "ду́мать",
+     "it": "pensare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001265",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_khotya",
+   "w_no",
+   "w_esli",
+   "w_poetomu",
+   "w_chtoby",
+   "w_chem"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 42,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "хотя́",
+     "it": "sebbene"
+    },
+    {
+     "ru": "но́",
+     "it": "ma"
+    },
+    {
+     "ru": "е́сли",
+     "it": "se"
+    },
+    {
+     "ru": "поэ́тому",
+     "it": "perciò"
+    },
+    {
+     "ru": "что́бы",
+     "it": "per"
+    },
+    {
+     "ru": "че́м",
+     "it": "di"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001266",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "ristorante",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_esli",
+   "w_no",
+   "w_chem",
+   "w_schyot",
+   "w_tikho",
+   "w_gromkiy"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "е́сли",
+     "it": "se"
+    },
+    {
+     "ru": "но́",
+     "it": "ma"
+    },
+    {
+     "ru": "че́м",
+     "it": "di"
+    },
+    {
+     "ru": "счёт",
+     "it": "conto"
+    },
+    {
+     "ru": "ти́хо",
+     "it": "piano"
+    },
+    {
+     "ru": "гро́мкий",
+     "it": "forte"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001267",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_poetomu",
+   "w_no",
+   "w_esli",
+   "w_bez",
+   "w_muzh",
+   "w_stoit"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "поэ́тому",
+     "it": "perciò"
+    },
+    {
+     "ru": "но́",
+     "it": "ma"
+    },
+    {
+     "ru": "е́сли",
+     "it": "se"
+    },
+    {
+     "ru": "бе́з",
+     "it": "senza"
+    },
+    {
+     "ru": "му́ж",
+     "it": "marito"
+    },
+    {
+     "ru": "сто́ить",
+     "it": "costare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001268",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "mente",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_zdravstvuyte",
+   "w_chem",
+   "w_moch",
+   "w_pomoch"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Здра́вствуйте. Чем могу́ помо́чь?",
+   "translation_it": "Salve. Cosa posso fare per voi?",
+   "accepted": [
+    "Здра́вствуйте. Чем могу́ помо́чь?",
+    "Здра́вствуйте Чем могу́ помо́чь",
+    "Здравствуйте. Чем могу помочь?",
+    "Здравствуйте Чем могу помочь",
+    "здравствуйте. чем могу помочь?",
+    "здравствуйте чем могу помочь",
+    "здра́вствуйте чем могу́ помо́чь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001269",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_chtoby"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "что́бы",
+   "translation_it": "per",
+   "accepted": [
+    "что́бы",
+    "чтобы"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001270",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "mente",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_esli",
+   "w_khotet",
+   "w_govorit"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Е́сли хо́чешь говори́ть, говори́.",
+   "translation_it": "Se vuoi parlare, parla.",
+   "accepted": [
+    "Е́сли хо́чешь говори́ть, говори́.",
+    "Е́сли хо́чешь говори́ть говори́",
+    "Если хочешь говорить, говори.",
+    "Если хочешь говорить говори",
+    "если хочешь говорить, говори.",
+    "если хочешь говорить говори",
+    "е́сли хо́чешь говори́ть говори́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001271",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_khotya"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "хотя́",
+   "translation_it": "sebbene",
+   "accepted": [
+    "хотя́",
+    "хотя"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001272",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_no",
+   "w_pochemu"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Но почему́?",
+   "translation_it": "Ma perché?",
+   "accepted": [
+    "Но почему́?",
+    "Но почему́",
+    "Но почему?",
+    "Но почему",
+    "но почему?",
+    "но почему",
+    "но почему́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001273",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_esli"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "е́сли",
+   "translation_it": "se",
+   "accepted": [
+    "е́сли",
+    "если"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001274",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "conjunctions"
+  ],
+  "words": [
+   "w_poetomu"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "поэ́тому",
+   "translation_it": "perciò",
+   "accepted": [
+    "поэ́тому",
+    "поэтому"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

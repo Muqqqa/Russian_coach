@@ -1,0 +1,1272 @@
+[
+ {
+  "id": "e_000955",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_litso"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "лицо́",
+   "answer": "viso",
+   "accepted": [
+    "viso",
+    "il viso",
+    "un viso",
+    "faccia",
+    "la faccia",
+    "una faccia"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000956",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_lyubit",
+   "w_koshka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Люблю́ ко́шек.",
+   "answer": "Amo i gatti.",
+   "accepted": [
+    "Amo i gatti.",
+    "Amo i gatti",
+    "amo i gatti",
+    "amo i gatti."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000957",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_ruka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "mano",
+   "answer": "рука́",
+   "accepted": [
+    "рука́",
+    "рука"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000958",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_u",
+   "w_my",
+   "w_koshka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Abbiamo dei gatti.",
+   "answer": "У на́с ко́шки.",
+   "accepted": [
+    "У на́с ко́шки.",
+    "У на́с ко́шки",
+    "У нас кошки.",
+    "У нас кошки",
+    "у нас кошки.",
+    "у нас кошки",
+    "у на́с ко́шки"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000959",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_sobaka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "соба́ка",
+   "answer": "cane",
+   "accepted": [
+    "cane",
+    "il cane",
+    "un cane",
+    "la cane",
+    "una cane"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000960",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_sobaka",
+   "w_golodnyy"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Соба́ка голо́дная.",
+   "answer": "Il cane ha fame.",
+   "accepted": [
+    "Il cane ha fame.",
+    "Il cane ha fame",
+    "il cane ha fame",
+    "il cane ha fame."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000961",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_koshka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "gatto",
+   "answer": "ко́шка",
+   "accepted": [
+    "ко́шка",
+    "кошка"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000962",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_eto",
+   "w_glaz"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Questo è un occhio.",
+   "answer": "Э́то гла́з.",
+   "accepted": [
+    "Э́то гла́з.",
+    "Э́то гла́з",
+    "Это глаз.",
+    "Это глаз",
+    "это глаз.",
+    "это глаз",
+    "э́то гла́з"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000963",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate",
+   "accusative"
+  ],
+  "words": [
+   "w_koshka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ви́жу ___.",
+   "answer": "ко́шку",
+   "accepted": [
+    "ко́шку",
+    "кошку"
+   ],
+   "hint_it": "Vedo una gatta."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000964",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_chto"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 20,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ у тебя́ с лицо́м?",
+   "answer": "Что́",
+   "accepted": [
+    "Что́",
+    "Что",
+    "что",
+    "что́"
+   ],
+   "hint_it": "Che ti è successo alla faccia?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000965",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate",
+   "accusative"
+  ],
+  "words": [
+   "w_sobaka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Она́ лю́бит ___.",
+   "answer": "соба́ку",
+   "accepted": [
+    "соба́ку",
+    "собаку"
+   ],
+   "hint_it": "Lei ama il cane."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000966",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_golodnyy"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Соба́ка ___.",
+   "answer": "голо́дная",
+   "accepted": [
+    "голо́дная",
+    "голодная"
+   ],
+   "hint_it": "Il cane ha fame."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000967",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate",
+   "accusative"
+  ],
+  "words": [
+   "w_sobaka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Мы́ ви́дим ___.",
+   "answer": "соба́ку",
+   "accepted": [
+    "соба́ку",
+    "собаку"
+   ],
+   "hint_it": "Vediamo il cane."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000968",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_sobaka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ голо́дная.",
+   "answer": "Соба́ка",
+   "accepted": [
+    "Соба́ка",
+    "Собака",
+    "собака",
+    "соба́ка"
+   ],
+   "hint_it": "Il cane ha fame."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000969",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate",
+   "accusative"
+  ],
+  "words": [
+   "w_brat"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ви́жу ___.",
+   "answer": "бра́та",
+   "accepted": [
+    "бра́та",
+    "брата"
+   ],
+   "hint_it": "Vedo mio fratello."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000970",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate",
+   "accusative"
+  ],
+  "words": [
+   "w_golova"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (complemento oggetto).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Он ви́дит ___. — Lui vede la testa.",
+   "options": [
+    "го́лову",
+    "голова́",
+    "голове́",
+    "головы́"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000971",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_u",
+   "w_ya",
+   "w_bolet",
+   "w_noga"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "У меня́ боли́т нога́.",
+   "options": [
+    "Ho dormito nove ore.",
+    "Mi fa male la gamba.",
+    "Ho sete.",
+    "Dove tengo la testa?"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000972",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_golova"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «голова́»?",
+   "options": [
+    "domenica",
+    "amico",
+    "bambino",
+    "testa"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000973",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate",
+   "gender"
+  ],
+  "words": [
+   "w_glaz"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «гла́з»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000974",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_u",
+   "w_my",
+   "w_koshka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Abbiamo dei gatti.",
+   "options": [
+    "Мы́ лю́ди.",
+    "У на́с ко́шки.",
+    "Жи́ли мы́ тру́дно.",
+    "Мы́ смо́трим."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000975",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_litso"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «viso» in russo?",
+   "options": [
+    "ча́й",
+    "пикни́к",
+    "лицо́",
+    "ру́бль"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000976",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate",
+   "accusative"
+  ],
+  "words": [
+   "w_ruka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (complemento oggetto).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ ви́жу ___. — Vedo la mano.",
+   "options": [
+    "руки́",
+    "руке́",
+    "рука́",
+    "ру́ку"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000977",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_koshka",
+   "w_sobaka",
+   "w_golova",
+   "w_noga"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ко́шка",
+     "it": "gatto"
+    },
+    {
+     "ru": "соба́ка",
+     "it": "cane"
+    },
+    {
+     "ru": "голова́",
+     "it": "testa"
+    },
+    {
+     "ru": "нога́",
+     "it": "gamba"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000978",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "descrizioni",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_sobaka",
+   "w_golodnyy",
+   "w_u",
+   "w_my",
+   "w_koshka",
+   "w_eto"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Соба́ка голо́дная.",
+     "it": "Il cane ha fame."
+    },
+    {
+     "ru": "У на́с ко́шки.",
+     "it": "Abbiamo dei gatti."
+    },
+    {
+     "ru": "Э́то гла́з.",
+     "it": "Questo è un occhio."
+    },
+    {
+     "ru": "Люблю́ ко́шек.",
+     "it": "Amo i gatti."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000979",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_glaz",
+   "w_ruka",
+   "w_sobaka",
+   "w_oni",
+   "w_neskolko",
+   "w_zdes"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "гла́з",
+     "it": "occhio"
+    },
+    {
+     "ru": "рука́",
+     "it": "mano"
+    },
+    {
+     "ru": "соба́ка",
+     "it": "cane"
+    },
+    {
+     "ru": "они́",
+     "it": "loro"
+    },
+    {
+     "ru": "не́сколько",
+     "it": "alcuni"
+    },
+    {
+     "ru": "зде́сь",
+     "it": "qui"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000980",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_ruka",
+   "w_sobaka",
+   "w_golova",
+   "w_glaz",
+   "w_noga"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "рука́",
+     "it": "mano"
+    },
+    {
+     "ru": "соба́ка",
+     "it": "cane"
+    },
+    {
+     "ru": "голова́",
+     "it": "testa"
+    },
+    {
+     "ru": "гла́з",
+     "it": "occhio"
+    },
+    {
+     "ru": "нога́",
+     "it": "gamba"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000981",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_sobaka",
+   "w_ona",
+   "w_u",
+   "w_ya",
+   "w_bolet",
+   "w_noga"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Соба́ка её.",
+     "it": "Il cane è suo."
+    },
+    {
+     "ru": "У меня́ боли́т нога́.",
+     "it": "Mi fa male la gamba."
+    },
+    {
+     "ru": "Найди́ ко́шку.",
+     "it": "Trova il gatto."
+    },
+    {
+     "ru": "Э́то ко́шка.",
+     "it": "Questo è un gatto."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000982",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_ruka",
+   "w_litso",
+   "w_noga",
+   "w_drug",
+   "w_stol",
+   "w_zhit"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "рука́",
+     "it": "mano"
+    },
+    {
+     "ru": "лицо́",
+     "it": "viso"
+    },
+    {
+     "ru": "нога́",
+     "it": "gamba"
+    },
+    {
+     "ru": "дру́г",
+     "it": "amico"
+    },
+    {
+     "ru": "сто́л",
+     "it": "tavolo"
+    },
+    {
+     "ru": "жи́ть",
+     "it": "vivere"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000983",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_nayti",
+   "w_koshka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Найди́ ко́шку.",
+   "translation_it": "Trova il gatto.",
+   "accepted": [
+    "Найди́ ко́шку.",
+    "Найди́ ко́шку",
+    "Найди кошку.",
+    "Найди кошку",
+    "найди кошку.",
+    "найди кошку",
+    "найди́ ко́шку"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000984",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_litso"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "лицо́",
+   "translation_it": "viso",
+   "accepted": [
+    "лицо́",
+    "лицо"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000985",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_eto",
+   "w_sobaka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то соба́ка.",
+   "translation_it": "Questo è un cane.",
+   "accepted": [
+    "Э́то соба́ка.",
+    "Э́то соба́ка",
+    "Это собака.",
+    "Это собака",
+    "это собака.",
+    "это собака",
+    "э́то соба́ка"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000986",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_glaz"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "гла́з",
+   "translation_it": "occhio",
+   "accepted": [
+    "гла́з",
+    "глаз"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000987",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_ya",
+   "w_sobaka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ соба́ка.",
+   "translation_it": "Sono un cane.",
+   "accepted": [
+    "Я́ соба́ка.",
+    "Я́ соба́ка",
+    "Я собака.",
+    "Я собака",
+    "я собака.",
+    "я собака",
+    "я́ соба́ка"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000988",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_ruka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "рука́",
+   "translation_it": "mano",
+   "accepted": [
+    "рука́",
+    "рука"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000989",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "body",
+   "animals",
+   "accusative-animate"
+  ],
+  "words": [
+   "w_eto",
+   "w_koshka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то ко́шка.",
+   "translation_it": "Questo è un gatto.",
+   "accepted": [
+    "Э́то ко́шка.",
+    "Э́то ко́шка",
+    "Это кошка.",
+    "Это кошка",
+    "это кошка.",
+    "это кошка",
+    "э́то ко́шка"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

@@ -1,0 +1,1422 @@
+[
+ {
+  "id": "e_000593",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_neskolko"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "не́сколько",
+   "answer": "alcuni",
+   "accepted": [
+    "alcuni",
+    "diversi"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000594",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_my",
+   "w_semya"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Мы́ семья́.",
+   "answer": "Siamo una famiglia.",
+   "accepted": [
+    "Siamo una famiglia.",
+    "Siamo una famiglia",
+    "siamo una famiglia",
+    "siamo una famiglia.",
+    "Noi siamo una famiglia.",
+    "Noi siamo una famiglia",
+    "noi siamo una famiglia",
+    "noi siamo una famiglia."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000595",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_semya"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "famiglia",
+   "answer": "семья́",
+   "accepted": [
+    "семья́",
+    "семья"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000596",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "famiglia",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_roditel",
+   "w_gde"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Dove sono i genitori?",
+   "answer": "Роди́тели где́?",
+   "accepted": [
+    "Роди́тели где́?",
+    "Роди́тели где́",
+    "Родители где?",
+    "Родители где",
+    "родители где?",
+    "родители где",
+    "роди́тели где́",
+    "Где́ роди́тели?",
+    "Где́ роди́тели",
+    "Где родители?",
+    "Где родители",
+    "где родители?",
+    "где родители",
+    "где́ роди́тели"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000597",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_semya"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "семья́",
+   "answer": "famiglia",
+   "accepted": [
+    "famiglia",
+    "la famiglia",
+    "una famiglia"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000598",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_ty",
+   "w_zhenshchina"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Ты́ же́нщина.",
+   "answer": "Sei una donna.",
+   "accepted": [
+    "Sei una donna.",
+    "Sei una donna",
+    "sei una donna",
+    "sei una donna.",
+    "Tu sei una donna.",
+    "Tu sei una donna",
+    "tu sei una donna",
+    "tu sei una donna."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000599",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_neskolko"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "alcuni",
+   "answer": "не́сколько",
+   "accepted": [
+    "не́сколько",
+    "несколько"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000600",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_gde",
+   "w_zhenshchina"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Dov'è la donna?",
+   "answer": "Где́ же́нщина?",
+   "accepted": [
+    "Где́ же́нщина?",
+    "Где́ же́нщина",
+    "Где женщина?",
+    "Где женщина",
+    "где женщина?",
+    "где женщина",
+    "где́ же́нщина"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000601",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_mnogo"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "мно́го",
+   "answer": "molto",
+   "accepted": [
+    "molto",
+    "tanto"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000602",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_zhenshchina"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "же́нщина → plurale (nominativo): ___",
+   "answer": "же́нщины",
+   "accepted": [
+    "же́нщины",
+    "женщины"
+   ],
+   "hint_it": "Plurale di «же́нщина» (donna)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000603",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_semya"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___!",
+   "answer": "семья́",
+   "accepted": [
+    "семья́",
+    "семья"
+   ],
+   "hint_it": "È una famiglia!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000604",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ мно́го!",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "È molto!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000605",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "persone"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_podruga"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Кто́ ты́, ___?",
+   "answer": "подру́га",
+   "accepted": [
+    "подру́га",
+    "подруга"
+   ],
+   "hint_it": "Chi sei, amica?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000606",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_tam"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Все́ ___.",
+   "answer": "та́м",
+   "accepted": [
+    "та́м",
+    "там"
+   ],
+   "hint_it": "Tutti sono lì."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000607",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_oni"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ де́ти.",
+   "answer": "Они́",
+   "accepted": [
+    "Они́",
+    "Они",
+    "они",
+    "они́"
+   ],
+   "hint_it": "Sono bambini."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000608",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ семья́!",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "È una famiglia!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000609",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_vse"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ жду́т.",
+   "answer": "Все́",
+   "accepted": [
+    "Все́",
+    "Все",
+    "все",
+    "все́"
+   ],
+   "hint_it": "Tutti stanno aspettando."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000610",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "persone"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_podruga"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Scegli il nominativo plurale.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "подру́га → plurale (nominativo): ___ — Plurale di «подру́га» (amica).",
+   "options": [
+    "подру́га",
+    "подру́ги",
+    "подру́г",
+    "подру́гам"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000611",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_vy",
+   "w_brat"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вы́ бра́тья?",
+   "options": [
+    "Può.",
+    "Voi parlate.",
+    "Siete fratelli?",
+    "Voi chi siete?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000612",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_mnogo"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «мно́го»?",
+   "options": [
+    "difficile",
+    "ieri",
+    "molto",
+    "lentamente"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000613",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers",
+   "gender"
+  ],
+  "words": [
+   "w_semya"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «семья́»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000614",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_my",
+   "w_semya"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Siamo una famiglia.",
+   "options": [
+    "Мы́ подру́ги.",
+    "Мы́ лю́ди.",
+    "Где́ мы́?",
+    "Мы́ семья́."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000615",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_semya"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «famiglia» in russo?",
+   "options": [
+    "банкома́т",
+    "семья́",
+    "оте́ц",
+    "мину́та"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000616",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "famiglia"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_semya"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Scegli il nominativo plurale.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "семья́ → plurale (nominativo): ___ — Plurale di «семья́» (famiglia).",
+   "options": [
+    "семе́й",
+    "семья́",
+    "се́мьи",
+    "се́мьям"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000617",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_u",
+   "w_on",
+   "w_desyat",
+   "w_rebyonok"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "У него́ де́сять дете́й.",
+   "options": [
+    "Lui ha dieci figli.",
+    "È lui o no?",
+    "Ho otto fratelli.",
+    "\"Che ore sono adesso?\" \"Sono le dieci.\""
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000618",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_zhenshchina",
+   "w_mnogo",
+   "w_kazhdyy",
+   "w_drug",
+   "w_vse"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "же́нщина",
+     "it": "donna"
+    },
+    {
+     "ru": "мно́го",
+     "it": "molto"
+    },
+    {
+     "ru": "ка́ждый",
+     "it": "ogni"
+    },
+    {
+     "ru": "дру́г",
+     "it": "amico"
+    },
+    {
+     "ru": "все́",
+     "it": "tutti"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000619",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_oni",
+   "w_rebyonok",
+   "w_u",
+   "w_ona",
+   "w_desyat"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Они́ де́ти.",
+     "it": "Sono bambini."
+    },
+    {
+     "ru": "У неё де́сять дете́й.",
+     "it": "Lei ha dieci figli."
+    },
+    {
+     "ru": "Ты́ же́нщина.",
+     "it": "Sei una donna."
+    },
+    {
+     "ru": "Зде́сь де́ти.",
+     "it": "Qui ci sono dei bambini."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000620",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "famiglia",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_neskolko",
+   "w_rebyonok",
+   "w_roditel",
+   "w_do_svidaniya",
+   "w_stoit",
+   "w_zhit"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "не́сколько",
+     "it": "alcuni"
+    },
+    {
+     "ru": "ребёнок",
+     "it": "bambino"
+    },
+    {
+     "ru": "роди́тель",
+     "it": "genitore"
+    },
+    {
+     "ru": "до свида́ния",
+     "it": "arrivederci"
+    },
+    {
+     "ru": "сто́ить",
+     "it": "costare"
+    },
+    {
+     "ru": "жи́ть",
+     "it": "vivere"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000621",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_rebyonok",
+   "w_drug",
+   "w_kazhdyy",
+   "w_vse"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ребёнок",
+     "it": "bambino"
+    },
+    {
+     "ru": "дру́г",
+     "it": "amico"
+    },
+    {
+     "ru": "ка́ждый",
+     "it": "ogni"
+    },
+    {
+     "ru": "все́",
+     "it": "tutti"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000622",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi",
+   "famiglia",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_gde",
+   "w_roditel",
+   "w_eto",
+   "w_mnogo"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Где́ роди́тели?",
+     "it": "Dove sono i genitori?"
+    },
+    {
+     "ru": "Э́то мно́го?",
+     "it": "Questo è tanto?"
+    },
+    {
+     "ru": "Э́то мно́го!",
+     "it": "È molto!"
+    },
+    {
+     "ru": "Все́ та́м.",
+     "it": "Tutti sono lì."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000623",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_drug",
+   "w_vse",
+   "w_zhenshchina",
+   "w_tualet",
+   "w_kholodno",
+   "w_odin"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "дру́г",
+     "it": "amico"
+    },
+    {
+     "ru": "все́",
+     "it": "tutti"
+    },
+    {
+     "ru": "же́нщина",
+     "it": "donna"
+    },
+    {
+     "ru": "туале́т",
+     "it": "bagno"
+    },
+    {
+     "ru": "хо́лодно",
+     "it": "fa freddo"
+    },
+    {
+     "ru": "оди́н",
+     "it": "uno"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000624",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "persone",
+   "famiglia",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_podruga",
+   "w_roditel",
+   "w_neskolko"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "подру́га",
+     "it": "amica"
+    },
+    {
+     "ru": "роди́тель",
+     "it": "genitore"
+    },
+    {
+     "ru": "не́сколько",
+     "it": "alcuni"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000625",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_zdes",
+   "w_rebyonok"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Зде́сь де́ти.",
+   "translation_it": "Qui ci sono dei bambini.",
+   "accepted": [
+    "Зде́сь де́ти.",
+    "Зде́сь де́ти",
+    "Здесь дети.",
+    "Здесь дети",
+    "здесь дети.",
+    "здесь дети",
+    "зде́сь де́ти"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000626",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_malo"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ма́ло",
+   "translation_it": "poco",
+   "accepted": [
+    "ма́ло",
+    "мало"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000627",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_eto",
+   "w_semya"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то семья́!",
+   "translation_it": "È una famiglia!",
+   "accepted": [
+    "Э́то семья́!",
+    "Э́то семья́",
+    "Это семья!",
+    "Это семья",
+    "это семья!",
+    "это семья",
+    "э́то семья́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000628",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_neskolko"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "не́сколько",
+   "translation_it": "alcuni",
+   "accepted": [
+    "не́сколько",
+    "несколько"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000629",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_vse",
+   "w_zhdat"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Все́ жду́т.",
+   "translation_it": "Tutti stanno aspettando.",
+   "accepted": [
+    "Все́ жду́т.",
+    "Все́ жду́т",
+    "Все ждут.",
+    "Все ждут",
+    "все ждут.",
+    "все ждут",
+    "все́ жду́т"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000630",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_mnogo"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "мно́го",
+   "translation_it": "molto",
+   "accepted": [
+    "мно́го",
+    "много"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000631",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_u",
+   "w_ona",
+   "w_desyat",
+   "w_rebyonok"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "У неё де́сять дете́й.",
+   "translation_it": "Lei ha dieci figli.",
+   "accepted": [
+    "У неё де́сять дете́й.",
+    "У неё де́сять дете́й",
+    "У неё десять детей.",
+    "У неё десять детей",
+    "у неё десять детей.",
+    "у неё десять детей",
+    "у неё де́сять дете́й",
+    "У нее десять детей.",
+    "у нее десять детей"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000632",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative",
+   "quantifiers"
+  ],
+  "words": [
+   "w_kazhdyy"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ка́ждый",
+   "translation_it": "ogni",
+   "accepted": [
+    "ка́ждый",
+    "каждый"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

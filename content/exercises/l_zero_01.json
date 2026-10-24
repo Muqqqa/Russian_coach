@@ -1,0 +1,1016 @@
+[
+ {
+  "id": "e_000001",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_kto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 12,
+  "prompt_it": "Leggi la parola russa e scrivila con lettere italiane (come si pronuncia).",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "кто́",
+   "answer": "ktò",
+   "accepted": [
+    "ktò"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000002",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "э́то",
+   "answer": "questo",
+   "accepted": [
+    "questo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000003",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_chto",
+   "w_eto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Что́ э́то?",
+   "answer": "Che cos'è?",
+   "accepted": [
+    "Che cos'è?",
+    "Che cos'è",
+    "che cos'è",
+    "che cos'è?",
+    "Che cos'e'?",
+    "che cos'e'",
+    "che cos'e"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000004",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_tam"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "là",
+   "answer": "та́м",
+   "accepted": [
+    "та́м",
+    "там"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000005",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_chto",
+   "w_eto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Che cos'è?",
+   "answer": "Что́ э́то?",
+   "accepted": [
+    "Что́ э́то?",
+    "Что́ э́то",
+    "Что это?",
+    "Что это",
+    "что это?",
+    "что это",
+    "что́ э́то"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000006",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_dom"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 12,
+  "prompt_it": "Leggi la parola russa e scrivila con lettere italiane (come si pronuncia).",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "до́м",
+   "answer": "dòm",
+   "accepted": [
+    "dòm"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000007",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_dom"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "до́м",
+   "answer": "casa",
+   "accepted": [
+    "casa",
+    "la casa",
+    "una casa"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000008",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_dom"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Где́ ___?",
+   "answer": "до́м",
+   "accepted": [
+    "до́м",
+    "дом"
+   ],
+   "hint_it": "Dov'è casa?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000009",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_dom"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ом",
+   "answer": "д",
+   "accepted": [
+    "д",
+    "Д"
+   ],
+   "hint_it": "casa, si legge «dòm»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000010",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Что́ ___?",
+   "answer": "э́то",
+   "accepted": [
+    "э́то",
+    "это"
+   ],
+   "hint_it": "Che cos'è?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000011",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_kto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "кт___",
+   "answer": "о",
+   "accepted": [
+    "о",
+    "О"
+   ],
+   "hint_it": "chi, si legge «ktò»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000012",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_chto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ э́то?",
+   "answer": "Что́",
+   "accepted": [
+    "Что́",
+    "Что",
+    "что",
+    "что́"
+   ],
+   "hint_it": "Che cos'è?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000013",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_tam"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ам",
+   "answer": "т",
+   "accepted": [
+    "т",
+    "Т"
+   ],
+   "hint_it": "là, si legge «tàm»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000014",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_eto",
+   "w_kto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il suono della lettera.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge la lettera «О о»?",
+   "options": [
+    "o",
+    "s sorda",
+    "e aperta",
+    "d"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000015",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_eto",
+   "w_kto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 10,
+  "prompt_it": "Scegli la lettera russa che corrisponde al suono.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Quale lettera russa si legge «o»?",
+   "options": [
+    "Д д",
+    "М м",
+    "К к",
+    "О о"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000016",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 12,
+  "prompt_it": "Scegli la lettura giusta della parola.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge «это»?",
+   "options": [
+    "èto",
+    "tàm",
+    "ktò",
+    "dòm"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000017",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_kto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 10,
+  "prompt_it": "Scegli la sillaba giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Quale sillaba si legge «ka»?",
+   "options": [
+    "кэ",
+    "ка",
+    "да",
+    "та"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000018",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_chto",
+   "w_eto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Что́ э́то?",
+   "options": [
+    "Che cos'è?",
+    "Cos'altro?",
+    "Queste sono persone.",
+    "Cosa c'è qui?"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000019",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_kto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «кто́»?",
+   "options": [
+    "questo",
+    "chi",
+    "sì",
+    "casa"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000020",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_da"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 28,
+  "prompt_it": "Abbina ogni lettera russa al suo suono.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "С с",
+     "it": "s sorda"
+    },
+    {
+     "ru": "Э э",
+     "it": "e aperta"
+    },
+    {
+     "ru": "Т т",
+     "it": "t"
+    },
+    {
+     "ru": "А а",
+     "it": "a"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000021",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_eto",
+   "w_tam",
+   "w_dom",
+   "w_kto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa alla sua lettura.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "э́то",
+     "it": "èto"
+    },
+    {
+     "ru": "та́м",
+     "it": "tàm"
+    },
+    {
+     "ru": "до́м",
+     "it": "dòm"
+    },
+    {
+     "ru": "кто́",
+     "it": "ktò"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000022",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_tam",
+   "w_dom",
+   "w_eto",
+   "w_kto",
+   "w_da"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "та́м",
+     "it": "là"
+    },
+    {
+     "ru": "до́м",
+     "it": "casa"
+    },
+    {
+     "ru": "э́то",
+     "it": "questo"
+    },
+    {
+     "ru": "кто́",
+     "it": "chi"
+    },
+    {
+     "ru": "да́",
+     "it": "sì"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000023",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_eto",
+   "w_kto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 28,
+  "prompt_it": "Abbina ogni lettera russa al suo suono.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "О о",
+     "it": "o"
+    },
+    {
+     "ru": "Д д",
+     "it": "d"
+    },
+    {
+     "ru": "М м",
+     "it": "m"
+    },
+    {
+     "ru": "К к",
+     "it": "k"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000024",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_kto",
+   "w_tam",
+   "w_da",
+   "w_eto",
+   "w_dom"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "кто́",
+     "it": "chi"
+    },
+    {
+     "ru": "та́м",
+     "it": "là"
+    },
+    {
+     "ru": "да́",
+     "it": "sì"
+    },
+    {
+     "ru": "э́то",
+     "it": "questo"
+    },
+    {
+     "ru": "до́м",
+     "it": "casa"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000025",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_kto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 10,
+  "prompt_it": "Ascolta e scrivi la sillaba in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ко́",
+   "translation_it": "sillaba «ko»",
+   "accepted": [
+    "ко",
+    "ко́",
+    "КО",
+    "Ко"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000026",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_gde",
+   "w_dom"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Где́ до́м?",
+   "translation_it": "Dov'è casa?",
+   "accepted": [
+    "Где́ до́м?",
+    "Где́ до́м",
+    "Где дом?",
+    "Где дом",
+    "где дом?",
+    "где дом",
+    "где́ до́м"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000027",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "э́то",
+   "translation_it": "questo",
+   "accepted": [
+    "э́то",
+    "это"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000028",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_da",
+   "w_dom"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 10,
+  "prompt_it": "Ascolta e scrivi la sillaba in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "дэ́",
+   "translation_it": "sillaba «de»",
+   "accepted": [
+    "дэ",
+    "дэ́",
+    "ДЭ",
+    "Дэ"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000029",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_chto",
+   "w_eto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Что́ э́то?",
+   "translation_it": "Che cos'è?",
+   "accepted": [
+    "Что́ э́то?",
+    "Что́ э́то",
+    "Что это?",
+    "Что это",
+    "что это?",
+    "что это",
+    "что́ э́то"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000030",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-1",
+   "stress-mark"
+  ],
+  "words": [
+   "w_tam"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "та́м",
+   "translation_it": "là",
+   "accepted": [
+    "та́м",
+    "там"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

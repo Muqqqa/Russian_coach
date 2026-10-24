@@ -1,0 +1,1176 @@
+[
+ {
+  "id": "e_000031",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_taksi"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 12,
+  "prompt_it": "Leggi la parola russa e scrivila con lettere italiane (come si pronuncia).",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "такси́",
+   "answer": "taksì",
+   "accepted": [
+    "taksì"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000032",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_bar"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ба́р",
+   "answer": "bar",
+   "accepted": [
+    "bar",
+    "il bar",
+    "un bar"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000033",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_eto",
+   "w_voda"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Э́то вода́.",
+   "answer": "Questa è acqua.",
+   "accepted": [
+    "Questa è acqua.",
+    "Questa è acqua",
+    "questa è acqua",
+    "questa è acqua.",
+    "Questa e' acqua.",
+    "questa e' acqua",
+    "questa e acqua"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000034",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_bar"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "bar",
+   "answer": "ба́р",
+   "accepted": [
+    "ба́р",
+    "бар",
+    "кафе́",
+    "кафе"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000035",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_da",
+   "w_eto",
+   "w_vino"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Sì, questo è vino.",
+   "answer": "Да, э́то вино́.",
+   "accepted": [
+    "Да, э́то вино́.",
+    "Да э́то вино́",
+    "Да, это вино.",
+    "Да это вино",
+    "да, это вино.",
+    "да это вино",
+    "да э́то вино́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000036",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_pivo"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 12,
+  "prompt_it": "Leggi la parola russa e scrivila con lettere italiane (come si pronuncia).",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "пи́во",
+   "answer": "pìvo",
+   "accepted": [
+    "pìvo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000037",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_voda"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "вода́",
+   "answer": "acqua",
+   "accepted": [
+    "acqua",
+    "l'acqua",
+    "un'acqua"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000038",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_gde",
+   "w_oni"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Где́ они́?",
+   "answer": "Dove sono?",
+   "accepted": [
+    "Dove sono?",
+    "Dove sono",
+    "dove sono",
+    "dove sono?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000039",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Да, ___ вино́.",
+   "answer": "э́то",
+   "accepted": [
+    "э́то",
+    "это"
+   ],
+   "hint_it": "Sì, questo è vino."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000040",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_vino"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "ви___о",
+   "answer": "н",
+   "accepted": [
+    "н",
+    "Н"
+   ],
+   "hint_it": "vino, si legge «vinò»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000041",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_vino"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Да, э́то ___.",
+   "answer": "вино́",
+   "accepted": [
+    "вино́",
+    "вино"
+   ],
+   "hint_it": "Sì, questo è vino."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000042",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_pivo"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "п___во",
+   "answer": "и",
+   "accepted": [
+    "и",
+    "И"
+   ],
+   "hint_it": "birra, si legge «pìvo»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000043",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ вода́.",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "Questa è acqua."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000044",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_oni"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "он___",
+   "answer": "и",
+   "accepted": [
+    "и",
+    "И"
+   ],
+   "hint_it": "loro, si legge «onì»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000045",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_gde"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ они́?",
+   "answer": "Где́",
+   "accepted": [
+    "Где́",
+    "Где",
+    "где",
+    "где́"
+   ],
+   "hint_it": "Dove sono?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000046",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_bar"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il suono della lettera.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge la lettera «Р р»?",
+   "options": [
+    "t",
+    "a",
+    "r",
+    "p"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000047",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_on"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 10,
+  "prompt_it": "Scegli la lettera russa che corrisponde al suono.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Quale lettera russa si legge «u»?",
+   "options": [
+    "У у",
+    "А а",
+    "И и",
+    "Н н"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000048",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_taksi"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 12,
+  "prompt_it": "Scegli la lettura giusta della parola.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge «такси»?",
+   "options": [
+    "taksì",
+    "èto",
+    "tàm",
+    "ktò"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000049",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_pivo"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 10,
+  "prompt_it": "Scegli la sillaba giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Quale sillaba si legge «pa»?",
+   "options": [
+    "ра",
+    "пэ",
+    "пу",
+    "па"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000050",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_eto",
+   "w_voda"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то вода́.",
+   "options": [
+    "Questa è acqua.",
+    "Sono io.",
+    "Sì, questo è vino.",
+    "Sei tu."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000051",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_oni"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «они́»?",
+   "options": [
+    "lei",
+    "lui",
+    "loro",
+    "chi"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000052",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends",
+   "gender"
+  ],
+  "words": [
+   "w_vino"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «вино́»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000053",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_vino",
+   "w_pivo"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 24,
+  "prompt_it": "Abbina ogni lettera russa al suo suono.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "В в",
+     "it": "v"
+    },
+    {
+     "ru": "Н н",
+     "it": "n"
+    },
+    {
+     "ru": "П п",
+     "it": "p"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000054",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_pivo"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 28,
+  "prompt_it": "Abbina le lettere ai suoni (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "П п",
+     "it": "p"
+    },
+    {
+     "ru": "Р р",
+     "it": "r"
+    },
+    {
+     "ru": "С с",
+     "it": "s sorda"
+    },
+    {
+     "ru": "М м",
+     "it": "m"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000055",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_pivo",
+   "w_ona",
+   "w_on",
+   "w_voda"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa alla sua lettura.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "пи́во",
+     "it": "pìvo"
+    },
+    {
+     "ru": "она́",
+     "it": "onà"
+    },
+    {
+     "ru": "о́н",
+     "it": "òn"
+    },
+    {
+     "ru": "вода́",
+     "it": "vodà"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000056",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_oni",
+   "w_ona",
+   "w_bar"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "они́",
+     "it": "loro"
+    },
+    {
+     "ru": "она́",
+     "it": "lei"
+    },
+    {
+     "ru": "ба́р",
+     "it": "bar"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000057",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_da",
+   "w_eto",
+   "w_vino",
+   "w_voda",
+   "w_gde"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 40,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Да, э́то вино́.",
+     "it": "Sì, questo è vino."
+    },
+    {
+     "ru": "Э́то вода́.",
+     "it": "Questa è acqua."
+    },
+    {
+     "ru": "Где́ они́?",
+     "it": "Dove sono?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000058",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_bar",
+   "w_voda",
+   "w_pivo",
+   "w_dom",
+   "w_da",
+   "w_kto"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ба́р",
+     "it": "bar"
+    },
+    {
+     "ru": "вода́",
+     "it": "acqua"
+    },
+    {
+     "ru": "пи́во",
+     "it": "birra"
+    },
+    {
+     "ru": "до́м",
+     "it": "casa"
+    },
+    {
+     "ru": "да́",
+     "it": "sì"
+    },
+    {
+     "ru": "кто́",
+     "it": "chi"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000059",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_vino",
+   "w_pivo"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 10,
+  "prompt_it": "Ascolta e scrivi la sillaba in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ви́",
+   "translation_it": "sillaba «vi»",
+   "accepted": [
+    "ви",
+    "ви́",
+    "ВИ",
+    "Ви"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000060",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_da",
+   "w_eto",
+   "w_vino"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Да, э́то вино́.",
+   "translation_it": "Sì, questo è vino.",
+   "accepted": [
+    "Да, э́то вино́.",
+    "Да э́то вино́",
+    "Да, это вино.",
+    "Да это вино",
+    "да, это вино.",
+    "да это вино",
+    "да э́то вино́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000061",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_vino"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "вино́",
+   "translation_it": "vino",
+   "accepted": [
+    "вино́",
+    "вино"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000062",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_oni",
+   "w_vino"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 10,
+  "prompt_it": "Ascolta e scrivi la sillaba in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ки́",
+   "translation_it": "sillaba «ki»",
+   "accepted": [
+    "ки",
+    "ки́",
+    "КИ",
+    "Ки"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000063",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_gde",
+   "w_oni"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Где́ они́?",
+   "translation_it": "Dove sono?",
+   "accepted": [
+    "Где́ они́?",
+    "Где́ они́",
+    "Где они?",
+    "Где они",
+    "где они?",
+    "где они",
+    "где́ они́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000064",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_ona"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "она́",
+   "translation_it": "lei",
+   "accepted": [
+    "она́",
+    "она"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000065",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "words": [
+   "w_pivo"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 10,
+  "prompt_it": "Ascolta e scrivi la sillaba in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "па́",
+   "translation_it": "sillaba «pa»",
+   "accepted": [
+    "па",
+    "па́",
+    "ПА",
+    "Па"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

@@ -1,0 +1,1607 @@
+[
+ {
+  "id": "e_000673",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_pravilnyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "пра́вильный",
+   "answer": "corretto",
+   "accepted": [
+    "corretto",
+    "giusto"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000674",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_v",
+   "w_komnata",
+   "w_zharko"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "В ко́мнате жа́рко.",
+   "answer": "In camera c'è caldo.",
+   "accepted": [
+    "In camera c'è caldo.",
+    "In camera c'è caldo",
+    "in camera c'è caldo",
+    "in camera c'è caldo.",
+    "In camera c'e' caldo.",
+    "in camera c'e' caldo",
+    "in camera c'e caldo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000675",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_medlennyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "lento",
+   "answer": "ме́дленный",
+   "accepted": [
+    "ме́дленный",
+    "медленный"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000676",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_ty",
+   "w_gryaznyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Sei sporco.",
+   "answer": "Ты́ гря́зный.",
+   "accepted": [
+    "Ты́ гря́зный.",
+    "Ты́ гря́зный",
+    "Ты грязный.",
+    "Ты грязный",
+    "ты грязный.",
+    "ты грязный",
+    "ты́ гря́зный"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000677",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_tikhiy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ти́хий",
+   "answer": "silenzioso",
+   "accepted": [
+    "silenzioso",
+    "tranquillo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000678",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_eda",
+   "w_vkusnyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Еда́ вку́сная.",
+   "answer": "Il cibo è delizioso.",
+   "accepted": [
+    "Il cibo è delizioso.",
+    "Il cibo è delizioso",
+    "il cibo è delizioso",
+    "il cibo è delizioso.",
+    "Il cibo e' delizioso.",
+    "il cibo e' delizioso",
+    "il cibo e delizioso"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000679",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_bystryy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "veloce",
+   "answer": "бы́стрый",
+   "accepted": [
+    "бы́стрый",
+    "быстрый"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000680",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "comunicazione",
+   "descrizioni",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_govorit",
+   "w_medlennyy",
+   "w_pozhaluysta"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Parla più piano, per favore.",
+   "answer": "Говори́ ме́дленнее, пожа́луйста.",
+   "accepted": [
+    "Говори́ ме́дленнее, пожа́луйста.",
+    "Говори́ ме́дленнее пожа́луйста",
+    "Говори медленнее, пожалуйста.",
+    "Говори медленнее пожалуйста",
+    "говори медленнее, пожалуйста.",
+    "говори медленнее пожалуйста",
+    "говори́ ме́дленнее пожа́луйста"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000681",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_trudnyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "тру́дный",
+   "answer": "difficile",
+   "accepted": [
+    "difficile"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000682",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "mente",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_moch",
+   "w_govorit",
+   "w_gromkiy",
+   "w_ya",
+   "w_ty",
+   "w_ne",
+   "w_ponimat"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 29,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Мо́жешь говори́ть гро́мче? Я́ тебя́ не понима́ю.",
+   "answer": "Puoi parlare più forte? Non ti sto capendo.",
+   "accepted": [
+    "Puoi parlare più forte? Non ti sto capendo.",
+    "Puoi parlare più forte Non ti sto capendo",
+    "puoi parlare più forte non ti sto capendo",
+    "puoi parlare più forte? non ti sto capendo.",
+    "Puoi parlare piu' forte? Non ti sto capendo.",
+    "puoi parlare piu' forte non ti sto capendo",
+    "puoi parlare piu forte non ti sto capendo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000683",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_gromkiy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вино́.",
+   "answer": "гро́мкое",
+   "accepted": [
+    "гро́мкое",
+    "громкое"
+   ],
+   "hint_it": "forte: concorda con «vino» (neutro)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000684",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_medlenno"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ чита́ю.",
+   "answer": "ме́дленно",
+   "accepted": [
+    "ме́дленно",
+    "медленно"
+   ],
+   "hint_it": "Leggo lentamente."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000685",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_vkusnyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вода́.",
+   "answer": "вку́сная",
+   "accepted": [
+    "вку́сная",
+    "вкусная"
+   ],
+   "hint_it": "gustoso: concorda con «acqua» (femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000686",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_ty"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ гря́зный.",
+   "answer": "Ты́",
+   "accepted": [
+    "Ты́",
+    "Ты",
+    "ты",
+    "ты́"
+   ],
+   "hint_it": "Sei sporco."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000687",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_pravilnyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ дома́.",
+   "answer": "пра́вильные",
+   "accepted": [
+    "пра́вильные",
+    "правильные"
+   ],
+   "hint_it": "corretto: concorda con «case» (plurale)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000688",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_dumat"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ быстре́е!",
+   "answer": "Ду́май",
+   "accepted": [
+    "Ду́май",
+    "Думай",
+    "думай",
+    "ду́май"
+   ],
+   "hint_it": "Pensa più velocemente!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000689",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_tikhiy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ до́м.",
+   "answer": "ти́хий",
+   "accepted": [
+    "ти́хий",
+    "тихий"
+   ],
+   "hint_it": "silenzioso: concorda con «casa» (maschile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000690",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_govorit"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ти́ше.",
+   "answer": "Говори́",
+   "accepted": [
+    "Говори́",
+    "Говори",
+    "говори",
+    "говори́"
+   ],
+   "hint_it": "Abbassa la voce."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000691",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_gryaznyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ дома́.",
+   "answer": "гря́зные",
+   "accepted": [
+    "гря́зные",
+    "грязные"
+   ],
+   "hint_it": "sporco: concorda con «case» (plurale)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000692",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_bystryy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «бы́стрый» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ вода́. — veloce: concorda con «acqua» (femminile).",
+   "options": [
+    "бы́стрый",
+    "бы́строе",
+    "бы́страя",
+    "бы́стрые"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000693",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_ya",
+   "w_medlenno",
+   "w_chitat"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ ме́дленно чита́ю.",
+   "options": [
+    "Leggo lentamente.",
+    "L'ho comprata.",
+    "Voglio vivere.",
+    "Ho chiesto a lui."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000694",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_zharkiy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «жа́ркий»?",
+   "options": [
+    "freddo",
+    "corretto",
+    "caldo",
+    "gustoso"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000695",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_v",
+   "w_komnata",
+   "w_zharko"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "In camera c'è caldo.",
+   "options": [
+    "Та́м жа́рко?",
+    "В ко́мнате жа́рко.",
+    "Мне́ жа́рко.",
+    "Сего́дня жа́рко."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000696",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_gryaznyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «sporco» in russo?",
+   "options": [
+    "гря́зный",
+    "ме́дленный",
+    "жа́ркий",
+    "дешёвый"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000697",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_zharkiy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «жа́ркий» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ до́м. — caldo: concorda con «casa» (maschile).",
+   "options": [
+    "жа́ркое",
+    "жа́ркий",
+    "жа́ркие",
+    "жа́ркая"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000698",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "comunicazione",
+   "descrizioni",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_govorit",
+   "w_medlennyy",
+   "w_pozhaluysta"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Говори́те ме́дленнее, пожа́луйста.",
+   "options": [
+    "Dico bene?",
+    "Due caffè, per piacere.",
+    "Due, per favore.",
+    "Parlate più piano, per favore."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000699",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_tikho"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «ти́хо»?",
+   "options": [
+    "in russo",
+    "domani",
+    "molto",
+    "piano"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000700",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_tam",
+   "w_kholodno"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Lì fa freddo.",
+   "options": [
+    "Все́ та́м.",
+    "Та́м жа́рко?",
+    "Та́м хо́лодно.",
+    "Не хо́лодно."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000701",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_tikho",
+   "w_gromkiy",
+   "w_trudnyy",
+   "w_tikhiy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ти́хо",
+     "it": "piano"
+    },
+    {
+     "ru": "гро́мкий",
+     "it": "forte"
+    },
+    {
+     "ru": "тру́дный",
+     "it": "difficile"
+    },
+    {
+     "ru": "ти́хий",
+     "it": "silenzioso"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000702",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "comunicazione",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_ya",
+   "w_medlenno",
+   "w_chitat",
+   "w_vy",
+   "w_gryaznyy",
+   "w_dumat"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 40,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ ме́дленно чита́ю.",
+     "it": "Leggo lentamente."
+    },
+    {
+     "ru": "Вы́ гря́зный.",
+     "it": "Siete sporco."
+    },
+    {
+     "ru": "Ду́май быстре́е!",
+     "it": "Pensa più velocemente!"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000703",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_bystryy",
+   "w_zharkiy",
+   "w_medlennyy",
+   "w_pyatnitsa",
+   "w_deshyovyy",
+   "w_brat"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "бы́стрый",
+     "it": "veloce"
+    },
+    {
+     "ru": "жа́ркий",
+     "it": "caldo"
+    },
+    {
+     "ru": "ме́дленный",
+     "it": "lento"
+    },
+    {
+     "ru": "пя́тница",
+     "it": "venerdì"
+    },
+    {
+     "ru": "дешёвый",
+     "it": "economico"
+    },
+    {
+     "ru": "бра́т",
+     "it": "fratello"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000704",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_gromko",
+   "w_medlennyy",
+   "w_kholodnyy",
+   "w_bystryy",
+   "w_vkusnyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "гро́мко",
+     "it": "ad alta voce"
+    },
+    {
+     "ru": "ме́дленный",
+     "it": "lento"
+    },
+    {
+     "ru": "холо́дный",
+     "it": "freddo"
+    },
+    {
+     "ru": "бы́стрый",
+     "it": "veloce"
+    },
+    {
+     "ru": "вку́сный",
+     "it": "gustoso"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000705",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "descrizioni",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_govorit",
+   "w_medlennyy",
+   "w_pozhaluysta",
+   "w_ne",
+   "w_tak"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Говори́те ме́дленнее, пожа́луйста.",
+     "it": "Parlate più piano, per favore."
+    },
+    {
+     "ru": "Не говори́ та́к гро́мко.",
+     "it": "Non parlare così forte."
+    },
+    {
+     "ru": "Говори́ ти́ше.",
+     "it": "Abbassa la voce."
+    },
+    {
+     "ru": "Вода́ холо́дная.",
+     "it": "L'acqua è fredda."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000706",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "casa",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_gryaznyy",
+   "w_pravilnyy",
+   "w_zharkiy",
+   "w_dver",
+   "w_ono",
+   "w_desyat"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "гря́зный",
+     "it": "sporco"
+    },
+    {
+     "ru": "пра́вильный",
+     "it": "corretto"
+    },
+    {
+     "ru": "жа́ркий",
+     "it": "caldo"
+    },
+    {
+     "ru": "две́рь",
+     "it": "porta"
+    },
+    {
+     "ru": "оно́",
+     "it": "esso"
+    },
+    {
+     "ru": "де́сять",
+     "it": "dieci"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000707",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_bystryy",
+   "w_vkusnyy",
+   "w_gryaznyy",
+   "w_kholodnyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "бы́стрый",
+     "it": "veloce"
+    },
+    {
+     "ru": "вку́сный",
+     "it": "gustoso"
+    },
+    {
+     "ru": "гря́зный",
+     "it": "sporco"
+    },
+    {
+     "ru": "холо́дный",
+     "it": "freddo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000708",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_vy",
+   "w_gryaznyy",
+   "w_eda",
+   "w_vkusnyy",
+   "w_chay",
+   "w_kholodnyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Вы́ гря́зные.",
+     "it": "Siete sporchi."
+    },
+    {
+     "ru": "Еда́ вку́сная.",
+     "it": "Il cibo è delizioso."
+    },
+    {
+     "ru": "Ча́й холо́дный.",
+     "it": "Il tè è freddo."
+    },
+    {
+     "ru": "Ты́ гря́зный.",
+     "it": "Sei sporco."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000709",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_slishkom",
+   "w_zharko"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Сли́шком жа́рко.",
+   "translation_it": "È troppo caldo.",
+   "accepted": [
+    "Сли́шком жа́рко.",
+    "Сли́шком жа́рко",
+    "Слишком жарко.",
+    "Слишком жарко",
+    "слишком жарко.",
+    "слишком жарко",
+    "сли́шком жа́рко"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000710",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_vkusnyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "вку́сный",
+   "translation_it": "gustoso",
+   "accepted": [
+    "вку́сный",
+    "вкусный"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000711",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "mente",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_moch",
+   "w_govorit",
+   "w_gromkiy",
+   "w_ya",
+   "w_ty",
+   "w_ne",
+   "w_ponimat"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 36,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Мо́жешь говори́ть гро́мче? Я́ тебя́ не понима́ю.",
+   "translation_it": "Puoi parlare più forte? Non ti sto capendo.",
+   "accepted": [
+    "Мо́жешь говори́ть гро́мче? Я́ тебя́ не понима́ю.",
+    "Мо́жешь говори́ть гро́мче Я́ тебя́ не понима́ю",
+    "Можешь говорить громче? Я тебя не понимаю.",
+    "Можешь говорить громче Я тебя не понимаю",
+    "можешь говорить громче? я тебя не понимаю.",
+    "можешь говорить громче я тебя не понимаю",
+    "мо́жешь говори́ть гро́мче я́ тебя́ не понима́ю"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000712",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_gryaznyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "гря́зный",
+   "translation_it": "sporco",
+   "accepted": [
+    "гря́зный",
+    "грязный"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000713",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "comunicazione",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_govorit",
+   "w_tikhiy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Говори́ ти́ше.",
+   "translation_it": "Abbassa la voce.",
+   "accepted": [
+    "Говори́ ти́ше.",
+    "Говори́ ти́ше",
+    "Говори тише.",
+    "Говори тише",
+    "говори тише.",
+    "говори тише",
+    "говори́ ти́ше"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000714",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_kholodnyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "холо́дный",
+   "translation_it": "freddo",
+   "accepted": [
+    "холо́дный",
+    "холодный"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000715",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_vy",
+   "w_gryaznyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вы́ гря́зные.",
+   "translation_it": "Siete sporchi.",
+   "accepted": [
+    "Вы́ гря́зные.",
+    "Вы́ гря́зные",
+    "Вы грязные.",
+    "Вы грязные",
+    "вы грязные.",
+    "вы грязные",
+    "вы́ гря́зные"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000716",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_gromkiy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "гро́мкий",
+   "translation_it": "forte",
+   "accepted": [
+    "гро́мкий",
+    "громкий"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000717",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "adverbs-o"
+  ],
+  "words": [
+   "w_voda",
+   "w_kholodnyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вода́ холо́дная.",
+   "translation_it": "L'acqua è fredda.",
+   "accepted": [
+    "Вода́ холо́дная.",
+    "Вода́ холо́дная",
+    "Вода холодная.",
+    "Вода холодная",
+    "вода холодная.",
+    "вода холодная",
+    "вода́ холо́дная"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

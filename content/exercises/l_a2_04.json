@@ -1,0 +1,1413 @@
+[
+ {
+  "id": "e_001510",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_ukhodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "уходи́ть",
+   "answer": "andare via",
+   "accepted": [
+    "andare via",
+    "partire"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001511",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_my",
+   "w_priyti",
+   "w_v",
+   "w_pyatnitsa"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Мы́ придём в пя́тницу.",
+   "answer": "Verremo venerdì.",
+   "accepted": [
+    "Verremo venerdì.",
+    "Verremo venerdì",
+    "verremo venerdì",
+    "verremo venerdì.",
+    "Verremo venerdi'.",
+    "verremo venerdi'",
+    "verremo venerdi",
+    "Noi verremo venerdì.",
+    "Noi verremo venerdì",
+    "noi verremo venerdì",
+    "noi verremo venerdì.",
+    "Noi verremo venerdi'.",
+    "noi verremo venerdi'",
+    "noi verremo venerdi"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001512",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_prikhodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "venire",
+   "answer": "приходи́ть",
+   "accepted": [
+    "приходи́ть",
+    "приходить",
+    "прийти́",
+    "прийти"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001513",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "avverbi",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_prosto",
+   "w_ukhodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Semplicemente vattene.",
+   "answer": "Про́сто уходи́.",
+   "accepted": [
+    "Про́сто уходи́.",
+    "Про́сто уходи́",
+    "Просто уходи.",
+    "Просто уходи",
+    "просто уходи.",
+    "просто уходи",
+    "про́сто уходи́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001514",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_vernutsya"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "верну́ться",
+   "answer": "tornare",
+   "accepted": [
+    "tornare"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001515",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_mnogie",
+   "w_uyti"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Мно́гие ушли́.",
+   "answer": "Molti se ne sono andati.",
+   "accepted": [
+    "Molti se ne sono andati.",
+    "Molti se ne sono andati",
+    "molti se ne sono andati",
+    "molti se ne sono andati."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001516",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_priekhat"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "arrivare con un mezzo",
+   "answer": "прие́хать",
+   "accepted": [
+    "прие́хать",
+    "приехать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001517",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_ya",
+   "w_potom",
+   "w_vernutsya"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Tornerò dopo.",
+   "answer": "Я́ пото́м верну́сь.",
+   "accepted": [
+    "Я́ пото́м верну́сь.",
+    "Я́ пото́м верну́сь",
+    "Я потом вернусь.",
+    "Я потом вернусь",
+    "я потом вернусь.",
+    "я потом вернусь",
+    "я́ пото́м верну́сь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001518",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_khodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ходи́ть",
+   "answer": "andare a piedi",
+   "accepted": [
+    "andare a piedi",
+    "camminare"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001519",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect",
+   "past-tense"
+  ],
+  "words": [
+   "w_prikhodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вчера́ он ___ (приходи́ть).",
+   "answer": "приходи́л",
+   "accepted": [
+    "приходи́л",
+    "приходил"
+   ],
+   "hint_it": "venire (ieri): lui"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001520",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_ukhodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Не ___!",
+   "answer": "уходи́",
+   "accepted": [
+    "уходи́",
+    "уходи"
+   ],
+   "hint_it": "Non andartene!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001521",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect",
+   "past-tense"
+  ],
+  "words": [
+   "w_vernutsya"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вчера́ они́ ___ (верну́ться).",
+   "answer": "верну́лись",
+   "accepted": [
+    "верну́лись",
+    "вернулись"
+   ],
+   "hint_it": "tornare (ieri): loro"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001522",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_ty"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ уже́ прие́хал?",
+   "answer": "Ты́",
+   "accepted": [
+    "Ты́",
+    "Ты",
+    "ты",
+    "ты́"
+   ],
+   "hint_it": "Sei già arrivato?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001523",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect",
+   "past-tense"
+  ],
+  "words": [
+   "w_priekhat"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вчера́ они́ ___ (прие́хать).",
+   "answer": "прие́хали",
+   "accepted": [
+    "прие́хали",
+    "приехали"
+   ],
+   "hint_it": "arrivare con un mezzo (ieri): loro"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001524",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_syuda"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ти́хо! ___ иду́т.",
+   "answer": "Сюда́",
+   "accepted": [
+    "Сюда́",
+    "Сюда",
+    "сюда",
+    "сюда́"
+   ],
+   "hint_it": "Piano! Stanno venendo qui!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001525",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect",
+   "past-tense"
+  ],
+  "words": [
+   "w_priekhat"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вчера́ она́ ___ (прие́хать).",
+   "answer": "прие́хала",
+   "accepted": [
+    "прие́хала",
+    "приехала"
+   ],
+   "hint_it": "arrivare con un mezzo (ieri): lei"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001526",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_vremya"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ухо́дит.",
+   "answer": "Вре́мя",
+   "accepted": [
+    "Вре́мя",
+    "Время",
+    "время",
+    "вре́мя"
+   ],
+   "hint_it": "Il tempo sta scadendo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001527",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect",
+   "past-tense"
+  ],
+  "words": [
+   "w_khodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma del passato giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вчера́ они́ ___ (ходи́ть). — andare a piedi (ieri): loro",
+   "options": [
+    "ходи́л",
+    "ходи́ла",
+    "ходи́ли"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001528",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_ne",
+   "w_ukhodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Не уходи́.",
+   "options": [
+    "Dobbiamo andarcene.",
+    "Non fa freddo.",
+    "Non andartene.",
+    "Ora vattene."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001529",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_syuda"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «сюда́»?",
+   "options": [
+    "verso qui",
+    "molto",
+    "là",
+    "gustoso"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001530",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_on",
+   "w_uyti",
+   "w_minuta",
+   "w_nazad"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 20,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Lui se n'è andato un minuto fa.",
+   "options": [
+    "Без пяти́ мину́т четы́ре.",
+    "Я́ всё ему́ рассказа́л.",
+    "О́н ушёл ча́с наза́д.",
+    "О́н ушёл мину́ту наза́д."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001531",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_syuda"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «verso qui» in russo?",
+   "options": [
+    "про́сто",
+    "мно́го",
+    "вчера́",
+    "сюда́"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001532",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect",
+   "past-tense"
+  ],
+  "words": [
+   "w_uyti"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma del passato giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вчера́ она́ ___ (уйти́). — andare via (ieri): lei",
+   "options": [
+    "ушла́",
+    "ушёл",
+    "ушли́"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001533",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_ukhodit",
+   "w_pryamo",
+   "w_seychas"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Уходи́ пря́мо сейча́с.",
+   "options": [
+    "Puoi andartene se vuoi.",
+    "Sto uscendo.",
+    "Vattene in questo esatto momento.",
+    "È l'una del pomeriggio."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001534",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_priyti"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «прийти́»?",
+   "options": [
+    "entrare",
+    "potere",
+    "venire",
+    "guardare"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001535",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_syuda",
+   "w_domoy",
+   "w_poyti",
+   "w_priekhat",
+   "w_khodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сюда́",
+     "it": "verso qui"
+    },
+    {
+     "ru": "домо́й",
+     "it": "a casa"
+    },
+    {
+     "ru": "пойти́",
+     "it": "andare a piedi"
+    },
+    {
+     "ru": "прие́хать",
+     "it": "arrivare con un mezzo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001536",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "movimento",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_ty",
+   "w_poetomu",
+   "w_ukhodit",
+   "w_ya",
+   "w_moch",
+   "w_poekhat"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Ты́ поэ́тому ухо́дишь?",
+     "it": "È per questo che te ne stai andando?"
+    },
+    {
+     "ru": "Я́ могу́ пое́хать.",
+     "it": "Posso andare."
+    },
+    {
+     "ru": "Мо́жешь пойти́.",
+     "it": "Puoi andare."
+    },
+    {
+     "ru": "Я́ пое́ду на метро́.",
+     "it": "Andrò in metro."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001537",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento",
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_poyti",
+   "w_domoy",
+   "w_khodit",
+   "w_nikto",
+   "w_potom",
+   "w_imet"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 37,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "пойти́",
+     "it": "andare a piedi"
+    },
+    {
+     "ru": "домо́й",
+     "it": "a casa"
+    },
+    {
+     "ru": "никто́",
+     "it": "nessuno"
+    },
+    {
+     "ru": "пото́м",
+     "it": "poi"
+    },
+    {
+     "ru": "име́ть",
+     "it": "avere"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001538",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_uyti",
+   "w_priyti",
+   "w_ukhodit",
+   "w_vernutsya",
+   "w_prikhodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "уйти́",
+     "it": "andare via"
+    },
+    {
+     "ru": "прийти́",
+     "it": "venire"
+    },
+    {
+     "ru": "верну́ться",
+     "it": "tornare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001539",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_seychas",
+   "w_ukhodit",
+   "w_ves",
+   "w_ya",
+   "w_poekhat",
+   "w_on"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Сейча́с ухожу́.",
+     "it": "Sto per andarmene."
+    },
+    {
+     "ru": "Всё, я́ пое́хал.",
+     "it": "È tutto, vado."
+    },
+    {
+     "ru": "О́н ушёл.",
+     "it": "È partito."
+    },
+    {
+     "ru": "Коне́чно, пойду́.",
+     "it": "Certo che andrò."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001540",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento",
+   "descrizioni",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_prikhodit",
+   "w_uyti",
+   "w_vernutsya",
+   "w_posledniy",
+   "w_prostite",
+   "w_k"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "приходи́ть",
+     "it": "venire"
+    },
+    {
+     "ru": "уйти́",
+     "it": "andare via"
+    },
+    {
+     "ru": "верну́ться",
+     "it": "tornare"
+    },
+    {
+     "ru": "после́дний",
+     "it": "ultimo"
+    },
+    {
+     "ru": "прости́те",
+     "it": "scusate"
+    },
+    {
+     "ru": "к",
+     "it": "verso"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001541",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_khodit",
+   "w_poyti",
+   "w_vernutsya",
+   "w_uyti"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ходи́ть",
+     "it": "andare a piedi"
+    },
+    {
+     "ru": "верну́ться",
+     "it": "tornare"
+    },
+    {
+     "ru": "уйти́",
+     "it": "andare via"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001542",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_ukhodit",
+   "w_pryamo",
+   "w_seychas"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Уходи́ пря́мо сейча́с.",
+   "translation_it": "Vattene in questo esatto momento.",
+   "accepted": [
+    "Уходи́ пря́мо сейча́с.",
+    "Уходи́ пря́мо сейча́с",
+    "Уходи прямо сейчас.",
+    "Уходи прямо сейчас",
+    "уходи прямо сейчас.",
+    "уходи прямо сейчас",
+    "уходи́ пря́мо сейча́с"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001543",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_syuda"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "сюда́",
+   "translation_it": "verso qui",
+   "accepted": [
+    "сюда́",
+    "сюда"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001544",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "avverbi",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_nado",
+   "w_ukhodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "На́до уходи́ть.",
+   "translation_it": "Dobbiamo andarcene.",
+   "accepted": [
+    "На́до уходи́ть.",
+    "На́до уходи́ть",
+    "Надо уходить.",
+    "Надо уходить",
+    "надо уходить.",
+    "надо уходить",
+    "на́до уходи́ть"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001545",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_priyti"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "прийти́",
+   "translation_it": "venire",
+   "accepted": [
+    "прийти́",
+    "прийти"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001546",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_ya",
+   "w_ukhodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ ухожу́.",
+   "translation_it": "Sto uscendo.",
+   "accepted": [
+    "Я́ ухожу́.",
+    "Я́ ухожу́",
+    "Я ухожу.",
+    "Я ухожу",
+    "я ухожу.",
+    "я ухожу",
+    "я́ ухожу́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001547",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_prikhodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "приходи́ть",
+   "translation_it": "venire",
+   "accepted": [
+    "приходи́ть",
+    "приходить"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001548",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_on",
+   "w_khodit",
+   "w_v",
+   "w_shkola"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "О́н хо́дит в шко́лу.",
+   "translation_it": "Lui va a scuola.",
+   "accepted": [
+    "О́н хо́дит в шко́лу.",
+    "О́н хо́дит в шко́лу",
+    "Он ходит в школу.",
+    "Он ходит в школу",
+    "он ходит в школу.",
+    "он ходит в школу",
+    "о́н хо́дит в шко́лу"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001549",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-prefix",
+   "aspect"
+  ],
+  "words": [
+   "w_khodit"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ходи́ть",
+   "translation_it": "andare a piedi",
+   "accepted": [
+    "ходи́ть",
+    "ходить"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

@@ -1,0 +1,1119 @@
+[
+ {
+  "id": "e_001062",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_dozhd"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "до́ждь",
+   "answer": "pioggia",
+   "accepted": [
+    "pioggia",
+    "la pioggia",
+    "una pioggia"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001063",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_proshlyy",
+   "w_noch",
+   "w_idti",
+   "w_sneg"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Про́шлой но́чью шёл сне́г.",
+   "answer": "La scorsa notte è nevicato.",
+   "accepted": [
+    "La scorsa notte è nevicato.",
+    "La scorsa notte è nevicato",
+    "la scorsa notte è nevicato",
+    "la scorsa notte è nevicato.",
+    "La scorsa notte e' nevicato.",
+    "la scorsa notte e' nevicato",
+    "la scorsa notte e nevicato"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001064",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_sneg"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "neve",
+   "answer": "сне́г",
+   "accepted": [
+    "сне́г",
+    "снег"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001065",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_gde",
+   "w_dozhd"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Dov'è la pioggia?",
+   "answer": "Где́ до́ждь?",
+   "accepted": [
+    "Где́ до́ждь?",
+    "Где́ до́ждь",
+    "Где дождь?",
+    "Где дождь",
+    "где дождь?",
+    "где дождь",
+    "где́ до́ждь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001066",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_solntse"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "со́лнце",
+   "answer": "sole",
+   "accepted": [
+    "sole",
+    "il sole",
+    "un sole",
+    "la sole",
+    "una sole"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001067",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_kak",
+   "w_tam",
+   "w_pogoda"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Ка́к та́м пого́да?",
+   "answer": "Com'è il tempo lì?",
+   "accepted": [
+    "Com'è il tempo lì?",
+    "Com'è il tempo lì",
+    "com'è il tempo lì",
+    "com'è il tempo lì?",
+    "Com'e' il tempo li'?",
+    "com'e' il tempo li'",
+    "com'e il tempo li"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001068",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_pogoda"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "tempo atmosferico",
+   "answer": "пого́да",
+   "accepted": [
+    "пого́да",
+    "погода"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001069",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_kakoy"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ та́м пого́да?",
+   "answer": "Кака́я",
+   "accepted": [
+    "Кака́я",
+    "Какая",
+    "какая",
+    "кака́я"
+   ],
+   "hint_it": "Com'è il tempo lì?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001070",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_idti"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Сне́г ___?",
+   "answer": "идёт",
+   "accepted": [
+    "идёт",
+    "идет"
+   ],
+   "hint_it": "Sta nevicando?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001071",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_slishkom"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ жа́рко.",
+   "answer": "Сли́шком",
+   "accepted": [
+    "Сли́шком",
+    "Слишком",
+    "слишком",
+    "сли́шком"
+   ],
+   "hint_it": "È troppo caldo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001072",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_kak"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ та́м пого́да?",
+   "answer": "Ка́к",
+   "accepted": [
+    "Ка́к",
+    "Как",
+    "как",
+    "ка́к"
+   ],
+   "hint_it": "Com'è il tempo lì?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001073",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_pogoda"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ка́к ___?",
+   "answer": "пого́да",
+   "accepted": [
+    "пого́да",
+    "погода"
+   ],
+   "hint_it": "Che tempo fa?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001074",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_idti"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ сне́г.",
+   "answer": "Идёт",
+   "accepted": [
+    "Идёт",
+    "идёт",
+    "Идет",
+    "идет"
+   ],
+   "hint_it": "Nevica."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001075",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_kakoy",
+   "w_tam",
+   "w_pogoda"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Кака́я та́м пого́да?",
+   "options": [
+    "Com'è il tempo lì?",
+    "Quale mese è ora?",
+    "Che tempo fa?",
+    "Tutti sono lì."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001076",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_solntse"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «со́лнце»?",
+   "options": [
+    "menù",
+    "bar",
+    "Russia",
+    "sole"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001077",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal",
+   "gender"
+  ],
+  "words": [
+   "w_dozhd"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «до́ждь»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001078",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_gde",
+   "w_solntse"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Dov'è il sole?",
+   "options": [
+    "Где́ же́нщина?",
+    "Ты́ где́?",
+    "Где́ со́лнце?",
+    "Где́ туале́т?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001079",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_sneg"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «neve» in russo?",
+   "options": [
+    "арбу́з",
+    "мину́та",
+    "сне́г",
+    "сы́н"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001080",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_gde",
+   "w_dozhd"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Где́ до́ждь?",
+   "options": [
+    "Dov'è la pioggia?",
+    "Dove sei?",
+    "Dov'è la donna?",
+    "Dove sono i genitori?"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001081",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_solntse",
+   "w_shtorm",
+   "w_sneg",
+   "w_pogoda",
+   "w_dozhd"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "со́лнце",
+     "it": "sole"
+    },
+    {
+     "ru": "што́рм",
+     "it": "tempesta"
+    },
+    {
+     "ru": "сне́г",
+     "it": "neve"
+    },
+    {
+     "ru": "пого́да",
+     "it": "tempo atmosferico"
+    },
+    {
+     "ru": "до́ждь",
+     "it": "pioggia"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001082",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "avverbi",
+   "descrizioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_slishkom",
+   "w_zharko",
+   "w_proshlyy",
+   "w_noch",
+   "w_idti",
+   "w_sneg"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Сли́шком жа́рко.",
+     "it": "È troppo caldo."
+    },
+    {
+     "ru": "Про́шлой но́чью шёл сне́г.",
+     "it": "La scorsa notte è nevicato."
+    },
+    {
+     "ru": "Шёл до́ждь.",
+     "it": "Pioveva."
+    },
+    {
+     "ru": "Та́м хо́лодно.",
+     "it": "Lì fa freddo."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001083",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni",
+   "mente",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_shtorm",
+   "w_pogoda",
+   "w_dozhd",
+   "w_trudnyy",
+   "w_dumat",
+   "w_ekhat"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "што́рм",
+     "it": "tempesta"
+    },
+    {
+     "ru": "пого́да",
+     "it": "tempo atmosferico"
+    },
+    {
+     "ru": "до́ждь",
+     "it": "pioggia"
+    },
+    {
+     "ru": "тру́дный",
+     "it": "difficile"
+    },
+    {
+     "ru": "ду́мать",
+     "it": "pensare"
+    },
+    {
+     "ru": "е́хать",
+     "it": "andare con un mezzo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001084",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_sneg",
+   "w_solntse",
+   "w_shtorm",
+   "w_pogoda",
+   "w_dozhd"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сне́г",
+     "it": "neve"
+    },
+    {
+     "ru": "со́лнце",
+     "it": "sole"
+    },
+    {
+     "ru": "што́рм",
+     "it": "tempesta"
+    },
+    {
+     "ru": "пого́да",
+     "it": "tempo atmosferico"
+    },
+    {
+     "ru": "до́ждь",
+     "it": "pioggia"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001085",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "movimento",
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_sneg",
+   "w_idti",
+   "w_v",
+   "w_komnata",
+   "w_zharko"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Сне́г идёт?",
+     "it": "Sta nevicando?"
+    },
+    {
+     "ru": "В ко́мнате жа́рко.",
+     "it": "In camera c'è caldo."
+    },
+    {
+     "ru": "Идёт сне́г.",
+     "it": "Nevica."
+    },
+    {
+     "ru": "Вы́шло со́лнце.",
+     "it": "È uscito il sole."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001086",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_sneg",
+   "w_pogoda",
+   "w_solntse",
+   "w_v",
+   "w_pochemu",
+   "w_kakoy"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сне́г",
+     "it": "neve"
+    },
+    {
+     "ru": "пого́да",
+     "it": "tempo atmosferico"
+    },
+    {
+     "ru": "со́лнце",
+     "it": "sole"
+    },
+    {
+     "ru": "в",
+     "it": "in"
+    },
+    {
+     "ru": "почему́",
+     "it": "perché"
+    },
+    {
+     "ru": "како́й",
+     "it": "quale"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001087",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_idti",
+   "w_sneg"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Идёт сне́г.",
+   "translation_it": "Nevica.",
+   "accepted": [
+    "Идёт сне́г.",
+    "Идёт сне́г",
+    "Идёт снег.",
+    "Идёт снег",
+    "идёт снег.",
+    "идёт снег",
+    "идёт сне́г",
+    "Идет снег.",
+    "идет снег"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001088",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_shtorm"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "што́рм",
+   "translation_it": "tempesta",
+   "accepted": [
+    "што́рм",
+    "шторм"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001089",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_gde",
+   "w_dozhd"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Где́ до́ждь?",
+   "translation_it": "Dov'è la pioggia?",
+   "accepted": [
+    "Где́ до́ждь?",
+    "Где́ до́ждь",
+    "Где дождь?",
+    "Где дождь",
+    "где дождь?",
+    "где дождь",
+    "где́ до́ждь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001090",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_sneg"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "сне́г",
+   "translation_it": "neve",
+   "accepted": [
+    "сне́г",
+    "снег"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001091",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_kakoy",
+   "w_tam",
+   "w_pogoda"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Кака́я та́м пого́да?",
+   "translation_it": "Com'è il tempo lì?",
+   "accepted": [
+    "Кака́я та́м пого́да?",
+    "Кака́я та́м пого́да",
+    "Какая там погода?",
+    "Какая там погода",
+    "какая там погода?",
+    "какая там погода",
+    "кака́я та́м пого́да"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001092",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_pogoda"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "пого́да",
+   "translation_it": "tempo atmosferico",
+   "accepted": [
+    "пого́да",
+    "погода"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

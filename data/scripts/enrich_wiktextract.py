@@ -11,6 +11,7 @@ Uso: python3 -I data/scripts/enrich_wiktextract.py"""
 import collections, json, os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import *
+import qa_fixes
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(ROOT, "raw", "wiktextract")
@@ -64,7 +65,19 @@ _t("tempo-libero", "Hobbies|Games|Sports|Music|Entertainment|Theater|Recreation|
 _t("emozioni", "Emotions|Fear|Love|Laughter")
 
 
-TOPIC_OVERRIDES = {}  # riempito sotto, dopo la revisione
+# Correzioni manuali agli argomenti (revisione dopo il controllo del curriculum-writer: categorie Wiktionary troppo ampie)
+TOPIC_OVERRIDES = {
+    "w_voda": ["cibo-bevande"], "w_solntse": ["natura"], "w_pora": ["tempo"], "w_pora_noun": ["corpo"],
+    "w_nomer": ["numeri"], "w_dobryy_den": ["saluti"], "w_kafe": ["ristorante"], "w_doktor": ["lavoro"],
+    "w_paket": [], "w_mama": ["famiglia"],
+    "w_chelovek": ["persone"], "w_devushka": ["persone"], "w_nosok": ["abbigliamento"], "w_botinok": ["abbigliamento"],
+    "w_golova": ["corpo"], "w_zub": ["corpo"], "w_nos": ["corpo"], "w_plecho": ["corpo"], "w_grud": ["corpo"], "w_telo": ["corpo"],
+    "w_syn": ["famiglia"], "w_chas": ["tempo"], "w_zavtra": ["tempo"], "w_seychas": ["tempo"], "w_minuta": ["tempo"],
+    "w_skoro": ["tempo"], "w_obychno": ["tempo"], "w_vek": ["tempo"], "w_odnazhdy": ["tempo"], "w_chislo": ["numeri"],
+    "w_pervyy": ["numeri"], "w_vtoroy": ["numeri"], "w_napitok": ["cibo-bevande"], "w_salat": ["cibo-bevande"],
+    "w_stantsiya": ["trasporti"], "w_kvartira": ["casa"], "w_more": ["natura"], "w_yazyk": ["comunicazione"],
+    "w_nalevo": ["direzioni"], "w_nazad": ["direzioni"], "w_vperyod": ["direzioni"], "w_est": ["grammatica"], "w_ulitsa": ["luoghi"],
+}
 
 
 def has_acc(s):
@@ -392,6 +405,10 @@ def main():
             extras_att.append("traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA")
         w["attribution"] = att + "".join(" | " + x for x in extras_att)
 
+    qa_fixes.apply_word_fixes(order)
+    for w in order:
+        if w.get("it") and "Wikizionario" not in w["attribution"] and "qa-russian" not in w["attribution"]:
+            w["attribution"] += " | traduzione it: revisione del team (qa-russian)"
     for lvl, ws in words.items():
         json.dump(ws, open(os.path.join(WORDS, f"{lvl}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     os.makedirs(os.path.join(ROOT, "extra"), exist_ok=True)

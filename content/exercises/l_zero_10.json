@@ -1,0 +1,1257 @@
+[
+ {
+  "id": "e_000322",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_skolko"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ско́лько",
+   "answer": "quanto",
+   "accepted": [
+    "quanto",
+    "quanti"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000323",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_kofe",
+   "w_net"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Ко́фе нет.",
+   "answer": "Non c'è caffè.",
+   "accepted": [
+    "Non c'è caffè.",
+    "Non c'è caffè",
+    "non c'è caffè",
+    "non c'è caffè.",
+    "Non c'e' caffe'.",
+    "non c'e' caffe'",
+    "non c'e caffe"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000324",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_segodnya"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "oggi",
+   "answer": "сего́дня",
+   "accepted": [
+    "сего́дня",
+    "сегодня"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000325",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_skolko",
+   "w_on"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Quanto hanno?",
+   "answer": "Ско́лько и́м?",
+   "accepted": [
+    "Ско́лько и́м?",
+    "Ско́лько и́м",
+    "Сколько им?",
+    "Сколько им",
+    "сколько им?",
+    "сколько им",
+    "ско́лько и́м"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000326",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_ili"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "и́ли",
+   "answer": "o",
+   "accepted": [
+    "o"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000327",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_eto",
+   "w_on",
+   "w_ili",
+   "w_net"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Э́то о́н и́ли нет?",
+   "answer": "È lui o no?",
+   "accepted": [
+    "È lui o no?",
+    "È lui o no",
+    "è lui o no",
+    "è lui o no?",
+    "E' lui o no?",
+    "e' lui o no",
+    "e lui o no"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000328",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "tempo",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_potom"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "poi",
+   "answer": "пото́м",
+   "accepted": [
+    "пото́м",
+    "потом"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000329",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "tempo",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_segodnya",
+   "w_zharko"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Oggi fa caldo.",
+   "answer": "Сего́дня жа́рко.",
+   "accepted": [
+    "Сего́дня жа́рко.",
+    "Сего́дня жа́рко",
+    "Сегодня жарко.",
+    "Сегодня жарко",
+    "сегодня жарко.",
+    "сегодня жарко",
+    "сего́дня жа́рко"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000330",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_chto"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "И ___?",
+   "answer": "что́",
+   "accepted": [
+    "что́",
+    "что"
+   ],
+   "hint_it": "E quindi?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000331",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_on"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ско́лько ___?",
+   "answer": "и́м",
+   "accepted": [
+    "и́м",
+    "им"
+   ],
+   "hint_it": "Quanto hanno?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000332",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_chto"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ пото́м?",
+   "answer": "Что́",
+   "accepted": [
+    "Что́",
+    "Что",
+    "что",
+    "что́"
+   ],
+   "hint_it": "Cosa c'è dopo?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000333",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_ne"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ хо́лодно.",
+   "answer": "Не",
+   "accepted": [
+    "Не",
+    "не"
+   ],
+   "hint_it": "Non fa freddo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000334",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_on"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ско́лько ___?",
+   "answer": "ему́",
+   "accepted": [
+    "ему́",
+    "ему"
+   ],
+   "hint_it": "Quanto ha?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000335",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_net"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ко́фе ___.",
+   "answer": "нет",
+   "accepted": [
+    "нет"
+   ],
+   "hint_it": "Non c'è caffè."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000336",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "tempo",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_potom"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Что́ ___?",
+   "answer": "пото́м",
+   "accepted": [
+    "пото́м",
+    "потом"
+   ],
+   "hint_it": "Cosa c'è dopo?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000337",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_eshchyo",
+   "w_net"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Ещё нет.",
+   "options": [
+    "Non c'è caffè.",
+    "Cos'altro?",
+    "Nemmeno io.",
+    "Non ancora."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000338",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "tempo",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_potom"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «пото́м»?",
+   "options": [
+    "fa freddo",
+    "là",
+    "difficile",
+    "poi"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000339",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_chto",
+   "w_potom"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Cosa c'è dopo?",
+   "options": [
+    "Что́ э́то?",
+    "Что́ зде́сь?",
+    "Что́ пото́м?",
+    "И что́?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000340",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "tempo",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_potom"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «poi» in russo?",
+   "options": [
+    "сего́дня",
+    "пра́вильно",
+    "жа́рко",
+    "пото́м"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000341",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_chto",
+   "w_potom"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Что́ пото́м?",
+   "options": [
+    "Cosa c'è dopo?",
+    "Cosa c'è qui?",
+    "Cos'altro?",
+    "E quindi?"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000342",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_skolko"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «ско́лько»?",
+   "options": [
+    "altro",
+    "che cosa",
+    "chi",
+    "quanto"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000343",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_kofe",
+   "w_net"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Non c'è caffè.",
+   "options": [
+    "Ко́фе нет.",
+    "Ещё нет.",
+    "Э́то о́н и́ли нет?",
+    "Люблю́ ко́фе."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000344",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "tempo"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_segodnya",
+   "w_ne",
+   "w_i"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сего́дня",
+     "it": "oggi"
+    },
+    {
+     "ru": "не́",
+     "it": "non"
+    },
+    {
+     "ru": "и́",
+     "it": "e"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000345",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "mente",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_ne",
+   "w_khotet",
+   "w_skolko",
+   "w_on",
+   "w_stoit"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 40,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Не хочу́.",
+     "it": "Non voglio."
+    },
+    {
+     "ru": "Ско́лько и́м?",
+     "it": "Quanto hanno?"
+    },
+    {
+     "ru": "Ско́лько сто́ило?",
+     "it": "Quanto costava?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000346",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "saluti",
+   "tempo"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_ne",
+   "w_segodnya",
+   "w_i",
+   "w_oktyabr",
+   "w_po_russki",
+   "w_spasibo"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "не́",
+     "it": "non"
+    },
+    {
+     "ru": "сего́дня",
+     "it": "oggi"
+    },
+    {
+     "ru": "и́",
+     "it": "e"
+    },
+    {
+     "ru": "октя́брь",
+     "it": "ottobre"
+    },
+    {
+     "ru": "по-ру́сски",
+     "it": "in russo"
+    },
+    {
+     "ru": "спаси́бо",
+     "it": "grazie"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000347",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_ili",
+   "w_trudno",
+   "w_potom",
+   "w_skolko"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "и́ли",
+     "it": "o"
+    },
+    {
+     "ru": "тру́дно",
+     "it": "difficile"
+    },
+    {
+     "ru": "пото́м",
+     "it": "poi"
+    },
+    {
+     "ru": "ско́лько",
+     "it": "quanto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000348",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_i",
+   "w_chto",
+   "w_ya",
+   "w_net",
+   "w_chay"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "И что́?",
+     "it": "E quindi?"
+    },
+    {
+     "ru": "И я́ нет.",
+     "it": "Nemmeno io."
+    },
+    {
+     "ru": "Ча́й и́ли ко́фе?",
+     "it": "Tè o caffè?"
+    },
+    {
+     "ru": "Э́то о́н и́ли нет?",
+     "it": "È lui o no?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000349",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_skolko",
+   "w_i",
+   "w_potom",
+   "w_ya",
+   "w_voda",
+   "w_net"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ско́лько",
+     "it": "quanto"
+    },
+    {
+     "ru": "и́",
+     "it": "e"
+    },
+    {
+     "ru": "пото́м",
+     "it": "poi"
+    },
+    {
+     "ru": "я́",
+     "it": "io"
+    },
+    {
+     "ru": "вода́",
+     "it": "acqua"
+    },
+    {
+     "ru": "не́т",
+     "it": "no"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000350",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_zhit",
+   "w_my",
+   "w_trudno"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Жи́ли мы́ тру́дно.",
+   "translation_it": "Vivevamo tra gli stenti.",
+   "accepted": [
+    "Жи́ли мы́ тру́дно.",
+    "Жи́ли мы́ тру́дно",
+    "Жили мы трудно.",
+    "Жили мы трудно",
+    "жили мы трудно.",
+    "жили мы трудно",
+    "жи́ли мы́ тру́дно"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000351",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_skolko"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ско́лько",
+   "translation_it": "quanto",
+   "accepted": [
+    "ско́лько",
+    "сколько"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000352",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_skolko",
+   "w_on"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ско́лько и́м?",
+   "translation_it": "Quanto hanno?",
+   "accepted": [
+    "Ско́лько и́м?",
+    "Ско́лько и́м",
+    "Сколько им?",
+    "Сколько им",
+    "сколько им?",
+    "сколько им",
+    "ско́лько и́м"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000353",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_ili"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "и́ли",
+   "translation_it": "o",
+   "accepted": [
+    "и́ли",
+    "или"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000354",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_chay",
+   "w_ili",
+   "w_kofe"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ча́й и́ли ко́фе?",
+   "translation_it": "Tè o caffè?",
+   "accepted": [
+    "Ча́й и́ли ко́фе?",
+    "Ча́й и́ли ко́фе",
+    "Чай или кофе?",
+    "Чай или кофе",
+    "чай или кофе?",
+    "чай или кофе",
+    "ча́й и́ли ко́фе"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000355",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_trudno"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "тру́дно",
+   "translation_it": "difficile",
+   "accepted": [
+    "тру́дно",
+    "трудно"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000356",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_skolko",
+   "w_ona"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ско́лько е́й?",
+   "translation_it": "Quanto ha?",
+   "accepted": [
+    "Ско́лько е́й?",
+    "Ско́лько е́й",
+    "Сколько ей?",
+    "Сколько ей",
+    "сколько ей?",
+    "сколько ей",
+    "ско́лько е́й"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

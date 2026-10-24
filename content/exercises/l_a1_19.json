@@ -1,0 +1,1322 @@
+[
+ {
+  "id": "e_001133",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nikogda"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "никогда́",
+   "answer": "mai",
+   "accepted": [
+    "mai"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001134",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nichego",
+   "w_ne",
+   "w_vyyti"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Ничего́ не вы́йдет.",
+   "answer": "Non funzionerà.",
+   "accepted": [
+    "Non funzionerà.",
+    "Non funzionerà",
+    "non funzionerà",
+    "non funzionerà.",
+    "Non funzionera'.",
+    "non funzionera'",
+    "non funzionera"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001135",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "tempo",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_obychno"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "di solito",
+   "answer": "обы́чно",
+   "accepted": [
+    "обы́чно",
+    "обычно"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001136",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "tempo"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_kogda",
+   "w_nikogda"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "\"Quando?\" \"Mai.\"",
+   "answer": "\"Когда́?\" - \"Никогда́\".",
+   "accepted": [
+    "\"Когда́?\" - \"Никогда́\".",
+    "Когда́ - Никогда́",
+    "\"Когда?\" - \"Никогда\".",
+    "Когда - Никогда",
+    "\"когда?\" - \"никогда\".",
+    "когда - никогда",
+    "когда́ - никогда́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001137",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nikto"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "никто́",
+   "answer": "nessuno",
+   "accepted": [
+    "nessuno"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001138",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_dengi",
+   "w_nichto"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Де́ньги — ничто́.",
+   "answer": "I soldi non sono niente.",
+   "accepted": [
+    "I soldi non sono niente.",
+    "I soldi non sono niente",
+    "i soldi non sono niente",
+    "i soldi non sono niente."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001139",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nigde"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "da nessuna parte",
+   "answer": "нигде́",
+   "accepted": [
+    "нигде́",
+    "нигде"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001140",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_dengi",
+   "w_nichto"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "I soldi non sono niente.",
+   "answer": "Де́ньги — ничто́.",
+   "accepted": [
+    "Де́ньги — ничто́.",
+    "Де́ньги ничто́",
+    "Деньги — ничто.",
+    "Деньги ничто",
+    "деньги — ничто.",
+    "деньги ничто",
+    "де́ньги ничто́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001141",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "tempo",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nikogda",
+   "w_govorit"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Он ___ не говори́т.",
+   "answer": "никогда́",
+   "accepted": [
+    "никогда́",
+    "никогда"
+   ],
+   "hint_it": "Lui non parla mai."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001142",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "tempo",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_dengi"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ — ничто́.",
+   "answer": "Де́ньги",
+   "accepted": [
+    "Де́ньги",
+    "Деньги",
+    "деньги",
+    "де́ньги"
+   ],
+   "hint_it": "I soldi non sono niente."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001143",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nigde",
+   "w_zhit"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ не живу́.",
+   "answer": "нигде́",
+   "accepted": [
+    "нигде́",
+    "нигде"
+   ],
+   "hint_it": "Non vivo da nessuna parte."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001144",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_da"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ничего́!",
+   "answer": "Да",
+   "accepted": [
+    "Да",
+    "да"
+   ],
+   "hint_it": "Non fa niente!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001145",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "mente"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nichego",
+   "w_znat"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ не зна́ю.",
+   "answer": "ничего́",
+   "accepted": [
+    "ничего́",
+    "ничего"
+   ],
+   "hint_it": "Non so niente."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001146",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nichego"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Да ___!",
+   "answer": "ничего́",
+   "accepted": [
+    "ничего́",
+    "ничего"
+   ],
+   "hint_it": "Non fa niente!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001147",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "mente"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nikto",
+   "w_znat"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ не зна́ет.",
+   "answer": "Никто́",
+   "accepted": [
+    "Никто́",
+    "Никто",
+    "никто",
+    "никто́"
+   ],
+   "hint_it": "Nessuno sa."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001148",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_vsegda",
+   "w_rabotat"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la parola giusta (negazione doppia).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Он ___ рабо́тает. — Lui lavora sempre.",
+   "options": [
+    "нигде́",
+    "всегда́",
+    "иногда́",
+    "никогда́"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001149",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_inogda",
+   "w_eto",
+   "w_eshchyo",
+   "w_rabotat"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Иногда́ э́то ещё рабо́тает.",
+   "options": [
+    "È ancora più economico.",
+    "Funziona ancora a volte.",
+    "Questo è vostro figlio?",
+    "Sono dei bambini normali."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001150",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nichto"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «ничто́»?",
+   "options": [
+    "io",
+    "niente",
+    "lui",
+    "quanto"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001151",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_da",
+   "w_nichego"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Non fa niente!",
+   "options": [
+    "Да, понима́ю!",
+    "Ду́маю, да.",
+    "Да, я́ така́я.",
+    "Да ничего́!"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001152",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "tempo",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_obychno"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «di solito» in russo?",
+   "options": [
+    "бы́стро",
+    "обы́чно",
+    "о́чень",
+    "вку́сно"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001153",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_dengi",
+   "w_nichto"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Де́ньги — ничто́.",
+   "options": [
+    "La gente è senza soldi.",
+    "Tutti ci stanno andando.",
+    "I soldi non sono niente.",
+    "Da dove arrivano questi soldi?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001154",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "tempo",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_vsegda"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «всегда́»?",
+   "options": [
+    "correttamente",
+    "sempre",
+    "così",
+    "verso là"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001155",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "tempo"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nichto",
+   "w_nichego",
+   "w_obychno",
+   "w_nikto",
+   "w_nikogda"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ничто́",
+     "it": "niente"
+    },
+    {
+     "ru": "обы́чно",
+     "it": "di solito"
+    },
+    {
+     "ru": "никто́",
+     "it": "nessuno"
+    },
+    {
+     "ru": "никогда́",
+     "it": "mai"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001156",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_inogda",
+   "w_eto",
+   "w_eshchyo",
+   "w_rabotat",
+   "w_ya",
+   "w_vsegda"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Иногда́ э́то ещё рабо́тает.",
+     "it": "Funziona ancora a volte."
+    },
+    {
+     "ru": "Я́ всегда́ оди́н.",
+     "it": "Sono sempre solo."
+    },
+    {
+     "ru": "\"Когда́?\" - \"Никогда́\".",
+     "it": "\"Quando?\" \"Mai.\""
+    },
+    {
+     "ru": "Де́ньги — ничто́.",
+     "it": "I soldi non sono niente."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001157",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "tempo"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nikogda",
+   "w_nikto",
+   "w_nichto",
+   "w_noga",
+   "w_taksi",
+   "w_ruka"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "никогда́",
+     "it": "mai"
+    },
+    {
+     "ru": "никто́",
+     "it": "nessuno"
+    },
+    {
+     "ru": "ничто́",
+     "it": "niente"
+    },
+    {
+     "ru": "нога́",
+     "it": "gamba"
+    },
+    {
+     "ru": "такси́",
+     "it": "taxi"
+    },
+    {
+     "ru": "рука́",
+     "it": "mano"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001158",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "tempo"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_vsegda",
+   "w_nichto",
+   "w_obychno",
+   "w_nikogda"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "всегда́",
+     "it": "sempre"
+    },
+    {
+     "ru": "ничто́",
+     "it": "niente"
+    },
+    {
+     "ru": "обы́чно",
+     "it": "di solito"
+    },
+    {
+     "ru": "никогда́",
+     "it": "mai"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001159",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "tempo"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nikto",
+   "w_ne",
+   "w_bolet",
+   "w_ya",
+   "w_nikogda"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Никто́ не боле́л.",
+     "it": "Nessuno era malato."
+    },
+    {
+     "ru": "Я́ никогда́ не боле́ю.",
+     "it": "Non sto mai male."
+    },
+    {
+     "ru": "Ничего́ не вы́йдет.",
+     "it": "Non funzionerà."
+    },
+    {
+     "ru": "Да ничего́!",
+     "it": "Non fa niente!"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001160",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "mente",
+   "numeri"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nichego",
+   "w_nikto",
+   "w_nichto",
+   "w_ponimat",
+   "w_shest",
+   "w_normalnyy"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 37,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ничего́",
+     "it": "niente"
+    },
+    {
+     "ru": "никто́",
+     "it": "nessuno"
+    },
+    {
+     "ru": "понима́ть",
+     "it": "capire"
+    },
+    {
+     "ru": "ше́сть",
+     "it": "sei"
+    },
+    {
+     "ru": "норма́льный",
+     "it": "normale"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001161",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nigde",
+   "w_inogda",
+   "w_vsegda"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "нигде́",
+     "it": "da nessuna parte"
+    },
+    {
+     "ru": "иногда́",
+     "it": "a volte"
+    },
+    {
+     "ru": "всегда́",
+     "it": "sempre"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001162",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_inogda",
+   "w_eto",
+   "w_eshchyo",
+   "w_rabotat"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Иногда́ э́то ещё рабо́тает.",
+   "translation_it": "Funziona ancora a volte.",
+   "accepted": [
+    "Иногда́ э́то ещё рабо́тает.",
+    "Иногда́ э́то ещё рабо́тает",
+    "Иногда это ещё работает.",
+    "Иногда это ещё работает",
+    "иногда это ещё работает.",
+    "иногда это ещё работает",
+    "иногда́ э́то ещё рабо́тает",
+    "Иногда это еще работает.",
+    "иногда это еще работает"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001163",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "tempo",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_inogda"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "иногда́",
+   "translation_it": "a volte",
+   "accepted": [
+    "иногда́",
+    "иногда"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001164",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_dengi",
+   "w_nichto"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Де́ньги — ничто́.",
+   "translation_it": "I soldi non sono niente.",
+   "accepted": [
+    "Де́ньги — ничто́.",
+    "Де́ньги ничто́",
+    "Деньги — ничто.",
+    "Деньги ничто",
+    "деньги — ничто.",
+    "деньги ничто",
+    "де́ньги ничто́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001165",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nichego"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ничего́",
+   "translation_it": "niente",
+   "accepted": [
+    "ничего́",
+    "ничего"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001166",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "tempo"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_ya",
+   "w_nikogda",
+   "w_ne",
+   "w_bolet"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ никогда́ не боле́ю.",
+   "translation_it": "Non sto mai male.",
+   "accepted": [
+    "Я́ никогда́ не боле́ю.",
+    "Я́ никогда́ не боле́ю",
+    "Я никогда не болею.",
+    "Я никогда не болею",
+    "я никогда не болею.",
+    "я никогда не болею",
+    "я́ никогда́ не боле́ю"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001167",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_nichto"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ничто́",
+   "translation_it": "niente",
+   "accepted": [
+    "ничто́",
+    "ничто"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001168",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "negative-pronouns",
+   "frequency"
+  ],
+  "words": [
+   "w_ya",
+   "w_vsegda",
+   "w_odin"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ всегда́ оди́н.",
+   "translation_it": "Sono sempre solo.",
+   "accepted": [
+    "Я́ всегда́ оди́н.",
+    "Я́ всегда́ оди́н",
+    "Я всегда один.",
+    "Я всегда один",
+    "я всегда один.",
+    "я всегда один",
+    "я́ всегда́ оди́н"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

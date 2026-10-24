@@ -1,0 +1,1592 @@
+[
+ {
+  "id": "e_001275",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_prosto"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "про́сто",
+   "answer": "semplicemente",
+   "accepted": [
+    "semplicemente",
+    "solo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001276",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_eto",
+   "w_slishkom"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Э́то сли́шком!",
+   "answer": "Questo è troppo!",
+   "accepted": [
+    "Questo è troppo!",
+    "Questo è troppo",
+    "questo è troppo",
+    "questo è troppo!",
+    "Questo e' troppo!",
+    "questo e' troppo",
+    "questo e troppo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001277",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_slishkom"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "troppo",
+   "answer": "сли́шком",
+   "accepted": [
+    "сли́шком",
+    "слишком"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001278",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_togda",
+   "w_kto"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Allora chi?",
+   "answer": "Тогда́ кто́?",
+   "accepted": [
+    "Тогда́ кто́?",
+    "Тогда́ кто́",
+    "Тогда кто?",
+    "Тогда кто",
+    "тогда кто?",
+    "тогда кто",
+    "тогда́ кто́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001279",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_teper"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "тепе́рь",
+   "answer": "ora",
+   "accepted": [
+    "ora",
+    "adesso"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001280",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_togda",
+   "w_kto"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Тогда́ кто́?",
+   "answer": "Allora chi?",
+   "accepted": [
+    "Allora chi?",
+    "Allora chi",
+    "allora chi",
+    "allora chi?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001281",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_luchshe"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "meglio",
+   "answer": "лу́чше",
+   "accepted": [
+    "лу́чше",
+    "лучше"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001282",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_teper",
+   "w_luchshe"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Ora va meglio.",
+   "answer": "Тепе́рь лу́чше.",
+   "accepted": [
+    "Тепе́рь лу́чше.",
+    "Тепе́рь лу́чше",
+    "Теперь лучше.",
+    "Теперь лучше",
+    "теперь лучше.",
+    "теперь лучше",
+    "тепе́рь лу́чше"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001283",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_konechno"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "коне́чно",
+   "answer": "certo",
+   "accepted": [
+    "certo",
+    "naturalmente"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001284",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_eto",
+   "w_dazhe",
+   "w_plokhoy"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Э́то да́же ху́же!",
+   "answer": "È perfino peggio!",
+   "accepted": [
+    "È perfino peggio!",
+    "È perfino peggio",
+    "è perfino peggio",
+    "è perfino peggio!",
+    "E' perfino peggio!",
+    "e' perfino peggio",
+    "e perfino peggio"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001285",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_metro"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ уже́ в ___.",
+   "answer": "метро́",
+   "accepted": [
+    "метро́",
+    "метро"
+   ],
+   "hint_it": "Sono già in metro."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001286",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_skazat"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ \"пока́\"!",
+   "answer": "Скажи́",
+   "accepted": [
+    "Скажи́",
+    "Скажи",
+    "скажи",
+    "скажи́"
+   ],
+   "hint_it": "Di' \"ciao\"!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001287",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_teper"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ лу́чше.",
+   "answer": "Тепе́рь",
+   "accepted": [
+    "Тепе́рь",
+    "Теперь",
+    "теперь",
+    "тепе́рь"
+   ],
+   "hint_it": "Ora va meglio."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001288",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_pivo"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вот ___.",
+   "answer": "пи́во",
+   "accepted": [
+    "пи́во",
+    "пиво"
+   ],
+   "hint_it": "Ecco la birra."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001289",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_ty"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Сно́ва ___.",
+   "answer": "ты́",
+   "accepted": [
+    "ты́",
+    "ты"
+   ],
+   "hint_it": "Di nuovo tu."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001290",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_vot"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ оно́.",
+   "answer": "Вот",
+   "accepted": [
+    "Вот",
+    "вот"
+   ],
+   "hint_it": "Eccolo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001291",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_zharko"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Сли́шком ___.",
+   "answer": "жа́рко",
+   "accepted": [
+    "жа́рко",
+    "жарко"
+   ],
+   "hint_it": "È troppo caldo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001292",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_togda"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ кто́?",
+   "answer": "Тогда́",
+   "accepted": [
+    "Тогда́",
+    "Тогда",
+    "тогда",
+    "тогда́"
+   ],
+   "hint_it": "Allora chi?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001293",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_pyat"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Уже́ ___?",
+   "answer": "пя́ть",
+   "accepted": [
+    "пя́ть",
+    "пять"
+   ],
+   "hint_it": "Sono già le cinque?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001294",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_dazhe",
+   "w_my",
+   "w_chelovek"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Да́же мы́ - лю́ди.",
+   "options": [
+    "Perfino noi siamo persone.",
+    "Siamo qui da ottobre.",
+    "Siamo andati per qualche ora.",
+    "Abbiamo dei gatti."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001295",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_poka"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «пока́»?",
+   "options": [
+    "poi",
+    "ieri",
+    "bello",
+    "per ora"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001296",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_konechno",
+   "w_ya",
+   "w_ona",
+   "w_lyubit"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 20,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Certo che la amo.",
+   "options": [
+    "\"Приве́т\", - сказа́л я́.",
+    "Я́ иду́ к ва́м.",
+    "У меня́ боли́т нога́.",
+    "Коне́чно, я́ её люблю́."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001297",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_prosto"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «semplicemente» in russo?",
+   "options": [
+    "про́сто",
+    "зде́сь",
+    "напра́во",
+    "хо́лодно"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001298",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_luchshe",
+   "w_vy"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Лу́чше вы́.",
+   "options": [
+    "Voi parlate.",
+    "Meglio voi.",
+    "Di dove siete?",
+    "Così va meglio?"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001299",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_uzhe"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «уже́»?",
+   "options": [
+    "non",
+    "sì",
+    "già",
+    "perfino"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001300",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_luchshe",
+   "w_ty"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Meglio tu.",
+   "options": [
+    "Тебе́ нра́вится?",
+    "Тепе́рь лу́чше.",
+    "Ты́ мо́лод.",
+    "Лу́чше ты́."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001301",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_poka"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «per ora» in russo?",
+   "options": [
+    "где́",
+    "нале́во",
+    "пока́",
+    "то́же"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001302",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_dazhe",
+   "w_tak"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Да́же та́к!",
+   "options": [
+    "È così.",
+    "Così rapido!",
+    "Persino così!",
+    "Bene così."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001303",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_luchshe",
+   "w_konechno",
+   "w_dazhe",
+   "w_prosto"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "лу́чше",
+     "it": "meglio"
+    },
+    {
+     "ru": "коне́чно",
+     "it": "certo"
+    },
+    {
+     "ru": "да́же",
+     "it": "perfino"
+    },
+    {
+     "ru": "про́сто",
+     "it": "semplicemente"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001304",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_vot",
+   "w_on",
+   "w_prosto",
+   "w_nachat",
+   "w_snova",
+   "w_dazhe"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Вот о́н.",
+     "it": "Eccolo."
+    },
+    {
+     "ru": "Про́сто начни́ сно́ва.",
+     "it": "Semplicemente ricomincia."
+    },
+    {
+     "ru": "Да́же та́к!",
+     "it": "Persino così!"
+    },
+    {
+     "ru": "Уже́ пя́ть часо́в?",
+     "it": "Sono già le cinque?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001305",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_snova",
+   "w_slishkom",
+   "w_konechno",
+   "w_drugoy",
+   "w_vash",
+   "w_privet"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сно́ва",
+     "it": "di nuovo"
+    },
+    {
+     "ru": "сли́шком",
+     "it": "troppo"
+    },
+    {
+     "ru": "коне́чно",
+     "it": "certo"
+    },
+    {
+     "ru": "друго́й",
+     "it": "altro"
+    },
+    {
+     "ru": "ва́ш",
+     "it": "vostro"
+    },
+    {
+     "ru": "приве́т",
+     "it": "ciao"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001306",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_vot",
+   "w_togda",
+   "w_slishkom",
+   "w_teper"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "во́т",
+     "it": "ecco"
+    },
+    {
+     "ru": "тогда́",
+     "it": "allora"
+    },
+    {
+     "ru": "сли́шком",
+     "it": "troppo"
+    },
+    {
+     "ru": "тепе́рь",
+     "it": "ora"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001307",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "azioni",
+   "avverbi",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_nachat",
+   "w_snova",
+   "w_skazat",
+   "w_poka",
+   "w_uzhe",
+   "w_pyat"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Начни́ сно́ва.",
+     "it": "Comincia di nuovo."
+    },
+    {
+     "ru": "Скажи́ \"пока́\"!",
+     "it": "Di' \"ciao\"!"
+    },
+    {
+     "ru": "Уже́ пя́ть?",
+     "it": "Sono già le cinque?"
+    },
+    {
+     "ru": "Тогда́ кто́?",
+     "it": "Allora chi?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001308",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_pochti",
+   "w_konechno",
+   "w_teper",
+   "w_den",
+   "w_plokhoy",
+   "w_nichego"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "почти́",
+     "it": "quasi"
+    },
+    {
+     "ru": "коне́чно",
+     "it": "certo"
+    },
+    {
+     "ru": "тепе́рь",
+     "it": "ora"
+    },
+    {
+     "ru": "де́нь",
+     "it": "giorno"
+    },
+    {
+     "ru": "плохо́й",
+     "it": "cattivo"
+    },
+    {
+     "ru": "ничего́",
+     "it": "niente"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001309",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_snova",
+   "w_poka",
+   "w_pochti",
+   "w_uzhe"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сно́ва",
+     "it": "di nuovo"
+    },
+    {
+     "ru": "пока́",
+     "it": "per ora"
+    },
+    {
+     "ru": "почти́",
+     "it": "quasi"
+    },
+    {
+     "ru": "уже́",
+     "it": "già"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001310",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_poka",
+   "w_net",
+   "w_eto",
+   "w_dazhe",
+   "w_plokhoy",
+   "w_ya"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Пока́ нет.",
+     "it": "Non ancora."
+    },
+    {
+     "ru": "Э́то да́же ху́же!",
+     "it": "È perfino peggio!"
+    },
+    {
+     "ru": "Я́ уже́ в метро́.",
+     "it": "Sono già in metro."
+    },
+    {
+     "ru": "Вот оно́.",
+     "it": "Eccolo."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001311",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_konechno",
+   "w_ya",
+   "w_ona",
+   "w_lyubit"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Коне́чно, я́ её люблю́.",
+   "translation_it": "Certo che la amo.",
+   "accepted": [
+    "Коне́чно, я́ её люблю́.",
+    "Коне́чно я́ её люблю́",
+    "Конечно, я её люблю.",
+    "Конечно я её люблю",
+    "конечно, я её люблю.",
+    "конечно я её люблю",
+    "коне́чно я́ её люблю́",
+    "Конечно, я ее люблю.",
+    "конечно я ее люблю"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001312",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_teper"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "тепе́рь",
+   "translation_it": "ora",
+   "accepted": [
+    "тепе́рь",
+    "теперь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001313",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_dazhe",
+   "w_my",
+   "w_chelovek"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Да́же мы́ - лю́ди.",
+   "translation_it": "Perfino noi siamo persone.",
+   "accepted": [
+    "Да́же мы́ - лю́ди.",
+    "Да́же мы́ - лю́ди",
+    "Даже мы - люди.",
+    "Даже мы - люди",
+    "даже мы - люди.",
+    "даже мы - люди",
+    "да́же мы́ - лю́ди"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001314",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_togda"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "тогда́",
+   "translation_it": "allora",
+   "accepted": [
+    "тогда́",
+    "тогда"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001315",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_vot",
+   "w_on"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вот о́н.",
+   "translation_it": "Eccolo.",
+   "accepted": [
+    "Вот о́н.",
+    "Вот о́н",
+    "Вот он.",
+    "Вот он",
+    "вот он.",
+    "вот он",
+    "вот о́н"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001316",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_pochti"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "почти́",
+   "translation_it": "quasi",
+   "accepted": [
+    "почти́",
+    "почти"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001317",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_vot",
+   "w_ono"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вот оно́.",
+   "translation_it": "Eccolo.",
+   "accepted": [
+    "Вот оно́.",
+    "Вот оно́",
+    "Вот оно.",
+    "Вот оно",
+    "вот оно.",
+    "вот оно",
+    "вот оно́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001318",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_luchshe"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "лу́чше",
+   "translation_it": "meglio",
+   "accepted": [
+    "лу́чше",
+    "лучше"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001319",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_skazat",
+   "w_poka"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Скажи́ \"пока́\"!",
+   "translation_it": "Di' \"ciao\"!",
+   "accepted": [
+    "Скажи́ \"пока́\"!",
+    "Скажи́ пока́",
+    "Скажи \"пока\"!",
+    "Скажи пока",
+    "скажи \"пока\"!",
+    "скажи пока",
+    "скажи́ пока́"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

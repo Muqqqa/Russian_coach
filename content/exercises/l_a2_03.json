@@ -1,0 +1,1427 @@
+[
+ {
+  "id": "e_001470",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_rasskazyvat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "расска́зывать",
+   "answer": "raccontare",
+   "accepted": [
+    "raccontare"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001471",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_ya",
+   "w_ty",
+   "w_rasskazat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ тебе́ расскажу́.",
+   "answer": "Te lo racconterò.",
+   "accepted": [
+    "Te lo racconterò.",
+    "Te lo racconterò",
+    "te lo racconterò",
+    "te lo racconterò.",
+    "Te lo raccontero'.",
+    "te lo raccontero'",
+    "te lo raccontero",
+    "Io te lo racconterò.",
+    "Io te lo racconterò",
+    "io te lo racconterò",
+    "io te lo racconterò.",
+    "Io te lo raccontero'.",
+    "io te lo raccontero'",
+    "io te lo raccontero"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001472",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_napisat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "scrivere",
+   "answer": "написа́ть",
+   "accepted": [
+    "написа́ть",
+    "написать",
+    "писа́ть",
+    "писать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001473",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "comunicazione",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_ya",
+   "w_pisat",
+   "w_pismo"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Sto scrivendo una lettera.",
+   "answer": "Я́ пишу́ письмо́.",
+   "accepted": [
+    "Я́ пишу́ письмо́.",
+    "Я́ пишу́ письмо́",
+    "Я пишу письмо.",
+    "Я пишу письмо",
+    "я пишу письмо.",
+    "я пишу письмо",
+    "я́ пишу́ письмо́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001474",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_rasskazat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "рассказа́ть",
+   "answer": "raccontare",
+   "accepted": [
+    "raccontare"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001475",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_sdelat",
+   "w_kofe"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Сде́лайте ко́фе.",
+   "answer": "Fate un caffè.",
+   "accepted": [
+    "Fate un caffè.",
+    "Fate un caffè",
+    "fate un caffè",
+    "fate un caffè.",
+    "Fate un caffe'.",
+    "fate un caffe'",
+    "fate un caffe"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001476",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_posmotret"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "guardare",
+   "answer": "посмотре́ть",
+   "accepted": [
+    "посмотре́ть",
+    "посмотреть",
+    "смотре́ть",
+    "смотреть"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001477",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_devushka",
+   "w_pisat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "La ragazza sta scrivendo.",
+   "answer": "Де́вушка пи́шет.",
+   "accepted": [
+    "Де́вушка пи́шет.",
+    "Де́вушка пи́шет",
+    "Девушка пишет.",
+    "Девушка пишет",
+    "девушка пишет.",
+    "девушка пишет",
+    "де́вушка пи́шет",
+    "Де́вочка пи́шет.",
+    "Де́вочка пи́шет",
+    "Девочка пишет.",
+    "Девочка пишет",
+    "девочка пишет.",
+    "девочка пишет",
+    "де́вочка пи́шет"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001478",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_pisat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "писа́ть",
+   "answer": "scrivere",
+   "accepted": [
+    "scrivere"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001479",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective",
+   "verbs-present"
+  ],
+  "words": [
+   "w_sprashivat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Они́ ___ (спра́шивать).",
+   "answer": "спра́шивают",
+   "accepted": [
+    "спра́шивают",
+    "спрашивают"
+   ],
+   "hint_it": "chiedere: loro"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001480",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_devushka"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ пи́шет.",
+   "answer": "Де́вушка",
+   "accepted": [
+    "Де́вушка",
+    "Девушка",
+    "девушка",
+    "де́вушка"
+   ],
+   "hint_it": "La ragazza sta scrivendo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001481",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective",
+   "past-tense"
+  ],
+  "words": [
+   "w_delat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вчера́ он ___ (де́лать).",
+   "answer": "де́лал",
+   "accepted": [
+    "де́лал",
+    "делал"
+   ],
+   "hint_it": "fare (ieri): lui"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001482",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_chto"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ о́н де́лает?",
+   "answer": "Что́",
+   "accepted": [
+    "Что́",
+    "Что",
+    "что",
+    "что́"
+   ],
+   "hint_it": "Che cosa sta facendo?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001483",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective",
+   "verbs-present"
+  ],
+  "words": [
+   "w_pisat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Он ___ (писа́ть).",
+   "answer": "пи́шет",
+   "accepted": [
+    "пи́шет",
+    "пишет"
+   ],
+   "hint_it": "scrivere: lui"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001484",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_delat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Что́ ___?",
+   "answer": "де́лать",
+   "accepted": [
+    "де́лать",
+    "делать"
+   ],
+   "hint_it": "Che fare?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001485",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective",
+   "past-tense"
+  ],
+  "words": [
+   "w_delat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вчера́ она́ ___ (де́лать).",
+   "answer": "де́лала",
+   "accepted": [
+    "де́лала",
+    "делала"
+   ],
+   "hint_it": "fare (ieri): lei"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001486",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_plokho"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ пишу́.",
+   "answer": "пло́хо",
+   "accepted": [
+    "пло́хо",
+    "плохо"
+   ],
+   "hint_it": "Scrivo male."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001487",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_rasskazyvat",
+   "w_rasskazat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma verbale giusta (aspetto).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ ___ ему́ ис́торию. — Gli sto raccontando una storia. - La racconto adesso, in corso.",
+   "options": [
+    "расска́зывал",
+    "расска́зываю",
+    "расскажу́",
+    "рассказа́л"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001488",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_on",
+   "w_otvetit"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "О́н и́м отве́тил.",
+   "options": [
+    "Lui ha risposto loro.",
+    "Ho chiesto a lui.",
+    "Gli piace la birra?",
+    "Lui mi sta insegnando."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001489",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_rasskazat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «рассказа́ть»?",
+   "options": [
+    "raccontare",
+    "essere malato",
+    "cercare",
+    "trovare"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001490",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_seychas",
+   "w_sdelat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Lo faccio subito.",
+   "options": [
+    "Сде́лаем э́то.",
+    "Сейча́с ча́с дня.",
+    "Сейча́с ча́с.",
+    "Сейча́с сде́лаю."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001491",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective",
+   "past-tense"
+  ],
+  "words": [
+   "w_posmotret"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma del passato giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вчера́ она́ ___ (посмотре́ть). — guardare (ieri): lei",
+   "options": [
+    "посмотре́ла",
+    "посмотре́л",
+    "посмотре́ли"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001492",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_ya",
+   "w_napisat",
+   "w_eto"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ написа́л э́то.",
+   "options": [
+    "Ho sete.",
+    "Sono dei bambini normali.",
+    "Ho scritto questo.",
+    "Questo posto è vuoto?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001493",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_rasskazyvat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «расска́зывать»?",
+   "options": [
+    "potere",
+    "costare",
+    "raccontare",
+    "trovare"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001494",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_on",
+   "w_otvetit"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Lui ha risposto loro.",
+   "options": [
+    "О́н и́м отве́тил.",
+    "Чем о́н пи́шет?",
+    "Э́то его́ ве́щи.",
+    "Его́ нашёл я́."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001495",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_sdelat",
+   "w_rasskazyvat",
+   "w_posmotret",
+   "w_otvechat",
+   "w_otvetit"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сде́лать",
+     "it": "fare"
+    },
+    {
+     "ru": "расска́зывать",
+     "it": "raccontare"
+    },
+    {
+     "ru": "посмотре́ть",
+     "it": "guardare"
+    },
+    {
+     "ru": "отвеча́ть",
+     "it": "rispondere"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001496",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_sdelat",
+   "w_kofe",
+   "w_ya",
+   "w_ty",
+   "w_rasskazat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Сде́лай ко́фе.",
+     "it": "Fai il caffè."
+    },
+    {
+     "ru": "Я́ тебе́ расскажу́.",
+     "it": "Te lo racconterò."
+    },
+    {
+     "ru": "Сде́лаем э́то.",
+     "it": "Facciamolo."
+    },
+    {
+     "ru": "Сейча́с сде́лаю.",
+     "it": "Lo faccio subito."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001497",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "azioni",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_otvetit",
+   "w_delat",
+   "w_otvechat",
+   "w_klub",
+   "w_raz",
+   "w_obychno"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 37,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "отве́тить",
+     "it": "rispondere"
+    },
+    {
+     "ru": "де́лать",
+     "it": "fare"
+    },
+    {
+     "ru": "клу́б",
+     "it": "club"
+    },
+    {
+     "ru": "ра́з",
+     "it": "volta"
+    },
+    {
+     "ru": "обы́чно",
+     "it": "di solito"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001498",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_posmotret",
+   "w_napisat",
+   "w_otvetit",
+   "w_delat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "посмотре́ть",
+     "it": "guardare"
+    },
+    {
+     "ru": "написа́ть",
+     "it": "scrivere"
+    },
+    {
+     "ru": "отве́тить",
+     "it": "rispondere"
+    },
+    {
+     "ru": "де́лать",
+     "it": "fare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001499",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_papa",
+   "w_ne",
+   "w_rasskazyvat",
+   "w_otvetit",
+   "w_ya",
+   "w_on"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Па́пе не расска́зывайте.",
+     "it": "Non ditelo a vostro papà."
+    },
+    {
+     "ru": "Отве́ть мне́.",
+     "it": "Rispondimi."
+    },
+    {
+     "ru": "О́н и́м отве́тил.",
+     "it": "Lui ha risposto loro."
+    },
+    {
+     "ru": "Де́вушка пи́шет.",
+     "it": "La ragazza sta scrivendo."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001500",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "tempo",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_napisat",
+   "w_otvechat",
+   "w_sprashivat",
+   "w_salat",
+   "w_nikogda",
+   "w_chto"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "написа́ть",
+     "it": "scrivere"
+    },
+    {
+     "ru": "отвеча́ть",
+     "it": "rispondere"
+    },
+    {
+     "ru": "спра́шивать",
+     "it": "chiedere"
+    },
+    {
+     "ru": "сала́т",
+     "it": "insalata"
+    },
+    {
+     "ru": "никогда́",
+     "it": "mai"
+    },
+    {
+     "ru": "что́",
+     "it": "che cosa"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001501",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_delat",
+   "w_napisat",
+   "w_sprashivat",
+   "w_pisat",
+   "w_rasskazat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "де́лать",
+     "it": "fare"
+    },
+    {
+     "ru": "написа́ть",
+     "it": "scrivere"
+    },
+    {
+     "ru": "спра́шивать",
+     "it": "chiedere"
+    },
+    {
+     "ru": "рассказа́ть",
+     "it": "raccontare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001502",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_sdelat",
+   "w_kofe"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Сде́лай ко́фе.",
+   "translation_it": "Fai il caffè.",
+   "accepted": [
+    "Сде́лай ко́фе.",
+    "Сде́лай ко́фе",
+    "Сделай кофе.",
+    "Сделай кофе",
+    "сделай кофе.",
+    "сделай кофе",
+    "сде́лай ко́фе"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001503",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_sdelat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "сде́лать",
+   "translation_it": "fare",
+   "accepted": [
+    "сде́лать",
+    "сделать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001504",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_ya",
+   "w_plokho",
+   "w_pisat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ пло́хо пишу́?",
+   "translation_it": "Scrivo male?",
+   "accepted": [
+    "Я́ пло́хо пишу́?",
+    "Я́ пло́хо пишу́",
+    "Я плохо пишу?",
+    "Я плохо пишу",
+    "я плохо пишу?",
+    "я плохо пишу",
+    "я́ пло́хо пишу́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001505",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_rasskazyvat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "расска́зывать",
+   "translation_it": "raccontare",
+   "accepted": [
+    "расска́зывать",
+    "рассказывать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001506",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_posmotret",
+   "w_v",
+   "w_okno"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Посмотри́ в окно́.",
+   "translation_it": "Guarda fuori dalla finestra.",
+   "accepted": [
+    "Посмотри́ в окно́.",
+    "Посмотри́ в окно́",
+    "Посмотри в окно.",
+    "Посмотри в окно",
+    "посмотри в окно.",
+    "посмотри в окно",
+    "посмотри́ в окно́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001507",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_otvechat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "отвеча́ть",
+   "translation_it": "rispondere",
+   "accepted": [
+    "отвеча́ть",
+    "отвечать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001508",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_ya",
+   "w_delat",
+   "w_eto",
+   "w_kazhdyy",
+   "w_nedelya"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 30,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ де́лаю э́то ка́ждую неде́лю.",
+   "translation_it": "Faccio questo ogni settimana.",
+   "accepted": [
+    "Я́ де́лаю э́то ка́ждую неде́лю.",
+    "Я́ де́лаю э́то ка́ждую неде́лю",
+    "Я делаю это каждую неделю.",
+    "Я делаю это каждую неделю",
+    "я делаю это каждую неделю.",
+    "я делаю это каждую неделю",
+    "я́ де́лаю э́то ка́ждую неде́лю"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001509",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "aspect",
+   "future-perfective"
+  ],
+  "words": [
+   "w_sprashivat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "спра́шивать",
+   "translation_it": "chiedere",
+   "accepted": [
+    "спра́шивать",
+    "спрашивать"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

@@ -1,0 +1,1429 @@
+[
+ {
+  "id": "e_000633",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_khoroshiy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "хоро́ший",
+   "answer": "buono",
+   "accepted": [
+    "buono"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000634",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_vy",
+   "w_umnyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Вы́ у́мный.",
+   "answer": "Lei è intelligente.",
+   "accepted": [
+    "Lei è intelligente.",
+    "Lei è intelligente",
+    "lei è intelligente",
+    "lei è intelligente.",
+    "Lei e' intelligente.",
+    "lei e' intelligente",
+    "lei e intelligente",
+    "Voi lei è intelligente.",
+    "Voi lei è intelligente",
+    "voi lei è intelligente",
+    "voi lei è intelligente.",
+    "Voi lei e' intelligente.",
+    "voi lei e' intelligente",
+    "voi lei e intelligente"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000635",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_umnyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "intelligente",
+   "answer": "у́мный",
+   "accepted": [
+    "у́мный",
+    "умный"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000636",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_ya",
+   "w_plokhoy",
+   "w_chelovek"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Io sono una brutta persona.",
+   "answer": "Я́ плохо́й челове́к.",
+   "accepted": [
+    "Я́ плохо́й челове́к.",
+    "Я́ плохо́й челове́к",
+    "Я плохой человек.",
+    "Я плохой человек",
+    "я плохой человек.",
+    "я плохой человек",
+    "я́ плохо́й челове́к"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000637",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_krasivyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "краси́вый",
+   "answer": "bello",
+   "accepted": [
+    "bello"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000638",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_ya",
+   "w_golodnyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ голо́дная!",
+   "answer": "Ho fame!",
+   "accepted": [
+    "Ho fame!",
+    "Ho fame",
+    "ho fame",
+    "ho fame!",
+    "Io ho fame!",
+    "Io ho fame",
+    "io ho fame",
+    "io ho fame!"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000639",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_dorogoy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "caro",
+   "answer": "дорого́й",
+   "accepted": [
+    "дорого́й",
+    "дорогой"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000640",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_ya",
+   "w_ne",
+   "w_staryy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Non sono vecchia.",
+   "answer": "Я́ не ста́рая.",
+   "accepted": [
+    "Я́ не ста́рая.",
+    "Я́ не ста́рая",
+    "Я не старая.",
+    "Я не старая",
+    "я не старая.",
+    "я не старая",
+    "я́ не ста́рая"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000641",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "soldi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_deshyovyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "дешёвый",
+   "answer": "economico",
+   "accepted": [
+    "economico"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000642",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_novyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вода́.",
+   "answer": "но́вая",
+   "accepted": [
+    "но́вая",
+    "новая"
+   ],
+   "hint_it": "nuovo: concorda con «acqua» (femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000643",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_umnyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вы́ ___.",
+   "answer": "у́мная",
+   "accepted": [
+    "у́мная",
+    "умная"
+   ],
+   "hint_it": "Sei intelligente."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000644",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_molodoy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ до́м.",
+   "answer": "молодо́й",
+   "accepted": [
+    "молодо́й",
+    "молодой"
+   ],
+   "hint_it": "giovane: concorda con «casa» (maschile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000645",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_ty"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ хоро́шая.",
+   "answer": "Ты́",
+   "accepted": [
+    "Ты́",
+    "Ты",
+    "ты",
+    "ты́"
+   ],
+   "hint_it": "Sei buona."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000646",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "soldi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_deshyovyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вино́.",
+   "answer": "дешёвое",
+   "accepted": [
+    "дешёвое",
+    "дешевое"
+   ],
+   "hint_it": "economico: concorda con «vino» (neutro)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000647",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_golodnyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___!",
+   "answer": "голо́дная",
+   "accepted": [
+    "голо́дная",
+    "голодная"
+   ],
+   "hint_it": "Ho fame!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000648",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_khoroshiy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ дома́.",
+   "answer": "хоро́шие",
+   "accepted": [
+    "хоро́шие",
+    "хорошие"
+   ],
+   "hint_it": "buono: concorda con «case» (plurale)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000649",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_staryy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "О́н ___.",
+   "answer": "ста́рый",
+   "accepted": [
+    "ста́рый",
+    "старый"
+   ],
+   "hint_it": "È vecchio."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000650",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "soldi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_deshyovyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «дешёвый» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ вода́. — economico: concorda con «acqua» (femminile).",
+   "options": [
+    "дешёвые",
+    "дешёвая",
+    "дешёвый",
+    "дешёвое"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000651",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_ty",
+   "w_khoroshiy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Ты́ хоро́шая.",
+   "options": [
+    "Bel lavoro!",
+    "Sei buona.",
+    "Sei padre?",
+    "Parli russo?"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000652",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_umnyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «у́мный»?",
+   "options": [
+    "intelligente",
+    "nuovo",
+    "affamato",
+    "buono"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000653",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_sobaka",
+   "w_bolshoy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Il cane è grande.",
+   "options": [
+    "Большо́е спаси́бо!",
+    "Соба́ка больша́я.",
+    "Не хочу́!",
+    "Е́й пя́ть."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000654",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_novyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «nuovo» in russo?",
+   "options": [
+    "хоро́ший",
+    "голо́дный",
+    "но́вый",
+    "молодо́й"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000655",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_dorogoy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «дорого́й» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ вода́. — caro: concorda con «acqua» (femminile).",
+   "options": [
+    "дорога́я",
+    "дороги́е",
+    "дорого́е",
+    "дорого́й"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000656",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_vy",
+   "w_umnyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вы́ у́мная.",
+   "options": [
+    "Può.",
+    "Sei intelligente.",
+    "Siete amici?",
+    "Sono brillante."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000657",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_staryy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «ста́рый»?",
+   "options": [
+    "giovane",
+    "piccolo",
+    "cattivo",
+    "vecchio"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000658",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_dorogoy",
+   "w_molodoy",
+   "w_staryy",
+   "w_krasivyy",
+   "w_golodnyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "дорого́й",
+     "it": "caro"
+    },
+    {
+     "ru": "молодо́й",
+     "it": "giovane"
+    },
+    {
+     "ru": "ста́рый",
+     "it": "vecchio"
+    },
+    {
+     "ru": "краси́вый",
+     "it": "bello"
+    },
+    {
+     "ru": "голо́дный",
+     "it": "affamato"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000659",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_vy",
+   "w_umnyy",
+   "w_ona",
+   "w_staryy",
+   "w_ya",
+   "w_plokhoy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Вы́ у́мный.",
+     "it": "Lei è intelligente."
+    },
+    {
+     "ru": "Она́ ста́рая!",
+     "it": "È vecchia!"
+    },
+    {
+     "ru": "Я́ плохо́й челове́к.",
+     "it": "Io sono una brutta persona."
+    },
+    {
+     "ru": "Я́ краси́вый.",
+     "it": "Sono bello."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000660",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_molodoy",
+   "w_novyy",
+   "w_plokhoy",
+   "w_sestra",
+   "w_u",
+   "w_syn"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "молодо́й",
+     "it": "giovane"
+    },
+    {
+     "ru": "но́вый",
+     "it": "nuovo"
+    },
+    {
+     "ru": "плохо́й",
+     "it": "cattivo"
+    },
+    {
+     "ru": "сестра́",
+     "it": "sorella"
+    },
+    {
+     "ru": "у́",
+     "it": "presso"
+    },
+    {
+     "ru": "сы́н",
+     "it": "figlio"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000661",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_umnyy",
+   "w_plokhoy",
+   "w_khoroshiy",
+   "w_deshyovyy",
+   "w_golodnyy",
+   "w_staryy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 42,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "у́мный",
+     "it": "intelligente"
+    },
+    {
+     "ru": "плохо́й",
+     "it": "cattivo"
+    },
+    {
+     "ru": "хоро́ший",
+     "it": "buono"
+    },
+    {
+     "ru": "дешёвый",
+     "it": "economico"
+    },
+    {
+     "ru": "голо́дный",
+     "it": "affamato"
+    },
+    {
+     "ru": "ста́рый",
+     "it": "vecchio"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000662",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_eda",
+   "w_dorogoy",
+   "w_sobaka",
+   "w_bolshoy",
+   "w_ya",
+   "w_ne"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Еда́ дорога́я.",
+     "it": "Il cibo è costoso."
+    },
+    {
+     "ru": "Соба́ка больша́я.",
+     "it": "Il cane è grande."
+    },
+    {
+     "ru": "Я́ не ста́рая.",
+     "it": "Non sono vecchia."
+    },
+    {
+     "ru": "Я́ хоро́ший.",
+     "it": "Io sono buono."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000663",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "soldi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_krasivyy",
+   "w_plokhoy",
+   "w_deshyovyy",
+   "w_devyat",
+   "w_nash",
+   "w_chas"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "краси́вый",
+     "it": "bello"
+    },
+    {
+     "ru": "плохо́й",
+     "it": "cattivo"
+    },
+    {
+     "ru": "дешёвый",
+     "it": "economico"
+    },
+    {
+     "ru": "де́вять",
+     "it": "nove"
+    },
+    {
+     "ru": "на́ш",
+     "it": "nostro"
+    },
+    {
+     "ru": "ча́с",
+     "it": "ora"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000664",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_deshyovyy",
+   "w_khoroshiy",
+   "w_novyy",
+   "w_plokhoy",
+   "w_umnyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "дешёвый",
+     "it": "economico"
+    },
+    {
+     "ru": "хоро́ший",
+     "it": "buono"
+    },
+    {
+     "ru": "но́вый",
+     "it": "nuovo"
+    },
+    {
+     "ru": "плохо́й",
+     "it": "cattivo"
+    },
+    {
+     "ru": "у́мный",
+     "it": "intelligente"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000665",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_dorogoy",
+   "w_drug"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Дороги́е друзья́!",
+   "translation_it": "Cari amici!",
+   "accepted": [
+    "Дороги́е друзья́!",
+    "Дороги́е друзья́",
+    "Дорогие друзья!",
+    "Дорогие друзья",
+    "дорогие друзья!",
+    "дорогие друзья",
+    "дороги́е друзья́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000666",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_molodoy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "молодо́й",
+   "translation_it": "giovane",
+   "accepted": [
+    "молодо́й",
+    "молодой"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000667",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_vremya",
+   "w_dorogoy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вре́мя до́рого.",
+   "translation_it": "Il tempo è prezioso.",
+   "accepted": [
+    "Вре́мя до́рого.",
+    "Вре́мя до́рого",
+    "Время дорого.",
+    "Время дорого",
+    "время дорого.",
+    "время дорого",
+    "вре́мя до́рого"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000668",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_krasivyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "краси́вый",
+   "translation_it": "bello",
+   "accepted": [
+    "краси́вый",
+    "красивый"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000669",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_khoroshiy",
+   "w_rabota"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Хоро́шая рабо́та!",
+   "translation_it": "Bel lavoro!",
+   "accepted": [
+    "Хоро́шая рабо́та!",
+    "Хоро́шая рабо́та",
+    "Хорошая работа!",
+    "Хорошая работа",
+    "хорошая работа!",
+    "хорошая работа",
+    "хоро́шая рабо́та"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000670",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_novyy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "но́вый",
+   "translation_it": "nuovo",
+   "accepted": [
+    "но́вый",
+    "новый"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000671",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_ya",
+   "w_khoroshiy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ хоро́ший.",
+   "translation_it": "Io sono buono.",
+   "accepted": [
+    "Я́ хоро́ший.",
+    "Я́ хоро́ший",
+    "Я хороший.",
+    "Я хороший",
+    "я хороший.",
+    "я хороший",
+    "я́ хоро́ший"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000672",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "agreement"
+  ],
+  "words": [
+   "w_staryy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ста́рый",
+   "translation_it": "vecchio",
+   "accepted": [
+    "ста́рый",
+    "старый"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

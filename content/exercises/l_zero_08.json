@@ -1,0 +1,1256 @@
+[
+ {
+  "id": "e_000252",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_dver"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "две́рь",
+   "answer": "porta",
+   "accepted": [
+    "porta",
+    "la porta",
+    "una porta"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000253",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Э́то лю́ди.",
+   "answer": "Queste sono persone.",
+   "accepted": [
+    "Queste sono persone.",
+    "Queste sono persone",
+    "queste sono persone",
+    "queste sono persone."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000254",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_dver"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "porta",
+   "answer": "две́рь",
+   "accepted": [
+    "две́рь",
+    "дверь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000255",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_my",
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Siamo persone.",
+   "answer": "Мы́ лю́ди.",
+   "accepted": [
+    "Мы́ лю́ди.",
+    "Мы́ лю́ди",
+    "Мы люди.",
+    "Мы люди",
+    "мы люди.",
+    "мы люди",
+    "мы́ лю́ди"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000256",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_rabota"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "рабо́та",
+   "answer": "lavoro",
+   "accepted": [
+    "lavoro",
+    "il lavoro",
+    "un lavoro"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000257",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_ya",
+   "w_zhenshchina"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ же́нщина.",
+   "answer": "Sono una donna.",
+   "accepted": [
+    "Sono una donna.",
+    "Sono una donna",
+    "sono una donna",
+    "sono una donna.",
+    "Io sono una donna.",
+    "Io sono una donna",
+    "io sono una donna",
+    "io sono una donna."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000258",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola",
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "persona",
+   "answer": "челове́к",
+   "accepted": [
+    "челове́к",
+    "человек"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000259",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_voda"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Questa è acqua.",
+   "answer": "Э́то вода́.",
+   "accepted": [
+    "Э́то вода́.",
+    "Э́то вода́",
+    "Это вода.",
+    "Это вода",
+    "это вода.",
+    "это вода",
+    "э́то вода́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000260",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ её де́вушка.",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "Questa è la sua ragazza."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000261",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola",
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___.",
+   "answer": "челове́к",
+   "accepted": [
+    "челове́к",
+    "человек"
+   ],
+   "hint_it": "Io sono umano."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000262",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_my"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ лю́ди.",
+   "answer": "Мы́",
+   "accepted": [
+    "Мы́",
+    "Мы",
+    "мы",
+    "мы́"
+   ],
+   "hint_it": "Siamo persone."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000263",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola",
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Мы́ ___.",
+   "answer": "лю́ди",
+   "accepted": [
+    "лю́ди",
+    "люди"
+   ],
+   "hint_it": "Siamo persone."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000264",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola",
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_devushka"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то её ___.",
+   "answer": "де́вушка",
+   "accepted": [
+    "де́вушка",
+    "девушка"
+   ],
+   "hint_it": "Questa è la sua ragazza."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000265",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola",
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_zhenshchina"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___.",
+   "answer": "же́нщина",
+   "accepted": [
+    "же́нщина",
+    "женщина"
+   ],
+   "hint_it": "Sono una donna."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000266",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ лю́ди.",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "Queste sono persone."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000267",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_ya",
+   "w_zhenshchina"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ же́нщина.",
+   "options": [
+    "Ho freddo.",
+    "Sono qua.",
+    "Sono una donna.",
+    "Sono io."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000268",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola",
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «челове́к»?",
+   "options": [
+    "conto",
+    "ristorante",
+    "persona",
+    "calzino"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000269",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola",
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_nosok"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «носо́к»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000270",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_ya",
+   "w_zhenshchina"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Sono una donna.",
+   "options": [
+    "Мне́ хо́лодно.",
+    "Я́ то́же.",
+    "Э́то я́.",
+    "Я́ же́нщина."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000271",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola",
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «persona» in russo?",
+   "options": [
+    "челове́к",
+    "туале́т",
+    "банкома́т",
+    "носо́к"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000272",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то лю́ди.",
+   "options": [
+    "Sono io.",
+    "Sei tu.",
+    "Queste sono persone.",
+    "Questa è acqua."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000273",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_dver"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «две́рь»?",
+   "options": [
+    "acqua",
+    "ciao",
+    "casa",
+    "porta"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000274",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_chelovek",
+   "w_nosok",
+   "w_rabota",
+   "w_rubl",
+   "w_devushka"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "челове́к",
+     "it": "persona"
+    },
+    {
+     "ru": "носо́к",
+     "it": "calzino"
+    },
+    {
+     "ru": "рабо́та",
+     "it": "lavoro"
+    },
+    {
+     "ru": "ру́бль",
+     "it": "rublo"
+    },
+    {
+     "ru": "де́вушка",
+     "it": "ragazza"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000275",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_chelovek",
+   "w_ya",
+   "w_ona"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Э́то лю́ди.",
+     "it": "Queste sono persone."
+    },
+    {
+     "ru": "Я́ челове́к.",
+     "it": "Io sono umano."
+    },
+    {
+     "ru": "Э́то её де́вушка.",
+     "it": "Questa è la sua ragazza."
+    },
+    {
+     "ru": "Я́ же́нщина.",
+     "it": "Sono una donna."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000276",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "casa",
+   "lavoro-scuola",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_nosok",
+   "w_dver",
+   "w_rabota",
+   "w_supermarket",
+   "w_izvinite",
+   "w_kofe"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "носо́к",
+     "it": "calzino"
+    },
+    {
+     "ru": "две́рь",
+     "it": "porta"
+    },
+    {
+     "ru": "рабо́та",
+     "it": "lavoro"
+    },
+    {
+     "ru": "суперма́ркет",
+     "it": "supermercato"
+    },
+    {
+     "ru": "извини́те",
+     "it": "scusi"
+    },
+    {
+     "ru": "ко́фе",
+     "it": "caffè"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000277",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola",
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_nosok",
+   "w_devushka",
+   "w_rabota",
+   "w_rubl",
+   "w_dver",
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 42,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "носо́к",
+     "it": "calzino"
+    },
+    {
+     "ru": "де́вушка",
+     "it": "ragazza"
+    },
+    {
+     "ru": "рабо́та",
+     "it": "lavoro"
+    },
+    {
+     "ru": "ру́бль",
+     "it": "rublo"
+    },
+    {
+     "ru": "две́рь",
+     "it": "porta"
+    },
+    {
+     "ru": "челове́к",
+     "it": "persona"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000278",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_chelovek",
+   "w_rubl",
+   "w_nosok",
+   "w_pozhaluysta",
+   "w_krasivo",
+   "w_ochen"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "челове́к",
+     "it": "persona"
+    },
+    {
+     "ru": "ру́бль",
+     "it": "rublo"
+    },
+    {
+     "ru": "носо́к",
+     "it": "calzino"
+    },
+    {
+     "ru": "пожа́луйста",
+     "it": "per favore"
+    },
+    {
+     "ru": "краси́во",
+     "it": "bello"
+    },
+    {
+     "ru": "о́чень",
+     "it": "molto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000279",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_rubl",
+   "w_devushka",
+   "w_rabota",
+   "w_pivo",
+   "w_kto",
+   "w_ty"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ру́бль",
+     "it": "rublo"
+    },
+    {
+     "ru": "де́вушка",
+     "it": "ragazza"
+    },
+    {
+     "ru": "рабо́та",
+     "it": "lavoro"
+    },
+    {
+     "ru": "пи́во",
+     "it": "birra"
+    },
+    {
+     "ru": "кто́",
+     "it": "chi"
+    },
+    {
+     "ru": "ты́",
+     "it": "tu"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000280",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то лю́ди.",
+   "translation_it": "Queste sono persone.",
+   "accepted": [
+    "Э́то лю́ди.",
+    "Э́то лю́ди",
+    "Это люди.",
+    "Это люди",
+    "это люди.",
+    "это люди",
+    "э́то лю́ди"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000281",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola",
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_nosok"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "носо́к",
+   "translation_it": "calzino",
+   "accepted": [
+    "носо́к",
+    "носок"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000282",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_voda"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то вода́.",
+   "translation_it": "Questa è acqua.",
+   "accepted": [
+    "Э́то вода́.",
+    "Э́то вода́",
+    "Это вода.",
+    "Это вода",
+    "это вода.",
+    "это вода",
+    "э́то вода́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000283",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola",
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "челове́к",
+   "translation_it": "persona",
+   "accepted": [
+    "челове́к",
+    "человек"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000284",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_eto",
+   "w_ona",
+   "w_devushka"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то её де́вушка.",
+   "translation_it": "Questa è la sua ragazza.",
+   "accepted": [
+    "Э́то её де́вушка.",
+    "Э́то её де́вушка",
+    "Это её девушка.",
+    "Это её девушка",
+    "это её девушка.",
+    "это её девушка",
+    "э́то её де́вушка",
+    "Это ее девушка.",
+    "это ее девушка"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000285",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "lavoro-scuola",
+   "casa"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_rubl"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ру́бль",
+   "translation_it": "rublo",
+   "accepted": [
+    "ру́бль",
+    "рубль"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000286",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "gender",
+   "nouns"
+  ],
+  "words": [
+   "w_ya",
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ челове́к.",
+   "translation_it": "Io sono umano.",
+   "accepted": [
+    "Я́ челове́к.",
+    "Я́ челове́к",
+    "Я человек.",
+    "Я человек",
+    "я человек.",
+    "я человек",
+    "я́ челове́к"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

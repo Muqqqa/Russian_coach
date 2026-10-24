@@ -1,0 +1,1635 @@
+[
+ {
+  "id": "e_000718",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_stantsiya"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ста́нция",
+   "answer": "stazione",
+   "accepted": [
+    "stazione",
+    "lo stazione",
+    "uno stazione",
+    "la stazione",
+    "una stazione",
+    "fermata",
+    "la fermata",
+    "una fermata"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000719",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_on",
+   "w_seychas",
+   "w_v",
+   "w_gostinitsa"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "О́н сейча́с в гости́нице.",
+   "answer": "Lui è in albergo adesso.",
+   "accepted": [
+    "Lui è in albergo adesso.",
+    "Lui è in albergo adesso",
+    "lui è in albergo adesso",
+    "lui è in albergo adesso.",
+    "Lui e' in albergo adesso.",
+    "lui e' in albergo adesso",
+    "lui e in albergo adesso"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000720",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_derevnya"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "villaggio",
+   "answer": "дере́вня",
+   "accepted": [
+    "дере́вня",
+    "деревня"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000721",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_krasivyy",
+   "w_komnata"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Bella camera!",
+   "answer": "Краси́вая ко́мната!",
+   "accepted": [
+    "Краси́вая ко́мната!",
+    "Краси́вая ко́мната",
+    "Красивая комната!",
+    "Красивая комната",
+    "красивая комната!",
+    "красивая комната",
+    "краси́вая ко́мната"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000722",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_na"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "на́",
+   "answer": "su",
+   "accepted": [
+    "su",
+    "in",
+    "a"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000723",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_ty",
+   "w_na",
+   "w_rabota"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Ты́ на рабо́те?",
+   "answer": "Sei al lavoro?",
+   "accepted": [
+    "Sei al lavoro?",
+    "Sei al lavoro",
+    "sei al lavoro",
+    "sei al lavoro?",
+    "Tu sei al lavoro?",
+    "Tu sei al lavoro",
+    "tu sei al lavoro",
+    "tu sei al lavoro?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000724",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_krovat"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "letto",
+   "answer": "крова́ть",
+   "accepted": [
+    "крова́ть",
+    "кровать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000725",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_o",
+   "w_chto",
+   "w_ty"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Di che parli?",
+   "answer": "О чём ты́?",
+   "accepted": [
+    "О чём ты́?",
+    "О чём ты́",
+    "О чём ты?",
+    "О чём ты",
+    "о чём ты?",
+    "о чём ты",
+    "о чём ты́",
+    "О чем ты?",
+    "о чем ты"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000726",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_komnata"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ко́мната",
+   "answer": "stanza",
+   "accepted": [
+    "stanza",
+    "la stanza",
+    "una stanza",
+    "camera",
+    "la camera",
+    "una camera"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000727",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_ya",
+   "w_v",
+   "w_mashina"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ в маши́не.",
+   "answer": "Sono nella macchina.",
+   "accepted": [
+    "Sono nella macchina.",
+    "Sono nella macchina",
+    "sono nella macchina",
+    "sono nella macchina.",
+    "Io sono nella macchina.",
+    "Io sono nella macchina",
+    "io sono nella macchina",
+    "io sono nella macchina."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000728",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "luoghi",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_stantsiya"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Мы́ на ___.",
+   "answer": "ста́нции",
+   "accepted": [
+    "ста́нции",
+    "станции"
+   ],
+   "hint_it": "Siamo alla stazione."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000729",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ме́сто свобо́дно?",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "Questo posto è vuoto?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000730",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_derevnya"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Она́ в ___.",
+   "answer": "дере́вне",
+   "accepted": [
+    "дере́вне",
+    "деревне"
+   ],
+   "hint_it": "Lei è in campagna."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000731",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_mesto"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Все́ на ___?",
+   "answer": "ме́сте",
+   "accepted": [
+    "ме́сте",
+    "месте"
+   ],
+   "hint_it": "Tutti al loro posto?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000732",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_gorod"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ в ___.",
+   "answer": "го́роде",
+   "accepted": [
+    "го́роде",
+    "городе"
+   ],
+   "hint_it": "Sono in città."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000733",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_na"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вы́ ___ рабо́те?",
+   "answer": "на",
+   "accepted": [
+    "на"
+   ],
+   "hint_it": "Siete al lavoro?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000734",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "luoghi",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_komnata"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Мы́ в ___.",
+   "answer": "ко́мнате",
+   "accepted": [
+    "ко́мнате",
+    "комнате"
+   ],
+   "hint_it": "Siamo in camera."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000735",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_gryaznyy"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Сто́л ___?",
+   "answer": "гря́зный",
+   "accepted": [
+    "гря́зный",
+    "грязный"
+   ],
+   "hint_it": "Il tavolo è sporco?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000736",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "luoghi",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_stol"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вино́ на ___.",
+   "answer": "столе́",
+   "accepted": [
+    "столе́",
+    "столе"
+   ],
+   "hint_it": "Il vino è sul tavolo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000737",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_gostinitsa"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (stato in luogo: dove?).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ в ___. — Sono in albergo.",
+   "options": [
+    "гости́ницы",
+    "гости́ница",
+    "гости́нице",
+    "гости́ницу"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000738",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_gorod",
+   "w_bolshoy"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Го́род большо́й.",
+   "options": [
+    "Il conto, per favore!",
+    "Grazie mille!",
+    "La città è grande.",
+    "Sei buono."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000739",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_derevnya"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «дере́вня»?",
+   "options": [
+    "villaggio",
+    "casa",
+    "mamma",
+    "albergo"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000740",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations",
+   "gender"
+  ],
+  "words": [
+   "w_komnata"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «ко́мната»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000741",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_o",
+   "w_da"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Oh, sì!",
+   "options": [
+    "Да, э́то вино́.",
+    "Да, понима́ю!",
+    "Да, пожа́луйста.",
+    "О, да!"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000742",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_stul"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «sedia» in russo?",
+   "options": [
+    "сту́л",
+    "пи́во",
+    "роди́тель",
+    "ру́бль"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000743",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_restoran"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (stato in luogo: dove?).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Они́ в ___. — Sono al ristorante.",
+   "options": [
+    "рестора́не",
+    "рестора́ну",
+    "рестора́на",
+    "рестора́н"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000744",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_vse",
+   "w_na",
+   "w_ulitsa"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Все́ на у́лице.",
+   "options": [
+    "Sei al lavoro?",
+    "Tutti sono per strada.",
+    "Siete al lavoro?",
+    "Tutti al loro posto?"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000745",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_o"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «о́»?",
+   "options": [
+    "presso",
+    "di",
+    "in",
+    "senza"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000746",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi",
+   "casa",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_stul",
+   "w_gorod",
+   "w_mesto",
+   "w_na"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сту́л",
+     "it": "sedia"
+    },
+    {
+     "ru": "го́род",
+     "it": "città"
+    },
+    {
+     "ru": "ме́сто",
+     "it": "posto"
+    },
+    {
+     "ru": "на́",
+     "it": "su"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000747",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "luoghi",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_o",
+   "w_da",
+   "w_eto",
+   "w_mesto",
+   "w_svobodno",
+   "w_oni"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "О, да!",
+     "it": "Oh, sì!"
+    },
+    {
+     "ru": "Э́то ме́сто свобо́дно?",
+     "it": "Questo posto è vuoto?"
+    },
+    {
+     "ru": "Они́ все́ в ба́ре.",
+     "it": "Sono tutti al bar."
+    },
+    {
+     "ru": "На часа́х два́.",
+     "it": "L'orologio segna le due."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000748",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_krovat",
+   "w_stol",
+   "w_o",
+   "w_krasivo",
+   "w_drugoy",
+   "w_mat"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "крова́ть",
+     "it": "letto"
+    },
+    {
+     "ru": "сто́л",
+     "it": "tavolo"
+    },
+    {
+     "ru": "о́",
+     "it": "di"
+    },
+    {
+     "ru": "краси́во",
+     "it": "bello"
+    },
+    {
+     "ru": "друго́й",
+     "it": "altro"
+    },
+    {
+     "ru": "ма́ть",
+     "it": "madre"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000749",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_stantsiya",
+   "w_derevnya",
+   "w_stol",
+   "w_ulitsa"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ста́нция",
+     "it": "stazione"
+    },
+    {
+     "ru": "дере́вня",
+     "it": "villaggio"
+    },
+    {
+     "ru": "сто́л",
+     "it": "tavolo"
+    },
+    {
+     "ru": "у́лица",
+     "it": "strada"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000750",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "descrizioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_stol",
+   "w_gryaznyy",
+   "w_ty",
+   "w_na",
+   "w_rabota",
+   "w_v"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Сто́л гря́зный?",
+     "it": "Il tavolo è sporco?"
+    },
+    {
+     "ru": "Ты́ на рабо́те?",
+     "it": "Sei al lavoro?"
+    },
+    {
+     "ru": "В ко́мнате жа́рко.",
+     "it": "In camera c'è caldo."
+    },
+    {
+     "ru": "Я́ на рабо́те.",
+     "it": "Sono al lavoro."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000751",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "casa",
+   "luoghi",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_stantsiya",
+   "w_stul",
+   "w_mesto",
+   "w_zdes",
+   "w_ne",
+   "w_vkusnyy"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ста́нция",
+     "it": "stazione"
+    },
+    {
+     "ru": "сту́л",
+     "it": "sedia"
+    },
+    {
+     "ru": "ме́сто",
+     "it": "posto"
+    },
+    {
+     "ru": "зде́сь",
+     "it": "qui"
+    },
+    {
+     "ru": "не́",
+     "it": "non"
+    },
+    {
+     "ru": "вку́сный",
+     "it": "gustoso"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000752",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi",
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_komnata",
+   "w_v",
+   "w_mesto",
+   "w_o",
+   "w_derevnya"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ко́мната",
+     "it": "stanza"
+    },
+    {
+     "ru": "в",
+     "it": "in"
+    },
+    {
+     "ru": "ме́сто",
+     "it": "posto"
+    },
+    {
+     "ru": "о́",
+     "it": "di"
+    },
+    {
+     "ru": "дере́вня",
+     "it": "villaggio"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000753",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_vse",
+   "w_na",
+   "w_mesto",
+   "w_on",
+   "w_seychas",
+   "w_v"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Все́ на ме́сте?",
+     "it": "Tutti al loro posto?"
+    },
+    {
+     "ru": "О́н сейча́с в гости́нице.",
+     "it": "Lui è in albergo adesso."
+    },
+    {
+     "ru": "Э́то сто́л.",
+     "it": "Questo è un tavolo."
+    },
+    {
+     "ru": "В дере́вне его́ лю́бят.",
+     "it": "Nel villaggio lo amano."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000754",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "luoghi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_v",
+   "w_derevnya",
+   "w_on",
+   "w_lyubit"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "В дере́вне его́ лю́бят.",
+   "translation_it": "Nel villaggio lo amano.",
+   "accepted": [
+    "В дере́вне его́ лю́бят.",
+    "В дере́вне его́ лю́бят",
+    "В деревне его любят.",
+    "В деревне его любят",
+    "в деревне его любят.",
+    "в деревне его любят",
+    "в дере́вне его́ лю́бят"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000755",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_mesto"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ме́сто",
+   "translation_it": "posto",
+   "accepted": [
+    "ме́сто",
+    "место"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000756",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_vse",
+   "w_na",
+   "w_ulitsa"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Все́ на у́лице.",
+   "translation_it": "Tutti sono per strada.",
+   "accepted": [
+    "Все́ на у́лице.",
+    "Все́ на у́лице",
+    "Все на улице.",
+    "Все на улице",
+    "все на улице.",
+    "все на улице",
+    "все́ на у́лице"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000757",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_stul"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "сту́л",
+   "translation_it": "sedia",
+   "accepted": [
+    "сту́л",
+    "стул"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000758",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_oni",
+   "w_vse",
+   "w_v",
+   "w_bar"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Они́ все́ в ба́ре.",
+   "translation_it": "Sono tutti al bar.",
+   "accepted": [
+    "Они́ все́ в ба́ре.",
+    "Они́ все́ в ба́ре",
+    "Они все в баре.",
+    "Они все в баре",
+    "они все в баре.",
+    "они все в баре",
+    "они́ все́ в ба́ре"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000759",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_ulitsa"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "у́лица",
+   "translation_it": "strada",
+   "accepted": [
+    "у́лица",
+    "улица"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000760",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_v",
+   "w_komnata",
+   "w_zharko"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "В ко́мнате жа́рко.",
+   "translation_it": "In camera c'è caldo.",
+   "accepted": [
+    "В ко́мнате жа́рко.",
+    "В ко́мнате жа́рко",
+    "В комнате жарко.",
+    "В комнате жарко",
+    "в комнате жарко.",
+    "в комнате жарко",
+    "в ко́мнате жа́рко"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000761",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi",
+   "direzioni",
+   "casa"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_stantsiya"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ста́нция",
+   "translation_it": "stazione",
+   "accepted": [
+    "ста́нция",
+    "станция"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000762",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "prepositional-case",
+   "locations"
+  ],
+  "words": [
+   "w_ty",
+   "w_na",
+   "w_rabota"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ты́ на рабо́те?",
+   "translation_it": "Sei al lavoro?",
+   "accepted": [
+    "Ты́ на рабо́те?",
+    "Ты́ на рабо́те",
+    "Ты на работе?",
+    "Ты на работе",
+    "ты на работе?",
+    "ты на работе",
+    "ты́ на рабо́те"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

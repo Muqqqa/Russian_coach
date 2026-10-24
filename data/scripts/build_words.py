@@ -6,6 +6,7 @@ Uso: python3 -I data/scripts/build_words.py"""
 import csv, json, os, sys, collections
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import *
+import qa_fixes
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(ROOT, "raw", "openrussian")
@@ -174,6 +175,20 @@ def main():
 
     if missing_pos:
         raise SystemExit(f"pos non classificata: {missing_pos}")
+    # --- correzioni qa-russian: parole rifiutate (rimosse solo se NON citate in content/) e fix ai campi ---
+    excl = qa_fixes.exclude_ids()
+    cited = qa_fixes.cited_ids(excl)
+    removed = [w for w in words if w["id"] in excl and w["id"] not in cited]
+    kept_cited = [w for w in words if w["id"] in excl and w["id"] in cited]
+    words = [w for w in words if w["id"] not in {r["id"] for r in removed}]
+    qa_fixes.apply_word_fixes(words)
+    os.makedirs(os.path.join(ROOT, "reports"), exist_ok=True)
+    json.dump({"generato_da": "scripts/build_words.py (qa_fixes.json)",
+               "rimosse": [{"id": w["id"], "ru": w["ru"], "level": w["level"]} for w in removed],
+               "rifiutate_da_qa_ma_citate_in_content_mantenute": [
+                   {"id": w["id"], "ru": w["ru"], "level": w["level"], "citata_in": cited[w["id"]]} for w in kept_cited]},
+              open(os.path.join(ROOT, "reports", "removed_words.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print("rimosse:", [w["id"] for w in removed], "| mantenute perche' citate:", [w["id"] for w in kept_cited])
     os.makedirs(OUT, exist_ok=True)
     for f in os.listdir(OUT):
         if f.endswith(".json"):

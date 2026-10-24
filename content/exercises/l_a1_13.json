@@ -1,0 +1,1445 @@
+[
+ {
+  "id": "e_000915",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_vopros"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "вопро́с",
+   "answer": "domanda",
+   "accepted": [
+    "domanda",
+    "la domanda",
+    "una domanda"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000916",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "trasporti",
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_bilet",
+   "w_u",
+   "w_ya"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Биле́ты у меня́.",
+   "answer": "Ho i biglietti.",
+   "accepted": [
+    "Ho i biglietti.",
+    "Ho i biglietti",
+    "ho i biglietti",
+    "ho i biglietti."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000917",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "concetti",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_dengi"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "soldi",
+   "answer": "де́ньги",
+   "accepted": [
+    "де́ньги",
+    "деньги"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000918",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_vash",
+   "w_bilet"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Il Vostro biglietto!",
+   "answer": "Ва́ш биле́т!",
+   "accepted": [
+    "Ва́ш биле́т!",
+    "Ва́ш биле́т",
+    "Ваш билет!",
+    "Ваш билет",
+    "ваш билет!",
+    "ваш билет",
+    "ва́ш биле́т"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000919",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "comunicazione",
+   "concetti",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_botinok"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "боти́нок",
+   "answer": "stivaletto",
+   "accepted": [
+    "stivaletto",
+    "lo stivaletto",
+    "uno stivaletto"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000920",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "descrizioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_eto",
+   "w_trudnyy",
+   "w_vopros"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Э́то тру́дный вопро́с.",
+   "answer": "Questa è una domanda complessa.",
+   "accepted": [
+    "Questa è una domanda complessa.",
+    "Questa è una domanda complessa",
+    "questa è una domanda complessa",
+    "questa è una domanda complessa.",
+    "Questa e' una domanda complessa.",
+    "questa e' una domanda complessa",
+    "questa e una domanda complessa"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000921",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_bilet"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "biglietto",
+   "answer": "биле́т",
+   "accepted": [
+    "биле́т",
+    "билет"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000922",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni",
+   "concetti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_lyubit",
+   "w_krasivyy",
+   "w_veshch"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Amo le cose belle.",
+   "answer": "Люблю́ краси́вые ве́щи.",
+   "accepted": [
+    "Люблю́ краси́вые ве́щи.",
+    "Люблю́ краси́вые ве́щи",
+    "Люблю красивые вещи.",
+    "Люблю красивые вещи",
+    "люблю красивые вещи.",
+    "люблю красивые вещи",
+    "люблю́ краси́вые ве́щи"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000923",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "comunicazione",
+   "concetti",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_paket"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "паке́т",
+   "answer": "sacchetto",
+   "accepted": [
+    "sacchetto",
+    "il sacchetto",
+    "un sacchetto",
+    "pacco",
+    "il pacco",
+    "un pacco"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000924",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione",
+   "concetti",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_kurtka"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ищу́ ___.",
+   "answer": "ку́ртку",
+   "accepted": [
+    "ку́ртку",
+    "куртку"
+   ],
+   "hint_it": "Cerco una giacca."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000925",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_vopros"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___?",
+   "answer": "вопро́с",
+   "accepted": [
+    "вопро́с",
+    "вопрос"
+   ],
+   "hint_it": "Questa è una domanda?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000926",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione",
+   "concetti",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_kurtka"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Мы́ и́щем ___.",
+   "answer": "ку́ртку",
+   "accepted": [
+    "ку́ртку",
+    "куртку"
+   ],
+   "hint_it": "Cerchiamo la giacca."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000927",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "concetti",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_chelovek"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ без де́нег.",
+   "answer": "Лю́ди",
+   "accepted": [
+    "Лю́ди",
+    "Люди",
+    "люди",
+    "лю́ди"
+   ],
+   "hint_it": "La gente è senza soldi."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000928",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ пробле́ма?",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "È un problema?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000929",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_vopros"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то тру́дный ___.",
+   "answer": "вопро́с",
+   "accepted": [
+    "вопро́с",
+    "вопрос"
+   ],
+   "hint_it": "Questa è una domanda complessa."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000930",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "concetti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_problema"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Нет ___.",
+   "answer": "пробле́м",
+   "accepted": [
+    "пробле́м",
+    "проблем"
+   ],
+   "hint_it": "Nessun problema."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000931",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_vash"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ биле́т!",
+   "answer": "Ва́ш",
+   "accepted": [
+    "Ва́ш",
+    "Ваш",
+    "ваш",
+    "ва́ш"
+   ],
+   "hint_it": "Il Vostro biglietto!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000932",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione",
+   "concetti",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_mama"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (complemento oggetto).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ люблю́ ___. — Amo la mamma.",
+   "options": [
+    "ма́ме",
+    "ма́му",
+    "ма́ма",
+    "ма́мы"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000933",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi",
+   "azioni",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_kak",
+   "w_iskat",
+   "w_tekst"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Ка́к иска́ть те́кст?",
+   "options": [
+    "Sto cercando un bancomat.",
+    "Cerca la donna!",
+    "Come cercare un testo?",
+    "Tè o caffè?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000934",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "concetti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_veshch"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «ве́щь»?",
+   "options": [
+    "cosa",
+    "secondo",
+    "Russia",
+    "acqua"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000935",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "concetti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things",
+   "gender"
+  ],
+  "words": [
+   "w_problema"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «пробле́ма»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000936",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "grammatica",
+   "concetti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_v",
+   "w_chto",
+   "w_problema"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Qual è il problema?",
+   "options": [
+    "О чём ты́?",
+    "В ко́мнате жа́рко.",
+    "В чём пробле́ма?",
+    "Что́ пото́м?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000937",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "concetti",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_dengi"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «soldi» in russo?",
+   "options": [
+    "бра́т",
+    "вре́мя",
+    "де́ньги",
+    "еда́"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000938",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "concetti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_problema"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (complemento oggetto).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ зна́ю ___. — Conosco il problema.",
+   "options": [
+    "пробле́ма",
+    "пробле́ме",
+    "пробле́мы",
+    "пробле́му"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000939",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "trasporti",
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_bilet",
+   "w_u",
+   "w_ya"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Биле́ты у меня́.",
+   "options": [
+    "Nemmeno io.",
+    "Ho sete.",
+    "Ho i biglietti.",
+    "Vai senza di me."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000940",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "concetti",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_veshch",
+   "w_kurtka",
+   "w_problema",
+   "w_bilet",
+   "w_botinok"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ве́щь",
+     "it": "cosa"
+    },
+    {
+     "ru": "ку́ртка",
+     "it": "giacca"
+    },
+    {
+     "ru": "пробле́ма",
+     "it": "problema"
+    },
+    {
+     "ru": "биле́т",
+     "it": "biglietto"
+    },
+    {
+     "ru": "боти́нок",
+     "it": "stivaletto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000941",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "concetti",
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_eto",
+   "w_problema",
+   "w_lyubit",
+   "w_krasivyy",
+   "w_veshch",
+   "w_nayti"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 40,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Э́то пробле́ма.",
+     "it": "È un problema."
+    },
+    {
+     "ru": "Люблю́ краси́вые ве́щи.",
+     "it": "Amo le cose belle."
+    },
+    {
+     "ru": "Найди́ ко́шку.",
+     "it": "Trova il gatto."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000942",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "trasporti",
+   "descrizioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_bilet",
+   "w_dengi",
+   "w_botinok",
+   "w_pit",
+   "w_molodoy",
+   "w_vy"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "биле́т",
+     "it": "biglietto"
+    },
+    {
+     "ru": "де́ньги",
+     "it": "soldi"
+    },
+    {
+     "ru": "боти́нок",
+     "it": "stivaletto"
+    },
+    {
+     "ru": "пи́ть",
+     "it": "bere"
+    },
+    {
+     "ru": "молодо́й",
+     "it": "giovane"
+    },
+    {
+     "ru": "вы́",
+     "it": "voi"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000943",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "trasporti",
+   "concetti",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_bilet",
+   "w_veshch",
+   "w_tekst",
+   "w_slovo"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "биле́т",
+     "it": "biglietto"
+    },
+    {
+     "ru": "ве́щь",
+     "it": "cosa"
+    },
+    {
+     "ru": "те́кст",
+     "it": "testo"
+    },
+    {
+     "ru": "сло́во",
+     "it": "parola"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000944",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "soldi",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_ya",
+   "w_kupit",
+   "w_bilet",
+   "w_vash",
+   "w_eto"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ купи́л биле́т.",
+     "it": "Ho comprato il biglietto."
+    },
+    {
+     "ru": "Ва́ш биле́т!",
+     "it": "Il Vostro biglietto!"
+    },
+    {
+     "ru": "Э́то вопро́с?",
+     "it": "Questa è una domanda?"
+    },
+    {
+     "ru": "Лю́ди без де́нег.",
+     "it": "La gente è senza soldi."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000945",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "concetti",
+   "trasporti",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_problema",
+   "w_bilet",
+   "w_vopros",
+   "w_mesto",
+   "w_potom",
+   "w_pyat"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "пробле́ма",
+     "it": "problema"
+    },
+    {
+     "ru": "биле́т",
+     "it": "biglietto"
+    },
+    {
+     "ru": "вопро́с",
+     "it": "domanda"
+    },
+    {
+     "ru": "ме́сто",
+     "it": "posto"
+    },
+    {
+     "ru": "пото́м",
+     "it": "poi"
+    },
+    {
+     "ru": "пя́ть",
+     "it": "cinque"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000946",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_tekst",
+   "w_dengi",
+   "w_slovo",
+   "w_paket",
+   "w_vopros"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "те́кст",
+     "it": "testo"
+    },
+    {
+     "ru": "де́ньги",
+     "it": "soldi"
+    },
+    {
+     "ru": "сло́во",
+     "it": "parola"
+    },
+    {
+     "ru": "паке́т",
+     "it": "sacchetto"
+    },
+    {
+     "ru": "вопро́с",
+     "it": "domanda"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000947",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "soldi",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_ya",
+   "w_kupit",
+   "w_bilet"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ купи́л биле́т.",
+   "translation_it": "Ho comprato il biglietto.",
+   "accepted": [
+    "Я́ купи́л биле́т.",
+    "Я́ купи́л биле́т",
+    "Я купил билет.",
+    "Я купил билет",
+    "я купил билет.",
+    "я купил билет",
+    "я́ купи́л биле́т"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000948",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "concetti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_veshch"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ве́щь",
+   "translation_it": "cosa",
+   "accepted": [
+    "ве́щь",
+    "вещь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000949",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "concetti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_eto",
+   "w_problema"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то пробле́ма?",
+   "translation_it": "È un problema?",
+   "accepted": [
+    "Э́то пробле́ма?",
+    "Э́то пробле́ма",
+    "Это проблема?",
+    "Это проблема",
+    "это проблема?",
+    "это проблема",
+    "э́то пробле́ма"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000950",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "concetti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_problema"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "пробле́ма",
+   "translation_it": "problema",
+   "accepted": [
+    "пробле́ма",
+    "проблема"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000951",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "trasporti",
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_bilet",
+   "w_u",
+   "w_ya"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Биле́ты у меня́.",
+   "translation_it": "Ho i biglietti.",
+   "accepted": [
+    "Биле́ты у меня́.",
+    "Биле́ты у меня́",
+    "Билеты у меня.",
+    "Билеты у меня",
+    "билеты у меня.",
+    "билеты у меня",
+    "биле́ты у меня́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000952",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "comunicazione",
+   "concetti",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_botinok"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "боти́нок",
+   "translation_it": "stivaletto",
+   "accepted": [
+    "боти́нок",
+    "ботинок"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000953",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_khoroshiy",
+   "w_vopros"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Хоро́ший вопро́с.",
+   "translation_it": "Bella domanda.",
+   "accepted": [
+    "Хоро́ший вопро́с.",
+    "Хоро́ший вопро́с",
+    "Хороший вопрос.",
+    "Хороший вопрос",
+    "хороший вопрос.",
+    "хороший вопрос",
+    "хоро́ший вопро́с"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000954",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "accusative",
+   "nouns-things"
+  ],
+  "words": [
+   "w_tekst"
+  ],
+  "lesson": "l_a1_13",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "те́кст",
+   "translation_it": "testo",
+   "accepted": [
+    "те́кст",
+    "текст"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

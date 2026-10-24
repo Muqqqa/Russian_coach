@@ -206,6 +206,7 @@
   "it_from": "itwiktionary"
  },
  "w_chelovek": {
+  "topics_override": true,
   "decl_class": [
    "velar-stem",
    "accent-a"
@@ -366,6 +367,7 @@
   ]
  },
  "w_devushka": {
+  "topics_override": true,
   "decl_class": [
    "velar-stem",
    "accent-a"
@@ -376,6 +378,7 @@
    "Beverages",
    "Water"
   ],
+  "topics_override": true,
   "it_from": "itwiktionary",
   "decl_class": [
    "hard-stem",
@@ -570,10 +573,14 @@
   ]
  },
  "w_nosok": {
+  "topics_override": true,
   "decl_class": [
    "velar-stem",
    "accent-b"
   ]
+ },
+ "w_est": {
+  "topics_override": true
  },
  "w_supermarket": {
   "topics_from": [
@@ -666,6 +673,11 @@
    "comp"
   ]
  },
+ "w_idti": {
+  "forms_added": [
+   "aspect_partner"
+  ]
+ },
  "w_god": {
   "topics_from": [
    "Time"
@@ -699,6 +711,9 @@
    "soft-stem",
    "accent-b"
   ]
+ },
+ "w_seychas": {
+  "topics_override": true
  },
  "w_nado": {
   "no_wiktionary_entry": true
@@ -819,6 +834,7 @@
   ]
  },
  "w_pervyy": {
+  "topics_override": true,
   "it_candidates": [
    "primo",
    "iniziale",
@@ -834,12 +850,14 @@
   ]
  },
  "w_chas": {
+  "topics_override": true,
   "decl_class": [
    "hard-stem",
    "accent-c"
   ]
  },
  "w_mama": {
+  "topics_override": true,
   "it_from": "itwiktionary",
   "decl_class": [
    "hard-stem",
@@ -859,6 +877,9 @@
    "hard-stem",
    "accent-a"
   ]
+ },
+ "w_zavtra": {
+  "topics_override": true
  },
  "w_spat": {
   "forms_added": [
@@ -941,6 +962,7 @@
  },
  "w_syn": {
   "gender_from_wikt": true,
+  "topics_override": true,
   "decl_class": [
    "hard-stem",
    "accent-c"
@@ -972,6 +994,9 @@
    "Time"
   ]
  },
+ "w_nazad": {
+  "topics_override": true
+ },
  "w_staryy": {
   "it_from": "itwiktionary",
   "decl_class": [
@@ -987,6 +1012,7 @@
   ]
  },
  "w_minuta": {
+  "topics_override": true,
   "decl_class": [
    "hard-stem",
    "accent-a",
@@ -1053,6 +1079,7 @@
   ]
  },
  "w_golova": {
+  "topics_override": true,
   "decl_class": [
    "hard-stem",
    "accent-f",
@@ -1180,6 +1207,7 @@
   "topics_from": [
    "Roads"
   ],
+  "topics_override": true,
   "decl_class": [
    "ц-stem",
    "accent-a",
@@ -1240,6 +1268,9 @@
    "c′",
    "c′"
   ]
+ },
+ "w_obychno": {
+  "topics_override": true
  },
  "w_plokho": {
   "forms_added": [
@@ -1326,12 +1357,18 @@
    "Light sources",
    "Sun"
   ],
+  "topics_override": true,
   "it_from": "itwiktionary",
   "decl_class": [
    "ц-stem",
    "accent-a",
    "ц-stem",
    "accent-a"
+  ]
+ },
+ "w_bolet": {
+  "forms_added": [
+   "aspect_partner"
   ]
  },
  "w_daleko": {
@@ -1488,6 +1525,7 @@
   ]
  },
  "w_stantsiya": {
+  "topics_override": true,
   "decl_class": [
    "i-stem",
    "accent-a"
@@ -1557,6 +1595,7 @@
   ]
  },
  "w_botinok": {
+  "topics_override": true,
   "decl_class": [
    "velar-stem",
    "accent-a"
@@ -1629,6 +1668,7 @@
   ]
  },
  "w_napitok": {
+  "topics_override": true,
   "it_from": "itwiktionary",
   "decl_class": [
    "velar-stem",
@@ -1644,6 +1684,7 @@
   "topics_from": [
    "Bags"
   ],
+  "topics_override": true,
   "decl_class": [
    "hard-stem",
    "accent-a"
@@ -1675,6 +1716,9 @@
    "Directions"
   ]
  },
+ "w_nalevo": {
+  "topics_override": true
+ },
  "w_dochka": {
   "no_wiktionary_entry": true
  },
@@ -1683,6 +1727,7 @@
    "Day",
    "Russian greetings"
   ],
+  "topics_override": true,
   "it_from": "itwiktionary"
  },
  "w_dobryy_vecher": {
@@ -1696,9 +1741,11 @@
    "Coffee",
    "Restaurants"
   ],
+  "topics_override": true,
   "it_from": "itwiktionary"
  },
  "w_salat": {
+  "topics_override": true,
   "it_from": "itwiktionary",
   "decl_class": [
    "hard-stem",
@@ -1868,6 +1915,11 @@
    "n_prep"
   ]
  },
+ "w_poyti": {
+  "forms_added": [
+   "aspect_partner"
+  ]
+ },
  "w_dat": {
   "it_from": "itwiktionary"
  },
@@ -1903,9 +1955,6 @@
  "w_nu": {
   "no_wiktionary_entry": true
  },
- "w_chyom": {
-  "no_wiktionary_entry": true
- },
  "w_tut": {
   "it_from": "itwiktionary"
  },
@@ -1933,6 +1982,7 @@
    "Anatomy",
    "Time"
   ],
+  "topics_override": true,
   "decl_class": [
    "hard-stem",
    "accent-f",
@@ -2101,6 +2151,7 @@
   ]
  },
  "w_yazyk": {
+  "topics_override": true,
   "it_candidates": [
    "lingua, idioma",
    "lingua"
@@ -2124,7 +2175,8 @@
  "w_skoro": {
   "forms_added": [
    "comp"
-  ]
+  ],
+  "topics_override": true
  },
  "w_malchik": {
   "topics_from": [
@@ -2281,6 +2333,7 @@
    "Entertainment",
    "Numbers"
   ],
+  "topics_override": true,
   "decl_class": [
    "hard-stem",
    "accent-c"
@@ -2405,6 +2458,7 @@
    "Academic degrees",
    "Occupations"
   ],
+  "topics_override": true,
   "decl_class": [
    "hard-stem",
    "accent-c"
@@ -2426,6 +2480,7 @@
   ]
  },
  "w_vtoroy": {
+  "topics_override": true,
   "it_from": "itwiktionary"
  },
  "w_pravo": {
@@ -2598,6 +2653,7 @@
   ]
  },
  "w_telo": {
+  "topics_override": true,
   "decl_class": [
    "hard-stem",
    "accent-c"
@@ -2707,6 +2763,7 @@
   ]
  },
  "w_kvartira": {
+  "topics_override": true,
   "it_from": "itwiktionary",
   "decl_class": [
    "hard-stem",
@@ -2934,6 +2991,9 @@
    "a*"
   ]
  },
+ "w_odnazhdy": {
+  "topics_override": true
+ },
  "w_gazeta": {
   "it_from": "itwiktionary",
   "decl_class": [
@@ -2969,6 +3029,9 @@
    "accent-a"
   ]
  },
+ "w_vperyod": {
+  "topics_override": true
+ },
  "w_les": {
   "topics_from": [
    "Forests"
@@ -2985,6 +3048,7 @@
   ]
  },
  "w_more": {
+  "topics_override": true,
   "it_from": "itwiktionary",
   "decl_class": [
    "soft-stem",
@@ -3064,6 +3128,7 @@
  },
  "w_zub": {
   "gender_from_wikt": true,
+  "topics_override": true,
   "it_from": "itwiktionary",
   "decl_class": [
    "hard-stem",
@@ -3127,16 +3192,6 @@
    "accent-a"
   ]
  },
- "w_chlen": {
-  "gender_from_wikt": true,
-  "topics_from": [
-   "Body parts"
-  ],
-  "decl_class": [
-   "hard-stem",
-   "accent-a"
-  ]
- },
  "w_dlinnyy": {
   "decl_class": [
    "c′*",
@@ -3171,6 +3226,7 @@
   ]
  },
  "w_nos": {
+  "topics_override": true,
   "it_from": "itwiktionary",
   "decl_class": [
    "hard-stem",
@@ -3349,6 +3405,7 @@
   ]
  },
  "w_chislo": {
+  "topics_override": true,
   "it_candidates": [
    "numero",
    "data, giorno del calendario"
@@ -3487,6 +3544,7 @@
    "prep_pl",
    "prep_sg"
   ],
+  "topics_override": true,
   "decl_class": [
    "accent-f",
    "accent-f"
@@ -3502,6 +3560,7 @@
   ]
  },
  "w_plecho": {
+  "topics_override": true,
   "decl_class": [
    "sibilant-stem",
    "accent-f",
@@ -3524,6 +3583,7 @@
   ]
  },
  "w_vek": {
+  "topics_override": true,
   "decl_class": [
    "velar-stem",
    "accent-c"
@@ -3933,45 +3993,22 @@
    "accent-a"
   ]
  },
- "w_pisat_verb": {
-  "it_from": "itwiktionary"
- },
  "w_rota": {
   "decl_class": [
    "hard-stem",
    "accent-a"
   ]
  },
- "w_stringi": {
-  "topics_from": [
-   "Underwear"
-  ],
-  "decl_class": [
-   "velar-stem",
-   "accent-a"
-  ]
- },
- "w_getero": {
-  "no_wiktionary_entry": true
- },
- "w_sidushka": {
-  "no_wiktionary_entry": true
- },
- "w_zh": {
-  "no_wiktionary_entry": true
- },
  "w_pora_noun": {
   "topics_from": [
    "Anatomy"
   ],
+  "topics_override": true,
   "decl_class": [
    "hard-stem",
    "accent-a",
    "hard-stem",
    "accent-a"
   ]
- },
- "w_bezoblachno": {
-  "no_wiktionary_entry": true
  }
 }

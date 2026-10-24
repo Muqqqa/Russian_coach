@@ -9,16 +9,16 @@ Licenza dei dati: CC BY-SA 4.0 (confermata; vedi `LICENSE.md`, `credits.json` pe
 |---|---|
 | `words/zero.json` | 89 parole |
 | `words/a1.json` | 233 parole |
-| `words/a2.json` | 492 parole |
-| `sentences/zero.json` | 70 frasi |
-| `sentences/a1.json` | 331 frasi |
-| `sentences/a2.json` | 1385 frasi |
+| `words/a2.json` | 484 parole |
+| `sentences/zero.json` | 88 frasi |
+| `sentences/a1.json` | 401 frasi |
+| `sentences/a2.json` | 1398 frasi |
 
-Totale 814 parole, 1786 frasi (dopo il filtro contenuti). Parole con almeno una frase d'esempio: zero 88/89, a1 215/233, a2 420/492 (`examples`, max 3 per parola).
+Totale 806 parole, 1887 frasi (dopo filtro e correzioni QA). Parole con almeno una frase d'esempio: zero 88/89, a1 218/233, a2 424/484 (`examples`, max 3 per parola).
 
 ## Come sono assegnati i livelli (mappa confermata)
 OpenRussian ha le liste A1 (89 voci), A2 (233), B1 (492), B2 (985)... L'elenco A1 e' troppo piccolo per essere un "A1" didattico, quindi:
-OpenRussian A1 -> `zero`, A2 -> `a1`, B1 -> `a2` (tutte le 492 voci; B2 escluso). La mappa e' `LEVEL_MAP` in `scripts/build_words.py`.
+OpenRussian A1 -> `zero`, A2 -> `a1`, B1 -> `a2` (tutte le voci, meno 8 rimosse dopo QA; B2 escluso). La mappa e' `LEVEL_MAP` in `scripts/build_words.py`.
 Il livello di una frase e' il massimo tra quelli delle sue parole.
 
 ## Fonti e trattamento
@@ -54,15 +54,25 @@ Nome propri (Том, Мэри) e frasi con parole fuori vocabolario sono scartat
 
 ## Filtro contenuti sensibili (`scripts/filter_sentences.py`)
 Euristica a radici/espressioni regolari in russo (sui token) e in italiano (sulla traduzione): violenza/armi, morte, sesso, droga/alcol, politica, religione, insulti/razzismo (anche discriminazione sul corpo). Per cautela esclude anche falsi positivi (es. "Sono il vostro capitano" per la categoria politica/militare). Viene applicato al pool dei candidati in `build_sentences.py` PRIMA della selezione, cosi' le parole mantengono gli esempi; lo script da solo ricontrolla `data/sentences`, verifica che ogni parola delle frasi esista in `data/words` e ricalcola `examples`.
-- `reports/filtered_sentences.json`: 236 frasi escluse su 9960 candidate (id, motivo, termine, testo). Per motivo: morte 88, politica 52, religione 34, violenza/armi 32, insulti/razzismo 29, sesso 1.
-- `reports/unsuitable_words.json`: 44 parole NON cancellate ma segnalate come inadatte a principianti (argomento sensibile, gergo/volgarita' segnalati da Wiktionary, lemmi non standard come `мем`, `сидушка`, `вай-фай`, `гетеро`, forme flesse trattate come lemma come `зовут`/`чём`). Decide il curriculum-writer se escluderle dalle lezioni.
+- `reports/filtered_sentences.json`: 482 frasi escluse su 12824 candidate (id, motivo, termine, testo). Per motivo: morte 92, violenza/armi 80, droga/alcol 60, politica 32, religione 31, insulti/razzismo 24, nomi propri mappati male 142, rifiutate da qa 21. Dopo la revisione QA il filtro e' piu' preciso: `полиция` ammessa, radice `бой-` solo come sostantivo (non `не бойся`), `чёрт` solo con ё, niente `brutto/anima/prete` come sottostringhe, `в общих чертах` ammessa; piu' severo su urlare/gridare (`крич-`), bere (`пил/пьёт`), `небес-`. **Alcol: `пиво` e' ammesso** (adulti), il resto (ubriaco, vodka, bere in generale) resta escluso.
+- `reports/unsuitable_words.json`: 36 parole NON cancellate ma segnalate come inadatte a principianti (argomento sensibile, gergo, lemmi non standard). Le 8 rifiutate da QA e non citate in `content/` sono state rimosse (vedi sotto).
 - Il filtro non e' garanzia assoluta: resta un campionamento QA.
+
+## Correzioni di qa-russian (applicate)
+Fonte: `qa/data_fixes.json` (517 voci, snapshot in `scripts/qa_fixes.json`; `scripts/qa_fixes.py` le applica, richiamato da build_words, build_sentences ed enrich, quindi rigenerare riproduce tutto).
+- **Parole**: forme dei pronomi personali (paradigmi corretti, chiave extra `after_prep` con le forme con н-), accenti (происходить, среда, пора...), short_f/short_n di собственный, genere/animato mancanti, `plural_only` di ветер, aspetto di бежать, glosse EN, 72 `f_ins` senza parentesi, separatori `//` e `*` ripuliti, `aspect_partner: "-"` eliminati. Gia' applicati anche `pos: phrase` per `кредитная карта` e `ru: "меня зовут"` per `w_zovut` (stress `меня́ зову́т`).
+- **Non applicato**: l'accento di `w_vay_fay` (QA: incerto).
+- **Rimosse da data/words** (rifiutate da QA e NON citate in `content/`): w_pisat_verb, w_stringi, w_chyom, w_zh, w_bezoblachno, w_getero, w_sidushka, w_chlen. Elenco in `reports/removed_words.json`. Rifiutate da QA ma MANTENUTE perche' citate: w_neskolkie (l_a1_18), w_mem (l_a1_25); `w_vay_fay` e' citata (l_a1_25) e mantenuta.
+- **Glosse `it`**: applicate le 58 decisioni (22 correzioni alle esistenti, 36 per le `it_candidates`); `it` ora su 167 parole. Se la glossa viene dalla revisione QA, l'`attribution` lo indica.
+- **Translit**: regola `ч/ш/щ` davanti a consonante/ь/fine parola + `i` (`ci/sci/ssci`) in `common.py`, piu' eccezioni per `что`, `чтобы`, `ничто`, `что-то`, `коне́чно`; riproduce esattamente le 41 correzioni proposte.
+- **Topics**: ora solo dalle categorie del PRIMO senso Wiktionary (prima contaminate dai sensi secondari: мама era "tecnologia", кошка "abbigliamento"...), `numeri` solo per i numerali, piu' override manuali in `TOPIC_OVERRIDES` (`enrich_wiktextract.py`). 197 parole con topics; le altre sono coperte da `content/curriculum/word_topics.json` (slug del curriculum) tranne poche decine.
+- **Frasi**: 145 frasi con nomi propri (Том, Пол, Сами...) scartate (si scarta anche ogni frase con `Том`), 21 rifiutate da QA, 33 delle 34 escluse a torto recuperate (la 34a, s_4440956, contiene un nome proprio), 62 delle 69 frasi con correzione a `it`/`ru` presenti (le altre 7 contengono nomi propri o parole fuori vocabolario) (`s_05565` -> "В чём проблема?" con `w_chto`, che ha ora `prep_sg: чём`); le frasi corrette hanno una nota in `attribution`. Ogni parola delle frasi esiste in `data/words`.
 
 ## Script (`scripts/`)
 1. `fetch_sources.sh`: scarica OpenRussian (git clone), liste livelli (`fetch_levels.py`), export Tatoeba in `data/raw/` (in `.gitignore`).
 2. `build_words.py`: genera `words/*.json`.
 3. `build_sentences.py`: genera `sentences/*.json` e aggiorna `examples`. Eseguire sempre dopo `build_words.py`.
-4. `subset_wiktextract.py` poi `enrich_wiktextract.py`: arricchimento. 5. `filter_sentences.py`: ricontrollo frasi, report parole inadatte. Ordine: build_words, build_sentences (include il filtro), subset, enrich, filter_sentences.
+4. `subset_wiktextract.py` poi `enrich_wiktextract.py`: arricchimento. 5. `filter_sentences.py`: ricontrollo frasi, report parole inadatte. Ordine: build_words (applica anche i fix QA), build_sentences (filtro + fix QA), subset, enrich, filter_sentences. Rigenerare e' deterministico.
 `common.py`: accenti, translit, slug.
 
 ## Problemi aperti

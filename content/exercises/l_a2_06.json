@@ -1,0 +1,1271 @@
+[
+ {
+  "id": "e_001586",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_malchik"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ма́льчик",
+   "answer": "bambino",
+   "accepted": [
+    "bambino",
+    "il bambino",
+    "un bambino",
+    "ragazzino",
+    "il ragazzino",
+    "un ragazzino"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001587",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_paren",
+   "w_vernutsya"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Па́рень верну́лся.",
+   "answer": "Il ragazzo è tornato.",
+   "accepted": [
+    "Il ragazzo è tornato.",
+    "Il ragazzo è tornato",
+    "il ragazzo è tornato",
+    "il ragazzo è tornato.",
+    "Il ragazzo e' tornato.",
+    "il ragazzo e' tornato",
+    "il ragazzo e tornato"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001588",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_muzhchina"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "uomo",
+   "answer": "мужчи́на",
+   "accepted": [
+    "мужчи́на",
+    "мужчина"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001589",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_paren",
+   "w_vernutsya"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Il ragazzo è tornato.",
+   "answer": "Па́рень верну́лся.",
+   "accepted": [
+    "Па́рень верну́лся.",
+    "Па́рень верну́лся",
+    "Парень вернулся.",
+    "Парень вернулся",
+    "парень вернулся.",
+    "парень вернулся",
+    "па́рень верну́лся"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001590",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_devochka"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "де́вочка",
+   "answer": "bambina",
+   "accepted": [
+    "bambina",
+    "la bambina",
+    "una bambina"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001591",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_ya",
+   "w_nachalnik"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ нача́льник.",
+   "answer": "Sono il capo.",
+   "accepted": [
+    "Sono il capo.",
+    "Sono il capo",
+    "sono il capo",
+    "sono il capo.",
+    "Io sono il capo.",
+    "Io sono il capo",
+    "io sono il capo",
+    "io sono il capo."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001592",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_direktor"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "direttore",
+   "answer": "дире́ктор",
+   "accepted": [
+    "дире́ктор",
+    "директор"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001593",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_spasibo",
+   "w_doktor"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Grazie, dottore.",
+   "answer": "Спаси́бо, до́ктор!",
+   "accepted": [
+    "Спаси́бо, до́ктор!",
+    "Спаси́бо до́ктор",
+    "Спасибо, доктор!",
+    "Спасибо доктор",
+    "спасибо, доктор!",
+    "спасибо доктор",
+    "спаси́бо до́ктор"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001594",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_vrach"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ рабо́таю ___.",
+   "answer": "врачо́м",
+   "accepted": [
+    "врачо́м",
+    "врачом"
+   ],
+   "hint_it": "Lavoro come medico."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001595",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_kak"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ вы́, па́рни?",
+   "answer": "Ка́к",
+   "accepted": [
+    "Ка́к",
+    "Как",
+    "как",
+    "ка́к"
+   ],
+   "hint_it": "Come va ragazzi?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001596",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_drug"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Она́ идёт с ___.",
+   "answer": "дру́гом",
+   "accepted": [
+    "дру́гом",
+    "другом"
+   ],
+   "hint_it": "Lei va con un amico."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001597",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_malchik"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___.",
+   "answer": "ма́льчик",
+   "accepted": [
+    "ма́льчик",
+    "мальчик"
+   ],
+   "hint_it": "Sono un ragazzo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001598",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_direktor"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Где́ ___?",
+   "answer": "дире́ктор",
+   "accepted": [
+    "дире́ктор",
+    "директор"
+   ],
+   "hint_it": "Dov'è il direttore?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001599",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_teper"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ я́ нача́льник.",
+   "answer": "Тепе́рь",
+   "accepted": [
+    "Тепе́рь",
+    "Теперь",
+    "теперь",
+    "тепе́рь"
+   ],
+   "hint_it": "Sono il capo adesso."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001600",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ма́льчик.",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "Questo è un ragazzo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001601",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_direktor"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (come chi?).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Он рабо́тает ___. — Lui lavora come direttore.",
+   "options": [
+    "дире́ктор",
+    "дире́ктора",
+    "дире́ктору",
+    "дире́ктором"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001602",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_on",
+   "w_ne",
+   "w_doktor"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "О́н не до́ктор.",
+   "options": [
+    "Non leggo.",
+    "Lei è sua moglie?",
+    "Noi non verremo.",
+    "Lui non è un dottore."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001603",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_devochka"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «де́вочка»?",
+   "options": [
+    "letto",
+    "bambina",
+    "uscita",
+    "padre"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001604",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions",
+   "gender"
+  ],
+  "words": [
+   "w_muzhchina"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «мужчи́на»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001605",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_muzhchina",
+   "w_idti"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Gli uomini stanno andando.",
+   "options": [
+    "Сне́г идёт?",
+    "Мужчи́ны иду́т.",
+    "Шёл до́ждь.",
+    "Идёт сне́г."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001606",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_nachalnik"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «capo» in russo?",
+   "options": [
+    "нога́",
+    "ребёнок",
+    "нача́льник",
+    "воскресе́нье"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001607",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_brat"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (con chi?).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ иду́ с ___. — Vado con mio fratello.",
+   "options": [
+    "бра́ту",
+    "брат",
+    "бра́том",
+    "бра́та"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001608",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_nachalnik",
+   "w_malchik",
+   "w_vrach",
+   "w_paren",
+   "w_muzhchina"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "нача́льник",
+     "it": "capo"
+    },
+    {
+     "ru": "ма́льчик",
+     "it": "bambino"
+    },
+    {
+     "ru": "вра́ч",
+     "it": "medico"
+    },
+    {
+     "ru": "па́рень",
+     "it": "ragazzo"
+    },
+    {
+     "ru": "мужчи́на",
+     "it": "uomo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001609",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_muzhchina",
+   "w_vysokiy",
+   "w_on",
+   "w_vrach",
+   "w_ya",
+   "w_malchik"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Мужчи́на высо́кий.",
+     "it": "L'uomo è alto."
+    },
+    {
+     "ru": "О́н вра́ч.",
+     "it": "Lui è un dottore."
+    },
+    {
+     "ru": "Я́ ма́льчик.",
+     "it": "Sono un ragazzo."
+    },
+    {
+     "ru": "О́н не до́ктор.",
+     "it": "Lui non è un dottore."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001610",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_nachalnik",
+   "w_malchik",
+   "w_direktor",
+   "w_zavtra",
+   "w_iz",
+   "w_mesto"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "нача́льник",
+     "it": "capo"
+    },
+    {
+     "ru": "ма́льчик",
+     "it": "bambino"
+    },
+    {
+     "ru": "дире́ктор",
+     "it": "direttore"
+    },
+    {
+     "ru": "за́втра",
+     "it": "domani"
+    },
+    {
+     "ru": "и́з",
+     "it": "da"
+    },
+    {
+     "ru": "ме́сто",
+     "it": "posto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001611",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_vrach",
+   "w_devochka",
+   "w_doktor",
+   "w_paren"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "вра́ч",
+     "it": "medico"
+    },
+    {
+     "ru": "де́вочка",
+     "it": "bambina"
+    },
+    {
+     "ru": "до́ктор",
+     "it": "dottore"
+    },
+    {
+     "ru": "па́рень",
+     "it": "ragazzo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001612",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_gde",
+   "w_malchik",
+   "w_eto",
+   "w_muzhchina",
+   "w_idti"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Где́ ма́льчики?",
+     "it": "Dove sono i ragazzi?"
+    },
+    {
+     "ru": "Э́то ма́льчик.",
+     "it": "Questo è un ragazzo."
+    },
+    {
+     "ru": "Мужчи́ны иду́т.",
+     "it": "Gli uomini stanno andando."
+    },
+    {
+     "ru": "Я́ вра́ч.",
+     "it": "Sono un dottore."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001613",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_vrach",
+   "w_doktor",
+   "w_muzhchina",
+   "w_na",
+   "w_uchit",
+   "w_golova"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "вра́ч",
+     "it": "medico"
+    },
+    {
+     "ru": "до́ктор",
+     "it": "dottore"
+    },
+    {
+     "ru": "мужчи́на",
+     "it": "uomo"
+    },
+    {
+     "ru": "на́",
+     "it": "su"
+    },
+    {
+     "ru": "учи́ть",
+     "it": "studiare"
+    },
+    {
+     "ru": "голова́",
+     "it": "testa"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001614",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_direktor",
+   "w_devochka",
+   "w_doktor"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "дире́ктор",
+     "it": "direttore"
+    },
+    {
+     "ru": "де́вочка",
+     "it": "bambina"
+    },
+    {
+     "ru": "до́ктор",
+     "it": "dottore"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001615",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_vy",
+   "w_vrach"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вы́ врачи́.",
+   "translation_it": "Voi siete dottori.",
+   "accepted": [
+    "Вы́ врачи́.",
+    "Вы́ врачи́",
+    "Вы врачи.",
+    "Вы врачи",
+    "вы врачи.",
+    "вы врачи",
+    "вы́ врачи́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001616",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_vrach"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "вра́ч",
+   "translation_it": "medico",
+   "accepted": [
+    "вра́ч",
+    "врач"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001617",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_ya",
+   "w_vrach"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ вра́ч.",
+   "translation_it": "Sono un dottore.",
+   "accepted": [
+    "Я́ вра́ч.",
+    "Я́ вра́ч",
+    "Я врач.",
+    "Я врач",
+    "я врач.",
+    "я врач",
+    "я́ вра́ч"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001618",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_muzhchina"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "мужчи́на",
+   "translation_it": "uomo",
+   "accepted": [
+    "мужчи́на",
+    "мужчина"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001619",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_paren",
+   "w_vernutsya"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Па́рень верну́лся.",
+   "translation_it": "Il ragazzo è tornato.",
+   "accepted": [
+    "Па́рень верну́лся.",
+    "Па́рень верну́лся",
+    "Парень вернулся.",
+    "Парень вернулся",
+    "парень вернулся.",
+    "парень вернулся",
+    "па́рень верну́лся"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001620",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_malchik"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ма́льчик",
+   "translation_it": "bambino",
+   "accepted": [
+    "ма́льчик",
+    "мальчик"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001621",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_muzhchina",
+   "w_vysokiy"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Мужчи́на высо́кий.",
+   "translation_it": "L'uomo è alto.",
+   "accepted": [
+    "Мужчи́на высо́кий.",
+    "Мужчи́на высо́кий",
+    "Мужчина высокий.",
+    "Мужчина высокий",
+    "мужчина высокий.",
+    "мужчина высокий",
+    "мужчи́на высо́кий"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

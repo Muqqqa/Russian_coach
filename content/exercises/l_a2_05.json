@@ -1,0 +1,1301 @@
+[
+ {
+  "id": "e_001550",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_davat"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "дава́ть",
+   "answer": "dare",
+   "accepted": [
+    "dare"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001551",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_ya",
+   "w_prinesti",
+   "w_svoy"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ принёс свою́.",
+   "answer": "Ho portato la mia.",
+   "accepted": [
+    "Ho portato la mia.",
+    "Ho portato la mia",
+    "ho portato la mia",
+    "ho portato la mia.",
+    "Io ho portato la mia.",
+    "Io ho portato la mia",
+    "io ho portato la mia",
+    "io ho portato la mia."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001552",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_dat"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "dare",
+   "answer": "да́ть",
+   "accepted": [
+    "да́ть",
+    "дать",
+    "дава́ть",
+    "давать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001553",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_pozhaluysta",
+   "w_obyasnit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Spiegatevi, per favore.",
+   "answer": "Пожа́луйста, объясни́те.",
+   "accepted": [
+    "Пожа́луйста, объясни́те.",
+    "Пожа́луйста объясни́те",
+    "Пожалуйста, объясните.",
+    "Пожалуйста объясните",
+    "пожалуйста, объясните.",
+    "пожалуйста объясните",
+    "пожа́луйста объясни́те"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001554",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_predlozhit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "предложи́ть",
+   "answer": "proporre",
+   "accepted": [
+    "proporre"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001555",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_pozhaluysta",
+   "w_obyasnit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Пожа́луйста, объясни́.",
+   "answer": "Spiegati, per favore.",
+   "accepted": [
+    "Spiegati, per favore.",
+    "Spiegati per favore",
+    "spiegati per favore",
+    "spiegati, per favore."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001556",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_poslat"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "mandare",
+   "answer": "посла́ть",
+   "accepted": [
+    "посла́ть",
+    "послать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001557",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_ya",
+   "w_prinesti",
+   "w_svoy"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Ho portato la mia.",
+   "answer": "Я́ принёс свою́.",
+   "accepted": [
+    "Я́ принёс свою́.",
+    "Я́ принёс свою́",
+    "Я принёс свою.",
+    "Я принёс свою",
+    "я принёс свою.",
+    "я принёс свою",
+    "я́ принёс свою́",
+    "Я принес свою.",
+    "я принес свою",
+    "Я́ принёс мою́.",
+    "Я́ принёс мою́",
+    "Я принёс мою.",
+    "Я принёс мою",
+    "я принёс мою.",
+    "я принёс мою",
+    "я́ принёс мою́",
+    "Я принес мою.",
+    "я принес мою"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001558",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_syn"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ объясню́ ___ сло́во.",
+   "answer": "сы́ну",
+   "accepted": [
+    "сы́ну",
+    "сыну"
+   ],
+   "hint_it": "Spiegherò la parola a mio figlio."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001559",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_pozhaluysta"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___, объясни́.",
+   "answer": "Пожа́луйста",
+   "accepted": [
+    "Пожа́луйста",
+    "Пожалуйста",
+    "пожалуйста",
+    "пожа́луйста"
+   ],
+   "hint_it": "Spiegati, per favore."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001560",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns",
+   "future-perfective"
+  ],
+  "words": [
+   "w_poprosit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "За́втра я́ ___ (попроси́ть).",
+   "answer": "попрошу́",
+   "accepted": [
+    "попрошу́",
+    "попрошу"
+   ],
+   "hint_it": "chiedere: io (domani)"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001561",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_spat"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Пошли́ ___.",
+   "answer": "спа́ть",
+   "accepted": [
+    "спа́ть",
+    "спать"
+   ],
+   "hint_it": "Andiamo a dormire."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001562",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_brat"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Она́ даёт ___ ко́фе.",
+   "answer": "бра́ту",
+   "accepted": [
+    "бра́ту",
+    "брату"
+   ],
+   "hint_it": "Lei dà il caffè al fratello."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001563",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_prinesti"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ вино́.",
+   "answer": "принёс",
+   "accepted": [
+    "принёс",
+    "принес"
+   ],
+   "hint_it": "Ho portato del vino."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001564",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns",
+   "future-perfective"
+  ],
+  "words": [
+   "w_poprosit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "За́втра они́ ___ (попроси́ть).",
+   "answer": "попро́сят",
+   "accepted": [
+    "попро́сят",
+    "попросят"
+   ],
+   "hint_it": "chiedere: loro (domani)"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001565",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns",
+   "future-perfective"
+  ],
+  "words": [
+   "w_predlozhit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 14,
+  "prompt_it": "Coniuga il verbo: scegli la forma giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "За́втра ты́ ___ (предложи́ть). — proporre: tu (domani)",
+   "options": [
+    "предло́жим",
+    "предло́жишь",
+    "предло́жите",
+    "предло́жит"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001566",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_ya",
+   "w_prinesti",
+   "w_vino"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ принёс вино́.",
+   "options": [
+    "Io devo andare.",
+    "Te lo racconterò.",
+    "Ho portato del vino.",
+    "L'ho comprata."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001567",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_poprosit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «попроси́ть»?",
+   "options": [
+    "nascere",
+    "iniziare",
+    "chiedere",
+    "trovare"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001568",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_pozhaluysta",
+   "w_obyasnit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Spiegati, per favore.",
+   "options": [
+    "Счёт, пожа́луйста!",
+    "Два́, пожа́луйста.",
+    "Пожа́луйста, объясни́.",
+    "Пожа́луйста, войди́те!"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001569",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_obyasnit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «spiegare» in russo?",
+   "options": [
+    "написа́ть",
+    "говори́ть",
+    "объясни́ть",
+    "попроси́ть"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001570",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns",
+   "future-perfective"
+  ],
+  "words": [
+   "w_poslat"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 14,
+  "prompt_it": "Coniuga il verbo: scegli la forma giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "За́втра вы́ ___ (посла́ть). — mandare: voi (domani)",
+   "options": [
+    "пошлёшь",
+    "пошлю́",
+    "пошлю́т",
+    "пошлёте"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001571",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_kto",
+   "w_prinesti",
+   "w_pivo"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Кто́ принёс пи́во?",
+   "options": [
+    "Gli piace la birra?",
+    "Chi ha portato la birra?",
+    "Ho portato la mia.",
+    "Chi cucina per voi?"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001572",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_predlozhit",
+   "w_davat",
+   "w_pokazat",
+   "w_prinesti"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "предложи́ть",
+     "it": "proporre"
+    },
+    {
+     "ru": "дава́ть",
+     "it": "dare"
+    },
+    {
+     "ru": "показа́ть",
+     "it": "mostrare"
+    },
+    {
+     "ru": "принести́",
+     "it": "portare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001573",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "comunicazione",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_oni",
+   "w_predlozhit",
+   "w_ya",
+   "w_rabota",
+   "w_prinesti"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Они́ предложи́ли мне́ рабо́ту.",
+     "it": "Loro mi hanno offerto un lavoro."
+    },
+    {
+     "ru": "Я́ принёс мою́.",
+     "it": "Ho portato la mia."
+    },
+    {
+     "ru": "Пошли́ спа́ть!",
+     "it": "Andiamo a dormire!"
+    },
+    {
+     "ru": "Кто́ принёс пи́во?",
+     "it": "Chi ha portato la birra?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001574",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione",
+   "azioni",
+   "persone"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_poslat",
+   "w_obyasnit",
+   "w_predlozhit",
+   "w_podruga",
+   "w_skolko",
+   "w_stantsiya"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "посла́ть",
+     "it": "mandare"
+    },
+    {
+     "ru": "объясни́ть",
+     "it": "spiegare"
+    },
+    {
+     "ru": "предложи́ть",
+     "it": "proporre"
+    },
+    {
+     "ru": "подру́га",
+     "it": "amica"
+    },
+    {
+     "ru": "ско́лько",
+     "it": "quanto"
+    },
+    {
+     "ru": "ста́нция",
+     "it": "stazione"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001575",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_poslat",
+   "w_predlozhit",
+   "w_obyasnit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "посла́ть",
+     "it": "mandare"
+    },
+    {
+     "ru": "предложи́ть",
+     "it": "proporre"
+    },
+    {
+     "ru": "объясни́ть",
+     "it": "spiegare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001576",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni",
+   "grammatica",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_ya",
+   "w_prinesti",
+   "w_moy",
+   "w_davat",
+   "w_slovo",
+   "w_dat"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ принёс мо́й.",
+     "it": "Ho portato il mio."
+    },
+    {
+     "ru": "Даю́ сло́во.",
+     "it": "Ti do la mia parola."
+    },
+    {
+     "ru": "Да́йте сказа́ть.",
+     "it": "Lasciatemi parlare."
+    },
+    {
+     "ru": "Да́й сказа́ть.",
+     "it": "Lasciami parlare."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001577",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni",
+   "comunicazione",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_pokazat",
+   "w_prinesti",
+   "w_obyasnit",
+   "w_chay",
+   "w_pryamo",
+   "w_chas"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "показа́ть",
+     "it": "mostrare"
+    },
+    {
+     "ru": "принести́",
+     "it": "portare"
+    },
+    {
+     "ru": "объясни́ть",
+     "it": "spiegare"
+    },
+    {
+     "ru": "ча́й",
+     "it": "tè"
+    },
+    {
+     "ru": "пря́мо",
+     "it": "dritto"
+    },
+    {
+     "ru": "ча́с",
+     "it": "ora"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001578",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_poslat",
+   "w_dat",
+   "w_poprosit",
+   "w_obyasnit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "посла́ть",
+     "it": "mandare"
+    },
+    {
+     "ru": "да́ть",
+     "it": "dare"
+    },
+    {
+     "ru": "попроси́ть",
+     "it": "chiedere"
+    },
+    {
+     "ru": "объясни́ть",
+     "it": "spiegare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001579",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_ya",
+   "w_prinesti",
+   "w_moy"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ принёс мои́.",
+   "translation_it": "Ho portato i miei.",
+   "accepted": [
+    "Я́ принёс мои́.",
+    "Я́ принёс мои́",
+    "Я принёс мои.",
+    "Я принёс мои",
+    "я принёс мои.",
+    "я принёс мои",
+    "я́ принёс мои́",
+    "Я принес мои.",
+    "я принес мои"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001580",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_prinesti"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "принести́",
+   "translation_it": "portare",
+   "accepted": [
+    "принести́",
+    "принести"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001581",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_ya",
+   "w_prinesti",
+   "w_moy"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ принёс мо́й.",
+   "translation_it": "Ho portato il mio.",
+   "accepted": [
+    "Я́ принёс мо́й.",
+    "Я́ принёс мо́й",
+    "Я принёс мой.",
+    "Я принёс мой",
+    "я принёс мой.",
+    "я принёс мой",
+    "я́ принёс мо́й",
+    "Я принес мой.",
+    "я принес мой"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001582",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_poslat"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "посла́ть",
+   "translation_it": "mandare",
+   "accepted": [
+    "посла́ть",
+    "послать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001583",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_dat",
+   "w_skazat"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Да́йте сказа́ть.",
+   "translation_it": "Lasciatemi parlare.",
+   "accepted": [
+    "Да́йте сказа́ть.",
+    "Да́йте сказа́ть",
+    "Дайте сказать.",
+    "Дайте сказать",
+    "дайте сказать.",
+    "дайте сказать",
+    "да́йте сказа́ть"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001584",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_poprosit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "попроси́ть",
+   "translation_it": "chiedere",
+   "accepted": [
+    "попроси́ть",
+    "попросить"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001585",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_ya",
+   "w_prinesti",
+   "w_svoy"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ принёс сво́й.",
+   "translation_it": "Ho portato il mio.",
+   "accepted": [
+    "Я́ принёс сво́й.",
+    "Я́ принёс сво́й",
+    "Я принёс свой.",
+    "Я принёс свой",
+    "я принёс свой.",
+    "я принёс свой",
+    "я́ принёс сво́й",
+    "Я принес свой.",
+    "я принес свой"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

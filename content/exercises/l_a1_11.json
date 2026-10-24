@@ -1,0 +1,1421 @@
+[
+ {
+  "id": "e_000835",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_tuda"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "туда́",
+   "answer": "verso là",
+   "accepted": [
+    "verso là",
+    "verso la"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000836",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_idti",
+   "w_medlenno"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Иди́те ме́дленно.",
+   "answer": "Camminate lentamente.",
+   "accepted": [
+    "Camminate lentamente.",
+    "Camminate lentamente",
+    "camminate lentamente",
+    "camminate lentamente."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000837",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_ekhat"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "andare con un mezzo",
+   "answer": "е́хать",
+   "accepted": [
+    "е́хать",
+    "ехать",
+    "пое́хать",
+    "поехать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000838",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_kak",
+   "w_daleko"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Quanto è lontano?",
+   "answer": "Ка́к далеко́?",
+   "accepted": [
+    "Ка́к далеко́?",
+    "Ка́к далеко́",
+    "Как далеко?",
+    "Как далеко",
+    "как далеко?",
+    "как далеко",
+    "ка́к далеко́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000839",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_nazad"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "наза́д",
+   "answer": "indietro",
+   "accepted": [
+    "indietro"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000840",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_on",
+   "w_ekhat",
+   "w_na",
+   "w_metro"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "О́н е́хал на метро́.",
+   "answer": "Lui è andato con la metro.",
+   "accepted": [
+    "Lui è andato con la metro.",
+    "Lui è andato con la metro",
+    "lui è andato con la metro",
+    "lui è andato con la metro.",
+    "Lui e' andato con la metro.",
+    "lui e' andato con la metro",
+    "lui e andato con la metro"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000841",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_tuda"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "verso là",
+   "answer": "туда́",
+   "accepted": [
+    "туда́",
+    "туда"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000842",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_zdes",
+   "w_napravo"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Qui a destra.",
+   "answer": "Зде́сь напра́во.",
+   "accepted": [
+    "Зде́сь напра́во.",
+    "Зде́сь напра́во",
+    "Здесь направо.",
+    "Здесь направо",
+    "здесь направо.",
+    "здесь направо",
+    "зде́сь напра́во"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000843",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_daleko"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "далеко́",
+   "answer": "lontano",
+   "accepted": [
+    "lontano"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000844",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions",
+   "verbs-present"
+  ],
+  "words": [
+   "w_idti"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Он ___ (идти́).",
+   "answer": "идёт",
+   "accepted": [
+    "идёт",
+    "идет"
+   ],
+   "hint_it": "andare a piedi: lui"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000845",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_bystro"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ иду́ ___.",
+   "answer": "бы́стро",
+   "accepted": [
+    "бы́стро",
+    "быстро"
+   ],
+   "hint_it": "Vado veloce."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000846",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions",
+   "verbs-present"
+  ],
+  "words": [
+   "w_idti"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вы́ ___ (идти́).",
+   "answer": "идёте",
+   "accepted": [
+    "идёте",
+    "идете"
+   ],
+   "hint_it": "andare a piedi: voi"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000847",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_medlenno"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Иди́те ___.",
+   "answer": "ме́дленно",
+   "accepted": [
+    "ме́дленно",
+    "медленно"
+   ],
+   "hint_it": "Camminate lentamente."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000848",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_dalyokiy"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ до́м.",
+   "answer": "далёкий",
+   "accepted": [
+    "далёкий",
+    "далекий"
+   ],
+   "hint_it": "lontano: concorda con «casa» (maschile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000849",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_idti"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Мы́ ___ в ба́р.",
+   "answer": "идём",
+   "accepted": [
+    "идём",
+    "идем"
+   ],
+   "hint_it": "Stiamo andando al bar."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000850",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_zdes"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ напра́во.",
+   "answer": "Зде́сь",
+   "accepted": [
+    "Зде́сь",
+    "Здесь",
+    "здесь",
+    "зде́сь"
+   ],
+   "hint_it": "Qui a destra."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000851",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_ekhat"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "До́лго ___?",
+   "answer": "е́хать",
+   "accepted": [
+    "е́хать",
+    "ехать"
+   ],
+   "hint_it": "Il viaggio è lungo?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000852",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_dalyokiy"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «далёкий» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ вино́. — lontano: concorda con «vino» (neutro).",
+   "options": [
+    "далёкие",
+    "далёкий",
+    "далёкое",
+    "далёкая"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000853",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_my",
+   "w_ekhat",
+   "w_neskolko",
+   "w_chas"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Мы́ е́хали не́сколько часо́в.",
+   "options": [
+    "Vai anche tu?",
+    "Siamo andati per qualche ora.",
+    "Ho dormito nove ore.",
+    "Andavo veloce?"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000854",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_tuda"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «туда́»?",
+   "options": [
+    "molto",
+    "là",
+    "non lontano",
+    "verso là"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000855",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_vy",
+   "w_idti"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Vi sta bene.",
+   "options": [
+    "Ва́м идёт.",
+    "Они́ иду́т.",
+    "Вы́ мо́жете.",
+    "Вы́ кто́?"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000856",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_tuda"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «verso là» in russo?",
+   "options": [
+    "ма́ло",
+    "туда́",
+    "вку́сно",
+    "по-ру́сски"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000857",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions",
+   "verbs-present"
+  ],
+  "words": [
+   "w_ekhat"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 14,
+  "prompt_it": "Coniuga il verbo: scegli la forma giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ ___ (е́хать). — andare con un mezzo: io",
+   "options": [
+    "е́ду",
+    "е́дут",
+    "е́дешь",
+    "е́дет"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000858",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_vy",
+   "w_idti"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Ва́м идёт.",
+   "options": [
+    "Andiamo là!",
+    "Lei è intelligente.",
+    "Siete sporco.",
+    "Vi sta bene."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000859",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_dalyokiy"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «далёкий»?",
+   "options": [
+    "lontano",
+    "vecchio",
+    "cattivo",
+    "difficile"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000860",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_nalevo",
+   "w_dalyokiy",
+   "w_idti",
+   "w_daleko",
+   "w_pryamo",
+   "w_tuda"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "нале́во",
+     "it": "a sinistra"
+    },
+    {
+     "ru": "далёкий",
+     "it": "lontano"
+    },
+    {
+     "ru": "идти́",
+     "it": "andare a piedi"
+    },
+    {
+     "ru": "пря́мо",
+     "it": "dritto"
+    },
+    {
+     "ru": "туда́",
+     "it": "verso là"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000861",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "azioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_zdes",
+   "w_napravo",
+   "w_smotret",
+   "w_idti",
+   "w_ya",
+   "w_bystro"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Зде́сь напра́во.",
+     "it": "Qui a destra."
+    },
+    {
+     "ru": "Смотри́! Идёт!",
+     "it": "Guarda! Sta arrivando!"
+    },
+    {
+     "ru": "Я́ бы́стро е́хал?",
+     "it": "Andavo veloce?"
+    },
+    {
+     "ru": "Зде́сь нале́во.",
+     "it": "Qui a sinistra."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000862",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "movimento",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_ekhat",
+   "w_nalevo",
+   "w_nazad",
+   "w_sekunda",
+   "w_kupit",
+   "w_umnyy"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "е́хать",
+     "it": "andare con un mezzo"
+    },
+    {
+     "ru": "нале́во",
+     "it": "a sinistra"
+    },
+    {
+     "ru": "наза́д",
+     "it": "indietro"
+    },
+    {
+     "ru": "секу́нда",
+     "it": "secondo"
+    },
+    {
+     "ru": "купи́ть",
+     "it": "comprare"
+    },
+    {
+     "ru": "у́мный",
+     "it": "intelligente"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000863",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_napravo",
+   "w_daleko",
+   "w_pryamo",
+   "w_idti",
+   "w_dalyokiy"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "напра́во",
+     "it": "a destra"
+    },
+    {
+     "ru": "далеко́",
+     "it": "lontano"
+    },
+    {
+     "ru": "пря́мо",
+     "it": "dritto"
+    },
+    {
+     "ru": "идти́",
+     "it": "andare a piedi"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000864",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_ona",
+   "w_daleko",
+   "w_idti",
+   "w_tuda",
+   "w_bez"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Она́ далеко́?",
+     "it": "Lei è lontana?"
+    },
+    {
+     "ru": "Идём туда́!",
+     "it": "Andiamo là!"
+    },
+    {
+     "ru": "Иди́ без меня́.",
+     "it": "Vai senza di me."
+    },
+    {
+     "ru": "Ты́ то́же е́дешь?",
+     "it": "Vai anche tu?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000865",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "movimento",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_daleko",
+   "w_nedaleko",
+   "w_idti",
+   "w_v",
+   "w_eshchyo",
+   "w_pivo"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "далеко́",
+     "it": "lontano"
+    },
+    {
+     "ru": "недалеко́",
+     "it": "non lontano"
+    },
+    {
+     "ru": "идти́",
+     "it": "andare a piedi"
+    },
+    {
+     "ru": "в",
+     "it": "in"
+    },
+    {
+     "ru": "ещё",
+     "it": "ancora"
+    },
+    {
+     "ru": "пи́во",
+     "it": "birra"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000866",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_ekhat",
+   "w_nazad",
+   "w_nedaleko",
+   "w_nalevo",
+   "w_tuda"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "е́хать",
+     "it": "andare con un mezzo"
+    },
+    {
+     "ru": "наза́д",
+     "it": "indietro"
+    },
+    {
+     "ru": "недалеко́",
+     "it": "non lontano"
+    },
+    {
+     "ru": "нале́во",
+     "it": "a sinistra"
+    },
+    {
+     "ru": "туда́",
+     "it": "verso là"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000867",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_kak",
+   "w_daleko"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ка́к далеко́?",
+   "translation_it": "Quanto è lontano?",
+   "accepted": [
+    "Ка́к далеко́?",
+    "Ка́к далеко́",
+    "Как далеко?",
+    "Как далеко",
+    "как далеко?",
+    "как далеко",
+    "ка́к далеко́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000868",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_dalyokiy"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "далёкий",
+   "translation_it": "lontano",
+   "accepted": [
+    "далёкий",
+    "далекий"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000869",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_vse",
+   "w_tuda",
+   "w_idti"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Все́ туда́ иду́т.",
+   "translation_it": "Tutti ci stanno andando.",
+   "accepted": [
+    "Все́ туда́ иду́т.",
+    "Все́ туда́ иду́т",
+    "Все туда идут.",
+    "Все туда идут",
+    "все туда идут.",
+    "все туда идут",
+    "все́ туда́ иду́т"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000870",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_idti"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "идти́",
+   "translation_it": "andare a piedi",
+   "accepted": [
+    "идти́",
+    "идти"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000871",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_ya",
+   "w_bystro",
+   "w_ekhat"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ бы́стро е́хал?",
+   "translation_it": "Andavo veloce?",
+   "accepted": [
+    "Я́ бы́стро е́хал?",
+    "Я́ бы́стро е́хал",
+    "Я быстро ехал?",
+    "Я быстро ехал",
+    "я быстро ехал?",
+    "я быстро ехал",
+    "я́ бы́стро е́хал"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000872",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_tuda"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "туда́",
+   "translation_it": "verso là",
+   "accepted": [
+    "туда́",
+    "туда"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000873",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_oni",
+   "w_idti"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Они́ иду́т.",
+   "translation_it": "Loro stanno andando.",
+   "accepted": [
+    "Они́ иду́т.",
+    "Они́ иду́т",
+    "Они идут.",
+    "Они идут",
+    "они идут.",
+    "они идут",
+    "они́ иду́т"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000874",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "motion-verbs",
+   "directions"
+  ],
+  "words": [
+   "w_nazad"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "наза́д",
+   "translation_it": "indietro",
+   "accepted": [
+    "наза́д",
+    "назад"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

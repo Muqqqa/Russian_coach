@@ -1,0 +1,1426 @@
+[
+ {
+  "id": "e_000875",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_chashka"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ча́шка",
+   "answer": "tazza",
+   "accepted": [
+    "tazza",
+    "la tazza",
+    "una tazza"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000876",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_khotet",
+   "w_sup"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Хо́чешь су́п?",
+   "answer": "Vuoi della minestra?",
+   "accepted": [
+    "Vuoi della minestra?",
+    "Vuoi della minestra",
+    "vuoi della minestra",
+    "vuoi della minestra?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000877",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_kushat"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "mangiare",
+   "answer": "ку́шать",
+   "accepted": [
+    "ку́шать",
+    "кушать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000878",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_eda",
+   "w_vkusnyy"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Il cibo è delizioso.",
+   "answer": "Еда́ вку́сная.",
+   "accepted": [
+    "Еда́ вку́сная.",
+    "Еда́ вку́сная",
+    "Еда вкусная.",
+    "Еда вкусная",
+    "еда вкусная.",
+    "еда вкусная",
+    "еда́ вку́сная"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000879",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_eda"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "еда́",
+   "answer": "cibo",
+   "accepted": [
+    "cibo",
+    "il cibo",
+    "un cibo",
+    "pasto",
+    "il pasto",
+    "un pasto"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000880",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_vot",
+   "w_pivo"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Вот пи́во.",
+   "answer": "Ecco la birra.",
+   "accepted": [
+    "Ecco la birra.",
+    "Ecco la birra",
+    "ecco la birra",
+    "ecco la birra."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000881",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_salat"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "insalata",
+   "answer": "сала́т",
+   "accepted": [
+    "сала́т",
+    "салат"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000882",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_vot",
+   "w_pivo"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Ecco la birra.",
+   "answer": "Вот пи́во.",
+   "accepted": [
+    "Вот пи́во.",
+    "Вот пи́во",
+    "Вот пиво.",
+    "Вот пиво",
+    "вот пиво.",
+    "вот пиво",
+    "вот пи́во"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000883",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_kafe"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "кафе́",
+   "answer": "caffetteria",
+   "accepted": [
+    "caffetteria",
+    "la caffetteria",
+    "una caffetteria",
+    "bar",
+    "il bar",
+    "un bar"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000884",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_lyubit"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 20,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ не ___ други́е напи́тки.",
+   "answer": "люблю́",
+   "accepted": [
+    "люблю́",
+    "люблю"
+   ],
+   "hint_it": "Non mi piacciono altre bevande."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000885",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_kak"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ сала́т?",
+   "answer": "Ка́к",
+   "accepted": [
+    "Ка́к",
+    "Как",
+    "как",
+    "ка́к"
+   ],
+   "hint_it": "Com'è l'insalata?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000886",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_chay"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ и́ли ко́фе?",
+   "answer": "Ча́й",
+   "accepted": [
+    "Ча́й",
+    "Чай",
+    "чай",
+    "ча́й"
+   ],
+   "hint_it": "Tè o caffè?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000887",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_khotet"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ су́п?",
+   "answer": "Хо́чешь",
+   "accepted": [
+    "Хо́чешь",
+    "Хочешь",
+    "хочешь",
+    "хо́чешь"
+   ],
+   "hint_it": "Vuoi della minestra?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000888",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_vot"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ пи́во.",
+   "answer": "Вот",
+   "accepted": [
+    "Вот",
+    "вот"
+   ],
+   "hint_it": "Ecco la birra."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000889",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_vkusnyy"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Еда́ ___.",
+   "answer": "вку́сная",
+   "accepted": [
+    "вку́сная",
+    "вкусная"
+   ],
+   "hint_it": "Il cibo è delizioso."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000890",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_napitok"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 20,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ не люблю́ други́е ___.",
+   "answer": "напи́тки",
+   "accepted": [
+    "напи́тки",
+    "напитки"
+   ],
+   "hint_it": "Non mi piacciono altre bevande."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000891",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_kofe"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Два́ ___, пожа́луйста.",
+   "answer": "ко́фе",
+   "accepted": [
+    "ко́фе",
+    "кофе"
+   ],
+   "hint_it": "Due caffè, per piacere."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000892",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat",
+   "verbs-present"
+  ],
+  "words": [
+   "w_kushat"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 14,
+  "prompt_it": "Coniuga il verbo: scegli la forma giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ ___ (ку́шать). — mangiare: io",
+   "options": [
+    "ку́шаю",
+    "ку́шает",
+    "ку́шаешь",
+    "ку́шаете"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000893",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_eda",
+   "w_dorogoy"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Еда́ дорога́я.",
+   "options": [
+    "Il cibo è costoso.",
+    "Cari amici!",
+    "Il tempo è prezioso.",
+    "Sono costosi."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000894",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_kushat"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «ку́шать»?",
+   "options": [
+    "cercare",
+    "lavorare",
+    "andare con un mezzo",
+    "mangiare"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000895",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat",
+   "gender"
+  ],
+  "words": [
+   "w_kafe"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «кафе́»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000896",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_ya",
+   "w_ne",
+   "w_lyubit",
+   "w_drugoy",
+   "w_napitok"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 22,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Non mi piacciono altre bevande.",
+   "options": [
+    "Здра́вствуйте, я́ могу́ Ва́м помо́чь?",
+    "Я́ не люблю́ други́е напи́тки.",
+    "У меня́ во́семь бра́тьев.",
+    "Я́ ду́маю, о́н плохо́й челове́к."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000897",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_kafe"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «caffetteria» in russo?",
+   "options": [
+    "носо́к",
+    "кафе́",
+    "пи́во",
+    "среда́"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000898",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat",
+   "verbs-present"
+  ],
+  "words": [
+   "w_kushat"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 14,
+  "prompt_it": "Coniuga il verbo: scegli la forma giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Мы́ ___ (ку́шать). — mangiare: noi",
+   "options": [
+    "ку́шаем",
+    "ку́шают",
+    "ку́шаете",
+    "ку́шаешь"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000899",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_ty",
+   "w_kupit",
+   "w_arbuz"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Ты́ купи́л арбу́з?",
+   "options": [
+    "Quanto ti pagano?",
+    "Chi sei, amica?",
+    "Hai comprato un cocomero?",
+    "Ti piace la città?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000900",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_eda",
+   "w_kushat",
+   "w_arbuz",
+   "w_chashka",
+   "w_napitok"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "еда́",
+     "it": "cibo"
+    },
+    {
+     "ru": "ку́шать",
+     "it": "mangiare"
+    },
+    {
+     "ru": "арбу́з",
+     "it": "anguria"
+    },
+    {
+     "ru": "ча́шка",
+     "it": "tazza"
+    },
+    {
+     "ru": "напи́ток",
+     "it": "bevanda"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000901",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "mente",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_khotet",
+   "w_sup",
+   "w_dva",
+   "w_kofe",
+   "w_pozhaluysta",
+   "w_eda"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Хо́чешь су́п?",
+     "it": "Vuoi della minestra?"
+    },
+    {
+     "ru": "Два́ ко́фе, пожа́луйста.",
+     "it": "Due caffè, per piacere."
+    },
+    {
+     "ru": "Еда́ вку́сная.",
+     "it": "Il cibo è delizioso."
+    },
+    {
+     "ru": "Вот пи́во.",
+     "it": "Ecco la birra."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000902",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_sparzha",
+   "w_menyu",
+   "w_chashka",
+   "w_ya",
+   "w_pyatnitsa",
+   "w_vse"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "спа́ржа",
+     "it": "asparagi"
+    },
+    {
+     "ru": "меню́",
+     "it": "menù"
+    },
+    {
+     "ru": "ча́шка",
+     "it": "tazza"
+    },
+    {
+     "ru": "я́",
+     "it": "io"
+    },
+    {
+     "ru": "пя́тница",
+     "it": "venerdì"
+    },
+    {
+     "ru": "все́",
+     "it": "tutti"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000903",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_salat",
+   "w_arbuz",
+   "w_menyu",
+   "w_sup"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сала́т",
+     "it": "insalata"
+    },
+    {
+     "ru": "арбу́з",
+     "it": "anguria"
+    },
+    {
+     "ru": "меню́",
+     "it": "menù"
+    },
+    {
+     "ru": "су́п",
+     "it": "zuppa"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000904",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_eda",
+   "w_dorogoy",
+   "w_chay",
+   "w_ili",
+   "w_kofe",
+   "w_ne"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Еда́ дорога́я.",
+     "it": "Il cibo è costoso."
+    },
+    {
+     "ru": "Ча́й и́ли ко́фе?",
+     "it": "Tè o caffè?"
+    },
+    {
+     "ru": "Не могу́ ку́шать.",
+     "it": "Non riesco a mangiare."
+    },
+    {
+     "ru": "Ты́ купи́л арбу́з?",
+     "it": "Hai comprato un cocomero?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000905",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "grammatica",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_chashka",
+   "w_kushat",
+   "w_kafe",
+   "w_ili",
+   "w_dva",
+   "w_chitat"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ча́шка",
+     "it": "tazza"
+    },
+    {
+     "ru": "ку́шать",
+     "it": "mangiare"
+    },
+    {
+     "ru": "кафе́",
+     "it": "caffetteria"
+    },
+    {
+     "ru": "и́ли",
+     "it": "o"
+    },
+    {
+     "ru": "два́",
+     "it": "due"
+    },
+    {
+     "ru": "чита́ть",
+     "it": "leggere"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000906",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_kafe",
+   "w_salat",
+   "w_sparzha",
+   "w_menyu",
+   "w_piknik"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "кафе́",
+     "it": "caffetteria"
+    },
+    {
+     "ru": "сала́т",
+     "it": "insalata"
+    },
+    {
+     "ru": "спа́ржа",
+     "it": "asparagi"
+    },
+    {
+     "ru": "меню́",
+     "it": "menù"
+    },
+    {
+     "ru": "пикни́к",
+     "it": "picnic"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000907",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_ty",
+   "w_kupit",
+   "w_arbuz"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ты́ купи́л арбу́з?",
+   "translation_it": "Hai comprato un cocomero?",
+   "accepted": [
+    "Ты́ купи́л арбу́з?",
+    "Ты́ купи́л арбу́з",
+    "Ты купил арбуз?",
+    "Ты купил арбуз",
+    "ты купил арбуз?",
+    "ты купил арбуз",
+    "ты́ купи́л арбу́з"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000908",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_arbuz"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "арбу́з",
+   "translation_it": "anguria",
+   "accepted": [
+    "арбу́з",
+    "арбуз"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000909",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_khotet",
+   "w_sup"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Хо́чешь су́п?",
+   "translation_it": "Vuoi della minestra?",
+   "accepted": [
+    "Хо́чешь су́п?",
+    "Хо́чешь су́п",
+    "Хочешь суп?",
+    "Хочешь суп",
+    "хочешь суп?",
+    "хочешь суп",
+    "хо́чешь су́п"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000910",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_kushat"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ку́шать",
+   "translation_it": "mangiare",
+   "accepted": [
+    "ку́шать",
+    "кушать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000911",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "mente",
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_ne",
+   "w_moch",
+   "w_kushat"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Не могу́ ку́шать.",
+   "translation_it": "Non riesco a mangiare.",
+   "accepted": [
+    "Не могу́ ку́шать.",
+    "Не могу́ ку́шать",
+    "Не могу кушать.",
+    "Не могу кушать",
+    "не могу кушать.",
+    "не могу кушать",
+    "не могу́ ку́шать"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000912",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_sparzha"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "спа́ржа",
+   "translation_it": "asparagi",
+   "accepted": [
+    "спа́ржа",
+    "спаржа"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000913",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_ya",
+   "w_ne",
+   "w_lyubit",
+   "w_drugoy",
+   "w_napitok"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 30,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ не люблю́ други́е напи́тки.",
+   "translation_it": "Non mi piacciono altre bevande.",
+   "accepted": [
+    "Я́ не люблю́ други́е напи́тки.",
+    "Я́ не люблю́ други́е напи́тки",
+    "Я не люблю другие напитки.",
+    "Я не люблю другие напитки",
+    "я не люблю другие напитки.",
+    "я не люблю другие напитки",
+    "я́ не люблю́ други́е напи́тки"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000914",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "cibo-bevande",
+   "tempo-libero"
+  ],
+  "grammar_tags": [
+   "food",
+   "verb-eat"
+  ],
+  "words": [
+   "w_eda"
+  ],
+  "lesson": "l_a1_12",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "еда́",
+   "translation_it": "cibo",
+   "accepted": [
+    "еда́",
+    "еда"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

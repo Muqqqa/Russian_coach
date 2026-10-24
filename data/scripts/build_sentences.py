@@ -7,6 +7,7 @@ import collections, json, os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import *
 import filter_sentences
+import qa_fixes
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TAT = os.path.join(ROOT, "raw", "tatoeba")
@@ -68,11 +69,24 @@ def main():
         a, b = line.split()
         links[a].append(b)
 
+    rules = qa_fixes.sentence_rules()
     cands = []
     excluded = []
     pool = 0
     stats = collections.Counter()
     for sid, (text, author) in rus.items():
+        sid_s = "s_" + sid.zfill(5)
+        if sid_s in rules["ru"]:
+            text = rules["ru"][sid_s]
+        if sid_s in rules["reject"] or sid_s in rules["names"]:
+            if sid in links:
+                excluded.append({"id": sid_s, "motivo": "qa: frase rifiutata" if sid_s in rules["reject"] else "qa: nome proprio mappato a parola comune",
+                                 "termine": "", "ru": text, "it": ""})
+            stats["scartate da qa"] += 1
+            continue
+        if re.search(r"(?<![а-яё])Том(а|у|ом|е)?(?![а-яё])", text):
+            stats["nome proprio (Том)"] += 1
+            continue
         if sid not in links:
             stats["senza traduzione ita"] += 1
             continue
@@ -136,13 +150,16 @@ def main():
         level = max((byid[w]["level"] for w in wids), key=LEVEL_ORDER.index)
         it_id = sorted(its, key=lambda x: (len(ita[x][0]), x))[0]
         pool += 1
-        bad = filter_sentences.check(text, ita[it_id][0])
+        if sid_s in rules["it"]:
+            ita[it_id] = (rules["it"][sid_s], ita[it_id][1])
+        bad = None if sid_s in rules["include"] else filter_sentences.check(text, ita[it_id][0])
         if bad:
             excluded.append({"id": "s_" + sid.zfill(5), "motivo": bad[0], "termine": bad[1], "ru": text, "it": ita[it_id][0]})
             continue
         cands.append({"sid": sid, "text": text, "stress": stress, "words": wids, "level": level,
                       "it": ita[it_id][0], "au_ru": author, "au_it": ita[it_id][1], "it_id": it_id,
-                      "cc0": sid in cc0, "n": len(toks)})
+                      "cc0": sid in cc0, "n": len(toks), "fixed": sid_s in rules["it"] or sid_s in rules["ru"],
+                      "force": sid_s in rules["include"] or sid_s in rules["it"] or sid_s in rules["ru"]})
     filter_sentences.write_report(excluded, pool)
     print("escluse dal filtro contenuti:", len(excluded), "su", pool)
     print("candidate:", len(cands), dict(stats))
@@ -152,7 +169,7 @@ def main():
     cands.sort(key=lambda c: (c["n"], len(c["text"]), int(c["sid"])))
     chosen = []
     for c in cands:
-        if any(need[w] > 0 for w in c["words"]):
+        if c["force"] or any(need[w] > 0 for w in c["words"]):
             chosen.append(c)
             for w in c["words"]:
                 if need[w] > 0:
@@ -167,6 +184,8 @@ def main():
             lic, attr = "CC0-1.0", f"Tatoeba.org, frase #{c['sid']} (CC0, autore {c['au_ru']}); traduzione it #{c['it_id']} di {c['au_it']} (CC BY 2.0 FR)"
         else:
             lic, attr = "CC-BY-2.0", f"Tatoeba.org, frase #{c['sid']} di {c['au_ru']}; traduzione it #{c['it_id']} di {c['au_it']}; licenza CC BY 2.0 FR"
+        if c["fixed"]:
+            attr += "; testo/traduzione corretti dal team (revisione qa-russian)"
         recs[c["level"]].append({"id": sid, "ru": c["text"], "stress": c["stress"], "it": c["it"],
                                  "words": c["words"], "level": c["level"],
                                  "source": "tatoeba", "license": lic, "attribution": attr})

@@ -1,0 +1,1187 @@
+[
+ {
+  "id": "e_000219",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_po_russki"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "по-ру́сски",
+   "answer": "in russo",
+   "accepted": [
+    "in russo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000220",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "ristorante",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_schyot",
+   "w_pozhaluysta"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Счёт, пожа́луйста.",
+   "answer": "Il conto, per favore.",
+   "accepted": [
+    "Il conto, per favore.",
+    "Il conto per favore",
+    "il conto per favore",
+    "il conto, per favore."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000221",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_do_svidaniya"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "arrivederci",
+   "answer": "до свида́ния",
+   "accepted": [
+    "до свида́ния",
+    "до свидания"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000222",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "descrizioni",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_bolshoy",
+   "w_spasibo"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Grazie mille!",
+   "answer": "Большо́е спаси́бо!",
+   "accepted": [
+    "Большо́е спаси́бо!",
+    "Большо́е спаси́бо",
+    "Большое спасибо!",
+    "Большое спасибо",
+    "большое спасибо!",
+    "большое спасибо",
+    "большо́е спаси́бо"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000223",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_do_svidaniya"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "до свида́ния",
+   "answer": "arrivederci",
+   "accepted": [
+    "arrivederci"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000224",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "comunicazione",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_vy",
+   "w_govorit",
+   "w_po_russki"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Вы́ говори́те по-ру́сски?",
+   "answer": "Parla russo?",
+   "accepted": [
+    "Parla russo?",
+    "Parla russo",
+    "parla russo",
+    "parla russo?",
+    "Voi parla russo?",
+    "Voi parla russo",
+    "voi parla russo",
+    "voi parla russo?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000225",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_po_russki"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "in russo",
+   "answer": "по-ру́сски",
+   "accepted": [
+    "по-ру́сски",
+    "по-русски"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000226",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "comunicazione",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_vy",
+   "w_govorit",
+   "w_po_russki"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Parla russo?",
+   "answer": "Вы́ говори́те по-ру́сски?",
+   "accepted": [
+    "Вы́ говори́те по-ру́сски?",
+    "Вы́ говори́те по-ру́сски",
+    "Вы говорите по-русски?",
+    "Вы говорите по-русски",
+    "вы говорите по-русски?",
+    "вы говорите по-русски",
+    "вы́ говори́те по-ру́сски"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000227",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_vy"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ говори́те по-ру́сски?",
+   "answer": "Вы́",
+   "accepted": [
+    "Вы́",
+    "Вы",
+    "вы",
+    "вы́"
+   ],
+   "hint_it": "Parla russo?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000228",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_pozhaluysta"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Счёт, ___.",
+   "answer": "пожа́луйста",
+   "accepted": [
+    "пожа́луйста",
+    "пожалуйста"
+   ],
+   "hint_it": "Il conto, per favore."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000229",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_bolshoy"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ спаси́бо!",
+   "answer": "Большо́е",
+   "accepted": [
+    "Большо́е",
+    "Большое",
+    "большое",
+    "большо́е"
+   ],
+   "hint_it": "Grazie mille!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000230",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_po_russki"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вы́ говори́те ___?",
+   "answer": "по-ру́сски",
+   "accepted": [
+    "по-ру́сски",
+    "по-русски"
+   ],
+   "hint_it": "Parla russo?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000231",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_spasibo"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Большо́е ___!",
+   "answer": "спаси́бо",
+   "accepted": [
+    "спаси́бо",
+    "спасибо"
+   ],
+   "hint_it": "Grazie mille!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000232",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_do_svidaniya"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "До свида́ния.",
+   "options": [
+    "Voi chi siete?",
+    "Anch'io.",
+    "Questa è acqua.",
+    "Arrivederci."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000233",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_davay"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «дава́й»?",
+   "options": [
+    "dai",
+    "per favore",
+    "scusi",
+    "salve"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000234",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "ristorante",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_schyot",
+   "w_pozhaluysta"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Il conto, per favore.",
+   "options": [
+    "Где́ туале́т?",
+    "Да, пожа́луйста.",
+    "Где́ они́?",
+    "Счёт, пожа́луйста."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000235",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_po_russki"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «in russo» in russo?",
+   "options": [
+    "зде́сь",
+    "пра́вильно",
+    "по-ру́сски",
+    "ме́дленно"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000236",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "comunicazione",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_vy",
+   "w_govorit",
+   "w_po_russki"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вы́ говори́те по-ру́сски?",
+   "options": [
+    "La amo.",
+    "Voi chi siete?",
+    "Cos'altro?",
+    "Parla russo?"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000237",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_izvinite"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «извини́те»?",
+   "options": [
+    "salve",
+    "grazie",
+    "per favore",
+    "scusi"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000238",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_do_svidaniya"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Arrivederci.",
+   "options": [
+    "Э́то я́.",
+    "Большо́е спаси́бо!",
+    "Счёт, пожа́луйста!",
+    "До свида́ния."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000239",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_do_svidaniya",
+   "w_davay",
+   "w_spasibo",
+   "w_zdravstvuyte",
+   "w_izvinite"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "до свида́ния",
+     "it": "arrivederci"
+    },
+    {
+     "ru": "дава́й",
+     "it": "dai"
+    },
+    {
+     "ru": "спаси́бо",
+     "it": "grazie"
+    },
+    {
+     "ru": "здра́вствуйте",
+     "it": "salve"
+    },
+    {
+     "ru": "извини́те",
+     "it": "scusi"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000240",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "saluti",
+   "ristorante",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_schyot",
+   "w_pozhaluysta",
+   "w_vy",
+   "w_govorit",
+   "w_po_russki",
+   "w_do_svidaniya"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Счёт, пожа́луйста.",
+     "it": "Il conto, per favore."
+    },
+    {
+     "ru": "Вы́ говори́те по-ру́сски?",
+     "it": "Parla russo?"
+    },
+    {
+     "ru": "До свида́ния!",
+     "it": "Arrivederci."
+    },
+    {
+     "ru": "Большо́е спаси́бо!",
+     "it": "Grazie mille!"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000241",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "saluti",
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_spasibo",
+   "w_davay",
+   "w_izvinite",
+   "w_ty",
+   "w_tam",
+   "w_oktyabr"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "спаси́бо",
+     "it": "grazie"
+    },
+    {
+     "ru": "дава́й",
+     "it": "dai"
+    },
+    {
+     "ru": "извини́те",
+     "it": "scusi"
+    },
+    {
+     "ru": "ты́",
+     "it": "tu"
+    },
+    {
+     "ru": "та́м",
+     "it": "là"
+    },
+    {
+     "ru": "октя́брь",
+     "it": "ottobre"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000242",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_spasibo",
+   "w_izvinite",
+   "w_zdravstvuyte",
+   "w_davay",
+   "w_po_russki",
+   "w_do_svidaniya"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 42,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "спаси́бо",
+     "it": "grazie"
+    },
+    {
+     "ru": "извини́те",
+     "it": "scusi"
+    },
+    {
+     "ru": "здра́вствуйте",
+     "it": "salve"
+    },
+    {
+     "ru": "дава́й",
+     "it": "dai"
+    },
+    {
+     "ru": "по-ру́сски",
+     "it": "in russo"
+    },
+    {
+     "ru": "до свида́ния",
+     "it": "arrivederci"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000243",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "saluti",
+   "descrizioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_davay",
+   "w_spasibo",
+   "w_izvinite",
+   "w_oktyabr",
+   "w_bolshoy",
+   "w_khorosho"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "дава́й",
+     "it": "dai"
+    },
+    {
+     "ru": "спаси́бо",
+     "it": "grazie"
+    },
+    {
+     "ru": "извини́те",
+     "it": "scusi"
+    },
+    {
+     "ru": "октя́брь",
+     "it": "ottobre"
+    },
+    {
+     "ru": "большо́й",
+     "it": "grande"
+    },
+    {
+     "ru": "хорошо́",
+     "it": "bene"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000244",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "saluti",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_izvinite",
+   "w_zdravstvuyte",
+   "w_davay",
+   "w_chto",
+   "w_taksi",
+   "w_tualet"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "извини́те",
+     "it": "scusi"
+    },
+    {
+     "ru": "здра́вствуйте",
+     "it": "salve"
+    },
+    {
+     "ru": "дава́й",
+     "it": "dai"
+    },
+    {
+     "ru": "что́",
+     "it": "che cosa"
+    },
+    {
+     "ru": "такси́",
+     "it": "taxi"
+    },
+    {
+     "ru": "туале́т",
+     "it": "bagno"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000245",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_do_svidaniya"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "До свида́ния.",
+   "translation_it": "Arrivederci.",
+   "accepted": [
+    "До свида́ния.",
+    "До свида́ния",
+    "До свидания.",
+    "До свидания",
+    "до свидания.",
+    "до свидания",
+    "до свида́ния"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000246",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_davay"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "дава́й",
+   "translation_it": "dai",
+   "accepted": [
+    "дава́й",
+    "давай"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000247",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_do_svidaniya"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "До свида́ния!",
+   "translation_it": "Arrivederci.",
+   "accepted": [
+    "До свида́ния!",
+    "До свида́ния",
+    "До свидания!",
+    "До свидания",
+    "до свидания!",
+    "до свидания",
+    "до свида́ния"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000248",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_po_russki"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "по-ру́сски",
+   "translation_it": "in russo",
+   "accepted": [
+    "по-ру́сски",
+    "по-русски"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000249",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "comunicazione",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_vy",
+   "w_govorit",
+   "w_po_russki"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вы́ говори́те по-ру́сски?",
+   "translation_it": "Parla russo?",
+   "accepted": [
+    "Вы́ говори́те по-ру́сски?",
+    "Вы́ говори́те по-ру́сски",
+    "Вы говорите по-русски?",
+    "Вы говорите по-русски",
+    "вы говорите по-русски?",
+    "вы говорите по-русски",
+    "вы́ говори́те по-ру́сски"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000250",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_izvinite"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "извини́те",
+   "translation_it": "scusi",
+   "accepted": [
+    "извини́те",
+    "извините"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000251",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_do_svidaniya"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "до свида́ния",
+   "translation_it": "arrivederci",
+   "accepted": [
+    "до свида́ния",
+    "до свидания"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

@@ -1,0 +1,1311 @@
+[
+ {
+  "id": "e_000990",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_posle"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "по́сле",
+   "answer": "dopo",
+   "accepted": [
+    "dopo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000991",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_ya",
+   "w_idti",
+   "w_k",
+   "w_vy"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ иду́ к ва́м.",
+   "answer": "Sto venendo da voi.",
+   "accepted": [
+    "Sto venendo da voi.",
+    "Sto venendo da voi",
+    "sto venendo da voi",
+    "sto venendo da voi.",
+    "Io sto venendo da voi.",
+    "Io sto venendo da voi",
+    "io sto venendo da voi",
+    "io sto venendo da voi."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000992",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_strana"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "paese",
+   "answer": "страна́",
+   "accepted": [
+    "страна́",
+    "страна"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000993",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_ya",
+   "w_idti",
+   "w_k",
+   "w_vy"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Sto venendo da voi.",
+   "answer": "Я́ иду́ к ва́м.",
+   "accepted": [
+    "Я́ иду́ к ва́м.",
+    "Я́ иду́ к ва́м",
+    "Я иду к вам.",
+    "Я иду к вам",
+    "я иду к вам.",
+    "я иду к вам",
+    "я́ иду́ к ва́м"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000994",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_strana"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "страна́",
+   "answer": "paese",
+   "accepted": [
+    "paese",
+    "il paese",
+    "un paese",
+    "la paese",
+    "una paese"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000995",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_s",
+   "w_den",
+   "w_otets"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "С Днём отца́!",
+   "answer": "Buona festa del papà!",
+   "accepted": [
+    "Buona festa del papà!",
+    "Buona festa del papà",
+    "buona festa del papà",
+    "buona festa del papà!",
+    "Buona festa del papa'!",
+    "buona festa del papa'",
+    "buona festa del papa"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000996",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "saluti",
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_izvinite",
+   "w_k",
+   "w_vy",
+   "w_mozhno"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Scusate, posso entrare?",
+   "answer": "Извини́те, к Ва́м мо́жно?",
+   "accepted": [
+    "Извини́те, к Ва́м мо́жно?",
+    "Извини́те к Ва́м мо́жно",
+    "Извините, к Вам можно?",
+    "Извините к Вам можно",
+    "извините, к вам можно?",
+    "извините к вам можно",
+    "извини́те к ва́м мо́жно",
+    "Извини́те, мо́жно войти́?",
+    "Извини́те мо́жно войти́",
+    "Извините, можно войти?",
+    "Извините можно войти",
+    "извините, можно войти?",
+    "извините можно войти",
+    "извини́те мо́жно войти́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000997",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_pered"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "пе́ред",
+   "answer": "davanti a",
+   "accepted": [
+    "davanti a",
+    "prima di"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000998",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_gorod"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Он из ___.",
+   "answer": "го́рода",
+   "accepted": [
+    "го́рода",
+    "города"
+   ],
+   "hint_it": "Lui viene dalla città."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000999",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_izvinite"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___, я́ без часо́в.",
+   "answer": "Извини́те",
+   "accepted": [
+    "Извини́те",
+    "Извините",
+    "извините",
+    "извини́те"
+   ],
+   "hint_it": "Scusate, sono senza orologio."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001000",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_gorod"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "До ___ далеко́.",
+   "answer": "го́рода",
+   "accepted": [
+    "го́рода",
+    "города"
+   ],
+   "hint_it": "Fino alla città è lontano."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001001",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_izvinite"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___, к Ва́м мо́жно?",
+   "answer": "Извини́те",
+   "accepted": [
+    "Извини́те",
+    "Извините",
+    "извините",
+    "извини́те"
+   ],
+   "hint_it": "Scusate, posso entrare?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001002",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_mama"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то для ___.",
+   "answer": "ма́мы",
+   "accepted": [
+    "ма́мы",
+    "мамы"
+   ],
+   "hint_it": "Questo è per la mamma."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001003",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_dlya"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ тебя́!",
+   "answer": "для",
+   "accepted": [
+    "для"
+   ],
+   "hint_it": "Questo è per te."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001004",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_sestra"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то для ___.",
+   "answer": "сестры́",
+   "accepted": [
+    "сестры́",
+    "сестры"
+   ],
+   "hint_it": "Questo è per mia sorella."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001005",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_rossiya"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (dopo «из»).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ из ___. — Vengo dalla Russia.",
+   "options": [
+    "Росси́ю",
+    "Росси́я",
+    "Росси́и"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001006",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_eto",
+   "w_dlya",
+   "w_ty"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то для тебя́!",
+   "options": [
+    "Questo è vostro figlio?",
+    "Vai anche tu?",
+    "Questa è una domanda complessa.",
+    "Questo è per te."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001007",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_k"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «к»?",
+   "options": [
+    "presso",
+    "per",
+    "in",
+    "verso"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001008",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions",
+   "gender"
+  ],
+  "words": [
+   "w_strana"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «страна́»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001009",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "movimento",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_idti",
+   "w_k",
+   "w_my",
+   "w_zdes",
+   "w_svobodno"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 22,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Vieni da noi, qui è libero.",
+   "options": [
+    "Иди́ к на́м, зде́сь свобо́дно.",
+    "Мы́ идём в ба́р.",
+    "Сего́дня у на́с четве́рг.",
+    "Мы́ зде́сь с октября́ ме́сяца."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001010",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_strana"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «paese» in russo?",
+   "options": [
+    "соба́ка",
+    "страна́",
+    "вре́мя",
+    "сту́л"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001011",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_derevnya"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (dopo «из»).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Мы́ из ___. — Veniamo dal villaggio.",
+   "options": [
+    "дере́вни",
+    "дере́вня",
+    "дере́вне",
+    "дере́вню"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001012",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_mezhdu",
+   "w_do",
+   "w_ot",
+   "w_dlya",
+   "w_posle"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ме́жду",
+     "it": "tra"
+    },
+    {
+     "ru": "до́",
+     "it": "fino a"
+    },
+    {
+     "ru": "о́т",
+     "it": "da"
+    },
+    {
+     "ru": "для́",
+     "it": "per"
+    },
+    {
+     "ru": "по́сле",
+     "it": "dopo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001013",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_chelovek",
+   "w_bez",
+   "w_dengi",
+   "w_pyat",
+   "w_minuta"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Лю́ди без де́нег.",
+     "it": "La gente è senza soldi."
+    },
+    {
+     "ru": "Без пяти́ мину́т четы́ре.",
+     "it": "Sono le quattro meno cinque."
+    },
+    {
+     "ru": "Э́то для тебя́!",
+     "it": "Questo è per te."
+    },
+    {
+     "ru": "И для чего́?",
+     "it": "E per cosa?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001014",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "luoghi",
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_mezhdu",
+   "w_dlya",
+   "w_strana",
+   "w_menyu",
+   "w_ruka",
+   "w_bar"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ме́жду",
+     "it": "tra"
+    },
+    {
+     "ru": "для́",
+     "it": "per"
+    },
+    {
+     "ru": "страна́",
+     "it": "paese"
+    },
+    {
+     "ru": "меню́",
+     "it": "menù"
+    },
+    {
+     "ru": "рука́",
+     "it": "mano"
+    },
+    {
+     "ru": "ба́р",
+     "it": "bar"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001015",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_pered",
+   "w_strana",
+   "w_k",
+   "w_mezhdu"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "пе́ред",
+     "it": "davanti a"
+    },
+    {
+     "ru": "страна́",
+     "it": "paese"
+    },
+    {
+     "ru": "к",
+     "it": "verso"
+    },
+    {
+     "ru": "ме́жду",
+     "it": "tra"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001016",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_s",
+   "w_den",
+   "w_otets",
+   "w_ya",
+   "w_idti",
+   "w_k"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "С Днём отца́!",
+     "it": "Buona festa del papà!"
+    },
+    {
+     "ru": "Я́ иду́ к ва́м.",
+     "it": "Sto venendo da voi."
+    },
+    {
+     "ru": "Извини́те, к Ва́м мо́жно?",
+     "it": "Scusate, posso entrare?"
+    },
+    {
+     "ru": "Извини́те, я́ без часо́в.",
+     "it": "Scusate, sono senza orologio."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001017",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "luoghi",
+   "mente"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_mezhdu",
+   "w_k",
+   "w_strana",
+   "w_supermarket",
+   "w_moch",
+   "w_vchera"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ме́жду",
+     "it": "tra"
+    },
+    {
+     "ru": "к",
+     "it": "verso"
+    },
+    {
+     "ru": "страна́",
+     "it": "paese"
+    },
+    {
+     "ru": "суперма́ркет",
+     "it": "supermercato"
+    },
+    {
+     "ru": "мо́чь",
+     "it": "potere"
+    },
+    {
+     "ru": "вчера́",
+     "it": "ieri"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001018",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_dlya",
+   "w_ot",
+   "w_posle",
+   "w_do"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "для́",
+     "it": "per"
+    },
+    {
+     "ru": "о́т",
+     "it": "da"
+    },
+    {
+     "ru": "по́сле",
+     "it": "dopo"
+    },
+    {
+     "ru": "до́",
+     "it": "fino a"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001019",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_i",
+   "w_dlya",
+   "w_chto"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "И для чего́?",
+   "translation_it": "E per cosa?",
+   "accepted": [
+    "И для чего́?",
+    "И для чего́",
+    "И для чего?",
+    "И для чего",
+    "и для чего?",
+    "и для чего",
+    "и для чего́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001020",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_strana"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "страна́",
+   "translation_it": "paese",
+   "accepted": [
+    "страна́",
+    "страна"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001021",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "movimento",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_idti",
+   "w_k",
+   "w_my",
+   "w_zdes",
+   "w_svobodno"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 30,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Иди́ к на́м, зде́сь свобо́дно.",
+   "translation_it": "Vieni da noi, qui è libero.",
+   "accepted": [
+    "Иди́ к на́м, зде́сь свобо́дно.",
+    "Иди́ к на́м зде́сь свобо́дно",
+    "Иди к нам, здесь свободно.",
+    "Иди к нам здесь свободно",
+    "иди к нам, здесь свободно.",
+    "иди к нам здесь свободно",
+    "иди́ к на́м зде́сь свобо́дно"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001022",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_dlya"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "для́",
+   "translation_it": "per",
+   "accepted": [
+    "для́",
+    "для"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001023",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_s",
+   "w_den",
+   "w_otets"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "С Днём отца́!",
+   "translation_it": "Buona festa del papà!",
+   "accepted": [
+    "С Днём отца́!",
+    "С Днём отца́",
+    "С Днём отца!",
+    "С Днём отца",
+    "с днём отца!",
+    "с днём отца",
+    "с днём отца́",
+    "С Днем отца!",
+    "с днем отца"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001024",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_mezhdu"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ме́жду",
+   "translation_it": "tra",
+   "accepted": [
+    "ме́жду",
+    "между"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001025",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "genitive",
+   "prepositions"
+  ],
+  "words": [
+   "w_eto",
+   "w_svobodnyy",
+   "w_strana"
+  ],
+  "lesson": "l_a1_15",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то свобо́дная страна́?",
+   "translation_it": "Questo è un paese libero?",
+   "accepted": [
+    "Э́то свобо́дная страна́?",
+    "Э́то свобо́дная страна́",
+    "Это свободная страна?",
+    "Это свободная страна",
+    "это свободная страна?",
+    "это свободная страна",
+    "э́то свобо́дная страна́"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

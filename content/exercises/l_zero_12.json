@@ -1,0 +1,1260 @@
+[
+ {
+  "id": "e_000397",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_bez"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "бе́з",
+   "answer": "senza",
+   "accepted": [
+    "senza"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000398",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_chto",
+   "w_s",
+   "w_ona"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Что́ с не́й?",
+   "answer": "Cos'ha che non va?",
+   "accepted": [
+    "Cos'ha che non va?",
+    "Cos'ha che non va",
+    "cos'ha che non va",
+    "cos'ha che non va?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000399",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_est"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "c'è",
+   "answer": "е́сть",
+   "accepted": [
+    "е́сть",
+    "есть"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000400",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_my",
+   "w_zdes",
+   "w_s",
+   "w_oktyabr"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Siamo qui da ottobre.",
+   "answer": "Мы́ зде́сь с октября́.",
+   "accepted": [
+    "Мы́ зде́сь с октября́.",
+    "Мы́ зде́сь с октября́",
+    "Мы здесь с октября.",
+    "Мы здесь с октября",
+    "мы здесь с октября.",
+    "мы здесь с октября",
+    "мы́ зде́сь с октября́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000401",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_u"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "у́",
+   "answer": "presso",
+   "accepted": [
+    "presso",
+    "vicino a"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000402",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_my",
+   "w_s",
+   "w_ty"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Мы́ с тобо́й!",
+   "answer": "Siamo con te!",
+   "accepted": [
+    "Siamo con te!",
+    "Siamo con te",
+    "siamo con te",
+    "siamo con te!",
+    "Noi siamo con te!",
+    "Noi siamo con te",
+    "noi siamo con te",
+    "noi siamo con te!"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000403",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_svobodno"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "liberamente",
+   "answer": "свобо́дно",
+   "accepted": [
+    "свобо́дно",
+    "свободно"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000404",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "saluti",
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_izvinite",
+   "w_ya",
+   "w_bez",
+   "w_chas"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Scusate, sono senza orologio.",
+   "answer": "Извини́те, я́ без часо́в.",
+   "accepted": [
+    "Извини́те, я́ без часо́в.",
+    "Извини́те я́ без часо́в",
+    "Извините, я без часов.",
+    "Извините я без часов",
+    "извините, я без часов.",
+    "извините я без часов",
+    "извини́те я́ без часо́в"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000405",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions",
+   "genitive"
+  ],
+  "words": [
+   "w_brat"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "У ___ е́сть вино́.",
+   "answer": "бра́та",
+   "accepted": [
+    "бра́та",
+    "брата"
+   ],
+   "hint_it": "Mio fratello ha del vino."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000406",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_vy"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Что́ с ___?",
+   "answer": "Ва́ми",
+   "accepted": [
+    "Ва́ми",
+    "Вами",
+    "вами",
+    "ва́ми"
+   ],
+   "hint_it": "Cosa avete che non va?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000407",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions",
+   "genitive"
+  ],
+  "words": [
+   "w_zhena"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "У ___ е́сть ко́фе.",
+   "answer": "жены́",
+   "accepted": [
+    "жены́",
+    "жены"
+   ],
+   "hint_it": "Mia moglie ha del caffè."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000408",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_ty"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Мы́ с ___!",
+   "answer": "тобо́й",
+   "accepted": [
+    "тобо́й",
+    "тобой"
+   ],
+   "hint_it": "Siamo con te!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000409",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_bez"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Извини́те, я́ ___ часо́в.",
+   "answer": "без",
+   "accepted": [
+    "без"
+   ],
+   "hint_it": "Scusate, sono senza orologio."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000410",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_zdes"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Мы́ ___ с октября́.",
+   "answer": "зде́сь",
+   "accepted": [
+    "зде́сь",
+    "здесь"
+   ],
+   "hint_it": "Siamo qui da ottobre."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000411",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_ona"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Что́ с ___?",
+   "answer": "не́й",
+   "accepted": [
+    "не́й",
+    "ней"
+   ],
+   "hint_it": "Cos'ha che non va?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000412",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions",
+   "genitive"
+  ],
+  "words": [
+   "w_mama"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (dopo «у»).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "У ___ е́сть до́м. — La mamma ha una casa.",
+   "options": [
+    "ма́ме",
+    "ма́му",
+    "ма́ма",
+    "ма́мы"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000413",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_chto",
+   "w_s",
+   "w_ona"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Что́ с не́й?",
+   "options": [
+    "Siamo con te!",
+    "Questa è la sua ragazza.",
+    "Cos'ha che non va?",
+    "Cos'altro?"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000414",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_est"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «е́сть»?",
+   "options": [
+    "chiedere",
+    "aiutare",
+    "c'è",
+    "parlare"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000415",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_kofe",
+   "w_net"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Non c'è caffè.",
+   "options": [
+    "Ещё нет.",
+    "Ко́фе нет.",
+    "Люблю́ ко́фе.",
+    "И я́ нет."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000416",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_est"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «c'è» in russo?",
+   "options": [
+    "е́сть",
+    "спроси́ть",
+    "помо́чь",
+    "купи́ть"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000417",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_kofe",
+   "w_net"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Ко́фе нет.",
+   "options": [
+    "Nemmeno io.",
+    "Mi piace il caffè.",
+    "Non ancora.",
+    "Non c'è caffè."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000418",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_iz"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «и́з»?",
+   "options": [
+    "chiedere",
+    "da",
+    "conto",
+    "e"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000419",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_est",
+   "w_u",
+   "w_bez",
+   "w_iz",
+   "w_s"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "е́сть",
+     "it": "c'è"
+    },
+    {
+     "ru": "у́",
+     "it": "presso"
+    },
+    {
+     "ru": "бе́з",
+     "it": "senza"
+    },
+    {
+     "ru": "и́з",
+     "it": "da"
+    },
+    {
+     "ru": "с",
+     "it": "con"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000420",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_ya",
+   "w_iz",
+   "w_rossiya",
+   "w_kofe",
+   "w_net",
+   "w_izvinite"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ из Росси́и.",
+     "it": "Vengo dalla Russia."
+    },
+    {
+     "ru": "Ко́фе нет.",
+     "it": "Non c'è caffè."
+    },
+    {
+     "ru": "Извини́те, я́ без часо́в.",
+     "it": "Scusate, sono senza orologio."
+    },
+    {
+     "ru": "Мы́ зде́сь с октября́.",
+     "it": "Siamo qui da ottobre."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000421",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "avverbi",
+   "soldi"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_s",
+   "w_svobodno",
+   "w_iz",
+   "w_kupit",
+   "w_ne",
+   "w_po_russki"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "с",
+     "it": "con"
+    },
+    {
+     "ru": "свобо́дно",
+     "it": "liberamente"
+    },
+    {
+     "ru": "и́з",
+     "it": "da"
+    },
+    {
+     "ru": "купи́ть",
+     "it": "comprare"
+    },
+    {
+     "ru": "не́",
+     "it": "non"
+    },
+    {
+     "ru": "по-ру́сски",
+     "it": "in russo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000422",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_svobodno",
+   "w_iz",
+   "w_est",
+   "w_bez",
+   "w_u",
+   "w_s"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 42,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "свобо́дно",
+     "it": "liberamente"
+    },
+    {
+     "ru": "и́з",
+     "it": "da"
+    },
+    {
+     "ru": "е́сть",
+     "it": "c'è"
+    },
+    {
+     "ru": "бе́з",
+     "it": "senza"
+    },
+    {
+     "ru": "у́",
+     "it": "presso"
+    },
+    {
+     "ru": "с",
+     "it": "con"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000423",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_my",
+   "w_s",
+   "w_ty",
+   "w_chto",
+   "w_ona"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 40,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Мы́ с тобо́й!",
+     "it": "Siamo con te!"
+    },
+    {
+     "ru": "Что́ с не́й?",
+     "it": "Cos'ha che non va?"
+    },
+    {
+     "ru": "Что́ с Ва́ми?",
+     "it": "Cosa avete che non va?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000424",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_est",
+   "w_u",
+   "w_bez",
+   "w_vkusno",
+   "w_bankomat",
+   "w_ochen"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "е́сть",
+     "it": "c'è"
+    },
+    {
+     "ru": "у́",
+     "it": "presso"
+    },
+    {
+     "ru": "бе́з",
+     "it": "senza"
+    },
+    {
+     "ru": "вку́сно",
+     "it": "gustoso"
+    },
+    {
+     "ru": "банкома́т",
+     "it": "bancomat"
+    },
+    {
+     "ru": "о́чень",
+     "it": "molto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000425",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "saluti",
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_izvinite",
+   "w_ya",
+   "w_bez",
+   "w_chas"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Извини́те, я́ без часо́в.",
+   "translation_it": "Scusate, sono senza orologio.",
+   "accepted": [
+    "Извини́те, я́ без часо́в.",
+    "Извини́те я́ без часо́в",
+    "Извините, я без часов.",
+    "Извините я без часов",
+    "извините, я без часов.",
+    "извините я без часов",
+    "извини́те я́ без часо́в"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000426",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_svobodno"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "свобо́дно",
+   "translation_it": "liberamente",
+   "accepted": [
+    "свобо́дно",
+    "свободно"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000427",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_chto",
+   "w_s",
+   "w_vy"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Что́ с Ва́ми?",
+   "translation_it": "Cosa avete che non va?",
+   "accepted": [
+    "Что́ с Ва́ми?",
+    "Что́ с Ва́ми",
+    "Что с Вами?",
+    "Что с Вами",
+    "что с вами?",
+    "что с вами",
+    "что́ с ва́ми"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000428",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_est"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "е́сть",
+   "translation_it": "c'è",
+   "accepted": [
+    "е́сть",
+    "есть"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000429",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_my",
+   "w_zdes",
+   "w_s",
+   "w_oktyabr"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Мы́ зде́сь с октября́.",
+   "translation_it": "Siamo qui da ottobre.",
+   "accepted": [
+    "Мы́ зде́сь с октября́.",
+    "Мы́ зде́сь с октября́",
+    "Мы здесь с октября.",
+    "Мы здесь с октября",
+    "мы здесь с октября.",
+    "мы здесь с октября",
+    "мы́ зде́сь с октября́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000430",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_bez"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "бе́з",
+   "translation_it": "senza",
+   "accepted": [
+    "бе́з",
+    "без"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000431",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "words": [
+   "w_chto",
+   "w_s",
+   "w_ona"
+  ],
+  "lesson": "l_zero_12",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Что́ с не́й?",
+   "translation_it": "Cos'ha che non va?",
+   "accepted": [
+    "Что́ с не́й?",
+    "Что́ с не́й",
+    "Что с ней?",
+    "Что с ней",
+    "что с ней?",
+    "что с ней",
+    "что́ с не́й"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

@@ -1,0 +1,1421 @@
+[
+ {
+  "id": "e_001698",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_chasto"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ча́сто",
+   "answer": "spesso",
+   "accepted": [
+    "spesso"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001699",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_ya",
+   "w_poyti",
+   "w_zavtra",
+   "w_utro"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ пойду́ за́втра у́тром.",
+   "answer": "Ci andrò domani mattina.",
+   "accepted": [
+    "Ci andrò domani mattina.",
+    "Ci andrò domani mattina",
+    "ci andrò domani mattina",
+    "ci andrò domani mattina.",
+    "Ci andro' domani mattina.",
+    "ci andro' domani mattina",
+    "ci andro domani mattina",
+    "Io ci andrò domani mattina.",
+    "Io ci andrò domani mattina",
+    "io ci andrò domani mattina",
+    "io ci andrò domani mattina.",
+    "Io ci andro' domani mattina.",
+    "io ci andro' domani mattina",
+    "io ci andro domani mattina"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001700",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_opyat"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "di nuovo",
+   "answer": "опя́ть",
+   "accepted": [
+    "опя́ть",
+    "опять",
+    "сно́ва",
+    "снова"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001701",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_skoro",
+   "w_pyatnitsa"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Presto è venerdì.",
+   "answer": "Ско́ро пя́тница.",
+   "accepted": [
+    "Ско́ро пя́тница.",
+    "Ско́ро пя́тница",
+    "Скоро пятница.",
+    "Скоро пятница",
+    "скоро пятница.",
+    "скоро пятница",
+    "ско́ро пя́тница"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001702",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_skoro"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ско́ро",
+   "answer": "presto",
+   "accepted": [
+    "presto",
+    "fra poco"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001703",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_nachat",
+   "w_zavtra",
+   "w_utro"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Начнём за́втра у́тром.",
+   "answer": "Cominceremo domani mattina.",
+   "accepted": [
+    "Cominceremo domani mattina.",
+    "Cominceremo domani mattina",
+    "cominceremo domani mattina",
+    "cominceremo domani mattina."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001704",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_utro"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "mattina",
+   "answer": "у́тро",
+   "accepted": [
+    "у́тро",
+    "утро"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001705",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "tempo",
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_nakonets",
+   "w_on",
+   "w_priyti"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Alla fine lui arrivò.",
+   "answer": "Наконе́ц о́н пришёл.",
+   "accepted": [
+    "Наконе́ц о́н пришёл.",
+    "Наконе́ц о́н пришёл",
+    "Наконец он пришёл.",
+    "Наконец он пришёл",
+    "наконец он пришёл.",
+    "наконец он пришёл",
+    "наконе́ц о́н пришёл",
+    "Наконец он пришел.",
+    "наконец он пришел"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001706",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_utro"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "у́тро",
+   "answer": "mattina",
+   "accepted": [
+    "mattina",
+    "la mattina",
+    "una mattina"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001707",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_dozhd"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Опя́ть ___!",
+   "answer": "до́ждь",
+   "accepted": [
+    "до́ждь",
+    "дождь"
+   ],
+   "hint_it": "Ancora pioggia!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001708",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_vecher"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ приду́.",
+   "answer": "ве́чером",
+   "accepted": [
+    "ве́чером",
+    "вечером"
+   ],
+   "hint_it": "Verrò di sera."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001709",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_ukhodit"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Сра́зу ___.",
+   "answer": "уходи́",
+   "accepted": [
+    "уходи́",
+    "уходи"
+   ],
+   "hint_it": "Vattene subito."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001710",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_skoro"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ пя́тница.",
+   "answer": "Ско́ро",
+   "accepted": [
+    "Ско́ро",
+    "Скоро",
+    "скоро",
+    "ско́ро"
+   ],
+   "hint_it": "Presto è venerdì."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001711",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_priyti"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ве́чером ___.",
+   "answer": "приду́",
+   "accepted": [
+    "приду́",
+    "приду"
+   ],
+   "hint_it": "Verrò di sera."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001712",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_nakonets"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ о́н пришёл.",
+   "answer": "Наконе́ц",
+   "accepted": [
+    "Наконе́ц",
+    "Наконец",
+    "наконец",
+    "наконе́ц"
+   ],
+   "hint_it": "Alla fine lui arrivò."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001713",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_skoro"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ ухожу́.",
+   "answer": "ско́ро",
+   "accepted": [
+    "ско́ро",
+    "скоро"
+   ],
+   "hint_it": "Sto per andarmene."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001714",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_spat"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Уже́ ___ давно́.",
+   "answer": "сплю́",
+   "accepted": [
+    "сплю́",
+    "сплю"
+   ],
+   "hint_it": "Dormo già da un pezzo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001715",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_srazu",
+   "w_ukhodit"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Сра́зу уходи́.",
+   "options": [
+    "Dobbiamo andarcene.",
+    "Semplicemente vattene.",
+    "Ora vattene.",
+    "Vattene subito."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001716",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_vecher"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «ве́чер»?",
+   "options": [
+    "notte",
+    "sera",
+    "calzino",
+    "autobus"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001717",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence",
+   "gender"
+  ],
+  "words": [
+   "w_utro"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «у́тро»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001718",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_ya",
+   "w_skoro",
+   "w_ukhodit"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Sto per andarmene.",
+   "options": [
+    "Уходи́ пря́мо сейча́с.",
+    "Я́ челове́к ма́ленький.",
+    "Я́ ско́ро ухожу́.",
+    "Я́ её купи́л."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001719",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_nakonets"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «finalmente» in russo?",
+   "options": [
+    "пло́хо",
+    "тру́дно",
+    "где́",
+    "наконе́ц"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001720",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_ona",
+   "w_srazu",
+   "w_priyti"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Она́ сра́зу пришла́.",
+   "options": [
+    "Lei se n'è andata per ultima.",
+    "Lei sta cercando qualcosa?",
+    "Lei venne immediatamente.",
+    "L'ho comprata."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001721",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_nakonets"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «наконе́ц»?",
+   "options": [
+    "da dove",
+    "finalmente",
+    "spesso",
+    "adesso"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001722",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence",
+   "gender"
+  ],
+  "words": [
+   "w_vecher"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «ве́чер»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001723",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_skoro",
+   "w_srazu",
+   "w_vecher",
+   "w_nakonets",
+   "w_opyat"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ско́ро",
+     "it": "presto"
+    },
+    {
+     "ru": "сра́зу",
+     "it": "subito"
+    },
+    {
+     "ru": "ве́чер",
+     "it": "sera"
+    },
+    {
+     "ru": "наконе́ц",
+     "it": "finalmente"
+    },
+    {
+     "ru": "опя́ть",
+     "it": "di nuovo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001724",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_ya",
+   "w_vecher",
+   "w_priyti",
+   "w_ona",
+   "w_srazu"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ ве́чером приду́.",
+     "it": "Verrò di sera."
+    },
+    {
+     "ru": "Она́ сра́зу пришла́.",
+     "it": "Lei venne immediatamente."
+    },
+    {
+     "ru": "Я́ ча́сто и́х ви́жу.",
+     "it": "Li vedo spesso."
+    },
+    {
+     "ru": "Ско́ро пя́тница.",
+     "it": "Presto è venerdì."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001725",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "azioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_vecher",
+   "w_srazu",
+   "w_utro",
+   "w_ostanovit",
+   "w_snova",
+   "w_dorogoy"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ве́чер",
+     "it": "sera"
+    },
+    {
+     "ru": "сра́зу",
+     "it": "subito"
+    },
+    {
+     "ru": "у́тро",
+     "it": "mattina"
+    },
+    {
+     "ru": "останови́ть",
+     "it": "fermare"
+    },
+    {
+     "ru": "сно́ва",
+     "it": "di nuovo"
+    },
+    {
+     "ru": "дорого́й",
+     "it": "caro"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001726",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_utro",
+   "w_vdrug",
+   "w_chasto",
+   "w_davno",
+   "w_snachala"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "у́тро",
+     "it": "mattina"
+    },
+    {
+     "ru": "вдру́г",
+     "it": "improvvisamente"
+    },
+    {
+     "ru": "ча́сто",
+     "it": "spesso"
+    },
+    {
+     "ru": "давно́",
+     "it": "da molto tempo"
+    },
+    {
+     "ru": "снача́ла",
+     "it": "prima di tutto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001727",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "movimento",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_vernutsya",
+   "w_vecher",
+   "w_dozhd",
+   "w_idti",
+   "w_chasto",
+   "w_ya"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Вернёмся ве́чером.",
+     "it": "Ritorniamo stasera."
+    },
+    {
+     "ru": "Дожди́ иду́т ча́сто?",
+     "it": "Piove spesso?"
+    },
+    {
+     "ru": "Я́ пойду́ за́втра у́тром.",
+     "it": "Ci andrò domani mattina."
+    },
+    {
+     "ru": "Ско́ро ухожу́.",
+     "it": "Sto per andarmene."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001728",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "avverbi",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_utro",
+   "w_srazu",
+   "w_chasto",
+   "w_otvetit",
+   "w_mozhno",
+   "w_plokho"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "у́тро",
+     "it": "mattina"
+    },
+    {
+     "ru": "сра́зу",
+     "it": "subito"
+    },
+    {
+     "ru": "ча́сто",
+     "it": "spesso"
+    },
+    {
+     "ru": "отве́тить",
+     "it": "rispondere"
+    },
+    {
+     "ru": "мо́жно",
+     "it": "si può"
+    },
+    {
+     "ru": "пло́хо",
+     "it": "male"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001729",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_srazu",
+   "w_vdrug",
+   "w_vecher",
+   "w_snachala"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сра́зу",
+     "it": "subito"
+    },
+    {
+     "ru": "вдру́г",
+     "it": "improvvisamente"
+    },
+    {
+     "ru": "ве́чер",
+     "it": "sera"
+    },
+    {
+     "ru": "снача́ла",
+     "it": "prima di tutto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001730",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_ya",
+   "w_chasto",
+   "w_ikh",
+   "w_videt"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ ча́сто и́х ви́жу.",
+   "translation_it": "Li vedo spesso.",
+   "accepted": [
+    "Я́ ча́сто и́х ви́жу.",
+    "Я́ ча́сто и́х ви́жу",
+    "Я часто их вижу.",
+    "Я часто их вижу",
+    "я часто их вижу.",
+    "я часто их вижу",
+    "я́ ча́сто и́х ви́жу"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001731",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_nakonets"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "наконе́ц",
+   "translation_it": "finalmente",
+   "accepted": [
+    "наконе́ц",
+    "наконец"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001732",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_opyat",
+   "w_dozhd"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Опя́ть до́ждь!",
+   "translation_it": "Ancora pioggia!",
+   "accepted": [
+    "Опя́ть до́ждь!",
+    "Опя́ть до́ждь",
+    "Опять дождь!",
+    "Опять дождь",
+    "опять дождь!",
+    "опять дождь",
+    "опя́ть до́ждь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001733",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_snachala"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "снача́ла",
+   "translation_it": "prima di tutto",
+   "accepted": [
+    "снача́ла",
+    "сначала"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001734",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "tempo",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_ya",
+   "w_nakonets",
+   "w_uyti"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ наконе́ц ушёл.",
+   "translation_it": "Finalmente me ne sono andato.",
+   "accepted": [
+    "Я́ наконе́ц ушёл.",
+    "Я́ наконе́ц ушёл",
+    "Я наконец ушёл.",
+    "Я наконец ушёл",
+    "я наконец ушёл.",
+    "я наконец ушёл",
+    "я́ наконе́ц ушёл",
+    "Я наконец ушел.",
+    "я наконец ушел"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001735",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_vdrug"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "вдру́г",
+   "translation_it": "improvvisamente",
+   "accepted": [
+    "вдру́г",
+    "вдруг"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001736",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_ya",
+   "w_poyti",
+   "w_zavtra",
+   "w_utro"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ пойду́ за́втра у́тром.",
+   "translation_it": "Ci andrò domani mattina.",
+   "accepted": [
+    "Я́ пойду́ за́втра у́тром.",
+    "Я́ пойду́ за́втра у́тром",
+    "Я пойду завтра утром.",
+    "Я пойду завтра утром",
+    "я пойду завтра утром.",
+    "я пойду завтра утром",
+    "я́ пойду́ за́втра у́тром"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001737",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_vecher"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ве́чер",
+   "translation_it": "sera",
+   "accepted": [
+    "ве́чер",
+    "вечер"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

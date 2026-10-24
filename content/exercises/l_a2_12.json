@@ -1,0 +1,1415 @@
+[
+ {
+  "id": "e_001818",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_oba"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "о́ба",
+   "answer": "entrambi",
+   "accepted": [
+    "entrambi"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001819",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_pyat",
+   "w_dvadtsat"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Пятью́ пя́ть два́дцать пя́ть.",
+   "answer": "Cinque per cinque fa venticinque.",
+   "accepted": [
+    "Cinque per cinque fa venticinque.",
+    "Cinque per cinque fa venticinque",
+    "cinque per cinque fa venticinque",
+    "cinque per cinque fa venticinque."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001820",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_tretiy"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "terzo",
+   "answer": "тре́тий",
+   "accepted": [
+    "тре́тий",
+    "третий"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001821",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_ya",
+   "w_dvadtsat",
+   "w_chetyre",
+   "w_god"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Ho ventiquattro anni.",
+   "answer": "Мне́ два́дцать четы́ре го́да.",
+   "accepted": [
+    "Мне́ два́дцать четы́ре го́да.",
+    "Мне́ два́дцать четы́ре го́да",
+    "Мне двадцать четыре года.",
+    "Мне двадцать четыре года",
+    "мне двадцать четыре года.",
+    "мне двадцать четыре года",
+    "мне́ два́дцать четы́ре го́да"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001822",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_sto"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "сто́",
+   "answer": "cento",
+   "accepted": [
+    "cento"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001823",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_kakoy",
+   "w_krasivyy",
+   "w_chislo"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Како́е краси́вое число́.",
+   "answer": "Che bel numero.",
+   "accepted": [
+    "Che bel numero.",
+    "Che bel numero",
+    "che bel numero",
+    "che bel numero."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001824",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_chislo"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "numero",
+   "answer": "число́",
+   "accepted": [
+    "число́",
+    "число",
+    "но́мер",
+    "номер"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001825",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_ya",
+   "w_dvadtsat",
+   "w_tri",
+   "w_god"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Ho ventitré anni.",
+   "answer": "Мне́ два́дцать три́ го́да.",
+   "accepted": [
+    "Мне́ два́дцать три́ го́да.",
+    "Мне́ два́дцать три́ го́да",
+    "Мне двадцать три года.",
+    "Мне двадцать три года",
+    "мне двадцать три года.",
+    "мне двадцать три года",
+    "мне́ два́дцать три́ го́да"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001826",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_tysyacha"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ты́сяча",
+   "answer": "mille",
+   "accepted": [
+    "mille"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001827",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_rubl"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "пя́ть ___.",
+   "answer": "рубле́й",
+   "accepted": [
+    "рубле́й",
+    "рублей"
+   ],
+   "hint_it": "Cinque rubli."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001828",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_ona"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ сто́ ле́т.",
+   "answer": "Е́й",
+   "accepted": [
+    "Е́й",
+    "Ей",
+    "ей",
+    "е́й"
+   ],
+   "hint_it": "Ha cento anni."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001829",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_rubl"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "сто́ ___.",
+   "answer": "рубле́й",
+   "accepted": [
+    "рубле́й",
+    "рублей"
+   ],
+   "hint_it": "Cento rubli."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001830",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_gde"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ второ́й носо́к?",
+   "answer": "Где́",
+   "accepted": [
+    "Где́",
+    "Где",
+    "где",
+    "где́"
+   ],
+   "hint_it": "Dov'è l'altro calzino?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001831",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_rubl"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "два́ ___.",
+   "answer": "рубля́",
+   "accepted": [
+    "рубля́",
+    "рубля"
+   ],
+   "hint_it": "Due rubli."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001832",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_klass"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ в тре́тьем ___.",
+   "answer": "кла́ссе",
+   "accepted": [
+    "кла́ссе",
+    "классе"
+   ],
+   "hint_it": "Sono in classe terza."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001833",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_god"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "два́ ___.",
+   "answer": "го́да",
+   "accepted": [
+    "го́да",
+    "года"
+   ],
+   "hint_it": "Due anni."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001834",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_sto"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Е́й ___ ле́т.",
+   "answer": "сто́",
+   "accepted": [
+    "сто́",
+    "сто"
+   ],
+   "hint_it": "Ha cento anni."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001835",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_chas"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta del nome dopo il numero.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "два́дцать ___. — Venti ore.",
+   "options": [
+    "часы́",
+    "ча́с",
+    "часо́в"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001836",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_on",
+   "w_sto",
+   "w_god"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Ему́ сто́ ле́т.",
+   "options": [
+    "Queste sono le sue cose.",
+    "Lasciate loro un secondo.",
+    "Ha cento anni.",
+    "L'ho trovato io."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001837",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_tretiy"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «тре́тий»?",
+   "options": [
+    "venti",
+    "otto",
+    "terzo",
+    "dieci"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001838",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals",
+   "gender"
+  ],
+  "words": [
+   "w_nomer"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «но́мер»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001839",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "tempo"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_kakoy",
+   "w_segodnya",
+   "w_chislo"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che giorno è oggi?",
+   "options": [
+    "Како́е сего́дня число́?",
+    "Кака́я та́м пого́да?",
+    "О́н сего́дня спро́сит.",
+    "Како́е краси́вое число́."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001840",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_sto"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «cento» in russo?",
+   "options": [
+    "пе́рвый",
+    "сто́",
+    "де́сять",
+    "второ́й"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001841",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals",
+   "genitive-after-numbers"
+  ],
+  "words": [
+   "w_god"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta del nome dopo il numero.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "де́сять ___. — Dieci anni.",
+   "options": [
+    "го́ды",
+    "го́д",
+    "ле́т",
+    "го́да"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001842",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_klass",
+   "w_pustoy"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Кла́сс пусто́й.",
+   "options": [
+    "La classe è vuota.",
+    "È vuoto.",
+    "La tazza è vuota.",
+    "È vuota."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001843",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_dvadtsat",
+   "w_chislo",
+   "w_tysyacha",
+   "w_oba",
+   "w_vtoroy"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "два́дцать",
+     "it": "venti"
+    },
+    {
+     "ru": "число́",
+     "it": "numero"
+    },
+    {
+     "ru": "ты́сяча",
+     "it": "mille"
+    },
+    {
+     "ru": "о́ба",
+     "it": "entrambi"
+    },
+    {
+     "ru": "второ́й",
+     "it": "secondo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001844",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "descrizioni",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_klass",
+   "w_pustoy",
+   "w_ya",
+   "w_nravitsya",
+   "w_etot",
+   "w_dvoe"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Кла́сс пусто́й.",
+     "it": "La classe è vuota."
+    },
+    {
+     "ru": "Мне́ нра́вятся э́ти дво́е.",
+     "it": "Mi piacciono questi due."
+    },
+    {
+     "ru": "Дво́е ушли́.",
+     "it": "Due sono andati via."
+    },
+    {
+     "ru": "Мне́ два́дцать три́ го́да.",
+     "it": "Ho ventitré anni."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001845",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "casa"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_oba",
+   "w_nomer",
+   "w_vtoroy",
+   "w_pol",
+   "w_ikh",
+   "w_nichto"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "о́ба",
+     "it": "entrambi"
+    },
+    {
+     "ru": "но́мер",
+     "it": "numero"
+    },
+    {
+     "ru": "второ́й",
+     "it": "secondo"
+    },
+    {
+     "ru": "по́л",
+     "it": "pavimento"
+    },
+    {
+     "ru": "и́х",
+     "it": "loro"
+    },
+    {
+     "ru": "ничто́",
+     "it": "niente"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001846",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_chislo",
+   "w_tysyacha",
+   "w_dvoe",
+   "w_dvadtsat"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "число́",
+     "it": "numero"
+    },
+    {
+     "ru": "ты́сяча",
+     "it": "mille"
+    },
+    {
+     "ru": "дво́е",
+     "it": "in due"
+    },
+    {
+     "ru": "два́дцать",
+     "it": "venti"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001847",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "mente",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_khotet",
+   "w_moy",
+   "w_nomer",
+   "w_ya",
+   "w_odin",
+   "w_v"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Хо́чешь мо́й но́мер?",
+     "it": "Vuoi il mio numero?"
+    },
+    {
+     "ru": "Я́ оди́н в кла́ссе.",
+     "it": "Sono da solo in classe."
+    },
+    {
+     "ru": "Мне́ два́дцать четы́ре го́да.",
+     "it": "Ho ventiquattro anni."
+    },
+    {
+     "ru": "Я́ в кла́ссе.",
+     "it": "Io sono in classe."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001848",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "azioni",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_chislo",
+   "w_tretiy",
+   "w_sto",
+   "w_devochka",
+   "w_zhit",
+   "w_iz"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "число́",
+     "it": "numero"
+    },
+    {
+     "ru": "тре́тий",
+     "it": "terzo"
+    },
+    {
+     "ru": "сто́",
+     "it": "cento"
+    },
+    {
+     "ru": "де́вочка",
+     "it": "bambina"
+    },
+    {
+     "ru": "жи́ть",
+     "it": "vivere"
+    },
+    {
+     "ru": "и́з",
+     "it": "da"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001849",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_oba",
+   "w_tretiy",
+   "w_vtoroy",
+   "w_klass",
+   "w_sto",
+   "w_nomer"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 42,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "о́ба",
+     "it": "entrambi"
+    },
+    {
+     "ru": "тре́тий",
+     "it": "terzo"
+    },
+    {
+     "ru": "второ́й",
+     "it": "secondo"
+    },
+    {
+     "ru": "кла́сс",
+     "it": "classe"
+    },
+    {
+     "ru": "сто́",
+     "it": "cento"
+    },
+    {
+     "ru": "но́мер",
+     "it": "numero"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001850",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_klass",
+   "w_pustoy"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Кла́сс пусто́й.",
+   "translation_it": "La classe è vuota.",
+   "accepted": [
+    "Кла́сс пусто́й.",
+    "Кла́сс пусто́й",
+    "Класс пустой.",
+    "Класс пустой",
+    "класс пустой.",
+    "класс пустой",
+    "кла́сс пусто́й"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001851",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_tysyacha"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ты́сяча",
+   "translation_it": "mille",
+   "accepted": [
+    "ты́сяча",
+    "тысяча"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001852",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "tempo"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_kakoy",
+   "w_segodnya",
+   "w_chislo"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Како́е сего́дня число́?",
+   "translation_it": "Che giorno è oggi?",
+   "accepted": [
+    "Како́е сего́дня число́?",
+    "Како́е сего́дня число́",
+    "Какое сегодня число?",
+    "Какое сегодня число",
+    "какое сегодня число?",
+    "какое сегодня число",
+    "како́е сего́дня число́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001853",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_klass"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "кла́сс",
+   "translation_it": "classe",
+   "accepted": [
+    "кла́сс",
+    "класс"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001854",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_ya",
+   "w_odin",
+   "w_v",
+   "w_klass"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ оди́н в кла́ссе.",
+   "translation_it": "Sono da solo in classe.",
+   "accepted": [
+    "Я́ оди́н в кла́ссе.",
+    "Я́ оди́н в кла́ссе",
+    "Я один в классе.",
+    "Я один в классе",
+    "я один в классе.",
+    "я один в классе",
+    "я́ оди́н в кла́ссе"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001855",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_nomer"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "но́мер",
+   "translation_it": "numero",
+   "accepted": [
+    "но́мер",
+    "номер"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001856",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_u",
+   "w_ya",
+   "w_dvoe",
+   "w_rebyonok"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "У меня́ дво́е дете́й.",
+   "translation_it": "Ho due figli.",
+   "accepted": [
+    "У меня́ дво́е дете́й.",
+    "У меня́ дво́е дете́й",
+    "У меня двое детей.",
+    "У меня двое детей",
+    "у меня двое детей.",
+    "у меня двое детей",
+    "у меня́ дво́е дете́й"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001857",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "numbers-high",
+   "ordinals"
+  ],
+  "words": [
+   "w_sto"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "сто́",
+   "translation_it": "cento",
+   "accepted": [
+    "сто́",
+    "сто"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

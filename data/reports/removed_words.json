@@ -1,0 +1,63 @@
+{
+ "generato_da": "scripts/build_words.py (qa_fixes.json)",
+ "rimosse": [
+  {
+   "id": "w_chyom",
+   "ru": "чём",
+   "level": "a2"
+  },
+  {
+   "id": "w_chlen",
+   "ru": "член",
+   "level": "a2"
+  },
+  {
+   "id": "w_pisat_verb",
+   "ru": "писать",
+   "level": "a2"
+  },
+  {
+   "id": "w_stringi",
+   "ru": "стринги",
+   "level": "a2"
+  },
+  {
+   "id": "w_getero",
+   "ru": "гетеро",
+   "level": "a2"
+  },
+  {
+   "id": "w_sidushka",
+   "ru": "сидушка",
+   "level": "a2"
+  },
+  {
+   "id": "w_zh",
+   "ru": "ж",
+   "level": "a2"
+  },
+  {
+   "id": "w_bezoblachno",
+   "ru": "безоблачно",
+   "level": "a2"
+  }
+ ],
+ "rifiutate_da_qa_ma_citate_in_content_mantenute": [
+  {
+   "id": "w_mem",
+   "ru": "мем",
+   "level": "a1",
+   "citata_in": [
+    "content/curriculum/a1/l_a1_25.json"
+   ]
+  },
+  {
+   "id": "w_neskolkie",
+   "ru": "несколькие",
+   "level": "a1",
+   "citata_in": [
+    "content/curriculum/a1/l_a1_18.json"
+   ]
+  }
+ ]
+}

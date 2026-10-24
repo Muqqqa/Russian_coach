@@ -1,0 +1,1486 @@
+[
+ {
+  "id": "e_001169",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_ostanovit"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "останови́ть",
+   "answer": "fermare",
+   "accepted": [
+    "fermare"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001170",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_vkhod",
+   "w_svobodnyy"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Вхо́д свобо́дный.",
+   "answer": "Ingresso libero.",
+   "accepted": [
+    "Ingresso libero.",
+    "Ingresso libero",
+    "ingresso libero",
+    "ingresso libero."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001171",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_vyyti"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "uscire",
+   "answer": "вы́йти",
+   "accepted": [
+    "вы́йти",
+    "выйти"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001172",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_gde",
+   "w_vkhod"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Dov'è l'entrata?",
+   "answer": "Где́ вхо́д?",
+   "accepted": [
+    "Где́ вхо́д?",
+    "Где́ вхо́д",
+    "Где вход?",
+    "Где вход",
+    "где вход?",
+    "где вход",
+    "где́ вхо́д"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001173",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_avtobus"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "авто́бус",
+   "answer": "autobus",
+   "accepted": [
+    "autobus",
+    "l'autobus",
+    "un autobus"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001174",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "mente",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_vy",
+   "w_nichto",
+   "w_ne",
+   "w_moch",
+   "w_ostanovit"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 23,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Ва́с ничто́ не мо́жет останови́ть.",
+   "answer": "Niente può fermarvi.",
+   "accepted": [
+    "Niente può fermarvi.",
+    "Niente può fermarvi",
+    "niente può fermarvi",
+    "niente può fermarvi.",
+    "Niente puo' fermarvi.",
+    "niente puo' fermarvi",
+    "niente puo fermarvi"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001175",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_ostanovit"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "fermare",
+   "answer": "останови́ть",
+   "accepted": [
+    "останови́ть",
+    "остановить"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001176",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_ya",
+   "w_ona",
+   "w_ne",
+   "w_ostanovit"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 28,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Non riesco a fermarla.",
+   "answer": "Мне́ её не останови́ть.",
+   "accepted": [
+    "Мне́ её не останови́ть.",
+    "Мне́ её не останови́ть",
+    "Мне её не остановить.",
+    "Мне её не остановить",
+    "мне её не остановить.",
+    "мне её не остановить",
+    "мне́ её не останови́ть",
+    "Мне ее не остановить.",
+    "мне ее не остановить"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001177",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_metro"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "метро́",
+   "answer": "metropolitana",
+   "accepted": [
+    "metropolitana",
+    "la metropolitana",
+    "una metropolitana"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001178",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix",
+   "future-perfective"
+  ],
+  "words": [
+   "w_vyyti"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "За́втра вы́ ___ (вы́йти).",
+   "answer": "вы́йдете",
+   "accepted": [
+    "вы́йдете",
+    "выйдете"
+   ],
+   "hint_it": "uscire: voi (domani)"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001179",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_solntse"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вы́шло ___.",
+   "answer": "со́лнце",
+   "accepted": [
+    "со́лнце",
+    "солнце"
+   ],
+   "hint_it": "È uscito il sole."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001180",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix",
+   "prepositional-case"
+  ],
+  "words": [
+   "w_mashina"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Мы́ е́дем на ___.",
+   "answer": "маши́не",
+   "accepted": [
+    "маши́не",
+    "машине"
+   ],
+   "hint_it": "Andiamo in macchina."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001181",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_ostanovit"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "О́н меня́ не ___.",
+   "answer": "остано́вит",
+   "accepted": [
+    "остано́вит",
+    "остановит"
+   ],
+   "hint_it": "Non mi fermerà."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001182",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix",
+   "future-perfective"
+  ],
+  "words": [
+   "w_ostanovit"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "За́втра я́ ___ (останови́ть).",
+   "answer": "остановлю́",
+   "accepted": [
+    "остановлю́",
+    "остановлю"
+   ],
+   "hint_it": "fermare: io (domani)"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001183",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_gde"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ вхо́д?",
+   "answer": "Где́",
+   "accepted": [
+    "Где́",
+    "Где",
+    "где",
+    "где́"
+   ],
+   "hint_it": "Dov'è l'entrata?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001184",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_avtobus"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Зде́сь ___.",
+   "answer": "авто́бус",
+   "accepted": [
+    "авто́бус",
+    "автобус"
+   ],
+   "hint_it": "L'autobus è qui."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001185",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_metro"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "О́н е́хал на ___.",
+   "answer": "метро́",
+   "accepted": [
+    "метро́",
+    "метро"
+   ],
+   "hint_it": "Lui è andato con la metro."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001186",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix",
+   "prepositional-case"
+  ],
+  "words": [
+   "w_avtobus"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma giusta (con quale mezzo?).",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ е́ду на ___. — Vado in autobus.",
+   "options": [
+    "авто́бусе",
+    "авто́буса",
+    "авто́бусу",
+    "авто́бус"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001187",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_mashina",
+   "w_dorogoy"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Маши́ны дороги́е.",
+   "options": [
+    "Il cibo è costoso.",
+    "Cari amici!",
+    "Sono costosi.",
+    "Le macchine sono care."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001188",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_mashina"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «маши́на»?",
+   "options": [
+    "macchina",
+    "neve",
+    "giacca",
+    "sedia"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001189",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix",
+   "gender"
+  ],
+  "words": [
+   "w_metro"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «метро́»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001190",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "saluti"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_pozhaluysta",
+   "w_voyti"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Prego, entrate!",
+   "options": [
+    "Да, пожа́луйста.",
+    "Мо́жно войти́?",
+    "Счёт, пожа́луйста!",
+    "Пожа́луйста, войди́те!"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001191",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_avtobus"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «autobus» in russo?",
+   "options": [
+    "авто́бус",
+    "метро́",
+    "сту́л",
+    "рука́"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001192",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix",
+   "future-perfective"
+  ],
+  "words": [
+   "w_voyti"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 14,
+  "prompt_it": "Coniuga il verbo: scegli la forma giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "За́втра они́ ___ (войти́). — entrare: loro (domani)",
+   "options": [
+    "войду́",
+    "войдёшь",
+    "войду́т",
+    "войдёте"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001193",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_ya",
+   "w_uzhe",
+   "w_v",
+   "w_metro"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 18,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ уже́ в метро́.",
+   "options": [
+    "Mercoledì sono libera.",
+    "Ho tre figli.",
+    "Ho dormito nove ore.",
+    "Sono già in metro."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001194",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "trasporti",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_metro",
+   "w_avtobus",
+   "w_vkhod",
+   "w_ostanovit"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "метро́",
+     "it": "metropolitana"
+    },
+    {
+     "ru": "авто́бус",
+     "it": "autobus"
+    },
+    {
+     "ru": "вхо́д",
+     "it": "entrata"
+    },
+    {
+     "ru": "останови́ть",
+     "it": "fermare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001195",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_ya",
+   "w_voyti",
+   "w_gde",
+   "w_vykhod",
+   "w_izvinite",
+   "w_mozhno"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ вошёл.",
+     "it": "Sono entrato."
+    },
+    {
+     "ru": "Где́ вы́ход?",
+     "it": "Dov'è l'uscita?"
+    },
+    {
+     "ru": "Извини́те, мо́жно войти́?",
+     "it": "Scusate, posso entrare?"
+    },
+    {
+     "ru": "Ты́ не вы́шла?",
+     "it": "Non sei uscita?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001196",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "luoghi",
+   "movimento",
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_voyti",
+   "w_vyyti",
+   "w_vkhod",
+   "w_dver",
+   "w_derevnya",
+   "w_rossiya"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "войти́",
+     "it": "entrare"
+    },
+    {
+     "ru": "вы́йти",
+     "it": "uscire"
+    },
+    {
+     "ru": "вхо́д",
+     "it": "entrata"
+    },
+    {
+     "ru": "две́рь",
+     "it": "porta"
+    },
+    {
+     "ru": "дере́вня",
+     "it": "villaggio"
+    },
+    {
+     "ru": "Росси́я",
+     "it": "Russia"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001197",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_avtobus",
+   "w_ostanovit",
+   "w_vyyti",
+   "w_voyti"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "авто́бус",
+     "it": "autobus"
+    },
+    {
+     "ru": "останови́ть",
+     "it": "fermare"
+    },
+    {
+     "ru": "вы́йти",
+     "it": "uscire"
+    },
+    {
+     "ru": "войти́",
+     "it": "entrare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001198",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_mashina",
+   "w_dorogoy",
+   "w_on",
+   "w_ekhat",
+   "w_na",
+   "w_metro"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Маши́ны дороги́е.",
+     "it": "Le macchine sono care."
+    },
+    {
+     "ru": "О́н е́хал на метро́.",
+     "it": "Lui è andato con la metro."
+    },
+    {
+     "ru": "Она́ вы́шла.",
+     "it": "È uscita."
+    },
+    {
+     "ru": "Я́ уже́ в метро́.",
+     "it": "Sono già in metro."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001199",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "movimento",
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_vyyti",
+   "w_mashina",
+   "w_avtobus",
+   "w_skolko",
+   "w_bystryy",
+   "w_napitok"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "вы́йти",
+     "it": "uscire"
+    },
+    {
+     "ru": "маши́на",
+     "it": "macchina"
+    },
+    {
+     "ru": "авто́бус",
+     "it": "autobus"
+    },
+    {
+     "ru": "ско́лько",
+     "it": "quanto"
+    },
+    {
+     "ru": "бы́стрый",
+     "it": "veloce"
+    },
+    {
+     "ru": "напи́ток",
+     "it": "bevanda"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001200",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_vykhod",
+   "w_eskalator",
+   "w_mashina",
+   "w_metro",
+   "w_vkhod"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "вы́ход",
+     "it": "uscita"
+    },
+    {
+     "ru": "эскала́тор",
+     "it": "scala mobile"
+    },
+    {
+     "ru": "маши́на",
+     "it": "macchina"
+    },
+    {
+     "ru": "метро́",
+     "it": "metropolitana"
+    },
+    {
+     "ru": "вхо́д",
+     "it": "entrata"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001201",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_ya",
+   "w_ona",
+   "w_ne",
+   "w_ostanovit"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Мне́ её не останови́ть.",
+   "translation_it": "Non riesco a fermarla.",
+   "accepted": [
+    "Мне́ её не останови́ть.",
+    "Мне́ её не останови́ть",
+    "Мне её не остановить.",
+    "Мне её не остановить",
+    "мне её не остановить.",
+    "мне её не остановить",
+    "мне́ её не останови́ть",
+    "Мне ее не остановить.",
+    "мне ее не остановить"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001202",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_ostanovit"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "останови́ть",
+   "translation_it": "fermare",
+   "accepted": [
+    "останови́ть",
+    "остановить"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001203",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "saluti",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_izvinite",
+   "w_mozhno",
+   "w_voyti"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Извини́те, мо́жно войти́?",
+   "translation_it": "Scusate, posso entrare?",
+   "accepted": [
+    "Извини́те, мо́жно войти́?",
+    "Извини́те мо́жно войти́",
+    "Извините, можно войти?",
+    "Извините можно войти",
+    "извините, можно войти?",
+    "извините можно войти",
+    "извини́те мо́жно войти́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001204",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "trasporti"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_vykhod"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "вы́ход",
+   "translation_it": "uscita",
+   "accepted": [
+    "вы́ход",
+    "выход"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001205",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_gde",
+   "w_avtobus"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Где́ авто́бус?",
+   "translation_it": "Dov'è l'autobus?",
+   "accepted": [
+    "Где́ авто́бус?",
+    "Где́ авто́бус",
+    "Где автобус?",
+    "Где автобус",
+    "где автобус?",
+    "где автобус",
+    "где́ авто́бус"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001206",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_voyti"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "войти́",
+   "translation_it": "entrare",
+   "accepted": [
+    "войти́",
+    "войти"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001207",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_ty",
+   "w_ne",
+   "w_vyyti"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ты́ не вы́шла?",
+   "translation_it": "Non sei uscita?",
+   "accepted": [
+    "Ты́ не вы́шла?",
+    "Ты́ не вы́шла",
+    "Ты не вышла?",
+    "Ты не вышла",
+    "ты не вышла?",
+    "ты не вышла",
+    "ты́ не вы́шла"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001208",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "trasporti",
+   "movimento",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "words": [
+   "w_mashina"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "маши́на",
+   "translation_it": "macchina",
+   "accepted": [
+    "маши́на",
+    "машина"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

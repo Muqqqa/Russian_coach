@@ -1,0 +1,1348 @@
+[
+ {
+  "id": "e_000101",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_mozhno"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Leggi la parola russa e scrivila con lettere italiane (come si pronuncia).",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "мо́жно",
+   "answer": "mòzhno",
+   "accepted": [
+    "mòzhno"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000102",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_tozhe"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "то́же",
+   "answer": "anche",
+   "accepted": [
+    "anche"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000103",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_eshchyo",
+   "w_net"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Ещё нет.",
+   "answer": "Non ancora.",
+   "accepted": [
+    "Non ancora.",
+    "Non ancora",
+    "non ancora",
+    "non ancora."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000104",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_khorosho"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "bene",
+   "answer": "хорошо́",
+   "accepted": [
+    "хорошо́",
+    "хорошо",
+    "норма́льно",
+    "нормально"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000105",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_ochen",
+   "w_khorosho"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Molto bene!",
+   "answer": "О́чень хорошо́!",
+   "accepted": [
+    "О́чень хорошо́!",
+    "О́чень хорошо́",
+    "Очень хорошо!",
+    "Очень хорошо",
+    "очень хорошо!",
+    "очень хорошо",
+    "о́чень хорошо́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000106",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_chay"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Leggi la parola russa e scrivila con lettere italiane (come si pronuncia).",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "ча́й",
+   "answer": "ciàj",
+   "accepted": [
+    "ciàj"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000107",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_mozhno"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "мо́жно",
+   "answer": "si può",
+   "accepted": [
+    "si può",
+    "si puo",
+    "è permesso",
+    "e permesso"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000108",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_ya",
+   "w_tozhe"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Я́ то́же.",
+   "answer": "Anch'io.",
+   "accepted": [
+    "Anch'io.",
+    "Anch'io",
+    "anch'io",
+    "anch'io.",
+    "Io anch'io.",
+    "Io anch'io",
+    "io anch'io",
+    "io anch'io."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000109",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_mozhno"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "si può",
+   "answer": "мо́жно",
+   "accepted": [
+    "мо́жно",
+    "можно"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000110",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_eshchyo"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ чего́?",
+   "answer": "Ещё",
+   "accepted": [
+    "Ещё",
+    "ещё",
+    "Еще",
+    "еще"
+   ],
+   "hint_it": "Cos'altro?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000111",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_gostinitsa"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "гостини___а",
+   "answer": "ц",
+   "accepted": [
+    "ц",
+    "Ц"
+   ],
+   "hint_it": "albergo, si legge «gostìniza»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000112",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_zharko"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Мне́ ___.",
+   "answer": "жа́рко",
+   "accepted": [
+    "жа́рко",
+    "жарко"
+   ],
+   "hint_it": "Ho caldo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000113",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_tozhe"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "то___е",
+   "answer": "ж",
+   "accepted": [
+    "ж",
+    "Ж"
+   ],
+   "hint_it": "anche, si legge «tòzhe»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000114",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_schyot"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___, пожа́луйста.",
+   "answer": "Счёт",
+   "accepted": [
+    "Счёт",
+    "счёт",
+    "Счет",
+    "счет"
+   ],
+   "hint_it": "Il conto, per favore."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000115",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_mozhno"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "мо___но",
+   "answer": "ж",
+   "accepted": [
+    "ж",
+    "Ж"
+   ],
+   "hint_it": "si può, si legge «mòzhno»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000116",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_eshchyo"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ нет.",
+   "answer": "Ещё",
+   "accepted": [
+    "Ещё",
+    "ещё",
+    "Еще",
+    "еще"
+   ],
+   "hint_it": "Non ancora."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000117",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_eshchyo"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "ещ___",
+   "answer": "ё",
+   "accepted": [
+    "ё",
+    "Ё"
+   ],
+   "hint_it": "ancora, si legge «iessciò»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000118",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_eshchyo",
+   "w_schyot"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il suono della lettera.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge la lettera «Ё ё»?",
+   "options": [
+    "c dolce",
+    "io",
+    "i",
+    "ia"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000119",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_zharko",
+   "w_tozhe"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 10,
+  "prompt_it": "Scegli la lettera russa che corrisponde al suono.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Quale lettera russa si legge «zh»?",
+   "options": [
+    "Г г",
+    "Ж ж",
+    "Я я",
+    "С с"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000120",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_eshchyo"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Scegli la lettura giusta della parola.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge «ещё»?",
+   "options": [
+    "sciòt",
+    "iessciò",
+    "onà",
+    "zhàrko"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000121",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_eshchyo",
+   "w_chto"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Ещё чего́?",
+   "options": [
+    "Che cos'è?",
+    "Cos'altro?",
+    "Non ancora.",
+    "Dove sono?"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000122",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_chay"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «ча́й»?",
+   "options": [
+    "ciao",
+    "tè",
+    "birra",
+    "taxi"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000123",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants",
+   "gender"
+  ],
+  "words": [
+   "w_schyot"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 11,
+  "prompt_it": "Scegli il genere del nome russo.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Di che genere è il nome «счёт»?",
+   "options": [
+    "maschile",
+    "femminile",
+    "neutro"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000124",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_ochen",
+   "w_khorosho"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Molto bene!",
+   "options": [
+    "О́чень хорошо́!",
+    "Э́то я́.",
+    "Что́ э́то?",
+    "Ко́фе нет."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000125",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_chay"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «tè» in russo?",
+   "options": [
+    "рестора́н",
+    "вино́",
+    "счёт",
+    "ча́й"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000126",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_zharko",
+   "w_tozhe"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 36,
+  "prompt_it": "Abbina ogni lettera russa al suo suono.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Ж ж",
+     "it": "zh"
+    },
+    {
+     "ru": "Щ щ",
+     "it": "ssc"
+    },
+    {
+     "ru": "Ч ч",
+     "it": "c dolce"
+    },
+    {
+     "ru": "Ц ц",
+     "it": "z sorda"
+    },
+    {
+     "ru": "Ш ш",
+     "it": "sc"
+    },
+    {
+     "ru": "Ё ё",
+     "it": "io"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000127",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_eshchyo"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 28,
+  "prompt_it": "Abbina le lettere ai suoni (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Щ щ",
+     "it": "ssc"
+    },
+    {
+     "ru": "Ш ш",
+     "it": "sc"
+    },
+    {
+     "ru": "И и",
+     "it": "i"
+    },
+    {
+     "ru": "У у",
+     "it": "u"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000128",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_khorosho",
+   "w_chay",
+   "w_schyot",
+   "w_zharko"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa alla sua lettura.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "хорошо́",
+     "it": "khorosciò"
+    },
+    {
+     "ru": "ча́й",
+     "it": "ciàj"
+    },
+    {
+     "ru": "счёт",
+     "it": "sciòt"
+    },
+    {
+     "ru": "жа́рко",
+     "it": "zhàrko"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000129",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_gostinitsa",
+   "w_chto",
+   "w_khorosho",
+   "w_eshchyo"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "гости́ница",
+     "it": "albergo"
+    },
+    {
+     "ru": "что́",
+     "it": "che cosa"
+    },
+    {
+     "ru": "хорошо́",
+     "it": "bene"
+    },
+    {
+     "ru": "ещё",
+     "it": "ancora"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000130",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_eshchyo",
+   "w_chto",
+   "w_ya",
+   "w_zharko",
+   "w_schyot",
+   "w_pozhaluysta"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Ещё чего́?",
+     "it": "Cos'altro?"
+    },
+    {
+     "ru": "Мне́ жа́рко.",
+     "it": "Ho caldo."
+    },
+    {
+     "ru": "Счёт, пожа́луйста.",
+     "it": "Il conto, per favore."
+    },
+    {
+     "ru": "Та́м жа́рко?",
+     "it": "Lì fa caldo?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000131",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_chay",
+   "w_chto",
+   "w_zharko",
+   "w_ona",
+   "w_da",
+   "w_taksi"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ча́й",
+     "it": "tè"
+    },
+    {
+     "ru": "что́",
+     "it": "che cosa"
+    },
+    {
+     "ru": "жа́рко",
+     "it": "fa caldo"
+    },
+    {
+     "ru": "она́",
+     "it": "lei"
+    },
+    {
+     "ru": "да́",
+     "it": "sì"
+    },
+    {
+     "ru": "такси́",
+     "it": "taxi"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000132",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_eshchyo",
+   "w_chto"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ещё чего́?",
+   "translation_it": "Cos'altro?",
+   "accepted": [
+    "Ещё чего́?",
+    "Ещё чего́",
+    "Ещё чего?",
+    "Ещё чего",
+    "ещё чего?",
+    "ещё чего",
+    "ещё чего́",
+    "Еще чего?",
+    "еще чего"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000133",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_gostinitsa"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "гости́ница",
+   "translation_it": "albergo",
+   "accepted": [
+    "гости́ница",
+    "гостиница"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000134",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_tam",
+   "w_zharko"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Та́м жа́рко?",
+   "translation_it": "Lì fa caldo?",
+   "accepted": [
+    "Та́м жа́рко?",
+    "Та́м жа́рко",
+    "Там жарко?",
+    "Там жарко",
+    "там жарко?",
+    "там жарко",
+    "та́м жа́рко"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000135",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_chay"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ча́й",
+   "translation_it": "tè",
+   "accepted": [
+    "ча́й",
+    "чай"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000136",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "ristorante",
+   "saluti"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_schyot",
+   "w_pozhaluysta"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Счёт, пожа́луйста.",
+   "translation_it": "Il conto, per favore.",
+   "accepted": [
+    "Счёт, пожа́луйста.",
+    "Счёт пожа́луйста",
+    "Счёт, пожалуйста.",
+    "Счёт пожалуйста",
+    "счёт, пожалуйста.",
+    "счёт пожалуйста",
+    "счёт пожа́луйста",
+    "Счет, пожалуйста.",
+    "счет пожалуйста"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000137",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_khorosho"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "хорошо́",
+   "translation_it": "bene",
+   "accepted": [
+    "хорошо́",
+    "хорошо"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000138",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_ya",
+   "w_tozhe"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Я́ то́же.",
+   "translation_it": "Anch'io.",
+   "accepted": [
+    "Я́ то́же.",
+    "Я́ то́же",
+    "Я тоже.",
+    "Я тоже",
+    "я тоже.",
+    "я тоже",
+    "я́ то́же"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000139",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "words": [
+   "w_mozhno"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "мо́жно",
+   "translation_it": "si può",
+   "accepted": [
+    "мо́жно",
+    "можно"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]

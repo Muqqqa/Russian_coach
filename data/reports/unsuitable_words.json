@@ -1,20 +1,8 @@
 {
  "generato_da": "scripts/filter_sentences.py",
  "nota": "Parole NON cancellate: segnalate per revisione (curriculum-writer / qa-russian).",
- "totale": 44,
+ "totale": 36,
  "parole": [
-  {
-   "id": "w_zovut",
-   "ru": "зовут",
-   "level": "zero",
-   "pos": "phrase",
-   "en": [
-    "to be called (= name is)"
-   ],
-   "motivi": [
-    "forma verbale (3a pl.) trattata come lemma"
-   ]
-  },
   {
    "id": "w_a",
    "ru": "а",
@@ -26,18 +14,6 @@
    ],
    "motivi": [
     "Wiktionary marca il primo senso come: slang"
-   ]
-  },
-  {
-   "id": "w_politsiya",
-   "ru": "полиция",
-   "level": "a1",
-   "pos": "noun",
-   "en": [
-    "police"
-   ],
-   "motivi": [
-    "argomento sensibile (politica: полиция)"
    ]
   },
   {
@@ -81,9 +57,9 @@
    "id": "w_kreditnaya_karta",
    "ru": "кредитная карта",
    "level": "a1",
-   "pos": "noun",
+   "pos": "phrase",
    "en": [
-    "Credit card"
+    "credit card"
    ],
    "motivi": [
     "espressione composta fuori standard (non e' una parola singola)"
@@ -99,18 +75,6 @@
    ],
    "motivi": [
     "forma plurale rara di 'несколько'"
-   ]
-  },
-  {
-   "id": "w_chyom",
-   "ru": "чём",
-   "level": "a2",
-   "pos": "pron",
-   "en": [
-    "Prepositional of 'что'"
-   ],
-   "motivi": [
-    "forma flessa di 'что' trattata come lemma"
    ]
   },
   {
@@ -273,16 +237,16 @@
    ]
   },
   {
-   "id": "w_chlen",
-   "ru": "член",
+   "id": "w_krichat",
+   "ru": "кричать",
    "level": "a2",
-   "pos": "noun",
+   "pos": "verb",
    "en": [
-    "member",
-    "term, element, constituent"
+    "to shout, to scream, to cry out, to yell",
+    "to shout at (someone), to yell at (someone)"
    ],
    "motivi": [
-    "argomento sensibile (sesso: член)"
+    "argomento sensibile (violenza/armi: кричать)"
    ]
   },
   {
@@ -416,7 +380,7 @@
    "level": "a2",
    "pos": "noun",
    "en": [
-    "State"
+    "state"
    ],
    "motivi": [
     "argomento sensibile (politica: государство)"
@@ -444,19 +408,6 @@
    ],
    "motivi": [
     "argomento sensibile (politica: государственный)"
-   ]
-  },
-  {
-   "id": "w_cherta",
-   "ru": "черта",
-   "level": "a2",
-   "pos": "noun",
-   "en": [
-    "line, stroke, dash",
-    "boundary, limits"
-   ],
-   "motivi": [
-    "argomento sensibile (religione: черта)"
    ]
   },
   {
@@ -493,56 +444,6 @@
    ],
    "motivi": [
     "Wiktionary marca il primo senso come: slang"
-   ]
-  },
-  {
-   "id": "w_getero",
-   "ru": "гетеро",
-   "level": "a2",
-   "pos": "noun",
-   "en": [
-    "hetero, straight (person)"
-   ],
-   "motivi": [
-    "prefisso/gergo su orientamento sessuale, poco utile a un principiante",
-    "argomento sensibile (sesso: гетеро)"
-   ]
-  },
-  {
-   "id": "w_sidushka",
-   "ru": "сидушка",
-   "level": "a2",
-   "pos": "noun",
-   "en": [
-    "seat"
-   ],
-   "motivi": [
-    "gergale/neologismo di nicchia (sedile imbottito), poco utile a un principiante"
-   ]
-  },
-  {
-   "id": "w_zh",
-   "ru": "ж",
-   "level": "a2",
-   "pos": "part",
-   "en": [
-    "then, after all, indeed",
-    "but, however, whereas"
-   ],
-   "motivi": [
-    "particella enclitica abbreviata, non e' una parola autonoma"
-   ]
-  },
-  {
-   "id": "w_bezoblachno",
-   "ru": "безоблачно",
-   "level": "a2",
-   "pos": "adv",
-   "en": [
-    "cloudless"
-   ],
-   "motivi": [
-    "avverbio raro"
    ]
   }
  ]

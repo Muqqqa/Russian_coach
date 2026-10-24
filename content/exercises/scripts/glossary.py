@@ -29,7 +29,7 @@ def split_gloss(g):
         if p and p not in out: out.append(p)
     return out
 def build_glossary(W,L):
-    manual=json.load(open(os.path.join(os.path.dirname(__file__),'glossary_manual.json')))
+    manual=json.load(open(os.path.join(os.path.dirname(__file__),'glossary_manual.txt')))
     byru={}
     for w in W.values(): byru.setdefault(norm(w['ru']),[]).append(w['id'])
     G={}

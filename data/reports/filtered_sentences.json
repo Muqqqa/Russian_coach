@@ -1,14 +1,16 @@
 {
  "generato_da": "scripts/filter_sentences.py",
- "frasi_controllate": 9960,
- "frasi_escluse": 236,
+ "frasi_controllate": 12824,
+ "frasi_escluse": 482,
  "per_motivo": {
-  "morte": 88,
-  "religione": 34,
-  "politica": 52,
-  "violenza/armi": 32,
-  "insulti/razzismo": 29,
-  "sesso": 1
+  "morte": 92,
+  "qa: nome proprio mappato a parola comune": 142,
+  "religione": 31,
+  "politica": 32,
+  "droga/alcol": 60,
+  "violenza/armi": 80,
+  "qa: frase rifiutata": 21,
+  "insulti/razzismo": 24
  },
  "nota": "Euristica a radici in russo e italiano; esclude per cautela (anche falsi positivi). id = id frase (s_<Tatoeba>).",
  "frasi": [
@@ -18,6 +20,13 @@
    "termine": "смерти",
    "ru": "Это вопрос жизни и смерти.",
    "it": "È una questione di vita e di morte."
+  },
+  {
+   "id": "s_417113",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Привет, Том.",
+   "it": ""
   },
   {
    "id": "s_431546",
@@ -39,13 +48,6 @@
    "termine": "бога",
    "ru": "Она не верит в бога.",
    "it": "Non crede in Dio."
-  },
-  {
-   "id": "s_473158",
-   "motivo": "politica",
-   "termine": "полиция",
-   "ru": "Приедет ли полиция?",
-   "it": "La polizia verrà?"
   },
   {
    "id": "s_473212",
@@ -83,6 +85,13 @@
    "it": "Tutti conoscono la legge."
   },
   {
+   "id": "s_512114",
+   "motivo": "droga/alcol",
+   "termine": "пью",
+   "ru": "Я не пью кофе.",
+   "it": "Non bevo caffè."
+  },
+  {
    "id": "s_573819",
    "motivo": "morte",
    "termine": "умер",
@@ -90,18 +99,11 @@
    "it": "L'uomo è morto poche ore fa."
   },
   {
-   "id": "s_614523",
-   "motivo": "politica",
-   "termine": "полиция",
-   "ru": "Приедет полиция?",
-   "it": "La polizia verrà?"
-  },
-  {
-   "id": "s_638979",
-   "motivo": "politica",
-   "termine": "полицию",
-   "ru": "Вызовите полицию!",
-   "it": "Chiami la polizia!"
+   "id": "s_645338",
+   "motivo": "morte",
+   "termine": "sanguigno",
+   "ru": "Какая у тебя группа крови?",
+   "it": "Qual è il tuo gruppo sanguigno?"
   },
   {
    "id": "s_646279",
@@ -116,13 +118,6 @@
    "termine": "бог",
    "ru": "Бог дал, Бог взял.",
    "it": "Dio ha dato, Dio ha preso."
-  },
-  {
-   "id": "s_696744",
-   "motivo": "violenza/armi",
-   "termine": "бойся",
-   "ru": "Боишься - не начинай, начал - не бойся.",
-   "it": "Se hai paura non cominciare, se hai cominciato, non aver paura."
   },
   {
    "id": "s_797348",
@@ -146,11 +141,25 @@
    "it": "Tutte le cose viventi un giorno moriranno."
   },
   {
+   "id": "s_1134153",
+   "motivo": "droga/alcol",
+   "termine": "пьёшь",
+   "ru": "Ты пьёшь кофе?",
+   "it": "Bevi caffè?"
+  },
+  {
    "id": "s_1306410",
    "motivo": "morte",
    "termine": "смерти",
    "ru": "После смерти нет ничего.",
    "it": "Dopo la morte non c'è nulla."
+  },
+  {
+   "id": "s_1436303",
+   "motivo": "droga/alcol",
+   "termine": "пью",
+   "ru": "Я пью кофе.",
+   "it": "Bevo del caffè."
   },
   {
    "id": "s_1438642",
@@ -160,6 +169,13 @@
    "it": "Ormai è una guerra."
   },
   {
+   "id": "s_1486953",
+   "motivo": "violenza/armi",
+   "termine": "убью",
+   "ru": "Я убью тебя.",
+   "it": "Ti ucciderò."
+  },
+  {
    "id": "s_1501312",
    "motivo": "religione",
    "termine": "бога",
@@ -167,11 +183,25 @@
    "it": "Credi in Dio?"
   },
   {
-   "id": "s_1643262",
-   "motivo": "politica",
-   "termine": "полицию",
-   "ru": "Нужно вызвать полицию.",
-   "it": "Dobbiamo chiamare la polizia."
+   "id": "s_1536208",
+   "motivo": "droga/alcol",
+   "termine": "пьют",
+   "ru": "Они пьют чай в пять.",
+   "it": "Prendono il tè alle cinque."
+  },
+  {
+   "id": "s_1737851",
+   "motivo": "violenza/armi",
+   "termine": "кричал",
+   "ru": "Он кричал.",
+   "it": "Lui stava gridando."
+  },
+  {
+   "id": "s_1788651",
+   "motivo": "droga/alcol",
+   "termine": "пьёт",
+   "ru": "Её отец пьёт кофе?",
+   "it": "Suo padre beve il caffè?"
   },
   {
    "id": "s_1790248",
@@ -188,18 +218,18 @@
    "it": "Perché non credete in Dio?"
   },
   {
-   "id": "s_1866544",
-   "motivo": "violenza/armi",
-   "termine": "бойся",
-   "ru": "Всё хорошо, не бойся!",
-   "it": "Va tutto bene, non aver paura!"
+   "id": "s_1864337",
+   "motivo": "droga/alcol",
+   "termine": "пьёшь",
+   "ru": "Ты пьёшь зелёный чай?",
+   "it": "Bevi del tè verde?"
   },
   {
-   "id": "s_1896927",
-   "motivo": "morte",
-   "termine": "умрёт",
-   "ru": "Помоги Тому! Иначе он умрёт.",
-   "it": "Aiuta Tom! Altrimenti morirà."
+   "id": "s_1889381",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том ушёл из ресторана.",
+   "it": ""
   },
   {
    "id": "s_1916824",
@@ -209,11 +239,18 @@
    "it": "Lui presta servizio militare."
   },
   {
-   "id": "s_2005101",
-   "motivo": "violenza/armi",
-   "termine": "combatte",
-   "ru": "Из ничего ничего не бывает.",
-   "it": "Chi non combatte non riporta vittoria."
+   "id": "s_1953146",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Получи жизнь!",
+   "it": ""
+  },
+  {
+   "id": "s_1959666",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том - золотой мальчик.",
+   "it": ""
   },
   {
    "id": "s_2026693",
@@ -251,11 +288,11 @@
    "it": "Ogni sonno è una breve morte."
   },
   {
-   "id": "s_2080232",
-   "motivo": "sesso",
-   "termine": "член",
-   "ru": "Ты член партии?",
-   "it": "Sei un membro del partito?"
+   "id": "s_2109697",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том ест.",
+   "it": ""
   },
   {
    "id": "s_2199600",
@@ -265,11 +302,18 @@
    "it": "Mio zio è morto un anno fa."
   },
   {
-   "id": "s_2249900",
-   "motivo": "religione",
-   "termine": "anima",
-   "ru": "Он молод душой.",
-   "it": "Lui è giovane nell'anima."
+   "id": "s_2236383",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том долго болел.",
+   "it": ""
+  },
+  {
+   "id": "s_2283540",
+   "motivo": "droga/alcol",
+   "termine": "пьёте",
+   "ru": "Что Вы пьёте?",
+   "it": "Che sta bevendo?"
   },
   {
    "id": "s_2333222",
@@ -277,6 +321,13 @@
    "termine": "смерти",
    "ru": "Ты боишься смерти?",
    "it": "Hai paura della morte?"
+  },
+  {
+   "id": "s_2415926",
+   "motivo": "droga/alcol",
+   "termine": "пил",
+   "ru": "Что ты пил?",
+   "it": "Tu cosa stavi bevendo?"
   },
   {
    "id": "s_2418712",
@@ -293,6 +344,27 @@
    "it": "Molti non sono in grado di comprendere le leggi."
   },
   {
+   "id": "s_2470759",
+   "motivo": "droga/alcol",
+   "termine": "пьёте",
+   "ru": "Вы пьёте кофе?",
+   "it": "Bevete caffè?"
+  },
+  {
+   "id": "s_2474721",
+   "motivo": "violenza/armi",
+   "termine": "кричать",
+   "ru": "Она начала кричать громким голосом.",
+   "it": "Cominciò a urlare a voce alta."
+  },
+  {
+   "id": "s_2479872",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Ты Том?",
+   "it": ""
+  },
+  {
    "id": "s_2484046",
    "motivo": "morte",
    "termine": "умереть",
@@ -300,11 +372,46 @@
    "it": "Non voglio morire qui."
   },
   {
-   "id": "s_2497175",
-   "motivo": "morte",
-   "termine": "умрёт",
-   "ru": "Том умрёт.",
-   "it": "Tom morirà."
+   "id": "s_2493863",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том ждёт.",
+   "it": ""
+  },
+  {
+   "id": "s_2497326",
+   "motivo": "droga/alcol",
+   "termine": "пью",
+   "ru": "Я не пью воду.",
+   "it": "Non bevo acqua."
+  },
+  {
+   "id": "s_2497338",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том снова один.",
+   "it": ""
+  },
+  {
+   "id": "s_2501605",
+   "motivo": "violenza/armi",
+   "termine": "кричать",
+   "ru": "Хватит кричать!",
+   "it": "Basta gridare!"
+  },
+  {
+   "id": "s_2509087",
+   "motivo": "violenza/armi",
+   "termine": "кричи",
+   "ru": "Не кричи так!",
+   "it": "Non urlare così tanto!"
+  },
+  {
+   "id": "s_2509116",
+   "motivo": "droga/alcol",
+   "termine": "пьют",
+   "ru": "Они никогда не пьют пива.",
+   "it": "Non bevono mai birra."
   },
   {
    "id": "s_2517951",
@@ -312,6 +419,76 @@
    "termine": "sangue",
    "ru": "Это всего лишь кровь.",
    "it": "Non è che sangue."
+  },
+  {
+   "id": "s_2518954",
+   "motivo": "violenza/armi",
+   "termine": "кричит",
+   "ru": "Он кричит только тогда, когда голоден.",
+   "it": "Lui grida soltanto quando ha fame."
+  },
+  {
+   "id": "s_2518956",
+   "motivo": "violenza/armi",
+   "termine": "кричит",
+   "ru": "Она кричит только тогда, когда голодна.",
+   "it": "Lei grida soltanto quando ha fame."
+  },
+  {
+   "id": "s_2521251",
+   "motivo": "droga/alcol",
+   "termine": "пьёт",
+   "ru": "Женщина пьёт воду.",
+   "it": "La donna beve l'acqua."
+  },
+  {
+   "id": "s_2525851",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том ваш начальник.",
+   "it": ""
+  },
+  {
+   "id": "s_2557763",
+   "motivo": "droga/alcol",
+   "termine": "пили",
+   "ru": "Вы пили, не так ли?",
+   "it": "Avete bevuto, non è vero?"
+  },
+  {
+   "id": "s_2557764",
+   "motivo": "droga/alcol",
+   "termine": "пил",
+   "ru": "Ты пил, не так ли?",
+   "it": "Hai bevuto, non è vero?"
+  },
+  {
+   "id": "s_2557765",
+   "motivo": "droga/alcol",
+   "termine": "пила",
+   "ru": "Ты пила, не так ли?",
+   "it": "Hai bevuto, non è vero?"
+  },
+  {
+   "id": "s_2563952",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том играл.",
+   "it": ""
+  },
+  {
+   "id": "s_2590163",
+   "motivo": "violenza/armi",
+   "termine": "кричал",
+   "ru": "Я не кричал.",
+   "it": "Non ho urlato."
+  },
+  {
+   "id": "s_2590164",
+   "motivo": "violenza/armi",
+   "termine": "кричала",
+   "ru": "Я не кричала.",
+   "it": "Non ho urlato."
   },
   {
    "id": "s_2597154",
@@ -328,11 +505,46 @@
    "it": "Non sono uno dei tuoi soldati."
   },
   {
-   "id": "s_2618792",
-   "motivo": "morte",
-   "termine": "умереть",
-   "ru": "Том хочет умереть.",
-   "it": "Tom vuole morire."
+   "id": "s_2606438",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том знал?",
+   "it": ""
+  },
+  {
+   "id": "s_2606846",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Я получу некоторое.",
+   "it": ""
+  },
+  {
+   "id": "s_2606848",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Я получу некоторые.",
+   "it": ""
+  },
+  {
+   "id": "s_2606849",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Я получу некоторых.",
+   "it": ""
+  },
+  {
+   "id": "s_2609133",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том симпатичный.",
+   "it": ""
+  },
+  {
+   "id": "s_2618823",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том был силён.",
+   "it": ""
   },
   {
    "id": "s_2622234",
@@ -342,11 +554,46 @@
    "it": "Ho sentito che lui è morto."
   },
   {
+   "id": "s_2623286",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том стал тихим.",
+   "it": ""
+  },
+  {
+   "id": "s_2668113",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Быть по сему!",
+   "it": ""
+  },
+  {
+   "id": "s_2681515",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том что-то взял.",
+   "it": ""
+  },
+  {
+   "id": "s_2704973",
+   "motivo": "droga/alcol",
+   "termine": "пил",
+   "ru": "Я пил воду.",
+   "it": "Ho bevuto acqua."
+  },
+  {
    "id": "s_2717535",
    "motivo": "morte",
    "termine": "moriremo",
    "ru": "Мы все умрём.",
    "it": "Moriremo tutti."
+  },
+  {
+   "id": "s_2720407",
+   "motivo": "droga/alcol",
+   "termine": "пью",
+   "ru": "Когда я работаю, я пью много кофе.",
+   "it": "Quando lavoro, bevo molto caffè."
   },
   {
    "id": "s_2724211",
@@ -377,6 +624,13 @@
    "it": "Altrimenti Voi morirete."
   },
   {
+   "id": "s_2734182",
+   "motivo": "droga/alcol",
+   "termine": "пьёте",
+   "ru": "Вы пьёте вино?",
+   "it": "Bevete del vino?"
+  },
+  {
    "id": "s_2751325",
    "motivo": "morte",
    "termine": "смерти",
@@ -405,11 +659,39 @@
    "it": "Io sono grasso?"
   },
   {
+   "id": "s_2779634",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "У меня было такое чувство, что я умер.",
+   "it": "Avevo la sensazione di essere morto."
+  },
+  {
+   "id": "s_2799354",
+   "motivo": "droga/alcol",
+   "termine": "пьёт",
+   "ru": "Она не пьёт кофе.",
+   "it": "Lei non beve caffè."
+  },
+  {
    "id": "s_2815420",
    "motivo": "religione",
    "termine": "богом",
    "ru": "Я стану богом нового мира.",
    "it": "Diventerò il dio del nuovo mondo."
+  },
+  {
+   "id": "s_2818982",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том всегда спит.",
+   "it": ""
+  },
+  {
+   "id": "s_2887883",
+   "motivo": "violenza/armi",
+   "termine": "убить",
+   "ru": "Они хотят меня убить.",
+   "it": "Loro vogliono uccidermi."
   },
   {
    "id": "s_2898008",
@@ -419,6 +701,13 @@
    "it": "È morta qualche anno fa."
   },
   {
+   "id": "s_2926545",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том поможет.",
+   "it": ""
+  },
+  {
    "id": "s_2927583",
    "motivo": "morte",
    "termine": "умереть",
@@ -426,11 +715,32 @@
    "it": "Ho paura di morire."
   },
   {
-   "id": "s_2993871",
-   "motivo": "insulti/razzismo",
-   "termine": "толстая",
-   "ru": "Том сказал, что я толстая.",
-   "it": "Tom ha detto che sono grassa."
+   "id": "s_2965454",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том готов?",
+   "it": ""
+  },
+  {
+   "id": "s_2998568",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том далеко.",
+   "it": ""
+  },
+  {
+   "id": "s_3013677",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том высокий и худой.",
+   "it": ""
+  },
+  {
+   "id": "s_3015136",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том в состоянии вести машину.",
+   "it": ""
   },
   {
    "id": "s_3027449",
@@ -447,6 +757,55 @@
    "it": "Se non ci fosse il sole moriremmo tutti."
   },
   {
+   "id": "s_3043020",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Мы скоро.",
+   "it": ""
+  },
+  {
+   "id": "s_3043221",
+   "motivo": "violenza/armi",
+   "termine": "кричал",
+   "ru": "Я кричал.",
+   "it": "Stavo gridando."
+  },
+  {
+   "id": "s_3043229",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том идёт.",
+   "it": ""
+  },
+  {
+   "id": "s_3052025",
+   "motivo": "droga/alcol",
+   "termine": "пьёшь",
+   "ru": "Ты пьёшь пиво?",
+   "it": "Bevi birra?"
+  },
+  {
+   "id": "s_3053916",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Что, если Том узнает?",
+   "it": ""
+  },
+  {
+   "id": "s_3056476",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том с трудом нашёл такси.",
+   "it": ""
+  },
+  {
+   "id": "s_3056783",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том здесь?",
+   "it": ""
+  },
+  {
    "id": "s_3090757",
    "motivo": "politica",
    "termine": "законом",
@@ -461,6 +820,20 @@
    "it": "Io non ho mai avuto problemi con la legge."
   },
   {
+   "id": "s_3092821",
+   "motivo": "morte",
+   "termine": "умерли",
+   "ru": "Мои родители умерли, когда мне было пять лет.",
+   "it": "Entrambi i miei genitori sono morti quando avevo cinque anni."
+  },
+  {
+   "id": "s_3116696",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том, наверное, ушёл.",
+   "it": ""
+  },
+  {
    "id": "s_3117439",
    "motivo": "morte",
    "termine": "смерти",
@@ -468,11 +841,11 @@
    "it": "Ha paura della morte?"
   },
   {
-   "id": "s_3141337",
-   "motivo": "morte",
-   "termine": "смерти",
-   "ru": "Том купил этот дом после смерти своего отца.",
-   "it": "Tom ha comprato questa casa dopo la morte di suo padre."
+   "id": "s_3142118",
+   "motivo": "violenza/armi",
+   "termine": "убить",
+   "ru": "Они хотят убить меня.",
+   "it": "Vogliono uccidermi."
   },
   {
    "id": "s_3145380",
@@ -487,6 +860,13 @@
    "termine": "sangue",
    "ru": "Ты боишься крови?",
    "it": "Hai paura del sangue?"
+  },
+  {
+   "id": "s_3174849",
+   "motivo": "droga/alcol",
+   "termine": "пьёшь",
+   "ru": "Ты пьёшь?",
+   "it": "Bevi?"
   },
   {
    "id": "s_3198376",
@@ -510,32 +890,32 @@
    "it": "Sono troppo grassi."
   },
   {
-   "id": "s_3218526",
+   "id": "s_3230077",
    "motivo": "insulti/razzismo",
-   "termine": "brutta",
-   "ru": "Ты действительно плохой человек.",
-   "it": "Sei veramente una brutta persona."
+   "termine": "толстый",
+   "ru": "Моя мама сказала мне, что я толстый.",
+   "it": "Mia mamma mi ha detto che ero grasso."
   },
   {
-   "id": "s_3218558",
-   "motivo": "morte",
-   "termine": "умрёт",
-   "ru": "Том умрёт?",
-   "it": "Tom morirà?"
-  },
-  {
-   "id": "s_3218563",
-   "motivo": "morte",
-   "termine": "умрёт",
-   "ru": "Том скоро умрёт.",
-   "it": "Tom morirà presto."
-  },
-  {
-   "id": "s_3242062",
+   "id": "s_3230078",
    "motivo": "insulti/razzismo",
-   "termine": "brutta",
-   "ru": "Я плохой человек.",
-   "it": "Io sono una brutta persona."
+   "termine": "толстая",
+   "ru": "Моя мама сказала мне, что я толстая.",
+   "it": "Mia mamma mi ha detto che ero grassa."
+  },
+  {
+   "id": "s_3232711",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том смотрит.",
+   "it": ""
+  },
+  {
+   "id": "s_3239528",
+   "motivo": "violenza/armi",
+   "termine": "кричала",
+   "ru": "Она кричала, но никто её не слышал.",
+   "it": "Gridava ma nessuno la sentiva."
   },
   {
    "id": "s_3252613",
@@ -543,6 +923,20 @@
    "termine": "смерти",
    "ru": "Я не боюсь смерти.",
    "it": "Non ho paura della morte."
+  },
+  {
+   "id": "s_3257772",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Ты собака.",
+   "it": ""
+  },
+  {
+   "id": "s_3274751",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Пусть Том уходит.",
+   "it": ""
   },
   {
    "id": "s_3290359",
@@ -566,11 +960,32 @@
    "it": "Sono nelle mani degli dei."
   },
   {
-   "id": "s_3347334",
-   "motivo": "insulti/razzismo",
-   "termine": "толстый",
-   "ru": "Том сказал, что я толстый.",
-   "it": "Tom ha detto che sono grasso."
+   "id": "s_3300363",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Я Том.",
+   "it": ""
+  },
+  {
+   "id": "s_3305184",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том — герой.",
+   "it": ""
+  },
+  {
+   "id": "s_3311650",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Её отец умер на прошлой неделе.",
+   "it": "Suo padre è morto la settimana scorsa."
+  },
+  {
+   "id": "s_3311651",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Его отец умер на прошлой неделе.",
+   "it": "Suo padre è morto la settimana scorsa."
   },
   {
    "id": "s_3351247",
@@ -580,11 +995,25 @@
    "it": "\"Quand'è morto?\" \"Non molto tempo fa.\""
   },
   {
-   "id": "s_3434996",
-   "motivo": "politica",
-   "termine": "полиция",
-   "ru": "Полиция здесь.",
-   "it": "La polizia è qui."
+   "id": "s_3355384",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Её отец умер, когда ей было три года.",
+   "it": "Suo padre è morto quando lei aveva tre anni."
+  },
+  {
+   "id": "s_3406427",
+   "motivo": "religione",
+   "termine": "боги",
+   "ru": "Да помогут нам боги.",
+   "it": "Possano gli Dei aiutarci."
+  },
+  {
+   "id": "s_3430195",
+   "motivo": "morte",
+   "termine": "sangue",
+   "ru": "У меня полный рот крови.",
+   "it": "Ho la bocca piena di sangue."
   },
   {
    "id": "s_3443155",
@@ -594,6 +1023,13 @@
    "it": "Hai paura della morte."
   },
   {
+   "id": "s_3478891",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Сколько Тому лет?",
+   "it": ""
+  },
+  {
    "id": "s_3517112",
    "motivo": "morte",
    "termine": "смерти",
@@ -601,18 +1037,39 @@
    "it": "Lei ha paura della morte?"
   },
   {
-   "id": "s_3532807",
-   "motivo": "politica",
-   "termine": "полицию",
-   "ru": "Я должен вызвать полицию.",
-   "it": "Devo chiamare la polizia."
+   "id": "s_3588594",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Где Пол?",
+   "it": ""
   },
   {
-   "id": "s_3532808",
-   "motivo": "politica",
-   "termine": "полицию",
-   "ru": "Я должна вызвать полицию.",
-   "it": "Devo chiamare la polizia."
+   "id": "s_3589338",
+   "motivo": "droga/alcol",
+   "termine": "пьёт",
+   "ru": "Он много пьёт.",
+   "it": "Beve molto."
+  },
+  {
+   "id": "s_3589341",
+   "motivo": "droga/alcol",
+   "termine": "пьёт",
+   "ru": "Она много пьёт.",
+   "it": "Beve molto."
+  },
+  {
+   "id": "s_3592123",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Дай мне умереть.",
+   "it": "Lasciami morire."
+  },
+  {
+   "id": "s_3621205",
+   "motivo": "religione",
+   "termine": "небеса",
+   "ru": "Как мне попасть на небеса?",
+   "it": "Come si può andare in paradiso?"
   },
   {
    "id": "s_3622230",
@@ -622,18 +1079,46 @@
    "it": "Qual è il problema, signore?"
   },
   {
-   "id": "s_3652950",
-   "motivo": "politica",
-   "termine": "полицию",
-   "ru": "Ты вызвал полицию?",
-   "it": "Hai chiamato la polizia."
+   "id": "s_3668039",
+   "motivo": "droga/alcol",
+   "termine": "пьёте",
+   "ru": "Вы пьёте пиво?",
+   "it": "Bevete birra?"
   },
   {
-   "id": "s_3652951",
-   "motivo": "politica",
-   "termine": "полицию",
-   "ru": "Ты вызвала полицию?",
-   "it": "Hai chiamato la polizia?"
+   "id": "s_3669919",
+   "motivo": "droga/alcol",
+   "termine": "пью",
+   "ru": "Я вообще не пью.",
+   "it": "Non bevo affatto."
+  },
+  {
+   "id": "s_3679791",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том умеет готовить.",
+   "it": ""
+  },
+  {
+   "id": "s_3719760",
+   "motivo": "violenza/armi",
+   "termine": "убить",
+   "ru": "Почему ты хочешь нас убить?",
+   "it": "Perché ci vuoi uccidere?"
+  },
+  {
+   "id": "s_3764582",
+   "motivo": "violenza/armi",
+   "termine": "убить",
+   "ru": "Ты хочешь убить меня?",
+   "it": "Vuoi uccidermi?"
+  },
+  {
+   "id": "s_3782556",
+   "motivo": "morte",
+   "termine": "morto",
+   "ru": "Его не стало.",
+   "it": "È morto."
   },
   {
    "id": "s_3789310",
@@ -643,6 +1128,13 @@
    "it": "Dov'è il sangue?"
   },
   {
+   "id": "s_3803898",
+   "motivo": "droga/alcol",
+   "termine": "пьёт",
+   "ru": "Человек пьёт воду.",
+   "it": "L'uomo beve dell'acqua."
+  },
+  {
    "id": "s_3851738",
    "motivo": "politica",
    "termine": "президент",
@@ -650,11 +1142,25 @@
    "it": "Il presidente sembrava forte."
   },
   {
-   "id": "s_3892682",
-   "motivo": "politica",
-   "termine": "солдатом",
-   "ru": "Том стал солдатом.",
-   "it": "Tom si è arruolato."
+   "id": "s_3853268",
+   "motivo": "droga/alcol",
+   "termine": "пьёшь",
+   "ru": "Я забыл, пьёшь ты вино или нет.",
+   "it": "Ho dimenticato se bevi vino o no."
+  },
+  {
+   "id": "s_3853269",
+   "motivo": "droga/alcol",
+   "termine": "пьёшь",
+   "ru": "Я забыла, пьёшь ты вино или нет.",
+   "it": "Ho dimenticato se bevi vino o no."
+  },
+  {
+   "id": "s_3898579",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Я знаю счёт.",
+   "it": ""
   },
   {
    "id": "s_3943907",
@@ -664,11 +1170,46 @@
    "it": "Metti giù l’arma."
   },
   {
+   "id": "s_3971208",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том долгое время болел.",
+   "it": ""
+  },
+  {
+   "id": "s_3977211",
+   "motivo": "violenza/armi",
+   "termine": "убили",
+   "ru": "Меня чуть не убили.",
+   "it": "Mi hanno quasi ucciso."
+  },
+  {
    "id": "s_3999355",
    "motivo": "violenza/armi",
    "termine": "убить",
    "ru": "Я бы не смог их убить.",
    "it": "Non avrei potuto ucciderli."
+  },
+  {
+   "id": "s_3999358",
+   "motivo": "violenza/armi",
+   "termine": "убить",
+   "ru": "Я бы не смог его убить.",
+   "it": "Non avrei potuto ucciderlo."
+  },
+  {
+   "id": "s_3999361",
+   "motivo": "violenza/armi",
+   "termine": "убить",
+   "ru": "Я бы не смог её убить.",
+   "it": "Non avrei potuto ucciderla."
+  },
+  {
+   "id": "s_4000041",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Том пьёт.",
+   "it": ""
   },
   {
    "id": "s_4004047",
@@ -692,18 +1233,18 @@
    "it": "L'uomo magro ha ucciso l'uomo grasso."
   },
   {
+   "id": "s_4210107",
+   "motivo": "violenza/armi",
+   "termine": "кричал",
+   "ru": "Кто кричал?",
+   "it": "Chi stava gridando?"
+  },
+  {
    "id": "s_4269167",
    "motivo": "morte",
    "termine": "смерти",
    "ru": "Ты не боишься смерти?",
    "it": "Non hai paura della morte?"
-  },
-  {
-   "id": "s_4304609",
-   "motivo": "politica",
-   "termine": "полиция",
-   "ru": "Что хотела полиция?",
-   "it": "Cosa voleva la polizia?"
   },
   {
    "id": "s_4406898",
@@ -727,11 +1268,11 @@
    "it": "È la guerra!"
   },
   {
-   "id": "s_4440956",
-   "motivo": "religione",
-   "termine": "anima",
-   "ru": "Том молод сердцем.",
-   "it": "Tom è giovane nell'anima."
+   "id": "s_4439272",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том попросил денег.",
+   "it": ""
   },
   {
    "id": "s_4449057",
@@ -741,6 +1282,27 @@
    "it": "Lui è diventato capitano."
   },
   {
+   "id": "s_4472932",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том бежал.",
+   "it": ""
+  },
+  {
+   "id": "s_4476255",
+   "motivo": "droga/alcol",
+   "termine": "пила",
+   "ru": "Что она пила?",
+   "it": "Lei cosa stava bevendo?"
+  },
+  {
+   "id": "s_4505539",
+   "motivo": "violenza/armi",
+   "termine": "врагов",
+   "ru": "У неё нет врагов.",
+   "it": "Lei non ha nemici."
+  },
+  {
    "id": "s_4509857",
    "motivo": "violenza/armi",
    "termine": "оружие",
@@ -748,11 +1310,39 @@
    "it": "Hai portato un'arma?"
   },
   {
-   "id": "s_4571380",
-   "motivo": "politica",
-   "termine": "полиция",
-   "ru": "Везде полиция.",
-   "it": "La polizia è dappertutto."
+   "id": "s_4528679",
+   "motivo": "droga/alcol",
+   "termine": "пила",
+   "ru": "Что ты пила?",
+   "it": "Tu cosa stavi bevendo?"
+  },
+  {
+   "id": "s_4530633",
+   "motivo": "droga/alcol",
+   "termine": "пили",
+   "ru": "Что они пили?",
+   "it": "Cosa stavano bevendo?"
+  },
+  {
+   "id": "s_4534478",
+   "motivo": "violenza/armi",
+   "termine": "кричали",
+   "ru": "Все кричали.",
+   "it": "Stavano tutti gridando."
+  },
+  {
+   "id": "s_4585637",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том услышал за спиной голос.",
+   "it": ""
+  },
+  {
+   "id": "s_4589720",
+   "motivo": "droga/alcol",
+   "termine": "пьёте",
+   "ru": "Вы пьёте зелёный чай?",
+   "it": "Bevete tè verde?"
   },
   {
    "id": "s_4600404",
@@ -762,11 +1352,53 @@
    "it": "Morirà."
   },
   {
+   "id": "s_4640390",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том встал.",
+   "it": ""
+  },
+  {
+   "id": "s_4662522",
+   "motivo": "violenza/armi",
+   "termine": "кричать",
+   "ru": "Хватит кричать.",
+   "it": "Basta gridare."
+  },
+  {
+   "id": "s_4673175",
+   "motivo": "violenza/armi",
+   "termine": "кричит",
+   "ru": "Она кричит, потому что боится.",
+   "it": "Lei urla perché ha paura."
+  },
+  {
+   "id": "s_4674084",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Я иногда пишу Тому.",
+   "it": ""
+  },
+  {
+   "id": "s_4691358",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том до сих пор болеет?",
+   "it": ""
+  },
+  {
    "id": "s_4712474",
    "motivo": "morte",
    "termine": "умер",
    "ru": "Автор этой книги умер.",
    "it": "L'autore di questo libro è morto."
+  },
+  {
+   "id": "s_4785579",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Везде кровь.",
+   "it": ""
   },
   {
    "id": "s_4803840",
@@ -804,18 +1436,25 @@
    "it": "Devono morire."
   },
   {
-   "id": "s_5018525",
-   "motivo": "politica",
-   "termine": "полиция",
-   "ru": "Откройте! Полиция!",
-   "it": "Aprite! Polizia!"
+   "id": "s_4920997",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Что написал Том?",
+   "it": ""
   },
   {
-   "id": "s_5049802",
-   "motivo": "religione",
-   "termine": "бога",
-   "ru": "Том верит в Бога?",
-   "it": "Tom crede in Dio?"
+   "id": "s_4954356",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Дайте мне умереть.",
+   "it": "Mi lasci morire."
+  },
+  {
+   "id": "s_5037138",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Тому надо вернуться.",
+   "it": ""
   },
   {
    "id": "s_5051394",
@@ -823,6 +1462,13 @@
    "termine": "morirai",
    "ru": "В конце жизни ты умрёшь.",
    "it": "Alla fine della vita morirai."
+  },
+  {
+   "id": "s_5110039",
+   "motivo": "violenza/armi",
+   "termine": "кричишь",
+   "ru": "Почему ты всегда кричишь?",
+   "it": "Perché urli sempre?"
   },
   {
    "id": "s_5178277",
@@ -846,11 +1492,25 @@
    "it": "Ho paura io della morte?"
   },
   {
+   "id": "s_5298244",
+   "motivo": "droga/alcol",
+   "termine": "пью",
+   "ru": "Я пью чёрный кофе.",
+   "it": "Bevo il caffè nero."
+  },
+  {
    "id": "s_5328942",
    "motivo": "morte",
    "termine": "sangue",
    "ru": "Кровь красная.",
    "it": "Il sangue è rosso."
+  },
+  {
+   "id": "s_5351028",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том у телефона.",
+   "it": ""
   },
   {
    "id": "s_5363241",
@@ -860,11 +1520,25 @@
    "it": "Bisogna conoscere il proprio nemico."
   },
   {
+   "id": "s_5384716",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Он пошёл в гору.",
+   "it": ""
+  },
+  {
    "id": "s_5387023",
    "motivo": "politica",
    "termine": "солдатами",
    "ru": "Мы были солдатами.",
    "it": "Facevamo i soldati."
+  },
+  {
+   "id": "s_5389466",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Тому всего три года.",
+   "it": ""
   },
   {
    "id": "s_5390956",
@@ -874,6 +1548,13 @@
    "it": "Li hanno ammazzati."
   },
   {
+   "id": "s_5396877",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том тогда не был моим мужем.",
+   "it": ""
+  },
+  {
    "id": "s_5397008",
    "motivo": "insulti/razzismo",
    "termine": "толстый",
@@ -881,32 +1562,32 @@
    "it": "Sei troppo grasso."
   },
   {
-   "id": "s_5418258",
-   "motivo": "insulti/razzismo",
-   "termine": "толстый",
-   "ru": "Том толстый?",
-   "it": "Tom è grasso?"
+   "id": "s_5422784",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Тому нравится чай?",
+   "it": ""
   },
   {
-   "id": "s_5455004",
-   "motivo": "morte",
-   "termine": "умереть",
-   "ru": "Том мог в ту ночь умереть.",
-   "it": "Quella notte Tom avrebbe potuto morire."
+   "id": "s_5422803",
+   "motivo": "violenza/armi",
+   "termine": "убить",
+   "ru": "Они не могут нас убить.",
+   "it": "Non possono ucciderci."
   },
   {
-   "id": "s_5456554",
-   "motivo": "politica",
-   "termine": "полиция",
-   "ru": "Полиция считает, что Том убил своих родителей.",
-   "it": "La polizia crede che Tom abbia ucciso i suoi genitori."
+   "id": "s_5425670",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "С Новым годом, Том.",
+   "it": ""
   },
   {
-   "id": "s_5456555",
-   "motivo": "politica",
-   "termine": "полиции",
-   "ru": "В полиции считают, что Том убил своих родителей.",
-   "it": "Alla polizia credono che Tom abbia ucciso i suoi genitori."
+   "id": "s_5453908",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том сразу ушёл.",
+   "it": ""
   },
   {
    "id": "s_5465825",
@@ -916,18 +1597,81 @@
    "it": "Mio figlio poteva morire!"
   },
   {
-   "id": "s_5479855",
-   "motivo": "morte",
-   "termine": "умер",
-   "ru": "Как именно умер Том?",
-   "it": "Tom quando è morto precisamente?"
+   "id": "s_5465886",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Будущее на небесах.",
+   "it": ""
   },
   {
-   "id": "s_5482758",
-   "motivo": "morte",
-   "termine": "умер",
-   "ru": "Я не знал, что Том умер.",
-   "it": "Non sapevo che Tom fosse morto."
+   "id": "s_5466073",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том ведь сильный?",
+   "it": ""
+  },
+  {
+   "id": "s_5470330",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том сел на кровать.",
+   "it": ""
+  },
+  {
+   "id": "s_5473299",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Пойдём к Тому.",
+   "it": ""
+  },
+  {
+   "id": "s_5474598",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Их сына зовут Том.",
+   "it": ""
+  },
+  {
+   "id": "s_5476053",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том хотел собственную комнату.",
+   "it": ""
+  },
+  {
+   "id": "s_5476054",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том хотел иметь собственную комнату.",
+   "it": ""
+  },
+  {
+   "id": "s_5476129",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Я предложил это Тому.",
+   "it": ""
+  },
+  {
+   "id": "s_5478280",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том — твоё настоящее имя?",
+   "it": ""
+  },
+  {
+   "id": "s_5478724",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том совершенно один.",
+   "it": ""
+  },
+  {
+   "id": "s_5482857",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Тому пришлось взять такси.",
+   "it": ""
   },
   {
    "id": "s_5482946",
@@ -944,32 +1688,39 @@
    "it": "Voglio arruolarmi nell'esercito."
   },
   {
-   "id": "s_5482952",
-   "motivo": "politica",
-   "termine": "армию",
-   "ru": "Том решил пойти в армию.",
-   "it": "Tom ha deciso di andare sotto le armi."
+   "id": "s_5485190",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том — человек широких взглядов.",
+   "it": ""
   },
   {
-   "id": "s_5482958",
-   "motivo": "politica",
-   "termine": "армию",
-   "ru": "Том ещё слишком молод, чтобы идти в армию.",
-   "it": "Tom è ancora troppo giovane per partire militare."
-  },
-  {
-   "id": "s_5484599",
+   "id": "s_5488926",
    "motivo": "morte",
    "termine": "умер",
-   "ru": "Том не так давно умер.",
-   "it": "Tom è morto recentemente."
+   "ru": "Её отец умер, когда она ещё была молодой.",
+   "it": "Suo padre è morto quando lei era ancora giovane."
   },
   {
-   "id": "s_5496718",
+   "id": "s_5491042",
+   "motivo": "violenza/armi",
+   "termine": "кричали",
+   "ru": "Все женщины кричали.",
+   "it": "Tutte le donne urlavano."
+  },
+  {
+   "id": "s_5491071",
    "motivo": "violenza/armi",
    "termine": "убить",
-   "ru": "Я не могу просто дать Тому себя убить.",
-   "it": "Non posso semplicemente lasciare che Tom mi uccida."
+   "ru": "Как нам убить время?",
+   "it": "Come possiamo passare il tempo?"
+  },
+  {
+   "id": "s_5495544",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том говорил очень спокойно.",
+   "it": ""
   },
   {
    "id": "s_5499992",
@@ -979,25 +1730,144 @@
    "it": "I miei genitori sono morti."
   },
   {
-   "id": "s_5501849",
-   "motivo": "politica",
-   "termine": "полиция",
-   "ru": "Мы не полиция.",
-   "it": "Non siamo la polizia."
+   "id": "s_5501160",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Том — бывший моей бывшей.",
+   "it": ""
   },
   {
-   "id": "s_5516212",
-   "motivo": "violenza/armi",
-   "termine": "бойся",
-   "ru": "Не бойся, я здесь.",
-   "it": "Non aver paura, sono qui."
+   "id": "s_5501926",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том всем рассказал.",
+   "it": ""
   },
   {
-   "id": "s_5516213",
+   "id": "s_5501946",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Они все говорят о его смерти.",
+   "it": "Tutti loro parlano della sua morte."
+  },
+  {
+   "id": "s_5501947",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Они все говорят о её смерти.",
+   "it": "Tutti loro parlano della sua morte."
+  },
+  {
+   "id": "s_5510287",
    "motivo": "violenza/armi",
-   "termine": "бойтесь",
-   "ru": "Не бойтесь, я здесь.",
-   "it": "Non abbiate paura, sono qui."
+   "termine": "кричал",
+   "ru": "Никто не кричал.",
+   "it": "Nessuno ha gridato."
+  },
+  {
+   "id": "s_5510632",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том с мамой.",
+   "it": ""
+  },
+  {
+   "id": "s_5511515",
+   "motivo": "violenza/armi",
+   "termine": "убить",
+   "ru": "Я не смог бы тебя убить.",
+   "it": "Non avrei potuto ucciderti."
+  },
+  {
+   "id": "s_5511516",
+   "motivo": "violenza/armi",
+   "termine": "убить",
+   "ru": "Я не смог бы вас убить.",
+   "it": "Non avrei potuto uccidervi."
+  },
+  {
+   "id": "s_5513583",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Какими судьбами Вы здесь?",
+   "it": ""
+  },
+  {
+   "id": "s_5513892",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том очень похож на своего старшего брата.",
+   "it": ""
+  },
+  {
+   "id": "s_5516195",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том хотел быть лучшим мужем.",
+   "it": ""
+  },
+  {
+   "id": "s_5520233",
+   "motivo": "droga/alcol",
+   "termine": "пьёт",
+   "ru": "Она пьёт только воду.",
+   "it": "Lei beve solo acqua."
+  },
+  {
+   "id": "s_5520668",
+   "motivo": "violenza/armi",
+   "termine": "кричит",
+   "ru": "Я слышу, как он кричит.",
+   "it": "Lo sento gridare."
+  },
+  {
+   "id": "s_5520669",
+   "motivo": "violenza/armi",
+   "termine": "кричит",
+   "ru": "Я слышу, как она кричит.",
+   "it": "La sento gridare."
+  },
+  {
+   "id": "s_5520946",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Тому немного помогли.",
+   "it": ""
+  },
+  {
+   "id": "s_5523518",
+   "motivo": "violenza/armi",
+   "termine": "кричи",
+   "ru": "Не кричи мне в ухо.",
+   "it": "Non urlarmi nell'orecchio."
+  },
+  {
+   "id": "s_5523849",
+   "motivo": "droga/alcol",
+   "termine": "пьёшь",
+   "ru": "Ты кофе пьёшь?",
+   "it": "Bevi il caffè?"
+  },
+  {
+   "id": "s_5523851",
+   "motivo": "droga/alcol",
+   "termine": "пьёте",
+   "ru": "Вы кофе пьёте?",
+   "it": "Bevete il caffè?"
+  },
+  {
+   "id": "s_5524515",
+   "motivo": "droga/alcol",
+   "termine": "пьёт",
+   "ru": "Сейчас женщина пьёт воду.",
+   "it": "Adesso la ragazza beve acqua."
+  },
+  {
+   "id": "s_5527455",
+   "motivo": "violenza/armi",
+   "termine": "кричал",
+   "ru": "Он кричал от боли.",
+   "it": "Lui urlò dal dolore."
   },
   {
    "id": "s_5528319",
@@ -1007,11 +1877,102 @@
    "it": "È il motivo per cui sono morti?"
   },
   {
+   "id": "s_5528401",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Конечно, Том пойдёт.",
+   "it": ""
+  },
+  {
+   "id": "s_5528402",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Конечно, Том поедет.",
+   "it": ""
+  },
+  {
+   "id": "s_5531113",
+   "motivo": "droga/alcol",
+   "termine": "пьёт",
+   "ru": "Он пьёт слишком много кофе.",
+   "it": "Lui beve troppo caffè."
+  },
+  {
    "id": "s_5533679",
    "motivo": "violenza/armi",
    "termine": "оружие",
    "ru": "Держи оружие под рукой.",
    "it": "Reggi l'arma in mano."
+  },
+  {
+   "id": "s_5535536",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Когда Том узнал?",
+   "it": ""
+  },
+  {
+   "id": "s_5537733",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том всегда один.",
+   "it": ""
+  },
+  {
+   "id": "s_5538847",
+   "motivo": "droga/alcol",
+   "termine": "пьёт",
+   "ru": "Мой начальник пьёт очень много кофе.",
+   "it": "Il mio capo beve parecchi caffè."
+  },
+  {
+   "id": "s_5540133",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Зачем что-то рассказывать Тому?",
+   "it": ""
+  },
+  {
+   "id": "s_5540409",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "А если Том узнает?",
+   "it": ""
+  },
+  {
+   "id": "s_5541064",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Как Том туда попал?",
+   "it": ""
+  },
+  {
+   "id": "s_5542544",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Том пил?",
+   "it": ""
+  },
+  {
+   "id": "s_5545952",
+   "motivo": "violenza/armi",
+   "termine": "убили",
+   "ru": "Его что, убили?",
+   "it": "E lui, l'hanno ucciso?"
+  },
+  {
+   "id": "s_5548111",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том купит эту картину.",
+   "it": ""
+  },
+  {
+   "id": "s_5549380",
+   "motivo": "droga/alcol",
+   "termine": "пил",
+   "ru": "Я раньше пил пиво.",
+   "it": "Una volta bevevo birra."
   },
   {
    "id": "s_5551982",
@@ -1021,11 +1982,53 @@
    "it": "Vorresti sapere come morirai?"
   },
   {
-   "id": "s_5556348",
-   "motivo": "religione",
-   "termine": "prete",
-   "ru": "Я требую правды.",
-   "it": "Pretendo la verità."
+   "id": "s_5552463",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том не смог это сделать.",
+   "it": ""
+  },
+  {
+   "id": "s_5552973",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том остался стоять.",
+   "it": ""
+  },
+  {
+   "id": "s_5553483",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том через час уйдёт.",
+   "it": ""
+  },
+  {
+   "id": "s_5555063",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том вдруг встал.",
+   "it": ""
+  },
+  {
+   "id": "s_5558524",
+   "motivo": "droga/alcol",
+   "termine": "пил",
+   "ru": "Из какой чашки ты пил?",
+   "it": "Da quale tazza hai bevuto?"
+  },
+  {
+   "id": "s_5558528",
+   "motivo": "droga/alcol",
+   "termine": "пьёшь",
+   "ru": "Ты пьёшь чай из красной чашки?",
+   "it": "Bevi il tè dalla tazza rossa?"
+  },
+  {
+   "id": "s_5560562",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том был без носков.",
+   "it": ""
   },
   {
    "id": "s_5560659",
@@ -1035,11 +2038,39 @@
    "it": "Siete il capitano."
   },
   {
+   "id": "s_5566950",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том поэтому ушёл?",
+   "it": ""
+  },
+  {
+   "id": "s_5578100",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Привет, я Том.",
+   "it": ""
+  },
+  {
+   "id": "s_5579531",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том очень медленный.",
+   "it": ""
+  },
+  {
    "id": "s_5579539",
    "motivo": "religione",
    "termine": "бог",
    "ru": "Бог мой! Что это?",
    "it": "Mio Dio! Questo cos'è?"
+  },
+  {
+   "id": "s_5582389",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том ушёл из компании.",
+   "it": ""
   },
   {
    "id": "s_5584982",
@@ -1056,11 +2087,46 @@
    "it": "Dio mi guardi dal finire nelle mani di un medico così!"
   },
   {
-   "id": "s_5586840",
-   "motivo": "religione",
-   "termine": "paradiso",
-   "ru": "Том сейчас на небесах.",
-   "it": "Tom è in paradiso adesso."
+   "id": "s_5585006",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Сегодня Том встал чуть свет.",
+   "it": ""
+  },
+  {
+   "id": "s_5586140",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том, ты остаёшься?",
+   "it": ""
+  },
+  {
+   "id": "s_5586997",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том положил ногу на ногу.",
+   "it": ""
+  },
+  {
+   "id": "s_5590183",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Я пойду Тому сообщу.",
+   "it": ""
+  },
+  {
+   "id": "s_5590519",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том не старик.",
+   "it": ""
+  },
+  {
+   "id": "s_5599422",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Сон в руку.",
+   "it": ""
   },
   {
    "id": "s_5601806",
@@ -1070,6 +2136,34 @@
    "it": "Dio è ovunque."
   },
   {
+   "id": "s_5615609",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том знал причину.",
+   "it": ""
+  },
+  {
+   "id": "s_5623772",
+   "motivo": "violenza/armi",
+   "termine": "оружие",
+   "ru": "Оружие женщины — её язык.",
+   "it": "L'arma della donna è la sua lingua."
+  },
+  {
+   "id": "s_5623789",
+   "motivo": "religione",
+   "termine": "бог",
+   "ru": "Чего хочет женщина, того хочет Бог!",
+   "it": "Quello che vuole una donna, lo vuole Dio!"
+  },
+  {
+   "id": "s_5625353",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том часто болеет.",
+   "it": ""
+  },
+  {
    "id": "s_5627840",
    "motivo": "morte",
    "termine": "умереть",
@@ -1077,11 +2171,46 @@
    "it": "Vorrei morire!"
   },
   {
+   "id": "s_5629864",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Я хочу услышать, как ты кричишь.",
+   "it": ""
+  },
+  {
+   "id": "s_5631023",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Вошёл Том.",
+   "it": ""
+  },
+  {
+   "id": "s_5633235",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том просил денег.",
+   "it": ""
+  },
+  {
+   "id": "s_5634986",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Быстро, Том!",
+   "it": ""
+  },
+  {
    "id": "s_5635056",
    "motivo": "morte",
    "termine": "умерли",
    "ru": "Они, наверное, умерли.",
    "it": "Devono essere morti."
+  },
+  {
+   "id": "s_5635082",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том вышел из зала последним.",
+   "it": ""
   },
   {
    "id": "s_5640025",
@@ -1098,11 +2227,53 @@
    "it": "Non penso che tu sia grassa."
   },
   {
+   "id": "s_5640030",
+   "motivo": "insulti/razzismo",
+   "termine": "толстым",
+   "ru": "Я не считаю тебя толстым.",
+   "it": "Non ti considero grasso."
+  },
+  {
+   "id": "s_5640031",
+   "motivo": "insulti/razzismo",
+   "termine": "толстой",
+   "ru": "Я не считаю тебя толстой.",
+   "it": "Non ti considero grassa."
+  },
+  {
+   "id": "s_5640091",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "К счастью, Том ещё жив.",
+   "it": ""
+  },
+  {
+   "id": "s_5646445",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том на службе.",
+   "it": ""
+  },
+  {
    "id": "s_5647402",
    "motivo": "religione",
    "termine": "бога",
    "ru": "\"Ты ещё веришь?\" — \"В бога? Конечно!\"",
    "it": "\"Tu credi ancora?\" - \"In Dio? Certo!\""
+  },
+  {
+   "id": "s_5647595",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Я не понял, при чём здесь Том?",
+   "it": ""
+  },
+  {
+   "id": "s_5649125",
+   "motivo": "violenza/armi",
+   "termine": "кричат",
+   "ru": "Я не люблю, когда на меня кричат.",
+   "it": "Non mi piace quando la gente mi urla contro."
   },
   {
    "id": "s_5651333",
@@ -1119,11 +2290,67 @@
    "it": "So dove custodisci l'arma."
   },
   {
+   "id": "s_5656438",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Тому не следует пить.",
+   "it": ""
+  },
+  {
+   "id": "s_5661169",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том всем нравится.",
+   "it": ""
+  },
+  {
+   "id": "s_5664699",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Этим Том и занимался большую часть времени.",
+   "it": ""
+  },
+  {
+   "id": "s_5668140",
+   "motivo": "violenza/armi",
+   "termine": "кричат",
+   "ru": "Они все кричат.",
+   "it": "Stanno gridando tutti."
+  },
+  {
+   "id": "s_5668144",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том не может подняться.",
+   "it": ""
+  },
+  {
+   "id": "s_5669802",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том прямо как я.",
+   "it": ""
+  },
+  {
+   "id": "s_5670332",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том был самым старшим среди моих друзей.",
+   "it": ""
+  },
+  {
    "id": "s_5672161",
    "motivo": "politica",
    "termine": "закон",
    "ru": "Теперь это закон.",
    "it": "Ora questa è legge."
+  },
+  {
+   "id": "s_5672709",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том только ушёл?",
+   "it": ""
   },
   {
    "id": "s_5672820",
@@ -1140,18 +2367,67 @@
    "it": "Perché non sono morto?"
   },
   {
-   "id": "s_5681258",
-   "motivo": "politica",
-   "termine": "командиром",
-   "ru": "Командиром стал Том.",
-   "it": "Tom diventò il comandante."
+   "id": "s_5677457",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Тому приходится это делать.",
+   "it": ""
   },
   {
-   "id": "s_5696091",
-   "motivo": "politica",
-   "termine": "закон",
-   "ru": "Том закон знает.",
-   "it": "Tom conosce la legge."
+   "id": "s_5678280",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том герой.",
+   "it": ""
+  },
+  {
+   "id": "s_5679558",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том попросил еды.",
+   "it": ""
+  },
+  {
+   "id": "s_5683955",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том врач и писатель.",
+   "it": ""
+  },
+  {
+   "id": "s_5690843",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том подошёл ближе.",
+   "it": ""
+  },
+  {
+   "id": "s_5692147",
+   "motivo": "insulti/razzismo",
+   "termine": "толстая",
+   "ru": "Его собака очень толстая.",
+   "it": "Il suo cane è molto grosso."
+  },
+  {
+   "id": "s_5692680",
+   "motivo": "violenza/armi",
+   "termine": "кричит",
+   "ru": "Мы слышали, как она кричит.",
+   "it": "L'abbiamo sentita gridare."
+  },
+  {
+   "id": "s_5692688",
+   "motivo": "violenza/armi",
+   "termine": "кричит",
+   "ru": "Мы слышали, как он кричит.",
+   "it": "L'abbiamo sentito gridare."
+  },
+  {
+   "id": "s_5696152",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том не узнал свою бывшую жену.",
+   "it": ""
   },
   {
    "id": "s_5699976",
@@ -1161,11 +2437,60 @@
    "it": "Il soldato corse."
   },
   {
-   "id": "s_5812674",
-   "motivo": "insulti/razzismo",
-   "termine": "brutte",
-   "ru": "Не думаю, что они плохие люди.",
-   "it": "Non penso che loro siano delle brutte persone."
+   "id": "s_5705722",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том поехал в центр.",
+   "it": ""
+  },
+  {
+   "id": "s_5738752",
+   "motivo": "violenza/armi",
+   "termine": "убила",
+   "ru": "Я её убила.",
+   "it": "L'ho ucciso."
+  },
+  {
+   "id": "s_5766743",
+   "motivo": "violenza/armi",
+   "termine": "кричи",
+   "ru": "Кричи громко!",
+   "it": "Grida forte!"
+  },
+  {
+   "id": "s_5783807",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том называет вещи своими именами.",
+   "it": ""
+  },
+  {
+   "id": "s_5811673",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Дай мне умереть спокойно.",
+   "it": "Lasciami morire in pace."
+  },
+  {
+   "id": "s_5826055",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том страшно болен.",
+   "it": ""
+  },
+  {
+   "id": "s_5885579",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том прошёл мимо.",
+   "it": ""
+  },
+  {
+   "id": "s_5885580",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том проходил мимо.",
+   "it": ""
   },
   {
    "id": "s_5888796",
@@ -1173,6 +2498,13 @@
    "termine": "morirò",
    "ru": "Я не умру.",
    "it": "Non morirò."
+  },
+  {
+   "id": "s_5893721",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том последний.",
+   "it": ""
   },
   {
    "id": "s_5894091",
@@ -1203,11 +2535,46 @@
    "it": "Ero grassa."
   },
   {
-   "id": "s_5902212",
-   "motivo": "politica",
-   "termine": "полиция",
-   "ru": "Полиция приедет?",
-   "it": "La polizia verrà?"
+   "id": "s_5897134",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Отвечай Тому.",
+   "it": ""
+  },
+  {
+   "id": "s_5897247",
+   "motivo": "morte",
+   "termine": "sanguinava",
+   "ru": "У неё из носа сильно шла кровь.",
+   "it": "Il suo naso sanguinava copiosamente."
+  },
+  {
+   "id": "s_5910741",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Я приведу помощь.",
+   "it": ""
+  },
+  {
+   "id": "s_5921415",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Поможем Тому.",
+   "it": ""
+  },
+  {
+   "id": "s_5924654",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Я пойду к Тому.",
+   "it": ""
+  },
+  {
+   "id": "s_5949197",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том любит другую.",
+   "it": ""
   },
   {
    "id": "s_5968255",
@@ -1217,11 +2584,18 @@
    "it": "Conosci il tuo nemico."
   },
   {
-   "id": "s_5974162",
-   "motivo": "politica",
-   "termine": "полиция",
-   "ru": "Полиция не может ничего сделать.",
-   "it": "La polizia non può fare niente."
+   "id": "s_5972947",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том - наш общий сын.",
+   "it": ""
+  },
+  {
+   "id": "s_5976282",
+   "motivo": "droga/alcol",
+   "termine": "пью",
+   "ru": "Я теперь не пью.",
+   "it": "Adesso non bevo."
   },
   {
    "id": "s_5993199",
@@ -1236,6 +2610,13 @@
    "termine": "смерти",
    "ru": "Не надо бояться смерти.",
    "it": "Non si deve temere la morte."
+  },
+  {
+   "id": "s_6004543",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том с интересом слушал.",
+   "it": ""
   },
   {
    "id": "s_6009096",
@@ -1259,11 +2640,53 @@
    "it": "Dove stanno andando i soldati?"
   },
   {
+   "id": "s_6038936",
+   "motivo": "droga/alcol",
+   "termine": "пьёте",
+   "ru": "Вы слишком много пьёте!",
+   "it": "Bevete troppo!"
+  },
+  {
+   "id": "s_6039754",
+   "motivo": "droga/alcol",
+   "termine": "пьют",
+   "ru": "Они слишком много пьют!",
+   "it": "Loro bevono troppo!"
+  },
+  {
    "id": "s_6045539",
    "motivo": "politica",
    "termine": "законом",
    "ru": "Я чист перед законом.",
    "it": "Sono pulito di fronte alla legge."
+  },
+  {
+   "id": "s_6061387",
+   "motivo": "violenza/armi",
+   "termine": "кричит",
+   "ru": "Он кричит от боли.",
+   "it": "Lui sta gridando dal dolore."
+  },
+  {
+   "id": "s_6082763",
+   "motivo": "religione",
+   "termine": "боги",
+   "ru": "Боги меня не слышат.",
+   "it": "Gli dei non mi ascoltano."
+  },
+  {
+   "id": "s_6136033",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Тому не очень много платят.",
+   "it": ""
+  },
+  {
+   "id": "s_6136310",
+   "motivo": "violenza/armi",
+   "termine": "враги",
+   "ru": "Враги меня боятся, а друзья меня любят.",
+   "it": "I nemici mi temono, mentre gli amici mi amano."
   },
   {
    "id": "s_6144090",
@@ -1273,11 +2696,123 @@
    "it": "Durante la guerra sono morte molte persone giovani."
   },
   {
+   "id": "s_6145762",
+   "motivo": "violenza/armi",
+   "termine": "убил",
+   "ru": "Скажи нам, за что ты его убил.",
+   "it": "Dicci per quale motivo l'hai ucciso."
+  },
+  {
+   "id": "s_6145763",
+   "motivo": "violenza/armi",
+   "termine": "убили",
+   "ru": "Скажите нам, за что вы его убили.",
+   "it": "Diteci per quale motivo l'avete ucciso."
+  },
+  {
+   "id": "s_6145764",
+   "motivo": "violenza/armi",
+   "termine": "убил",
+   "ru": "Скажи нам, за что ты её убил.",
+   "it": "Dicci per quale motivo l'hai uccisa."
+  },
+  {
+   "id": "s_6145765",
+   "motivo": "violenza/armi",
+   "termine": "убили",
+   "ru": "Скажите нам, за что вы её убили.",
+   "it": "Diteci per quale motivo l'avete uccisa."
+  },
+  {
+   "id": "s_6145766",
+   "motivo": "violenza/armi",
+   "termine": "убил",
+   "ru": "Скажи нам, за что ты их убил.",
+   "it": "Dicci per quale motivo li hai uccisi."
+  },
+  {
+   "id": "s_6145767",
+   "motivo": "violenza/armi",
+   "termine": "убили",
+   "ru": "Скажите нам, за что вы их убили.",
+   "it": "Diteci per quale motivo li avete uccisi."
+  },
+  {
+   "id": "s_6179388",
+   "motivo": "droga/alcol",
+   "termine": "пил",
+   "ru": "Кто пил из моей чашки?",
+   "it": "Chi ha bevuto dalla mia tazza?"
+  },
+  {
+   "id": "s_6179393",
+   "motivo": "droga/alcol",
+   "termine": "пил",
+   "ru": "Ты пил из моей чашки?",
+   "it": "Hai bevuto dalla mia tazza?"
+  },
+  {
+   "id": "s_6179394",
+   "motivo": "droga/alcol",
+   "termine": "пила",
+   "ru": "Ты пила из моей чашки?",
+   "it": "Hai bevuto dalla mia tazza?"
+  },
+  {
+   "id": "s_6179396",
+   "motivo": "droga/alcol",
+   "termine": "пил",
+   "ru": "Ты пил из моей чашки!",
+   "it": "Hai bevuto dalla mia tazza!"
+  },
+  {
+   "id": "s_6179397",
+   "motivo": "droga/alcol",
+   "termine": "пила",
+   "ru": "Ты пила из моей чашки!",
+   "it": "Hai bevuto dalla mia tazza!"
+  },
+  {
+   "id": "s_6227025",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том любит быть среди людей.",
+   "it": ""
+  },
+  {
+   "id": "s_6291515",
+   "motivo": "politica",
+   "termine": "polizia",
+   "ru": "За нами полиция!",
+   "it": "La polizia ci insegue!"
+  },
+  {
+   "id": "s_6312165",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том вернётся через секунду.",
+   "it": ""
+  },
+  {
+   "id": "s_6315993",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Что ответил Том?",
+   "it": ""
+  },
+  {
    "id": "s_6363120",
    "motivo": "insulti/razzismo",
    "termine": "толстым",
    "ru": "Я всегда был толстым.",
    "it": "Sono sempre stato grasso."
+  },
+  {
+   "id": "s_6371877",
+   "motivo": "morte",
+   "termine": "умерла",
+   "ru": "У меня вчера собака умерла.",
+   "it": "Il mio cane è morto ieri."
   },
   {
    "id": "s_6371878",
@@ -1301,11 +2836,46 @@
    "it": "Dio sa quanto non lo volevo."
   },
   {
-   "id": "s_6374859",
-   "motivo": "morte",
-   "termine": "умрёт",
-   "ru": "Том думал, что сейчас умрёт.",
-   "it": "Tom pensava che stava per morire."
+   "id": "s_6377871",
+   "motivo": "droga/alcol",
+   "termine": "пью",
+   "ru": "Я не пью красное вино.",
+   "it": "Non bevo vino rosso."
+  },
+  {
+   "id": "s_6377872",
+   "motivo": "droga/alcol",
+   "termine": "пью",
+   "ru": "Я красное вино не пью.",
+   "it": "Non bevo vino rosso."
+  },
+  {
+   "id": "s_6383816",
+   "motivo": "violenza/armi",
+   "termine": "убейте",
+   "ru": "Убейте меня, не знаю.",
+   "it": "Che mi venga un accidente, non lo so."
+  },
+  {
+   "id": "s_6388566",
+   "motivo": "droga/alcol",
+   "termine": "пью",
+   "ru": "Я много пью.",
+   "it": "Bevo molto."
+  },
+  {
+   "id": "s_6396246",
+   "motivo": "violenza/armi",
+   "termine": "убей",
+   "ru": "Убей меня.",
+   "it": "Uccidimi."
+  },
+  {
+   "id": "s_6396247",
+   "motivo": "violenza/armi",
+   "termine": "убейте",
+   "ru": "Убейте меня.",
+   "it": "Uccidetemi."
   },
   {
    "id": "s_6443835",
@@ -1313,13 +2883,6 @@
    "termine": "умер",
    "ru": "Я видел, как он умер.",
    "it": "L'ho visto morire."
-  },
-  {
-   "id": "s_6452539",
-   "motivo": "morte",
-   "termine": "умрёт",
-   "ru": "Том, скорее всего, умрёт.",
-   "it": "È probabile che Tom muoia."
   },
   {
    "id": "s_6477697",
@@ -1343,11 +2906,18 @@
    "it": "Non parlare mai della morte."
   },
   {
-   "id": "s_6566688",
-   "motivo": "politica",
-   "termine": "полицию",
-   "ru": "Полицию вызвали?",
-   "it": "Avete chiamato la polizia."
+   "id": "s_6588366",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Посмотри, Том!",
+   "it": ""
+  },
+  {
+   "id": "s_6588367",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Посмотри — Том!",
+   "it": ""
   },
   {
    "id": "s_6597910",
@@ -1357,18 +2927,46 @@
    "it": "Siamo nemici."
   },
   {
-   "id": "s_6622923",
-   "motivo": "insulti/razzismo",
-   "termine": "brutto",
-   "ru": "Вчера была плохая погода.",
-   "it": "Ieri c'era brutto tempo."
+   "id": "s_6705800",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том сказал, что теперь можно кушать.",
+   "it": ""
   },
   {
-   "id": "s_6783556",
-   "motivo": "morte",
-   "termine": "смерти",
-   "ru": "После смерти отца Том стал сильно пить.",
-   "it": "Dopo che morì suo padre, Tom cominciò a bere tanto."
+   "id": "s_6764600",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Приведи помощь.",
+   "it": ""
+  },
+  {
+   "id": "s_6764601",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Приведите помощь.",
+   "it": ""
+  },
+  {
+   "id": "s_6772810",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Чем болел Том?",
+   "it": ""
+  },
+  {
+   "id": "s_6794029",
+   "motivo": "droga/alcol",
+   "termine": "пьём",
+   "ru": "Мы ничего не пьём.",
+   "it": "Non beviamo nulla."
+  },
+  {
+   "id": "s_6798961",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Тому уже сообщили.",
+   "it": ""
   },
   {
    "id": "s_6812396",
@@ -1378,18 +2976,60 @@
    "it": "L'uomo è un soldato."
   },
   {
-   "id": "s_6827593",
-   "motivo": "morte",
-   "termine": "умер",
-   "ru": "Том сегодня утром умер.",
-   "it": "Tom è morto stamattina."
+   "id": "s_6828028",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Я не знал, что Том появится.",
+   "it": ""
   },
   {
-   "id": "s_6856145",
-   "motivo": "insulti/razzismo",
-   "termine": "brutte",
-   "ru": "Много всего было - и хорошего, и плохого.",
-   "it": "C'erano molte cose, sia belle che brutte."
+   "id": "s_6829554",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Мне кажется, он умер.",
+   "it": "Mi sembra che sia morto."
+  },
+  {
+   "id": "s_6850035",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том ходил из угла в угол.",
+   "it": ""
+  },
+  {
+   "id": "s_6854154",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "А Тому не расскажешь?",
+   "it": ""
+  },
+  {
+   "id": "s_6879113",
+   "motivo": "violenza/armi",
+   "termine": "кричать",
+   "ru": "Вам не нужно кричать.",
+   "it": "Non serve che gridiate."
+  },
+  {
+   "id": "s_6879114",
+   "motivo": "violenza/armi",
+   "termine": "кричать",
+   "ru": "Тебе не нужно кричать.",
+   "it": "Non serve che gridi."
+  },
+  {
+   "id": "s_6884040",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том решил уйти из компании.",
+   "it": ""
+  },
+  {
+   "id": "s_6884072",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том их нашёл.",
+   "it": ""
   },
   {
    "id": "s_6884560",
@@ -1406,6 +3046,34 @@
    "it": "Non sono il vostro comandante."
   },
   {
+   "id": "s_6893429",
+   "motivo": "insulti/razzismo",
+   "termine": "matto",
+   "ru": "У тебя как с головой?",
+   "it": "Ma sei matto?"
+  },
+  {
+   "id": "s_6902722",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том ищет квартиру.",
+   "it": ""
+  },
+  {
+   "id": "s_6905825",
+   "motivo": "qa: frase rifiutata",
+   "termine": "",
+   "ru": "Чтобы духу твоего тут не было!",
+   "it": ""
+  },
+  {
+   "id": "s_6908023",
+   "motivo": "politica",
+   "termine": "polizia",
+   "ru": "Полиция продолжает его искать.",
+   "it": "La polizia continua a cercarlo."
+  },
+  {
    "id": "s_6909572",
    "motivo": "violenza/armi",
    "termine": "война",
@@ -1413,11 +3081,32 @@
    "it": "È stata una lunga guerra."
   },
   {
-   "id": "s_6916315",
-   "motivo": "violenza/armi",
-   "termine": "colpito",
-   "ru": "Тому попали в ногу.",
-   "it": "Tom è stato colpito ad una gamba."
+   "id": "s_6916895",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том, сядь!",
+   "it": ""
+  },
+  {
+   "id": "s_6918135",
+   "motivo": "droga/alcol",
+   "termine": "пьёшь",
+   "ru": "Ты пьёшь кофе? Если да, то как часто?",
+   "it": "Bevi il caffè? Se è così, quanto spesso?"
+  },
+  {
+   "id": "s_6918136",
+   "motivo": "droga/alcol",
+   "termine": "пьёте",
+   "ru": "Вы пьёте кофе? Если да, то как часто?",
+   "it": "Bevete il caffè? Se è così, quanto spesso?"
+  },
+  {
+   "id": "s_6921457",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Тому можно верить.",
+   "it": ""
   },
   {
    "id": "s_6923923",
@@ -1434,18 +3123,11 @@
    "it": "Sono contrario ad ogni tipo di guerra."
   },
   {
-   "id": "s_6938376",
-   "motivo": "religione",
-   "termine": "anima",
-   "ru": "В душе я очень добрый.",
-   "it": "Nell'anima sono molto buono."
-  },
-  {
-   "id": "s_6943329",
-   "motivo": "insulti/razzismo",
-   "termine": "толстый",
-   "ru": "Я не думаю, что Том толстый.",
-   "it": "Non penso che Tom sia grasso."
+   "id": "s_6945422",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том хотел быть в центре внимания.",
+   "it": ""
   },
   {
    "id": "s_6947095",
@@ -1455,18 +3137,32 @@
    "it": "Mia mamma è morta molto tempo fa."
   },
   {
-   "id": "s_7036849",
-   "motivo": "insulti/razzismo",
-   "termine": "brutta",
-   "ru": "Я думаю, он плохой человек.",
-   "it": "Penso che lui sia una brutta persona."
+   "id": "s_6960986",
+   "motivo": "politica",
+   "termine": "властям",
+   "ru": "Я сообщу о тебе властям.",
+   "it": "Riferirò alle autorità riguardo a te."
   },
   {
-   "id": "s_7109231",
-   "motivo": "insulti/razzismo",
-   "termine": "толстый",
-   "ru": "Я знаю, что Том толстый.",
-   "it": "So che Tom è grasso."
+   "id": "s_7035921",
+   "motivo": "droga/alcol",
+   "termine": "пьёт",
+   "ru": "Он говорит, что пьёт, чтобы забыть.",
+   "it": "Lui dice di bere per dimenticare."
+  },
+  {
+   "id": "s_7059071",
+   "motivo": "droga/alcol",
+   "termine": "пью",
+   "ru": "Я не пью пиво. Только вино.",
+   "it": "Non bevo birra. Soltanto vino."
+  },
+  {
+   "id": "s_7275231",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Сами спит.",
+   "it": ""
   },
   {
    "id": "s_7326127",
@@ -1474,6 +3170,27 @@
    "termine": "смертей",
    "ru": "Я видел достаточно смертей.",
    "it": "Di morte ne ho vista abbastanza."
+  },
+  {
+   "id": "s_7451470",
+   "motivo": "morte",
+   "termine": "sanguinare",
+   "ru": "У меня пошла кровь.",
+   "it": "Ho cominciato a sanguinare."
+  },
+  {
+   "id": "s_7646360",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Тому не страшно.",
+   "it": ""
+  },
+  {
+   "id": "s_7673358",
+   "motivo": "violenza/armi",
+   "termine": "убил",
+   "ru": "Меня пока никто не убил.",
+   "it": "Nessuno mi ha ancora ucciso."
   },
   {
    "id": "s_7905896",
@@ -1497,18 +3214,11 @@
    "it": "Pensa che morirà presto."
   },
   {
-   "id": "s_7954864",
+   "id": "s_8151143",
    "motivo": "violenza/armi",
-   "termine": "бойтесь",
-   "ru": "Не бойтесь говорить правду.",
-   "it": "Non abbiate paura di dire la verità."
-  },
-  {
-   "id": "s_8727726",
-   "motivo": "religione",
-   "termine": "чертах",
-   "ru": "Расскажите в общих чертах.",
-   "it": "Raccontate a grandi linee."
+   "termine": "кричали",
+   "ru": "Все мальчики кричали.",
+   "it": "Tutti i ragazzi gridavano."
   },
   {
    "id": "s_10798373",
@@ -1546,6 +3256,13 @@
    "it": "Voi non siete grassi."
   },
   {
+   "id": "s_10807014",
+   "motivo": "qa: nome proprio mappato a parola comune",
+   "termine": "",
+   "ru": "Том ушёл раньше.",
+   "it": ""
+  },
+  {
    "id": "s_10836441",
    "motivo": "violenza/armi",
    "termine": "враги",
@@ -1572,6 +3289,20 @@
    "termine": "carcere",
    "ru": "За что вы сидите?",
    "it": "Per cosa siete in carcere?"
+  },
+  {
+   "id": "s_10982182",
+   "motivo": "droga/alcol",
+   "termine": "пьёт",
+   "ru": "Сейчас он пьёт кофе.",
+   "it": "Adesso sta bevendo il caffè."
+  },
+  {
+   "id": "s_10982183",
+   "motivo": "droga/alcol",
+   "termine": "пьёт",
+   "ru": "Сейчас она пьёт кофе.",
+   "it": "Adesso sta bevendo il caffè."
   },
   {
    "id": "s_11855390",
@@ -1607,13 +3338,6 @@
    "termine": "смерти",
    "ru": "Жизни после смерти нет.",
    "it": "Non c'è vita dopo la morte."
-  },
-  {
-   "id": "s_12965041",
-   "motivo": "violenza/armi",
-   "termine": "бойся",
-   "ru": "Не бойся говорить то, что думаешь.",
-   "it": "Non aver paura di dire quello che pensi."
   },
   {
    "id": "s_13042288",

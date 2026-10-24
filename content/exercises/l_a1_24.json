@@ -1,0 +1,1457 @@
+[
+ {
+  "id": "e_001320",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_posledniy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "после́дний",
+   "answer": "ultimo",
+   "accepted": [
+    "ultimo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001321",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_vy",
+   "w_sleduyushchiy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Вы́ сле́дующая.",
+   "answer": "Siete la prossima.",
+   "accepted": [
+    "Siete la prossima.",
+    "Siete la prossima",
+    "siete la prossima",
+    "siete la prossima.",
+    "Voi siete la prossima.",
+    "Voi siete la prossima",
+    "voi siete la prossima",
+    "voi siete la prossima."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001322",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_sleduyushchiy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "prossimo",
+   "answer": "сле́дующий",
+   "accepted": [
+    "сле́дующий",
+    "следующий"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001323",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_ona",
+   "w_gde_to",
+   "w_zdes"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 24,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Lei è qui da qualche parte.",
+   "answer": "Она́ где́-то зде́сь.",
+   "accepted": [
+    "Она́ где́-то зде́сь.",
+    "Она́ где́-то зде́сь",
+    "Она где-то здесь.",
+    "Она где-то здесь",
+    "она где-то здесь.",
+    "она где-то здесь",
+    "она́ где́-то зде́сь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001324",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_chto_to"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "что́-то",
+   "answer": "qualcosa",
+   "accepted": [
+    "qualcosa"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001325",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_oni",
+   "w_vezde"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Они́ везде́!",
+   "answer": "Sono dappertutto!",
+   "accepted": [
+    "Sono dappertutto!",
+    "Sono dappertutto",
+    "sono dappertutto",
+    "sono dappertutto!",
+    "Loro sono dappertutto!",
+    "Loro sono dappertutto",
+    "loro sono dappertutto",
+    "loro sono dappertutto!"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001326",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_nado"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "bisogna",
+   "answer": "на́до",
+   "accepted": [
+    "на́до",
+    "надо"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001327",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_ty",
+   "w_pervyy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 20,
+  "prompt_it": "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Sei la prima.",
+   "answer": "Ты́ пе́рвая.",
+   "accepted": [
+    "Ты́ пе́рвая.",
+    "Ты́ пе́рвая",
+    "Ты первая.",
+    "Ты первая",
+    "ты первая.",
+    "ты первая",
+    "ты́ пе́рвая"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001328",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_kto_to"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "кто́-то",
+   "answer": "qualcuno",
+   "accepted": [
+    "qualcuno"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001329",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_sleduyushchiy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ дома́.",
+   "answer": "сле́дующие",
+   "accepted": [
+    "сле́дующие",
+    "следующие"
+   ],
+   "hint_it": "prossimo: concorda con «case» (plurale)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001330",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_on"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ где́-то зде́сь.",
+   "answer": "О́н",
+   "accepted": [
+    "О́н",
+    "Он",
+    "он",
+    "о́н"
+   ],
+   "hint_it": "Lui è qui da qualche parte."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001331",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_posledniy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вода́.",
+   "answer": "после́дняя",
+   "accepted": [
+    "после́дняя",
+    "последняя"
+   ],
+   "hint_it": "ultimo: concorda con «acqua» (femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001332",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_ty"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ пе́рвая.",
+   "answer": "Ты́",
+   "accepted": [
+    "Ты́",
+    "Ты",
+    "ты",
+    "ты́"
+   ],
+   "hint_it": "Sei la prima."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001333",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_proshlyy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ дома́.",
+   "answer": "про́шлые",
+   "accepted": [
+    "про́шлые",
+    "прошлые"
+   ],
+   "hint_it": "scorso: concorda con «case» (plurale)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001334",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_tak"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Где́-то ___.",
+   "answer": "та́к",
+   "accepted": [
+    "та́к",
+    "так"
+   ],
+   "hint_it": "Pressapoco così."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001335",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_pervyy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ты́ ___.",
+   "answer": "пе́рвая",
+   "accepted": [
+    "пе́рвая",
+    "первая"
+   ],
+   "hint_it": "Sei la prima."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001336",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_gde_to"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Она́ ___ зде́сь.",
+   "answer": "где́-то",
+   "accepted": [
+    "где́-то",
+    "где-то"
+   ],
+   "hint_it": "Lei è qui da qualche parte."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001337",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_proshlyy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «про́шлый» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ до́м. — scorso: concorda con «casa» (maschile).",
+   "options": [
+    "про́шлое",
+    "про́шлая",
+    "про́шлый",
+    "про́шлые"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001338",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_on",
+   "w_gde_to",
+   "w_zdes"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "О́н где́-то зде́сь.",
+   "options": [
+    "Lui è qui da qualche parte.",
+    "Queste sono le sue cose.",
+    "Come è bello qui!",
+    "Lui non è una macchina."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001339",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_pervyy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «пе́рвый»?",
+   "options": [
+    "primo",
+    "tre",
+    "sette",
+    "sei"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001340",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_mozhno",
+   "w_voyti"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione russa corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Posso entrare?",
+   "options": [
+    "Я́ вошёл.",
+    "Мо́жно войти́?",
+    "Мо́жно мне́ три́?",
+    "Пожа́луйста, войди́те!"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001341",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_vezde"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 11,
+  "prompt_it": "Scegli la parola russa giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «dappertutto» in russo?",
+   "options": [
+    "тру́дно",
+    "зде́сь",
+    "вку́сно",
+    "везде́"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001342",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_posledniy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «после́дний» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ дома́. — ultimo: concorda con «case» (plurale).",
+   "options": [
+    "после́днее",
+    "после́дний",
+    "после́дние",
+    "после́дняя"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001343",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_oni",
+   "w_vezde"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Они́ везде́.",
+   "options": [
+    "Come stanno?",
+    "Loro stanno cucinando.",
+    "Loro sono dappertutto.",
+    "Sono qui."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001344",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_chto_to"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «что́-то»?",
+   "options": [
+    "lei",
+    "questo",
+    "qualcosa",
+    "che cosa"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001345",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni",
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_kto_to",
+   "w_sleduyushchiy",
+   "w_posledniy",
+   "w_nado",
+   "w_proshlyy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "кто́-то",
+     "it": "qualcuno"
+    },
+    {
+     "ru": "сле́дующий",
+     "it": "prossimo"
+    },
+    {
+     "ru": "после́дний",
+     "it": "ultimo"
+    },
+    {
+     "ru": "на́до",
+     "it": "bisogna"
+    },
+    {
+     "ru": "про́шлый",
+     "it": "scorso"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001346",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "descrizioni",
+   "movimento"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_ya",
+   "w_pervyy",
+   "w_proshlyy",
+   "w_noch",
+   "w_idti",
+   "w_sneg"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ пе́рвая.",
+     "it": "Sono prima."
+    },
+    {
+     "ru": "Про́шлой но́чью шёл сне́г.",
+     "it": "La scorsa notte è nevicato."
+    },
+    {
+     "ru": "Они́ везде́!",
+     "it": "Sono dappertutto!"
+    },
+    {
+     "ru": "Вы́ сле́дующий.",
+     "it": "Siete il prossimo."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001347",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni",
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_posledniy",
+   "w_nado",
+   "w_chto_to",
+   "w_vchera",
+   "w_dlya",
+   "w_dengi"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "после́дний",
+     "it": "ultimo"
+    },
+    {
+     "ru": "на́до",
+     "it": "bisogna"
+    },
+    {
+     "ru": "что́-то",
+     "it": "qualcosa"
+    },
+    {
+     "ru": "вчера́",
+     "it": "ieri"
+    },
+    {
+     "ru": "для́",
+     "it": "per"
+    },
+    {
+     "ru": "де́ньги",
+     "it": "soldi"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001348",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "direzioni",
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_vezde",
+   "w_gde_to",
+   "w_chto_to",
+   "w_sleduyushchiy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "везде́",
+     "it": "dappertutto"
+    },
+    {
+     "ru": "где́-то",
+     "it": "da qualche parte"
+    },
+    {
+     "ru": "что́-то",
+     "it": "qualcosa"
+    },
+    {
+     "ru": "сле́дующий",
+     "it": "prossimo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001349",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "descrizioni",
+   "azioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_eto",
+   "w_posledniy",
+   "w_on",
+   "w_chto_to",
+   "w_iskat",
+   "w_ona"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Э́то после́дняя.",
+     "it": "Questa è l'ultima."
+    },
+    {
+     "ru": "О́н что́-то и́щет?",
+     "it": "Lui sta cercando qualcosa?"
+    },
+    {
+     "ru": "Она́ что́-то и́щет?",
+     "it": "Lei sta cercando qualcosa?"
+    },
+    {
+     "ru": "О́н где́-то зде́сь.",
+     "it": "Lui è qui da qualche parte."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001350",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni",
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_posledniy",
+   "w_sleduyushchiy",
+   "w_gde_to",
+   "w_pogoda",
+   "w_kholodnyy",
+   "w_o"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "после́дний",
+     "it": "ultimo"
+    },
+    {
+     "ru": "сле́дующий",
+     "it": "prossimo"
+    },
+    {
+     "ru": "где́-то",
+     "it": "da qualche parte"
+    },
+    {
+     "ru": "пого́да",
+     "it": "tempo atmosferico"
+    },
+    {
+     "ru": "холо́дный",
+     "it": "freddo"
+    },
+    {
+     "ru": "о́",
+     "it": "di"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001351",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_chto_to",
+   "w_gde_to",
+   "w_vezde",
+   "w_pervyy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "что́-то",
+     "it": "qualcosa"
+    },
+    {
+     "ru": "где́-то",
+     "it": "da qualche parte"
+    },
+    {
+     "ru": "везде́",
+     "it": "dappertutto"
+    },
+    {
+     "ru": "пе́рвый",
+     "it": "primo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001352",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_on",
+   "w_gde_to",
+   "w_zdes"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "О́н где́-то зде́сь.",
+   "translation_it": "Lui è qui da qualche parte.",
+   "accepted": [
+    "О́н где́-то зде́сь.",
+    "О́н где́-то зде́сь",
+    "Он где-то здесь.",
+    "Он где-то здесь",
+    "он где-то здесь.",
+    "он где-то здесь",
+    "о́н где́-то зде́сь"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001353",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_kto_to"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "кто́-то",
+   "translation_it": "qualcuno",
+   "accepted": [
+    "кто́-то",
+    "кто-то"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001354",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_vy",
+   "w_sleduyushchiy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вы́ сле́дующая.",
+   "translation_it": "Siete la prossima.",
+   "accepted": [
+    "Вы́ сле́дующая.",
+    "Вы́ сле́дующая",
+    "Вы следующая.",
+    "Вы следующая",
+    "вы следующая.",
+    "вы следующая",
+    "вы́ сле́дующая"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001355",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_proshlyy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "про́шлый",
+   "translation_it": "scorso",
+   "accepted": [
+    "про́шлый",
+    "прошлый"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001356",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_oni",
+   "w_vezde"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Они́ везде́!",
+   "translation_it": "Sono dappertutto!",
+   "accepted": [
+    "Они́ везде́!",
+    "Они́ везде́",
+    "Они везде!",
+    "Они везде",
+    "они везде!",
+    "они везде",
+    "они́ везде́"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001357",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_nado"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "на́до",
+   "translation_it": "bisogna",
+   "accepted": [
+    "на́до",
+    "надо"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001358",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_ty",
+   "w_sleduyushchiy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ты́ сле́дующая.",
+   "translation_it": "Sei la prossima.",
+   "accepted": [
+    "Ты́ сле́дующая.",
+    "Ты́ сле́дующая",
+    "Ты следующая.",
+    "Ты следующая",
+    "ты следующая.",
+    "ты следующая",
+    "ты́ сле́дующая"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001359",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to"
+  ],
+  "words": [
+   "w_chto_to"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "что́-то",
+   "translation_it": "qualcosa",
+   "accepted": [
+    "что́-то",
+    "что-то"
+   ]
+  },
+  "qa_status": "pending"
+ }
+]
