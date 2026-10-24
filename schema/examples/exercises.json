@@ -1,0 +1,4 @@
+[
+{"id":"e_000001","type":"translate","level":"zero","difficulty":1,"topics":["famiglia"],"grammar_tags":["lessico"],"words":["w_mama"],"lesson":"l_zero_01","est_seconds":20,"prompt_it":"Traduci in italiano","payload":{"type":"translate","direction":"ru_it","source":"ма́ма","answer":"mamma","accepted":["la mamma"]},"qa_status":"approved"},
+{"id":"e_000002","type":"multiple_choice","level":"zero","difficulty":1,"topics":["famiglia"],"grammar_tags":["lessico"],"words":["w_mama"],"est_seconds":15,"prompt_it":"Scegli la traduzione corretta","payload":{"type":"multiple_choice","question":"ма́ма","options":["papà","mamma","casa"],"correct":1},"qa_status":"pending"}
+]
