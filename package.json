@@ -1,0 +1,30 @@
+{
+  "name": "russian-coach",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Russian Coach: app per imparare il russo, statica e senza backend",
+  "scripts": {
+    "sync-contract": "node src/scripts/sync-contract.mjs",
+    "copy-data": "node src/scripts/copy-data.mjs",
+    "predev": "npm run sync-contract && npm run copy-data",
+    "dev": "next dev",
+    "prebuild": "npm run sync-contract && npm run copy-data",
+    "build": "next build",
+    "start": "npx http-server out -p 3000 -c-1",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "check": "npm run typecheck && npm run test && npm run build"
+  },
+  "dependencies": {
+    "next": "15.5.28",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "@types/react": "19.1.12",
+    "@types/react-dom": "19.1.9",
+    "typescript": "5.7.3",
+    "vitest": "3.2.4"
+  }
+}
