@@ -4,7 +4,7 @@
     "level": "a1",
     "order": 25,
     "title_it": "Saluti nel corso del giorno e parole internazionali",
-    "explanation_md": "## Salutare nel corso della giornata\n- **до́брое у́тро** (dòbroie ùtro) – **buongiorno** (mattina)\n- **до́брый де́нь** (dòbryj dèn) – **buon giorno** (giorno)\n- **до́брый ве́чер** (dòbryj vècer) – **buonasera**\n- **До́брый ве́чер.** (Dòbryj vècer.) – Buonasera!\n- **До́брый де́нь.** (Dòbryj dèn.) – Buongiorno!\n\nCon persone care si dice **приве́т** (privèt). Per scusarti o chiedere permesso: **прости́те** (prostìte) (più cortese di **извини́те** (izvinìte)):\n- **Прости́те, э́то ме́сто ещё свобо́дно?** (Prostìte, èto mèsto iessciò svobòdno?) – Scusate, questo posto è ancora libero?\n- **Прости́те, не могу́.** (Prostìte, ne mogù.) – Scusate, non posso.\n\n## Parole internazionali\nIl russo ha molti prestiti. La maggior parte si legge facilmente:\n- **клу́б** (klùb) – **club**: **В суббо́ту мы́ идём в клу́б.** (V subbòtu mỳ idiòm v klùb.) – Sabato andiamo al club.\n- **хо́бби** (khòbbi) – **hobby**\n- **фи́тнес** (fìtnes) – **fitness**\n- **ме́м** (mèm) – **meme**\n- **ва́й-фа́й** (vàj-fàj) – **Wi-Fi**\n- **креди́тная ка́рта** (kredìtnaia kàrta) – **carta di credito**\n\n## Genere dei prestiti\n- Prestiti in consonante: **maschili** (**клу́б** (klùb), **ме́м** (mèm)).\n- Prestiti in **-о/-и/-е/-у** che non cambiano: spesso **neutri** (**хо́бби** (khòbbi), **такси́** (taksì), **метро́** (metrò), **кафе́** (kafè)), ma **ко́фе** (kòfe) è maschile.\n- **креди́тная ка́рта** (kredìtnaia kàrta) è femminile: l'aggettivo (**креди́тная** (kredìtnaia)) lo mostra.\n\n<!-- frasi: s_399613, s_466961, s_6218144, s_6306891, s_6839328 -->",
+    "explanation_md": "## Salutare nel corso della giornata\n- **до́брое у́тро** (dòbroie ùtro) – **buongiorno** (mattina)\n- **до́брый де́нь** (dòbryj dèn) – **buon giorno** (giorno)\n- **до́брый ве́чер** (dòbryj vècer) – **buonasera**\n- **До́брый ве́чер.** (Dòbryj vècer.) – Buonasera!\n- **До́брый де́нь.** (Dòbryj dèn.) – Buongiorno!\n\nCon persone care si dice **приве́т** (privèt). Per scusarti o chiedere permesso: **прости́те** (prostìte) (più cortese di **извини́те** (izvinìte)):\n- **Прости́те, э́то ме́сто ещё свобо́дно?** (Prostìte, èto mèsto iessciò svobòdno?) – Scusate, questo posto è ancora libero?\n- **Прости́те, не могу́.** (Prostìte, ne mogù.) – Scusate, non posso.\n\n## Parole internazionali\nIl russo ha molti prestiti. La maggior parte si legge facilmente:\n- **клу́б** (klùb) – **club**: **В суббо́ту мы́ идём в клу́б.** (V subbòtu mỳ idiòm v klùb.) – Sabato andiamo al club.\n- **хо́бби** (khòbbi) – **hobby**\n- **фи́тнес** (fìtnes) – **fitness**\n- **телефо́н** (telefòn) – **telefono**\n- **систе́ма** (sistèma) – **sistema**\n- **креди́тная ка́рта** (kredìtnaia kàrta) – **carta di credito**\n\n## Genere dei prestiti\n- Prestiti in consonante: **maschili** (**клу́б** (klùb), **телефо́н** (telefòn)).\n- Prestiti in **-о/-и/-е/-у** che non cambiano: spesso **neutri** (**хо́бби** (khòbbi), **такси́** (taksì), **метро́** (metrò), **кафе́** (kafè)), ma **ко́фе** (kòfe) è maschile.\n- **креди́тная ка́рта** (kredìtnaia kàrta) è un'espressione di due parole, femminile: l'aggettivo (**креди́тная** (kredìtnaia)) lo mostra. **систе́ма** (sistèma) è femminile (in -а).\n\n<!-- frasi: s_399613, s_466961, s_6218144, s_6306891, s_6839328 -->",
     "grammar_tags": [
       "greetings",
       "loanwords"
@@ -17,8 +17,8 @@
       "w_klub",
       "w_khobbi",
       "w_fitnes",
-      "w_mem",
-      "w_vay_fay",
+      "w_telefon",
+      "w_sistema",
       "w_kreditnaya_karta"
     ],
     "review_tags": [

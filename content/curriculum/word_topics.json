@@ -177,6 +177,9 @@
  "w_rossiya": [
   "luoghi"
  ],
+ "w_medlenno": [
+  "avverbi"
+ ],
  "w_zharko": [
   "avverbi"
  ],
@@ -249,6 +252,9 @@
  "w_ot": [
   "direzioni"
  ],
+ "w_videt": [
+  "azioni"
+ ],
  "w_prosto": [
   "avverbi"
  ],
@@ -275,6 +281,9 @@
  ],
  "w_nayti": [
   "azioni"
+ ],
+ "w_raz": [
+  "numeri"
  ],
  "w_nikogda": [
   "tempo"
@@ -324,6 +333,9 @@
  "w_slishkom": [
   "avverbi"
  ],
+ "w_zhdat": [
+  "azioni"
+ ],
  "w_kazhdyy": [
   "grammatica"
  ],
@@ -371,6 +383,9 @@
   "direzioni"
  ],
  "w_staryy": [
+  "descrizioni"
+ ],
+ "w_plokhoy": [
   "descrizioni"
  ],
  "w_neskolko": [
@@ -433,6 +448,9 @@
  "w_mezhdu": [
   "direzioni"
  ],
+ "w_dorogoy": [
+  "soldi"
+ ],
  "w_molodoy": [
   "descrizioni"
  ],
@@ -454,11 +472,20 @@
  "w_nichego": [
   "grammatica"
  ],
+ "w_voyti": [
+  "movimento"
+ ],
  "w_uchit": [
   "lavoro-scuola"
  ],
+ "w_svobodnyy": [
+  "descrizioni"
+ ],
  "w_malo": [
   "avverbi"
+ ],
+ "w_gotovit": [
+  "cibo-bevande"
  ],
  "w_shest": [
   "numeri"
@@ -471,6 +498,9 @@
  ],
  "w_platit": [
   "soldi"
+ ],
+ "w_bolet": [
+  "salute"
  ],
  "w_normalno": [
   "avverbi"
@@ -549,6 +579,9 @@
  ],
  "w_gromkiy": [
   "descrizioni"
+ ],
+ "w_paket": [
+  "soldi"
  ],
  "w_gromko": [
   "avverbi"
@@ -719,9 +752,6 @@
  "w_davat": [
   "azioni"
  ],
- "w_chyom": [
-  "grammatica"
- ],
  "w_sobiratsya": [
   "azioni"
  ],
@@ -742,6 +772,9 @@
  ],
  "w_uyti": [
   "movimento"
+ ],
+ "w_tut": [
+  "direzioni"
  ],
  "w_ubit": [
   "azioni"
@@ -778,6 +811,9 @@
  ],
  "w_mir": [
   "concetti"
+ ],
+ "w_slushat": [
+  "comunicazione"
  ],
  "w_kniga": [
   "lavoro-scuola"
@@ -826,6 +862,9 @@
  ],
  "w_chuvstvovat": [
   "emozioni"
+ ],
+ "w_khodit": [
+  "movimento"
  ],
  "w_vmeste": [
   "avverbi"
@@ -995,11 +1034,17 @@
  "w_silnyy": [
   "descrizioni"
  ],
+ "w_para": [
+  "numeri"
+ ],
  "w_svet": [
   "concetti"
  ],
  "w_pro": [
   "grammatica"
+ ],
+ "w_nastoyashchiy": [
+  "descrizioni"
  ],
  "w_nakhoditsya": [
   "azioni"
@@ -1012,6 +1057,9 @@
  ],
  "w_dostatochno": [
   "avverbi"
+ ],
+ "w_dobryy": [
+  "descrizioni"
  ],
  "w_provesti": [
   "azioni"
@@ -1142,6 +1190,9 @@
  "w_ostanovitsya": [
   "azioni"
  ],
+ "w_kompaniya": [
+  "persone"
+ ],
  "w_dovolno": [
   "avverbi"
  ],
@@ -1156,6 +1207,9 @@
  ],
  "w_snachala": [
   "tempo"
+ ],
+ "w_skoryy": [
+  "descrizioni"
  ],
  "w_pust": [
   "grammatica"
@@ -1174,6 +1228,9 @@
  ],
  "w_postavit": [
   "azioni"
+ ],
+ "w_klass": [
+  "lavoro-scuola"
  ],
  "w_okazatsya": [
   "azioni"
@@ -1328,6 +1385,9 @@
  "w_glavnyy": [
   "descrizioni"
  ],
+ "w_dusha": [
+  "emozioni"
+ ],
  "w_udatsya": [
   "azioni"
  ],
@@ -1409,6 +1469,15 @@
  "w_raznyy": [
   "descrizioni"
  ],
+ "w_tsentr": [
+  "luoghi"
+ ],
+ "w_forma": [
+  "concetti"
+ ],
+ "w_uspet": [
+  "azioni"
+ ],
  "w_korotkiy": [
   "descrizioni"
  ],
@@ -1444,6 +1513,9 @@
  ],
  "w_krichat": [
   "comunicazione"
+ ],
+ "w_kamen": [
+  "natura"
  ],
  "w_pochuvstvovat": [
   "emozioni"
@@ -1520,11 +1592,17 @@
  "w_spokoyno": [
   "avverbi"
  ],
+ "w_polozhenie": [
+  "concetti"
+ ],
  "w_prislat": [
   "azioni"
  ],
  "w_vlast": [
   "societa"
+ ],
+ "w_deystvie": [
+  "concetti"
  ],
  "w_libo": [
   "grammatica"
@@ -1558,6 +1636,9 @@
  ],
  "w_trud": [
   "lavoro-scuola"
+ ],
+ "w_udar": [
+  "concetti"
  ],
  "w_chelovecheskiy": [
   "descrizioni"
@@ -1598,6 +1679,9 @@
  "w_boy": [
   "societa"
  ],
+ "w_sredstvo": [
+  "concetti"
+ ],
  "w_zolotoy": [
   "colori"
  ],
@@ -1634,6 +1718,9 @@
  "w_rabochiy": [
   "descrizioni"
  ],
+ "w_voennyy": [
+  "descrizioni"
+ ],
  "w_ulybnutsya": [
   "emozioni"
  ],
@@ -1642,6 +1729,12 @@
  ],
  "w_glava": [
   "concetti"
+ ],
+ "w_guba": [
+  "corpo"
+ ],
+ "w_partiya": [
+  "societa"
  ],
  "w_simpatichnyy": [
   "descrizioni"
@@ -1660,6 +1753,9 @@
  ],
  "w_vozle": [
   "direzioni"
+ ],
+ "w_general": [
+  "persone"
  ],
  "w_glyadet": [
   "azioni"
@@ -1727,25 +1823,10 @@
  "w_kriknut": [
   "comunicazione"
  ],
- "w_pisat_verb": [
-  "azioni"
- ],
  "w_rota": [
   "societa"
  ],
- "w_getero": [
-  "persone"
- ],
  "w_vykhodit_verb": [
   "azioni"
- ],
- "w_sidushka": [
-  "casa"
- ],
- "w_zh": [
-  "grammatica"
- ],
- "w_bezoblachno": [
-  "avverbi"
  ]
 }
