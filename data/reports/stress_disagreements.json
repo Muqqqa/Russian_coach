@@ -1,0 +1,306 @@
+{
+ "generato_da": "scripts/enrich_wiktextract.py",
+ "nota": "OpenRussian NON e' stato sovrascritto. Da verificare da qa-russian.",
+ "accenti_lemma": [],
+ "forme": [
+  {
+   "id": "w_god",
+   "ru": "год",
+   "key": "prep_sg",
+   "openrussian": "году́",
+   "wiktextract": [
+    "го́де"
+   ]
+  },
+  {
+   "id": "w_novyy",
+   "ru": "новый",
+   "key": "comp",
+   "openrussian": "нове́е",
+   "wiktextract": [
+    "но́вее",
+    "но́вей"
+   ]
+  },
+  {
+   "id": "w_molodoy",
+   "ru": "молодой",
+   "key": "sup",
+   "openrussian": "молодейший",
+   "wiktextract": [
+    "са́мый молодо́й"
+   ]
+  },
+  {
+   "id": "w_golodnyy",
+   "ru": "голодный",
+   "key": "short_n",
+   "openrussian": "голо́дно",
+   "wiktextract": [
+    "го́лодно"
+   ]
+  },
+  {
+   "id": "w_sreda",
+   "ru": "среда",
+   "key": "dat_pl",
+   "openrussian": "среда́м",
+   "wiktextract": [
+    "сре́дам"
+   ]
+  },
+  {
+   "id": "w_sreda",
+   "ru": "среда",
+   "key": "ins_pl",
+   "openrussian": "среда́ми",
+   "wiktextract": [
+    "сре́дами"
+   ]
+  },
+  {
+   "id": "w_sreda",
+   "ru": "среда",
+   "key": "prep_pl",
+   "openrussian": "среда́х",
+   "wiktextract": [
+    "сре́дах"
+   ]
+  },
+  {
+   "id": "w_pora",
+   "ru": "пора",
+   "key": "acc_sg",
+   "openrussian": "пору́",
+   "wiktextract": [
+    "по́ру"
+   ]
+  },
+  {
+   "id": "w_proiskhodit",
+   "ru": "происходить",
+   "key": "presfut_3sg",
+   "openrussian": "происходи́т",
+   "wiktextract": [
+    "происхо́дит"
+   ]
+  },
+  {
+   "id": "w_proiskhodit",
+   "ru": "происходить",
+   "key": "presfut_2pl",
+   "openrussian": "происходи́те",
+   "wiktextract": [
+    "происхо́дите"
+   ]
+  },
+  {
+   "id": "w_silnyy",
+   "ru": "сильный",
+   "key": "short_m",
+   "openrussian": "силён",
+   "wiktextract": [
+    "си́лен"
+   ]
+  },
+  {
+   "id": "w_sobstvennyy",
+   "ru": "собственный",
+   "key": "short_n",
+   "openrussian": "со́бственна",
+   "wiktextract": [
+    "со́бственно"
+   ]
+  },
+  {
+   "id": "w_sobstvennyy",
+   "ru": "собственный",
+   "key": "short_f",
+   "openrussian": "со́бственно",
+   "wiktextract": [
+    "со́бственна"
+   ]
+  },
+  {
+   "id": "w_bolnoy",
+   "ru": "больной",
+   "key": "comp",
+   "openrussian": "больн",
+   "wiktextract": [
+    "больне́е",
+    "больне́й"
+   ]
+  },
+  {
+   "id": "w_pol",
+   "ru": "пол",
+   "key": "nom_pl",
+   "openrussian": "полы́",
+   "wiktextract": [
+    "по́лы"
+   ]
+  },
+  {
+   "id": "w_pol",
+   "ru": "пол",
+   "key": "acc_pl",
+   "openrussian": "полы́",
+   "wiktextract": [
+    "по́лы"
+   ]
+  },
+  {
+   "id": "w_pol",
+   "ru": "пол",
+   "key": "prep_sg",
+   "openrussian": "полу́",
+   "wiktextract": [
+    "по́ле"
+   ]
+  },
+  {
+   "id": "w_velikiy",
+   "ru": "великий",
+   "key": "comp",
+   "openrussian": "бо́льше;бо́лее",
+   "wiktextract": [
+    "бо́лее вели́кий",
+    "бо́льший"
+   ]
+  },
+  {
+   "id": "w_korotkiy",
+   "ru": "короткий",
+   "key": "sup",
+   "openrussian": "кратча́йший",
+   "wiktextract": [
+    "са́мый коро́ткий"
+   ]
+  },
+  {
+   "id": "w_dlinnyy",
+   "ru": "длинный",
+   "key": "short_n",
+   "openrussian": "длинно́",
+   "wiktextract": [
+    "дли́нно"
+   ]
+  },
+  {
+   "id": "w_krupnyy",
+   "ru": "крупный",
+   "key": "short_pl",
+   "openrussian": "кру́пны́",
+   "wiktextract": [
+    "крупны́",
+    "кру́пны"
+   ]
+  },
+  {
+   "id": "w_koleno",
+   "ru": "колено",
+   "key": "nom_pl",
+   "openrussian": "коле́ни",
+   "wiktextract": [
+    "коле́нья"
+   ]
+  },
+  {
+   "id": "w_koleno",
+   "ru": "колено",
+   "key": "gen_pl",
+   "openrussian": "коле́ней",
+   "wiktextract": [
+    "коле́ньев"
+   ]
+  },
+  {
+   "id": "w_koleno",
+   "ru": "колено",
+   "key": "dat_pl",
+   "openrussian": "коле́ням",
+   "wiktextract": [
+    "коле́ньям"
+   ]
+  },
+  {
+   "id": "w_koleno",
+   "ru": "колено",
+   "key": "acc_pl",
+   "openrussian": "коле́ни",
+   "wiktextract": [
+    "коле́нья"
+   ]
+  },
+  {
+   "id": "w_koleno",
+   "ru": "колено",
+   "key": "ins_pl",
+   "openrussian": "коле́нями",
+   "wiktextract": [
+    "коле́ньями"
+   ]
+  },
+  {
+   "id": "w_koleno",
+   "ru": "колено",
+   "key": "prep_pl",
+   "openrussian": "коле́нях",
+   "wiktextract": [
+    "коле́ньях"
+   ]
+  },
+  {
+   "id": "w_ryad",
+   "ru": "ряд",
+   "key": "prep_sg",
+   "openrussian": "ряду́",
+   "wiktextract": [
+    "ря́де"
+   ]
+  },
+  {
+   "id": "w_khudoy",
+   "ru": "худой",
+   "key": "comp",
+   "openrussian": "худе́е",
+   "wiktextract": [
+    "ху́же"
+   ]
+  },
+  {
+   "id": "w_khudoy",
+   "ru": "худой",
+   "key": "sup",
+   "openrussian": "худе́йший",
+   "wiktextract": [
+    "ху́дший"
+   ]
+  },
+  {
+   "id": "w_khudoy",
+   "ru": "худой",
+   "key": "short_pl",
+   "openrussian": "худы́",
+   "wiktextract": [
+    "ху́ды"
+   ]
+  }
+ ],
+ "genere_animato": [
+  {
+   "id": "w_litso",
+   "ru": "лицо",
+   "field": "animate",
+   "openrussian": false,
+   "wiktextract": true
+  },
+  {
+   "id": "w_koshka",
+   "ru": "кошка",
+   "field": "animate",
+   "openrussian": true,
+   "wiktextract": false
+  }
+ ]
+}

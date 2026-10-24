@@ -536,12 +536,30 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_637069",
    "s_790889",
    "s_5456187"
-  ]
+  ],
+  "forms": {
+   "m_nom": "он, on",
+   "n_nom": "оно́, onó",
+   "f_nom": "она́, oná",
+   "m_gen": "его́, него́ ²",
+   "n_gen": "его́, него́ ²",
+   "m_dat": "ему́, нему́",
+   "n_dat": "ему́, нему́",
+   "f_dat": "ей, ней",
+   "m_acc": "его́, него́ ²",
+   "n_acc": "его́, него́ ²",
+   "m_ins": "им, ним",
+   "n_ins": "им, ним",
+   "f_ins": "ей, ней, е́ю, не́ю ³, jej, nej, jéju, néju",
+   "m_prep": "нём, njom",
+   "n_prep": "нём, njom",
+   "f_prep": "ней, nej"
+  }
  },
  {
   "id": "w_zhe",
@@ -620,7 +638,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "aspect": "perfective",
    "aspect_partner": "давать",
@@ -641,6 +659,9 @@
    "s_2517838",
    "s_2517839",
    "s_5893231"
+  ],
+  "it": [
+   "dare"
   ]
  },
  {
@@ -885,7 +906,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "ну́жен",
    "short_f": "нужна́",
@@ -914,7 +935,8 @@
    "pl_dat": "ну́жным",
    "pl_acc": "ну́жные, ну́жных",
    "pl_ins": "ну́жными",
-   "pl_prep": "ну́жных"
+   "pl_prep": "ну́жных",
+   "comp": "нужне́е, нужне́й"
   },
   "examples": [
    "s_2053925",
@@ -1627,14 +1649,21 @@
   ],
   "pos": "adv",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "cibo-bevande",
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "examples": [
    "s_824039",
    "s_987934",
    "s_2171722"
+  ],
+  "it": [
+   "qui",
+   "qua"
   ]
  },
  {
@@ -2045,10 +2074,12 @@
   ],
   "pos": "verb",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "salute"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "aspect": "imperfective",
    "aspect_partner": "послушать",
@@ -2084,7 +2115,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -2105,6 +2136,9 @@
    "s_582675",
    "s_1350880",
    "s_1396319"
+  ],
+  "it": [
+   "libro"
   ]
  },
  {
@@ -2118,10 +2152,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo",
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -2191,10 +2228,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "casa",
+   "scuola"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -2310,10 +2350,12 @@
   ],
   "pos": "verb",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "emozioni"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "aspect": "imperfective",
    "aspect_partner": "побояться;забояться",
@@ -2488,7 +2530,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "гото́в",
    "short_f": "гото́ва",
@@ -2517,7 +2559,8 @@
    "pl_dat": "гото́вым",
    "pl_acc": "гото́вые, гото́вых",
    "pl_ins": "гото́выми",
-   "pl_prep": "гото́вых"
+   "pl_prep": "гото́вых",
+   "comp": "гото́вее, гото́вей"
   },
   "examples": [
    "s_533056",
@@ -2536,10 +2579,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "persone"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -2771,10 +2816,12 @@
   ],
   "pos": "verb",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "salute"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "aspect": "imperfective",
    "aspect_partner": "сходить",
@@ -3095,10 +3142,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo",
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -3193,15 +3243,27 @@
   ],
   "pos": "num",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "numeri"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_903023",
    "s_5046025",
    "s_6865230"
-  ]
+  ],
+  "forms": {
+   "pl_nom": "о́ба, о́бе",
+   "m_gen": "обо́его",
+   "n_gen": "обо́его",
+   "pl_gen": "обо́их, обе́их",
+   "pl_dat": "обо́им, обе́им",
+   "pl_acc": "о́ба, о́бе, обо́их, обе́их",
+   "pl_ins": "обо́ими, обе́ими",
+   "pl_prep": "обо́их, обе́их"
+  }
  },
  {
   "id": "w_podumat",
@@ -3399,10 +3461,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "persone"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -3423,6 +3487,9 @@
    "s_1419008",
    "s_2992965",
    "s_3127837"
+  ],
+  "it": [
+   "uomo"
   ]
  },
  {
@@ -3440,12 +3507,15 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_2778788",
    "s_10933116",
    "s_12373137"
-  ]
+  ],
+  "forms": {
+   "comp": "точне́е, точне́й"
+  }
  },
  {
   "id": "w_sledovat",
@@ -3558,7 +3628,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -3579,6 +3649,9 @@
    "s_1910262",
    "s_3035338",
    "s_3035340"
+  ],
+  "it": [
+   "storia"
   ]
  },
  {
@@ -3591,10 +3664,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tecnologia"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -3615,6 +3690,9 @@
    "s_5351028",
    "s_5552982",
    "s_5692185"
+  ],
+  "it": [
+   "telefono"
   ]
  },
  {
@@ -3706,10 +3784,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -4037,15 +4117,20 @@
   ],
   "pos": "adv",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_1749708",
    "s_2082100",
    "s_3043020"
-  ]
+  ],
+  "forms": {
+   "comp": "скоре́е, скоре́й"
+  }
  },
  {
   "id": "w_ukhodit",
@@ -4271,10 +4356,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "famiglia"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -4367,10 +4454,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "trasporti",
+   "viaggi"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -4503,10 +4593,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "emozioni"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -4527,6 +4619,9 @@
    "s_952974",
    "s_3440415",
    "s_3540785"
+  ],
+  "it": [
+   "amore"
   ]
  },
  {
@@ -4683,7 +4778,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "aspect": "imperfective",
    "aspect_partner": "написать",
@@ -4704,6 +4799,9 @@
    "s_424297",
    "s_2771666",
    "s_4674084"
+  ],
+  "it": [
+   "scrivere"
   ]
  },
  {
@@ -4762,7 +4860,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -4783,6 +4881,9 @@
    "s_825773",
    "s_6032132",
    "s_8176966"
+  ],
+  "it": [
+   "terra"
   ]
  },
  {
@@ -4796,10 +4897,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo-libero"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -5059,10 +5162,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -5102,7 +5207,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "comp": "сильне́е",
    "sup": "сильне́йший",
@@ -5139,6 +5244,9 @@
    "s_2418343",
    "s_2618823",
    "s_3851738"
+  ],
+  "it": [
+   "forte"
   ]
  },
  {
@@ -5154,10 +5262,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "abbigliamento",
+   "scuola"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -5195,7 +5306,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "animate": false,
   "forms": {
    "nom_sg": "све́т",
@@ -5215,7 +5326,8 @@
    "s_379121",
    "s_2269855",
    "s_2453345"
-  ]
+  ],
+  "gender": "m"
  },
  {
   "id": "w_pro",
@@ -5248,15 +5360,20 @@
   ],
   "pos": "adv",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_2674384",
    "s_3493475",
    "s_3743828"
-  ]
+  ],
+  "forms": {
+   "comp": "ча́ще"
+  }
  },
  {
   "id": "w_nastoyashchiy",
@@ -5270,10 +5387,12 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "m_nom": "настоя́щий",
    "m_gen": "настоя́щего",
@@ -5316,10 +5435,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "famiglia"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": true,
   "forms": {
@@ -5429,10 +5550,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "numeri",
+   "tempo-libero"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -5528,10 +5652,12 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "persone"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "comp": "добре́е",
    "sup": "добре́йший",
@@ -5568,6 +5694,9 @@
    "s_2012299",
    "s_2968486",
    "s_5875080"
+  ],
+  "it": [
+   "gentile"
   ]
  },
  {
@@ -5664,7 +5793,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -5685,6 +5814,9 @@
    "s_5629196",
    "s_5629198",
    "s_6963185"
+  ],
+  "it": [
+   "forza"
   ]
  },
  {
@@ -5743,7 +5875,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "comp": "вы́ше",
    "sup": "высоча́йший;вы́сший",
@@ -5780,6 +5912,9 @@
    "s_668315",
    "s_1627776",
    "s_1730044"
+  ],
+  "it": [
+   "alto"
   ]
  },
  {
@@ -5812,10 +5947,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "salute"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -5836,6 +5973,9 @@
    "s_1006976",
    "s_1795726",
    "s_3032637"
+  ],
+  "it": [
+   "medico"
   ]
  },
  {
@@ -5853,7 +5993,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "жив",
    "short_f": "жива́",
@@ -5882,7 +6022,8 @@
    "pl_dat": "живы́м",
    "pl_acc": "живы́х, живы́е",
    "pl_ins": "живы́ми",
-   "pl_prep": "живы́х"
+   "pl_prep": "живы́х",
+   "comp": "живе́е, живе́й, живе́йший"
   },
   "examples": [
    "s_903023",
@@ -5999,7 +6140,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -6020,6 +6161,9 @@
    "s_4421644",
    "s_5548643",
    "s_5615609"
+  ],
+  "it": [
+   "causa"
   ]
  },
  {
@@ -6082,10 +6226,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "trasporti",
+   "viaggi"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -6142,10 +6289,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo",
+   "emozioni"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -6166,6 +6316,9 @@
    "s_4440956",
    "s_5470326",
    "s_5665432"
+  ],
+  "it": [
+   "cuore"
   ]
  },
  {
@@ -6329,10 +6482,14 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "lavoro",
+   "salute",
+   "scuola"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -6442,10 +6599,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -6466,6 +6625,9 @@
    "s_1738591",
    "s_2782718",
    "s_5986647"
+  ],
+  "it": [
+   "sera"
   ]
  },
  {
@@ -6478,10 +6640,12 @@
   ],
   "pos": "num",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "numeri"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "m_nom": "второ́й",
    "m_gen": "второ́го",
@@ -6512,6 +6676,9 @@
    "s_3029149",
    "s_5676662",
    "s_7302698"
+  ],
+  "it": [
+   "secondo in una sequenza ordinata"
   ]
  },
  {
@@ -6529,7 +6696,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "animate": false,
   "forms": {
    "nom_sg": "пра́во",
@@ -6549,6 +6716,9 @@
    "s_3173288",
    "s_4949604",
    "s_5822272"
+  ],
+  "it": [
+   "diritto"
   ]
  },
  {
@@ -6562,14 +6732,19 @@
   ],
   "pos": "adv",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "examples": [
    "s_3543631",
    "s_5631120",
    "s_5631121"
+  ],
+  "it": [
+   "da molto tempo"
   ]
  },
  {
@@ -6655,10 +6830,12 @@
   ],
   "pos": "num",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "numeri"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -6673,10 +6850,19 @@
    "dat_pl": "ты́сячам",
    "acc_pl": "ты́сячи",
    "ins_pl": "ты́сячами",
-   "prep_pl": "ты́сячах"
+   "prep_pl": "ты́сячах",
+   "pl_nom": "ты́сячи",
+   "pl_gen": "ты́сяч",
+   "pl_dat": "ты́сячам",
+   "pl_acc": "ты́сячи",
+   "pl_ins": "ты́сячами",
+   "pl_prep": "ты́сячах"
   },
   "examples": [
    "s_5057202"
+  ],
+  "it": [
+   "mille"
   ]
  },
  {
@@ -6903,10 +7089,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -7018,7 +7206,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "short_m": "бе́л",
    "short_f": "бела́",
@@ -7047,12 +7235,16 @@
    "pl_dat": "бе́лым",
    "pl_acc": "бе́лые, бе́лых",
    "pl_ins": "бе́лыми",
-   "pl_prep": "бе́лых"
+   "pl_prep": "бе́лых",
+   "comp": "беле́е, беле́й"
   },
   "examples": [
    "s_610320",
    "s_3324761",
    "s_3496105"
+  ],
+  "it": [
+   "bianco"
   ]
  },
  {
@@ -7136,10 +7328,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -7160,6 +7354,9 @@
    "s_3789310",
    "s_4785579",
    "s_5328942"
+  ],
+  "it": [
+   "sangue"
   ]
  },
  {
@@ -7304,10 +7501,12 @@
   ],
   "pos": "adv",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_4250063",
    "s_5188961",
@@ -7328,10 +7527,13 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "colori",
+   "lavoro"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "чёрен",
    "short_f": "черна́",
@@ -7360,7 +7562,9 @@
    "pl_dat": "чёрным",
    "pl_acc": "чёрные, чёрных",
    "pl_ins": "чёрными",
-   "pl_prep": "чёрных"
+   "pl_prep": "чёрных",
+   "comp": "черне́е, черне́й",
+   "sup": "черне́йший"
   },
   "examples": [
    "s_4728557",
@@ -7481,7 +7685,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -7502,6 +7706,9 @@
    "s_1793201",
    "s_2077291",
    "s_3579969"
+  ],
+  "it": [
+   "sogno"
   ]
  },
  {
@@ -7570,10 +7777,12 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "colori"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "comp": "красне́е",
    "sup": "красне́йший",
@@ -7610,6 +7819,9 @@
    "s_1971744",
    "s_5328942",
    "s_5885575"
+  ],
+  "it": [
+   "rosso"
   ]
  },
  {
@@ -7660,10 +7872,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "lavoro"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -7697,10 +7911,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "natura"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -7738,12 +7954,15 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_3274855",
    "s_5134797",
    "s_5679427"
-  ]
+  ],
+  "forms": {
+   "comp": "дово́льнее, дово́льней"
+  }
  },
  {
   "id": "w_telo",
@@ -7755,10 +7974,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -7936,10 +8157,12 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "trasporti"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "comp": "скоре́е",
    "sup": "скоре́йший",
@@ -8114,7 +8337,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "стра́нен",
    "short_f": "странна́",
@@ -8143,7 +8366,8 @@
    "pl_dat": "стра́нным",
    "pl_acc": "стра́нные, стра́нных",
    "pl_ins": "стра́нными",
-   "pl_prep": "стра́нных"
+   "pl_prep": "стра́нных",
+   "comp": "странне́е, странне́й"
   },
   "examples": [
    "s_5393806",
@@ -8203,10 +8427,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "scuola"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -8227,6 +8453,10 @@
    "s_646950",
    "s_5205066",
    "s_5976275"
+  ],
+  "it": [
+   "aula",
+   "classe"
   ]
  },
  {
@@ -8239,10 +8469,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -8263,6 +8495,9 @@
    "s_1779342",
    "s_4398318",
    "s_5788513"
+  ],
+  "it": [
+   "capello"
   ]
  },
  {
@@ -8412,7 +8647,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "цел",
    "short_f": "цела́",
@@ -8441,7 +8676,8 @@
    "pl_dat": "це́лым",
    "pl_acc": "це́лых, це́лые",
    "pl_ins": "це́лыми",
-   "pl_prep": "це́лых"
+   "pl_prep": "це́лых",
+   "comp": "целе́е, целе́й"
   },
   "examples": [
    "s_6841084",
@@ -8539,12 +8775,15 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_869117",
    "s_2798894",
    "s_5865599"
-  ]
+  ],
+  "forms": {
+   "comp": "ле́гче"
+  }
  },
  {
   "id": "w_vstat",
@@ -8597,10 +8836,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "salute"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -8768,11 +9009,14 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_2035768",
    "s_4081255"
-  ]
+  ],
+  "forms": {
+   "comp": "ясне́е, ясне́й"
+  }
  },
  {
   "id": "w_golos",
@@ -8823,10 +9067,12 @@
   ],
   "pos": "adv",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_5090835",
    "s_5090836"
@@ -8963,10 +9209,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "trasporti"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -9128,10 +9376,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "casa"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -9152,6 +9402,9 @@
    "s_824039",
    "s_4067962",
    "s_4729102"
+  ],
+  "it": [
+   "appartamento"
   ]
  },
  {
@@ -9200,10 +9453,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "persone"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -9271,10 +9526,12 @@
   ],
   "pos": "num",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "numeri"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "m_nom": "тре́тий",
    "m_gen": "тре́тьего",
@@ -9303,6 +9560,9 @@
   },
   "examples": [
    "s_5976275"
+  ],
+  "it": [
+   "terzo in una sequenza ordinata"
   ]
  },
  {
@@ -9352,10 +9612,12 @@
   ],
   "pos": "verb",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "emozioni"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "aspect": "imperfective",
    "aspect_partner": "засмеяться;посмеяться",
@@ -9454,10 +9716,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "natura"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -9589,7 +9853,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -9605,7 +9869,10 @@
    "acc_pl": "сте́ны",
    "ins_pl": "сте́нами",
    "prep_pl": "сте́нах"
-  }
+  },
+  "it": [
+   "muro"
+  ]
  },
  {
   "id": "w_ogon",
@@ -9622,10 +9889,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "natura"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -9752,7 +10021,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -9773,6 +10042,9 @@
    "s_498741",
    "s_795149",
    "s_3585917"
+  ],
+  "it": [
+   "cielo"
   ]
  },
  {
@@ -9968,10 +10240,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -10009,7 +10283,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "short_m": "откры́т",
    "short_f": "откры́та",
@@ -10044,6 +10318,9 @@
    "s_2478272",
    "s_3059032",
    "s_3059033"
+  ],
+  "it": [
+   "aperto"
   ]
  },
  {
@@ -10153,7 +10430,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "о́бщ",
    "short_f": "обща́",
@@ -10182,7 +10459,8 @@
    "pl_dat": "о́бщим",
    "pl_acc": "о́бщих, о́бщие",
    "pl_ins": "о́бщими",
-   "pl_prep": "о́бщих"
+   "pl_prep": "о́бщих",
+   "comp": "обще́е, обще́й"
   },
   "examples": [
    "s_5972947",
@@ -10484,10 +10762,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "persone"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -10599,10 +10879,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "persone"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -10623,6 +10905,9 @@
    "s_3801858",
    "s_5573854",
    "s_5573855"
+  ],
+  "it": [
+   "popolo"
   ]
  },
  {
@@ -10788,7 +11073,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "огро́мен",
    "short_f": "огро́мна",
@@ -10817,7 +11102,8 @@
    "pl_dat": "огро́мным",
    "pl_acc": "огро́мные, огро́мных",
    "pl_ins": "огро́мными",
-   "pl_prep": "огро́мных"
+   "pl_prep": "огро́мных",
+   "comp": "огро́мнее, огро́мней"
   },
   "examples": [
    "s_3228633",
@@ -10893,10 +11179,12 @@
   ],
   "pos": "adv",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "numeri"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_5387656",
    "s_6835012",
@@ -10916,7 +11204,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -10937,6 +11225,9 @@
    "s_1354600",
    "s_3578041",
    "s_5594812"
+  ],
+  "it": [
+   "giornale"
   ]
  },
  {
@@ -11166,10 +11457,12 @@
   ],
   "pos": "adv",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "direzioni"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_1576482",
    "s_5628276",
@@ -11189,10 +11482,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "natura"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -11292,7 +11587,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "m_nom": "ста́рший",
    "m_gen": "ста́ршего",
@@ -11317,7 +11612,9 @@
    "pl_dat": "ста́ршим",
    "pl_acc": "ста́ршие, ста́рших",
    "pl_ins": "ста́ршими",
-   "pl_prep": "ста́рших"
+   "pl_prep": "ста́рших",
+   "comp": "ста́рше",
+   "sup": "са́мый ста́рший"
   },
   "examples": [
    "s_2519411",
@@ -11335,10 +11632,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "natura"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -11359,6 +11658,9 @@
    "s_2809302",
    "s_5591772",
    "s_6329101"
+  ],
+  "it": [
+   "mare"
   ]
  },
  {
@@ -11422,10 +11724,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "natura"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -11446,6 +11750,9 @@
    "s_1559898",
    "s_2809302",
    "s_6884103"
+  ],
+  "it": [
+   "fiume"
   ]
  },
  {
@@ -11463,7 +11770,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "изве́стен",
    "short_f": "изве́стна",
@@ -11492,7 +11799,9 @@
    "pl_dat": "изве́стным",
    "pl_acc": "изве́стные, изве́стных",
    "pl_ins": "изве́стными",
-   "pl_prep": "изве́стных"
+   "pl_prep": "изве́стных",
+   "comp": "изве́стнее, изве́стней",
+   "sup": "изве́стнейший"
   },
   "examples": [
    "s_5927529",
@@ -11642,7 +11951,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "comp": "тяжеле́е",
    "sup": "тяжеле́йший",
@@ -11679,6 +11988,9 @@
    "s_1464801",
    "s_2291298",
    "s_4375162"
+  ],
+  "it": [
+   "pesante"
   ]
  },
  {
@@ -11732,7 +12044,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "ра́зен",
    "short_f": "ра́зна",
@@ -11761,7 +12073,8 @@
    "pl_dat": "ра́зным",
    "pl_acc": "ра́зные, ра́зных",
    "pl_ins": "ра́зными",
-   "pl_prep": "ра́зных"
+   "pl_prep": "ра́зных",
+   "comp": "ра́знее, ра́зней"
   },
   "examples": [
    "s_5483918",
@@ -11781,10 +12094,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tecnologia"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -11818,10 +12133,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "animate": false,
   "forms": {
    "nom_sg": "зу́б",
@@ -11836,7 +12153,11 @@
    "acc_pl": "зу́бы",
    "ins_pl": "зуба́ми",
    "prep_pl": "зуба́х"
-  }
+  },
+  "gender": "m",
+  "it": [
+   "dente"
+  ]
  },
  {
   "id": "w_forma",
@@ -11852,10 +12173,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "abbigliamento"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -11889,10 +12212,12 @@
   ],
   "pos": "verb",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "aspect": "perfective",
    "aspect_partner": "успевать",
@@ -12056,7 +12381,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "пу́ст",
    "short_f": "пуста́",
@@ -12085,7 +12410,8 @@
    "pl_dat": "пусты́м",
    "pl_acc": "пусты́х, пусты́е",
    "pl_ins": "пусты́ми",
-   "pl_prep": "пусты́х"
+   "pl_prep": "пусты́х",
+   "comp": "пусте́е, пусте́й"
   },
   "examples": [
    "s_505529",
@@ -12120,10 +12446,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "natura"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -12244,10 +12572,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo",
+   "persone"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "animate": false,
   "forms": {
    "nom_sg": "чле́н",
@@ -12265,7 +12596,8 @@
   },
   "examples": [
    "s_2080232"
-  ]
+  ],
+  "gender": "m"
  },
  {
   "id": "w_dlinnyy",
@@ -12421,10 +12753,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -12443,6 +12777,9 @@
   },
   "examples": [
    "s_4492816"
+  ],
+  "it": [
+   "orecchio"
   ]
  },
  {
@@ -12462,7 +12799,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "чи́ст",
    "short_f": "чиста́",
@@ -12491,7 +12828,8 @@
    "pl_dat": "чи́стым",
    "pl_acc": "чи́стые, чи́стых",
    "pl_ins": "чи́стыми",
-   "pl_prep": "чи́стых"
+   "pl_prep": "чи́стых",
+   "comp": "чи́ще, чисте́йший"
   },
   "examples": [
    "s_1051789",
@@ -12510,10 +12848,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo",
+   "natura"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -12529,7 +12870,10 @@
    "acc_pl": "носы́",
    "ins_pl": "носа́ми",
    "prep_pl": "носа́х"
-  }
+  },
+  "it": [
+   "naso"
+  ]
  },
  {
   "id": "w_dvoe",
@@ -12541,15 +12885,25 @@
   ],
   "pos": "num",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "numeri"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_3291356",
    "s_5493898",
    "s_5672636"
-  ]
+  ],
+  "forms": {
+   "pl_nom": "дво́е",
+   "pl_gen": "двои́х",
+   "pl_dat": "двои́м",
+   "pl_acc": "дво́е, двои́х",
+   "pl_ins": "двои́ми",
+   "pl_prep": "двои́х"
+  }
  },
  {
   "id": "w_krichat",
@@ -12599,10 +12953,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -12636,10 +12992,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "salute",
+   "tecnologia"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -12811,10 +13170,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "famiglia",
+   "persone"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -12853,7 +13215,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "animate": false,
   "forms": {
    "nom_sg": "ша́г",
@@ -12873,7 +13235,8 @@
    "s_5573974",
    "s_5867308",
    "s_5905822"
-  ]
+  ],
+  "gender": "m"
  },
  {
   "id": "w_vzglyad",
@@ -12926,7 +13289,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -12947,6 +13310,9 @@
    "s_5699976",
    "s_6009096",
    "s_11934550"
+  ],
+  "it": [
+   "soldato"
   ]
  },
  {
@@ -12978,10 +13344,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "cibo-bevande"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -13014,10 +13382,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "persone"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -13054,7 +13424,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "обы́чен",
    "short_f": "обы́чна",
@@ -13083,7 +13453,8 @@
    "pl_dat": "обы́чным",
    "pl_acc": "обы́чные, обы́чных",
    "pl_ins": "обы́чными",
-   "pl_prep": "обы́чных"
+   "pl_prep": "обы́чных",
+   "comp": "обы́чнее, обы́чней"
   },
   "examples": [
    "s_468917",
@@ -13103,10 +13474,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "cibo-bevande"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -13127,6 +13500,9 @@
    "s_424959",
    "s_1414307",
    "s_2783172"
+  ],
+  "it": [
+   "pane"
   ]
  },
  {
@@ -13175,10 +13551,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "meteo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "nom_sg": "ве́тер",
    "gen_sg": "ве́тра",
@@ -13292,10 +13670,12 @@
   ],
   "pos": "adv",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0"
  },
  {
   "id": "w_dukh",
@@ -13348,14 +13728,19 @@
   ],
   "pos": "num",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "numeri"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "examples": [
    "s_3575213",
    "s_5605022",
    "s_6686906"
+  ],
+  "it": [
+   "venti"
   ]
  },
  {
@@ -13389,10 +13774,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "emozioni"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -13429,10 +13816,12 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "famiglia"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "m_nom": "родно́й",
    "m_gen": "родно́го",
@@ -13475,10 +13864,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "numeri",
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -13511,10 +13903,14 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "abbigliamento",
+   "tecnologia",
+   "trasporti"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -13568,10 +13964,12 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "colori"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "comp": "зелене́е",
    "sup": "зелене́йший",
@@ -13608,6 +14006,9 @@
    "s_448078",
    "s_3522383",
    "s_5891187"
+  ],
+  "it": [
+   "verde"
   ]
  },
  {
@@ -13864,12 +14265,15 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_5495544",
    "s_5512687",
    "s_6901343"
-  ]
+  ],
+  "forms": {
+   "comp": "споко́йнее, споко́йней"
+  }
  },
  {
   "id": "w_polozhenie",
@@ -13885,10 +14289,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo-libero"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -13988,12 +14394,20 @@
   ],
   "pos": "num",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "numeri"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "examples": [
    "s_446126"
+  ],
+  "forms": {
+   "pl_gen": "со́т"
+  },
+  "it": [
+   "cento"
   ]
  },
  {
@@ -14010,10 +14424,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo-libero"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -14065,7 +14481,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -14086,6 +14502,9 @@
    "s_473726",
    "s_1916824",
    "s_5482946"
+  ],
+  "it": [
+   "esercito"
   ]
  },
  {
@@ -14265,7 +14684,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "comp": "темне́е",
    "sup": "темне́йший",
@@ -14302,6 +14721,9 @@
    "s_2517924",
    "s_2577623",
    "s_2734898"
+  ],
+  "it": [
+   "scuro"
   ]
  },
  {
@@ -14336,10 +14758,12 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "emozioni"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "стра́шен",
    "short_f": "страшна́",
@@ -14368,7 +14792,9 @@
    "pl_dat": "стра́шным",
    "pl_acc": "стра́шные, стра́шных",
    "pl_ins": "стра́шными",
-   "pl_prep": "стра́шных"
+   "pl_prep": "стра́шных",
+   "comp": "страшне́е, страшне́й",
+   "sup": "страшне́йший"
   },
   "examples": [
    "s_5826055",
@@ -14504,10 +14930,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "salute"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -14659,16 +15087,27 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
    "nom_sg": "гру́дь",
    "nom_pl": "гру́ди",
-   "gen_pl": "груде́й"
+   "gen_pl": "груде́й",
+   "gen_sg": "груди́, гру́ди",
+   "dat_sg": "груди́, гру́ди",
+   "dat_pl": "грудя́м",
+   "acc_sg": "гру́дь",
+   "acc_pl": "гру́ди",
+   "ins_sg": "гру́дью",
+   "ins_pl": "грудя́ми",
+   "prep_sg": "груди́, гру́ди",
+   "prep_pl": "грудя́х"
   }
  },
  {
@@ -14702,7 +15141,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -14718,7 +15157,10 @@
    "acc_pl": "о́бщества",
    "ins_pl": "о́бществами",
    "prep_pl": "о́бществах"
-  }
+  },
+  "it": [
+   "società"
+  ]
  },
  {
   "id": "w_plecho",
@@ -14731,10 +15173,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo",
+   "trasporti"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -14859,10 +15304,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "numeri",
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -15033,10 +15481,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "persone"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -15106,10 +15556,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "lavoro",
+   "soldi"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "n",
   "animate": false,
   "forms": {
@@ -15199,10 +15652,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "persone"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -15238,7 +15693,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "comp": "то́лще",
    "sup": "толсте́йший",
@@ -15275,6 +15730,9 @@
    "s_2762311",
    "s_2762312",
    "s_4134592"
+  ],
+  "it": [
+   "grasso"
   ]
  },
  {
@@ -15287,10 +15745,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "lavoro"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -15407,10 +15867,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "persone",
+   "tecnologia"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -15444,10 +15907,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "casa"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -15660,10 +16125,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "natura"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "nom_sg": "бе́рег",
    "gen_sg": "бе́рега",
@@ -15778,10 +16245,12 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "lavoro"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "вое́нен",
    "short_f": "вое́нна",
@@ -15884,10 +16353,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "casa"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -15953,10 +16424,12 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "colori"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "comp": "желте́е",
    "sup": "желте́йший",
@@ -15992,6 +16465,9 @@
   "examples": [
    "s_4617842",
    "s_5654494"
+  ],
+  "it": [
+   "giallo"
   ]
  },
  {
@@ -16004,10 +16480,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -16042,10 +16520,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo-libero"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -16160,10 +16640,13 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "lavoro",
+   "persone"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -16184,6 +16667,9 @@
    "s_3817471",
    "s_4128373",
    "s_5683955"
+  ],
+  "it": [
+   "scrittore"
   ]
  },
  {
@@ -16196,10 +16682,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "persone"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": true,
   "forms": {
@@ -16305,10 +16793,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "luoghi"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "gender": "f",
   "animate": false,
   "forms": {
@@ -16323,6 +16813,9 @@
    "s_1791800",
    "s_2024912",
    "s_9157358"
+  ],
+  "it": [
+   "Mosca"
   ]
  },
  {
@@ -16386,10 +16879,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "salute"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -16561,7 +17056,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "comp": "ши́ре",
    "sup": "широча́йший",
@@ -16597,6 +17092,9 @@
   "examples": [
    "s_5485183",
    "s_5485190"
+  ],
+  "it": [
+   "largo"
   ]
  },
  {
@@ -16653,7 +17151,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "m_nom": "госуда́рственный",
    "m_gen": "госуда́рственного",
@@ -16678,7 +17176,11 @@
    "pl_dat": "госуда́рственным",
    "pl_acc": "госуда́рственные, госуда́рственных",
    "pl_ins": "госуда́рственными",
-   "pl_prep": "госуда́рственных"
+   "pl_prep": "госуда́рственных",
+   "short_m": "госуда́рственен, госуда́рствен",
+   "short_n": "госуда́рственно",
+   "short_f": "госуда́рственна",
+   "short_pl": "госуда́рственны"
   }
  },
  {
@@ -16693,10 +17195,12 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "colori"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "short_m": "сер",
    "short_f": "сера́",
@@ -16725,7 +17229,8 @@
    "pl_dat": "се́рым",
    "pl_acc": "се́рые, се́рых",
    "pl_ins": "се́рыми",
-   "pl_prep": "се́рых"
+   "pl_prep": "се́рых",
+   "comp": "сере́е, сере́й"
   },
   "examples": [
    "s_3585917",
@@ -16910,7 +17415,36 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
+  "forms": {
+   "m_nom": "пре́жний",
+   "n_nom": "пре́жнее",
+   "f_nom": "пре́жняя",
+   "pl_nom": "пре́жние",
+   "m_gen": "пре́жнего",
+   "n_gen": "пре́жнего",
+   "f_gen": "пре́жней",
+   "pl_gen": "пре́жних",
+   "m_dat": "пре́жнему",
+   "n_dat": "пре́жнему",
+   "f_dat": "пре́жней",
+   "pl_dat": "пре́жним",
+   "m_acc": "пре́жний, пре́жнего",
+   "n_acc": "пре́жнее",
+   "f_acc": "пре́жнюю",
+   "pl_acc": "пре́жние, пре́жних",
+   "m_ins": "пре́жним",
+   "n_ins": "пре́жним",
+   "f_ins": "пре́жней, пре́жнею",
+   "pl_ins": "пре́жними",
+   "m_prep": "пре́жнем",
+   "n_prep": "пре́жнем",
+   "f_prep": "пре́жней",
+   "pl_prep": "пре́жних",
+   "short_n": "пре́жне",
+   "short_f": "пре́жня",
+   "short_pl": "пре́жни"
+  }
  },
  {
   "id": "w_koridor",
@@ -16923,10 +17457,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "casa"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "m",
   "animate": false,
   "forms": {
@@ -16977,10 +17513,12 @@
   ],
   "pos": "adj",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "tempo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "comp": "ра́ньше",
    "m_nom": "ра́нний",
@@ -17072,7 +17610,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "animate": false,
   "forms": {
    "nom_sg": "литерату́ра",
@@ -17090,6 +17628,9 @@
   },
   "examples": [
    "s_5628723"
+  ],
+  "it": [
+   "letteratura"
   ]
  },
  {
@@ -17151,7 +17692,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "comp": "худе́е",
    "sup": "худе́йший",
@@ -17188,6 +17729,9 @@
    "s_668315",
    "s_3013677",
    "s_4134592"
+  ],
+  "it": [
+   "magro"
   ]
  },
  {
@@ -17200,14 +17744,30 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "cibo-bevande"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "examples": [
    "s_6697415",
    "s_7453598"
-  ]
+  ],
+  "forms": {
+   "nom_pl": "попко́рны",
+   "gen_pl": "попко́рнов",
+   "nom_sg": "попко́рн",
+   "gen_sg": "попко́рна",
+   "dat_sg": "попко́рну",
+   "dat_pl": "попко́рнам",
+   "acc_sg": "попко́рн",
+   "acc_pl": "попко́рны",
+   "ins_sg": "попко́рном",
+   "ins_pl": "попко́рнами",
+   "prep_sg": "попко́рне",
+   "prep_pl": "попко́рнах"
+  }
  },
  {
   "id": "w_taki",
@@ -17334,7 +17894,7 @@
   "topics": [],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | traduzione it da Wikizionario (it.wiktionary.org) via kaikki.org, CC BY-SA",
   "forms": {
    "aspect": "imperfective",
    "aspect_partner": "пописать",
@@ -17350,7 +17910,10 @@
    "past_pl": "пи́сали",
    "imp_sg": "пи́сай",
    "imp_pl": "пи́сайте"
-  }
+  },
+  "it": [
+   "scrivere"
+  ]
  },
  {
   "id": "w_rota",
@@ -17398,10 +17961,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "abbigliamento"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "forms": {
    "nom_pl": "стри́нги",
    "gen_pl": "стри́нгов",
@@ -17514,10 +18079,12 @@
   ],
   "pos": "noun",
   "level": "a2",
-  "topics": [],
+  "topics": [
+   "corpo"
+  ],
   "source": "openrussian",
   "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0",
+  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
   "gender": "f",
   "animate": false,
   "forms": {

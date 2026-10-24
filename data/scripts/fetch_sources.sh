@@ -15,3 +15,9 @@ B=https://downloads.tatoeba.org/exports/per_language
 for f in rus/rus_sentences_detailed rus/rus-ita_links ita/ita_sentences_detailed rus/rus_sentences_CC0; do
   curl -sS -O "$B/$f.tsv.bz2"; bunzip2 -f "$(basename "$f").tsv.bz2"; mv "$(basename "$f").tsv" raw/tatoeba/
 done
+# Wiktextract (en.wiktionary, CC BY-SA 4.0 / GFDL): dump russo post-processato (~950 MB) e Wikizionario (it) russo
+mkdir -p raw/wiktextract
+curl -sS -o raw/wiktextract/kaikki.org-dictionary-Russian.jsonl https://kaikki.org/dictionary/Russian/kaikki.org-dictionary-Russian.jsonl
+curl -sS -o raw/wiktextract/kaikki.org-dictionary-Russo.jsonl https://kaikki.org/itwiktionary/Russo/kaikki.org-dictionary-Russo.jsonl
+# sottoinsieme per i nostri lemmi (dopo build_words.py)
+python3 -I scripts/subset_wiktextract.py raw/wiktextract/kaikki.org-dictionary-Russian.jsonl raw/wiktextract/ru_subset.jsonl

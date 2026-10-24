@@ -23,13 +23,13 @@ CC BY-SA 4.0 per `data/words` e `data/sentences` e per ogni dato derivato (obbli
 - Dump: https://downloads.tatoeba.org/exports/per_language/ — usati `rus/rus_sentences_detailed.tsv.bz2`, `ita/ita_sentences_detailed.tsv.bz2`, `rus/rus-ita_links.tsv.bz2`, `rus/rus_sentences_CC0.tsv.bz2` (TSV, UTF-8, bz2). Aggiornati settimanalmente. Sono state scartate le frasi con autore ignoto (`\N`).
 - Rischio: le frasi sono contributi utente, qualita' variabile; una frase puo' essere ricollocata sotto altra licenza (sez. 6.4), l'attribuzione resta quella dell'export al 2026-10-24.
 
-## Wiktionary / Wiktextract (kaikki.org) — NON USATA (disponibile)
+## Wiktionary / Wiktextract (kaikki.org) — USATA (forme, genere, argomenti, IPA, confronti)
 - Licenza testo Wiktionary: **doppia CC BY-SA 4.0 e GFDL, a scelta** (https://en.wiktionary.org/wiki/Wiktionary:Copyrights, verificata). Si sceglierebbe CC BY-SA 4.0.
 - Wiktextract (codice): MIT (verificata: https://raw.githubusercontent.com/tatuylonen/wiktextract/master/LICENSE); alcuni file di test sotto licenza Wiktionary. I dati estratti su kaikki.org restano contenuto Wiktionary (CC BY-SA/GFDL); il sito non ha una licenza propria separata.
 - Attribuzione: contributori Wiktionary + link alla voce; kaikki.org chiede di citare in ricerca accademica Tatu Ylonen, "Wiktextract: Wiktionary as Machine-Readable Structured Data", LREC 2022, pp. 1317-1325, e gradisce link a kaikki.org.
 - Share-alike: SI. Compatibile con OpenRussian (stessa CC BY-SA 4.0).
 - Dump: https://kaikki.org/dictionary/Russian/index.html (JSONL post-processato, ~905 MB, marcato DEPRECATED "will be removed"); dati grezzi https://kaikki.org/dictionary/rawdata.html (JSONL 24.8 GB, solo edizione inglese, tutte le lingue). Estrazione del 2026-10-21 da dump enwiktionary 2026-10-01.
-- Perche' non usata: OpenRussian + Tatoeba coprono accenti, forme e frasi per i livelli richiesti; Wiktextract aggiungerebbe etimologie/IPA ma anche 905 MB di dati da filtrare. Utilizzabile in seguito (es. per IPA, esempi, verifica degli accenti).
+- Uso: scaricato `kaikki.org-dictionary-Russian.jsonl` (905 MB, estrazione 2026-10-21), filtrato ai nostri lemmi (1127 entry). I record `Word` che ne ricevono dati hanno nell'`attribution` l'indicazione CC BY-SA 4.0 / Wiktextract; la provenienza per chiave e' in `data/extra/wiktextract.json`. Non e' stato scaricato il dump grezzo da 24.8 GB.
 - Italiano: glosse in inglese.
 
 ## Rischi e note
@@ -39,3 +39,9 @@ CC BY-SA 4.0 per `data/words` e `data/sentences` e per ogni dato derivato (obbli
 4. **Scraping delle liste livello** dal sito OpenRussian: poche richieste, dati CC BY-SA e pubblicati come open data; da rifare con l'export ufficiale se si vuole una fonte formale.
 5. **Traduzioni italiane delle parole**: assenti (usare `en`); le frasi hanno `it` da Tatoeba (contributi utente, qualita' variabile).
 6. Dati non filtrati per contenuti sensibili nelle frasi (violenza, ecc.): richiede QA.
+
+## Wikizionario (it.wiktionary.org) via kaikki.org — USATO per `it` (132 parole)
+- Licenza: **CC BY-SA 4.0** ("Il testo e' disponibile secondo la licenza Creative Commons Attribuzione-Condividi allo stesso modo", link https://creativecommons.org/licenses/by-sa/4.0/deed.it dal footer di https://it.wiktionary.org/wiki/Pagina_principale, verificato 2026-10-24; "possono applicarsi condizioni ulteriori"). Nota: la licenza e' dichiarata sulla pagina, la pagina `Wikizionario:Copyright` non esiste.
+- Attribuzione: contributori di Wikizionario, link alla voce; share-alike SI (compatibile con CC BY-SA 4.0 dei nostri dati).
+- Dump: https://kaikki.org/itwiktionary/Russo/kaikki.org-dictionary-Russo.jsonl (1 MB, 2879 sensi, JSONL). Estrazione dell'edizione italiana: stesso strumento Wiktextract.
+- Uso prudente: solo entry a senso unico con pos compatibile; gli altri candidati sono in `data/extra/wiktextract.json`. Qualita' non verificata linguisticamente: richiede QA.
