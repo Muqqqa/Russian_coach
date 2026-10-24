@@ -13,6 +13,7 @@ node schema/validate.mjs exercise content/exercises
 Regole comuni
 - Ogni file `.json` contiene un array di record.
 - Livelli: `zero`, `a1`, `a2`, `b1`, `b2`.
+- Parole: `en` obbligatorio (dalle fonti), `it` facoltativo; l'app mostra `it` se c'è, altrimenti `en`. Frasi: `it` obbligatorio (da Tatoeba).
 - Il russo ha sempre l'accento tonico (U+0301) nei campi `stress`.
 - Ogni record derivato da fonti esterne conserva `source`, `license`, `attribution`.
 - Solo esercizi con `qa_status: "approved"` arrivano all'utente.

@@ -28,7 +28,8 @@ const checks = {
     if (!isStr(r.stress)) e.push("stress mancante");
     else if (r.ru && stripAccent(r.stress).replaceAll("ё", "е") !== r.ru.replaceAll("ё", "е")) e.push("stress non corrisponde a ru");
     if (!isStr(r.translit)) e.push("translit mancante");
-    if (!isStrArr(r.it, 1)) e.push("it deve avere almeno una traduzione");
+    if (!isStrArr(r.en, 1)) e.push("en deve avere almeno una traduzione");
+    if (r.it !== undefined && !isStrArr(r.it)) e.push("it, se presente, deve essere un array di stringhe");
     if (!POS.includes(r.pos)) e.push("pos non valido");
     if (!LEVELS.includes(r.level)) e.push("level non valido");
     if (!isStrArr(r.topics)) e.push("topics deve essere un array di stringhe");

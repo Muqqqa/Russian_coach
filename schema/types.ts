@@ -25,7 +25,8 @@ export interface Word extends Provenance {
   ru: string; // senza accento
   stress: string; // con accento U+0301
   translit: string; // trascrizione latina leggibile da italiani
-  it: string[]; // traduzioni in italiano, la prima è la principale
+  en: string[]; // glosse inglesi dalle fonti, la prima è la principale
+  it?: string[]; // traduzioni italiane, se disponibili (l'app mostra it, altrimenti en)
   pos: Pos;
   gender?: Gender;
   animate?: boolean;
