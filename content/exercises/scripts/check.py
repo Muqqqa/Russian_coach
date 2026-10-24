@@ -73,6 +73,44 @@ for e in ex:
         if bad and not (t == "match" and e["lesson"] in ("l_zero_01","l_zero_02","l_zero_03","l_zero_04","l_zero_05")):
             P(e, "manca accento in «%s»" % bad)
 
+# coerenza con i dati: frasi e parole
+BY_STRESS = {x["stress"]: x for x in S.values()}
+BY_IT = collections.defaultdict(list)
+for x in S.values(): BY_IT[x["it"]].append(x)
+WSTRESS = {w["stress"]: w for w in W.values()}
+for e in ex:
+    p = e["payload"]; t = e["type"]
+    if t == "multiple_choice":
+        q = p["question"]; ans = p["options"][p["correct"]]
+        if q in BY_STRESS and not (ans == BY_STRESS[q]["it"]): P(e, "MC frase: risposta non coincide con la traduzione")
+        if q in BY_IT and not any(ans == x["stress"] for x in BY_IT[q]): P(e, "MC it->ru: risposta non coincide")
+        if q in BY_STRESS:
+            for i, o in enumerate(p["options"]):
+                if i != p["correct"] and o == BY_STRESS[q]["it"]: P(e, "distrattore uguale alla risposta")
+    elif t == "cloze" and e["prompt_it"] == "Completa la frase con la parola mancante.":
+        full = p["text"].replace("___", p["answer"])
+        if full not in BY_STRESS: P(e, "cloze: frase ricostruita non presente nei dati: " + full)
+        elif BY_STRESS[full]["it"] != p["hint_it"]: P(e, "cloze: hint non coincide")
+    elif t == "translate":
+        if p["direction"] == "ru_it" and p["source"] in BY_STRESS and BY_STRESS[p["source"]]["it"] != p["answer"]: P(e, "translate ru_it incoerente")
+        if p["direction"] == "it_ru" and p["source"] in BY_IT and not any(x["stress"] == p["answer"] for x in BY_IT[p["source"]]): P(e, "translate it_ru incoerente")
+    elif t == "dictation":
+        if p["text"] in BY_STRESS and BY_STRESS[p["text"]]["it"] != p["translation_it"]: P(e, "dictation incoerente")
+    elif t == "match":
+        for x in p["pairs"]:
+            if x["ru"] in BY_STRESS and BY_STRESS[x["ru"]]["it"] != x["it"]: P(e, "match frase incoerente")
+# ambiguita' tra esercizi: stessa domanda con risposte diverse
+qa = collections.defaultdict(set)
+ACC = {}
+for e in ex:
+    p = e["payload"]
+    if e["type"] == "multiple_choice": qa[("mc", p["question"])].add(p["options"][p["correct"]])
+    if e["type"] == "translate": qa[("tr", e["prompt_it"], p["direction"], p["source"])].add(p["answer"]); ACC[(e["prompt_it"], p["direction"], p["source"])] = ACC.get((e["prompt_it"], p["direction"], p["source"]), set()) | set(p["accepted"])
+    if e["type"] == "cloze": qa[("cz", p["text"], p.get("hint_it"))].add(p["answer"])
+for k, v in qa.items():
+    if k[0] == "tr" and all(a in ACC[k[1:]] for a in v): continue
+    if len(v) > 1: probs.append(("-", "-", "stessa domanda con risposte diverse: %s -> %s" % (k, v)))
+
 # conteggi
 c_type = collections.Counter(e["type"] for e in ex)
 c_lv = collections.Counter(e["level"] for e in ex)

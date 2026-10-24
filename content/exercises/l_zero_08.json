@@ -1,6 +1,6 @@
 [
  {
-  "id": "e_000252",
+  "id": "e_000253",
   "type": "translate",
   "level": "zero",
   "difficulty": 1,
@@ -31,7 +31,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000253",
+  "id": "e_000254",
   "type": "translate",
   "level": "zero",
   "difficulty": 1,
@@ -64,7 +64,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000254",
+  "id": "e_000255",
   "type": "translate",
   "level": "zero",
   "difficulty": 1,
@@ -94,7 +94,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000255",
+  "id": "e_000256",
   "type": "translate",
   "level": "zero",
   "difficulty": 1,
@@ -130,7 +130,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000256",
+  "id": "e_000257",
   "type": "translate",
   "level": "zero",
   "difficulty": 1,
@@ -161,7 +161,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000257",
+  "id": "e_000258",
   "type": "translate",
   "level": "zero",
   "difficulty": 1,
@@ -198,7 +198,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000258",
+  "id": "e_000259",
   "type": "translate",
   "level": "zero",
   "difficulty": 1,
@@ -229,7 +229,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000259",
+  "id": "e_000260",
   "type": "translate",
   "level": "zero",
   "difficulty": 1,
@@ -265,7 +265,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000260",
+  "id": "e_000261",
   "type": "cloze",
   "level": "zero",
   "difficulty": 1,
@@ -297,7 +297,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000261",
+  "id": "e_000262",
   "type": "cloze",
   "level": "zero",
   "difficulty": 1,
@@ -328,7 +328,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000262",
+  "id": "e_000263",
   "type": "cloze",
   "level": "zero",
   "difficulty": 1,
@@ -360,7 +360,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000263",
+  "id": "e_000264",
   "type": "cloze",
   "level": "zero",
   "difficulty": 1,
@@ -391,7 +391,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000264",
+  "id": "e_000265",
   "type": "cloze",
   "level": "zero",
   "difficulty": 1,
@@ -422,7 +422,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000265",
+  "id": "e_000266",
   "type": "cloze",
   "level": "zero",
   "difficulty": 1,
@@ -453,7 +453,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000266",
+  "id": "e_000267",
   "type": "cloze",
   "level": "zero",
   "difficulty": 1,
@@ -485,7 +485,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000267",
+  "id": "e_000268",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -517,7 +517,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000268",
+  "id": "e_000269",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -549,7 +549,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000269",
+  "id": "e_000270",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -580,7 +580,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000270",
+  "id": "e_000271",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -612,7 +612,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000271",
+  "id": "e_000272",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -644,7 +644,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000272",
+  "id": "e_000273",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -676,7 +676,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000273",
+  "id": "e_000274",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -707,7 +707,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000274",
+  "id": "e_000275",
   "type": "match",
   "level": "zero",
   "difficulty": 1,
@@ -756,7 +756,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000275",
+  "id": "e_000276",
   "type": "match",
   "level": "zero",
   "difficulty": 3,
@@ -800,7 +800,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000276",
+  "id": "e_000277",
   "type": "match",
   "level": "zero",
   "difficulty": 2,
@@ -856,7 +856,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000277",
+  "id": "e_000278",
   "type": "match",
   "level": "zero",
   "difficulty": 1,
@@ -911,7 +911,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000278",
+  "id": "e_000279",
   "type": "match",
   "level": "zero",
   "difficulty": 2,
@@ -966,7 +966,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000279",
+  "id": "e_000280",
   "type": "match",
   "level": "zero",
   "difficulty": 2,
@@ -1021,7 +1021,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000280",
+  "id": "e_000281",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,
@@ -1056,7 +1056,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000281",
+  "id": "e_000282",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,
@@ -1086,7 +1086,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000282",
+  "id": "e_000283",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,
@@ -1121,7 +1121,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000283",
+  "id": "e_000284",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,
@@ -1151,7 +1151,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000284",
+  "id": "e_000285",
   "type": "dictation",
   "level": "zero",
   "difficulty": 2,
@@ -1189,7 +1189,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000285",
+  "id": "e_000286",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,
@@ -1219,7 +1219,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000286",
+  "id": "e_000287",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,

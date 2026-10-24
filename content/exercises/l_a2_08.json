@@ -1,6 +1,6 @@
 [
  {
-  "id": "e_001658",
+  "id": "e_001659",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -30,7 +30,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001659",
+  "id": "e_001660",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -68,7 +68,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001660",
+  "id": "e_001661",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -101,7 +101,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001661",
+  "id": "e_001662",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -138,7 +138,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001662",
+  "id": "e_001663",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -169,7 +169,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001663",
+  "id": "e_001664",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -209,7 +209,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001664",
+  "id": "e_001665",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -240,7 +240,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001665",
+  "id": "e_001666",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -278,7 +278,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001666",
+  "id": "e_001667",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -308,7 +308,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001667",
+  "id": "e_001668",
   "type": "cloze",
   "level": "a2",
   "difficulty": 5,
@@ -340,200 +340,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001668",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 3,
-  "topics": [
-   "cibo-bevande"
-  ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
-  "words": [
-   "w_chashka"
-  ],
-  "lesson": "l_a2_08",
-  "est_seconds": 14,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "___ пуста́я.",
-   "answer": "Ча́шка",
-   "accepted": [
-    "Ча́шка",
-    "Чашка",
-    "чашка",
-    "ча́шка"
-   ],
-   "hint_it": "La tazza è vuota."
-  },
-  "qa_status": "pending"
- },
- {
   "id": "e_001669",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 5,
-  "topics": [
-   "descrizioni"
-  ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives",
-   "adjectives-agreement"
-  ],
-  "words": [
-   "w_korotkiy"
-  ],
-  "lesson": "l_a2_08",
-  "est_seconds": 16,
-  "prompt_it": "Completa con la forma corretta.",
-  "payload": {
-   "type": "cloze",
-   "text": "Э́то ___ вино́.",
-   "answer": "коро́ткое",
-   "accepted": [
-    "коро́ткое",
-    "короткое"
-   ],
-   "hint_it": "corto: concorda con «vino» (neutro)."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001670",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 4,
-  "topics": [
-   "descrizioni"
-  ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
-  "words": [
-   "w_vysokiy"
-  ],
-  "lesson": "l_a2_08",
-  "est_seconds": 14,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "Я́ ___.",
-   "answer": "вы́ше",
-   "accepted": [
-    "вы́ше",
-    "выше"
-   ],
-   "hint_it": "Sono più alto."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001671",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 5,
-  "topics": [
-   "descrizioni"
-  ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives",
-   "adjectives-agreement"
-  ],
-  "words": [
-   "w_lyogkiy"
-  ],
-  "lesson": "l_a2_08",
-  "est_seconds": 16,
-  "prompt_it": "Completa con la forma corretta.",
-  "payload": {
-   "type": "cloze",
-   "text": "Э́то ___ вода́.",
-   "answer": "лёгкая",
-   "accepted": [
-    "лёгкая",
-    "легкая"
-   ],
-   "hint_it": "leggero: concorda con «acqua» (femminile)."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001672",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 3,
-  "topics": [
-   "grammatica"
-  ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
-  "words": [
-   "w_etot"
-  ],
-  "lesson": "l_a2_08",
-  "est_seconds": 16,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "___ ча́шка пуста́я.",
-   "answer": "Э́та",
-   "accepted": [
-    "Э́та",
-    "Эта",
-    "эта",
-    "э́та"
-   ],
-   "hint_it": "Questa tazza è vuota."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001673",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 5,
-  "topics": [
-   "descrizioni"
-  ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives",
-   "adjectives-agreement"
-  ],
-  "words": [
-   "w_chistyy"
-  ],
-  "lesson": "l_a2_08",
-  "est_seconds": 16,
-  "prompt_it": "Completa con la forma corretta.",
-  "payload": {
-   "type": "cloze",
-   "text": "Э́то ___ вино́.",
-   "answer": "чи́стое",
-   "accepted": [
-    "чи́стое",
-    "чистое"
-   ],
-   "hint_it": "pulito: concorda con «vino» (neutro)."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001674",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
@@ -566,7 +373,200 @@
   "qa_status": "pending"
  },
  {
+  "id": "e_001670",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_korotkiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вино́.",
+   "answer": "коро́ткое",
+   "accepted": [
+    "коро́ткое",
+    "короткое"
+   ],
+   "hint_it": "corto: concorda con «vino» (neutro)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001671",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_chistyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "О́н ___.",
+   "answer": "чи́стый",
+   "accepted": [
+    "чи́стый",
+    "чистый"
+   ],
+   "hint_it": "È pulito."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001672",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_lyogkiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вода́.",
+   "answer": "лёгкая",
+   "accepted": [
+    "лёгкая",
+    "легкая"
+   ],
+   "hint_it": "leggero: concorda con «acqua» (femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001673",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_etot"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ча́шка пуста́я.",
+   "answer": "Э́та",
+   "accepted": [
+    "Э́та",
+    "Эта",
+    "эта",
+    "э́та"
+   ],
+   "hint_it": "Questa tazza è vuota."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001674",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives",
+   "adjectives-agreement"
+  ],
+  "words": [
+   "w_chistyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вино́.",
+   "answer": "чи́стое",
+   "accepted": [
+    "чи́стое",
+    "чистое"
+   ],
+   "hint_it": "pulito: concorda con «vino» (neutro)."
+  },
+  "qa_status": "pending"
+ },
+ {
   "id": "e_001675",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adjectives",
+   "antonyms",
+   "short-adjectives"
+  ],
+  "words": [
+   "w_ona"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ чи́стая.",
+   "answer": "Она́",
+   "accepted": [
+    "Она́",
+    "Она",
+    "она",
+    "она́"
+   ],
+   "hint_it": "È pulita."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001676",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 5,
@@ -599,7 +599,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001676",
+  "id": "e_001677",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -633,7 +633,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001677",
+  "id": "e_001678",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -665,7 +665,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001678",
+  "id": "e_001679",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 5,
@@ -701,7 +701,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001679",
+  "id": "e_001680",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -733,7 +733,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001680",
+  "id": "e_001681",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 5,
@@ -766,7 +766,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001681",
+  "id": "e_001682",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -800,7 +800,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001682",
+  "id": "e_001683",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -832,7 +832,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001683",
+  "id": "e_001684",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -877,7 +877,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001684",
+  "id": "e_001685",
   "type": "match",
   "level": "a2",
   "difficulty": 5,
@@ -925,7 +925,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001685",
+  "id": "e_001686",
   "type": "match",
   "level": "a2",
   "difficulty": 5,
@@ -981,7 +981,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001686",
+  "id": "e_001687",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -1026,7 +1026,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001687",
+  "id": "e_001688",
   "type": "match",
   "level": "a2",
   "difficulty": 5,
@@ -1074,7 +1074,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001688",
+  "id": "e_001689",
   "type": "match",
   "level": "a2",
   "difficulty": 5,
@@ -1131,7 +1131,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001689",
+  "id": "e_001690",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -1181,7 +1181,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001690",
+  "id": "e_001691",
   "type": "dictation",
   "level": "a2",
   "difficulty": 4,
@@ -1218,7 +1218,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001691",
+  "id": "e_001692",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1248,7 +1248,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001692",
+  "id": "e_001693",
   "type": "dictation",
   "level": "a2",
   "difficulty": 4,
@@ -1284,7 +1284,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001693",
+  "id": "e_001694",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1314,7 +1314,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001694",
+  "id": "e_001695",
   "type": "dictation",
   "level": "a2",
   "difficulty": 4,
@@ -1350,7 +1350,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001695",
+  "id": "e_001696",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1380,7 +1380,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001696",
+  "id": "e_001697",
   "type": "dictation",
   "level": "a2",
   "difficulty": 4,
@@ -1417,7 +1417,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001697",
+  "id": "e_001698",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,

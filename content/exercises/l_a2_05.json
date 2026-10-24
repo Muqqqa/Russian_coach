@@ -1,6 +1,6 @@
 [
  {
-  "id": "e_001550",
+  "id": "e_001551",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -29,7 +29,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001551",
+  "id": "e_001552",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -68,7 +68,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001552",
+  "id": "e_001553",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -100,7 +100,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001553",
+  "id": "e_001554",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -137,7 +137,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001554",
+  "id": "e_001555",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -166,7 +166,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001555",
+  "id": "e_001556",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -200,7 +200,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001556",
+  "id": "e_001557",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -230,7 +230,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001557",
+  "id": "e_001558",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -279,7 +279,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001558",
+  "id": "e_001559",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -310,7 +310,129 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001559",
+  "id": "e_001560",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_moy"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ принёс ___.",
+   "answer": "мо́й",
+   "accepted": [
+    "мо́й",
+    "мой"
+   ],
+   "hint_it": "Ho portato il mio."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001561",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns",
+   "future-perfective"
+  ],
+  "words": [
+   "w_poprosit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "За́втра я́ ___ (попроси́ть).",
+   "answer": "попрошу́",
+   "accepted": [
+    "попрошу́",
+    "попрошу"
+   ],
+   "hint_it": "chiedere: io (domani)"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001562",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_spat"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Пошли́ ___.",
+   "answer": "спа́ть",
+   "accepted": [
+    "спа́ть",
+    "спать"
+   ],
+   "hint_it": "Andiamo a dormire."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001563",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "dative-case",
+   "dative-pronouns"
+  ],
+  "words": [
+   "w_brat"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Она́ даёт ___ ко́фе.",
+   "answer": "бра́ту",
+   "accepted": [
+    "бра́ту",
+    "брату"
+   ],
+   "hint_it": "Lei dà il caffè al fratello."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001564",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
@@ -342,129 +464,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001560",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 4,
-  "topics": [
-   "comunicazione"
-  ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns",
-   "future-perfective"
-  ],
-  "words": [
-   "w_poprosit"
-  ],
-  "lesson": "l_a2_05",
-  "est_seconds": 16,
-  "prompt_it": "Completa con la forma corretta.",
-  "payload": {
-   "type": "cloze",
-   "text": "За́втра я́ ___ (попроси́ть).",
-   "answer": "попрошу́",
-   "accepted": [
-    "попрошу́",
-    "попрошу"
-   ],
-   "hint_it": "chiedere: io (domani)"
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001561",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 3,
-  "topics": [
-   "azioni"
-  ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
-  "words": [
-   "w_spat"
-  ],
-  "lesson": "l_a2_05",
-  "est_seconds": 14,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "Пошли́ ___.",
-   "answer": "спа́ть",
-   "accepted": [
-    "спа́ть",
-    "спать"
-   ],
-   "hint_it": "Andiamo a dormire."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001562",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 4,
-  "topics": [
-   "azioni",
-   "comunicazione"
-  ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
-  "words": [
-   "w_brat"
-  ],
-  "lesson": "l_a2_05",
-  "est_seconds": 16,
-  "prompt_it": "Completa con la forma corretta.",
-  "payload": {
-   "type": "cloze",
-   "text": "Она́ даёт ___ ко́фе.",
-   "answer": "бра́ту",
-   "accepted": [
-    "бра́ту",
-    "брату"
-   ],
-   "hint_it": "Lei dà il caffè al fratello."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001563",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 3,
-  "topics": [
-   "azioni"
-  ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
-  "words": [
-   "w_prinesti"
-  ],
-  "lesson": "l_a2_05",
-  "est_seconds": 16,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "Я́ ___ вино́.",
-   "answer": "принёс",
-   "accepted": [
-    "принёс",
-    "принес"
-   ],
-   "hint_it": "Ho portato del vino."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001564",
+  "id": "e_001565",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -495,7 +495,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001565",
+  "id": "e_001566",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -527,7 +527,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001566",
+  "id": "e_001567",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -561,7 +561,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001567",
+  "id": "e_001568",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -592,7 +592,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001568",
+  "id": "e_001569",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -625,7 +625,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001569",
+  "id": "e_001570",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -656,7 +656,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001570",
+  "id": "e_001571",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -688,7 +688,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001571",
+  "id": "e_001572",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -722,7 +722,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001572",
+  "id": "e_001573",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -767,7 +767,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001573",
+  "id": "e_001574",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -814,7 +814,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001574",
+  "id": "e_001575",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -870,7 +870,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001575",
+  "id": "e_001576",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -910,7 +910,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001576",
+  "id": "e_001577",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -958,7 +958,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001577",
+  "id": "e_001578",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -1014,7 +1014,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001578",
+  "id": "e_001579",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -1059,7 +1059,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001579",
+  "id": "e_001580",
   "type": "dictation",
   "level": "a2",
   "difficulty": 4,
@@ -1098,7 +1098,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001580",
+  "id": "e_001581",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1127,7 +1127,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001581",
+  "id": "e_001582",
   "type": "dictation",
   "level": "a2",
   "difficulty": 4,
@@ -1166,7 +1166,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001582",
+  "id": "e_001583",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1195,7 +1195,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001583",
+  "id": "e_001584",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1231,7 +1231,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001584",
+  "id": "e_001585",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1260,7 +1260,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001585",
+  "id": "e_001586",
   "type": "dictation",
   "level": "a2",
   "difficulty": 4,

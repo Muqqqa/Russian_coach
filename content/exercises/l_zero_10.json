@@ -1,6 +1,6 @@
 [
  {
-  "id": "e_000322",
+  "id": "e_000323",
   "type": "translate",
   "level": "zero",
   "difficulty": 1,
@@ -31,7 +31,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000323",
+  "id": "e_000324",
   "type": "translate",
   "level": "zero",
   "difficulty": 1,
@@ -68,7 +68,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000324",
+  "id": "e_000325",
   "type": "translate",
   "level": "zero",
   "difficulty": 2,
@@ -99,7 +99,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000325",
+  "id": "e_000326",
   "type": "translate",
   "level": "zero",
   "difficulty": 2,
@@ -136,7 +136,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000326",
+  "id": "e_000327",
   "type": "translate",
   "level": "zero",
   "difficulty": 1,
@@ -166,7 +166,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000327",
+  "id": "e_000328",
   "type": "translate",
   "level": "zero",
   "difficulty": 2,
@@ -205,7 +205,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000328",
+  "id": "e_000329",
   "type": "translate",
   "level": "zero",
   "difficulty": 2,
@@ -238,7 +238,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000329",
+  "id": "e_000330",
   "type": "translate",
   "level": "zero",
   "difficulty": 2,
@@ -276,7 +276,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000330",
+  "id": "e_000331",
   "type": "cloze",
   "level": "zero",
   "difficulty": 1,
@@ -307,7 +307,68 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000331",
+  "id": "e_000332",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_ili"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ча́й ___ ко́фе?",
+   "answer": "и́ли",
+   "accepted": [
+    "и́ли",
+    "или"
+   ],
+   "hint_it": "Tè o caffè?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000333",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_net"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "И я́ ___.",
+   "answer": "нет",
+   "accepted": [
+    "нет"
+   ],
+   "hint_it": "Nemmeno io."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000334",
   "type": "cloze",
   "level": "zero",
   "difficulty": 1,
@@ -338,102 +399,71 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000332",
-  "type": "cloze",
-  "level": "zero",
-  "difficulty": 1,
-  "topics": [
-   "grammatica"
-  ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
-  "words": [
-   "w_chto"
-  ],
-  "lesson": "l_zero_10",
-  "est_seconds": 14,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "___ пото́м?",
-   "answer": "Что́",
-   "accepted": [
-    "Что́",
-    "Что",
-    "что",
-    "что́"
-   ],
-   "hint_it": "Cosa c'è dopo?"
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_000333",
-  "type": "cloze",
-  "level": "zero",
-  "difficulty": 1,
-  "topics": [
-   "grammatica"
-  ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
-  "words": [
-   "w_ne"
-  ],
-  "lesson": "l_zero_10",
-  "est_seconds": 14,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "___ хо́лодно.",
-   "answer": "Не",
-   "accepted": [
-    "Не",
-    "не"
-   ],
-   "hint_it": "Non fa freddo."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_000334",
-  "type": "cloze",
-  "level": "zero",
-  "difficulty": 1,
-  "topics": [
-   "grammatica"
-  ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
-  "words": [
-   "w_on"
-  ],
-  "lesson": "l_zero_10",
-  "est_seconds": 14,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "Ско́лько ___?",
-   "answer": "ему́",
-   "accepted": [
-    "ему́",
-    "ему"
-   ],
-   "hint_it": "Quanto ha?"
-  },
-  "qa_status": "pending"
- },
- {
   "id": "e_000335",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_skolko"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ и́м?",
+   "answer": "Ско́лько",
+   "accepted": [
+    "Ско́лько",
+    "Сколько",
+    "сколько",
+    "ско́лько"
+   ],
+   "hint_it": "Quanto hanno?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000336",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "negation",
+   "questions",
+   "conjunctions"
+  ],
+  "words": [
+   "w_zharko"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Сего́дня ___.",
+   "answer": "жа́рко",
+   "accepted": [
+    "жа́рко",
+    "жарко"
+   ],
+   "hint_it": "Oggi fa caldo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000337",
   "type": "cloze",
   "level": "zero",
   "difficulty": 1,
@@ -463,40 +493,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000336",
-  "type": "cloze",
-  "level": "zero",
-  "difficulty": 1,
-  "topics": [
-   "grammatica",
-   "tempo",
-   "avverbi"
-  ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
-  "words": [
-   "w_potom"
-  ],
-  "lesson": "l_zero_10",
-  "est_seconds": 14,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "Что́ ___?",
-   "answer": "пото́м",
-   "accepted": [
-    "пото́м",
-    "потом"
-   ],
-   "hint_it": "Cosa c'è dopo?"
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_000337",
+  "id": "e_000338",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -529,7 +526,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000338",
+  "id": "e_000339",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -563,7 +560,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000339",
+  "id": "e_000340",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 2,
@@ -596,7 +593,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000340",
+  "id": "e_000341",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 2,
@@ -630,7 +627,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000341",
+  "id": "e_000342",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -663,7 +660,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000342",
+  "id": "e_000343",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -695,7 +692,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000343",
+  "id": "e_000344",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 2,
@@ -728,7 +725,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000344",
+  "id": "e_000345",
   "type": "match",
   "level": "zero",
   "difficulty": 1,
@@ -769,7 +766,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000345",
+  "id": "e_000346",
   "type": "match",
   "level": "zero",
   "difficulty": 3,
@@ -813,7 +810,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000346",
+  "id": "e_000347",
   "type": "match",
   "level": "zero",
   "difficulty": 3,
@@ -870,7 +867,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000347",
+  "id": "e_000348",
   "type": "match",
   "level": "zero",
   "difficulty": 1,
@@ -916,7 +913,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000348",
+  "id": "e_000349",
   "type": "match",
   "level": "zero",
   "difficulty": 3,
@@ -962,7 +959,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000349",
+  "id": "e_000350",
   "type": "match",
   "level": "zero",
   "difficulty": 3,
@@ -1017,7 +1014,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000350",
+  "id": "e_000351",
   "type": "dictation",
   "level": "zero",
   "difficulty": 3,
@@ -1056,7 +1053,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000351",
+  "id": "e_000352",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,
@@ -1086,7 +1083,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000352",
+  "id": "e_000353",
   "type": "dictation",
   "level": "zero",
   "difficulty": 2,
@@ -1122,7 +1119,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000353",
+  "id": "e_000354",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,
@@ -1152,7 +1149,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000354",
+  "id": "e_000355",
   "type": "dictation",
   "level": "zero",
   "difficulty": 3,
@@ -1189,7 +1186,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000355",
+  "id": "e_000356",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,
@@ -1219,7 +1216,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000356",
+  "id": "e_000357",
   "type": "dictation",
   "level": "zero",
   "difficulty": 2,

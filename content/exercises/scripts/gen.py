@@ -227,6 +227,12 @@ def b_sent_translate(ctx):
                         s["words"], 12 + 4 * n))
     return out
 
+MASKED = collections.Counter()
+for _s in SENT_OK.values():
+    _t = _s["stress"].split(" ")
+    for _i in range(len(_t)):
+        MASKED[(" ".join("___" if j == _i else _t[j] for j in range(len(_t))), _s["it"])] += 1
+
 def b_sent_cloze(ctx):
     out = []
     nwset = set(ctx["nw"])
@@ -251,6 +257,8 @@ def b_sent_cloze(ctx):
             n = len(toks)
             morph = 1 if W[wid]["pos"] in ("verb", "adj", "noun") and norm(core) != norm(W[wid]["ru"]) else 0
             tp = (0 if n <= 3 else (1 if n <= 5 else 2)) + morph
+            if MASKED[(text, s["it"])] > 1:
+                continue
             accepted = ru_variants(core)
             if core[0].isupper():
                 accepted += [x.lower() for x in accepted if x.lower() not in accepted]

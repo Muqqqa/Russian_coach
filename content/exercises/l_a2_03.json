@@ -1,6 +1,6 @@
 [
  {
-  "id": "e_001470",
+  "id": "e_001471",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -29,7 +29,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001471",
+  "id": "e_001472",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -74,7 +74,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001472",
+  "id": "e_001473",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -106,7 +106,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001473",
+  "id": "e_001474",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -145,7 +145,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001474",
+  "id": "e_001475",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -174,7 +174,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001475",
+  "id": "e_001476",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -210,7 +210,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001476",
+  "id": "e_001477",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -242,7 +242,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001477",
+  "id": "e_001478",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -285,7 +285,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001478",
+  "id": "e_001479",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -314,7 +314,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001479",
+  "id": "e_001480",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -345,12 +345,11 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001480",
+  "id": "e_001481",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "comunicazione",
    "azioni"
   ],
   "grammar_tags": [
@@ -358,27 +357,25 @@
    "future-perfective"
   ],
   "words": [
-   "w_devushka"
+   "w_sdelat"
   ],
   "lesson": "l_a2_03",
-  "est_seconds": 14,
+  "est_seconds": 18,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "___ пи́шет.",
-   "answer": "Де́вушка",
+   "text": "Я́ ___, что́ смогу́.",
+   "answer": "сде́лаю",
    "accepted": [
-    "Де́вушка",
-    "Девушка",
-    "девушка",
-    "де́вушка"
+    "сде́лаю",
+    "сделаю"
    ],
-   "hint_it": "La ragazza sta scrivendo."
+   "hint_it": "Farò quello che posso."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001481",
+  "id": "e_001482",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -409,39 +406,37 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001482",
+  "id": "e_001483",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "comunicazione"
   ],
   "grammar_tags": [
    "aspect",
    "future-perfective"
   ],
   "words": [
-   "w_chto"
+   "w_pisat"
   ],
   "lesson": "l_a2_03",
-  "est_seconds": 16,
+  "est_seconds": 14,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "___ о́н де́лает?",
-   "answer": "Что́",
+   "text": "Де́вушка ___.",
+   "answer": "пи́шет",
    "accepted": [
-    "Что́",
-    "Что",
-    "что",
-    "что́"
+    "пи́шет",
+    "пишет"
    ],
-   "hint_it": "Che cosa sta facendo?"
+   "hint_it": "La ragazza sta scrivendo."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001483",
+  "id": "e_001484",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -472,37 +467,37 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001484",
+  "id": "e_001485",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "azioni"
+   "grammatica"
   ],
   "grammar_tags": [
    "aspect",
    "future-perfective"
   ],
   "words": [
-   "w_delat"
+   "w_eto"
   ],
   "lesson": "l_a2_03",
-  "est_seconds": 14,
+  "est_seconds": 16,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Что́ ___?",
-   "answer": "де́лать",
+   "text": "Я́ написа́ла ___.",
+   "answer": "э́то",
    "accepted": [
-    "де́лать",
-    "делать"
+    "э́то",
+    "это"
    ],
-   "hint_it": "Che fare?"
+   "hint_it": "Ho scritto questo."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001485",
+  "id": "e_001486",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -533,37 +528,37 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001486",
+  "id": "e_001487",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "avverbi"
+   "azioni"
   ],
   "grammar_tags": [
    "aspect",
    "future-perfective"
   ],
   "words": [
-   "w_plokho"
+   "w_delat"
   ],
   "lesson": "l_a2_03",
   "est_seconds": 16,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Я́ ___ пишу́.",
-   "answer": "пло́хо",
+   "text": "Что́ вы́ ___?",
+   "answer": "де́лали",
    "accepted": [
-    "пло́хо",
-    "плохо"
+    "де́лали",
+    "делали"
    ],
-   "hint_it": "Scrivo male."
+   "hint_it": "Cosa stavate facendo?"
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001487",
+  "id": "e_001488",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -595,7 +590,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001488",
+  "id": "e_001489",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -628,7 +623,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001489",
+  "id": "e_001490",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -659,7 +654,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001490",
+  "id": "e_001491",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -691,7 +686,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001491",
+  "id": "e_001492",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -722,7 +717,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001492",
+  "id": "e_001493",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -756,7 +751,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001493",
+  "id": "e_001494",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -787,7 +782,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001494",
+  "id": "e_001495",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -820,7 +815,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001495",
+  "id": "e_001496",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -866,7 +861,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001496",
+  "id": "e_001497",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -913,7 +908,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001497",
+  "id": "e_001498",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -965,7 +960,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001498",
+  "id": "e_001499",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -1010,7 +1005,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001499",
+  "id": "e_001500",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -1057,7 +1052,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001500",
+  "id": "e_001501",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -1113,7 +1108,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001501",
+  "id": "e_001502",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -1159,7 +1154,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001502",
+  "id": "e_001503",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1194,7 +1189,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001503",
+  "id": "e_001504",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1223,7 +1218,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001504",
+  "id": "e_001505",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1261,7 +1256,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001505",
+  "id": "e_001506",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1290,7 +1285,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001506",
+  "id": "e_001507",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1328,7 +1323,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001507",
+  "id": "e_001508",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1357,7 +1352,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001508",
+  "id": "e_001509",
   "type": "dictation",
   "level": "a2",
   "difficulty": 4,
@@ -1396,7 +1391,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001509",
+  "id": "e_001510",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,

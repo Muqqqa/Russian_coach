@@ -1,6 +1,6 @@
 [
  {
-  "id": "e_001430",
+  "id": "e_001431",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -29,7 +29,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001431",
+  "id": "e_001432",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -66,7 +66,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001432",
+  "id": "e_001433",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -96,7 +96,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001433",
+  "id": "e_001434",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -136,7 +136,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001434",
+  "id": "e_001435",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -166,7 +166,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001435",
+  "id": "e_001436",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -203,7 +203,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001436",
+  "id": "e_001437",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -233,7 +233,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001437",
+  "id": "e_001438",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -270,7 +270,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001438",
+  "id": "e_001439",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -302,7 +302,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001439",
+  "id": "e_001440",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -333,7 +333,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001440",
+  "id": "e_001441",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
@@ -352,18 +352,18 @@
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Вчера́ ___ четве́рг.",
+   "text": "Но́чью ___ сне́г.",
    "answer": "бы́л",
    "accepted": [
     "бы́л",
     "был"
    ],
-   "hint_it": "Ieri era giovedì."
+   "hint_it": "Di notte c'è stata neve."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001441",
+  "id": "e_001442",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -394,37 +394,39 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001442",
+  "id": "e_001443",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "azioni"
+   "azioni",
+   "descrizioni",
+   "mente"
   ],
   "grammar_tags": [
    "past-of-byt",
    "modals"
   ],
   "words": [
-   "w_byt"
+   "w_slushat"
   ],
   "lesson": "l_a2_02",
-  "est_seconds": 18,
+  "est_seconds": 16,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Вчера́ ___ плоха́я пого́да.",
-   "answer": "была́",
+   "text": "Я́ уме́ю ___.",
+   "answer": "слу́шать",
    "accepted": [
-    "была́",
-    "была"
+    "слу́шать",
+    "слушать"
    ],
-   "hint_it": "Ieri c'era brutto tempo."
+   "hint_it": "Io so ascoltare."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001443",
+  "id": "e_001444",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -455,37 +457,37 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001444",
+  "id": "e_001445",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "azioni"
+   "mente"
   ],
   "grammar_tags": [
    "past-of-byt",
    "modals"
   ],
   "words": [
-   "w_byt"
+   "w_umet"
   ],
   "lesson": "l_a2_02",
   "est_seconds": 16,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Э́то ___ вчера́.",
-   "answer": "бы́ло",
+   "text": "Я́ ___ слу́шать.",
+   "answer": "уме́ю",
    "accepted": [
-    "бы́ло",
-    "было"
+    "уме́ю",
+    "умею"
    ],
-   "hint_it": "È stato ieri."
+   "hint_it": "Io so ascoltare."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001445",
+  "id": "e_001446",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -516,39 +518,37 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001446",
+  "id": "e_001447",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "descrizioni"
   ],
   "grammar_tags": [
    "past-of-byt",
    "modals"
   ],
   "words": [
-   "w_eto"
+   "w_dolzhnyy"
   ],
   "lesson": "l_a2_02",
   "est_seconds": 18,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "___ бы́ло та́к краси́во.",
-   "answer": "Э́то",
+   "text": "Ты́ ___ помо́чь ма́тери!",
+   "answer": "до́лжен",
    "accepted": [
-    "Э́то",
-    "Это",
-    "это",
-    "э́то"
+    "до́лжен",
+    "должен"
    ],
-   "hint_it": "È stato così bello."
+   "hint_it": "Devi aiutare tua madre!"
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001447",
+  "id": "e_001448",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -580,7 +580,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001448",
+  "id": "e_001449",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -613,7 +613,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001449",
+  "id": "e_001450",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -644,7 +644,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001450",
+  "id": "e_001451",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -677,7 +677,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001451",
+  "id": "e_001452",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -711,7 +711,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001452",
+  "id": "e_001453",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -742,7 +742,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001453",
+  "id": "e_001454",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -773,7 +773,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001454",
+  "id": "e_001455",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -806,7 +806,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001455",
+  "id": "e_001456",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -851,7 +851,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001456",
+  "id": "e_001457",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -898,7 +898,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001457",
+  "id": "e_001458",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -954,7 +954,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001458",
+  "id": "e_001459",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -1000,7 +1000,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001459",
+  "id": "e_001460",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -1048,7 +1048,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001460",
+  "id": "e_001461",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -1104,7 +1104,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001461",
+  "id": "e_001462",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -1155,7 +1155,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001462",
+  "id": "e_001463",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1190,7 +1190,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001463",
+  "id": "e_001464",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1221,7 +1221,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001464",
+  "id": "e_001465",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1260,7 +1260,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001465",
+  "id": "e_001466",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1289,7 +1289,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001466",
+  "id": "e_001467",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1327,7 +1327,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001467",
+  "id": "e_001468",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1356,7 +1356,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001468",
+  "id": "e_001469",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1392,7 +1392,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001469",
+  "id": "e_001470",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,

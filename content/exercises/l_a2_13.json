@@ -1,6 +1,6 @@
 [
  {
-  "id": "e_001858",
+  "id": "e_001859",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -33,7 +33,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001859",
+  "id": "e_001860",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -73,7 +73,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001860",
+  "id": "e_001861",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -103,7 +103,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001861",
+  "id": "e_001862",
   "type": "translate",
   "level": "a2",
   "difficulty": 5,
@@ -141,7 +141,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001862",
+  "id": "e_001863",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -172,7 +172,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001863",
+  "id": "e_001864",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -207,7 +207,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001864",
+  "id": "e_001865",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -237,7 +237,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001865",
+  "id": "e_001866",
   "type": "translate",
   "level": "a2",
   "difficulty": 5,
@@ -279,7 +279,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001866",
+  "id": "e_001867",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -310,7 +310,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001867",
+  "id": "e_001868",
   "type": "cloze",
   "level": "a2",
   "difficulty": 5,
@@ -341,7 +341,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001868",
+  "id": "e_001869",
   "type": "cloze",
   "level": "a2",
   "difficulty": 5,
@@ -353,25 +353,25 @@
    "plural-irregular"
   ],
   "words": [
-   "w_spina"
+   "w_ukho"
   ],
   "lesson": "l_a2_13",
-  "est_seconds": 20,
+  "est_seconds": 18,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Что́ у Ва́с за ___?",
-   "answer": "спино́й",
+   "text": "У ко́шек два́ ___.",
+   "answer": "у́ха",
    "accepted": [
-    "спино́й",
-    "спиной"
+    "у́ха",
+    "уха"
    ],
-   "hint_it": "Cosa avete dietro la schiena?"
+   "hint_it": "I gatti hanno due orecchie."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001869",
+  "id": "e_001870",
   "type": "cloze",
   "level": "a2",
   "difficulty": 5,
@@ -402,10 +402,10 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001870",
+  "id": "e_001871",
   "type": "cloze",
   "level": "a2",
-  "difficulty": 4,
+  "difficulty": 5,
   "topics": [
    "grammatica"
   ],
@@ -414,25 +414,25 @@
    "plural-irregular"
   ],
   "words": [
-   "w_ona"
+   "w_volos"
   ],
   "lesson": "l_a2_13",
   "est_seconds": 18,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "У ___ дли́нные во́лосы.",
-   "answer": "неё",
+   "text": "У неё дли́нные ___.",
+   "answer": "во́лосы",
    "accepted": [
-    "неё",
-    "нее"
+    "во́лосы",
+    "волосы"
    ],
    "hint_it": "I suoi capelli sono lunghi."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001871",
+  "id": "e_001872",
   "type": "cloze",
   "level": "a2",
   "difficulty": 5,
@@ -463,7 +463,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001872",
+  "id": "e_001873",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -493,7 +493,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001873",
+  "id": "e_001874",
   "type": "cloze",
   "level": "a2",
   "difficulty": 5,
@@ -524,10 +524,10 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001874",
+  "id": "e_001875",
   "type": "cloze",
   "level": "a2",
-  "difficulty": 4,
+  "difficulty": 5,
   "topics": [
    "grammatica"
   ],
@@ -536,25 +536,25 @@
    "plural-irregular"
   ],
   "words": [
-   "w_ona"
+   "w_ruka"
   ],
   "lesson": "l_a2_13",
   "est_seconds": 18,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "У ___ бе́лые зу́бы.",
-   "answer": "неё",
+   "text": "На ___ пя́ть па́льцев.",
+   "answer": "руке́",
    "accepted": [
-    "неё",
-    "нее"
+    "руке́",
+    "руке"
    ],
-   "hint_it": "Ha i denti bianchi."
+   "hint_it": "La mano ha cinque dita."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001875",
+  "id": "e_001876",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 5,
@@ -585,7 +585,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001876",
+  "id": "e_001877",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -621,7 +621,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001877",
+  "id": "e_001878",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -652,7 +652,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001878",
+  "id": "e_001879",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -683,7 +683,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001879",
+  "id": "e_001880",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 5,
@@ -719,7 +719,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001880",
+  "id": "e_001881",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -750,7 +750,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001881",
+  "id": "e_001882",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 5,
@@ -782,7 +782,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001882",
+  "id": "e_001883",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 5,
@@ -818,7 +818,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001883",
+  "id": "e_001884",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -867,7 +867,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001884",
+  "id": "e_001885",
   "type": "match",
   "level": "a2",
   "difficulty": 5,
@@ -915,7 +915,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001885",
+  "id": "e_001886",
   "type": "match",
   "level": "a2",
   "difficulty": 5,
@@ -969,7 +969,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001886",
+  "id": "e_001887",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -1013,7 +1013,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001887",
+  "id": "e_001888",
   "type": "match",
   "level": "a2",
   "difficulty": 5,
@@ -1061,7 +1061,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001888",
+  "id": "e_001889",
   "type": "match",
   "level": "a2",
   "difficulty": 5,
@@ -1116,7 +1116,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001889",
+  "id": "e_001890",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -1165,7 +1165,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001890",
+  "id": "e_001891",
   "type": "dictation",
   "level": "a2",
   "difficulty": 5,
@@ -1203,7 +1203,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001891",
+  "id": "e_001892",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1232,7 +1232,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001892",
+  "id": "e_001893",
   "type": "dictation",
   "level": "a2",
   "difficulty": 5,
@@ -1270,7 +1270,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001893",
+  "id": "e_001894",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1299,7 +1299,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001894",
+  "id": "e_001895",
   "type": "dictation",
   "level": "a2",
   "difficulty": 5,
@@ -1336,7 +1336,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001895",
+  "id": "e_001896",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1365,7 +1365,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001896",
+  "id": "e_001897",
   "type": "dictation",
   "level": "a2",
   "difficulty": 5,
@@ -1404,7 +1404,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001897",
+  "id": "e_001898",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,

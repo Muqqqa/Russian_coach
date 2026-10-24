@@ -359,25 +359,27 @@
   "level": "zero",
   "difficulty": 1,
   "topics": [
-   "avverbi"
+   "grammatica"
   ],
   "grammar_tags": [
    "alphabet-4",
    "sibilants"
   ],
   "words": [
-   "w_zharko"
+   "w_ya"
   ],
   "lesson": "l_zero_04",
   "est_seconds": 14,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Мне́ ___.",
-   "answer": "жа́рко",
+   "text": "___ жа́рко.",
+   "answer": "Мне́",
    "accepted": [
-    "жа́рко",
-    "жарко"
+    "Мне́",
+    "Мне",
+    "мне",
+    "мне́"
    ],
    "hint_it": "Ho caldo."
   },
@@ -419,29 +421,27 @@
   "level": "zero",
   "difficulty": 1,
   "topics": [
-   "ristorante"
+   "avverbi"
   ],
   "grammar_tags": [
    "alphabet-4",
    "sibilants"
   ],
   "words": [
-   "w_schyot"
+   "w_zharko"
   ],
   "lesson": "l_zero_04",
   "est_seconds": 14,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "___, пожа́луйста.",
-   "answer": "Счёт",
+   "text": "Мне́ ___.",
+   "answer": "жа́рко",
    "accepted": [
-    "Счёт",
-    "счёт",
-    "Счет",
-    "счет"
+    "жа́рко",
+    "жарко"
    ],
-   "hint_it": "Il conto, per favore."
+   "hint_it": "Ho caldo."
   },
   "qa_status": "pending"
  },
@@ -488,20 +488,17 @@
    "sibilants"
   ],
   "words": [
-   "w_eshchyo"
+   "w_net"
   ],
   "lesson": "l_zero_04",
   "est_seconds": 14,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "___ нет.",
-   "answer": "Ещё",
+   "text": "Ещё ___.",
+   "answer": "нет",
    "accepted": [
-    "Ещё",
-    "ещё",
-    "Еще",
-    "еще"
+    "нет"
    ],
    "hint_it": "Non ancora."
   },

@@ -1,6 +1,6 @@
 [
  {
-  "id": "e_001275",
+  "id": "e_001276",
   "type": "translate",
   "level": "a1",
   "difficulty": 2,
@@ -30,7 +30,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001276",
+  "id": "e_001277",
   "type": "translate",
   "level": "a1",
   "difficulty": 2,
@@ -67,7 +67,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001277",
+  "id": "e_001278",
   "type": "translate",
   "level": "a1",
   "difficulty": 3,
@@ -97,7 +97,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001278",
+  "id": "e_001279",
   "type": "translate",
   "level": "a1",
   "difficulty": 3,
@@ -133,7 +133,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001279",
+  "id": "e_001280",
   "type": "translate",
   "level": "a1",
   "difficulty": 2,
@@ -164,7 +164,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001280",
+  "id": "e_001281",
   "type": "translate",
   "level": "a1",
   "difficulty": 2,
@@ -197,7 +197,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001281",
+  "id": "e_001282",
   "type": "translate",
   "level": "a1",
   "difficulty": 3,
@@ -227,7 +227,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001282",
+  "id": "e_001283",
   "type": "translate",
   "level": "a1",
   "difficulty": 3,
@@ -263,7 +263,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001283",
+  "id": "e_001284",
   "type": "translate",
   "level": "a1",
   "difficulty": 2,
@@ -293,7 +293,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001284",
+  "id": "e_001285",
   "type": "translate",
   "level": "a1",
   "difficulty": 3,
@@ -330,38 +330,37 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001285",
+  "id": "e_001286",
   "type": "cloze",
   "level": "a1",
-  "difficulty": 3,
+  "difficulty": 2,
   "topics": [
-   "avverbi",
-   "grammatica"
+   "avverbi"
   ],
   "grammar_tags": [
    "adverbs",
    "particles"
   ],
   "words": [
-   "w_metro"
+   "w_kak"
   ],
   "lesson": "l_a1_23",
-  "est_seconds": 18,
+  "est_seconds": 14,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Я́ уже́ в ___.",
-   "answer": "метро́",
+   "text": "Вот ___!",
+   "answer": "ка́к",
    "accepted": [
-    "метро́",
-    "метро"
+    "ка́к",
+    "как"
    ],
-   "hint_it": "Sono già in metro."
+   "hint_it": "Addirittura!"
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001286",
+  "id": "e_001287",
   "type": "cloze",
   "level": "a1",
   "difficulty": 3,
@@ -393,66 +392,32 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001287",
-  "type": "cloze",
-  "level": "a1",
-  "difficulty": 2,
-  "topics": [
-   "avverbi",
-   "grammatica"
-  ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
-  "words": [
-   "w_teper"
-  ],
-  "lesson": "l_a1_23",
-  "est_seconds": 14,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "___ лу́чше.",
-   "answer": "Тепе́рь",
-   "accepted": [
-    "Тепе́рь",
-    "Теперь",
-    "теперь",
-    "тепе́рь"
-   ],
-   "hint_it": "Ora va meglio."
-  },
-  "qa_status": "pending"
- },
- {
   "id": "e_001288",
   "type": "cloze",
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "avverbi",
-   "grammatica"
+   "avverbi"
   ],
   "grammar_tags": [
    "adverbs",
    "particles"
   ],
   "words": [
-   "w_pivo"
+   "w_luchshe"
   ],
   "lesson": "l_a1_23",
   "est_seconds": 14,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Вот ___.",
-   "answer": "пи́во",
+   "text": "Тепе́рь ___.",
+   "answer": "лу́чше",
    "accepted": [
-    "пи́во",
-    "пиво"
+    "лу́чше",
+    "лучше"
    ],
-   "hint_it": "Ecco la birra."
+   "hint_it": "Ora va meglio."
   },
   "qa_status": "pending"
  },
@@ -552,7 +517,6 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "avverbi",
    "grammatica"
   ],
   "grammar_tags": [
@@ -560,20 +524,18 @@
    "particles"
   ],
   "words": [
-   "w_togda"
+   "w_kto"
   ],
   "lesson": "l_a1_23",
   "est_seconds": 14,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "___ кто́?",
-   "answer": "Тогда́",
+   "text": "Тогда́ ___?",
+   "answer": "кто́",
    "accepted": [
-    "Тогда́",
-    "Тогда",
-    "тогда",
-    "тогда́"
+    "кто́",
+    "кто"
    ],
    "hint_it": "Allora chi?"
   },
@@ -583,9 +545,8 @@
   "id": "e_001293",
   "type": "cloze",
   "level": "a1",
-  "difficulty": 2,
+  "difficulty": 3,
   "topics": [
-   "avverbi",
    "grammatica"
   ],
   "grammar_tags": [
@@ -593,25 +554,55 @@
    "particles"
   ],
   "words": [
-   "w_pyat"
+   "w_my"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Да́же ___ - лю́ди.",
+   "answer": "мы́",
+   "accepted": [
+    "мы́",
+    "мы"
+   ],
+   "hint_it": "Perfino noi siamo persone."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001294",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "adverbs",
+   "particles"
+  ],
+  "words": [
+   "w_oni"
   ],
   "lesson": "l_a1_23",
   "est_seconds": 14,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Уже́ ___?",
-   "answer": "пя́ть",
+   "text": "Вот ___.",
+   "answer": "они́",
    "accepted": [
-    "пя́ть",
-    "пять"
+    "они́",
+    "они"
    ],
-   "hint_it": "Sono già le cinque?"
+   "hint_it": "Eccoli."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001294",
+  "id": "e_001295",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 3,
@@ -644,7 +635,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001295",
+  "id": "e_001296",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 2,
@@ -675,7 +666,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001296",
+  "id": "e_001297",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 4,
@@ -710,7 +701,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001297",
+  "id": "e_001298",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 3,
@@ -741,7 +732,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001298",
+  "id": "e_001299",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 2,
@@ -774,7 +765,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001299",
+  "id": "e_001300",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 2,
@@ -805,7 +796,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001300",
+  "id": "e_001301",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 3,
@@ -838,7 +829,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001301",
+  "id": "e_001302",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 3,
@@ -869,7 +860,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001302",
+  "id": "e_001303",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 2,
@@ -902,7 +893,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001303",
+  "id": "e_001304",
   "type": "match",
   "level": "a1",
   "difficulty": 2,
@@ -947,7 +938,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001304",
+  "id": "e_001305",
   "type": "match",
   "level": "a1",
   "difficulty": 4,
@@ -995,7 +986,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001305",
+  "id": "e_001306",
   "type": "match",
   "level": "a1",
   "difficulty": 4,
@@ -1050,7 +1041,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001306",
+  "id": "e_001307",
   "type": "match",
   "level": "a1",
   "difficulty": 2,
@@ -1095,7 +1086,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001307",
+  "id": "e_001308",
   "type": "match",
   "level": "a1",
   "difficulty": 4,
@@ -1143,7 +1134,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001308",
+  "id": "e_001309",
   "type": "match",
   "level": "a1",
   "difficulty": 4,
@@ -1198,7 +1189,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001309",
+  "id": "e_001310",
   "type": "match",
   "level": "a1",
   "difficulty": 2,
@@ -1243,7 +1234,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001310",
+  "id": "e_001311",
   "type": "match",
   "level": "a1",
   "difficulty": 4,
@@ -1290,7 +1281,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001311",
+  "id": "e_001312",
   "type": "dictation",
   "level": "a1",
   "difficulty": 4,
@@ -1330,7 +1321,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001312",
+  "id": "e_001313",
   "type": "dictation",
   "level": "a1",
   "difficulty": 2,
@@ -1360,7 +1351,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001313",
+  "id": "e_001314",
   "type": "dictation",
   "level": "a1",
   "difficulty": 4,
@@ -1396,7 +1387,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001314",
+  "id": "e_001315",
   "type": "dictation",
   "level": "a1",
   "difficulty": 2,
@@ -1426,7 +1417,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001315",
+  "id": "e_001316",
   "type": "dictation",
   "level": "a1",
   "difficulty": 3,
@@ -1461,7 +1452,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001316",
+  "id": "e_001317",
   "type": "dictation",
   "level": "a1",
   "difficulty": 2,
@@ -1490,7 +1481,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001317",
+  "id": "e_001318",
   "type": "dictation",
   "level": "a1",
   "difficulty": 3,
@@ -1525,7 +1516,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001318",
+  "id": "e_001319",
   "type": "dictation",
   "level": "a1",
   "difficulty": 2,
@@ -1554,7 +1545,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001319",
+  "id": "e_001320",
   "type": "dictation",
   "level": "a1",
   "difficulty": 3,

@@ -1,6 +1,6 @@
 [
  {
-  "id": "e_001394",
+  "id": "e_001395",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -30,7 +30,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001395",
+  "id": "e_001396",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -66,7 +66,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001396",
+  "id": "e_001397",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -104,7 +104,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001397",
+  "id": "e_001398",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -135,7 +135,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001398",
+  "id": "e_001399",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -173,7 +173,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001399",
+  "id": "e_001400",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -211,7 +211,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001400",
+  "id": "e_001401",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -241,7 +241,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001401",
+  "id": "e_001402",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -282,12 +282,12 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001402",
+  "id": "e_001403",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "descrizioni"
   ],
   "grammar_tags": [
    "possessives",
@@ -295,51 +295,20 @@
    "reflexive-svoy"
   ],
   "words": [
-   "w_sam"
+   "w_novyy"
   ],
   "lesson": "l_a2_01",
   "est_seconds": 14,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Я́ ___!",
-   "answer": "сама́",
+   "text": "Всё ___.",
+   "answer": "но́вое",
    "accepted": [
-    "сама́",
-    "сама"
+    "но́вое",
+    "новое"
    ],
-   "hint_it": "Io stessa!"
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001403",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 3,
-  "topics": [
-   "grammatica"
-  ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
-  "words": [
-   "w_syn"
-  ],
-  "lesson": "l_a2_01",
-  "est_seconds": 18,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "Моему́ ___ во́семь ле́т.",
-   "answer": "сы́ну",
-   "accepted": [
-    "сы́ну",
-    "сыну"
-   ],
-   "hint_it": "Mio figlio ha otto anni."
+   "hint_it": "Tutto è nuovo."
   },
   "qa_status": "pending"
  },
@@ -357,20 +326,20 @@
    "reflexive-svoy"
   ],
   "words": [
-   "w_tvoy"
+   "w_moy"
   ],
   "lesson": "l_a2_01",
-  "est_seconds": 14,
+  "est_seconds": 18,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Кото́рый ___?",
-   "answer": "тво́й",
+   "text": "Э́то рестора́н ___ ма́тери.",
+   "answer": "мое́й",
    "accepted": [
-    "тво́й",
-    "твой"
+    "мое́й",
+    "моей"
    ],
-   "hint_it": "Qual è il tuo?"
+   "hint_it": "Questo ristorante è di mia madre."
   },
   "qa_status": "pending"
  },
@@ -388,20 +357,20 @@
    "reflexive-svoy"
   ],
   "words": [
-   "w_moy"
+   "w_kazhdyy"
   ],
   "lesson": "l_a2_01",
-  "est_seconds": 16,
+  "est_seconds": 22,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Она́ ___ сестра́.",
-   "answer": "моя́",
+   "text": "С ___ ра́зом и́х всё ме́ньше.",
+   "answer": "ка́ждым",
    "accepted": [
-    "моя́",
-    "моя"
+    "ка́ждым",
+    "каждым"
    ],
-   "hint_it": "Lei è mia sorella."
+   "hint_it": "Ogni volta sono sempre meno."
   },
   "qa_status": "pending"
  },
@@ -419,25 +388,58 @@
    "reflexive-svoy"
   ],
   "words": [
-   "w_tvoy"
+   "w_paket"
   ],
   "lesson": "l_a2_01",
-  "est_seconds": 14,
+  "est_seconds": 18,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Кото́рая ___?",
-   "answer": "твоя́",
+   "text": "Э́тот ___ для ва́с.",
+   "answer": "паке́т",
    "accepted": [
-    "твоя́",
-    "твоя"
+    "паке́т",
+    "пакет"
    ],
-   "hint_it": "Qual è la tua?"
+   "hint_it": "Questo pacchetto è per voi."
   },
   "qa_status": "pending"
  },
  {
   "id": "e_001407",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "possessives",
+   "demonstratives",
+   "reflexive-svoy"
+  ],
+  "words": [
+   "w_skolko"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ всего́ сту́льев?",
+   "answer": "Ско́лько",
+   "accepted": [
+    "Ско́лько",
+    "Сколько",
+    "сколько",
+    "ско́лько"
+   ],
+   "hint_it": "Quante sono le sedie?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001408",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
@@ -468,7 +470,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001408",
+  "id": "e_001409",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
@@ -481,25 +483,25 @@
    "reflexive-svoy"
   ],
   "words": [
-   "w_tvoy"
+   "w_ves"
   ],
   "lesson": "l_a2_01",
-  "est_seconds": 14,
+  "est_seconds": 20,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Како́й ___?",
-   "answer": "тво́й",
+   "text": "У на́с ___ ка́к обы́чно.",
+   "answer": "всё",
    "accepted": [
-    "тво́й",
-    "твой"
+    "всё",
+    "все"
    ],
-   "hint_it": "Qual è il tuo?"
+   "hint_it": "Per noi tutto come al solito."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001409",
+  "id": "e_001410",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -534,7 +536,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001410",
+  "id": "e_001411",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -566,7 +568,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001411",
+  "id": "e_001412",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -599,7 +601,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001412",
+  "id": "e_001413",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -632,7 +634,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001413",
+  "id": "e_001414",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -664,7 +666,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001414",
+  "id": "e_001415",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -702,7 +704,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001415",
+  "id": "e_001416",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -737,7 +739,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001416",
+  "id": "e_001417",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -787,7 +789,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001417",
+  "id": "e_001418",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -834,7 +836,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001418",
+  "id": "e_001419",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -891,7 +893,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001419",
+  "id": "e_001420",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -936,7 +938,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001420",
+  "id": "e_001421",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -984,7 +986,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001421",
+  "id": "e_001422",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -1040,7 +1042,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001422",
+  "id": "e_001423",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -1085,7 +1087,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001423",
+  "id": "e_001424",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1121,7 +1123,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001424",
+  "id": "e_001425",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1151,7 +1153,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001425",
+  "id": "e_001426",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1187,7 +1189,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001426",
+  "id": "e_001427",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1217,7 +1219,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001427",
+  "id": "e_001428",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1256,7 +1258,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001428",
+  "id": "e_001429",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1286,7 +1288,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001429",
+  "id": "e_001430",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,

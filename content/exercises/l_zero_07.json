@@ -305,6 +305,38 @@
   "level": "zero",
   "difficulty": 1,
   "topics": [
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "greetings",
+   "politeness"
+  ],
+  "words": [
+   "w_schyot"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___, пожа́луйста.",
+   "answer": "Счёт",
+   "accepted": [
+    "Счёт",
+    "счёт",
+    "Счет",
+    "счет"
+   ],
+   "hint_it": "Il conto, per favore."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_000229",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
    "saluti"
   ],
   "grammar_tags": [
@@ -330,7 +362,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000229",
+  "id": "e_000230",
   "type": "cloze",
   "level": "zero",
   "difficulty": 1,
@@ -362,7 +394,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000230",
+  "id": "e_000231",
   "type": "cloze",
   "level": "zero",
   "difficulty": 1,
@@ -392,7 +424,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000231",
+  "id": "e_000232",
   "type": "cloze",
   "level": "zero",
   "difficulty": 1,
@@ -422,7 +454,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000232",
+  "id": "e_000233",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -453,7 +485,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000233",
+  "id": "e_000234",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -484,7 +516,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000234",
+  "id": "e_000235",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -517,7 +549,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000235",
+  "id": "e_000236",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -548,7 +580,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000236",
+  "id": "e_000237",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -583,7 +615,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000237",
+  "id": "e_000238",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -614,7 +646,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000238",
+  "id": "e_000239",
   "type": "multiple_choice",
   "level": "zero",
   "difficulty": 1,
@@ -645,7 +677,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000239",
+  "id": "e_000240",
   "type": "match",
   "level": "zero",
   "difficulty": 1,
@@ -694,7 +726,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000240",
+  "id": "e_000241",
   "type": "match",
   "level": "zero",
   "difficulty": 3,
@@ -742,7 +774,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000241",
+  "id": "e_000242",
   "type": "match",
   "level": "zero",
   "difficulty": 2,
@@ -798,7 +830,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000242",
+  "id": "e_000243",
   "type": "match",
   "level": "zero",
   "difficulty": 1,
@@ -852,7 +884,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000243",
+  "id": "e_000244",
   "type": "match",
   "level": "zero",
   "difficulty": 2,
@@ -908,7 +940,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000244",
+  "id": "e_000245",
   "type": "match",
   "level": "zero",
   "difficulty": 2,
@@ -963,7 +995,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000245",
+  "id": "e_000246",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,
@@ -997,7 +1029,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000246",
+  "id": "e_000247",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,
@@ -1026,7 +1058,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000247",
+  "id": "e_000248",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,
@@ -1060,7 +1092,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000248",
+  "id": "e_000249",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,
@@ -1089,7 +1121,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000249",
+  "id": "e_000250",
   "type": "dictation",
   "level": "zero",
   "difficulty": 2,
@@ -1127,7 +1159,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000250",
+  "id": "e_000251",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,
@@ -1156,7 +1188,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_000251",
+  "id": "e_000252",
   "type": "dictation",
   "level": "zero",
   "difficulty": 1,

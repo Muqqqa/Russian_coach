@@ -1,6 +1,6 @@
 [
  {
-  "id": "e_001698",
+  "id": "e_001699",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -29,7 +29,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001699",
+  "id": "e_001700",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -75,7 +75,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001700",
+  "id": "e_001701",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -107,7 +107,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001701",
+  "id": "e_001702",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -143,7 +143,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001702",
+  "id": "e_001703",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -173,7 +173,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001703",
+  "id": "e_001704",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -207,7 +207,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001704",
+  "id": "e_001705",
   "type": "translate",
   "level": "a2",
   "difficulty": 4,
@@ -237,7 +237,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001705",
+  "id": "e_001706",
   "type": "translate",
   "level": "a2",
   "difficulty": 5,
@@ -278,7 +278,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001706",
+  "id": "e_001707",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -309,129 +309,39 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001707",
+  "id": "e_001708",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "tempo"
+   "grammatica"
   ],
   "grammar_tags": [
    "time-adverbs",
    "sequence"
   ],
   "words": [
-   "w_dozhd"
-  ],
-  "lesson": "l_a2_09",
-  "est_seconds": 14,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "Опя́ть ___!",
-   "answer": "до́ждь",
-   "accepted": [
-    "до́ждь",
-    "дождь"
-   ],
-   "hint_it": "Ancora pioggia!"
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001708",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 4,
-  "topics": [
-   "tempo"
-  ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
-  "words": [
-   "w_vecher"
+   "w_my"
   ],
   "lesson": "l_a2_09",
   "est_seconds": 16,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Я́ ___ приду́.",
-   "answer": "ве́чером",
+   "text": "___ сра́зу ушли́.",
+   "answer": "Мы́",
    "accepted": [
-    "ве́чером",
-    "вечером"
+    "Мы́",
+    "Мы",
+    "мы",
+    "мы́"
    ],
-   "hint_it": "Verrò di sera."
+   "hint_it": "Ce ne siamo andati immediatamente."
   },
   "qa_status": "pending"
  },
  {
   "id": "e_001709",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 4,
-  "topics": [
-   "movimento"
-  ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
-  "words": [
-   "w_ukhodit"
-  ],
-  "lesson": "l_a2_09",
-  "est_seconds": 14,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "Сра́зу ___.",
-   "answer": "уходи́",
-   "accepted": [
-    "уходи́",
-    "уходи"
-   ],
-   "hint_it": "Vattene subito."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001710",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 3,
-  "topics": [
-   "tempo"
-  ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
-  "words": [
-   "w_skoro"
-  ],
-  "lesson": "l_a2_09",
-  "est_seconds": 14,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "___ пя́тница.",
-   "answer": "Ско́ро",
-   "accepted": [
-    "Ско́ро",
-    "Скоро",
-    "скоро",
-    "ско́ро"
-   ],
-   "hint_it": "Presto è venerdì."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001711",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -461,7 +371,99 @@
   "qa_status": "pending"
  },
  {
+  "id": "e_001710",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_chelovek"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ наконе́ц ушёл.",
+   "answer": "Челове́к",
+   "accepted": [
+    "Челове́к",
+    "Человек",
+    "человек",
+    "челове́к"
+   ],
+   "hint_it": "Alla fine la persona se n'è andata."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001711",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_pyatnitsa"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ско́ро ___.",
+   "answer": "пя́тница",
+   "accepted": [
+    "пя́тница",
+    "пятница"
+   ],
+   "hint_it": "Presto è venerdì."
+  },
+  "qa_status": "pending"
+ },
+ {
   "id": "e_001712",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [
+   "time-adverbs",
+   "sequence"
+  ],
+  "words": [
+   "w_nakonets"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ ушёл.",
+   "answer": "наконе́ц",
+   "accepted": [
+    "наконе́ц",
+    "наконец"
+   ],
+   "hint_it": "Finalmente me ne sono andato."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001713",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
@@ -493,7 +495,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001713",
+  "id": "e_001714",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
@@ -523,37 +525,37 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001714",
+  "id": "e_001715",
   "type": "cloze",
   "level": "a2",
-  "difficulty": 4,
+  "difficulty": 3,
   "topics": [
-   "azioni"
+   "tempo"
   ],
   "grammar_tags": [
    "time-adverbs",
    "sequence"
   ],
   "words": [
-   "w_spat"
+   "w_davno"
   ],
   "lesson": "l_a2_09",
   "est_seconds": 16,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Уже́ ___ давно́.",
-   "answer": "сплю́",
+   "text": "Уже́ сплю́ ___.",
+   "answer": "давно́",
    "accepted": [
-    "сплю́",
-    "сплю"
+    "давно́",
+    "давно"
    ],
    "hint_it": "Dormo già da un pezzo."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001715",
+  "id": "e_001716",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -585,7 +587,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001716",
+  "id": "e_001717",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -616,7 +618,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001717",
+  "id": "e_001718",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -647,7 +649,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001718",
+  "id": "e_001719",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 5,
@@ -681,7 +683,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001719",
+  "id": "e_001720",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -712,7 +714,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001720",
+  "id": "e_001721",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -746,7 +748,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001721",
+  "id": "e_001722",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -777,7 +779,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001722",
+  "id": "e_001723",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -808,7 +810,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001723",
+  "id": "e_001724",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -857,7 +859,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001724",
+  "id": "e_001725",
   "type": "match",
   "level": "a2",
   "difficulty": 5,
@@ -903,7 +905,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001725",
+  "id": "e_001726",
   "type": "match",
   "level": "a2",
   "difficulty": 5,
@@ -958,7 +960,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001726",
+  "id": "e_001727",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -1007,7 +1009,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001727",
+  "id": "e_001728",
   "type": "match",
   "level": "a2",
   "difficulty": 5,
@@ -1054,7 +1056,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001728",
+  "id": "e_001729",
   "type": "match",
   "level": "a2",
   "difficulty": 5,
@@ -1109,7 +1111,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001729",
+  "id": "e_001730",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -1153,7 +1155,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001730",
+  "id": "e_001731",
   "type": "dictation",
   "level": "a2",
   "difficulty": 5,
@@ -1190,7 +1192,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001731",
+  "id": "e_001732",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1219,7 +1221,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001732",
+  "id": "e_001733",
   "type": "dictation",
   "level": "a2",
   "difficulty": 4,
@@ -1254,7 +1256,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001733",
+  "id": "e_001734",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1283,7 +1285,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001734",
+  "id": "e_001735",
   "type": "dictation",
   "level": "a2",
   "difficulty": 5,
@@ -1323,7 +1325,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001735",
+  "id": "e_001736",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1352,7 +1354,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001736",
+  "id": "e_001737",
   "type": "dictation",
   "level": "a2",
   "difficulty": 5,
@@ -1390,7 +1392,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001737",
+  "id": "e_001738",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,

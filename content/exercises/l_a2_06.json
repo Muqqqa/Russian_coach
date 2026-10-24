@@ -1,6 +1,6 @@
 [
  {
-  "id": "e_001586",
+  "id": "e_001587",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -34,7 +34,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001587",
+  "id": "e_001588",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -70,7 +70,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001588",
+  "id": "e_001589",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -100,7 +100,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001589",
+  "id": "e_001590",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -136,7 +136,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001590",
+  "id": "e_001591",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -167,7 +167,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001591",
+  "id": "e_001592",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -204,7 +204,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001592",
+  "id": "e_001593",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -234,7 +234,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001593",
+  "id": "e_001594",
   "type": "translate",
   "level": "a2",
   "difficulty": 3,
@@ -270,7 +270,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001594",
+  "id": "e_001595",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -300,39 +300,39 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001595",
+  "id": "e_001596",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "avverbi"
+   "grammatica"
   ],
   "grammar_tags": [
    "instrumental-case",
    "professions"
   ],
   "words": [
-   "w_kak"
+   "w_on"
   ],
   "lesson": "l_a2_06",
   "est_seconds": 16,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "___ вы́, па́рни?",
-   "answer": "Ка́к",
+   "text": "___ не до́ктор.",
+   "answer": "О́н",
    "accepted": [
-    "Ка́к",
-    "Как",
-    "как",
-    "ка́к"
+    "О́н",
+    "Он",
+    "он",
+    "о́н"
    ],
-   "hint_it": "Come va ragazzi?"
+   "hint_it": "Lui non è un dottore."
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001596",
+  "id": "e_001597",
   "type": "cloze",
   "level": "a2",
   "difficulty": 4,
@@ -362,7 +362,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001597",
+  "id": "e_001598",
   "type": "cloze",
   "level": "a2",
   "difficulty": 3,
@@ -381,43 +381,13 @@
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Я́ ___.",
+   "text": "Э́то ___.",
    "answer": "ма́льчик",
    "accepted": [
     "ма́льчик",
     "мальчик"
    ],
-   "hint_it": "Sono un ragazzo."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001598",
-  "type": "cloze",
-  "level": "a2",
-  "difficulty": 3,
-  "topics": [
-   "grammatica"
-  ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
-  "words": [
-   "w_direktor"
-  ],
-  "lesson": "l_a2_06",
-  "est_seconds": 14,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "Где́ ___?",
-   "answer": "дире́ктор",
-   "accepted": [
-    "дире́ктор",
-    "директор"
-   ],
-   "hint_it": "Dov'è il direttore?"
+   "hint_it": "Questo è un ragazzo."
   },
   "qa_status": "pending"
  },
@@ -434,22 +404,22 @@
    "professions"
   ],
   "words": [
-   "w_teper"
+   "w_muzhchina"
   ],
   "lesson": "l_a2_06",
-  "est_seconds": 16,
+  "est_seconds": 14,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "___ я́ нача́льник.",
-   "answer": "Тепе́рь",
+   "text": "___ иду́т.",
+   "answer": "Мужчи́ны",
    "accepted": [
-    "Тепе́рь",
-    "Теперь",
-    "теперь",
-    "тепе́рь"
+    "Мужчи́ны",
+    "Мужчины",
+    "мужчины",
+    "мужчи́ны"
    ],
-   "hint_it": "Sono il capo adesso."
+   "hint_it": "Gli uomini stanno andando."
   },
   "qa_status": "pending"
  },
@@ -487,6 +457,36 @@
  },
  {
   "id": "e_001601",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "instrumental-case",
+   "professions"
+  ],
+  "words": [
+   "w_doktor"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "О́н не ___.",
+   "answer": "до́ктор",
+   "accepted": [
+    "до́ктор",
+    "доктор"
+   ],
+   "hint_it": "Lui non è un dottore."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001602",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -517,7 +517,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001602",
+  "id": "e_001603",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -550,7 +550,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001603",
+  "id": "e_001604",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -581,7 +581,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001604",
+  "id": "e_001605",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -612,7 +612,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001605",
+  "id": "e_001606",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -644,7 +644,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001606",
+  "id": "e_001607",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 3,
@@ -675,7 +675,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001607",
+  "id": "e_001608",
   "type": "multiple_choice",
   "level": "a2",
   "difficulty": 4,
@@ -706,7 +706,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001608",
+  "id": "e_001609",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -755,7 +755,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001609",
+  "id": "e_001610",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -802,7 +802,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001610",
+  "id": "e_001611",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -857,7 +857,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001611",
+  "id": "e_001612",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -901,7 +901,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001612",
+  "id": "e_001613",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -948,7 +948,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001613",
+  "id": "e_001614",
   "type": "match",
   "level": "a2",
   "difficulty": 4,
@@ -1003,7 +1003,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001614",
+  "id": "e_001615",
   "type": "match",
   "level": "a2",
   "difficulty": 3,
@@ -1042,7 +1042,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001615",
+  "id": "e_001616",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1077,7 +1077,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001616",
+  "id": "e_001617",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1106,7 +1106,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001617",
+  "id": "e_001618",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1141,7 +1141,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001618",
+  "id": "e_001619",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1170,7 +1170,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001619",
+  "id": "e_001620",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1205,7 +1205,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001620",
+  "id": "e_001621",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,
@@ -1234,7 +1234,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001621",
+  "id": "e_001622",
   "type": "dictation",
   "level": "a2",
   "difficulty": 3,

@@ -1,6 +1,6 @@
 [
  {
-  "id": "e_001062",
+  "id": "e_001063",
   "type": "translate",
   "level": "a1",
   "difficulty": 2,
@@ -31,7 +31,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001063",
+  "id": "e_001064",
   "type": "translate",
   "level": "a1",
   "difficulty": 3,
@@ -70,7 +70,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001064",
+  "id": "e_001065",
   "type": "translate",
   "level": "a1",
   "difficulty": 3,
@@ -100,7 +100,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001065",
+  "id": "e_001066",
   "type": "translate",
   "level": "a1",
   "difficulty": 3,
@@ -136,7 +136,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001066",
+  "id": "e_001067",
   "type": "translate",
   "level": "a1",
   "difficulty": 2,
@@ -169,7 +169,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001067",
+  "id": "e_001068",
   "type": "translate",
   "level": "a1",
   "difficulty": 3,
@@ -207,7 +207,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001068",
+  "id": "e_001069",
   "type": "translate",
   "level": "a1",
   "difficulty": 3,
@@ -237,7 +237,69 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001069",
+  "id": "e_001070",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_gde"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ до́ждь?",
+   "answer": "Где́",
+   "accepted": [
+    "Где́",
+    "Где",
+    "где",
+    "где́"
+   ],
+   "hint_it": "Dov'è la pioggia?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001071",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_sneg"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Про́шлой но́чью шёл ___.",
+   "answer": "сне́г",
+   "accepted": [
+    "сне́г",
+    "снег"
+   ],
+   "hint_it": "La scorsa notte è nevicato."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001072",
   "type": "cloze",
   "level": "a1",
   "difficulty": 2,
@@ -249,57 +311,55 @@
    "impersonal"
   ],
   "words": [
-   "w_kakoy"
-  ],
-  "lesson": "l_a1_17",
-  "est_seconds": 16,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "___ та́м пого́да?",
-   "answer": "Кака́я",
-   "accepted": [
-    "Кака́я",
-    "Какая",
-    "какая",
-    "кака́я"
-   ],
-   "hint_it": "Com'è il tempo lì?"
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001070",
-  "type": "cloze",
-  "level": "a1",
-  "difficulty": 3,
-  "topics": [
-   "movimento"
-  ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
-  "words": [
-   "w_idti"
+   "w_dozhd"
   ],
   "lesson": "l_a1_17",
   "est_seconds": 14,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Сне́г ___?",
-   "answer": "идёт",
+   "text": "Где́ ___?",
+   "answer": "до́ждь",
    "accepted": [
-    "идёт",
-    "идет"
+    "до́ждь",
+    "дождь"
    ],
-   "hint_it": "Sta nevicando?"
+   "hint_it": "Dov'è la pioggia?"
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001071",
+  "id": "e_001073",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "weather",
+   "impersonal"
+  ],
+  "words": [
+   "w_komnata"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "В ___ жа́рко.",
+   "answer": "ко́мнате",
+   "accepted": [
+    "ко́мнате",
+    "комнате"
+   ],
+   "hint_it": "In camera c'è caldo."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001074",
   "type": "cloze",
   "level": "a1",
   "difficulty": 2,
@@ -331,39 +391,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001072",
-  "type": "cloze",
-  "level": "a1",
-  "difficulty": 2,
-  "topics": [
-   "avverbi"
-  ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
-  "words": [
-   "w_kak"
-  ],
-  "lesson": "l_a1_17",
-  "est_seconds": 16,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "___ та́м пого́да?",
-   "answer": "Ка́к",
-   "accepted": [
-    "Ка́к",
-    "Как",
-    "как",
-    "ка́к"
-   ],
-   "hint_it": "Com'è il tempo lì?"
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001073",
+  "id": "e_001075",
   "type": "cloze",
   "level": "a1",
   "difficulty": 2,
@@ -378,54 +406,22 @@
    "w_pogoda"
   ],
   "lesson": "l_a1_17",
-  "est_seconds": 14,
+  "est_seconds": 16,
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "Ка́к ___?",
+   "text": "Кака́я та́м ___?",
    "answer": "пого́да",
    "accepted": [
     "пого́да",
     "погода"
    ],
-   "hint_it": "Che tempo fa?"
+   "hint_it": "Com'è il tempo lì?"
   },
   "qa_status": "pending"
  },
  {
-  "id": "e_001074",
-  "type": "cloze",
-  "level": "a1",
-  "difficulty": 3,
-  "topics": [
-   "movimento"
-  ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
-  "words": [
-   "w_idti"
-  ],
-  "lesson": "l_a1_17",
-  "est_seconds": 14,
-  "prompt_it": "Completa la frase con la parola mancante.",
-  "payload": {
-   "type": "cloze",
-   "text": "___ сне́г.",
-   "answer": "Идёт",
-   "accepted": [
-    "Идёт",
-    "идёт",
-    "Идет",
-    "идет"
-   ],
-   "hint_it": "Nevica."
-  },
-  "qa_status": "pending"
- },
- {
-  "id": "e_001075",
+  "id": "e_001076",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 3,
@@ -459,7 +455,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001076",
+  "id": "e_001077",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 2,
@@ -490,7 +486,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001077",
+  "id": "e_001078",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 3,
@@ -521,7 +517,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001078",
+  "id": "e_001079",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 3,
@@ -553,7 +549,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001079",
+  "id": "e_001080",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 3,
@@ -584,7 +580,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001080",
+  "id": "e_001081",
   "type": "multiple_choice",
   "level": "a1",
   "difficulty": 2,
@@ -616,7 +612,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001081",
+  "id": "e_001082",
   "type": "match",
   "level": "a1",
   "difficulty": 3,
@@ -665,7 +661,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001082",
+  "id": "e_001083",
   "type": "match",
   "level": "a1",
   "difficulty": 4,
@@ -713,7 +709,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001083",
+  "id": "e_001084",
   "type": "match",
   "level": "a1",
   "difficulty": 4,
@@ -769,7 +765,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001084",
+  "id": "e_001085",
   "type": "match",
   "level": "a1",
   "difficulty": 3,
@@ -818,7 +814,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001085",
+  "id": "e_001086",
   "type": "match",
   "level": "a1",
   "difficulty": 4,
@@ -865,7 +861,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001086",
+  "id": "e_001087",
   "type": "match",
   "level": "a1",
   "difficulty": 4,
@@ -921,7 +917,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001087",
+  "id": "e_001088",
   "type": "dictation",
   "level": "a1",
   "difficulty": 3,
@@ -958,7 +954,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001088",
+  "id": "e_001089",
   "type": "dictation",
   "level": "a1",
   "difficulty": 2,
@@ -987,7 +983,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001089",
+  "id": "e_001090",
   "type": "dictation",
   "level": "a1",
   "difficulty": 3,
@@ -1022,7 +1018,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001090",
+  "id": "e_001091",
   "type": "dictation",
   "level": "a1",
   "difficulty": 2,
@@ -1051,7 +1047,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001091",
+  "id": "e_001092",
   "type": "dictation",
   "level": "a1",
   "difficulty": 4,
@@ -1088,7 +1084,7 @@
   "qa_status": "pending"
  },
  {
-  "id": "e_001092",
+  "id": "e_001093",
   "type": "dictation",
   "level": "a1",
   "difficulty": 2,
