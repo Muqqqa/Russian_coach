@@ -1,0 +1,34 @@
+[
+  {
+    "name": "OpenRussian.org",
+    "url": "https://en.openrussian.org",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution_text": "Vocabolario, accenti, livelli, traduzioni inglesi e forme flesse da OpenRussian.org (https://en.openrussian.org; dati pubblicati su https://github.com/Badestrand/russian-dictionary), licenza CC BY-SA 4.0. I dati sono stati normalizzati, i livelli rimappati (A1 -> zero, A2 -> a1, B1 -> a2) e le forme integrate con altre fonti.",
+    "used_for": "Parole: lemma, accento, traduzioni inglesi, genere, forme flesse (declinazioni e coniugazioni), livelli."
+  },
+  {
+    "name": "Wiktionary (edizione inglese) via Wiktextract / kaikki.org",
+    "url": "https://en.wiktionary.org",
+    "license": "CC BY-SA 4.0 e GFDL (a scelta; si usa CC BY-SA 4.0)",
+    "license_url": "https://en.wiktionary.org/wiki/Wiktionary:Copyrights",
+    "attribution_text": "Alcune forme flesse, informazioni grammaticali (aspetto, reggenze, transitivita'), pronuncia IPA e argomenti derivano da Wiktionary (https://en.wiktionary.org), contributori di Wiktionary, licenza CC BY-SA 4.0, estratti con Wiktextract di Tatu Ylonen (https://github.com/tatuylonen/wiktextract, licenza MIT) tramite https://kaikki.org. Citazione: Tatu Ylonen, Wiktextract: Wiktionary as Machine-Readable Structured Data, LREC 2022, pp. 1317-1325. Dati modificati e filtrati.",
+    "used_for": "Parole: forme flesse mancanti, genere/animato mancanti, IPA, aspetto, reggenze, tag grammaticali, argomenti (topics)."
+  },
+  {
+    "name": "Wikizionario (Wiktionary in italiano) via kaikki.org",
+    "url": "https://it.wiktionary.org",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
+    "attribution_text": "Alcune traduzioni italiane delle parole derivano da Wikizionario (https://it.wiktionary.org), contributori di Wikizionario, licenza CC BY-SA 4.0, estratte con Wiktextract tramite https://kaikki.org/itwiktionary/. Dati modificati (parentesi esplicative rimosse, glosse separate).",
+    "used_for": "Parole: traduzione italiana (campo it) per una parte del vocabolario."
+  },
+  {
+    "name": "Tatoeba",
+    "url": "https://tatoeba.org",
+    "license": "CC BY 2.0 FR (alcune frasi CC0 1.0)",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/fr/",
+    "attribution_text": "Le frasi d'esempio e le loro traduzioni italiane provengono da Tatoeba (https://tatoeba.org), contributori di Tatoeba, licenza CC BY 2.0 FR; alcune frasi sono CC0 1.0. L'autore di ogni frase e della sua traduzione e' indicato nel campo attribution del singolo record (data/sentences). Gli accenti sono stati aggiunti da questo progetto; le frasi sono state selezionate e filtrate.",
+    "used_for": "Frasi d'esempio russe con traduzione italiana."
+  }
+]

@@ -1,0 +1,1668 @@
+{
+ "generato_da": "scripts/filter_sentences.py",
+ "frasi_controllate": 9960,
+ "frasi_escluse": 236,
+ "per_motivo": {
+  "morte": 88,
+  "religione": 34,
+  "politica": 52,
+  "violenza/armi": 32,
+  "insulti/razzismo": 29,
+  "sesso": 1
+ },
+ "nota": "Euristica a radici in russo e italiano; esclude per cautela (anche falsi positivi). id = id frase (s_<Tatoeba>).",
+ "frasi": [
+  {
+   "id": "s_407247",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Это вопрос жизни и смерти.",
+   "it": "È una questione di vita e di morte."
+  },
+  {
+   "id": "s_431546",
+   "motivo": "religione",
+   "termine": "бога",
+   "ru": "Я верю в Бога.",
+   "it": "Credo in Dio."
+  },
+  {
+   "id": "s_438314",
+   "motivo": "politica",
+   "termine": "государство",
+   "ru": "Государство — это я!",
+   "it": "Sono lo Stato!"
+  },
+  {
+   "id": "s_442079",
+   "motivo": "religione",
+   "termine": "бога",
+   "ru": "Она не верит в бога.",
+   "it": "Non crede in Dio."
+  },
+  {
+   "id": "s_473158",
+   "motivo": "politica",
+   "termine": "полиция",
+   "ru": "Приедет ли полиция?",
+   "it": "La polizia verrà?"
+  },
+  {
+   "id": "s_473212",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Они верят в жизнь после смерти.",
+   "it": "Credono alla vita dopo la morte."
+  },
+  {
+   "id": "s_473241",
+   "motivo": "religione",
+   "termine": "бога",
+   "ru": "Вы верите в Бога?",
+   "it": "Crede in Dio?"
+  },
+  {
+   "id": "s_473726",
+   "motivo": "politica",
+   "termine": "армию",
+   "ru": "Он пошёл в армию.",
+   "it": "È andato sotto le armi."
+  },
+  {
+   "id": "s_502182",
+   "motivo": "religione",
+   "termine": "бога",
+   "ru": "Он не верит в бога.",
+   "it": "Non crede in Dio."
+  },
+  {
+   "id": "s_507121",
+   "motivo": "politica",
+   "termine": "закон",
+   "ru": "Закон знают все.",
+   "it": "Tutti conoscono la legge."
+  },
+  {
+   "id": "s_573819",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Этот человек умер всего несколько часов назад.",
+   "it": "L'uomo è morto poche ore fa."
+  },
+  {
+   "id": "s_614523",
+   "motivo": "politica",
+   "termine": "полиция",
+   "ru": "Приедет полиция?",
+   "it": "La polizia verrà?"
+  },
+  {
+   "id": "s_638979",
+   "motivo": "politica",
+   "termine": "полицию",
+   "ru": "Вызовите полицию!",
+   "it": "Chiami la polizia!"
+  },
+  {
+   "id": "s_646279",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Он умер десять лет назад.",
+   "it": "È morto dieci anni fa."
+  },
+  {
+   "id": "s_651943",
+   "motivo": "religione",
+   "termine": "бог",
+   "ru": "Бог дал, Бог взял.",
+   "it": "Dio ha dato, Dio ha preso."
+  },
+  {
+   "id": "s_696744",
+   "motivo": "violenza/armi",
+   "termine": "бойся",
+   "ru": "Боишься - не начинай, начал - не бойся.",
+   "it": "Se hai paura non cominciare, se hai cominciato, non aver paura."
+  },
+  {
+   "id": "s_797348",
+   "motivo": "politica",
+   "termine": "армия",
+   "ru": "Армия оставила город врагу.",
+   "it": "L'esercito ha lasciato la città al nemico."
+  },
+  {
+   "id": "s_827906",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Она не боится смерти.",
+   "it": "Lei non ha paura della morte."
+  },
+  {
+   "id": "s_953030",
+   "motivo": "morte",
+   "termine": "умрёт",
+   "ru": "Всё живое однажды умрёт.",
+   "it": "Tutte le cose viventi un giorno moriranno."
+  },
+  {
+   "id": "s_1306410",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "После смерти нет ничего.",
+   "it": "Dopo la morte non c'è nulla."
+  },
+  {
+   "id": "s_1438642",
+   "motivo": "violenza/armi",
+   "termine": "война",
+   "ru": "Теперь это война.",
+   "it": "Ormai è una guerra."
+  },
+  {
+   "id": "s_1501312",
+   "motivo": "religione",
+   "termine": "бога",
+   "ru": "Ты веришь в Бога?",
+   "it": "Credi in Dio?"
+  },
+  {
+   "id": "s_1643262",
+   "motivo": "politica",
+   "termine": "полицию",
+   "ru": "Нужно вызвать полицию.",
+   "it": "Dobbiamo chiamare la polizia."
+  },
+  {
+   "id": "s_1790248",
+   "motivo": "religione",
+   "termine": "бога",
+   "ru": "Почему ты не веришь в Бога?",
+   "it": "Perché non credi in Dio?"
+  },
+  {
+   "id": "s_1790250",
+   "motivo": "religione",
+   "termine": "бога",
+   "ru": "Почему вы не верите в Бога?",
+   "it": "Perché non credete in Dio?"
+  },
+  {
+   "id": "s_1866544",
+   "motivo": "violenza/armi",
+   "termine": "бойся",
+   "ru": "Всё хорошо, не бойся!",
+   "it": "Va tutto bene, non aver paura!"
+  },
+  {
+   "id": "s_1896927",
+   "motivo": "morte",
+   "termine": "умрёт",
+   "ru": "Помоги Тому! Иначе он умрёт.",
+   "it": "Aiuta Tom! Altrimenti morirà."
+  },
+  {
+   "id": "s_1916824",
+   "motivo": "politica",
+   "termine": "армии",
+   "ru": "Он в армии.",
+   "it": "Lui presta servizio militare."
+  },
+  {
+   "id": "s_2005101",
+   "motivo": "violenza/armi",
+   "termine": "combatte",
+   "ru": "Из ничего ничего не бывает.",
+   "it": "Chi non combatte non riporta vittoria."
+  },
+  {
+   "id": "s_2026693",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Никто не умер.",
+   "it": "Non è morto nessuno."
+  },
+  {
+   "id": "s_2032506",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Я боюсь смерти.",
+   "it": "Ho paura della morte."
+  },
+  {
+   "id": "s_2036052",
+   "motivo": "politica",
+   "termine": "президента",
+   "ru": "Что вы думаете о речи президента?",
+   "it": "Cosa ne pensate del discorso del presidente?"
+  },
+  {
+   "id": "s_2061171",
+   "motivo": "insulti/razzismo",
+   "termine": "толстый",
+   "ru": "Я очень толстый.",
+   "it": "Sono molto grasso."
+  },
+  {
+   "id": "s_2077291",
+   "motivo": "morte",
+   "termine": "смерть",
+   "ru": "Каждый сон - маленькая смерть.",
+   "it": "Ogni sonno è una breve morte."
+  },
+  {
+   "id": "s_2080232",
+   "motivo": "sesso",
+   "termine": "член",
+   "ru": "Ты член партии?",
+   "it": "Sei un membro del partito?"
+  },
+  {
+   "id": "s_2199600",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Мой дядя умер год назад.",
+   "it": "Mio zio è morto un anno fa."
+  },
+  {
+   "id": "s_2249900",
+   "motivo": "religione",
+   "termine": "anima",
+   "ru": "Он молод душой.",
+   "it": "Lui è giovane nell'anima."
+  },
+  {
+   "id": "s_2333222",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Ты боишься смерти?",
+   "it": "Hai paura della morte?"
+  },
+  {
+   "id": "s_2418712",
+   "motivo": "politica",
+   "termine": "солдаты",
+   "ru": "Они не солдаты.",
+   "it": "Non sono soldati."
+  },
+  {
+   "id": "s_2433618",
+   "motivo": "politica",
+   "termine": "законы",
+   "ru": "Многие не могут понять законы.",
+   "it": "Molti non sono in grado di comprendere le leggi."
+  },
+  {
+   "id": "s_2484046",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Я не хочу умереть здесь.",
+   "it": "Non voglio morire qui."
+  },
+  {
+   "id": "s_2497175",
+   "motivo": "morte",
+   "termine": "умрёт",
+   "ru": "Том умрёт.",
+   "it": "Tom morirà."
+  },
+  {
+   "id": "s_2517951",
+   "motivo": "morte",
+   "termine": "sangue",
+   "ru": "Это всего лишь кровь.",
+   "it": "Non è che sangue."
+  },
+  {
+   "id": "s_2597154",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Как давно автор умер?",
+   "it": "Quanto tempo fa è morto l'autore?"
+  },
+  {
+   "id": "s_2597296",
+   "motivo": "politica",
+   "termine": "солдат",
+   "ru": "Я не один из твоих солдат.",
+   "it": "Non sono uno dei tuoi soldati."
+  },
+  {
+   "id": "s_2618792",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Том хочет умереть.",
+   "it": "Tom vuole morire."
+  },
+  {
+   "id": "s_2622234",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Я слышал, что он умер.",
+   "it": "Ho sentito che lui è morto."
+  },
+  {
+   "id": "s_2717535",
+   "motivo": "morte",
+   "termine": "moriremo",
+   "ru": "Мы все умрём.",
+   "it": "Moriremo tutti."
+  },
+  {
+   "id": "s_2724211",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Ты умер.",
+   "it": "Sei morto."
+  },
+  {
+   "id": "s_2724238",
+   "motivo": "morte",
+   "termine": "умерли",
+   "ru": "Они умерли.",
+   "it": "Loro sono morti."
+  },
+  {
+   "id": "s_2727338",
+   "motivo": "morte",
+   "termine": "morirai",
+   "ru": "Иначе ты умрёшь.",
+   "it": "Altrimenti morirai."
+  },
+  {
+   "id": "s_2727339",
+   "motivo": "morte",
+   "termine": "morirete",
+   "ru": "Иначе Вы умрёте.",
+   "it": "Altrimenti Voi morirete."
+  },
+  {
+   "id": "s_2751325",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Она боится смерти.",
+   "it": "Lei ha paura della morte."
+  },
+  {
+   "id": "s_2751328",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Он не боится смерти.",
+   "it": "Lui non ha paura della morte."
+  },
+  {
+   "id": "s_2762311",
+   "motivo": "insulti/razzismo",
+   "termine": "толстый",
+   "ru": "Я толстый?",
+   "it": "Io sono grasso?"
+  },
+  {
+   "id": "s_2762312",
+   "motivo": "insulti/razzismo",
+   "termine": "толстая",
+   "ru": "Я толстая?",
+   "it": "Io sono grasso?"
+  },
+  {
+   "id": "s_2815420",
+   "motivo": "religione",
+   "termine": "богом",
+   "ru": "Я стану богом нового мира.",
+   "it": "Diventerò il dio del nuovo mondo."
+  },
+  {
+   "id": "s_2898008",
+   "motivo": "morte",
+   "termine": "умерла",
+   "ru": "Она умерла несколько лет назад.",
+   "it": "È morta qualche anno fa."
+  },
+  {
+   "id": "s_2927583",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Я боюсь умереть.",
+   "it": "Ho paura di morire."
+  },
+  {
+   "id": "s_2993871",
+   "motivo": "insulti/razzismo",
+   "termine": "толстая",
+   "ru": "Том сказал, что я толстая.",
+   "it": "Tom ha detto che sono grassa."
+  },
+  {
+   "id": "s_3027449",
+   "motivo": "insulti/razzismo",
+   "termine": "толстая",
+   "ru": "Я очень толстая.",
+   "it": "Sono molto grassa."
+  },
+  {
+   "id": "s_3034758",
+   "motivo": "morte",
+   "termine": "умерли",
+   "ru": "Не будь солнца, все бы мы умерли.",
+   "it": "Se non ci fosse il sole moriremmo tutti."
+  },
+  {
+   "id": "s_3090757",
+   "motivo": "politica",
+   "termine": "законом",
+   "ru": "Я никогда не имел проблем с законом.",
+   "it": "Io non ho mai avuto problemi con la legge."
+  },
+  {
+   "id": "s_3090758",
+   "motivo": "politica",
+   "termine": "законом",
+   "ru": "Я никогда не имела проблем с законом.",
+   "it": "Io non ho mai avuto problemi con la legge."
+  },
+  {
+   "id": "s_3117439",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Вы боитесь смерти?",
+   "it": "Ha paura della morte?"
+  },
+  {
+   "id": "s_3141337",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Том купил этот дом после смерти своего отца.",
+   "it": "Tom ha comprato questa casa dopo la morte di suo padre."
+  },
+  {
+   "id": "s_3145380",
+   "motivo": "religione",
+   "termine": "бог",
+   "ru": "Бог велик.",
+   "it": "Dio è grande."
+  },
+  {
+   "id": "s_3156611",
+   "motivo": "morte",
+   "termine": "sangue",
+   "ru": "Ты боишься крови?",
+   "it": "Hai paura del sangue?"
+  },
+  {
+   "id": "s_3198376",
+   "motivo": "religione",
+   "termine": "бога",
+   "ru": "Он не верит в Бога.",
+   "it": "Non crede in Dio."
+  },
+  {
+   "id": "s_3198377",
+   "motivo": "religione",
+   "termine": "бога",
+   "ru": "Она не верит в Бога.",
+   "it": "Non crede in Dio."
+  },
+  {
+   "id": "s_3213389",
+   "motivo": "insulti/razzismo",
+   "termine": "толстые",
+   "ru": "Они слишком толстые.",
+   "it": "Sono troppo grassi."
+  },
+  {
+   "id": "s_3218526",
+   "motivo": "insulti/razzismo",
+   "termine": "brutta",
+   "ru": "Ты действительно плохой человек.",
+   "it": "Sei veramente una brutta persona."
+  },
+  {
+   "id": "s_3218558",
+   "motivo": "morte",
+   "termine": "умрёт",
+   "ru": "Том умрёт?",
+   "it": "Tom morirà?"
+  },
+  {
+   "id": "s_3218563",
+   "motivo": "morte",
+   "termine": "умрёт",
+   "ru": "Том скоро умрёт.",
+   "it": "Tom morirà presto."
+  },
+  {
+   "id": "s_3242062",
+   "motivo": "insulti/razzismo",
+   "termine": "brutta",
+   "ru": "Я плохой человек.",
+   "it": "Io sono una brutta persona."
+  },
+  {
+   "id": "s_3252613",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Я не боюсь смерти.",
+   "it": "Non ho paura della morte."
+  },
+  {
+   "id": "s_3290359",
+   "motivo": "morte",
+   "termine": "умрёт",
+   "ru": "Как человек живёт, так он и умрёт.",
+   "it": "Come un uomo vive, così muore."
+  },
+  {
+   "id": "s_3292935",
+   "motivo": "religione",
+   "termine": "богов",
+   "ru": "Я в руках богов.",
+   "it": "Sono nelle mani degli dei."
+  },
+  {
+   "id": "s_3292937",
+   "motivo": "religione",
+   "termine": "богов",
+   "ru": "Они в руках богов.",
+   "it": "Sono nelle mani degli dei."
+  },
+  {
+   "id": "s_3347334",
+   "motivo": "insulti/razzismo",
+   "termine": "толстый",
+   "ru": "Том сказал, что я толстый.",
+   "it": "Tom ha detto che sono grasso."
+  },
+  {
+   "id": "s_3351247",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "\"Когда он умер?\" - \"Не очень давно\".",
+   "it": "\"Quand'è morto?\" \"Non molto tempo fa.\""
+  },
+  {
+   "id": "s_3434996",
+   "motivo": "politica",
+   "termine": "полиция",
+   "ru": "Полиция здесь.",
+   "it": "La polizia è qui."
+  },
+  {
+   "id": "s_3443155",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Ты боишься смерти.",
+   "it": "Hai paura della morte."
+  },
+  {
+   "id": "s_3517112",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Она боится смерти?",
+   "it": "Lei ha paura della morte?"
+  },
+  {
+   "id": "s_3532807",
+   "motivo": "politica",
+   "termine": "полицию",
+   "ru": "Я должен вызвать полицию.",
+   "it": "Devo chiamare la polizia."
+  },
+  {
+   "id": "s_3532808",
+   "motivo": "politica",
+   "termine": "полицию",
+   "ru": "Я должна вызвать полицию.",
+   "it": "Devo chiamare la polizia."
+  },
+  {
+   "id": "s_3622230",
+   "motivo": "religione",
+   "termine": "господин",
+   "ru": "В чём дело, господин?",
+   "it": "Qual è il problema, signore?"
+  },
+  {
+   "id": "s_3652950",
+   "motivo": "politica",
+   "termine": "полицию",
+   "ru": "Ты вызвал полицию?",
+   "it": "Hai chiamato la polizia."
+  },
+  {
+   "id": "s_3652951",
+   "motivo": "politica",
+   "termine": "полицию",
+   "ru": "Ты вызвала полицию?",
+   "it": "Hai chiamato la polizia?"
+  },
+  {
+   "id": "s_3789310",
+   "motivo": "morte",
+   "termine": "sangue",
+   "ru": "Где кровь?",
+   "it": "Dov'è il sangue?"
+  },
+  {
+   "id": "s_3851738",
+   "motivo": "politica",
+   "termine": "президент",
+   "ru": "Президент казался сильным.",
+   "it": "Il presidente sembrava forte."
+  },
+  {
+   "id": "s_3892682",
+   "motivo": "politica",
+   "termine": "солдатом",
+   "ru": "Том стал солдатом.",
+   "it": "Tom si è arruolato."
+  },
+  {
+   "id": "s_3943907",
+   "motivo": "violenza/armi",
+   "termine": "оружие",
+   "ru": "Брось своё оружие.",
+   "it": "Metti giù l’arma."
+  },
+  {
+   "id": "s_3999355",
+   "motivo": "violenza/armi",
+   "termine": "убить",
+   "ru": "Я бы не смог их убить.",
+   "it": "Non avrei potuto ucciderli."
+  },
+  {
+   "id": "s_4004047",
+   "motivo": "religione",
+   "termine": "бог",
+   "ru": "Ты не Бог.",
+   "it": "Non sei Dio."
+  },
+  {
+   "id": "s_4096041",
+   "motivo": "morte",
+   "termine": "moriamo",
+   "ru": "Мы всё равно все умрём.",
+   "it": "Tanto moriamo tutti lo stesso."
+  },
+  {
+   "id": "s_4134592",
+   "motivo": "violenza/armi",
+   "termine": "убил",
+   "ru": "Худой мужик убил толстого мужика.",
+   "it": "L'uomo magro ha ucciso l'uomo grasso."
+  },
+  {
+   "id": "s_4269167",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Ты не боишься смерти?",
+   "it": "Non hai paura della morte?"
+  },
+  {
+   "id": "s_4304609",
+   "motivo": "politica",
+   "termine": "полиция",
+   "ru": "Что хотела полиция?",
+   "it": "Cosa voleva la polizia?"
+  },
+  {
+   "id": "s_4406898",
+   "motivo": "insulti/razzismo",
+   "termine": "толстая",
+   "ru": "Я не толстая.",
+   "it": "Non sono grassa."
+  },
+  {
+   "id": "s_4428639",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Каждый человек должен умереть.",
+   "it": "Ogni persona deve morire."
+  },
+  {
+   "id": "s_4429064",
+   "motivo": "violenza/armi",
+   "termine": "война",
+   "ru": "Это война!",
+   "it": "È la guerra!"
+  },
+  {
+   "id": "s_4440956",
+   "motivo": "religione",
+   "termine": "anima",
+   "ru": "Том молод сердцем.",
+   "it": "Tom è giovane nell'anima."
+  },
+  {
+   "id": "s_4449057",
+   "motivo": "politica",
+   "termine": "капитаном",
+   "ru": "Он стал капитаном.",
+   "it": "Lui è diventato capitano."
+  },
+  {
+   "id": "s_4509857",
+   "motivo": "violenza/armi",
+   "termine": "оружие",
+   "ru": "Ты принёс оружие?",
+   "it": "Hai portato un'arma?"
+  },
+  {
+   "id": "s_4571380",
+   "motivo": "politica",
+   "termine": "полиция",
+   "ru": "Везде полиция.",
+   "it": "La polizia è dappertutto."
+  },
+  {
+   "id": "s_4600404",
+   "motivo": "morte",
+   "termine": "morirà",
+   "ru": "Ты умрёшь.",
+   "it": "Morirà."
+  },
+  {
+   "id": "s_4712474",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Автор этой книги умер.",
+   "it": "L'autore di questo libro è morto."
+  },
+  {
+   "id": "s_4803840",
+   "motivo": "morte",
+   "termine": "смерть",
+   "ru": "Смерть похожа на сон.",
+   "it": "La morte è simile al sonno."
+  },
+  {
+   "id": "s_4862486",
+   "motivo": "insulti/razzismo",
+   "termine": "толстая",
+   "ru": "Я правда не толстая?",
+   "it": "Davvero non sono grassa?"
+  },
+  {
+   "id": "s_4876978",
+   "motivo": "violenza/armi",
+   "termine": "враги",
+   "ru": "Мы не враги.",
+   "it": "Non siamo nemici."
+  },
+  {
+   "id": "s_4902376",
+   "motivo": "morte",
+   "termine": "sangue",
+   "ru": "На твоих руках кровь.",
+   "it": "Hai del sangue sulle mani."
+  },
+  {
+   "id": "s_4916191",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Они должны умереть.",
+   "it": "Devono morire."
+  },
+  {
+   "id": "s_5018525",
+   "motivo": "politica",
+   "termine": "полиция",
+   "ru": "Откройте! Полиция!",
+   "it": "Aprite! Polizia!"
+  },
+  {
+   "id": "s_5049802",
+   "motivo": "religione",
+   "termine": "бога",
+   "ru": "Том верит в Бога?",
+   "it": "Tom crede in Dio?"
+  },
+  {
+   "id": "s_5051394",
+   "motivo": "morte",
+   "termine": "morirai",
+   "ru": "В конце жизни ты умрёшь.",
+   "it": "Alla fine della vita morirai."
+  },
+  {
+   "id": "s_5178277",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Она не боится умереть.",
+   "it": "Lei non ha paura di morire."
+  },
+  {
+   "id": "s_5216553",
+   "motivo": "morte",
+   "termine": "умрут",
+   "ru": "Люди умрут.",
+   "it": "Le persone moriranno."
+  },
+  {
+   "id": "s_5253588",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Я боюсь смерти?",
+   "it": "Ho paura io della morte?"
+  },
+  {
+   "id": "s_5328942",
+   "motivo": "morte",
+   "termine": "sangue",
+   "ru": "Кровь красная.",
+   "it": "Il sangue è rosso."
+  },
+  {
+   "id": "s_5363241",
+   "motivo": "violenza/armi",
+   "termine": "врага",
+   "ru": "Надо знать своего врага.",
+   "it": "Bisogna conoscere il proprio nemico."
+  },
+  {
+   "id": "s_5387023",
+   "motivo": "politica",
+   "termine": "солдатами",
+   "ru": "Мы были солдатами.",
+   "it": "Facevamo i soldati."
+  },
+  {
+   "id": "s_5390956",
+   "motivo": "violenza/armi",
+   "termine": "убили",
+   "ru": "Их убили.",
+   "it": "Li hanno ammazzati."
+  },
+  {
+   "id": "s_5397008",
+   "motivo": "insulti/razzismo",
+   "termine": "толстый",
+   "ru": "Ты слишком толстый.",
+   "it": "Sei troppo grasso."
+  },
+  {
+   "id": "s_5418258",
+   "motivo": "insulti/razzismo",
+   "termine": "толстый",
+   "ru": "Том толстый?",
+   "it": "Tom è grasso?"
+  },
+  {
+   "id": "s_5455004",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Том мог в ту ночь умереть.",
+   "it": "Quella notte Tom avrebbe potuto morire."
+  },
+  {
+   "id": "s_5456554",
+   "motivo": "politica",
+   "termine": "полиция",
+   "ru": "Полиция считает, что Том убил своих родителей.",
+   "it": "La polizia crede che Tom abbia ucciso i suoi genitori."
+  },
+  {
+   "id": "s_5456555",
+   "motivo": "politica",
+   "termine": "полиции",
+   "ru": "В полиции считают, что Том убил своих родителей.",
+   "it": "Alla polizia credono che Tom abbia ucciso i suoi genitori."
+  },
+  {
+   "id": "s_5465825",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Мой сын мог умереть.",
+   "it": "Mio figlio poteva morire!"
+  },
+  {
+   "id": "s_5479855",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Как именно умер Том?",
+   "it": "Tom quando è morto precisamente?"
+  },
+  {
+   "id": "s_5482758",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Я не знал, что Том умер.",
+   "it": "Non sapevo che Tom fosse morto."
+  },
+  {
+   "id": "s_5482946",
+   "motivo": "politica",
+   "termine": "армию",
+   "ru": "Она пошла в армию.",
+   "it": "Lei si è arruolata nell'esercito."
+  },
+  {
+   "id": "s_5482947",
+   "motivo": "politica",
+   "termine": "армию",
+   "ru": "Я хочу пойти в армию.",
+   "it": "Voglio arruolarmi nell'esercito."
+  },
+  {
+   "id": "s_5482952",
+   "motivo": "politica",
+   "termine": "армию",
+   "ru": "Том решил пойти в армию.",
+   "it": "Tom ha deciso di andare sotto le armi."
+  },
+  {
+   "id": "s_5482958",
+   "motivo": "politica",
+   "termine": "армию",
+   "ru": "Том ещё слишком молод, чтобы идти в армию.",
+   "it": "Tom è ancora troppo giovane per partire militare."
+  },
+  {
+   "id": "s_5484599",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Том не так давно умер.",
+   "it": "Tom è morto recentemente."
+  },
+  {
+   "id": "s_5496718",
+   "motivo": "violenza/armi",
+   "termine": "убить",
+   "ru": "Я не могу просто дать Тому себя убить.",
+   "it": "Non posso semplicemente lasciare che Tom mi uccida."
+  },
+  {
+   "id": "s_5499992",
+   "motivo": "morte",
+   "termine": "умерли",
+   "ru": "Мои родители умерли.",
+   "it": "I miei genitori sono morti."
+  },
+  {
+   "id": "s_5501849",
+   "motivo": "politica",
+   "termine": "полиция",
+   "ru": "Мы не полиция.",
+   "it": "Non siamo la polizia."
+  },
+  {
+   "id": "s_5516212",
+   "motivo": "violenza/armi",
+   "termine": "бойся",
+   "ru": "Не бойся, я здесь.",
+   "it": "Non aver paura, sono qui."
+  },
+  {
+   "id": "s_5516213",
+   "motivo": "violenza/armi",
+   "termine": "бойтесь",
+   "ru": "Не бойтесь, я здесь.",
+   "it": "Non abbiate paura, sono qui."
+  },
+  {
+   "id": "s_5528319",
+   "motivo": "morte",
+   "termine": "умерли",
+   "ru": "Они поэтому умерли?",
+   "it": "È il motivo per cui sono morti?"
+  },
+  {
+   "id": "s_5533679",
+   "motivo": "violenza/armi",
+   "termine": "оружие",
+   "ru": "Держи оружие под рукой.",
+   "it": "Reggi l'arma in mano."
+  },
+  {
+   "id": "s_5551982",
+   "motivo": "morte",
+   "termine": "morirai",
+   "ru": "Ты бы хотел знать, как умрёшь?",
+   "it": "Vorresti sapere come morirai?"
+  },
+  {
+   "id": "s_5556348",
+   "motivo": "religione",
+   "termine": "prete",
+   "ru": "Я требую правды.",
+   "it": "Pretendo la verità."
+  },
+  {
+   "id": "s_5560659",
+   "motivo": "politica",
+   "termine": "капитан",
+   "ru": "Вы капитан.",
+   "it": "Siete il capitano."
+  },
+  {
+   "id": "s_5579539",
+   "motivo": "religione",
+   "termine": "бог",
+   "ru": "Бог мой! Что это?",
+   "it": "Mio Dio! Questo cos'è?"
+  },
+  {
+   "id": "s_5584982",
+   "motivo": "religione",
+   "termine": "бог",
+   "ru": "Не дай бог туда вернуться!",
+   "it": "Dio mi guardi dal tornare lì!"
+  },
+  {
+   "id": "s_5584983",
+   "motivo": "religione",
+   "termine": "бог",
+   "ru": "Не дай бог попасть к такому врачу!",
+   "it": "Dio mi guardi dal finire nelle mani di un medico così!"
+  },
+  {
+   "id": "s_5586840",
+   "motivo": "religione",
+   "termine": "paradiso",
+   "ru": "Том сейчас на небесах.",
+   "it": "Tom è in paradiso adesso."
+  },
+  {
+   "id": "s_5601806",
+   "motivo": "religione",
+   "termine": "бог",
+   "ru": "Бог везде.",
+   "it": "Dio è ovunque."
+  },
+  {
+   "id": "s_5627840",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Я бы хотела умереть!",
+   "it": "Vorrei morire!"
+  },
+  {
+   "id": "s_5635056",
+   "motivo": "morte",
+   "termine": "умерли",
+   "ru": "Они, наверное, умерли.",
+   "it": "Devono essere morti."
+  },
+  {
+   "id": "s_5640025",
+   "motivo": "insulti/razzismo",
+   "termine": "толстый",
+   "ru": "Я не думаю, что ты толстый.",
+   "it": "Non penso che tu sia grasso."
+  },
+  {
+   "id": "s_5640026",
+   "motivo": "insulti/razzismo",
+   "termine": "толстая",
+   "ru": "Я не думаю, что ты толстая.",
+   "it": "Non penso che tu sia grassa."
+  },
+  {
+   "id": "s_5647402",
+   "motivo": "religione",
+   "termine": "бога",
+   "ru": "\"Ты ещё веришь?\" — \"В бога? Конечно!\"",
+   "it": "\"Tu credi ancora?\" - \"In Dio? Certo!\""
+  },
+  {
+   "id": "s_5651333",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Книга увидела свет только после смерти писателя.",
+   "it": "Il libro fu pubblicato solo dopo la morte dello scrittore."
+  },
+  {
+   "id": "s_5651640",
+   "motivo": "violenza/armi",
+   "termine": "оружие",
+   "ru": "Я знаю, где ты держишь оружие.",
+   "it": "So dove custodisci l'arma."
+  },
+  {
+   "id": "s_5672161",
+   "motivo": "politica",
+   "termine": "закон",
+   "ru": "Теперь это закон.",
+   "it": "Ora questa è legge."
+  },
+  {
+   "id": "s_5672820",
+   "motivo": "politica",
+   "termine": "капитан",
+   "ru": "Я ваш капитан.",
+   "it": "Sono il vostro capitano."
+  },
+  {
+   "id": "s_5677178",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Почему я не умер?",
+   "it": "Perché non sono morto?"
+  },
+  {
+   "id": "s_5681258",
+   "motivo": "politica",
+   "termine": "командиром",
+   "ru": "Командиром стал Том.",
+   "it": "Tom diventò il comandante."
+  },
+  {
+   "id": "s_5696091",
+   "motivo": "politica",
+   "termine": "закон",
+   "ru": "Том закон знает.",
+   "it": "Tom conosce la legge."
+  },
+  {
+   "id": "s_5699976",
+   "motivo": "politica",
+   "termine": "солдат",
+   "ru": "Солдат бежал.",
+   "it": "Il soldato corse."
+  },
+  {
+   "id": "s_5812674",
+   "motivo": "insulti/razzismo",
+   "termine": "brutte",
+   "ru": "Не думаю, что они плохие люди.",
+   "it": "Non penso che loro siano delle brutte persone."
+  },
+  {
+   "id": "s_5888796",
+   "motivo": "morte",
+   "termine": "morirò",
+   "ru": "Я не умру.",
+   "it": "Non morirò."
+  },
+  {
+   "id": "s_5894091",
+   "motivo": "insulti/razzismo",
+   "termine": "толстым",
+   "ru": "Я был толстым.",
+   "it": "Ero grasso."
+  },
+  {
+   "id": "s_5894092",
+   "motivo": "insulti/razzismo",
+   "termine": "толстой",
+   "ru": "Я была толстой.",
+   "it": "Ero grassa."
+  },
+  {
+   "id": "s_5894093",
+   "motivo": "insulti/razzismo",
+   "termine": "толстый",
+   "ru": "Я был толстый.",
+   "it": "Ero grasso."
+  },
+  {
+   "id": "s_5894095",
+   "motivo": "insulti/razzismo",
+   "termine": "толстая",
+   "ru": "Я была толстая.",
+   "it": "Ero grassa."
+  },
+  {
+   "id": "s_5902212",
+   "motivo": "politica",
+   "termine": "полиция",
+   "ru": "Полиция приедет?",
+   "it": "La polizia verrà?"
+  },
+  {
+   "id": "s_5968255",
+   "motivo": "violenza/armi",
+   "termine": "врага",
+   "ru": "Знай своего врага.",
+   "it": "Conosci il tuo nemico."
+  },
+  {
+   "id": "s_5974162",
+   "motivo": "politica",
+   "termine": "полиция",
+   "ru": "Полиция не может ничего сделать.",
+   "it": "La polizia non può fare niente."
+  },
+  {
+   "id": "s_5993199",
+   "motivo": "violenza/armi",
+   "termine": "врагов",
+   "ru": "Держи друзей близко, а врагов ещё ближе.",
+   "it": "Mantieni gli amici vicino, e i nemici ancora di più."
+  },
+  {
+   "id": "s_6001530",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Не надо бояться смерти.",
+   "it": "Non si deve temere la morte."
+  },
+  {
+   "id": "s_6009096",
+   "motivo": "politica",
+   "termine": "солдат",
+   "ru": "Я солдат.",
+   "it": "Sono un soldato."
+  },
+  {
+   "id": "s_6024317",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Ты должен умереть.",
+   "it": "Devi morire."
+  },
+  {
+   "id": "s_6026525",
+   "motivo": "politica",
+   "termine": "солдаты",
+   "ru": "Куда идут солдаты?",
+   "it": "Dove stanno andando i soldati?"
+  },
+  {
+   "id": "s_6045539",
+   "motivo": "politica",
+   "termine": "законом",
+   "ru": "Я чист перед законом.",
+   "it": "Sono pulito di fronte alla legge."
+  },
+  {
+   "id": "s_6144090",
+   "motivo": "violenza/armi",
+   "termine": "войне",
+   "ru": "На войне многие люди умерли молодыми.",
+   "it": "Durante la guerra sono morte molte persone giovani."
+  },
+  {
+   "id": "s_6363120",
+   "motivo": "insulti/razzismo",
+   "termine": "толстым",
+   "ru": "Я всегда был толстым.",
+   "it": "Sono sempre stato grasso."
+  },
+  {
+   "id": "s_6371878",
+   "motivo": "morte",
+   "termine": "умерла",
+   "ru": "Моя собака вчера умерла.",
+   "it": "Il mio cane ieri è morto."
+  },
+  {
+   "id": "s_6373443",
+   "motivo": "violenza/armi",
+   "termine": "военный",
+   "ru": "Моя мама - врач, а отец - военный.",
+   "it": "Mia mamma è medico e mio padre militare."
+  },
+  {
+   "id": "s_6373575",
+   "motivo": "religione",
+   "termine": "бог",
+   "ru": "Видит бог, я этого не хотел.",
+   "it": "Dio sa quanto non lo volevo."
+  },
+  {
+   "id": "s_6374859",
+   "motivo": "morte",
+   "termine": "умрёт",
+   "ru": "Том думал, что сейчас умрёт.",
+   "it": "Tom pensava che stava per morire."
+  },
+  {
+   "id": "s_6443835",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Я видел, как он умер.",
+   "it": "L'ho visto morire."
+  },
+  {
+   "id": "s_6452539",
+   "motivo": "morte",
+   "termine": "умрёт",
+   "ru": "Том, скорее всего, умрёт.",
+   "it": "È probabile che Tom muoia."
+  },
+  {
+   "id": "s_6477697",
+   "motivo": "morte",
+   "termine": "смерть",
+   "ru": "Смерть матери стала для девушки тяжёлым ударом.",
+   "it": "La morte della madre fu un duro colpo per le ragazzina."
+  },
+  {
+   "id": "s_6477698",
+   "motivo": "morte",
+   "termine": "смерть",
+   "ru": "Смерть матери была для девочек тяжёлым ударом.",
+   "it": "La morte della madre fu un duro colpo per le ragazzine."
+  },
+  {
+   "id": "s_6484757",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Никогда не говори о смерти.",
+   "it": "Non parlare mai della morte."
+  },
+  {
+   "id": "s_6566688",
+   "motivo": "politica",
+   "termine": "полицию",
+   "ru": "Полицию вызвали?",
+   "it": "Avete chiamato la polizia."
+  },
+  {
+   "id": "s_6597910",
+   "motivo": "violenza/armi",
+   "termine": "враги",
+   "ru": "Мы враги.",
+   "it": "Siamo nemici."
+  },
+  {
+   "id": "s_6622923",
+   "motivo": "insulti/razzismo",
+   "termine": "brutto",
+   "ru": "Вчера была плохая погода.",
+   "it": "Ieri c'era brutto tempo."
+  },
+  {
+   "id": "s_6783556",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "После смерти отца Том стал сильно пить.",
+   "it": "Dopo che morì suo padre, Tom cominciò a bere tanto."
+  },
+  {
+   "id": "s_6812396",
+   "motivo": "politica",
+   "termine": "солдат",
+   "ru": "Мужчина — солдат.",
+   "it": "L'uomo è un soldato."
+  },
+  {
+   "id": "s_6827593",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Том сегодня утром умер.",
+   "it": "Tom è morto stamattina."
+  },
+  {
+   "id": "s_6856145",
+   "motivo": "insulti/razzismo",
+   "termine": "brutte",
+   "ru": "Много всего было - и хорошего, и плохого.",
+   "it": "C'erano molte cose, sia belle che brutte."
+  },
+  {
+   "id": "s_6884560",
+   "motivo": "politica",
+   "termine": "командир",
+   "ru": "Я не твой командир.",
+   "it": "Non sono il tuo comandante."
+  },
+  {
+   "id": "s_6884561",
+   "motivo": "politica",
+   "termine": "командир",
+   "ru": "Я не ваш командир.",
+   "it": "Non sono il vostro comandante."
+  },
+  {
+   "id": "s_6909572",
+   "motivo": "violenza/armi",
+   "termine": "война",
+   "ru": "Это была долгая война.",
+   "it": "È stata una lunga guerra."
+  },
+  {
+   "id": "s_6916315",
+   "motivo": "violenza/armi",
+   "termine": "colpito",
+   "ru": "Тому попали в ногу.",
+   "it": "Tom è stato colpito ad una gamba."
+  },
+  {
+   "id": "s_6923923",
+   "motivo": "violenza/armi",
+   "termine": "войн",
+   "ru": "Я против любых войн.",
+   "it": "Sono contrario ad ogni guerra."
+  },
+  {
+   "id": "s_6923925",
+   "motivo": "violenza/armi",
+   "termine": "войн",
+   "ru": "Я против каких бы то ни было войн.",
+   "it": "Sono contrario ad ogni tipo di guerra."
+  },
+  {
+   "id": "s_6938376",
+   "motivo": "religione",
+   "termine": "anima",
+   "ru": "В душе я очень добрый.",
+   "it": "Nell'anima sono molto buono."
+  },
+  {
+   "id": "s_6943329",
+   "motivo": "insulti/razzismo",
+   "termine": "толстый",
+   "ru": "Я не думаю, что Том толстый.",
+   "it": "Non penso che Tom sia grasso."
+  },
+  {
+   "id": "s_6947095",
+   "motivo": "morte",
+   "termine": "умерла",
+   "ru": "Моя мама давно умерла.",
+   "it": "Mia mamma è morta molto tempo fa."
+  },
+  {
+   "id": "s_7036849",
+   "motivo": "insulti/razzismo",
+   "termine": "brutta",
+   "ru": "Я думаю, он плохой человек.",
+   "it": "Penso che lui sia una brutta persona."
+  },
+  {
+   "id": "s_7109231",
+   "motivo": "insulti/razzismo",
+   "termine": "толстый",
+   "ru": "Я знаю, что Том толстый.",
+   "it": "So che Tom è grasso."
+  },
+  {
+   "id": "s_7326127",
+   "motivo": "morte",
+   "termine": "смертей",
+   "ru": "Я видел достаточно смертей.",
+   "it": "Di morte ne ho vista abbastanza."
+  },
+  {
+   "id": "s_7905896",
+   "motivo": "morte",
+   "termine": "умрёт",
+   "ru": "Она боялась, что умрёт.",
+   "it": "Lei aveva paura di morire."
+  },
+  {
+   "id": "s_7905897",
+   "motivo": "morte",
+   "termine": "умрёт",
+   "ru": "Он боялся, что умрёт.",
+   "it": "Lui aveva paura di morire."
+  },
+  {
+   "id": "s_7907012",
+   "motivo": "morte",
+   "termine": "умрёт",
+   "ru": "Она думает, что скоро умрёт.",
+   "it": "Pensa che morirà presto."
+  },
+  {
+   "id": "s_7954864",
+   "motivo": "violenza/armi",
+   "termine": "бойтесь",
+   "ru": "Не бойтесь говорить правду.",
+   "it": "Non abbiate paura di dire la verità."
+  },
+  {
+   "id": "s_8727726",
+   "motivo": "religione",
+   "termine": "чертах",
+   "ru": "Расскажите в общих чертах.",
+   "it": "Raccontate a grandi linee."
+  },
+  {
+   "id": "s_10798373",
+   "motivo": "violenza/armi",
+   "termine": "убил",
+   "ru": "Я не думаю, что он убил этих людей.",
+   "it": "Non penso che lui abbia ucciso queste persone."
+  },
+  {
+   "id": "s_10798374",
+   "motivo": "violenza/armi",
+   "termine": "убил",
+   "ru": "Я не думаю, что он убил этих мужчин.",
+   "it": "Non penso che lui abbia ucciso questi uomini."
+  },
+  {
+   "id": "s_10801614",
+   "motivo": "insulti/razzismo",
+   "termine": "толстая",
+   "ru": "Вы не толстая.",
+   "it": "Voi non siete grassa."
+  },
+  {
+   "id": "s_10801615",
+   "motivo": "insulti/razzismo",
+   "termine": "толстый",
+   "ru": "Вы не толстый.",
+   "it": "Voi non siete grasso."
+  },
+  {
+   "id": "s_10801616",
+   "motivo": "insulti/razzismo",
+   "termine": "толстые",
+   "ru": "Вы не толстые.",
+   "it": "Voi non siete grassi."
+  },
+  {
+   "id": "s_10836441",
+   "motivo": "violenza/armi",
+   "termine": "враги",
+   "ru": "Враги только этого и ждут.",
+   "it": "I nemici non aspettano altro."
+  },
+  {
+   "id": "s_10848733",
+   "motivo": "violenza/armi",
+   "termine": "враги",
+   "ru": "Вы враги.",
+   "it": "Voi siete i nemici."
+  },
+  {
+   "id": "s_10930996",
+   "motivo": "politica",
+   "termine": "carcere",
+   "ru": "За что ты сидишь?",
+   "it": "Per cosa sei in carcere?"
+  },
+  {
+   "id": "s_10931000",
+   "motivo": "politica",
+   "termine": "carcere",
+   "ru": "За что вы сидите?",
+   "it": "Per cosa siete in carcere?"
+  },
+  {
+   "id": "s_11855390",
+   "motivo": "morte",
+   "termine": "умер",
+   "ru": "Оказалось, что он давно умер.",
+   "it": "A quanto pare è morto da molto tempo."
+  },
+  {
+   "id": "s_11934550",
+   "motivo": "politica",
+   "termine": "солдаты",
+   "ru": "Вы солдаты?",
+   "it": "Siete dei soldati?"
+  },
+  {
+   "id": "s_12373274",
+   "motivo": "morte",
+   "termine": "смерть",
+   "ru": "Смерть – лишь начало.",
+   "it": "La morte è solo l'inizio."
+  },
+  {
+   "id": "s_12645468",
+   "motivo": "morte",
+   "termine": "sangue",
+   "ru": "Почему кровь красная?",
+   "it": "Perché il sangue è rosso?"
+  },
+  {
+   "id": "s_12804963",
+   "motivo": "morte",
+   "termine": "смерти",
+   "ru": "Жизни после смерти нет.",
+   "it": "Non c'è vita dopo la morte."
+  },
+  {
+   "id": "s_12965041",
+   "motivo": "violenza/armi",
+   "termine": "бойся",
+   "ru": "Не бойся говорить то, что думаешь.",
+   "it": "Non aver paura di dire quello che pensi."
+  },
+  {
+   "id": "s_13042288",
+   "motivo": "religione",
+   "termine": "бог",
+   "ru": "И увидел Бог, что это хорошо.",
+   "it": "E Dio vide che era buono."
+  },
+  {
+   "id": "s_13248022",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Она хотела умереть.",
+   "it": "Voleva morire."
+  },
+  {
+   "id": "s_13248973",
+   "motivo": "morte",
+   "termine": "умереть",
+   "ru": "Он хотел умереть.",
+   "it": "Voleva morire."
+  },
+  {
+   "id": "s_13820019",
+   "motivo": "religione",
+   "termine": "богу",
+   "ru": "Не каждому по силам найти дорогу к богу.",
+   "it": "Non è dato a tutti trovare la strada verso Dio."
+  },
+  {
+   "id": "s_13864704",
+   "motivo": "religione",
+   "termine": "бог",
+   "ru": "Кто такой Бог?",
+   "it": "Chi è Dio?"
+  },
+  {
+   "id": "s_13865357",
+   "motivo": "religione",
+   "termine": "бог",
+   "ru": "Что такое Бог?",
+   "it": "Che cos'è Dio?"
+  },
+  {
+   "id": "s_13938925",
+   "motivo": "religione",
+   "termine": "бог",
+   "ru": "Бог всё знает.",
+   "it": "Dio sa tutto."
+  }
+ ]
+}

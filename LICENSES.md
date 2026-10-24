@@ -2,7 +2,7 @@
 
 Verifica del 2026-10-24 sulle pagine ufficiali (ora raggiungibili). Le licenze sotto sono VERIFICATE con URL, salvo dove indicato. Parere tecnico del data-curator, non consulenza legale.
 
-## Licenza dei dati del progetto (PROPOSTA, in attesa di conferma dell'utente)
+## Licenza dei dati del progetto (CONFERMATA dall'utente)
 CC BY-SA 4.0 per `data/words` e `data/sentences` e per ogni dato derivato (obbligo di share-alike dovuto a OpenRussian e Wiktionary). Il codice dell'app puo' avere altra licenza se i dati restano file JSON separati con la propria licenza dichiarata. L'app deve avere una pagina "Crediti e licenze" con i testi di attribuzione qui sotto.
 
 ## OpenRussian — USATA
@@ -45,3 +45,5 @@ CC BY-SA 4.0 per `data/words` e `data/sentences` e per ogni dato derivato (obbli
 - Attribuzione: contributori di Wikizionario, link alla voce; share-alike SI (compatibile con CC BY-SA 4.0 dei nostri dati).
 - Dump: https://kaikki.org/itwiktionary/Russo/kaikki.org-dictionary-Russo.jsonl (1 MB, 2879 sensi, JSONL). Estrazione dell'edizione italiana: stesso strumento Wiktextract.
 - Uso prudente: solo entry a senso unico con pos compatibile; gli altri candidati sono in `data/extra/wiktextract.json`. Qualita' non verificata linguisticamente: richiede QA.
+
+Testi per l'app: `data/credits.json` (pagina Crediti) e `data/LICENSE.md` (licenza dei dati, CC BY-SA 4.0).

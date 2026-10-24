@@ -1,0 +1,549 @@
+{
+ "generato_da": "scripts/filter_sentences.py",
+ "nota": "Parole NON cancellate: segnalate per revisione (curriculum-writer / qa-russian).",
+ "totale": 44,
+ "parole": [
+  {
+   "id": "w_zovut",
+   "ru": "зовут",
+   "level": "zero",
+   "pos": "phrase",
+   "en": [
+    "to be called (= name is)"
+   ],
+   "motivi": [
+    "forma verbale (3a pl.) trattata come lemma"
+   ]
+  },
+  {
+   "id": "w_a",
+   "ru": "а",
+   "level": "a1",
+   "pos": "conj",
+   "en": [
+    "and, but, whereas",
+    "oh, ah"
+   ],
+   "motivi": [
+    "Wiktionary marca il primo senso come: slang"
+   ]
+  },
+  {
+   "id": "w_politsiya",
+   "ru": "полиция",
+   "level": "a1",
+   "pos": "noun",
+   "en": [
+    "police"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: полиция)"
+   ]
+  },
+  {
+   "id": "w_nedalyokiy",
+   "ru": "недалёкий",
+   "level": "a1",
+   "pos": "adj",
+   "en": [
+    "not far, near, close by, short (of a distance)",
+    "near, not distant, immediate"
+   ],
+   "motivi": [
+    "Wiktionary marca il primo senso come: derogatory"
+   ]
+  },
+  {
+   "id": "w_mem",
+   "ru": "мем",
+   "level": "a1",
+   "pos": "noun",
+   "en": [
+    "meme"
+   ],
+   "motivi": [
+    "neologismo di internet, poco utile a un principiante"
+   ]
+  },
+  {
+   "id": "w_vay_fay",
+   "ru": "вай-фай",
+   "level": "a1",
+   "pos": "noun",
+   "en": [
+    "Wi-Fi, Wifi"
+   ],
+   "motivi": [
+    "prestito informale con accento non attestato in OpenRussian (corretto a mano)"
+   ]
+  },
+  {
+   "id": "w_kreditnaya_karta",
+   "ru": "кредитная карта",
+   "level": "a1",
+   "pos": "noun",
+   "en": [
+    "Credit card"
+   ],
+   "motivi": [
+    "espressione composta fuori standard (non e' una parola singola)"
+   ]
+  },
+  {
+   "id": "w_neskolkie",
+   "ru": "несколькие",
+   "level": "a1",
+   "pos": "num",
+   "en": [
+    "several, some, a few"
+   ],
+   "motivi": [
+    "forma plurale rara di 'несколько'"
+   ]
+  },
+  {
+   "id": "w_chyom",
+   "ru": "чём",
+   "level": "a2",
+   "pos": "pron",
+   "en": [
+    "Prepositional of 'что'"
+   ],
+   "motivi": [
+    "forma flessa di 'что' trattata come lemma"
+   ]
+  },
+  {
+   "id": "w_ubit",
+   "ru": "убить",
+   "level": "a2",
+   "pos": "verb",
+   "en": [
+    "to kill, to murder, to assassinate, to slay",
+    "to kill (time), to waste (time)"
+   ],
+   "motivi": [
+    "argomento sensibile (violenza/armi: убить)"
+   ]
+  },
+  {
+   "id": "w_umeret",
+   "ru": "умереть",
+   "level": "a2",
+   "pos": "verb",
+   "en": [
+    "to die, to pass away"
+   ],
+   "motivi": [
+    "argomento sensibile (morte: умереть)"
+   ]
+  },
+  {
+   "id": "w_plan",
+   "ru": "план",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "plan, scheme, intention",
+    "map, layout, ground plan"
+   ],
+   "motivi": [
+    "Wiktionary marca il primo senso come: slang"
+   ]
+  },
+  {
+   "id": "w_smert",
+   "ru": "смерть",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "death",
+    "terribly, awfully, dying to (do something)"
+   ],
+   "motivi": [
+    "argomento sensibile (morte: смерть)"
+   ]
+  },
+  {
+   "id": "w_nikakoy",
+   "ru": "никакой",
+   "level": "a2",
+   "pos": "pron",
+   "en": [
+    "no...at all, no...whatsoever, none"
+   ],
+   "motivi": [
+    "Wiktionary marca il primo senso come: slang"
+   ]
+  },
+  {
+   "id": "w_bog",
+   "ru": "бог",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "God, god"
+   ],
+   "motivi": [
+    "argomento sensibile (religione: бог)"
+   ]
+  },
+  {
+   "id": "w_voyna",
+   "ru": "война",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "war, warfare"
+   ],
+   "motivi": [
+    "argomento sensibile (violenza/armi: война)"
+   ]
+  },
+  {
+   "id": "w_gospodin",
+   "ru": "господин",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "mister, gentleman, Monsieur, Signor"
+   ],
+   "motivi": [
+    "argomento sensibile (religione: господин)"
+   ]
+  },
+  {
+   "id": "w_prezident",
+   "ru": "президент",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "president"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: президент)"
+   ]
+  },
+  {
+   "id": "w_oruzhie",
+   "ru": "оружие",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "weapon, gun, firearm"
+   ],
+   "motivi": [
+    "argomento sensibile (violenza/armi: оружие)"
+   ]
+  },
+  {
+   "id": "w_zakon",
+   "ru": "закон",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "law"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: закон)"
+   ]
+  },
+  {
+   "id": "w_vrag",
+   "ru": "враг",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "enemy, foe, opponent"
+   ],
+   "motivi": [
+    "argomento sensibile (violenza/armi: враг)"
+   ]
+  },
+  {
+   "id": "w_kapitan",
+   "ru": "капитан",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "captain, master"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: капитан)"
+   ]
+  },
+  {
+   "id": "w_chlen",
+   "ru": "член",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "member",
+    "term, element, constituent"
+   ],
+   "motivi": [
+    "argomento sensibile (sesso: член)"
+   ]
+  },
+  {
+   "id": "w_soldat",
+   "ru": "солдат",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "soldier, regular, private"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: солдат)"
+   ]
+  },
+  {
+   "id": "w_vlast",
+   "ru": "власть",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "power, authority",
+    "rule, dominion"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: власть)"
+   ]
+  },
+  {
+   "id": "w_armiya",
+   "ru": "армия",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "army, forces, host"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: армия)"
+   ]
+  },
+  {
+   "id": "w_boy",
+   "ru": "бой",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "battle, combat, engagement",
+    "fight, bout, match"
+   ],
+   "motivi": [
+    "argomento sensibile (violenza/armi: бой)"
+   ]
+  },
+  {
+   "id": "w_tolstyy",
+   "ru": "толстый",
+   "level": "a2",
+   "pos": "adj",
+   "en": [
+    "thick",
+    "fat, stout"
+   ],
+   "motivi": [
+    "argomento sensibile (insulti/razzismo: толстый)"
+   ]
+  },
+  {
+   "id": "w_voennyy",
+   "ru": "военный",
+   "level": "a2",
+   "pos": "adj",
+   "en": [
+    "military",
+    "war (relational), wartime, of war"
+   ],
+   "motivi": [
+    "argomento sensibile (violenza/armi: военный)"
+   ]
+  },
+  {
+   "id": "w_guba",
+   "ru": "губа",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "lip, inlet, bay, firth"
+   ],
+   "motivi": [
+    "Wiktionary marca il primo senso come: slang"
+   ]
+  },
+  {
+   "id": "w_partiya",
+   "ru": "партия",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "party (political)",
+    "batch, lot, consignment"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: партия)"
+   ]
+  },
+  {
+   "id": "w_leytenant",
+   "ru": "лейтенант",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "lieutenant"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: лейтенант)"
+   ]
+  },
+  {
+   "id": "w_general",
+   "ru": "генерал",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "general, General"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: генерал)"
+   ]
+  },
+  {
+   "id": "w_gosudarstvo",
+   "ru": "государство",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "State"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: государство)"
+   ]
+  },
+  {
+   "id": "w_politicheskiy",
+   "ru": "политический",
+   "level": "a2",
+   "pos": "adj",
+   "en": [
+    "political"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: политический)"
+   ]
+  },
+  {
+   "id": "w_gosudarstvennyy",
+   "ru": "государственный",
+   "level": "a2",
+   "pos": "adj",
+   "en": [
+    "state, national, public (state-run)"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: государственный)"
+   ]
+  },
+  {
+   "id": "w_cherta",
+   "ru": "черта",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "line, stroke, dash",
+    "boundary, limits"
+   ],
+   "motivi": [
+    "argomento sensibile (religione: черта)"
+   ]
+  },
+  {
+   "id": "w_komandir",
+   "ru": "командир",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "commander, commanding officer, captain"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: командир)"
+   ]
+  },
+  {
+   "id": "w_sovetskiy",
+   "ru": "советский",
+   "level": "a2",
+   "pos": "adj",
+   "en": [
+    "Soviet"
+   ],
+   "motivi": [
+    "argomento sensibile (politica: советский)"
+   ]
+  },
+  {
+   "id": "w_klassno",
+   "ru": "классно",
+   "level": "a2",
+   "pos": "adv",
+   "en": [
+    "cool, great"
+   ],
+   "motivi": [
+    "Wiktionary marca il primo senso come: slang"
+   ]
+  },
+  {
+   "id": "w_getero",
+   "ru": "гетеро",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "hetero, straight (person)"
+   ],
+   "motivi": [
+    "prefisso/gergo su orientamento sessuale, poco utile a un principiante",
+    "argomento sensibile (sesso: гетеро)"
+   ]
+  },
+  {
+   "id": "w_sidushka",
+   "ru": "сидушка",
+   "level": "a2",
+   "pos": "noun",
+   "en": [
+    "seat"
+   ],
+   "motivi": [
+    "gergale/neologismo di nicchia (sedile imbottito), poco utile a un principiante"
+   ]
+  },
+  {
+   "id": "w_zh",
+   "ru": "ж",
+   "level": "a2",
+   "pos": "part",
+   "en": [
+    "then, after all, indeed",
+    "but, however, whereas"
+   ],
+   "motivi": [
+    "particella enclitica abbreviata, non e' una parola autonoma"
+   ]
+  },
+  {
+   "id": "w_bezoblachno",
+   "ru": "безоблачно",
+   "level": "a2",
+   "pos": "adv",
+   "en": [
+    "cloudless"
+   ],
+   "motivi": [
+    "avverbio raro"
+   ]
+  }
+ ]
+}

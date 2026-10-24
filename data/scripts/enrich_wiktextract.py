@@ -354,6 +354,24 @@ def main():
         elif senses:
             ex["it_candidates"] = senses[:5]
             stats["it candidate (non usate)"] += 1
+        # --- migrazione nei campi del contratto (ipa, aspect, grammar_tags, governs) ---
+        for k in ("ipa", "aspect", "grammar_tags", "governs"):
+            w.pop(k, None)
+        if ex.get("ipa"):
+            w["ipa"] = ex.pop("ipa")
+        gt = ex.get("grammar") or {}
+        asp = gt.pop("aspect", None)
+        if asp:
+            w["aspect"] = {"imperfective": "impf", "perfective": "pf", "both": "both"}[asp]
+        dc = gt.pop("decl_class", None)
+        tags_out = sorted(k for k, v in gt.items() if v is True)
+        if tags_out:
+            w["grammar_tags"] = tags_out
+        if ex.get("governs"):
+            w["governs"] = ["+" + c for c in ex.pop("governs")]
+        if dc:
+            ex["decl_class"] = dc
+        ex.pop("grammar", None)
         if ex:
             extra[wid] = ex
         # attribuzione

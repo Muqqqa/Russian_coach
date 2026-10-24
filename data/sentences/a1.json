@@ -2250,20 +2250,6 @@
   "attribution": "Tatoeba.org, frase #3430945 di odexed; traduzione it #3259078 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_3434996",
-  "ru": "Полиция здесь.",
-  "stress": "Поли́ция зде́сь.",
-  "it": "La polizia è qui.",
-  "words": [
-   "w_politsiya",
-   "w_zdes"
-  ],
-  "level": "a1",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #3434996 di Selena777; traduzione it #3434909 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_3452565",
   "ru": "Вот пиво.",
   "stress": "Вот пи́во.",
@@ -2642,6 +2628,23 @@
   "attribution": "Tatoeba.org, frase #4401731 di Selena777; traduzione it #4401112 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
+  "id": "s_4434270",
+  "ru": "Я здесь дольше, чем ты.",
+  "stress": "Я́ зде́сь до́льше, чем ты́.",
+  "it": "Sono qui da più tempo di te.",
+  "words": [
+   "w_ya",
+   "w_zdes",
+   "w_dolgiy",
+   "w_chem",
+   "w_ty"
+  ],
+  "level": "a1",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4434270 di Selena777; traduzione it #4433170 di valealb; licenza CC BY 2.0 FR"
+ },
+ {
   "id": "s_4442774",
   "ru": "Я люблю готовить.",
   "stress": "Я́ люблю́ гото́вить.",
@@ -2698,20 +2701,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #4548741 di marafon; traduzione it #11530643 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_4571380",
-  "ru": "Везде полиция.",
-  "stress": "Везде́ поли́ция.",
-  "it": "La polizia è dappertutto.",
-  "words": [
-   "w_vezde",
-   "w_politsiya"
-  ],
-  "level": "a1",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #4571380 di Selena777; traduzione it #4530829 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_4770941",

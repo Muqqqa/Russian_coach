@@ -6,6 +6,7 @@ Uso: python3 -I data/scripts/build_sentences.py"""
 import collections, json, os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import *
+import filter_sentences
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TAT = os.path.join(ROOT, "raw", "tatoeba")
@@ -68,6 +69,8 @@ def main():
         links[a].append(b)
 
     cands = []
+    excluded = []
+    pool = 0
     stats = collections.Counter()
     for sid, (text, author) in rus.items():
         if sid not in links:
@@ -132,9 +135,16 @@ def main():
         wids = list(dict.fromkeys(p[3] for p in pieces))
         level = max((byid[w]["level"] for w in wids), key=LEVEL_ORDER.index)
         it_id = sorted(its, key=lambda x: (len(ita[x][0]), x))[0]
+        pool += 1
+        bad = filter_sentences.check(text, ita[it_id][0])
+        if bad:
+            excluded.append({"id": "s_" + sid.zfill(5), "motivo": bad[0], "termine": bad[1], "ru": text, "it": ita[it_id][0]})
+            continue
         cands.append({"sid": sid, "text": text, "stress": stress, "words": wids, "level": level,
                       "it": ita[it_id][0], "au_ru": author, "au_it": ita[it_id][1], "it_id": it_id,
                       "cc0": sid in cc0, "n": len(toks)})
+    filter_sentences.write_report(excluded, pool)
+    print("escluse dal filtro contenuti:", len(excluded), "su", pool)
     print("candidate:", len(cands), dict(stats))
 
     # selezione greedy: ogni parola fino a EXAMPLES_PER_WORD frasi, frasi corte per prime

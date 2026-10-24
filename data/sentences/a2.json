@@ -232,21 +232,6 @@
   "attribution": "Tatoeba.org, frase #435486 di Hellerick; traduzione it #3319380 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_438314",
-  "ru": "Государство — это я!",
-  "stress": "Госуда́рство — э́то я́!",
-  "it": "Sono lo Stato!",
-  "words": [
-   "w_gosudarstvo",
-   "w_eto",
-   "w_ya"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #438314 di al_ex_an_der; traduzione it #1311810 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_438882",
   "ru": "Он очень молод духом.",
   "stress": "О́н о́чень мо́лод ду́хом.",
@@ -529,22 +514,6 @@
   "attribution": "Tatoeba.org, frase #472138 di tirpitz; traduzione it #2388716 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_473726",
-  "ru": "Он пошёл в армию.",
-  "stress": "О́н пошёл в а́рмию.",
-  "it": "È andato sotto le armi.",
-  "words": [
-   "w_on",
-   "w_poyti",
-   "w_v",
-   "w_armiya"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #473726 di unholywhale; traduzione it #5997013 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_475211",
   "ru": "Это моя мама.",
   "stress": "Э́то моя́ ма́ма.",
@@ -624,6 +593,22 @@
   "attribution": "Tatoeba.org, frase #505529 di drnm2; traduzione it #5480281 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
+  "id": "s_505814",
+  "ru": "Это всего лишь сон.",
+  "stress": "Э́то всего́ лишь со́н.",
+  "it": "È soltanto un sogno.",
+  "words": [
+   "w_eto",
+   "w_ves",
+   "w_lish",
+   "w_son"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #505814 di FeuDRenais; traduzione it #1670671 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
   "id": "s_507103",
   "ru": "Даю слово.",
   "stress": "Даю́ сло́во.",
@@ -651,21 +636,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #507111 di Kostia; traduzione it #350936 di martin; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_507121",
-  "ru": "Закон знают все.",
-  "stress": "Зако́н зна́ют все́.",
-  "it": "Tutti conoscono la legge.",
-  "words": [
-   "w_zakon",
-   "w_znat",
-   "w_vse"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #507121 di Kostia; traduzione it #397740 di Pharamp; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_507322",
@@ -887,20 +857,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #611010 di ae5s; traduzione it #1645156 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_614523",
-  "ru": "Приедет полиция?",
-  "stress": "Прие́дет поли́ция?",
-  "it": "La polizia verrà?",
-  "words": [
-   "w_priekhat",
-   "w_politsiya"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #614523 di shanghainese; traduzione it #1304800 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_614573",
@@ -1669,22 +1625,6 @@
   "attribution": "Tatoeba.org, frase #1182935 di Imp; traduzione it #5496966 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_1306410",
-  "ru": "После смерти нет ничего.",
-  "stress": "По́сле сме́рти нет ничего́.",
-  "it": "Dopo la morte non c'è nulla.",
-  "words": [
-   "w_posle",
-   "w_smert",
-   "w_net",
-   "w_nichego"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #1306410 di beshine; traduzione it #614909 di rado; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_1350880",
   "ru": "Я держу книгу в руке.",
   "stress": "Я́ держу́ кни́гу в руке́.",
@@ -1772,21 +1712,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #1419008 di tien_oroniel; traduzione it #11530573 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_1438642",
-  "ru": "Теперь это война.",
-  "stress": "Тепе́рь э́то война́.",
-  "it": "Ormai è una guerra.",
-  "words": [
-   "w_teper",
-   "w_eto",
-   "w_voyna"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #1438642 di Balamax; traduzione it #1438623 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_1464801",
@@ -2353,21 +2278,6 @@
   "attribution": "Tatoeba.org, frase #1910262 di marafon; traduzione it #1345585 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_1916824",
-  "ru": "Он в армии.",
-  "stress": "О́н в а́рмии.",
-  "it": "Lui presta servizio militare.",
-  "words": [
-   "w_on",
-   "w_v",
-   "w_armiya"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #1916824 di sharptoothed; traduzione it #10851539 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_1924747",
   "ru": "Завтра узнаем!",
   "stress": "За́втра узна́ем!",
@@ -2549,36 +2459,6 @@
   "attribution": "Tatoeba.org, frase #2024912 di Balamax; traduzione it #5123268 di WM3DAS; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_2026693",
-  "ru": "Никто не умер.",
-  "stress": "Никто́ не у́мер.",
-  "it": "Non è morto nessuno.",
-  "words": [
-   "w_nikto",
-   "w_ne",
-   "w_umeret"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #2026693 di marafon; traduzione it #1538471 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_2032506",
-  "ru": "Я боюсь смерти.",
-  "stress": "Я́ бою́сь сме́рти.",
-  "it": "Ho paura della morte.",
-  "words": [
-   "w_ya",
-   "w_boyatsya",
-   "w_smert"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #2032506 di Balamax; traduzione it #801757 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_2034393",
   "ru": "Я была в горах.",
   "stress": "Я́ была́ в гора́х.",
@@ -2622,24 +2502,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #2035816 di Balamax; traduzione it #612154 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_2036052",
-  "ru": "Что вы думаете о речи президента?",
-  "stress": "Что́ вы́ ду́маете о ре́чи президе́нта?",
-  "it": "Cosa ne pensate del discorso del presidente?",
-  "words": [
-   "w_chto",
-   "w_vy",
-   "w_dumat",
-   "w_o",
-   "w_rech",
-   "w_prezident"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #2036052 di Balamax; traduzione it #5476296 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_2053925",
@@ -2699,37 +2561,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #2061952 di marafon; traduzione it #1991333 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_2077291",
-  "ru": "Каждый сон - маленькая смерть.",
-  "stress": "Ка́ждый со́н - ма́ленькая сме́рть.",
-  "it": "Ogni sonno è una breve morte.",
-  "words": [
-   "w_kazhdyy",
-   "w_son",
-   "w_malenkiy",
-   "w_smert"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #2077291 di Balamax; traduzione it #5688491 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_2080232",
-  "ru": "Ты член партии?",
-  "stress": "Ты́ чле́н па́ртии?",
-  "it": "Sei un membro del partito?",
-  "words": [
-   "w_ty",
-   "w_chlen",
-   "w_partiya"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #2080232 di marafon; traduzione it #5573963 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_2082100",
@@ -2923,21 +2754,6 @@
   "attribution": "Tatoeba.org, frase #2239445 di Biga; traduzione it #2194183 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_2249900",
-  "ru": "Он молод душой.",
-  "stress": "О́н мо́лод душо́й.",
-  "it": "Lui è giovane nell'anima.",
-  "words": [
-   "w_on",
-   "w_molodoy",
-   "w_dusha"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #2249900 di sharptoothed; traduzione it #5627729 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_2269855",
   "ru": "Это не конец света.",
   "stress": "Э́то не коне́ц све́та.",
@@ -3025,21 +2841,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #2330746 di shanghainese; traduzione it #5584170 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_2333222",
-  "ru": "Ты боишься смерти?",
-  "stress": "Ты́ бои́шься сме́рти?",
-  "it": "Hai paura della morte?",
-  "words": [
-   "w_ty",
-   "w_boyatsya",
-   "w_smert"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #2333222 di soweli_Elepanto; traduzione it #801740 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_2341021",
@@ -3281,20 +3082,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #2493863 di marafon; traduzione it #2190982 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_2497175",
-  "ru": "Том умрёт.",
-  "stress": "Том умрёт.",
-  "it": "Tom morirà.",
-  "words": [
-   "w_tot",
-   "w_umeret"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #2497175 di odexed; traduzione it #3218403 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_2497338",
@@ -4487,20 +4274,6 @@
   "attribution": "Tatoeba.org, frase #2723333 di marafon; traduzione it #5507043 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_2724211",
-  "ru": "Ты умер.",
-  "stress": "Ты́ у́мер.",
-  "it": "Sei morto.",
-  "words": [
-   "w_ty",
-   "w_umeret"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #2724211 di marafon; traduzione it #2551419 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_2732233",
   "ru": "Посмотри вокруг.",
   "stress": "Посмотри́ вокру́г.",
@@ -4617,34 +4390,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #2756357 di Lenin_1917; traduzione it #10890320 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_2762311",
-  "ru": "Я толстый?",
-  "stress": "Я́ то́лстый?",
-  "it": "Io sono grasso?",
-  "words": [
-   "w_ya",
-   "w_tolstyy"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #2762311 di marafon; traduzione it #2523985 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_2762312",
-  "ru": "Я толстая?",
-  "stress": "Я́ то́лстая?",
-  "it": "Io sono grasso?",
-  "words": [
-   "w_ya",
-   "w_tolstyy"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #2762312 di marafon; traduzione it #2523985 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_2765749",
@@ -4955,23 +4700,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #2813996 di sharptoothed; traduzione it #13699169 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_2815420",
-  "ru": "Я стану богом нового мира.",
-  "stress": "Я́ ста́ну бо́гом но́вого ми́ра.",
-  "it": "Diventerò il dio del nuovo mondo.",
-  "words": [
-   "w_ya",
-   "w_stat",
-   "w_bog",
-   "w_novyy",
-   "w_mir"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #2815420 di marafon; traduzione it #636332 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_2818982",
@@ -5847,20 +5575,6 @@
   "attribution": "Tatoeba.org, frase #3127837 di marafon; traduzione it #4483254 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_3145380",
-  "ru": "Бог велик.",
-  "stress": "Бо́г вели́к.",
-  "it": "Dio è grande.",
-  "words": [
-   "w_bog",
-   "w_bolshoy"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #3145380 di Selena777; traduzione it #3145377 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_3148042",
   "ru": "Письмо вернулось.",
   "stress": "Письмо́ верну́лось.",
@@ -5887,6 +5601,22 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #3160874 di marafon; traduzione it #617647 di rado; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_3163460",
+  "ru": "У девочки доброе сердце.",
+  "stress": "У де́вочки до́брое се́рдце.",
+  "it": "La ragazza ha un cuore buono.",
+  "words": [
+   "w_u",
+   "w_devochka",
+   "w_dobryy",
+   "w_serdtse"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3163460 di odexed; traduzione it #5573471 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_3164924",
@@ -5965,20 +5695,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #3195521 di marafon; traduzione it #3125842 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_3218558",
-  "ru": "Том умрёт?",
-  "stress": "Том умрёт?",
-  "it": "Tom morirà?",
-  "words": [
-   "w_tot",
-   "w_umeret"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #3218558 di Selena777; traduzione it #3218393 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_3219784",
@@ -6793,6 +6509,24 @@
   "attribution": "Tatoeba.org, frase #3493475 di marafon; traduzione it #3493148 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
+  "id": "s_3496094",
+  "ru": "Какая река самая длинная в мире?",
+  "stress": "Кака́я река́ са́мая дли́нная в ми́ре?",
+  "it": "Qual è il fiume più lungo del mondo?",
+  "words": [
+   "w_kakoy",
+   "w_reka",
+   "w_samyy",
+   "w_dlinnyy",
+   "w_v",
+   "w_mir"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3496094 di Selena777; traduzione it #1552067 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
   "id": "s_3496105",
   "ru": "Он белый?",
   "stress": "О́н бе́лый?",
@@ -7152,6 +6886,21 @@
   "attribution": "Tatoeba.org, frase #3588594 di sharptoothed; traduzione it #1230061 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
+  "id": "s_3590169",
+  "ru": "Вы поэтому остались?",
+  "stress": "Вы́ поэ́тому оста́лись?",
+  "it": "Perciò siete rimasti?",
+  "words": [
+   "w_vy",
+   "w_poetomu",
+   "w_ostatsya"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #3590169 di marafon; traduzione it #6952014 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
   "id": "s_3590186",
   "ru": "Ты поэтому уходишь?",
   "stress": "Ты́ поэ́тому ухо́дишь?",
@@ -7196,22 +6945,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #3607496 di soniamiku; traduzione it #6847345 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_3622230",
-  "ru": "В чём дело, господин?",
-  "stress": "В чём де́ло, господи́н?",
-  "it": "Qual è il problema, signore?",
-  "words": [
-   "w_v",
-   "w_chyom",
-   "w_delo",
-   "w_gospodin"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #3622230 di soweli_Elepanto; traduzione it #8965499 di carlosalberto; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_3624507",
@@ -7604,20 +7337,6 @@
   "attribution": "Tatoeba.org, frase #3781590 di odexed; traduzione it #2255475 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_3789310",
-  "ru": "Где кровь?",
-  "stress": "Где́ кро́вь?",
-  "it": "Dov'è il sangue?",
-  "words": [
-   "w_gde",
-   "w_krov"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #3789310 di paul_lingvo; traduzione it #3756000 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_3789324",
   "ru": "Это именно так?",
   "stress": "Э́то и́менно та́к?",
@@ -7769,21 +7488,6 @@
   "attribution": "Tatoeba.org, frase #3817471 di Balamax; traduzione it #5554563 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_3851738",
-  "ru": "Президент казался сильным.",
-  "stress": "Президе́нт каза́лся си́льным.",
-  "it": "Il presidente sembrava forte.",
-  "words": [
-   "w_prezident",
-   "w_kazatsya",
-   "w_silnyy"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #3851738 di Selena777; traduzione it #3851730 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_3855991",
   "ru": "Я должна идти.",
   "stress": "Я́ должна́ идти́.",
@@ -7889,21 +7593,6 @@
   "attribution": "Tatoeba.org, frase #3928738 di odexed; traduzione it #5515595 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_3943907",
-  "ru": "Брось своё оружие.",
-  "stress": "Бро́сь своё ору́жие.",
-  "it": "Metti giù l’arma.",
-  "words": [
-   "w_brosit",
-   "w_svoy",
-   "w_oruzhie"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #3943907 di odexed; traduzione it #11486827 di Bernie75; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_3951935",
   "ru": "Это ведь он?",
   "stress": "Э́то ведь о́н?",
@@ -7966,24 +7655,6 @@
   "attribution": "Tatoeba.org, frase #3971208 di odexed; traduzione it #6890937 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_3999355",
-  "ru": "Я бы не смог их убить.",
-  "stress": "Я́ бы не смо́г и́х уби́ть.",
-  "it": "Non avrei potuto ucciderli.",
-  "words": [
-   "w_ya",
-   "w_by",
-   "w_ne",
-   "w_smoch",
-   "w_ikh",
-   "w_ubit"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #3999355 di marafon; traduzione it #5610706 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_4000041",
   "ru": "Том пьёт.",
   "stress": "Том пьёт.",
@@ -7996,21 +7667,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #4000041 di odexed; traduzione it #2191193 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_4004047",
-  "ru": "Ты не Бог.",
-  "stress": "Ты́ не Бо́г.",
-  "it": "Non sei Dio.",
-  "words": [
-   "w_ty",
-   "w_ne",
-   "w_bog"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #4004047 di odexed; traduzione it #13915948 di Adelpa; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_4006081",
@@ -8182,22 +7838,6 @@
   "attribution": "Tatoeba.org, frase #4128373 di Tamila; traduzione it #5515587 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_4134592",
-  "ru": "Худой мужик убил толстого мужика.",
-  "stress": "Худо́й мужи́к уби́л то́лстого мужика́.",
-  "it": "L'uomo magro ha ucciso l'uomo grasso.",
-  "words": [
-   "w_khudoy",
-   "w_muzhik",
-   "w_ubit",
-   "w_tolstyy"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #4134592 di Lenin_1917; traduzione it #5411530 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_4138705",
   "ru": "Знакомая картина.",
   "stress": "Знако́мая карти́на.",
@@ -8273,6 +7913,24 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #4185577 di sharptoothed; traduzione it #5480264 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4186207",
+  "ru": "Что вы обычно делаете после школы?",
+  "stress": "Что́ вы́ обы́чно де́лаете по́сле шко́лы?",
+  "it": "Cosa fate solitamante dopo la scuola?",
+  "words": [
+   "w_chto",
+   "w_vy",
+   "w_obychno",
+   "w_delat",
+   "w_posle",
+   "w_shkola"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4186207 di marafon; traduzione it #5537493 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_4203320",
@@ -8552,6 +8210,21 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #4304608 di Selena777; traduzione it #4302854 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_4311734",
+  "ru": "Проблема требует решения.",
+  "stress": "Пробле́ма тре́бует реше́ния.",
+  "it": "Il problema richiede una soluzione.",
+  "words": [
+   "w_problema",
+   "w_trebovat",
+   "w_reshenie"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #4311734 di soniamiku; traduzione it #6843085 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_4314430",
@@ -8864,20 +8537,6 @@
   "attribution": "Tatoeba.org, frase #4421644 di odexed; traduzione it #6790531 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_4429064",
-  "ru": "Это война!",
-  "stress": "Э́то война́!",
-  "it": "È la guerra!",
-  "words": [
-   "w_eto",
-   "w_voyna"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #4429064 di Selena777; traduzione it #1710093 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_4429271",
   "ru": "Я тогда был молод.",
   "stress": "Я́ тогда́ бы́л мо́лод.",
@@ -8967,21 +8626,6 @@
   "attribution": "Tatoeba.org, frase #4440874 di odexed; traduzione it #672886 di rado; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_4440956",
-  "ru": "Том молод сердцем.",
-  "stress": "Том мо́лод се́рдцем.",
-  "it": "Tom è giovane nell'anima.",
-  "words": [
-   "w_tot",
-   "w_molodoy",
-   "w_serdtse"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #4440956 di odexed; traduzione it #5627753 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_4447121",
   "ru": "Он оставил сыну огромное состояние.",
   "stress": "О́н оста́вил сы́ну огро́мное состоя́ние.",
@@ -8997,21 +8641,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #4447121 di marafon; traduzione it #6950682 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_4449057",
-  "ru": "Он стал капитаном.",
-  "stress": "О́н ста́л капита́ном.",
-  "it": "Lui è diventato capitano.",
-  "words": [
-   "w_on",
-   "w_stat",
-   "w_kapitan"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #4449057 di marafon; traduzione it #5836067 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_4456685",
@@ -9172,21 +8801,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #4492816 di Wezel; traduzione it #4636155 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_4509857",
-  "ru": "Ты принёс оружие?",
-  "stress": "Ты́ принёс ору́жие?",
-  "it": "Hai portato un'arma?",
-  "words": [
-   "w_ty",
-   "w_prinesti",
-   "w_oruzhie"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #4509857 di marafon; traduzione it #5688604 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_4545759",
@@ -9753,21 +9367,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #4873223 di al_lastor; traduzione it #5625972 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_4876978",
-  "ru": "Мы не враги.",
-  "stress": "Мы́ не враги́.",
-  "it": "Non siamo nemici.",
-  "words": [
-   "w_my",
-   "w_ne",
-   "w_vrag"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #4876978 di Wezel; traduzione it #3376437 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_4897264",
@@ -10564,21 +10163,6 @@
   "attribution": "Tatoeba.org, frase #5248586 di Selena777; traduzione it #5248578 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_5253588",
-  "ru": "Я боюсь смерти?",
-  "stress": "Я́ бою́сь сме́рти?",
-  "it": "Ho paura io della morte?",
-  "words": [
-   "w_ya",
-   "w_boyatsya",
-   "w_smert"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5253588 di odexed; traduzione it #6891190 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_5295156",
   "ru": "Те твои?",
   "stress": "Те твои́?",
@@ -10619,20 +10203,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #5325072 di marafon; traduzione it #2255475 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_5328942",
-  "ru": "Кровь красная.",
-  "stress": "Кро́вь кра́сная.",
-  "it": "Il sangue è rosso.",
-  "words": [
-   "w_krov",
-   "w_krasnyy"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5328942 di marafon; traduzione it #5330299 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_5330241",
@@ -10850,20 +10420,6 @@
   "attribution": "Tatoeba.org, frase #5389466 di odexed; traduzione it #5389537 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_5390956",
-  "ru": "Их убили.",
-  "stress": "И́х уби́ли.",
-  "it": "Li hanno ammazzati.",
-  "words": [
-   "w_ikh",
-   "w_ubit"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5390956 di marafon; traduzione it #5390967 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_5392412",
   "ru": "Я не занимался.",
   "stress": "Я́ не занима́лся.",
@@ -11063,20 +10619,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #5414122 di odexed; traduzione it #5414556 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_5418258",
-  "ru": "Том толстый?",
-  "stress": "Том то́лстый?",
-  "it": "Tom è grasso?",
-  "words": [
-   "w_tot",
-   "w_tolstyy"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5418258 di marafon; traduzione it #5419100 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_5422784",
@@ -11665,22 +11207,6 @@
   "attribution": "Tatoeba.org, frase #5479841 di Wezel; traduzione it #5480093 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_5479855",
-  "ru": "Как именно умер Том?",
-  "stress": "Ка́к и́менно у́мер Том?",
-  "it": "Tom quando è morto precisamente?",
-  "words": [
-   "w_kak",
-   "w_imenno",
-   "w_umeret",
-   "w_tot"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5479855 di marafon; traduzione it #5480067 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_5480824",
   "ru": "Этот чай вкусный.",
   "stress": "Э́тот ча́й вку́сный.",
@@ -11694,6 +11220,21 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #5480824 di marafon; traduzione it #5481373 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5480830",
+  "ru": "Ты уже приехал?",
+  "stress": "Ты́ уже́ прие́хал?",
+  "it": "Se già arrivato?",
+  "words": [
+   "w_ty",
+   "w_uzhe",
+   "w_priekhat"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5480830 di marafon; traduzione it #5481371 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_5480847",
@@ -11726,22 +11267,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #5482857 di marafon; traduzione it #1616356 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_5482946",
-  "ru": "Она пошла в армию.",
-  "stress": "Она́ пошла́ в а́рмию.",
-  "it": "Lei si è arruolata nell'esercito.",
-  "words": [
-   "w_ona",
-   "w_poyti",
-   "w_v",
-   "w_armiya"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5482946 di marafon; traduzione it #5483049 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_5483918",
@@ -12082,6 +11607,23 @@
   "attribution": "Tatoeba.org, frase #5499179 di odexed; traduzione it #5499181 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
+  "id": "s_5499348",
+  "ru": "Я делаю это каждую неделю.",
+  "stress": "Я́ де́лаю э́то ка́ждую неде́лю.",
+  "it": "Faccio questo ogni settimana.",
+  "words": [
+   "w_ya",
+   "w_delat",
+   "w_eto",
+   "w_kazhdyy",
+   "w_nedelya"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5499348 di odexed; traduzione it #5499450 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
   "id": "s_5500018",
   "ru": "Вчера была среда.",
   "stress": "Вчера́ была́ среда́.",
@@ -12310,6 +11852,21 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #5509305 di odexed; traduzione it #5509476 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5510287",
+  "ru": "Никто не кричал.",
+  "stress": "Никто́ не крича́л.",
+  "it": "Nessuno ha gridato.",
+  "words": [
+   "w_nikto",
+   "w_ne",
+   "w_krichat"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5510287 di odexed; traduzione it #5510584 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_5510632",
@@ -12628,6 +12185,22 @@
   "attribution": "Tatoeba.org, frase #5520946 di marafon; traduzione it #5521886 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
+  "id": "s_5521193",
+  "ru": "Что именно он делал?",
+  "stress": "Что́ и́менно о́н де́лал?",
+  "it": "Cosa stava facendo lui esattamente?",
+  "words": [
+   "w_chto",
+   "w_imenno",
+   "w_on",
+   "w_delat"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5521193 di marafon; traduzione it #5521704 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
   "id": "s_5522288",
   "ru": "Начнём завтра утром.",
   "stress": "Начнём за́втра у́тром.",
@@ -12735,21 +12308,6 @@
   "attribution": "Tatoeba.org, frase #5527513 di marafon; traduzione it #5527594 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_5528319",
-  "ru": "Они поэтому умерли?",
-  "stress": "Они́ поэ́тому у́мерли?",
-  "it": "È il motivo per cui sono morti?",
-  "words": [
-   "w_oni",
-   "w_poetomu",
-   "w_umeret"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5528319 di marafon; traduzione it #5528602 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_5528401",
   "ru": "Конечно, Том пойдёт.",
   "stress": "Коне́чно, Том пойдёт.",
@@ -12822,22 +12380,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #5530546 di odexed; traduzione it #5530915 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_5533679",
-  "ru": "Держи оружие под рукой.",
-  "stress": "Держи́ ору́жие под руко́й.",
-  "it": "Reggi l'arma in mano.",
-  "words": [
-   "w_derzhat",
-   "w_oruzhie",
-   "w_pod",
-   "w_ruka"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5533679 di marafon; traduzione it #5534301 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_5534699",
@@ -13389,21 +12931,6 @@
   "attribution": "Tatoeba.org, frase #5556249 di marafon; traduzione it #6804366 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_5556348",
-  "ru": "Я требую правды.",
-  "stress": "Я́ тре́бую пра́вды.",
-  "it": "Pretendo la verità.",
-  "words": [
-   "w_ya",
-   "w_trebovat",
-   "w_pravda"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5556348 di marafon; traduzione it #5556607 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_5557152",
   "ru": "Вы слушали?",
   "stress": "Вы́ слу́шали?",
@@ -13509,20 +13036,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #5560580 di odexed; traduzione it #5560745 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_5560659",
-  "ru": "Вы капитан.",
-  "stress": "Вы́ капита́н.",
-  "it": "Siete il capitano.",
-  "words": [
-   "w_vy",
-   "w_kapitan"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5560659 di marafon; traduzione it #5563072 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_5561523",
@@ -13914,6 +13427,22 @@
   "attribution": "Tatoeba.org, frase #5586140 di marafon; traduzione it #5586542 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
+  "id": "s_5586997",
+  "ru": "Том положил ногу на ногу.",
+  "stress": "Том положи́л но́гу на но́гу.",
+  "it": "Tom accavallò le gambe.",
+  "words": [
+   "w_tot",
+   "w_polozhit",
+   "w_noga",
+   "w_na"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5586997 di marafon; traduzione it #5587237 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
   "id": "s_5587992",
   "ru": "Вот каким образом я решил эту проблему.",
   "stress": "Вот каки́м о́бразом я́ реши́л э́ту пробле́му.",
@@ -14183,20 +13712,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #5599422 di marafon; traduzione it #5688470 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_5601806",
-  "ru": "Бог везде.",
-  "stress": "Бо́г везде́.",
-  "it": "Dio è ovunque.",
-  "words": [
-   "w_bog",
-   "w_vezde"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5601806 di marafon; traduzione it #6788142 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_5604189",
@@ -14889,24 +14404,6 @@
   "attribution": "Tatoeba.org, frase #5651636 di marafon; traduzione it #375422 di martin; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_5651640",
-  "ru": "Я знаю, где ты держишь оружие.",
-  "stress": "Я́ зна́ю, где́ ты́ де́ржишь ору́жие.",
-  "it": "So dove custodisci l'arma.",
-  "words": [
-   "w_ya",
-   "w_znat",
-   "w_gde",
-   "w_ty",
-   "w_derzhat",
-   "w_oruzhie"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5651640 di marafon; traduzione it #5652156 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_5651679",
   "ru": "Я не могу быть тем, чем не являюсь.",
   "stress": "Я́ не могу́ бы́ть тем, чем не явля́юсь.",
@@ -15449,21 +14946,6 @@
   "attribution": "Tatoeba.org, frase #5670518 di marafon; traduzione it #5670941 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_5672161",
-  "ru": "Теперь это закон.",
-  "stress": "Тепе́рь э́то зако́н.",
-  "it": "Ora questa è legge.",
-  "words": [
-   "w_teper",
-   "w_eto",
-   "w_zakon"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5672161 di marafon; traduzione it #5672396 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_5672455",
   "ru": "Эта комната — самая уютная в доме.",
   "stress": "Э́та ко́мната — са́мая ую́тная в до́ме.",
@@ -15559,21 +15041,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #5672709 di marafon; traduzione it #5673407 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_5672820",
-  "ru": "Я ваш капитан.",
-  "stress": "Я́ ва́ш капита́н.",
-  "it": "Sono il vostro capitano.",
-  "words": [
-   "w_ya",
-   "w_vash",
-   "w_kapitan"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5672820 di marafon; traduzione it #5673307 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_5672821",
@@ -15847,21 +15314,6 @@
   "attribution": "Tatoeba.org, frase #5679558 di marafon; traduzione it #5679673 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_5681258",
-  "ru": "Командиром стал Том.",
-  "stress": "Команди́ром ста́л Том.",
-  "it": "Tom diventò il comandante.",
-  "words": [
-   "w_komandir",
-   "w_stat",
-   "w_tot"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5681258 di sharptoothed; traduzione it #5681353 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_5683031",
   "ru": "Простите, мы знакомы?",
   "stress": "Прости́те, мы́ знако́мы?",
@@ -16016,21 +15468,6 @@
   "attribution": "Tatoeba.org, frase #5695315 di odexed; traduzione it #5695325 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_5696091",
-  "ru": "Том закон знает.",
-  "stress": "Том зако́н зна́ет.",
-  "it": "Tom conosce la legge.",
-  "words": [
-   "w_tot",
-   "w_zakon",
-   "w_znat"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5696091 di marafon; traduzione it #5696479 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_5696152",
   "ru": "Том не узнал свою бывшую жену.",
   "stress": "Том не узна́л свою́ бы́вшую жену́.",
@@ -16075,20 +15512,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #5699940 di marafon; traduzione it #5700288 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_5699976",
-  "ru": "Солдат бежал.",
-  "stress": "Солда́т бежа́л.",
-  "it": "Il soldato corse.",
-  "words": [
-   "w_soldat",
-   "w_bezhat"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #5699976 di marafon; traduzione it #3674274 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_5701713",
@@ -16367,6 +15790,22 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #5797819 di nina99nv; traduzione it #5890151 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_5822090",
+  "ru": "Толще — не всегда лучше.",
+  "stress": "То́лще — не всегда́ лу́чше.",
+  "it": "Più grosso non sempre è meglio.",
+  "words": [
+   "w_tolstyy",
+   "w_ne",
+   "w_vsegda",
+   "w_luchshe"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #5822090 di odexed; traduzione it #6835084 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_5822272",
@@ -17488,6 +16927,24 @@
   "attribution": "Tatoeba.org, frase #6004543 di odexed; traduzione it #5423249 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
+  "id": "s_6005121",
+  "ru": "Ты должен всегда держать своё слово.",
+  "stress": "Ты́ до́лжен всегда́ держа́ть своё сло́во.",
+  "it": "Devi sempre mantenere la tua parola.",
+  "words": [
+   "w_ty",
+   "w_dolzhnyy",
+   "w_vsegda",
+   "w_derzhat",
+   "w_svoy",
+   "w_slovo"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6005121 di odexed; traduzione it #6005652 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
   "id": "s_6007579",
   "ru": "Это она предложила.",
   "stress": "Э́то она́ предложи́ла.",
@@ -17517,20 +16974,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #6007764 di marafon; traduzione it #2020307 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_6009096",
-  "ru": "Я солдат.",
-  "stress": "Я́ солда́т.",
-  "it": "Sono un soldato.",
-  "words": [
-   "w_ya",
-   "w_soldat"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #6009096 di odexed; traduzione it #6009321 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_6019170",
@@ -17651,22 +17094,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #6044230 di Svetislava; traduzione it #2161301 di Guybrush88; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_6045539",
-  "ru": "Я чист перед законом.",
-  "stress": "Я́ чи́ст пе́ред зако́ном.",
-  "it": "Sono pulito di fronte alla legge.",
-  "words": [
-   "w_ya",
-   "w_chistyy",
-   "w_pered",
-   "w_zakon"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #6045539 di odexed; traduzione it #6045802 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_6055368",
@@ -18257,24 +17684,6 @@
   "attribution": "Tatoeba.org, frase #6366930 di marafon; traduzione it #6367577 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_6373443",
-  "ru": "Моя мама - врач, а отец - военный.",
-  "stress": "Моя́ ма́ма - вра́ч, а оте́ц - вое́нный.",
-  "it": "Mia mamma è medico e mio padre militare.",
-  "words": [
-   "w_moy",
-   "w_mama",
-   "w_vrach",
-   "w_a",
-   "w_otets",
-   "w_voennyy"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #6373443 di marafon; traduzione it #6374211 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_6375181",
   "ru": "Никаких \"но\"!",
   "stress": "Никаки́х \"но\"!",
@@ -18333,20 +17742,20 @@
   "attribution": "Tatoeba.org, frase #6449283 di Wezel; traduzione it #6449530 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_6452539",
-  "ru": "Том, скорее всего, умрёт.",
-  "stress": "Том, скоре́е всего́, умрёт.",
-  "it": "È probabile che Tom muoia.",
+  "id": "s_6461364",
+  "ru": "Приезжай как можно скорее.",
+  "stress": "Приезжа́й ка́к мо́жно скоре́е.",
+  "it": "Vieni il più presto possibile.",
   "words": [
-   "w_tot",
-   "w_skoryy",
-   "w_ves",
-   "w_umeret"
+   "w_priekhat",
+   "w_kak",
+   "w_mozhno",
+   "w_skoryy"
   ],
   "level": "a2",
   "source": "tatoeba",
   "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #6452539 di marafon; traduzione it #6449000 di Guybrush88; licenza CC BY 2.0 FR"
+  "attribution": "Tatoeba.org, frase #6461364 di nina99nv; traduzione it #6461708 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_6462710",
@@ -18392,44 +17801,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #6462860 di odexed; traduzione it #6463034 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_6477697",
-  "ru": "Смерть матери стала для девушки тяжёлым ударом.",
-  "stress": "Сме́рть ма́тери ста́ла для де́вушки тяжёлым уда́ром.",
-  "it": "La morte della madre fu un duro colpo per le ragazzina.",
-  "words": [
-   "w_smert",
-   "w_mat",
-   "w_stat",
-   "w_dlya",
-   "w_devushka",
-   "w_tyazhyolyy",
-   "w_udar"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #6477697 di marafon; traduzione it #6477848 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_6477698",
-  "ru": "Смерть матери была для девочек тяжёлым ударом.",
-  "stress": "Сме́рть ма́тери была́ для де́вочек тяжёлым уда́ром.",
-  "it": "La morte della madre fu un duro colpo per le ragazzine.",
-  "words": [
-   "w_smert",
-   "w_mat",
-   "w_byt",
-   "w_dlya",
-   "w_devochka",
-   "w_tyazhyolyy",
-   "w_udar"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #6477698 di marafon; traduzione it #6477845 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_6484623",
@@ -18597,20 +17968,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #6597890 di marafon; traduzione it #6598197 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_6597910",
-  "ru": "Мы враги.",
-  "stress": "Мы́ враги́.",
-  "it": "Siamo nemici.",
-  "words": [
-   "w_my",
-   "w_vrag"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #6597910 di marafon; traduzione it #6598152 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_6602620",
@@ -19534,38 +18891,6 @@
   "attribution": "Tatoeba.org, frase #6884103 di marafon; traduzione it #6884923 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_6884560",
-  "ru": "Я не твой командир.",
-  "stress": "Я́ не тво́й команди́р.",
-  "it": "Non sono il tuo comandante.",
-  "words": [
-   "w_ya",
-   "w_ne",
-   "w_tvoy",
-   "w_komandir"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #6884560 di odexed; traduzione it #6884698 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_6884561",
-  "ru": "Я не ваш командир.",
-  "stress": "Я́ не ва́ш команди́р.",
-  "it": "Non sono il vostro comandante.",
-  "words": [
-   "w_ya",
-   "w_ne",
-   "w_vash",
-   "w_komandir"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #6884561 di odexed; traduzione it #6884697 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_6885886",
   "ru": "Ты почти всё?",
   "stress": "Ты́ почти́ всё?",
@@ -19784,22 +19109,6 @@
   "attribution": "Tatoeba.org, frase #6909102 di marafon; traduzione it #6909211 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_6909572",
-  "ru": "Это была долгая война.",
-  "stress": "Э́то была́ до́лгая война́.",
-  "it": "È stata una lunga guerra.",
-  "words": [
-   "w_eto",
-   "w_byt",
-   "w_dolgiy",
-   "w_voyna"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #6909572 di odexed; traduzione it #6910477 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_6909699",
   "ru": "Смотри, чтоб они не ели слишком много.",
   "stress": "Смотри́, чтоб они́ не е́ли сли́шком мно́го.",
@@ -19817,22 +19126,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #6909699 di corvard; traduzione it #6910437 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_6916315",
-  "ru": "Тому попали в ногу.",
-  "stress": "Тому́ попа́ли в но́гу.",
-  "it": "Tom è stato colpito ad una gamba.",
-  "words": [
-   "w_tot",
-   "w_popast",
-   "w_v",
-   "w_noga"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #6916315 di soweli_Elepanto; traduzione it #6917344 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_6916822",
@@ -19892,22 +19185,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #6921457 di marafon; traduzione it #6921460 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_6923923",
-  "ru": "Я против любых войн.",
-  "stress": "Я́ про́тив любы́х во́йн.",
-  "it": "Sono contrario ad ogni guerra.",
-  "words": [
-   "w_ya",
-   "w_protiv",
-   "w_lyuboy",
-   "w_voyna"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #6923923 di nina99nv; traduzione it #6924170 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_6938283",
@@ -19970,6 +19247,23 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #6945422 di marafon; traduzione it #6946044 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_6946260",
+  "ru": "В любом случае мы поедем.",
+  "stress": "В любо́м слу́чае мы́ пое́дем.",
+  "it": "In ogni caso, andremo.",
+  "words": [
+   "w_v",
+   "w_lyuboy",
+   "w_sluchay",
+   "w_my",
+   "w_poekhat"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #6946260 di odexed; traduzione it #5409460 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_6954353",
@@ -20722,6 +20016,23 @@
   "attribution": "Tatoeba.org, frase #7954812 di marafon; traduzione it #7955095 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
+  "id": "s_7954866",
+  "ru": "Ничего не могу сказать против.",
+  "stress": "Ничего́ не могу́ сказа́ть про́тив.",
+  "it": "Non ho nulla in contrario.",
+  "words": [
+   "w_nichego",
+   "w_ne",
+   "w_moch",
+   "w_skazat",
+   "w_protiv"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #7954866 di marafon; traduzione it #3355699 di Guybrush88; licenza CC BY 2.0 FR"
+ },
+ {
   "id": "s_7954915",
   "ru": "Он в школе.",
   "stress": "О́н в шко́ле.",
@@ -20796,6 +20107,24 @@
   "attribution": "Tatoeba.org, frase #7977697 di marafon; traduzione it #10857569 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
+  "id": "s_8139813",
+  "ru": "На моём месте мог оказаться любой.",
+  "stress": "На моём ме́сте мо́г оказа́ться любо́й.",
+  "it": "Al posto potrebbe trovarsi chiunque.",
+  "words": [
+   "w_na",
+   "w_moy",
+   "w_mesto",
+   "w_moch",
+   "w_okazatsya",
+   "w_lyuboy"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #8139813 di marafon; traduzione it #10792343 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
   "id": "s_8176966",
   "ru": "Я живу под землёй.",
   "stress": "Я́ живу́ под землёй.",
@@ -20853,22 +20182,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #8695359 di marafon; traduzione it #10792180 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_8727726",
-  "ru": "Расскажите в общих чертах.",
-  "stress": "Расскажи́те в о́бщих черта́х.",
-  "it": "Raccontate a grandi linee.",
-  "words": [
-   "w_rasskazat",
-   "w_v",
-   "w_obshchiy",
-   "w_cherta"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #8727726 di marafon; traduzione it #13699193 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_8971347",
@@ -20995,6 +20308,23 @@
   "attribution": "Tatoeba.org, frase #10251499 di Selena777; traduzione it #1239691 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
+  "id": "s_10754844",
+  "ru": "Мы быстро нашли общий язык.",
+  "stress": "Мы́ бы́стро нашли́ о́бщий язы́к.",
+  "it": "Siamo entrati presto in confidenza.",
+  "words": [
+   "w_my",
+   "w_bystro",
+   "w_nayti",
+   "w_obshchiy",
+   "w_yazyk"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #10754844 di marafon; traduzione it #10755288 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
   "id": "s_10771080",
   "ru": "Это последняя группа?",
   "stress": "Э́то после́дняя гру́ппа?",
@@ -21087,20 +20417,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #10837041 di marafon; traduzione it #10838767 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_10848733",
-  "ru": "Вы враги.",
-  "stress": "Вы́ враги́.",
-  "it": "Voi siete i nemici.",
-  "words": [
-   "w_vy",
-   "w_vrag"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #10848733 di Balamax; traduzione it #3008233 di Guybrush88; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_10854092",
@@ -21363,6 +20679,24 @@
   "attribution": "Tatoeba.org, frase #10987591 di marafon; traduzione it #10989234 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
+  "id": "s_10996286",
+  "ru": "Надо уметь держать себя в руках.",
+  "stress": "На́до уме́ть держа́ть себя́ в рука́х.",
+  "it": "Bisogna imparare a mantenere il controllo.",
+  "words": [
+   "w_nado",
+   "w_umet",
+   "w_derzhat",
+   "w_sebya",
+   "w_v",
+   "w_ruka"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #10996286 di marafon; traduzione it #10996323 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
   "id": "s_11111262",
   "ru": "Встаньте в общую очередь!",
   "stress": "Вста́ньте в о́бщую о́чередь!",
@@ -21472,23 +20806,6 @@
   "attribution": "Tatoeba.org, frase #11507830 di marafon; traduzione it #12264358 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_11855390",
-  "ru": "Оказалось, что он давно умер.",
-  "stress": "Оказа́лось, что́ о́н давно́ у́мер.",
-  "it": "A quanto pare è morto da molto tempo.",
-  "words": [
-   "w_okazatsya",
-   "w_chto",
-   "w_on",
-   "w_davno",
-   "w_umeret"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #11855390 di marafon; traduzione it #11856767 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_11863647",
   "ru": "Всё проходит. Любовь остаётся.",
   "stress": "Всё прохо́дит. Любо́вь остаётся.",
@@ -21503,20 +20820,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #11863647 di marafon; traduzione it #11348506 di jacopofar; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_11934550",
-  "ru": "Вы солдаты?",
-  "stress": "Вы́ солда́ты?",
-  "it": "Siete dei soldati?",
-  "words": [
-   "w_vy",
-   "w_soldat"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #11934550 di marafon; traduzione it #11934738 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_12372484",
@@ -21548,21 +20851,6 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #12373137 di marafon; traduzione it #12374020 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
-  "id": "s_12373274",
-  "ru": "Смерть – лишь начало.",
-  "stress": "Сме́рть – лишь на́чало.",
-  "it": "La morte è solo l'inizio.",
-  "words": [
-   "w_smert",
-   "w_lish",
-   "w_nachat"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #12373274 di Ooneykcall; traduzione it #12373984 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_12373299",
@@ -21658,22 +20946,6 @@
   "attribution": "Tatoeba.org, frase #12759013 di marafon; traduzione it #12759643 di Adelpa; licenza CC BY 2.0 FR"
  },
  {
-  "id": "s_12804963",
-  "ru": "Жизни после смерти нет.",
-  "stress": "Жи́зни по́сле сме́рти нет.",
-  "it": "Non c'è vita dopo la morte.",
-  "words": [
-   "w_zhizn",
-   "w_posle",
-   "w_smert",
-   "w_net"
-  ],
-  "level": "a2",
-  "source": "tatoeba",
-  "license": "CC-BY-2.0",
-  "attribution": "Tatoeba.org, frase #12804963 di marafon; traduzione it #12805688 di dnnywld; licenza CC BY 2.0 FR"
- },
- {
   "id": "s_12805055",
   "ru": "Они это приняли.",
   "stress": "Они́ э́то при́няли.",
@@ -21738,6 +21010,23 @@
   "source": "tatoeba",
   "license": "CC-BY-2.0",
   "attribution": "Tatoeba.org, frase #13139255 di Aquinastotle; traduzione it #13139424 di dnnywld; licenza CC BY 2.0 FR"
+ },
+ {
+  "id": "s_13338670",
+  "ru": "Сразу после школы идите домой.",
+  "stress": "Сра́зу по́сле шко́лы иди́те домо́й.",
+  "it": "Venite a casa subito dopo la scuola.",
+  "words": [
+   "w_srazu",
+   "w_posle",
+   "w_shkola",
+   "w_idti",
+   "w_domoy"
+  ],
+  "level": "a2",
+  "source": "tatoeba",
+  "license": "CC-BY-2.0",
+  "attribution": "Tatoeba.org, frase #13338670 di marafon; traduzione it #13631442 di dnnywld; licenza CC BY 2.0 FR"
  },
  {
   "id": "s_13626671",

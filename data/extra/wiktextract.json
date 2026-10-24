@@ -24,11 +24,9 @@
    "pl_nom",
    "pl_prep"
   ],
-  "ipa": "[ja]",
   "it_from": "itwiktionary"
  },
  "w_ne": {
-  "ipa": "[nʲɪ]",
   "it_candidates": [
    "non; particella che nega ciò che segue"
   ]
@@ -58,11 +56,7 @@
    "pl_nom",
    "pl_prep"
   ],
-  "ipa": "[tɨ]",
   "it_from": "itwiktionary"
- },
- "w_chto": {
-  "ipa": "[ʂto]"
  },
  "w_on": {
   "forms_added": [
@@ -83,11 +77,9 @@
    "n_nom",
    "n_prep"
   ],
-  "ipa": "[on]",
   "it_from": "itwiktionary"
  },
  "w_eto": {
-  "ipa": "[ˈɛtə]",
   "it_from": "itwiktionary"
  },
  "w_vy": {
@@ -115,7 +107,6 @@
    "pl_nom",
    "pl_prep"
   ],
-  "ipa": "[vɨ]",
   "it_from": "itwiktionary"
  },
  "w_my": {
@@ -142,20 +133,10 @@
    "pl_ins",
    "pl_nom",
    "pl_prep"
-  ],
-  "ipa": "[mɨ]"
+  ]
  },
  "w_i": {
-  "ipa": "[i]",
   "it_from": "itwiktionary"
- },
- "w_s": {
-  "ipa": "[s]",
-  "governs": [
-   "gen",
-   "ins",
-   "acc"
-  ]
  },
  "w_ona": {
   "forms_added": [
@@ -181,22 +162,13 @@
    "pl_ins",
    "pl_nom",
    "pl_prep"
-  ],
-  "ipa": "[ɐˈna]"
+  ]
  },
  "w_u": {
-  "ipa": "[u]",
   "it_candidates": [
    "(+genitivo) pressoda",
    "(+genitivo) usato per esprimere il possesso."
   ]
- },
- "w_moch": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[mot͡ɕ]"
  },
  "w_oni": {
   "forms_added": [
@@ -222,67 +194,25 @@
    "pl_ins",
    "pl_nom",
    "pl_prep"
-  ],
-  "ipa": "[ɐˈnʲi]"
- },
- "w_khotet": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[xɐˈtʲetʲ]",
-  "governs": [
-   "gen"
-  ]
- },
- "w_net": {
-  "ipa": "[nʲet]",
-  "governs": [
-   "gen"
   ]
  },
  "w_govorit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ɡəvɐˈrʲitʲ]",
   "it_from": "itwiktionary"
- },
- "w_eshchyo": {
-  "ipa": "[(j)ɪˈɕːɵ]"
- },
- "w_iz": {
-  "ipa": "[ɪz]"
  },
  "w_kto": {
-  "ipa": "[kto]",
   "it_from": "itwiktionary"
- },
- "w_ochen": {
-  "ipa": "[ˈot͡ɕɪnʲ]"
  },
  "w_zdes": {
-  "ipa": "[zʲdʲesʲ]",
   "it_from": "itwiktionary"
  },
- "w_da": {
-  "ipa": "[ˈda]"
- },
  "w_chelovek": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[t͡ɕɪɫɐˈvʲek]",
   "topics_from": [
    "People"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
   ]
- },
- "w_tolko": {
-  "ipa": "[ˈtolʲkə]"
  },
  "w_vash": {
   "forms_added": [
@@ -310,35 +240,15 @@
    "pl_ins",
    "pl_nom",
    "pl_prep"
-  ],
-  "ipa": "[vaʂ]"
- },
- "w_gde": {
-  "ipa": "[ɡdʲe]"
+  ]
  },
  "w_khorosho": {
   "forms_added": [
    "comp"
   ],
-  "ipa": "[xərɐˈʂo]",
   "it_from": "itwiktionary"
  },
- "w_pomoch": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pɐˈmot͡ɕ]",
-  "governs": [
-   "dat"
-  ]
- },
  "w_lyubit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[lʲʉˈbʲitʲ]",
   "topics_from": [
    "Love"
   ],
@@ -370,50 +280,22 @@
    "pl_ins",
    "pl_nom",
    "pl_prep"
-  ],
-  "ipa": "[naʂ]"
- },
- "w_tam": {
-  "ipa": "[tam]"
- },
- "w_ili": {
-  "ipa": "[ˈilʲɪ]"
- },
- "w_pozhaluysta": {
-  "ipa": "[pɐˈʐaɫʊstə]"
- },
- "w_segodnya": {
-  "ipa": "[sʲɪˈvodʲnʲə]"
+  ]
  },
  "w_rabota": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[rɐˈbotə]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_zhit": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ʐɨtʲ]",
   "it_candidates": [
    "vivere",
    "abitare"
   ]
  },
  "w_dom": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[dom]",
   "topics_from": [
    "Buildings",
    "Home",
@@ -421,26 +303,17 @@
   ],
   "it_candidates": [
    "casa"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
   ]
- },
- "w_spasibo": {
-  "ipa": "[spɐˈsʲibə]"
- },
- "w_ponimat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[pənʲɪˈmatʲ]"
  },
  "w_mozhno": {
   "no_wiktionary_entry": true
  },
  "w_davay": {
   "no_wiktionary_entry": true
- },
- "w_drugoy": {
-  "ipa": "[drʊˈɡoj]"
  },
  "w_skolko": {
   "forms_added": [
@@ -450,56 +323,16 @@
    "pl_ins",
    "pl_nom",
    "pl_prep"
-  ],
-  "ipa": "[ˈskolʲkə]"
- },
- "w_bez": {
-  "ipa": "[bʲɪs]"
- },
- "w_tozhe": {
-  "ipa": "[ˈtoʐɨ]"
+  ]
  },
  "w_bolshoy": {
-  "grammar": {
-   "decl_class": [
-    "b",
-    "b"
-   ]
-  },
-  "ipa": "[bɐlʲˈʂoj]",
   "it_candidates": [
    "grande",
    "grosso"
-  ]
- },
- "w_kupit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[kʊˈpʲitʲ]",
-  "governs": [
-   "acc"
-  ]
- },
- "w_stoit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈstoɪtʲ]",
-  "governs": [
-   "dat"
-  ]
- },
- "w_sprosit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[sprɐˈsʲitʲ]",
-  "governs": [
-   "acc"
+  ],
+  "decl_class": [
+   "b",
+   "b"
   ]
  },
  "w_ono": {
@@ -526,93 +359,68 @@
    "pl_ins",
    "pl_nom",
    "pl_prep"
-  ],
-  "ipa": "[ɐˈno]"
+  ]
  },
  "w_dver": {
-  "grammar": {
-   "decl_class": [
-    "accent-e",
-    "accent-e"
-   ]
-  },
-  "ipa": "[dvʲerʲ]",
   "it_candidates": [
    "porta"
+  ],
+  "decl_class": [
+   "accent-e",
+   "accent-e"
   ]
  },
  "w_devushka": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈdʲevʊʂkə]",
   "topics_from": [
    "Female people"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
   ]
  },
  "w_voda": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d",
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[vɐˈda]",
   "topics_from": [
    "Beverages",
    "Water"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-d",
+   "hard-stem",
+   "accent-d"
+  ]
  },
  "w_potom": {
-  "ipa": "[pɐˈtom]",
   "topics_from": [
    "Time"
   ]
  },
- "w_ikh": {
-  "ipa": "[ix]"
- },
  "w_bystro": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[ˈbɨstrə]"
+  ]
  },
  "w_malenkiy": {
-  "grammar": {
-   "decl_class": [
-    "b"
-   ]
-  },
-  "ipa": "[ˈmalʲɪnʲkʲɪj]"
+  "decl_class": [
+   "b"
+  ]
  },
  "w_privet": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[prʲɪˈvʲet]",
   "topics_from": [
    "Russian greetings",
    "Russian phrasebook"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_zovut": {
   "no_wiktionary_entry": true
  },
  "w_kofe": {
-  "grammar": {
-   "indeclinable": true
-  },
-  "ipa": "[ˈkofʲe]",
   "topics_from": [
    "Coffee",
    "Plants"
@@ -622,352 +430,219 @@
  "w_trudno": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[ˈtrudnə]"
+  ]
  },
  "w_izvinite": {
   "no_wiktionary_entry": true
  },
  "w_schyot": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ɕːɵt]"
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
+  ]
  },
  "w_pravilno": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[ˈpravʲɪlʲnə]"
+  ]
  },
  "w_vino": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d",
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[vʲɪˈno]",
   "topics_from": [
    "Alcoholic beverages",
    "Wines"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-d",
+   "hard-stem",
+   "accent-d"
+  ]
  },
  "w_chay": {
-  "grammar": {
-   "decl_class": [
-    "vowel-stem",
-    "accent-c",
-    "vowel-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[t͡ɕæj]",
   "topics_from": [
    "Tea"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "vowel-stem",
+   "accent-c",
+   "vowel-stem",
+   "accent-c"
+  ]
  },
  "w_restoran": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[rʲɪstɐˈran]",
   "topics_from": [
    "Restaurants"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_pivo": {
-  "grammar": {
-   "uncountable": true,
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈpʲivə]",
   "topics_from": [
    "Alcoholic beverages",
    "Beer"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_kholodno": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[ˈxoɫədnə]"
+  ]
  },
  "w_taksi": {
-  "grammar": {
-   "indeclinable": true
-  },
-  "ipa": "[tɐkˈsʲi]",
   "topics_from": [
    "Transport"
   ]
  },
  "w_zdravstvuyte": {
-  "ipa": "[ˈzdrastvʊjtʲe]",
   "topics_from": [
    "Russian greetings"
   ],
   "it_from": "itwiktionary"
  },
  "w_rossiya": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[rɐˈsʲijə]"
+  "decl_class": [
+   "i-stem",
+   "accent-a"
+  ]
  },
  "w_tualet": {
-  "grammar": {
-   "uncountable": true,
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[tʊɐˈlʲet]",
   "topics_from": [
    "Clothing",
    "Furniture",
    "Rooms",
    "Toilet (room)"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_medlenno": {
   "forms_added": [
    "comp"
   ],
-  "ipa": "[ˈmʲedlʲɪn(ː)ə]",
   "topics_from": [
    "Time"
   ],
   "it_from": "itwiktionary"
  },
  "w_bar": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[bar]",
   "topics_from": [
    "Bars",
    "Restaurants"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_gostinitsa": {
-  "grammar": {
-   "decl_class": [
-    "ц-stem",
-    "accent-a",
-    "ц-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ɡɐˈsʲtʲinʲɪt͡sə]",
   "topics_from": [
    "Hotels"
+  ],
+  "decl_class": [
+   "ц-stem",
+   "accent-a",
+   "ц-stem",
+   "accent-a"
   ]
  },
  "w_zharko": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[ˈʐarkə]"
+  ]
  },
  "w_krasivo": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[krɐˈsʲivə]"
- },
- "w_do_svidaniya": {
-  "ipa": "[də‿svʲɪˈdanʲɪjə]"
+  ]
  },
  "w_vkusno": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[ˈfkusnə]"
+  ]
  },
  "w_oktyabr": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-b",
-    "soft-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[ɐkˈtʲab(ə)rʲ]",
   "topics_from": [
    "Autumn",
    "Gregorian calendar months"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "soft-stem",
+   "accent-b",
+   "soft-stem",
+   "accent-b"
+  ]
  },
  "w_nosok": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[nɐˈsok]",
   "topics_from": [
    "Footwear"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-b"
   ]
  },
  "w_est": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[jesʲtʲ]",
   "topics_from": [
    "Food and drink"
   ]
  },
  "w_supermarket": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[sʊpʲɪrˈmarkʲɪt]",
   "topics_from": [
    "Shops"
   ],
-  "it_from": "itwiktionary"
- },
- "w_svobodno": {
-  "ipa": "[svɐˈbodnə]"
- },
- "w_po_russki": {
-  "ipa": "[pɐ‿ˈruskʲɪ]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_rubl": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-b",
-    "soft-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[ˈrub(ə)lʲ]",
   "topics_from": [
    "Currency"
+  ],
+  "decl_class": [
+   "soft-stem",
+   "accent-b",
+   "soft-stem",
+   "accent-b"
   ]
  },
  "w_bankomat": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[bənkɐˈmat]",
   "topics_from": [
    "Banking"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_v": {
-  "ipa": "[v]",
-  "governs": [
-   "acc",
-   "prep"
-  ],
   "it_candidates": [
    "(locazione) in (+ caso prepositivo)",
    "(direzione) a, verso (+ caso accusativo)"
   ]
  },
  "w_na": {
-  "ipa": "[nə]",
-  "governs": [
-   "prep",
-   "acc"
-  ],
   "it_candidates": [
    "+ accusativo",
    "+ preposizionale"
   ]
  },
- "w_kak": {
-  "ipa": "[kək]"
- },
- "w_znat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[znatʲ]"
- },
- "w_skazat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[skɐˈzatʲ]"
- },
- "w_o": {
-  "ipa": "[ə]",
-  "governs": [
-   "prep",
-   "acc"
-  ]
- },
  "w_tak": {
-  "ipa": "[tak]",
   "it_from": "itwiktionary"
- },
- "w_dumat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈdumətʲ]"
- },
- "w_no": {
-  "ipa": "[no]"
- },
- "w_chtoby": {
-  "ipa": "[ˈʂtobɨ]"
- },
- "w_a": {
-  "ipa": "[ə]"
- },
- "w_k": {
-  "ipa": "[k]"
- },
- "w_esli": {
-  "ipa": "[ˈjes⁽ʲ⁾lʲɪ]"
- },
- "w_kogda": {
-  "ipa": "[kɐɡˈda]"
- },
- "w_takoy": {
-  "ipa": "[tɐˈkoj]"
  },
  "w_odin": {
   "forms_added": [
@@ -996,112 +671,67 @@
    "pl_nom",
    "pl_prep"
   ],
-  "ipa": "[ɐˈdʲin]",
   "topics_from": [
    "One"
   ],
   "it_from": "itwiktionary"
  },
- "w_dlya": {
-  "ipa": "[dlʲə]"
- },
- "w_pochemu": {
-  "ipa": "[pət͡ɕɪˈmu]"
- },
- "w_ot": {
-  "ipa": "[ɐt]"
- },
  "w_videt": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈvʲidʲɪtʲ]",
   "topics_from": [
    "Computing"
   ]
  },
  "w_vremya": {
-  "grammar": {
-   "decl_class": [
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈvrʲemʲə]",
   "topics_from": [
    "Time",
    "Weather"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "accent-c"
+  ]
  },
  "w_prosto": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[ˈprostə]"
- },
- "w_kotoryy": {
-  "ipa": "[kɐˈtorɨj]"
- },
- "w_uzhe": {
-  "ipa": "[ʊˈʐɛ]"
- },
- "w_idti": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ɪˈtʲːi]"
+  ]
  },
  "w_god": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-e"
-   ]
-  },
-  "ipa": "[ɡot]",
   "topics_from": [
    "Time"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-e"
+  ]
  },
  "w_drug": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[druk]",
   "topics_from": [
    "Friendship",
    "People"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "velar-stem",
+   "accent-c"
+  ]
  },
  "w_den": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-b",
-    "soft-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[dʲenʲ]",
   "topics_from": [
    "Day",
    "Time",
    "Times of day"
   ],
-  "it_from": "itwiktionary"
- },
- "w_kakoy": {
-  "ipa": "[kɐˈkoj]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "soft-stem",
+   "accent-b",
+   "soft-stem",
+   "accent-b"
+  ]
  },
  "w_seychas": {
-  "ipa": "[sʲɪjˈt͡ɕas]",
   "topics_from": [
    "Time"
   ]
@@ -1109,27 +739,7 @@
  "w_nado": {
   "no_wiktionary_entry": true
  },
- "w_nichto": {
-  "ipa": "[nʲɪʂˈto]"
- },
- "w_do": {
-  "ipa": "[də]"
- },
- "w_nayti": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[nɐjˈtʲi]"
- },
  "w_raz": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ras]",
   "topics_from": [
    "One"
   ],
@@ -1137,226 +747,124 @@
    "volta (una volta, due volte)",
    "occasione",
    "uno (quando si conta)"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
   ]
  },
- "w_nikogda": {
-  "ipa": "[nʲɪkɐɡˈda]"
- },
  "w_rebyonok": {
-  "grammar": {
-   "plural_only": true,
-   "decl_class": [
-    "velar-stem",
-    "/hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[rʲɪˈbʲɵnək]",
   "topics_from": [
    "Children",
    "Family members"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "/hard-stem",
+   "accent-a"
   ]
- },
- "w_vot": {
-  "ipa": "[vot]"
- },
- "w_nravitsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈnravʲɪt͡sə]",
-  "governs": [
-   "dat"
-  ]
- },
- "w_rabotat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[rɐˈbotətʲ]",
-  "governs": [
-   "ins"
-  ]
- },
- "w_nikto": {
-  "ipa": "[nʲɪkˈto]"
- },
- "w_mnogo": {
-  "ipa": "[ˈmnoɡə]"
  },
  "w_khoroshiy": {
-  "grammar": {
-   "decl_class": [
-    "b"
-   ]
-  },
-  "ipa": "[xɐˈroʂɨj]",
-  "it_from": "itwiktionary"
- },
- "w_chem": {
-  "ipa": "[t͡ɕem]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "b"
+  ]
  },
  "w_dengi": {
-  "grammar": {
-   "plural_only": true,
-   "decl_class": [
-    "velar-stem",
-    "accent-e",
-    "velar-stem",
-    "accent-e"
-   ]
-  },
-  "ipa": "[ˈdʲenʲɡʲɪ]",
   "topics_from": [
    "Money"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "velar-stem",
+   "accent-e",
+   "velar-stem",
+   "accent-e"
+  ]
  },
  "w_vsegda": {
-  "ipa": "[fsʲɪɡˈda]",
   "topics_from": [
    "Time"
   ]
  },
- "w_chto_to": {
-  "ipa": "[ˈʂto‿tə]"
- },
- "w_luchshe": {
-  "ipa": "[ˈɫut͡ʂʂɨ]"
- },
  "w_otets": {
-  "grammar": {
-   "decl_class": [
-    "ц-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[ɐˈtʲet͡s]",
   "topics_from": [
    "Male family members",
    "Male people",
    "Parents"
+  ],
+  "decl_class": [
+   "ц-stem",
+   "accent-b"
   ]
  },
  "w_teper": {
-  "ipa": "[tʲɪˈpʲerʲ]",
   "topics_from": [
    "Time"
   ]
  },
  "w_mashina": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[mɐˈʂɨnə]",
   "topics_from": [
    "Automobiles"
   ],
-  "it_from": "itwiktionary"
- },
- "w_dazhe": {
-  "ipa": "[ˈdaʐɨ]"
- },
- "w_smotret": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[smɐˈtrʲetʲ]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_novyy": {
-  "grammar": {
-   "decl_class": [
-    "c′",
-    "c′"
-   ]
-  },
-  "ipa": "[ˈnovɨj]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c′",
+   "c′"
+  ]
  },
  "w_mesto": {
-  "grammar": {
-   "plural_only": true,
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈmʲestə]"
- },
- "w_poka": {
-  "ipa": "[pɐˈka]"
- },
- "w_slishkom": {
-  "ipa": "[ˈs⁽ʲ⁾lʲiʂkəm]"
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
+  ]
  },
  "w_zhdat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ʐdatʲ]",
-  "governs": [
-   "gen",
-   "acc"
-  ],
   "topics_from": [
    "Time"
   ]
  },
- "w_kazhdyy": {
-  "ipa": "[ˈkaʐdɨj]"
- },
  "w_tri": {
-  "ipa": "[trʲi]",
   "topics_from": [
    "Three"
   ],
   "it_from": "itwiktionary"
  },
  "w_ruka": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-f",
-    "velar-stem",
-    "accent-f"
-   ]
-  },
-  "ipa": "[rʊˈka]",
   "topics_from": [
    "Anatomy"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-f",
+   "velar-stem",
+   "accent-f"
   ]
  },
  "w_problema": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[prɐˈblʲemə]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_vopros": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[vɐˈpros]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_pervyy": {
-  "ipa": "[ˈpʲervɨj]",
   "topics_from": [
    "One"
   ],
@@ -1366,79 +874,50 @@
    "migliore"
   ]
  },
- "w_potomu_chto": {
-  "ipa": "[pətɐˈmu‿ʂtə]"
- },
  "w_slovo": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c",
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈsɫovə]"
- },
- "w_posle": {
-  "ipa": "[ˈpos⁽ʲ⁾lʲe]"
+  "decl_class": [
+   "hard-stem",
+   "accent-c",
+   "hard-stem",
+   "accent-c"
+  ]
  },
  "w_chas": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[t͡ɕas]",
   "topics_from": [
    "Time"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
   ]
  },
  "w_mama": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈmamə]",
   "topics_from": [
    "Computing",
    "Female family members",
    "Parents"
   ],
-  "it_from": "itwiktionary"
- },
- "w_posledniy": {
-  "ipa": "[pɐs⁽ʲ⁾ˈlʲedʲnʲɪj]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_zhenshchina": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈʐɛnʲɕːɪnə]",
   "topics_from": [
    "Female people"
   ],
-  "it_from": "itwiktionary"
- },
- "w_nachat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[nɐˈt͡ɕætʲ]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_zavtra": {
-  "ipa": "[ˈzaftrə]",
   "topics_from": [
    "Time"
   ]
@@ -1446,42 +925,28 @@
  "w_spat": {
   "forms_added": [
    "aspect_partner"
-  ],
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[spatʲ]"
- },
- "w_kto_to": {
-  "ipa": "[ˈkto‿tə]"
+  ]
  },
  "w_noch": {
-  "grammar": {
-   "decl_class": [
-    "accent-e",
-    "accent-e"
-   ]
-  },
-  "ipa": "[not͡ɕ]",
   "topics_from": [
    "Night",
    "Times of day"
+  ],
+  "decl_class": [
+   "accent-e",
+   "accent-e"
   ]
  },
  "w_brat": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[brat]",
   "topics_from": [
    "Male family members",
    "Male people"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_dva": {
   "forms_added": [
@@ -1492,208 +957,146 @@
    "n_acc",
    "n_nom"
   ],
-  "ipa": "[ˈdva]",
   "topics_from": [
    "Two"
   ],
   "it_from": "itwiktionary"
  },
  "w_komnata": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈkomnətə]",
   "topics_from": [
    "Rooms"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
   ]
  },
- "w_pomnit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈpomnʲɪtʲ]"
- },
- "w_vyyti": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ˈvɨjtʲɪ]"
- },
  "w_nedelya": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[nʲɪˈdʲelʲə]",
   "topics_from": [
    "Days of the week",
    "Time"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "soft-stem",
+   "accent-a"
+  ]
  },
  "w_mat": {
-  "grammar": {
-   "decl_class": [
-    "accent-e"
-   ]
-  },
-  "ipa": "[matʲ]",
   "topics_from": [
    "Female family members",
    "Parents"
+  ],
+  "decl_class": [
+   "accent-e"
   ]
  },
  "w_gorod": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈɡorət]",
   "it_candidates": [
    "città",
    "centro di città"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
   ]
  },
  "w_syn": {
   "gender_from_wikt": true,
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[sɨn]",
   "topics_from": [
    "Male family members"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
   ]
  },
  "w_iskat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ɪˈskatʲ]",
-  "governs": [
-   "acc"
-  ],
   "it_candidates": [
    "cercare",
    "citare in giudizio"
   ]
  },
  "w_glaz": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ɡɫas]",
   "topics_from": [
    "Eye"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
+  ]
  },
  "w_vchera": {
-  "ipa": "[ft͡ɕɪˈra]",
   "topics_from": [
    "Time"
   ]
  },
  "w_togda": {
-  "ipa": "[tɐɡˈda]",
   "topics_from": [
    "Time"
   ]
  },
  "w_nazad": {
-  "ipa": "[nɐˈzat]",
   "topics_from": [
    "Directions"
   ]
  },
- "w_tuda": {
-  "ipa": "[tʊˈda]"
- },
  "w_staryy": {
-  "grammar": {
-   "decl_class": [
-    "c″",
-    "c″"
-   ]
-  },
-  "ipa": "[ˈstarɨj]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c″",
+   "c″"
+  ]
  },
  "w_plokhoy": {
-  "grammar": {
-   "decl_class": [
-    "c′",
-    "c′"
-   ]
-  },
-  "ipa": "[pɫɐˈxoj]",
   "topics_from": [
    "Health"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c′",
+   "c′"
+  ]
  },
  "w_minuta": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[mʲɪˈnutə]",
   "topics_from": [
    "Time"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_zhena": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d",
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[ʐɨˈna]",
   "topics_from": [
    "Female family members",
    "Female people",
    "Marriage"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-d",
+   "hard-stem",
+   "accent-d"
   ]
  },
  "w_neskolko": {
   "no_wiktionary_entry": true
  },
  "w_semya": {
-  "grammar": {
-   "decl_class": [
-    "vowel-stem",
-    "accent-d",
-    "vowel-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[sʲɪˈm⁽ʲ⁾ja]",
   "topics_from": [
    "Family"
+  ],
+  "decl_class": [
+   "vowel-stem",
+   "accent-d",
+   "vowel-stem",
+   "accent-d"
   ]
  },
  "w_sleduyushchiy": {
@@ -1703,39 +1106,11 @@
    "short_n",
    "short_pl"
   ],
-  "grammar": {
-   "decl_class": [
-    "a"
-   ]
-  },
-  "ipa": "[ˈs⁽ʲ⁾lʲedʊjʉɕːɪj]"
- },
- "w_snova": {
-  "ipa": "[ˈsnovə]"
- },
- "w_znachit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈznat͡ɕɪtʲ]"
- },
- "w_pered": {
-  "ipa": "[ˈpʲerʲɪt]"
- },
- "w_konechno": {
-  "ipa": "[kɐˈnʲeʂnə]"
+  "decl_class": [
+   "a"
+  ]
  },
  "w_sestra": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d",
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[sʲɪˈstra]",
   "topics_from": [
    "Female family members",
    "Medicine"
@@ -1744,112 +1119,75 @@
    "sorella",
    "infermiera",
    "suora"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-d",
+   "hard-stem",
+   "accent-d"
   ]
  },
  "w_veshch": {
-  "grammar": {
-   "decl_class": [
-    "accent-e",
-    "accent-e"
-   ]
-  },
-  "ipa": "[vʲeɕː]"
- },
- "w_golova": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-f",
-    "hard-stem",
-    "accent-f"
-   ]
-  },
-  "ipa": "[ɡəɫɐˈva]",
-  "topics_from": [
-   "Body parts"
+  "decl_class": [
+   "accent-e",
+   "accent-e"
   ]
  },
- "w_pochti": {
-  "ipa": "[pɐt͡ɕˈtʲi]"
- },
- "w_proshlyy": {
-  "ipa": "[ˈproʂɫɨj]"
- },
- "w_chitat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[t͡ɕɪˈtatʲ]"
+ "w_golova": {
+  "topics_from": [
+   "Body parts"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-f",
+   "hard-stem",
+   "accent-f"
+  ]
  },
  "w_krasivyy": {
-  "grammar": {
-   "decl_class": [
-    "a",
-    "a"
-   ]
-  },
-  "ipa": "[krɐˈsʲivɨj]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "a",
+   "a"
+  ]
  },
  "w_politsiya": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[pɐˈlʲit͡sɨjə]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "i-stem",
+   "accent-a"
+  ]
  },
  "w_mnogie": {
   "no_wiktionary_entry": true
  },
  "w_sobaka": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a",
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[sɐˈbakə]",
   "topics_from": [
    "Computing",
    "Dogs",
    "Internet"
   ],
-  "it_from": "itwiktionary"
- },
- "w_ekhat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈjexətʲ]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "velar-stem",
+   "accent-a",
+   "velar-stem",
+   "accent-a"
+  ]
  },
  "w_mesyats": {
-  "grammar": {
-   "decl_class": [
-    "ц-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈmʲesʲɪt͡s]",
   "topics_from": [
    "Light sources",
    "Moon",
    "Time"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "ц-stem",
+   "accent-a"
+  ]
  },
  "w_pit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[pʲitʲ]",
   "topics_from": [
    "Drinking"
   ]
@@ -1857,138 +1195,99 @@
  "w_roditel": {
   "no_wiktionary_entry": true
  },
- "w_poetomu": {
-  "ipa": "[pɐˈɛtəmʊ]"
- },
  "w_pyat": {
-  "grammar": {
-   "decl_class": [
-    "accent-b"
-   ]
-  },
-  "ipa": "[pʲætʲ]",
   "topics_from": [
    "Five"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "accent-b"
+  ]
  },
  "w_strana": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d",
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[strɐˈna]"
+  "decl_class": [
+   "hard-stem",
+   "accent-d",
+   "hard-stem",
+   "accent-d"
+  ]
  },
  "w_litso": {
-  "grammar": {
-   "decl_class": [
-    "ц-stem",
-    "accent-d",
-    "ц-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[lʲɪˈt͡so]",
   "topics_from": [
    "Anatomy",
    "Face"
+  ],
+  "decl_class": [
+   "ц-stem",
+   "accent-d",
+   "ц-stem",
+   "accent-d"
   ]
  },
- "w_pryamo": {
-  "ipa": "[ˈprʲamə]"
- },
  "w_noga": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-f",
-    "velar-stem",
-    "accent-f"
-   ]
-  },
-  "ipa": "[nɐˈɡa]",
   "topics_from": [
    "Body parts",
    "Limbs"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-f",
+   "velar-stem",
+   "accent-f"
   ]
  },
- "w_otkuda": {
-  "ipa": "[ɐtˈkudə]"
- },
- "w_mezhdu": {
-  "ipa": "[ˈmʲeʐdʊ]"
- },
  "w_papa": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈpapə]",
   "topics_from": [
    "Electronics",
    "Male family members",
    "Parents"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_dorogoy": {
-  "grammar": {
-   "decl_class": [
-    "c"
-   ]
-  },
-  "ipa": "[dərɐˈɡoj]",
   "topics_from": [
    "People"
   ],
   "it_candidates": [
    "caro",
    "costoso"
+  ],
+  "decl_class": [
+   "c"
   ]
  },
  "w_molodoy": {
-  "grammar": {
-   "decl_class": [
-    "c",
-    "c"
-   ]
-  },
-  "ipa": "[məɫɐˈdoj]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c",
+   "c"
+  ]
  },
  "w_ulitsa": {
-  "grammar": {
-   "decl_class": [
-    "ц-stem",
-    "accent-a",
-    "ц-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈulʲɪt͡sə]",
   "topics_from": [
    "Roads"
+  ],
+  "decl_class": [
+   "ц-stem",
+   "accent-a",
+   "ц-stem",
+   "accent-a"
   ]
  },
  "w_stol": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[stoɫ]",
   "topics_from": [
    "Furniture"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-b"
+  ]
  },
  "w_prostite": {
   "no_wiktionary_entry": true
@@ -1997,39 +1296,30 @@
   "forms_added": [
    "comp"
   ],
-  "ipa": "[ˈdoɫɡə]",
   "topics_from": [
    "Time"
   ]
  },
  "w_muzh": {
-  "grammar": {
-   "decl_class": [
-    "sibilant-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[muʂ]",
   "topics_from": [
    "Male family members",
    "Marriage"
+  ],
+  "decl_class": [
+   "sibilant-stem",
+   "accent-c"
   ]
  },
  "w_eda": {
-  "grammar": {
-   "uncountable": true,
-   "decl_class": [
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[(j)ɪˈda]",
   "topics_from": [
    "Food and drink"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-d"
   ]
  },
  "w_inogda": {
-  "ipa": "[ɪnɐɡˈda]",
   "topics_from": [
    "Time"
   ],
@@ -2039,23 +1329,12 @@
   ]
  },
  "w_bystryy": {
-  "grammar": {
-   "decl_class": [
-    "c′",
-    "c′"
-   ]
-  },
-  "ipa": "[ˈbɨstrɨj]"
- },
- "w_ostanovit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ɐstənɐˈvʲitʲ]"
+  "decl_class": [
+   "c′",
+   "c′"
+  ]
  },
  "w_obychno": {
-  "ipa": "[ɐˈbɨt͡ɕnə]",
   "topics_from": [
    "Time"
   ]
@@ -2063,93 +1342,60 @@
  "w_plokho": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[ˈpɫoxə]"
- },
- "w_khotya": {
-  "ipa": "[xɐˈtʲa]"
+  ]
  },
  "w_nichego": {
   "no_wiktionary_entry": true
  },
  "w_desyat": {
-  "grammar": {
-   "decl_class": [
-    "accent-b"
-   ]
-  },
-  "ipa": "[ˈdʲesʲɪtʲ]",
   "topics_from": [
    "Ten"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "accent-b"
+  ]
  },
  "w_voyti": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[vɐjˈtʲi]",
   "topics_from": [
    "Computing"
   ]
  },
  "w_dozhd": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-b",
-    "soft-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[doʂtʲ]",
   "topics_from": [
    "Rain"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "soft-stem",
+   "accent-b",
+   "soft-stem",
+   "accent-b"
+  ]
  },
  "w_umnyy": {
-  "grammar": {
-   "decl_class": [
-    "c″",
-    "c″"
-   ]
-  },
-  "ipa": "[ˈumnɨj]",
   "topics_from": [
    "Personality"
   ],
-  "it_from": "itwiktionary"
- },
- "w_uchit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ʊˈt͡ɕitʲ]",
-  "governs": [
-   "acc",
-   "dat"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c″",
+   "c″"
   ]
  },
  "w_svobodnyy": {
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[svɐˈbodnɨj]",
   "topics_from": [
    "Software"
   ],
   "it_candidates": [
    "libero (bagno libero)",
    "libero (stato libero)"
+  ],
+  "decl_class": [
+   "a*"
   ]
  },
  "w_chetyre": {
-  "ipa": "[t͡ɕɪˈtɨrʲɪ]",
   "topics_from": [
    "Four"
   ],
@@ -2159,182 +1405,120 @@
   "forms_added": [
    "comp"
   ],
-  "ipa": "[ˈmaɫə]",
   "it_from": "itwiktionary"
  },
  "w_avtobus": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ɐfˈtobʊs]",
   "topics_from": [
    "Transport",
    "Vehicles"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_gotovit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ɡɐˈtovʲɪtʲ]",
   "topics_from": [
    "Cooking"
   ]
  },
  "w_shest": {
-  "grammar": {
-   "decl_class": [
-    "accent-b"
-   ]
-  },
-  "ipa": "[ʂɛsʲtʲ]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "accent-b"
+  ]
  },
  "w_podruga": {
   "no_wiktionary_entry": true
  },
- "w_roditsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[rɐˈdʲit͡sːə]"
- },
- "w_platit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[pɫɐˈtʲitʲ]"
- },
  "w_solntse": {
-  "grammar": {
-   "decl_class": [
-    "ц-stem",
-    "accent-a",
-    "ц-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈsont͡sə]",
   "topics_from": [
    "Light sources",
    "Sun"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "ц-stem",
+   "accent-a",
+   "ц-stem",
+   "accent-a"
+  ]
  },
  "w_bolet": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[bɐˈlʲetʲ]",
   "topics_from": [
    "Health",
    "Medicine"
   ]
  },
- "w_normalno": {
-  "ipa": "[nɐrˈmalʲnə]"
- },
  "w_daleko": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[dəlʲɪˈko]"
+  ]
  },
  "w_koshka": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a",
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈkoʂkə]",
   "topics_from": [
    "Cats",
    "Footwear"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-a",
+   "velar-stem",
+   "accent-a"
   ]
  },
  "w_dolgiy": {
-  "grammar": {
-   "decl_class": [
-    "c*"
-   ]
-  },
-  "ipa": "[ˈdoɫɡʲɪj]",
   "topics_from": [
    "Time"
+  ],
+  "decl_class": [
+   "c*"
   ]
  },
  "w_golodnyy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "c′*",
-    "c′*"
-   ]
-  },
-  "ipa": "[ɡɐˈɫodnɨj]"
+  "decl_class": [
+   "c′*",
+   "c′*"
+  ]
  },
  "w_sekunda": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[sʲɪˈkundə]",
   "topics_from": [
    "Time"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_bilet": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[bʲɪˈlʲet]"
- },
- "w_gde_to": {
-  "ipa": "[ˈɡdʲe‿tə]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_sem": {
-  "grammar": {
-   "decl_class": [
-    "accent-b"
-   ]
-  },
-  "ipa": "[sʲemʲ]",
   "topics_from": [
    "Seven"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "accent-b"
+  ]
  },
  "w_krovat": {
-  "grammar": {
-   "decl_class": [
-    "accent-a",
-    "accent-a"
-   ]
-  },
-  "ipa": "[krɐˈvatʲ]",
   "topics_from": [
    "Bedding",
    "Furniture"
+  ],
+  "decl_class": [
+   "accent-a",
+   "accent-a"
   ]
  },
  "w_vse": {
@@ -2345,418 +1529,303 @@
    "pl_ins",
    "pl_nom",
    "pl_prep"
-  ],
-  "ipa": "[fsʲe]"
+  ]
  },
  "w_derevnya": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-e",
-    "soft-stem",
-    "accent-e"
-   ]
-  },
-  "ipa": "[dʲɪˈrʲevnʲə]"
+  "decl_class": [
+   "soft-stem",
+   "accent-e",
+   "soft-stem",
+   "accent-e"
+  ]
  },
  "w_pogoda": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[pɐˈɡodə]",
   "topics_from": [
    "Meteorology",
    "Weather"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_vykhod": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈvɨxət]",
   "it_candidates": [
    "l'atto dell'uscire",
    "presentazione",
    "uscita di un prodotto editoriale, pubblicazione",
    "rendimento",
    "ingresso in scena"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_tikho": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[ˈtʲixə]"
+  ]
  },
  "w_sneg": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[snʲek]",
   "topics_from": [
    "Snow"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "velar-stem",
+   "accent-c"
+  ]
  },
  "w_kholodnyy": {
-  "grammar": {
-   "decl_class": [
-    "c′*",
-    "c′*"
-   ]
-  },
-  "ipa": "[xɐˈɫodnɨj]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c′*",
+   "c′*"
+  ]
  },
  "w_vosem": {
-  "ipa": "[ˈvosʲɪmʲ]",
   "it_from": "itwiktionary"
  },
  "w_ponedelnik": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[pənʲɪˈdʲelʲnʲɪk]",
   "topics_from": [
    "Days of the week"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
+  ]
  },
  "w_klub": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[kɫup]"
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
+  ]
  },
  "w_stantsiya": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈstant͡sɨjə]",
   "topics_from": [
    "Rail transportation",
    "Telephony"
+  ],
+  "decl_class": [
+   "i-stem",
+   "accent-a"
   ]
  },
  "w_voskresene": {
-  "grammar": {
-   "decl_class": [
-    "vowel-stem",
-    "accent-a",
-    "vowel-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[vəskrʲɪˈsʲenʲje]",
   "topics_from": [
    "Days of the week"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "vowel-stem",
+   "accent-a",
+   "vowel-stem",
+   "accent-a"
+  ]
  },
  "w_gryaznyy": {
-  "grammar": {
-   "decl_class": [
-    "c′*",
-    "c′*"
-   ]
-  },
-  "ipa": "[ˈɡrʲaznɨj]"
+  "decl_class": [
+   "c′*",
+   "c′*"
+  ]
  },
  "w_trudnyy": {
-  "grammar": {
-   "decl_class": [
-    "c′*"
-   ]
-  },
-  "ipa": "[ˈtrudnɨj]",
-  "governs": [
-   "dat"
-  ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c′*"
+  ]
  },
  "w_pravilnyy": {
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[ˈpravʲɪlʲnɨj]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "a*"
+  ]
  },
  "w_tikhiy": {
-  "grammar": {
-   "decl_class": [
-    "c′"
-   ]
-  },
-  "ipa": "[ˈtʲixʲɪj]"
+  "decl_class": [
+   "c′"
+  ]
  },
  "w_stul": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[stuɫ]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_devyat": {
-  "grammar": {
-   "decl_class": [
-    "accent-b"
-   ]
-  },
-  "ipa": "[ˈdʲevʲɪtʲ]",
   "topics_from": [
    "Nine"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "accent-b"
+  ]
  },
  "w_pyatnitsa": {
-  "grammar": {
-   "decl_class": [
-    "ц-stem",
-    "accent-a",
-    "ц-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈpʲætʲnʲɪt͡sə]",
   "topics_from": [
    "Days of the week",
    "Five"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "ц-stem",
+   "accent-a",
+   "ц-stem",
+   "accent-a"
+  ]
  },
  "w_botinok": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[bɐˈtʲinək]",
   "topics_from": [
    "Footwear"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
   ]
  },
  "w_chashka": {
   "no_wiktionary_entry": true
  },
  "w_sup": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[sup]",
   "topics_from": [
    "Soups"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
   ]
  },
  "w_vkusnyy": {
-  "grammar": {
-   "decl_class": [
-    "c′*",
-    "c′*"
-   ]
-  },
-  "ipa": "[ˈfkusnɨj]"
+  "decl_class": [
+   "c′*",
+   "c′*"
+  ]
  },
  "w_dobroe_utro": {
-  "ipa": "[ˈdobrəjə ˈutrə]",
   "topics_from": [
    "Russian greetings",
    "Russian phrasebook"
   ]
  },
  "w_subbota": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[sʊˈbotə]",
   "topics_from": [
    "Days of the week"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_normalnyy": {
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[nɐrˈmalʲnɨj]"
- },
- "w_vezde": {
-  "ipa": "[vʲɪzʲˈdʲe]"
+  "decl_class": [
+   "a*"
+  ]
  },
  "w_vkhod": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[fxot]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_malyy": {
-  "grammar": {
-   "decl_class": [
-    "b",
-    "b"
-   ]
-  },
-  "ipa": "[ˈmaɫɨj]"
+  "decl_class": [
+   "b",
+   "b"
+  ]
  },
  "w_deshyovyy": {
-  "grammar": {
-   "decl_class": [
-    "c"
-   ]
-  },
-  "ipa": "[dʲɪˈʂovɨj]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c"
+  ]
  },
  "w_sreda": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[srʲɪˈda]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-d"
+  ]
  },
  "w_napitok": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[nɐˈpʲitək]",
   "topics_from": [
    "Food and drink"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
+  ]
  },
  "w_gromkiy": {
-  "grammar": {
-   "decl_class": [
-    "c*"
-   ]
-  },
-  "ipa": "[ˈɡromkʲɪj]"
+  "decl_class": [
+   "c*"
+  ]
  },
  "w_paket": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[pɐˈkʲet]",
   "topics_from": [
    "Bags",
    "Networking"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_gromko": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[ˈɡromkə]"
+  ]
  },
  "w_kurtka": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈkurtkə]",
   "topics_from": [
    "Clothing"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
+  ]
  },
  "w_tekst": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[tʲekst]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_napravo": {
-  "ipa": "[nɐˈpravə]",
   "topics_from": [
    "Directions"
   ]
  },
  "w_nalevo": {
-  "ipa": "[nɐˈlʲevə]",
   "topics_from": [
    "Directions"
   ]
- },
- "w_nigde": {
-  "ipa": "[nʲɪɡˈdʲe]"
  },
  "w_dochka": {
   "no_wiktionary_entry": true
  },
  "w_dobryy_den": {
-  "ipa": "[ˌdobrɨj ˈdʲenʲ]",
   "topics_from": [
    "Day",
    "Russian greetings"
   ],
   "it_from": "itwiktionary"
  },
- "w_nedaleko": {
-  "ipa": "[nʲɪdəlʲɪˈko]"
- },
  "w_dobryy_vecher": {
-  "ipa": "[ˈdobrɨj ˈvʲet͡ɕɪr]",
   "topics_from": [
    "Russian greetings",
    "Russian phrasebook"
   ]
  },
  "w_kafe": {
-  "grammar": {
-   "indeclinable": true
-  },
-  "ipa": "[kɐˈfɛ]",
   "topics_from": [
    "Coffee",
    "Restaurants"
@@ -2764,177 +1833,117 @@
   "it_from": "itwiktionary"
  },
  "w_salat": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[sɐˈɫat]",
   "topics_from": [
    "Food and drink"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_metro": {
-  "grammar": {
-   "indeclinable": true
-  },
-  "ipa": "[mʲɪˈtro]",
   "topics_from": [
    "Rail transportation"
   ]
  },
  "w_medlennyy": {
-  "grammar": {
-   "decl_class": [
-    "a*[①]"
-   ]
-  },
-  "ipa": "[ˈmʲedlʲɪn(ː)ɨj]"
+  "decl_class": [
+   "a*[①]"
+  ]
  },
  "w_vtornik": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈftornʲɪk]",
   "topics_from": [
    "Days of the week"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
+  ]
  },
  "w_chetverg": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[t͡ɕɪtˈvʲerk]",
   "topics_from": [
    "Days of the week"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "velar-stem",
+   "accent-b"
+  ]
  },
  "w_dalyokiy": {
   "forms_added": [
    "comp",
    "sup"
   ],
-  "grammar": {
-   "decl_class": [
-    "c″"
-   ]
-  },
-  "ipa": "[dɐˈlʲɵkʲɪj]"
+  "decl_class": [
+   "c″"
+  ]
  },
  "w_khobbi": {
-  "grammar": {
-   "indeclinable": true
-  },
-  "ipa": "[ˈxobʲ(ː)ɪ]",
   "topics_from": [
    "Hobbies"
   ]
  },
  "w_zharkiy": {
-  "grammar": {
-   "decl_class": [
-    "c*"
-   ]
-  },
-  "ipa": "[ˈʐarkʲɪj]"
+  "decl_class": [
+   "c*"
+  ]
  },
  "w_piknik": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[pʲɪkˈnʲik]"
+  "decl_class": [
+   "velar-stem",
+   "accent-b"
+  ]
  },
  "w_shtorm": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ʂtorm]",
   "topics_from": [
    "Weather",
    "Wind"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
- "w_menyu": {
-  "grammar": {
-   "indeclinable": true
-  },
-  "ipa": "[mʲɪˈnʲu]"
- },
- "w_kushat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈkuʂətʲ]"
- },
  "w_arbuz": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ɐrˈbus]",
   "topics_from": [
    "Fruits"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_uyutnyy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[ʊˈjutnɨj]"
+  "decl_class": [
+   "a*"
+  ]
  },
  "w_nedalyokiy": {
-  "grammar": {
-   "decl_class": [
-    "a"
-   ]
-  },
-  "ipa": "[nʲɪdɐˈlʲɵkʲɪj]"
+  "decl_class": [
+   "a"
+  ]
  },
  "w_eskalator": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ɪskɐˈɫatər]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_fitnes": {
   "no_wiktionary_entry": true
  },
  "w_sparzha": {
-  "grammar": {
-   "decl_class": [
-    "sibilant-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈsparʐə]"
+  "decl_class": [
+   "sibilant-stem",
+   "accent-a"
+  ]
  },
  "w_mem": {
   "forms_added": [
@@ -2953,13 +1962,10 @@
   ],
   "gender_from_wikt": true,
   "animate_from_wikt": true,
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[mʲem]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_vay_fay": {
   "no_wiktionary_entry": true
@@ -2971,14 +1977,6 @@
   "no_wiktionary_entry": true
  },
  "w_byt": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[bɨtʲ]",
-  "governs": [
-   "ins"
-  ],
   "it_candidates": [
    "essere, esistere",
    "trovarsi, stare",
@@ -2986,59 +1984,6 @@
    "avere",
    "avere luogo, accadere"
   ]
- },
- "w_etot": {
-  "ipa": "[ˈɛtət]"
- },
- "w_ves": {
-  "ipa": "[vʲesʲ]"
- },
- "w_moy": {
-  "ipa": "[moj]"
- },
- "w_tot": {
-  "ipa": "[tot]"
- },
- "w_by": {
-  "ipa": "[bɨ]"
- },
- "w_svoy": {
-  "ipa": "[svoj]"
- },
- "w_za": {
-  "ipa": "[zə]",
-  "governs": [
-   "acc",
-   "ins"
-  ]
- },
- "w_sdelat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ˈzʲdʲeɫətʲ]"
- },
- "w_dolzhnyy": {
-  "ipa": "[ˈdoɫʐnɨj]"
- },
- "w_tvoy": {
-  "ipa": "[tvoj]"
- },
- "w_po": {
-  "ipa": "[pə]",
-  "governs": [
-   "dat",
-   "prep",
-   "acc"
-  ]
- },
- "w_delat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈdʲeɫətʲ]"
  },
  "w_sebya": {
   "forms_added": [
@@ -3058,582 +2003,178 @@
    "n_ins",
    "n_nom",
    "n_prep"
-  ],
-  "ipa": "[sʲɪˈbʲa]"
- },
- "w_zhe": {
-  "ipa": "[ʐɨ]"
- },
- "w_poyti": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pɐjˈtʲi]"
+  ]
  },
  "w_dat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[datʲ]",
   "it_from": "itwiktionary"
  },
- "w_priyti": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[prʲɪjˈtʲi]"
- },
- "w_li": {
-  "ipa": "[lʲi]"
- },
  "w_delo": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈdʲeɫə]"
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
+  ]
  },
  "w_pravda": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈpravdə]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_zhizn": {
-  "grammar": {
-   "decl_class": [
-    "accent-a",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈʐɨzʲ(ɪ)nʲ]"
- },
- "w_samyy": {
-  "ipa": "[ˈsamɨj]"
+  "decl_class": [
+   "accent-a",
+   "accent-a"
+  ]
  },
  "w_nuzhnyy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "c′*",
-    "c′*"
-   ]
-  },
-  "ipa": "[ˈnuʐnɨj]",
-  "governs": [
-   "dat"
+  "decl_class": [
+   "c′*",
+   "c′*"
   ]
- },
- "w_ni": {
-  "ipa": "[nʲɪ]"
- },
- "w_stat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[statʲ]",
-  "governs": [
-   "dat",
-   "ins",
-   "gen"
-  ]
- },
- "w_smoch": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[smot͡ɕ]"
- },
- "w_sam": {
-  "ipa": "[sam]"
- },
- "w_vzyat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[vzʲætʲ]"
- },
- "w_vernutsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[vʲɪrˈnut͡sːə]"
  },
  "w_nu": {
   "no_wiktionary_entry": true
  },
- "w_slyshat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈsɫɨʂətʲ]"
- },
- "w_imet": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ɪˈmʲetʲ]"
- },
- "w_ponyat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pɐˈnʲætʲ]"
- },
- "w_ostatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ɐˈstat͡sːə]"
- },
- "w_davat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[dɐˈvatʲ]"
- },
  "w_chyom": {
   "no_wiktionary_entry": true
  },
- "w_sobiratsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[səbʲɪˈrat͡sːə]"
- },
- "w_uvidet": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ʊˈvʲidʲɪtʲ]"
- },
- "w_rasskazat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[rəs(ː)kɐˈzatʲ]"
- },
- "w_posmotret": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pəsmɐˈtrʲetʲ]"
- },
- "w_potomu": {
-  "ipa": "[pətɐˈmu]"
- },
- "w_pytatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[pɨˈtat͡sːə]"
- },
- "w_uyti": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ʊjˈtʲi]"
- },
  "w_tut": {
-  "ipa": "[tut]",
   "topics_from": [
    "Fruits",
    "Time"
   ],
   "it_from": "itwiktionary"
  },
- "w_ubit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ʊˈbʲitʲ]"
- },
- "w_zabyt": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[zɐˈbɨtʲ]"
- },
- "w_sluchitsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[sɫʊˈt͡ɕit͡sːə]"
- },
- "w_kazatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[kɐˈzat͡sːə]"
- },
- "w_nemnogo": {
-  "ipa": "[nʲɪˈmnoɡə]"
- },
- "w_syuda": {
-  "ipa": "[sʲʊˈda]"
- },
- "w_domoy": {
-  "ipa": "[dɐˈmoj]"
- },
- "w_igrat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ɪˈɡratʲ]",
-  "governs": [
-   "acc",
-   "ins"
-  ]
- },
- "w_umeret": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ʊmʲɪˈrʲetʲ]"
- },
- "w_ostavit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ɐˈstavʲɪtʲ]"
- },
- "w_uznat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ʊzˈnatʲ]"
- },
  "w_mir": {
-  "grammar": {
-   "uncountable": true,
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[mʲir]",
   "it_candidates": [
    "pace",
    "pianeta Terra, il mondo"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
   ]
  },
  "w_slushat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈsɫuʂətʲ]",
   "topics_from": [
    "Medicine"
   ]
  },
  "w_kniga": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a",
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈknʲiɡə]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "velar-stem",
+   "accent-a",
+   "velar-stem",
+   "accent-a"
+  ]
  },
  "w_pora": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-f",
-    "hard-stem",
-    "accent-f"
-   ]
-  },
-  "ipa": "[pɐˈra]",
   "topics_from": [
    "Anatomy",
    "Time"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-f",
+   "hard-stem",
+   "accent-f"
   ]
  },
- "w_poekhat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pɐˈjexətʲ]"
- },
  "w_shkola": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈʂkoɫə]",
   "topics_from": [
    "Buildings",
    "Schools"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
   ]
- },
- "w_zachem": {
-  "ipa": "[zɐˈt͡ɕem]"
- },
- "w_prosit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[prɐˈsʲitʲ]",
-  "governs": [
-   "acc",
-   "gen"
-  ]
- },
- "w_cherez": {
-  "ipa": "[ˈt͡ɕerʲɪs]"
  },
  "w_boyatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[bɐˈjat͡sːə]",
-  "governs": [
-   "gen"
-  ],
   "topics_from": [
    "Fear"
   ]
  },
- "w_reshit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[rʲɪˈʂɨtʲ]"
- },
- "w_kuda": {
-  "ipa": "[kʊˈda]"
- },
- "w_poluchit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pəɫʊˈt͡ɕitʲ]"
- },
  "w_imya": {
-  "grammar": {
-   "decl_class": [
-    "accent-c",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈimʲə]",
   "it_candidates": [
    "nome di persona",
    "fama, reputazione",
    "nomea",
    "sostantivo"
+  ],
+  "decl_class": [
+   "accent-c",
+   "accent-c"
   ]
  },
  "w_gotovyy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "a"
-   ]
-  },
-  "ipa": "[ɡɐˈtovɨj]"
+  "decl_class": [
+   "a"
+  ]
  },
  "w_paren": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-e",
-    "soft-stem",
-    "accent-e"
-   ]
-  },
-  "ipa": "[ˈparʲɪnʲ]",
   "topics_from": [
    "Male people"
+  ],
+  "decl_class": [
+   "soft-stem",
+   "accent-e",
+   "soft-stem",
+   "accent-e"
   ]
  },
  "w_ved": {
   "no_wiktionary_entry": true
  },
- "w_verit": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈvʲerʲɪtʲ]",
-  "governs": [
-   "dat"
-  ]
- },
  "w_pomoshch": {
-  "grammar": {
-   "decl_class": [
-    "accent-a",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈpoməɕː]"
- },
- "w_pod": {
-  "ipa": "[pət]",
-  "governs": [
-   "acc",
-   "ins"
+  "decl_class": [
+   "accent-a",
+   "accent-a"
   ]
- },
- "w_priytis": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[prʲɪjˈtʲisʲ]",
-  "governs": [
-   "dat"
-  ]
- },
- "w_chuvstvovat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈt͡ɕustvəvətʲ]"
  },
  "w_khodit": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[xɐˈdʲitʲ]",
   "topics_from": [
    "Medicine"
   ]
  },
- "w_vmeste": {
-  "ipa": "[ˈvmʲesʲtʲe]"
- },
- "w_pokazat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pəkɐˈzatʲ]"
- },
- "w_stoyat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[stɐˈjætʲ]"
- },
- "w_vozmozhno": {
-  "ipa": "[vɐzˈmoʐnə]"
- },
  "w_pravyy": {
-  "grammar": {
-   "decl_class": [
-    "c",
-    "a′"
-   ]
-  },
-  "ipa": "[ˈpravɨj]"
+  "decl_class": [
+   "c",
+   "a′"
+  ]
  },
  "w_poryadok": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[pɐˈrʲadək]"
- },
- "w_schitat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ɕːɪˈtatʲ]"
- },
- "w_poprosit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pəprɐˈsʲitʲ]",
-  "governs": [
-   "gen",
-   "acc"
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
   ]
  },
  "w_konets": {
-  "grammar": {
-   "decl_class": [
-    "ц-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[kɐˈnʲet͡s]",
   "topics_from": [
    "Anatomy",
    "Time"
+  ],
+  "decl_class": [
+   "ц-stem",
+   "accent-b"
   ]
  },
  "w_vid": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[vʲit]"
- },
- "w_deystvitelno": {
-  "ipa": "/dʲɪ(j)stˈvʲitʲɪlʲnə/"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_oba": {
   "forms_added": [
@@ -3646,27 +2187,12 @@
    "pl_nom",
    "pl_prep"
   ],
-  "ipa": "[ˈobə]",
   "topics_from": [
    "Two"
   ],
   "it_candidates": [
    "entrambi, ambedue, sia l'uno che l'altro, ciascuno dei due"
   ]
- },
- "w_podumat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pɐˈdumətʲ]"
- },
- "w_proizoyti": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[prəɪzɐjˈtʲi]"
  },
  "w_ladno": {
   "no_wiktionary_entry": true,
@@ -3677,803 +2203,426 @@
    "va bene"
   ]
  },
- "w_sovsem": {
-  "ipa": "[sɐfˈsʲem]"
- },
  "w_luchshiy": {
   "no_wiktionary_entry": true
  },
- "w_lish": {
-  "ipa": "[lʲiʂ]"
- },
  "w_muzhchina": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[mʊˈɕːinə]",
   "topics_from": [
    "Male people"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_tochno": {
   "forms_added": [
    "comp"
   ],
-  "ipa": "[ˈtot͡ɕnə]",
   "it_candidates": [
    "esattamente",
    "appunto, esatto"
   ]
  },
- "w_sledovat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈs⁽ʲ⁾lʲedəvətʲ]",
-  "governs": [
-   "dat"
-  ]
- },
- "w_priekhat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[prʲɪˈjexətʲ]"
- },
  "w_nelzya": {
   "no_wiktionary_entry": true
  },
  "w_istoriya": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ɪˈstorʲɪjə]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "i-stem",
+   "accent-a"
+  ]
  },
  "w_telefon": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[tʲɪlʲɪˈfon]",
   "topics_from": [
    "Telephony"
   ],
-  "it_from": "itwiktionary"
- },
- "w_sidet": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[sʲɪˈdʲetʲ]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_plan": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[pɫan]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_yazyk": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[(j)ɪˈzɨk]",
   "topics_from": [
    "Body parts"
   ],
   "it_candidates": [
    "lingua, idioma",
    "lingua"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-b"
   ]
  },
  "w_smert": {
-  "grammar": {
-   "decl_class": [
-    "accent-e",
-    "accent-e"
-   ]
-  },
-  "ipa": "[smʲertʲ]"
- },
- "w_proyti": {
-  "grammar": {
-   "transitive": true,
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[prɐjˈtʲi]"
- },
- "w_derzhat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[dʲɪrˈʐatʲ]"
- },
- "w_nikakoy": {
-  "ipa": "[nʲɪkɐˈkoj]"
+  "decl_class": [
+   "accent-e",
+   "accent-e"
+  ]
  },
  "w_edinstvennyy": {
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[(j)ɪˈdʲinstvʲɪn(ː)ɨj]"
- },
- "w_prinyat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[prʲɪˈnʲætʲ]"
- },
- "w_napisat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[nəpʲɪˈsatʲ]"
+  "decl_class": [
+   "a*"
+  ]
  },
  "w_skoro": {
   "forms_added": [
    "comp"
   ],
-  "ipa": "[ˈskorə]",
   "topics_from": [
    "Time"
   ]
  },
- "w_ukhodit": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ʊxɐˈdʲitʲ]"
- },
- "w_prinesti": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[prʲɪnʲɪˈsʲtʲi]"
- },
- "w_otkryt": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ɐtˈkrɨtʲ]"
- },
- "w_zanimatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[zənʲɪˈmat͡sːə]",
-  "governs": [
-   "ins"
-  ]
- },
- "w_vesti": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[vʲɪˈsʲtʲi]"
- },
- "w_nad": {
-  "ipa": "[nət]"
- },
  "w_malchik": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈmalʲt͡ɕɪk]",
   "topics_from": [
    "Male children"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
   ]
  },
- "w_umet": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ʊˈmʲetʲ]"
- },
- "w_razve": {
-  "ipa": "[ˈrazvʲe]"
- },
  "w_doroga": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a",
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[dɐˈroɡə]",
   "topics_from": [
    "Roads",
    "Travel"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-a",
+   "velar-stem",
+   "accent-a"
   ]
  },
- "w_imenno": {
-  "ipa": "[ˈimʲɪn(ː)ə]"
- },
  "w_storona": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-f",
-    "hard-stem",
-    "accent-f"
-   ]
-  },
-  "ipa": "[stərɐˈna]",
   "it_candidates": [
    "lato",
    "mano",
    "direzione",
    "posto",
    "regione"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-f",
+   "hard-stem",
+   "accent-f"
   ]
  },
- "w_prikhodit": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[prʲɪxɐˈdʲitʲ]"
- },
  "w_lyubov": {
-  "grammar": {
-   "decl_class": [
-    "accent-b",
-    "accent-b"
-   ]
-  },
-  "ipa": "[lʲʊˈbofʲ]",
   "topics_from": [
    "Love"
   ],
-  "it_from": "itwiktionary"
- },
- "w_proiskhodit": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[prəɪsxɐˈdʲitʲ]"
- },
- "w_brosit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ˈbrosʲɪtʲ]"
- },
- "w_protiv": {
-  "ipa": "[ˈprotʲɪf]"
- },
- "w_ostavatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ɐstɐˈvat͡sːə]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "accent-b",
+   "accent-b"
+  ]
  },
  "w_pisat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[pʲɪˈsatʲ]",
   "it_from": "itwiktionary"
  },
  "w_sluchay": {
-  "grammar": {
-   "decl_class": [
-    "vowel-stem",
-    "accent-a",
-    "vowel-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈsɫut͡ɕɪj]"
+  "decl_class": [
+   "vowel-stem",
+   "accent-a",
+   "vowel-stem",
+   "accent-a"
+  ]
  },
  "w_zemlya": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-d",
-    "soft-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[zʲɪˈmlʲa]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "soft-stem",
+   "accent-d",
+   "soft-stem",
+   "accent-d"
+  ]
  },
  "w_igra": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d",
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[ɪˈɡra]",
   "topics_from": [
    "Entertainment",
    "Music",
    "Recreation",
    "Sports"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-d",
+   "hard-stem",
+   "accent-d"
   ]
- },
- "w_khvatit": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[xvɐˈtʲitʲ]"
- },
- "w_pri": {
-  "ipa": "[prʲɪ]"
- },
- "w_bolee": {
-  "ipa": "[ˈbolʲɪje]",
-  "governs": [
-   "gen"
-  ]
- },
- "w_voobshche": {
-  "ipa": "[vɐɐpˈɕːe]"
  },
  "w_pismo": {
-  "grammar": {
-   "uncountable": true,
-   "decl_class": [
-    "hard-stem",
-    "accent-d",
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[pʲɪsʲˈmo]"
+  "decl_class": [
+   "hard-stem",
+   "accent-d",
+   "hard-stem",
+   "accent-d"
+  ]
  },
  "w_bog": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-e"
-   ]
-  },
-  "ipa": "[box]",
   "it_candidates": [
    "un dio, essere sovrannaturale supremo, oggetto di venerazione.",
    "maestro nel proprio campo di attività."
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-e"
   ]
  },
- "w_lyuboy": {
-  "ipa": "[lʲʊˈboj]"
- },
  "w_utro": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈutrə]",
   "topics_from": [
    "Times of day"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_silnyy": {
-  "grammar": {
-   "decl_class": [
-    "c′*",
-    "c′*"
-   ]
-  },
-  "ipa": "[ˈsʲilʲnɨj]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c′*",
+   "c′*"
+  ]
  },
  "w_para": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈparə]",
   "topics_from": [
    "Clothing",
    "Universities"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_svet": {
   "gender_from_wikt": true,
-  "grammar": {
-   "uncountable": true,
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[svʲet]",
   "it_candidates": [
    "luce",
    "mondo, terra, universo",
    "società, popolo, aristocrazia"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
- },
- "w_pro": {
-  "ipa": "[prə]"
  },
  "w_chasto": {
   "forms_added": [
    "comp"
   ],
-  "ipa": "[ˈt͡ɕastə]",
   "topics_from": [
    "Time"
   ]
  },
  "w_nastoyashchiy": {
-  "ipa": "[nəstɐˈjæɕːɪj]",
   "topics_from": [
    "Time"
   ]
  },
  "w_devochka": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈdʲevət͡ɕkə]",
   "topics_from": [
    "Female children"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
   ]
  },
- "w_nakhoditsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[nəxɐˈdʲit͡sːə]"
- },
- "w_otvetit": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ɐtˈvʲetʲɪtʲ]"
- },
  "w_nomer": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈnomʲɪr]",
   "topics_from": [
    "Entertainment",
    "Numbers"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
   ]
  },
  "w_chast": {
-  "grammar": {
-   "decl_class": [
-    "accent-e",
-    "accent-e"
-   ]
-  },
-  "ipa": "[t͡ɕæsʲtʲ]"
- },
- "w_dostatochno": {
-  "ipa": "[dɐˈstatət͡ɕnə]"
+  "decl_class": [
+   "accent-e",
+   "accent-e"
+  ]
  },
  "w_dobryy": {
-  "grammar": {
-   "decl_class": [
-    "c″",
-    "c″"
-   ]
-  },
-  "ipa": "[ˈdobrɨj]",
   "topics_from": [
    "Personality"
   ],
-  "it_from": "itwiktionary"
- },
- "w_provesti": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[prəvʲɪˈsʲtʲi]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c″",
+   "c″"
+  ]
  },
  "w_otvet": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ɐtˈvʲet]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_sila": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈsʲiɫə]",
-  "it_from": "itwiktionary"
- },
- "w_byvat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[bɨˈvatʲ]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_vysokiy": {
-  "grammar": {
-   "decl_class": [
-    "c″"
-   ]
-  },
-  "ipa": "[vɨˈsokʲɪj]",
-  "it_from": "itwiktionary"
- },
- "w_navernoe": {
-  "ipa": "[nɐˈvʲernəjə]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c″"
+  ]
  },
  "w_vrach": {
-  "grammar": {
-   "decl_class": [
-    "sibilant-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[vrat͡ɕ]",
   "topics_from": [
    "Healthcare occupations",
    "Medicine"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "sibilant-stem",
+   "accent-b"
+  ]
  },
  "w_zhivoy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "c",
-    "c"
-   ]
-  },
-  "ipa": "[ʐɨˈvoj]"
+  "decl_class": [
+   "c",
+   "c"
+  ]
  },
  "w_polnyy": {
-  "grammar": {
-   "decl_class": [
-    "b* / dated short class c*",
-    "b* / dated short class c*",
-    "c′*"
-   ]
-  },
-  "ipa": "[ˈpoɫnɨj]"
- },
- "w_sest": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[sʲesʲtʲ]"
+  "decl_class": [
+   "b* / dated short class c*",
+   "b* / dated short class c*",
+   "c′*"
+  ]
  },
  "w_prichina": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[prʲɪˈt͡ɕinə]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_nekotoryy": {
   "no_wiktionary_entry": true
  },
  "w_put": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-b",
-    "soft-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[putʲ]",
   "topics_from": [
    "Rail transportation",
    "Roads",
    "Travel"
+  ],
+  "decl_class": [
+   "soft-stem",
+   "accent-b",
+   "soft-stem",
+   "accent-b"
   ]
  },
- "w_ravno": {
-  "ipa": "[rɐvˈno]"
- },
  "w_serdtse": {
-  "grammar": {
-   "decl_class": [
-    "ц-stem",
-    "accent-c",
-    "ц-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈsʲert͡s(ː)ə]",
   "topics_from": [
    "Anatomy",
    "Emotions"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "ц-stem",
+   "accent-c",
+   "ц-stem",
+   "accent-c"
+  ]
  },
  "w_vstrecha": {
-  "grammar": {
-   "decl_class": [
-    "sibilant-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈfstrʲet͡ɕə]"
- },
- "w_vykhodit": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[vɨxɐˈdʲitʲ]"
+  "decl_class": [
+   "sibilant-stem",
+   "accent-a"
+  ]
  },
  "w_voyna": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d",
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[vɐjˈna]"
+  "decl_class": [
+   "hard-stem",
+   "accent-d",
+   "hard-stem",
+   "accent-d"
+  ]
  },
  "w_reshenie": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[rʲɪˈʂɛnʲɪje]"
+  "decl_class": [
+   "i-stem",
+   "accent-a"
+  ]
  },
  "w_doktor": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈdoktər]",
   "topics_from": [
    "Academic degrees",
    "Medicine",
    "Occupations"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
   ]
  },
  "w_pokhozhiy": {
-  "grammar": {
-   "decl_class": [
-    "a"
-   ]
-  },
-  "ipa": "[pɐˈxoʐɨj]"
- },
- "w_khotetsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[xɐˈtʲet͡sːə]"
+  "decl_class": [
+   "a"
+  ]
  },
  "w_vecher": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈvʲet͡ɕɪr]",
   "topics_from": [
    "Times of day"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
+  ]
  },
  "w_vtoroy": {
-  "ipa": "[ftɐˈroj]",
   "topics_from": [
    "Two"
   ],
   "it_from": "itwiktionary"
  },
  "w_pravo": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c",
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈpravə]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-c",
+   "hard-stem",
+   "accent-c"
+  ]
  },
  "w_davno": {
-  "ipa": "[dɐvˈno]",
   "topics_from": [
    "Time"
   ],
   "it_from": "itwiktionary"
- },
- "w_uslyshat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ʊsˈɫɨʂətʲ]"
- },
- "w_obyasnit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ɐbjɪsˈnʲitʲ]"
  },
  "w_tysyacha": {
   "forms_added": [
@@ -4484,172 +2633,89 @@
    "pl_nom",
    "pl_prep"
   ],
-  "grammar": {
-   "decl_class": [
-    "sibilant-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈtɨsʲɪt͡ɕə]",
   "topics_from": [
    "Thousand"
   ],
-  "it_from": "itwiktionary"
- },
- "w_popast": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pɐˈpasʲtʲ]"
- },
- "w_brat_verb": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[bratʲ]"
- },
- "w_otnoshenie": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ɐtnɐˈʂɛnʲɪje]"
- },
- "w_vnimanie": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[vnʲɪˈmanʲɪje]"
- },
- "w_uzh": {
-  "ipa": "[uʂ]"
- },
- "w_chuvstvo": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈt͡ɕu(f)stvə]"
- },
- "w_moment": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[mɐˈmʲent]",
-  "topics_from": [
-   "Time"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "sibilant-stem",
+   "accent-a"
   ]
  },
- "w_sprashivat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈspraʂɨvətʲ]",
-  "governs": [
-   "acc"
+ "w_otnoshenie": {
+  "decl_class": [
+   "i-stem",
+   "accent-a"
+  ]
+ },
+ "w_vnimanie": {
+  "decl_class": [
+   "i-stem",
+   "accent-a"
+  ]
+ },
+ "w_chuvstvo": {
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
+ },
+ "w_moment": {
+  "topics_from": [
+   "Time"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_smysl": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈsmɨs(ə)ɫ]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_belyy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "c″"
-   ]
-  },
-  "ipa": "[ˈbʲeɫəj]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c″"
+  ]
  },
  "w_um": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[um]",
   "it_candidates": [
    "capacità di pensiero, di porre in atto ragionamenti e trarne conclusioni, mente, intelligenza",
    "alto livello intellettivo",
    "intellettuale, eminente pensatore"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-b"
   ]
  },
- "w_polozhit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pəɫɐˈʐɨtʲ]"
- },
  "w_krov": {
-  "grammar": {
-   "uncountable": true,
-   "decl_class": [
-    "accent-e",
-    "accent-e"
-   ]
-  },
-  "ipa": "[krofʲ]",
   "topics_from": [
    "Blood"
   ],
-  "it_from": "itwiktionary"
- },
- "w_prodolzhat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[prədɐɫˈʐatʲ]"
- },
- "w_rasskazyvat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[rɐs(ː)ˈkazɨvətʲ]"
- },
- "w_krome": {
-  "ipa": "[ˈkromʲe]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "accent-e",
+   "accent-e"
+  ]
  },
  "w_okno": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d",
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[ɐkˈno]"
+  "decl_class": [
+   "hard-stem",
+   "accent-d",
+   "hard-stem",
+   "accent-d"
+  ]
  },
  "w_srazu": {
-  "ipa": "[ˈsrazʊ]",
   "topics_from": [
    "Time"
   ]
@@ -4659,13 +2725,6 @@
    "comp",
    "sup"
   ],
-  "grammar": {
-   "decl_class": [
-    "b*",
-    "b*"
-   ]
-  },
-  "ipa": "[ˈt͡ɕɵrnɨj]",
   "topics_from": [
    "Blacks",
    "Labour"
@@ -4674,528 +2733,252 @@
    "nero",
    "buio, spaventoso, funereo, spiacevole",
    "illegale, fuorilegge"
+  ],
+  "decl_class": [
+   "b*",
+   "b*"
   ]
  },
- "w_prinimat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[prʲɪnʲɪˈmatʲ]"
- },
- "w_budto": {
-  "ipa": "[ˈbutːə]"
- },
- "w_zametit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[zɐˈmʲetʲɪtʲ]"
- },
  "w_son": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[son]",
-  "it_from": "itwiktionary"
- },
- "w_opyat": {
-  "ipa": "[ɐˈpʲætʲ]"
- },
- "w_nachinat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[nət͡ɕɪˈnatʲ]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-b"
+  ]
  },
  "w_krasnyy": {
-  "grammar": {
-   "decl_class": [
-    "c″*",
-    "c″*"
-   ]
-  },
-  "ipa": "[ˈkrasnɨj]",
   "topics_from": [
    "Colors of the rainbow"
   ],
-  "it_from": "itwiktionary"
- },
- "w_ostanovitsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ɐstənɐˈvʲit͡sːə]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c″*",
+   "c″*"
+  ]
  },
  "w_kompaniya": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[kɐmˈpanʲɪjə]",
   "topics_from": [
    "Business"
+  ],
+  "decl_class": [
+   "i-stem",
+   "accent-a"
   ]
  },
  "w_derevo": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈdʲerʲɪvə]",
   "topics_from": [
    "Trees",
    "Woods"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_dovolno": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[dɐˈvolʲnə]"
+  ]
  },
  "w_telo": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈtʲeɫə]",
   "topics_from": [
    "Anatomy"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
   ]
- },
- "w_privesti": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[prʲɪvʲɪˈsʲtʲi]"
- },
- "w_khvatat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[xvɐˈtatʲ]"
- },
- "w_sobstvennyy": {
-  "ipa": "[ˈsopstvʲɪn(ː)ɨj]"
- },
- "w_snachala": {
-  "ipa": "[snɐˈt͡ɕaɫə]"
  },
  "w_skoryy": {
-  "grammar": {
-   "decl_class": [
-    "c"
-   ]
-  },
-  "ipa": "[ˈskorɨj]",
   "topics_from": [
    "Rail transportation"
+  ],
+  "decl_class": [
+   "c"
   ]
- },
- "w_pust": {
-  "ipa": "[pusʲtʲ]"
- },
- "w_snyat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[snʲætʲ]"
- },
- "w_bezhat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "both"
-  },
-  "ipa": "[bʲɪˈʐatʲ]"
- },
- "w_sovershenno": {
-  "ipa": "[səvʲɪrˈʂɛnːə]"
  },
  "w_strannyy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "c*"
-   ]
-  },
-  "ipa": "[ˈstranːɨj]"
- },
- "w_postavit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pɐˈstavʲɪtʲ]"
+  "decl_class": [
+   "c*"
+  ]
  },
  "w_klass": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[kɫas]",
   "topics_from": [
    "Education"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_volos": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-e"
-   ]
-  },
-  "ipa": "[ˈvoɫəs]",
   "topics_from": [
    "Anatomy",
    "Hair"
   ],
-  "it_from": "itwiktionary"
- },
- "w_okazatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ɐkɐˈzat͡sːə]"
- },
- "w_nazyvat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[nəzɨˈvatʲ]",
-  "governs": [
-   "acc"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-e"
   ]
  },
- "w_khot": {
-  "ipa": "[xotʲ]"
- },
  "w_vozmozhnost": {
-  "grammar": {
-   "decl_class": [
-    "accent-a"
-   ]
-  },
-  "ipa": "[vɐzˈmoʐnəsʲtʲ]"
+  "decl_class": [
+   "accent-a"
+  ]
  },
  "w_tselyy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "c"
-   ]
-  },
-  "ipa": "[ˈt͡sɛɫɨj]"
- },
- "w_stanovitsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[stənɐˈvʲit͡sːə]"
- },
- "w_soglasitsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[səɡɫɐˈsʲit͡sːə]"
+  "decl_class": [
+   "c"
+  ]
  },
  "w_legko": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[lʲɪxˈko]"
- },
- "w_vstat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[fstatʲ]"
+  ]
  },
  "w_bol": {
-  "grammar": {
-   "decl_class": [
-    "accent-a"
-   ]
-  },
-  "ipa": "[bolʲ]",
   "topics_from": [
    "Pain"
+  ],
+  "decl_class": [
+   "accent-a"
   ]
  },
  "w_prostoy": {
-  "grammar": {
-   "decl_class": [
-    "c′"
-   ]
-  },
-  "ipa": "[prɐˈstoj]"
- },
- "w_otvechat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ɐtvʲɪˈt͡ɕætʲ]"
- },
- "w_yavlyatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[(j)ɪˈvlʲat͡sːə]",
-  "governs": [
-   "ins"
+  "decl_class": [
+   "c′"
   ]
  },
  "w_yasno": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[ˈjasnə]"
+  ]
  },
  "w_golos": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈɡoɫəs]"
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
+  ]
  },
  "w_prezhde": {
-  "ipa": "[ˈprʲeʐdʲe]",
   "topics_from": [
    "Time"
   ]
  },
  "w_znakomyy": {
-  "grammar": {
-   "decl_class": [
-    "a"
-   ]
-  },
-  "ipa": "[znɐˈkomɨj]"
- },
- "w_nazvat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[nɐzˈvatʲ]",
-  "governs": [
-   "acc"
+  "decl_class": [
+   "a"
   ]
  },
- "w_predstavit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[prʲɪt͡sˈtavʲɪtʲ]"
- },
  "w_samolyot": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[səmɐˈlʲɵt]",
   "topics_from": [
    "Aircraft"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_mysl": {
-  "grammar": {
-   "decl_class": [
-    "accent-a",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈmɨs(ə)lʲ]"
+  "decl_class": [
+   "accent-a",
+   "accent-a"
+  ]
  },
  "w_bolnoy": {
-  "grammar": {
-   "decl_class": [
-    "c″*"
-   ]
-  },
-  "ipa": "[bɐlʲˈnoj]"
- },
- "w_vyzvat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ˈvɨzvətʲ]"
+  "decl_class": [
+   "c″*"
+  ]
  },
  "w_kvartira": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[kvɐrˈtʲirə]",
   "topics_from": [
    "Housing"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_tsel": {
-  "grammar": {
-   "decl_class": [
-    "accent-a"
-   ]
-  },
-  "ipa": "[t͡sɛlʲ]"
+  "decl_class": [
+   "accent-a"
+  ]
  },
  "w_gospodin": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[ɡəspɐˈdʲin]",
   "topics_from": [
    "Male people"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-b"
   ]
  },
  "w_pol": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-e"
-   ]
-  },
-  "ipa": "[poɫ]"
+  "decl_class": [
+   "hard-stem",
+   "accent-e"
+  ]
  },
  "w_tretiy": {
-  "ipa": "[ˈtrʲetʲɪj]",
   "topics_from": [
    "Three"
   ],
   "it_from": "itwiktionary"
  },
- "w_staratsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[stɐˈrat͡sːə]"
- },
  "w_smeyatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[smʲɪˈjat͡sːə]",
   "topics_from": [
    "Laughter"
   ]
  },
  "w_budushchee": {
-  "grammar": {
-   "decl_class": [
-    "sibilant-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈbudʊɕːɪje]"
- },
- "w_rech": {
-  "grammar": {
-   "decl_class": [
-    "accent-e"
-   ]
-  },
-  "ipa": "[rʲet͡ɕ]"
- },
- "w_gora": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-f",
-    "hard-stem",
-    "accent-f"
-   ]
-  },
-  "ipa": "[ɡɐˈra]",
-  "topics_from": [
-   "Landforms"
+  "decl_class": [
+   "sibilant-stem",
+   "accent-a"
   ]
  },
- "w_chut": {
-  "ipa": "[t͡ɕʉtʲ]"
+ "w_rech": {
+  "decl_class": [
+   "accent-e"
+  ]
+ },
+ "w_gora": {
+  "topics_from": [
+   "Landforms"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-f",
+   "hard-stem",
+   "accent-f"
+  ]
  },
  "w_sostoyanie": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[səstɐˈjænʲɪje]"
- },
- "w_nachatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[nɐˈt͡ɕat͡sːə]"
+  "decl_class": [
+   "i-stem",
+   "accent-a"
+  ]
  },
  "w_stena": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[sʲtʲɪˈna]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-d"
+  ]
  },
  "w_ogon": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-b",
-    "soft-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[ɐˈɡonʲ]",
   "topics_from": [
    "Fire"
   ],
@@ -5203,710 +2986,430 @@
    "fuoco",
    "luce",
    "arma da fuoco"
+  ],
+  "decl_class": [
+   "soft-stem",
+   "accent-b",
+   "soft-stem",
+   "accent-b"
   ]
  },
  "w_prezident": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[prʲɪzʲɪˈdʲent]"
- },
- "w_okolo": {
-  "ipa": "[ˈokəɫə]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_dyadya": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-a",
-    "soft-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈdʲædʲə]"
+  "decl_class": [
+   "soft-stem",
+   "accent-a",
+   "soft-stem",
+   "accent-a"
+  ]
  },
  "w_nebo": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c",
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈnʲebə]",
-  "it_from": "itwiktionary"
- },
- "w_sushchestvovat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[sʊɕːɪstvɐˈvatʲ]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-c",
+   "hard-stem",
+   "accent-c"
+  ]
  },
  "w_gruppa": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈɡrup(ː)ə]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_oruzhie": {
-  "grammar": {
-   "uncountable": true,
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ɐˈruʐɨje]"
+  "decl_class": [
+   "i-stem",
+   "accent-a"
+  ]
  },
  "w_mera": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈmʲerə]"
- },
- "w_podoyti": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pədɐjˈtʲi]",
-  "governs": [
-   "dat"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_palets": {
-  "grammar": {
-   "decl_class": [
-    "ц-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈpalʲɪt͡s]",
   "topics_from": [
    "Body parts",
    "Fingers"
+  ],
+  "decl_class": [
+   "ц-stem",
+   "accent-a"
   ]
  },
  "w_otkrytyy": {
-  "grammar": {
-   "decl_class": [
-    "a"
-   ]
-  },
-  "ipa": "[ɐtˈkrɨtɨj]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "a"
+  ]
  },
  "w_zakon": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[zɐˈkon]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_razgovor": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[rəzɡɐˈvor]"
- },
- "w_vokrug": {
-  "ipa": "[vɐˈkruk]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_obshchiy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "c",
-    "b′"
-   ]
-  },
-  "ipa": "[ˈopɕːɪj]"
- },
- "w_lezhat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[lʲɪˈʐatʲ]"
- },
- "w_vrag": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[vrak]"
- },
- "w_takzhe": {
-  "ipa": "[ˈtaɡʐɨ]"
- },
- "w_predlozhit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[prʲɪdɫɐˈʐɨtʲ]"
- },
- "w_rebyata": {
-  "grammar": {
-   "plural_only": true,
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[rʲɪˈbʲatə]"
- },
- "w_rezultat": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[rʲɪzʊlʲˈtat]"
- },
- "w_poyavitsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pə(j)ɪˈvʲit͡sːə]"
- },
- "w_glavnyy": {
-  "grammar": {
-   "decl_class": [
-    "c*",
-    "c*"
-   ]
-  },
-  "ipa": "[ˈɡɫavnɨj]"
- },
- "w_dusha": {
-  "grammar": {
-   "decl_class": [
-    "sibilant-stem",
-    "accent-d",
-    "sibilant-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[dʊˈʂa]",
-  "topics_from": [
-   "People"
+  "decl_class": [
+   "c",
+   "b′"
   ]
  },
- "w_udatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ʊˈdat͡sːə]"
+ "w_vrag": {
+  "decl_class": [
+   "velar-stem",
+   "accent-b"
+  ]
  },
- "w_vsyakiy": {
-  "ipa": "[ˈfsʲækʲɪj]"
+ "w_rebyata": {
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
- "w_narod": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[nɐˈrot]",
+ "w_rezultat": {
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
+ },
+ "w_glavnyy": {
+  "decl_class": [
+   "c*",
+   "c*"
+  ]
+ },
+ "w_dusha": {
   "topics_from": [
    "People"
   ],
-  "it_from": "itwiktionary"
+  "decl_class": [
+   "sibilant-stem",
+   "accent-d",
+   "sibilant-stem",
+   "accent-d"
+  ]
+ },
+ "w_narod": {
+  "topics_from": [
+   "People"
+  ],
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_gost": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-e"
-   ]
-  },
-  "ipa": "[ɡosʲtʲ]"
- },
- "w_soobshchit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[sɐɐpˈɕːitʲ]"
- },
- "w_zvat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[zvatʲ]"
- },
- "w_predstavlyat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[prʲɪt͡stɐˈvlʲætʲ]"
+  "decl_class": [
+   "soft-stem",
+   "accent-e"
+  ]
  },
  "w_ogromnyy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[ɐˈɡromnɨj]"
- },
- "w_nakonets": {
-  "ipa": "[nəkɐˈnʲet͡s]"
- },
- "w_vspomnit": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ˈfspomnʲɪtʲ]"
+  "decl_class": [
+   "a*"
+  ]
  },
  "w_odnazhdy": {
-  "ipa": "[ɐdˈnaʐdɨ]",
   "topics_from": [
    "One"
   ]
  },
  "w_gazeta": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ɡɐˈzʲetə]",
-  "it_from": "itwiktionary"
- },
- "w_vrode": {
-  "ipa": "[ˈvrodʲe]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_svyaz": {
-  "grammar": {
-   "decl_class": [
-    "accent-a",
-    "accent-a"
-   ]
-  },
-  "ipa": "[svʲæsʲ]"
+  "decl_class": [
+   "accent-a",
+   "accent-a"
+  ]
  },
  "w_sistema": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[sʲɪˈsʲtʲemə]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_velikiy": {
-  "grammar": {
-   "decl_class": [
-    "b",
-    "a′"
-   ]
-  },
-  "ipa": "[vʲɪˈlʲikʲɪj]"
+  "decl_class": [
+   "b",
+   "a′"
+  ]
  },
  "w_kapitan": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[kəpʲɪˈtan]"
- },
- "w_poslat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pɐsˈɫatʲ]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_vperyod": {
-  "ipa": "[f⁽ʲ⁾pʲɪˈrʲɵt]",
   "topics_from": [
    "Directions"
   ]
  },
  "w_les": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈlʲes]",
   "topics_from": [
    "Forests"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
   ]
- },
- "w_nebolshoy": {
-  "ipa": "[nʲɪbɐlʲˈʂoj]"
- },
- "w_inache": {
-  "ipa": "[ɪˈnat͡ɕe]"
  },
  "w_starshiy": {
   "forms_added": [
    "comp",
    "sup"
-  ],
-  "ipa": "[ˈstarʂɨj]"
+  ]
  },
  "w_more": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-c",
-    "soft-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈmorʲe]",
   "topics_from": [
    "Bodies of water",
    "Landforms"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "soft-stem",
+   "accent-c",
+   "soft-stem",
+   "accent-c"
+  ]
  },
  "w_podobnyy": {
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[pɐˈdobnɨj]"
+  "decl_class": [
+   "a*"
+  ]
  },
  "w_reka": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[rʲɪˈka]",
   "topics_from": [
    "Bodies of water",
    "Landforms"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "velar-stem",
+   "accent-d"
+  ]
  },
  "w_izvestnyy": {
   "forms_added": [
    "comp",
    "sup"
   ],
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[ɪzˈvʲesnɨj]"
+  "decl_class": [
+   "a*"
+  ]
  },
  "w_schaste": {
-  "grammar": {
-   "decl_class": [
-    "vowel-stem",
-    "accent-a",
-    "vowel-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈɕːæsʲtʲje]"
+  "decl_class": [
+   "vowel-stem",
+   "accent-a",
+   "vowel-stem",
+   "accent-a"
+  ]
  },
  "w_obraz": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈobrəs]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_lyogkiy": {
-  "grammar": {
-   "decl_class": [
-    "b*"
-   ]
-  },
-  "ipa": "[ˈlʲɵxʲkʲɪj]",
   "it_candidates": [
    "facile",
    "leggero"
+  ],
+  "decl_class": [
+   "b*"
   ]
  },
  "w_tyazhyolyy": {
-  "grammar": {
-   "decl_class": [
-    "b",
-    "b"
-   ]
-  },
-  "ipa": "[tʲɪˈʐoɫɨj]",
-  "it_from": "itwiktionary"
- },
- "w_podnyat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pɐdʲˈnʲætʲ]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "b",
+   "b"
+  ]
  },
  "w_raznyy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[ˈraznɨj]"
+  "decl_class": [
+   "a*"
+  ]
  },
  "w_tsentr": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[t͡sɛntr]",
   "topics_from": [
    "Telephony"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_zub": {
   "gender_from_wikt": true,
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-e"
-   ]
-  },
-  "ipa": "[zup]",
   "topics_from": [
    "Anatomy"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-e"
+  ]
  },
  "w_forma": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈformə]",
   "topics_from": [
    "Clothing"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_uspet": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ʊˈspʲetʲ]",
   "topics_from": [
    "Time"
   ]
  },
  "w_korotkiy": {
-  "grammar": {
-   "decl_class": [
-    "c′*"
-   ]
-  },
-  "ipa": "[kɐˈrotkʲɪj]"
+  "decl_class": [
+   "c′*"
+  ]
  },
  "w_ochered": {
-  "grammar": {
-   "decl_class": [
-    "accent-e"
-   ]
-  },
-  "ipa": "[ˈot͡ɕɪrʲɪtʲ]"
+  "decl_class": [
+   "accent-e"
+  ]
  },
  "w_bumaga": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a",
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[bʊˈmaɡə]"
+  "decl_class": [
+   "velar-stem",
+   "accent-a",
+   "velar-stem",
+   "accent-a"
+  ]
  },
  "w_pustoy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "c′",
-    "c′"
-   ]
-  },
-  "ipa": "[pʊˈstoj]"
- },
- "w_kstati": {
-  "ipa": "[ˈkstatʲɪ]"
+  "decl_class": [
+   "c′",
+   "c′"
+  ]
  },
  "w_vozdukh": {
-  "grammar": {
-   "uncountable": true,
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈvozdʊx]",
   "topics_from": [
    "Air"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
   ]
  },
  "w_blizkiy": {
-  "grammar": {
-   "decl_class": [
-    "c′*"
-   ]
-  },
-  "ipa": "[ˈblʲiskʲɪj]",
-  "governs": [
-   "dat"
+  "decl_class": [
+   "c′*"
   ]
  },
  "w_kartina": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[kɐrˈtʲinə]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_chlen": {
   "gender_from_wikt": true,
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[t͡ɕlʲen]",
   "topics_from": [
    "Body parts",
    "People"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_dlinnyy": {
-  "grammar": {
-   "decl_class": [
-    "c′*",
-    "c′*"
-   ]
-  },
-  "ipa": "[ˈdlʲinːɨj]"
+  "decl_class": [
+   "c′*",
+   "c′*"
+  ]
  },
  "w_lichnyy": {
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[ˈlʲit͡ɕnɨj]"
- },
- "w_prokhodit": {
-  "grammar": {
-   "intransitive": true,
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[prəxɐˈdʲitʲ]"
+  "decl_class": [
+   "a*"
+  ]
  },
  "w_ukho": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-e",
-    "velar-stem",
-    "accent-e"
-   ]
-  },
-  "ipa": "[ˈuxə]",
   "topics_from": [
    "Body parts",
    "Organs"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "velar-stem",
+   "accent-e",
+   "velar-stem",
+   "accent-e"
+  ]
  },
  "w_chistyy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "c′",
-    "c′"
-   ]
-  },
-  "ipa": "[ˈt͡ɕistɨj]"
+  "decl_class": [
+   "c′",
+   "c′"
+  ]
  },
  "w_nos": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[nos]",
   "topics_from": [
    "Face",
    "Landforms"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
+  ]
  },
  "w_dvoe": {
   "forms_added": [
@@ -5917,266 +3420,174 @@
    "pl_nom",
    "pl_prep"
   ],
-  "ipa": "[ˈdvoje]",
   "topics_from": [
    "Two"
   ]
  },
- "w_krichat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[krʲɪˈt͡ɕætʲ]"
- },
  "w_spina": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d",
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[spʲɪˈna]",
   "topics_from": [
    "Body parts"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-d",
+   "hard-stem",
+   "accent-d"
   ]
  },
  "w_kamen": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-e",
-    "soft-stem",
-    "accent-e"
-   ]
-  },
-  "ipa": "[ˈkamʲɪnʲ]",
   "topics_from": [
    "Computing",
    "Medicine"
+  ],
+  "decl_class": [
+   "soft-stem",
+   "accent-e",
+   "soft-stem",
+   "accent-e"
   ]
- },
- "w_pochuvstvovat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pɐˈt͡ɕustvəvətʲ]"
- },
- "w_dannyy": {
-  "ipa": "[ˈdanːɨj]"
  },
  "w_chtob": {
   "no_wiktionary_entry": true
  },
- "w_vdrug": {
-  "ipa": "[vdruk]"
- },
- "w_vmesto": {
-  "ipa": "[ˈvmʲestə]"
- },
  "w_starik": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[stɐˈrʲik]",
   "topics_from": [
    "Male people",
    "Marriage"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-b"
   ]
  },
  "w_shag": {
   "gender_from_wikt": true,
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ʂak]"
+  "decl_class": [
+   "velar-stem",
+   "accent-c"
+  ]
  },
  "w_vzglyad": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[vzɡlʲat]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_soldat": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[sɐɫˈdat]",
-  "it_from": "itwiktionary"
- },
- "w_sredi": {
-  "ipa": "[srʲɪˈdʲi]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_butylka": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a",
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[bʊˈtɨɫkə]",
   "topics_from": [
    "Food and drink containers"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-a",
+   "velar-stem",
+   "accent-a"
   ]
  },
  "w_nachalnik": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[nɐˈt͡ɕælʲnʲɪk]",
   "topics_from": [
    "Male people"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
   ]
  },
  "w_obychnyy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[ɐˈbɨt͡ɕnɨj]"
+  "decl_class": [
+   "a*"
+  ]
  },
  "w_khleb": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[xlʲep]",
   "topics_from": [
    "Breads"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_dokument": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[dəkʊˈmʲent]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_veter": {
-  "grammar": {
-   "plural_only": true,
-   "decl_class": [
-    "hard-stem",
-    "accent-e"
-   ]
-  },
-  "ipa": "[ˈvʲetʲɪr]",
   "topics_from": [
    "Meteorology",
    "Wind"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-e"
   ]
  },
  "w_pamyat": {
-  "grammar": {
-   "decl_class": [
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈpamʲɪtʲ]"
- },
- "w_osobenno": {
-  "ipa": "[ɐˈsobʲɪn(ː)ə]"
+  "decl_class": [
+   "accent-a"
+  ]
  },
  "w_kachestvo": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈkat͡ɕɪstvə]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_zatem": {
-  "ipa": "[zɐˈtʲem]",
   "topics_from": [
    "Time"
   ]
  },
  "w_dukh": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈdux]"
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
+  ]
  },
  "w_dvadtsat": {
-  "grammar": {
-   "decl_class": [
-    "accent-b"
-   ]
-  },
-  "ipa": "[ˈdvat͡s(ː)ɨtʲ]",
   "topics_from": [
    "Twenty"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "accent-b"
+  ]
  },
  "w_edva": {
-  "ipa": "[(j)ɪdˈva]",
   "it_candidates": [
    "appena",
    "a mala pena"
   ]
  },
  "w_strakh": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[strax]",
   "topics_from": [
    "Fear"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
   ]
  },
  "w_rodnoy": {
-  "ipa": "[rɐdˈnoj]",
   "topics_from": [
    "Family members"
   ]
  },
  "w_chislo": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[t͡ɕɪsˈɫo]",
   "topics_from": [
    "Numbers",
    "Time"
@@ -6184,262 +3595,139 @@
   "it_candidates": [
    "numero",
    "data, giorno del calendario"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-d"
   ]
  },
  "w_karman": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[kɐrˈman]",
   "topics_from": [
    "Clothing",
    "Computing",
    "Road transport"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
- "w_vpolne": {
-  "ipa": "[fpɐɫˈnʲe]"
- },
  "w_zelyonyy": {
-  "grammar": {
-   "decl_class": [
-    "c′",
-    "c′"
-   ]
-  },
-  "ipa": "[zʲɪˈlʲɵnɨj]",
   "topics_from": [
    "Colors of the rainbow"
   ],
-  "it_from": "itwiktionary"
- },
- "w_sudba": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d",
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[sʊdʲˈba]"
- },
- "w_byvshiy": {
-  "ipa": "[ˈbɨfʂɨj]"
- },
- "w_russkiy": {
-  "ipa": "[ˈrus(ː)kʲɪj]"
- },
- "w_nikak": {
-  "ipa": "[nʲɪˈkak]"
- },
- "w_prikhoditsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[prʲɪxɐˈdʲit͡sːə]",
-  "governs": [
-   "dat"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c′",
+   "c′"
   ]
  },
- "w_vidno": {
-  "ipa": "[ˈvʲidnə]"
+ "w_sudba": {
+  "decl_class": [
+   "hard-stem",
+   "accent-d",
+   "hard-stem",
+   "accent-d"
+  ]
  },
  "w_geroy": {
-  "grammar": {
-   "decl_class": [
-    "vowel-stem",
-    "accent-a",
-    "vowel-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ɡʲɪˈroj]"
+  "decl_class": [
+   "vowel-stem",
+   "accent-a",
+   "vowel-stem",
+   "accent-a"
+  ]
  },
  "w_spokoyno": {
   "forms_added": [
    "comp"
-  ],
-  "ipa": "[spɐˈkojnə]"
- },
- "w_polozhenie": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[pəɫɐˈʐɛnʲɪje]",
-  "topics_from": [
-   "Chess"
   ]
  },
- "w_prislat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[prʲɪsˈɫatʲ]"
+ "w_polozhenie": {
+  "topics_from": [
+   "Chess"
+  ],
+  "decl_class": [
+   "i-stem",
+   "accent-a"
+  ]
  },
  "w_vlast": {
-  "grammar": {
-   "decl_class": [
-    "accent-e",
-    "accent-e"
-   ]
-  },
-  "ipa": "[vɫasʲtʲ]"
+  "decl_class": [
+   "accent-e",
+   "accent-e"
+  ]
  },
  "w_sto": {
   "forms_added": [
    "pl_gen"
   ],
-  "ipa": "[sto]",
   "topics_from": [
    "Hundred"
   ],
   "it_from": "itwiktionary"
  },
  "w_deystvie": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈdʲejstvʲɪje]",
   "topics_from": [
    "Theater"
+  ],
+  "decl_class": [
+   "i-stem",
+   "accent-a"
   ]
  },
- "w_libo": {
-  "ipa": "[ˈlʲibə]"
- },
  "w_armiya": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈarmʲɪjə]",
-  "it_from": "itwiktionary"
- },
- "w_podnyatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pɐdʲˈnʲat͡sːə]"
- },
- "w_trebovat": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈtrʲebəvətʲ]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "i-stem",
+   "accent-a"
+  ]
  },
  "w_mestnyy": {
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[ˈmʲesnɨj]"
- },
- "w_pokazatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[pəkɐˈzat͡sːə]"
+  "decl_class": [
+   "a*"
+  ]
  },
  "w_tyomnyy": {
-  "grammar": {
-   "decl_class": [
-    "b*",
-    "b*"
-   ]
-  },
-  "ipa": "[ˈtʲɵmnɨj]",
-  "it_from": "itwiktionary"
- },
- "w_slovno": {
-  "ipa": "[ˈsɫovnə]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "b*",
+   "b*"
+  ]
  },
  "w_strashnyy": {
   "forms_added": [
    "comp",
    "sup"
   ],
-  "grammar": {
-   "decl_class": [
-    "c′*",
-    "c′*"
-   ]
-  },
-  "ipa": "[ˈstraʂnɨj]",
-  "governs": [
-   "ins"
-  ],
   "topics_from": [
    "Fear"
+  ],
+  "decl_class": [
+   "c′*",
+   "c′*"
   ]
  },
  "w_ugol": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[ˈuɡəɫ]"
- },
- "w_osnovnoy": {
-  "ipa": "[ɐsnɐvˈnoj]"
- },
- "w_trud": {
-  "grammar": {
-   "uncountable": true,
-   "decl_class": [
-    "hard-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[trut]"
- },
- "w_udar": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ʊˈdar]",
-  "topics_from": [
-   "Medicine"
+  "decl_class": [
+   "hard-stem",
+   "accent-b"
   ]
  },
- "w_chelovecheskiy": {
-  "ipa": "[t͡ɕɪɫɐˈvʲet͡ɕɪskʲɪj]"
+ "w_trud": {
+  "decl_class": [
+   "hard-stem",
+   "accent-b"
+  ]
  },
- "w_molchat": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[mɐɫˈt͡ɕætʲ]"
- },
- "w_ulybatsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ʊɫɨˈbat͡sːə]"
+ "w_udar": {
+  "topics_from": [
+   "Medicine"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_grud": {
   "forms_added": [
@@ -6453,145 +3741,96 @@
    "prep_pl",
    "prep_sg"
   ],
-  "grammar": {
-   "decl_class": [
-    "accent-f",
-    "accent-f"
-   ]
-  },
-  "ipa": "[ɡrutʲ]",
   "topics_from": [
    "Anatomy"
+  ],
+  "decl_class": [
+   "accent-f",
+   "accent-f"
   ]
  },
- "w_naprimer": {
-  "ipa": "[nəprʲɪˈmʲer]"
- },
  "w_obshchestvo": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈopɕːɪstvə]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_plecho": {
-  "grammar": {
-   "decl_class": [
-    "sibilant-stem",
-    "accent-f",
-    "sibilant-stem",
-    "accent-f"
-   ]
-  },
-  "ipa": "[plʲɪˈt͡ɕɵ]",
   "topics_from": [
    "Anatomy",
    "Transport"
+  ],
+  "decl_class": [
+   "sibilant-stem",
+   "accent-f",
+   "sibilant-stem",
+   "accent-f"
   ]
  },
- "w_menee": {
-  "ipa": "[ˈmʲenʲɪje]"
- },
  "w_uslovie": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ʊsˈɫovʲɪje]"
+  "decl_class": [
+   "i-stem",
+   "accent-a"
+  ]
  },
  "w_sluzhba": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈsɫuʐbə]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_vek": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[vʲek]",
   "topics_from": [
    "Hundred",
    "Time"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-c"
   ]
  },
  "w_sled": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[s⁽ʲ⁾lʲet]"
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
+  ]
  },
  "w_dvizhenie": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[dvʲɪˈʐɛnʲɪje]"
+  "decl_class": [
+   "i-stem",
+   "accent-a"
+  ]
  },
  "w_krupnyy": {
-  "grammar": {
-   "decl_class": [
-    "c′*"
-   ]
-  },
-  "ipa": "[ˈkrupnɨj]"
- },
- "w_vniz": {
-  "ipa": "[vnʲis]"
+  "decl_class": [
+   "c′*"
+  ]
  },
  "w_muzhik": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[mʊˈʐɨk]",
   "topics_from": [
    "Male people"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-b"
   ]
  },
  "w_boy": {
-  "grammar": {
-   "decl_class": [
-    "vowel-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[boj]",
   "it_candidates": [
    "scontro",
    "battaglia"
+  ],
+  "decl_class": [
+   "vowel-stem",
+   "accent-c"
   ]
  },
  "w_sredstvo": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈsrʲet͡stvə]",
   "topics_from": [
    "Business",
    "Finance"
@@ -6600,78 +3839,54 @@
    "mezzo (4): modo o strumento per completare un lavoro o raggiungere un determinato fine",
    "rimedio, sostanza o preparato per la cura di malattie o soluzione di un problema concreto",
    "pl possibilità economico-finanziarie"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
- },
- "w_zolotoy": {
-  "ipa": "[zəɫɐˈtoj]"
  },
  "w_odnako": {
   "no_wiktionary_entry": true
  },
  "w_tovarishch": {
-  "grammar": {
-   "decl_class": [
-    "sibilant-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[tɐˈvarʲɪɕː]",
   "topics_from": [
    "Friendship",
    "People"
+  ],
+  "decl_class": [
+   "sibilant-stem",
+   "accent-a"
   ]
  },
  "w_tolstyy": {
-  "grammar": {
-   "decl_class": [
-    "c′",
-    "c′"
-   ]
-  },
-  "ipa": "[ˈtoɫstɨj]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c′",
+   "c′"
+  ]
  },
  "w_direktor": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[dʲɪˈrʲektər]",
   "topics_from": [
    "Management"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
   ]
  },
  "w_interes": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ɪnʲtʲɪˈrʲes]"
- },
- "w_vovse": {
-  "ipa": "[ˈvofsʲe]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_koleno": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[kɐˈlʲenə]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_khozyain": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[xɐˈzʲaɪn]",
   "topics_from": [
    "Computing",
    "Male people"
@@ -6681,305 +3896,204 @@
    "proprietario",
    "capofamiglia",
    "marito"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_zal": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[zaɫ]",
   "topics_from": [
    "Rooms"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_osobyy": {
-  "grammar": {
-   "decl_class": [
-    "a"
-   ]
-  },
-  "ipa": "[ɐˈsobɨj]"
+  "decl_class": [
+   "a"
+  ]
  },
  "w_neobkhodimyy": {
-  "grammar": {
-   "decl_class": [
-    "a"
-   ]
-  },
-  "ipa": "[nʲɪəpxɐˈdʲimɨj]"
- },
- "w_chuzhoy": {
-  "ipa": "[t͡ɕʊˈʐoj]"
+  "decl_class": [
+   "a"
+  ]
  },
  "w_dvor": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[dvor]"
+  "decl_class": [
+   "hard-stem",
+   "accent-b"
+  ]
  },
  "w_bereg": {
-  "grammar": {
-   "decl_class": [
-    "velar-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[ˈbʲerʲɪk]",
   "topics_from": [
    "Landforms"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-c"
   ]
  },
  "w_khod": {
-  "grammar": {
-   "uncountable": true,
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[xot]"
- },
- "w_rabochiy": {
-  "ipa": "[rɐˈbot͡ɕɪj]"
- },
- "w_voennyy": {
-  "grammar": {
-   "decl_class": [
-    "a*",
-    "a*"
-   ]
-  },
-  "ipa": "[vɐˈjenːɨj]",
-  "topics_from": [
-   "Occupations"
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
   ]
  },
- "w_ulybnutsya": {
-  "grammar": {
-   "reflexive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ʊɫɨbˈnut͡sːə]"
- },
- "w_mimo": {
-  "ipa": "[ˈmʲimə]"
+ "w_voennyy": {
+  "topics_from": [
+   "Occupations"
+  ],
+  "decl_class": [
+   "a*",
+   "a*"
+  ]
  },
  "w_kabinet": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[kəbʲɪˈnʲet]",
   "topics_from": [
    "Furniture",
    "Rooms"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_glava": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-d",
-    "hard-stem",
-    "accent-d"
-   ]
-  },
-  "ipa": "[ɡɫɐˈva]"
+  "decl_class": [
+   "hard-stem",
+   "accent-d",
+   "hard-stem",
+   "accent-d"
+  ]
  },
  "w_zhyoltyy": {
-  "grammar": {
-   "decl_class": [
-    "c″"
-   ]
-  },
-  "ipa": "[ˈʐoɫtɨj]",
   "topics_from": [
    "Colors of the rainbow",
    "Yellows"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c″"
+  ]
  },
  "w_guba": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-f",
-    "hard-stem",
-    "accent-f"
-   ]
-  },
-  "ipa": "[ɡʊˈba]",
   "topics_from": [
    "Face"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-f",
+   "hard-stem",
+   "accent-f"
   ]
  },
  "w_partiya": {
-  "grammar": {
-   "decl_class": [
-    "i-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈpartʲɪjə]",
   "topics_from": [
    "Music"
+  ],
+  "decl_class": [
+   "i-stem",
+   "accent-a"
   ]
  },
  "w_simpatichnyy": {
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[sʲɪmpɐˈtʲit͡ɕnɨj]"
+  "decl_class": [
+   "a*"
+  ]
  },
  "w_protsess": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[prɐˈt͡sɛs]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_pisatel": {
-  "grammar": {
-   "decl_class": [
-    "soft-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[pʲɪˈsatʲɪlʲ]",
   "topics_from": [
    "Male people",
    "Occupations"
   ],
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "soft-stem",
+   "accent-a"
+  ]
  },
  "w_nemets": {
-  "grammar": {
-   "decl_class": [
-    "ц-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈnʲemʲɪt͡s]",
   "topics_from": [
    "Male people",
    "Nationalities"
+  ],
+  "decl_class": [
+   "ц-stem",
+   "accent-a"
   ]
  },
- "w_inoy": {
-  "ipa": "[ɪˈnoj]"
- },
  "w_leytenant": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[lʲɪ(j)tʲɪˈnant]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_moskva": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-b",
-    "hard-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[mɐskˈva]",
   "topics_from": [
    "Cities in Russia",
    "Moscow",
    "National capitals",
    "Places in Russia"
   ],
-  "it_from": "itwiktionary"
- },
- "w_avtor": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈaftər]"
- },
- "w_vozle": {
-  "ipa": "[ˈvoz⁽ʲ⁾lʲe]"
- },
- "w_general": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ɡʲɪnʲɪˈraɫ]",
-  "topics_from": [
-   "Diseases"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-b",
+   "hard-stem",
+   "accent-b"
   ]
  },
- "w_glyadet": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ɡlʲɪˈdʲetʲ]"
+ "w_avtor": {
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
+ },
+ "w_general": {
+  "topics_from": [
+   "Diseases"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_kray": {
-  "grammar": {
-   "decl_class": [
-    "vowel-stem",
-    "accent-c",
-    "vowel-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[kraj]"
+  "decl_class": [
+   "vowel-stem",
+   "accent-c",
+   "vowel-stem",
+   "accent-c"
+  ]
  },
  "w_gosudarstvo": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ɡəsʊˈdarstvə]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_ryad": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-c"
-   ]
-  },
-  "ipa": "[rʲat]"
+  "decl_class": [
+   "hard-stem",
+   "accent-c"
+  ]
  },
  "w_shirokiy": {
-  "grammar": {
-   "decl_class": [
-    "c″"
-   ]
-  },
-  "ipa": "[ʂɨˈrokʲɪj]",
-  "it_from": "itwiktionary"
- },
- "w_politicheskiy": {
-  "ipa": "[pəlʲɪˈtʲit͡ɕɪskʲɪj]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c″"
+  ]
  },
  "w_gosudarstvennyy": {
   "forms_added": [
@@ -6988,58 +4102,33 @@
    "short_n",
    "short_pl"
   ],
-  "grammar": {
-   "decl_class": [
-    "a*[①]",
-    "a*[①]"
-   ]
-  },
-  "ipa": "[ɡəsʊˈdarstvʲɪn(ː)ɨj]"
+  "decl_class": [
+   "a*[①]",
+   "a*[①]"
+  ]
  },
  "w_seryy": {
   "forms_added": [
    "comp"
   ],
-  "grammar": {
-   "decl_class": [
-    "c"
-   ]
-  },
-  "ipa": "[ˈsʲerɨj]",
   "topics_from": [
    "Greys"
+  ],
+  "decl_class": [
+   "c"
   ]
  },
  "w_cherta": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-b"
-   ]
-  },
-  "ipa": "[t͡ɕɪrˈta]"
- },
- "w_skvoz": {
-  "ipa": "[skvosʲ]"
+  "decl_class": [
+   "hard-stem",
+   "accent-b"
+  ]
  },
  "w_komandir": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[kəmɐnʲˈdʲir]"
- },
- "w_sovetskiy": {
-  "ipa": "[sɐˈvʲet͡skʲɪj]"
- },
- "w_proiznesti": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[prəɪzʲnʲɪˈsʲtʲi]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_prezhniy": {
   "forms_added": [
@@ -7071,61 +4160,39 @@
    "short_n",
    "short_pl"
   ],
-  "grammar": {
-   "decl_class": [
-    "a*"
-   ]
-  },
-  "ipa": "[ˈprʲeʐnʲɪj]"
- },
- "w_koridor": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[kərʲɪˈdor]",
-  "topics_from": [
-   "Rooms"
+  "decl_class": [
+   "a*"
   ]
  },
- "w_klassno": {
-  "ipa": "[ˈkɫasnə]"
+ "w_koridor": {
+  "topics_from": [
+   "Rooms"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_ranniy": {
-  "ipa": "[ˈranʲːɪj]",
   "topics_from": [
    "Time"
   ]
  },
- "w_koy": {
-  "ipa": "[koj]"
- },
  "w_literatura": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[lʲɪtʲɪrɐˈturə]",
-  "it_from": "itwiktionary"
- },
- "w_rossiyskiy": {
-  "ipa": "[rɐˈsʲijskʲɪj]"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_khudoy": {
-  "grammar": {
-   "decl_class": [
-    "c",
-    "c"
-   ]
-  },
-  "ipa": "[xʊˈdoj]",
-  "it_from": "itwiktionary"
+  "it_from": "itwiktionary",
+  "decl_class": [
+   "c",
+   "c"
+  ]
  },
  "w_popkorn": {
   "forms_added": [
@@ -7142,73 +4209,35 @@
    "prep_pl",
    "prep_sg"
   ],
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[pɐpˈkorn]",
   "topics_from": [
    "Maize (food)",
    "Snacks"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
   ]
  },
- "w_taki": {
-  "ipa": "[tɐˈkʲi]"
- },
- "w_vprochem": {
-  "ipa": "[ˈfprot͡ɕɪm]"
- },
- "w_sey": {
-  "ipa": "[sʲej]"
- },
- "w_kriknut": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ˈkrʲiknʊtʲ]"
- },
  "w_pisat_verb": {
-  "grammar": {
-   "intransitive": true,
-   "aspect": "imperfective"
-  },
-  "ipa": "[ˈpʲisətʲ]",
   "it_from": "itwiktionary"
  },
  "w_rota": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈrotə]"
+  "decl_class": [
+   "hard-stem",
+   "accent-a"
+  ]
  },
  "w_stringi": {
-  "grammar": {
-   "plural_only": true,
-   "decl_class": [
-    "velar-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈstrʲinɡʲɪ]",
   "topics_from": [
    "Underwear"
+  ],
+  "decl_class": [
+   "velar-stem",
+   "accent-a"
   ]
  },
  "w_getero": {
   "no_wiktionary_entry": true
- },
- "w_vykhodit_verb": {
-  "grammar": {
-   "transitive": true,
-   "aspect": "perfective"
-  },
-  "ipa": "[ˈvɨxədʲɪtʲ]"
  },
  "w_sidushka": {
   "no_wiktionary_entry": true
@@ -7217,17 +4246,14 @@
   "no_wiktionary_entry": true
  },
  "w_pora_noun": {
-  "grammar": {
-   "decl_class": [
-    "hard-stem",
-    "accent-a",
-    "hard-stem",
-    "accent-a"
-   ]
-  },
-  "ipa": "[ˈporə]",
   "topics_from": [
    "Anatomy"
+  ],
+  "decl_class": [
+   "hard-stem",
+   "accent-a",
+   "hard-stem",
+   "accent-a"
   ]
  },
  "w_bezoblachno": {
