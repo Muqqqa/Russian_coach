@@ -1146,7 +1146,7 @@
     "lei"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001974",
@@ -1180,7 +1180,7 @@
     "si questo e vino"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001975",
@@ -1207,7 +1207,7 @@
     "вино"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001976",
@@ -1234,7 +1234,7 @@
    ],
    "hint_it": "Questa è acqua."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001977",
@@ -1264,7 +1264,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001978",
@@ -1305,7 +1305,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001979",
@@ -1336,6 +1336,6 @@
     "Ди"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

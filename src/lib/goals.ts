@@ -4,13 +4,19 @@ import { diffDays, weekStart } from "./dates";
 import { LEVELS, levelIndex } from "./levels";
 
 /**
- * Ore di studio indicative per passare al livello successivo (stima prudente per una lingua
- * "difficile" come il russo per un italofono). Sono ordini di grandezza, non promesse.
+ * Ore di studio indicative per passare al livello successivo. Sono ordini di grandezza, non promesse.
+ * Revisione del supervisor: i valori precedenti (70/110/160/220, cumulati 70/180/340/560) erano
+ * al limite basso delle ore "guidate" usate di solito per lingue europee piu' facili
+ * (circa 90-100 per A1, 180-200 per A2, 350-400 per B1, 500-600 per B2). Il russo, per un italofono,
+ * richiede di piu' (nuovo alfabeto, casi, aspetto verbale). I nuovi valori (100/140/200/270, cumulati
+ * 100/240/440/710) restano una stima, da rivedere con i dati d'uso reali.
  */
-export const HOURS_TO_NEXT: Record<Level, number> = { zero: 70, a1: 110, a2: 160, b1: 220, b2: 0 };
+export const HOURS_TO_NEXT: Record<Level, number> = { zero: 100, a1: 140, a2: 200, b1: 270, b2: 0 };
 
 export const MIN_WEEKLY_MINUTES = 30;
 export const MAX_WEEKLY_MINUTES = 420; // 1 ora al giorno
+/** Massimo di lezioni a settimana nel piano (3 al giorno): oltre non e' realistico. */
+export const MAX_WEEKLY_LESSONS = 21;
 
 export interface WeeklyPlan {
   minutesTarget: number;
@@ -18,6 +24,8 @@ export interface WeeklyPlan {
   weeksLeft: number;
   /** Minuti a settimana necessari per arrivare in tempo (prima dei limiti). */
   requiredMinutes: number;
+  /** Minuti al giorno (su 7 giorni) per raggiungere il target settimanale. */
+  minutesPerDay: number;
   /** Falso se servirebbero piu' di MAX_WEEKLY_MINUTES a settimana. */
   feasible: boolean;
   /** Vero se l'obiettivo e' gia' raggiunto (o e' un mantenimento). */
@@ -33,17 +41,22 @@ export function totalHoursBetween(from: Level, to: Level): number {
 
 const roundTo = (n: number, step: number) => Math.round(n / step) * step;
 
+/** Lezioni a settimana coerenti con i minuti (le lezioni durano `dailyMinutes`), almeno 1. */
+const lessonsFor = (minutes: number, dailyMinutes: number) => Math.min(MAX_WEEKLY_LESSONS, Math.max(1, Math.ceil(minutes / dailyMinutes)));
+
 /**
  * Deriva l'obiettivo settimanale: minuti e numero di lezioni.
  * - settimane rimanenti = ceil(giorni / 7), almeno 1
  * - minuti necessari = ore totali per i salti di livello / settimane
- * - minuti arrotondati a 5, limitati a [MIN, MAX]; lezioni = ceil(minuti / minuti per lezione), max 7
+ * - minuti arrotondati a 5, limitati a [MIN, MAX]; lezioni = ceil(minuti / minuti per lezione), max 21
+ *   (prima il tetto era 7, ma 7 lezioni da 15 minuti non bastano a fare 255 minuti: i due obiettivi erano incoerenti)
  */
 export function deriveWeeklyPlan(input: { currentLevel: Level; goal: { targetLevel: Level; targetDate: string } | undefined; today: string; dailyMinutes: 15 | 30 | 45 }): WeeklyPlan {
   const { currentLevel, goal, today, dailyMinutes } = input;
   const base = (minutes: number, extra: Partial<WeeklyPlan> = {}): WeeklyPlan => ({
     minutesTarget: minutes,
-    lessonsTarget: Math.min(7, Math.max(1, Math.ceil(minutes / dailyMinutes))),
+    lessonsTarget: lessonsFor(minutes, dailyMinutes),
+    minutesPerDay: Math.ceil(minutes / 7),
     weeksLeft: 0,
     requiredMinutes: minutes,
     feasible: true,

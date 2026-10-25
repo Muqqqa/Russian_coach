@@ -1158,7 +1158,7 @@
    ],
    "hint_it": "Mi chiamo ..."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002008",
@@ -1193,7 +1193,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002009",
@@ -1230,7 +1230,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002010",
@@ -1283,7 +1283,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002011",
@@ -1322,7 +1322,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002145",
@@ -1354,7 +1354,7 @@
     "Mi chiamano ..."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002146",
@@ -1387,7 +1387,7 @@
     "меня́ зову́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002147",
@@ -1415,7 +1415,7 @@
    ],
    "hint_it": "Mi chiamo ..."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002148",
@@ -1444,7 +1444,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002149",
@@ -1473,7 +1473,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002150",
@@ -1502,7 +1502,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002151",
@@ -1531,7 +1531,7 @@
     "меня́ зову́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002152",
@@ -1560,6 +1560,6 @@
     "тебя́ зову́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

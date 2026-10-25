@@ -577,7 +577,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001189",
@@ -668,7 +668,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001192",
@@ -758,7 +758,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001195",
@@ -1371,7 +1371,7 @@
     "un'entrata"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002065",
@@ -1402,7 +1402,7 @@
     "prego, entrate!"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002066",
@@ -1449,7 +1449,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002067",
@@ -1493,7 +1493,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002068",
@@ -1527,6 +1527,6 @@
     "ничего́ не вы́йдет"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

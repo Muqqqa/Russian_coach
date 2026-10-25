@@ -153,7 +153,7 @@
     "un paese"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000996",
@@ -526,7 +526,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001008",
@@ -617,7 +617,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001011",

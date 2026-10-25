@@ -3,14 +3,14 @@ import Link from "next/link";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useApp } from "@/components/AppProvider";
 import { ExerciseCard, typeLabel } from "@/components/ExerciseCard";
-import { Markdown, ProgressBar, VoiceBanner, Ru } from "@/components/ui";
-import { buildLesson, type Category } from "@/lib/lesson";
+import { Markdown, ProgressBar, VoiceBanner, WordLine } from "@/components/ui";
+import { buildLesson, calibratedTimeFactor, type Category } from "@/lib/lesson";
 import { applyAnswer, completeSession, displayStreak } from "@/lib/progress";
 import { currentWeek, weekProgress } from "@/lib/goals";
 import type { ActiveSession } from "@/lib/state";
 import type { Exercise } from "@/lib/contract";
 
-const CAT_LABEL: Record<Category, string> = { errori: "errori ricorrenti", ripasso: "ripasso", nuovo: "novita'", mix: "altro" };
+const CAT_LABEL: Record<Category, string> = { errori: "sui tuoi errori", ripasso: "di ripasso", nuovo: "con parole nuove", mix: "di rinforzo" };
 
 type Phase = "intro" | "run" | "done";
 
@@ -18,7 +18,7 @@ export default function LessonPage() {
   const { ready, state, today, extra, bank, bankError, update, updateExtra, audioOk } = useApp();
   const [minutes, setMinutes] = useState<15 | 30 | 45>(15);
   const [phase, setPhase] = useState<Phase>("intro");
-  const [summary, setSummary] = useState<{ correct: number; total: number; seconds: number; wrongIds: string[]; streak: number }>();
+  const [summary, setSummary] = useState<{ correct: number; total: number; seconds: number; wrongIds: string[]; streak: number; lesson?: { title: string; passed: boolean } }>();
   const startedAt = useRef(Date.now());
   const minutesInit = useRef(false);
 
@@ -43,6 +43,7 @@ export default function LessonPage() {
       seed: `${today}:${minutes}:${n}`,
       allowDictation: audioOk,
       excludeIds: extra.usedToday.day === today ? extra.usedToday.ids : [],
+      timeFactor: calibratedTimeFactor(extra.history, today),
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [bank, minutes, today, audioOk, state.level, state.completedLessons.length, Object.keys(state.srs).length, lessonN]);
@@ -63,6 +64,7 @@ export default function LessonPage() {
       ...e,
       active: session,
       usedToday: { day: today, ids: [...(e.usedToday.day === today ? e.usedToday.ids : []), ...session.exerciseIds] },
+      seenLessons: session.lessonId && !(e.seenLessons ?? []).includes(session.lessonId) ? [...(e.seenLessons ?? []), session.lessonId] : e.seenLessons,
     }));
     startedAt.current = Date.now();
     setPhase("run");
@@ -98,7 +100,15 @@ export default function LessonPage() {
             const h = e.history[today] ?? { seconds: 0, answered: 0, correct: 0, lessons: 0 };
             return { ...e, active: undefined, history: { ...e.history, [today]: { seconds: h.seconds + seconds, answered: h.answered + res.length, correct: h.correct + correct, lessons: h.lessons + 1 } } };
           });
-          setSummary({ correct, total: res.length, seconds, wrongIds: res.filter((r) => !r.correct).map((r) => r.id), streak: displayStreak(after.streak, today) });
+          const lessonTitle = active.lessonId ? bank.lessons.find((l) => l.id === active.lessonId)?.title_it : undefined;
+          setSummary({
+            correct,
+            total: res.length,
+            seconds,
+            wrongIds: res.filter((r) => !r.correct).map((r) => r.id),
+            streak: displayStreak(after.streak, today),
+            lesson: lessonTitle && active.lessonId ? { title: lessonTitle, passed: after.completedLessons.includes(active.lessonId) } : undefined,
+          });
           setPhase("done");
         }}
       />
@@ -109,6 +119,10 @@ export default function LessonPage() {
     const week = currentWeek(state, today);
     const wp = weekProgress(week);
     const pct = summary.total ? Math.round((summary.correct / summary.total) * 100) : 0;
+    const wrongWords = [...new Set(summary.wrongIds.flatMap((id) => bank.exerciseById.get(id)?.words ?? []))]
+      .map((id) => bank.wordById.get(id))
+      .filter((w): w is NonNullable<typeof w> => !!w)
+      .slice(0, 8);
     return (
       <div className="stack">
         <h1>Lezione completata</h1>
@@ -121,6 +135,17 @@ export default function LessonPage() {
           <p style={{ margin: 0 }}>
             {pct >= 85 ? "Ottimo lavoro!" : pct >= 60 ? "Buon lavoro: gli errori torneranno nei prossimi ripassi." : "Non preoccuparti: gli errori che hai fatto torneranno presto, e ripetere e' il modo migliore per ricordare."}
           </p>
+          {summary.lesson && (
+            <p className="chip" style={{ alignSelf: "flex-start", margin: 0 }}>
+              {summary.lesson.passed ? `Argomento superato: ${summary.lesson.title}` : `Argomento da consolidare: ${summary.lesson.title} (serve almeno il 70% di risposte corrette per superarlo; tornerà nella prossima lezione)`}
+            </p>
+          )}
+          {wrongWords.length > 0 && (
+            <div>
+              <h2>Da ripassare</h2>
+              {wrongWords.map((w) => <WordLine key={w.id} word={w} />)}
+            </div>
+          )}
           {week && (
             <div>
               <div className="row between small"><span>Obiettivo della settimana</span><span>{Math.round(week.minutesDone)} / {week.minutesTarget} min</span></div>
@@ -138,6 +163,7 @@ export default function LessonPage() {
 
   const noContent = bank && bank.exercises.length === 0;
   const cur = preview?.curriculumLesson;
+  const firstTime = !!cur && !(extra.seenLessons ?? []).includes(cur.id) && !state.completedLessons.includes(cur.id);
   return (
     <div className="stack">
       <h1>Lezione del giorno</h1>
@@ -155,6 +181,16 @@ export default function LessonPage() {
         </div>
       )}
 
+      {cur && (
+        <details className="card" open={firstTime}>
+          <summary style={{ cursor: "pointer", fontWeight: 700 }}>
+            {firstTime ? "Prima di iniziare, leggi" : "Argomento della lezione"}: {cur.title_it}
+          </summary>
+          <div style={{ marginTop: 10 }}><Markdown source={cur.explanation_md} /></div>
+          {firstTime && <p className="muted small" style={{ marginBottom: 0 }}>Quando hai finito di leggere, scorri e premi «Inizia». Durante gli esercizi, se sbagli, potrai rivedere questa spiegazione.</p>}
+        </details>
+      )}
+
       <div className="card stack">
         <h2>Quanto tempo hai?</h2>
         <div className="seg" role="group" aria-label="Durata della lezione">
@@ -164,19 +200,13 @@ export default function LessonPage() {
         </div>
         {preview && (
           <p className="muted" style={{ margin: 0 }}>
-            {preview.exercises.length} esercizi, circa {Math.round(preview.totalSeconds / 60)} minuti:{" "}
+            {preview.exercises.length} esercizi, circa {Math.max(1, Math.round(preview.estimatedMinutes))} minuti:{" "}
             {(Object.keys(preview.counts) as Category[]).filter((c) => preview.counts[c] > 0).map((c) => `${preview.counts[c]} ${CAT_LABEL[c]}`).join(", ")}.
           </p>
         )}
         <button className="btn primary big block" disabled={!preview || preview.exercises.length === 0} onClick={start}>Inizia</button>
       </div>
 
-      {cur && (
-        <details className="card">
-          <summary style={{ cursor: "pointer", fontWeight: 700 }}>Argomento della lezione: {cur.title_it}</summary>
-          <div style={{ marginTop: 10 }}><Markdown source={cur.explanation_md} /></div>
-        </details>
-      )}
     </div>
   );
 }
@@ -234,7 +264,7 @@ function Runner({
     <div className="stack">
       <div className="row between">
         <span className="muted small">Esercizio {index + 1} di {list.length}</span>
-        <span className="muted small">{typeLabel(ex.type)}</span>
+        <Link className="small" href="/" aria-label="Esci dalla lezione: potrai riprenderla più tardi">Esci (riprendi dopo)</Link>
       </div>
       <ProgressBar pct={(index / list.length) * 100} label="Avanzamento della lezione" />
       <ExerciseCard key={ex.id} exercise={ex} onDone={done} nextLabel={index + 1 >= list.length ? "Concludi" : "Avanti"} />

@@ -446,7 +446,7 @@
    ],
    "hint_it": "Può."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000373",
@@ -627,7 +627,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000379",
@@ -1353,7 +1353,7 @@
    ],
    "hint_it": "volere: io"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002022",
@@ -1382,7 +1382,7 @@
    ],
    "hint_it": "Che hai comprato?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002023",
@@ -1425,7 +1425,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002024",
@@ -1470,6 +1470,6 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

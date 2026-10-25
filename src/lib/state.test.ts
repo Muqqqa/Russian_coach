@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { defaultExtra, defaultState, exportState, importState, validateState } from "./state";
+import { defaultExtra, defaultState, exportState, importState, isValidActive, validateState } from "./state";
 import { SCHEMA_VERSION } from "./contract";
 
 describe("stato utente", () => {
@@ -43,5 +43,15 @@ describe("stato utente", () => {
     const r = importState(JSON.stringify({ schemaVersion: 1 }));
     expect(r.ok).toBe(false);
     if (!r.ok) expect(r.errors.length).toBeGreaterThan(0);
+  });
+
+  it("scarta una lezione in corso corrotta", () => {
+    const ok = { day: "2026-10-25", minutes: 15, n: 1, exerciseIds: ["e_1"], index: 0, results: [{ id: "e_1", correct: true, seconds: 5 }] };
+    expect(isValidActive(ok)).toBe(true);
+    expect(isValidActive({ ...ok, minutes: 20 })).toBe(false);
+    expect(isValidActive({ ...ok, exerciseIds: "e_1" })).toBe(false);
+    expect(isValidActive({ ...ok, results: [{ id: 1 }] })).toBe(false);
+    expect(isValidActive({ ...ok, index: -1 })).toBe(false);
+    expect(isValidActive(null)).toBe(false);
   });
 });

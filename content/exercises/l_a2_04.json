@@ -569,7 +569,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001530",
@@ -597,7 +597,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001531",
@@ -629,7 +629,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001532",
@@ -1343,7 +1343,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002095",
@@ -1415,6 +1415,6 @@
     "partire"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

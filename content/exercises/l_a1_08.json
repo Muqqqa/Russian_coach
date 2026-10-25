@@ -30,7 +30,7 @@
     "una fermata"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000720",
@@ -347,7 +347,7 @@
     "io sono in macchina."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000729",
@@ -407,7 +407,7 @@
    ],
    "hint_it": "Questo posto è libero?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000731",
@@ -669,7 +669,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000740",
@@ -757,7 +757,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000743",
@@ -848,7 +848,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000746",
@@ -964,7 +964,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000749",
@@ -1155,7 +1155,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000753",

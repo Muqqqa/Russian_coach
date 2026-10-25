@@ -26,7 +26,7 @@
     "ragazzino"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001588",
@@ -88,7 +88,7 @@
     "человек"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001590",
@@ -502,7 +502,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001604",
@@ -588,7 +588,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001607",
@@ -616,7 +616,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001608",
@@ -1216,7 +1216,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002104",
@@ -1255,6 +1255,6 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

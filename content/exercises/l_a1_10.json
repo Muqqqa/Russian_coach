@@ -85,7 +85,7 @@
     "учить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000803",
@@ -267,7 +267,7 @@
    ],
    "hint_it": "imparare: tu"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000809",
@@ -381,7 +381,7 @@
    ],
    "hint_it": "imparare: voi"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000813",
@@ -499,7 +499,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000817",
@@ -559,7 +559,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000819",
@@ -646,7 +646,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000822",
@@ -683,7 +683,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000823",
@@ -919,7 +919,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000828",
@@ -962,7 +962,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000829",
@@ -1080,7 +1080,7 @@
     "учить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000833",

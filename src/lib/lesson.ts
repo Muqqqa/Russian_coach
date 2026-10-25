@@ -20,6 +20,8 @@ export interface LessonPlan {
   curriculumLesson?: Lesson;
   counts: Record<Category, number>;
   newWords: number;
+  /** Durata stimata in minuti reali (somma di est_seconds x timeFactor). */
+  estimatedMinutes: number;
 }
 
 export interface LessonOptions {
@@ -33,6 +35,32 @@ export interface LessonOptions {
   allowDictation?: boolean;
   /** Esercizi gia' proposti oggi: penalizzati. */
   excludeIds?: readonly string[];
+  /**
+   * Rapporto fra tempo reale e `est_seconds` (>= 1). Il budget in secondi stimati diventa minuti*60/timeFactor,
+   * cosi' una lezione "da 15 minuti" dura davvero circa 15 minuti. Default 1 (stime prese alla lettera).
+   */
+  timeFactor?: number;
+}
+
+/** Fattore prudente per chi non ha ancora una cronologia: scrivere in cirillico e leggere il feedback costa piu' di est_seconds. */
+export const DEFAULT_TIME_FACTOR = 1.4;
+/** Media di est_seconds degli esercizi scelti nelle lezioni (misurata sul banco curato): base per la calibrazione. */
+export const AVG_EST_SECONDS = 16;
+/** Risposte minime registrate prima di fidarsi dei tempi reali dell'utente. */
+export const CALIBRATION_MIN_ANSWERS = 40;
+
+/** Fattore tempo calibrato sui tempi reali dell'utente (cronologia degli ultimi giorni), limitato a [1, 3]. */
+export function calibratedTimeFactor(history: Record<string, { seconds: number; answered: number }>, today: string, days = 14): number {
+  let seconds = 0;
+  let answered = 0;
+  for (const [d, h] of Object.entries(history)) {
+    const gap = diffDays(d, today);
+    if (gap < 0 || gap >= days) continue;
+    seconds += h.seconds;
+    answered += h.answered;
+  }
+  if (answered < CALIBRATION_MIN_ANSWERS) return DEFAULT_TIME_FACTOR;
+  return Math.min(3, Math.max(1, seconds / answered / AVG_EST_SECONDS));
 }
 
 const LEVEL_BASE_DIFF: Record<Level, number> = { zero: 1, a1: 2, a2: 3, b1: 4, b2: 5 };
@@ -94,7 +122,8 @@ function score(ex: Exercise, o: LessonOptions, curId: string | undefined): Score
 export function buildLesson(o: LessonOptions): LessonPlan {
   const rng: Rng = seededRng(o.seed);
   const { state, minutes } = o;
-  const budget = minutes * 60;
+  const factor = Math.max(1, o.timeFactor ?? 1);
+  const budget = (minutes * 60) / factor;
   const userIdx = levelIndex(state.level);
   const used = new Set(o.excludeIds ?? []);
   const curriculumLesson = nextCurriculumLesson(o.bank.lessons, state);
@@ -195,6 +224,7 @@ export function buildLesson(o: LessonOptions): LessonPlan {
     categories,
     totalSeconds: total,
     budgetSeconds: budget,
+    estimatedMinutes: (total * factor) / 60,
     curriculumLesson: curId ? curriculumLesson : undefined,
     counts,
     newWords: newSeen.size,

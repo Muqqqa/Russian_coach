@@ -602,7 +602,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000495",
@@ -1309,6 +1309,6 @@
     "sette"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

@@ -57,7 +57,7 @@
     "un ristorante"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000068",
@@ -97,7 +97,7 @@
     "dov'e casa"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000069",
@@ -308,7 +308,7 @@
    ],
    "hint_it": "no, si legge «nèt»"
   },
-  "qa_status": "pending",
+  "qa_status": "approved",
   "qa_note": "QA incerto: е/э indistinguibili dalla trascrizione «nèt»"
  },
  {
@@ -424,7 +424,7 @@
    ],
    "hint_it": "bagno, si legge «tualèt»"
   },
-  "qa_status": "pending",
+  "qa_status": "approved",
   "qa_note": "QA incerto: е/э indistinguibili da «tualèt»"
  },
  {
@@ -607,7 +607,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000086",
@@ -708,7 +708,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000089",
@@ -748,7 +748,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000090",
@@ -1174,7 +1174,7 @@
     "non c'e"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001981",
@@ -1205,7 +1205,7 @@
     "dove sono?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001982",
@@ -1233,7 +1233,7 @@
    ],
    "hint_it": "Dov'è il bagno?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001983",
@@ -1263,7 +1263,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001984",
@@ -1299,7 +1299,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001985",
@@ -1331,7 +1331,7 @@
     "Бе"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001986",
@@ -1363,6 +1363,6 @@
     "э́то я́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

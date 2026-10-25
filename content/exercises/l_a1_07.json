@@ -659,7 +659,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000695",
@@ -687,7 +687,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000696",
@@ -718,7 +718,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000697",
@@ -811,7 +811,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000700",
@@ -839,7 +839,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000701",
@@ -869,7 +869,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000702",
@@ -911,7 +911,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000703",
@@ -952,7 +952,7 @@
     }
    ]
   },
-  "qa_status": "pending",
+  "qa_status": "approved",
   "qa_note": "QA incerto: in attesa fix frase s_6480750"
  },
  {
@@ -1052,7 +1052,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000706",
@@ -1190,7 +1190,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000709",
@@ -1292,7 +1292,7 @@
     "вкусный"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000712",
@@ -1475,7 +1475,7 @@
     "громкий"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000718",
@@ -1534,7 +1534,7 @@
     "forte"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002037",
@@ -1565,7 +1565,7 @@
    ],
    "hint_it": "difficile: concorda con «рабо́та» (lavoro, femminile)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002038",
@@ -1592,7 +1592,7 @@
    ],
    "hint_it": "Abbassa la voce."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002039",
@@ -1622,7 +1622,7 @@
    ],
    "hint_it": "sporco: concorda con «вода́» (acqua, femminile)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002040",
@@ -1651,7 +1651,7 @@
    ],
    "hint_it": "Parlate più piano, per favore."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002041",
@@ -1681,7 +1681,7 @@
    ],
    "hint_it": "caldo: concorda con «де́нь» (giorno, maschile)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002042",
@@ -1712,7 +1712,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002043",
@@ -1741,6 +1741,6 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

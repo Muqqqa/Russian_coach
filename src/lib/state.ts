@@ -43,6 +43,8 @@ export interface AppExtra {
   active?: ActiveSession;
   /** Esercizi gia' proposti oggi: nelle lezioni successive dello stesso giorno si evitano. */
   usedToday: { day: string; ids: string[] };
+  /** Lezioni del percorso di cui l'utente ha gia' iniziato una sessione: la spiegazione si apre da sola la prima volta. */
+  seenLessons?: string[];
 }
 
 export function defaultExtra(): AppExtra {
@@ -217,6 +219,22 @@ export function saveState(state: UserState): boolean {
   return writeKey(STATE_KEY, JSON.stringify(state));
 }
 
+/** Una lezione in corso salvata nel browser potrebbe essere corrotta: si scarta se non ha la forma attesa. */
+export function isValidActive(v: unknown): v is ActiveSession {
+  if (!isObj(v)) return false;
+  return (
+    typeof v.day === "string" &&
+    isMinutes(v.minutes) &&
+    isNum(v.n) &&
+    isNum(v.index) &&
+    v.index >= 0 &&
+    Array.isArray(v.exerciseIds) &&
+    v.exerciseIds.every((x) => typeof x === "string") &&
+    Array.isArray(v.results) &&
+    v.results.every((r) => isObj(r) && typeof r.id === "string" && typeof r.correct === "boolean" && isNum(r.seconds))
+  );
+}
+
 export function loadExtra(): AppExtra {
   const text = readKey(EXTRA_KEY);
   if (!text) return defaultExtra();
@@ -229,7 +247,8 @@ export function loadExtra(): AppExtra {
         isObj(raw.usedToday) && typeof raw.usedToday.day === "string" && Array.isArray(raw.usedToday.ids)
           ? { day: raw.usedToday.day, ids: raw.usedToday.ids.filter((x): x is string => typeof x === "string") }
           : { day: "", ids: [] },
-      active: isObj(raw.active) ? (raw.active as unknown as ActiveSession) : undefined,
+      active: isValidActive(raw.active) ? raw.active : undefined,
+      seenLessons: Array.isArray(raw.seenLessons) ? raw.seenLessons.filter((x): x is string => typeof x === "string") : [],
     };
   } catch {
     return defaultExtra();

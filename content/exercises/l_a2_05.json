@@ -525,7 +525,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001568",
@@ -583,7 +583,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001570",
@@ -672,7 +672,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001573",
@@ -1249,7 +1249,7 @@
     "mandare"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002098",
@@ -1278,7 +1278,7 @@
    ],
    "hint_it": "portare: tu (domani)"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002099",
@@ -1321,7 +1321,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002100",
@@ -1366,7 +1366,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002101",
@@ -1419,7 +1419,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002102",
@@ -1464,6 +1464,6 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

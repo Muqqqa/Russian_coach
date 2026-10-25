@@ -283,7 +283,7 @@
     "una mamma"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000563",
@@ -314,7 +314,7 @@
    ],
    "hint_it": "Come sta tuo padre?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000564",
@@ -628,7 +628,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000575",
@@ -688,7 +688,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000577",
@@ -982,7 +982,7 @@
     }
    ]
   },
-  "qa_status": "pending",
+  "qa_status": "approved",
   "qa_note": "QA incerto: in attesa fix frase s_12783171"
  },
  {
@@ -1288,7 +1288,7 @@
     "вы́ оте́ц"
    ]
   },
-  "qa_status": "pending",
+  "qa_status": "approved",
   "qa_note": "QA incerto: in attesa fix frase s_12783171"
  },
  {

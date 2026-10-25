@@ -512,7 +512,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001640",
@@ -540,7 +540,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001641",
@@ -569,7 +569,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001642",
@@ -597,7 +597,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001643",
@@ -660,7 +660,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001645",
@@ -1234,7 +1234,7 @@
    ],
    "hint_it": "verde: concorda con «ча́й» (tè, maschile)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002106",
@@ -1261,7 +1261,7 @@
    ],
    "hint_it": "Cosa c'è nel pacchetto rosso?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002107",
@@ -1291,7 +1291,7 @@
    ],
    "hint_it": "scuro: concorda con «ко́мната» (stanza, femminile)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002108",
@@ -1318,7 +1318,7 @@
    ],
    "hint_it": "L'acqua è verde."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002109",
@@ -1349,7 +1349,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002110",
@@ -1378,7 +1378,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002111",
@@ -1414,7 +1414,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002112",
@@ -1457,6 +1457,6 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

@@ -155,7 +155,12 @@ label.lbl { display: block; font-weight: 600; margin-bottom: 4px; }
 .feedback.ko .title { color: var(--bad); }
 
 .match { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
-.match .btn { min-height: 52px; }
+.match .btn { min-height: 52px; width: 100%; overflow-wrap: anywhere; }
+.match > .stack { min-width: 0; }
+.optnum { display: inline-flex; align-items: center; justify-content: center; min-width: 1.5rem; height: 1.5rem; margin-right: 0.6rem; border-radius: 6px; background: var(--surface-2); color: var(--muted); font-size: 0.85rem; font-weight: 700; }
+details.review { border: 1px solid var(--border); border-radius: 12px; padding: 8px 12px; background: var(--surface-2); }
+details.review summary { cursor: pointer; font-weight: 600; }
+.card, .banner { overflow-wrap: anywhere; }
 .match .btn.sel { border-color: var(--primary); background: var(--primary-soft); }
 .match .btn.done { border-color: var(--good); background: var(--good-soft); opacity: 0.75; }
 .match .btn.miss { border-color: var(--bad); background: var(--bad-soft); }

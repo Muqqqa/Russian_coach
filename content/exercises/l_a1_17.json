@@ -153,7 +153,7 @@
     "un sole"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001068",
@@ -420,7 +420,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001077",
@@ -1072,7 +1072,7 @@
     "una tempesta"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002051",
@@ -1101,7 +1101,7 @@
    ],
    "hint_it": "Sta nevicando?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002052",
@@ -1128,7 +1128,7 @@
    ],
    "hint_it": "Sta nevicando?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002053",
@@ -1157,7 +1157,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002054",
@@ -1185,7 +1185,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002055",
@@ -1228,7 +1228,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002056",
@@ -1262,6 +1262,6 @@
     "шел дождь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

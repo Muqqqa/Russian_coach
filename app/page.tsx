@@ -9,7 +9,7 @@ import { dueWords } from "@/lib/srs";
 import { formatDateIT } from "@/lib/dates";
 
 export default function Home() {
-  const { ready, state, today, extra, bank, bankError, storageOk } = useApp();
+  const { ready, state, today, extra, bank, bankError, storageOk, update } = useApp();
   if (!ready) return <p className="muted">Caricamento...</p>;
 
   const streak = displayStreak(state.streak, today);
@@ -57,10 +57,20 @@ export default function Home() {
 
       {needPlacement && (
         <section className="card soft stack" aria-labelledby="pl">
-          <h2 id="pl">Da dove partire?</h2>
-          <p style={{ margin: 0 }}>Fai il test d&apos;ingresso (10-15 domande) per trovare il livello giusto, oppure scegli tu il livello.</p>
+          <h2 id="pl">Benvenuto! Da dove vuoi partire?</h2>
+          <p style={{ margin: 0 }}>Se non hai mai studiato russo, parti da zero: la prima lezione ti insegna a leggere l&apos;alfabeto, senza bisogno di conoscere nulla.</p>
           <div className="row">
-            <Link className="btn primary" href="/test-ingresso/">Fai il test d&apos;ingresso</Link>
+            <Link
+              className="btn primary"
+              href="/lezione/"
+              onClick={() => update((s) => ({ ...s, level: "zero", placement: { done: true, date: today, score: 0 } }))}
+            >
+              Non so nulla di russo: parto da zero
+            </Link>
+          </div>
+          <p style={{ margin: 0 }}>Hai già qualche base? Il test d&apos;ingresso (10-15 domande, circa 5 minuti) trova il livello giusto, oppure scegli tu.</p>
+          <div className="row">
+            <Link className="btn" href="/test-ingresso/">Fai il test d&apos;ingresso</Link>
             <Link className="btn" href="/test-ingresso/#manuale">Scelgo io il livello</Link>
           </div>
         </section>

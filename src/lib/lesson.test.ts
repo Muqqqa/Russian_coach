@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { buildLesson, maxNewWords, nextCurriculumLesson } from "./lesson";
+import { DEFAULT_TIME_FACTOR, buildLesson, calibratedTimeFactor, maxNewWords, nextCurriculumLesson } from "./lesson";
 import { mc, stateWith, syntheticPool } from "./fixtures";
 import type { Lesson } from "./contract";
 
@@ -121,5 +121,30 @@ describe("lezione del giorno", () => {
   it("con un banco vuoto non va in errore", () => {
     const plan = buildLesson({ bank: { exercises: [], lessons: [] }, state: stateWith({ level: "zero" }), minutes: 15, today, seed: "a" });
     expect(plan.exercises).toEqual([]);
+  });
+});
+
+describe("calibrazione del tempo", () => {
+  const today = "2026-10-25";
+  it("senza cronologia usa il fattore prudente", () => {
+    expect(calibratedTimeFactor({}, today)).toBe(DEFAULT_TIME_FACTOR);
+    expect(calibratedTimeFactor({ [today]: { seconds: 300, answered: 10 } }, today)).toBe(DEFAULT_TIME_FACTOR);
+  });
+  it("con abbastanza risposte si calibra sui tempi reali e resta in [1, 3]", () => {
+    expect(calibratedTimeFactor({ "2026-10-24": { seconds: 40 * 32, answered: 40 } }, today)).toBeCloseTo(2, 5);
+    expect(calibratedTimeFactor({ "2026-10-24": { seconds: 40 * 5, answered: 40 } }, today)).toBe(1);
+    expect(calibratedTimeFactor({ "2026-10-24": { seconds: 40 * 200, answered: 40 } }, today)).toBe(3);
+  });
+  it("ignora i giorni troppo vecchi", () => {
+    expect(calibratedTimeFactor({ "2026-08-01": { seconds: 40 * 32, answered: 40 } }, today)).toBe(DEFAULT_TIME_FACTOR);
+  });
+  it("con timeFactor la lezione contiene meno esercizi ma dura circa il tempo dichiarato", () => {
+    const exercises = syntheticPool(["zero"], 120, 4);
+    const state = stateWith({ level: "zero" });
+    const plain = buildLesson({ bank: { exercises, lessons: [] }, state, minutes: 15, today, seed: "a" });
+    const slow = buildLesson({ bank: { exercises, lessons: [] }, state, minutes: 15, today, seed: "a", timeFactor: 1.5 });
+    expect(slow.exercises.length).toBeLessThan(plain.exercises.length);
+    expect(slow.estimatedMinutes).toBeLessThanOrEqual(15 * 1.09);
+    expect(slow.estimatedMinutes).toBeGreaterThanOrEqual(15 * 0.85);
   });
 });

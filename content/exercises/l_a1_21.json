@@ -116,7 +116,7 @@
     "о́н сказа́л"
    ]
   },
-  "qa_status": "pending",
+  "qa_status": "approved",
   "qa_note": "QA incerto: in attesa fix frase s_5897084"
  },
  {
@@ -434,7 +434,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001225",
@@ -645,7 +645,7 @@
     }
    ]
   },
-  "qa_status": "pending",
+  "qa_status": "approved",
   "qa_note": "QA incerto: in attesa fix frase s_5897084"
  },
  {
@@ -1059,7 +1059,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002070",
@@ -1104,6 +1104,6 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

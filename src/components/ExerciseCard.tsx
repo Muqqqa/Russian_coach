@@ -6,7 +6,7 @@ import { gradeExercise, type Grade } from "@/lib/answers";
 import { seededRng, shuffle } from "@/lib/rng";
 import { useApp } from "./AppProvider";
 import { Keypad } from "./Keypad";
-import { Ru, SpeakButton, VoiceBanner, WordLine } from "./ui";
+import { Markdown, Ru, SpeakButton, VoiceBanner, WordLine } from "./ui";
 
 const TYPE_LABEL: Record<Exercise["type"], string> = {
   translate: "Traduzione",
@@ -56,6 +56,7 @@ export function ExerciseCard({ exercise, onDone, nextLabel = "Avanti", showWords
     return undefined;
   }, [p, words]);
 
+  const lesson = useMemo(() => (bank && exercise.lesson ? bank.lessons.find((l) => l.id === exercise.lesson) : undefined), [bank, exercise.lesson]);
   const finalCorrect = grade ? grade.correct || selfOk : false;
   const check = () => {
     if (grade) return;
@@ -75,6 +76,17 @@ export function ExerciseCard({ exercise, onDone, nextLabel = "Avanti", showWords
   return (
     <form
       className="card stack"
+      onKeyDown={(e) => {
+        // Tastiera: 1-9 sceglie un'opzione, Invio controlla (scelta multipla)
+        if (p.type !== "multiple_choice" || grade) return;
+        if (/^[1-9]$/.test(e.key) && Number(e.key) <= p.options.length && !(e.target instanceof HTMLInputElement)) {
+          e.preventDefault();
+          setChoice(Number(e.key) - 1);
+        } else if (e.key === "Enter" && choice !== null) {
+          e.preventDefault();
+          check();
+        }
+      }}
       onSubmit={(e) => {
         e.preventDefault();
         if (!grade) check();
@@ -83,7 +95,7 @@ export function ExerciseCard({ exercise, onDone, nextLabel = "Avanti", showWords
     >
       <div className="row between">
         <span className="chip">{TYPE_LABEL[exercise.type]}</span>
-        <span className="muted small">Difficolta {exercise.difficulty}/5</span>
+        <span className="muted small">Difficoltà {exercise.difficulty}/5</span>
       </div>
       <h2 style={{ marginBottom: 0 }}>{exercise.prompt_it}</h2>
 
@@ -104,11 +116,12 @@ export function ExerciseCard({ exercise, onDone, nextLabel = "Avanti", showWords
             {hasCyrillic(p.question) && <SpeakButton text={p.question} />}
           </div>
           {sourceWord && <div className="translit">[{sourceWord.translit}]</div>}
-          <div className="opts" role="group" aria-label="Opzioni di risposta">
+          <div className="opts" role="group" aria-label="Opzioni di risposta (tasti 1-9 per scegliere, Invio per controllare)">
             {p.options.map((o, i) => {
               const cls = grade ? (i === p.correct ? "right" : i === choice ? "wrong" : "") : "";
               return (
                 <button key={i} type="button" className={`btn opt ${cls}`} aria-pressed={choice === i} disabled={!!grade} onClick={() => setChoice(i)}>
+                  <span className="optnum" aria-hidden="true">{i + 1}</span>
                   {hasCyrillic(o) ? <Ru>{o}</Ru> : o}
                 </button>
               );
@@ -150,7 +163,7 @@ export function ExerciseCard({ exercise, onDone, nextLabel = "Avanti", showWords
           <VoiceBanner force />
           <div className="row">
             <button type="button" className="btn primary" disabled={!audioOk} onClick={() => say(p.text, 0.85)}>Ascolta</button>
-            <button type="button" className="btn" disabled={!audioOk} onClick={() => say(p.text, 0.55)}>Piu&apos; lento</button>
+            <button type="button" className="btn" disabled={!audioOk} onClick={() => say(p.text, 0.55)}>Più lento</button>
             {!audioOk && !revealed && <button type="button" className="btn" onClick={() => setRevealed(true)}>Mostra il testo</button>}
           </div>
           {revealed && !audioOk && <Ru big>{p.text}</Ru>}
@@ -199,7 +212,7 @@ export function ExerciseCard({ exercise, onDone, nextLabel = "Avanti", showWords
         {grade && (
           <div className={`feedback ${finalCorrect ? "ok" : "ko"}`}>
             <div className="title">
-              {finalCorrect ? (grade.approximate ? "Corretto (con un piccolo refuso)" : selfOk && !grade.correct ? "Segnata come corretta" : "Corretto!") : "Non proprio"}
+              {finalCorrect ? (grade.approximate ? "Corretto (con un piccolo refuso)" : selfOk && !grade.correct ? "Segnata come corretta" : "Corretto!") : "Non proprio, ma sbagliando si impara"}
             </div>
             {(!finalCorrect || grade.approximate) && p.type !== "match" && (
               <div>
@@ -212,7 +225,7 @@ export function ExerciseCard({ exercise, onDone, nextLabel = "Avanti", showWords
             {p.type === "cloze" && p.text && finalCorrect === false && <div className="small muted">{p.text.replace("___", grade.expected)}</div>}
             {canSelfMark && !selfOk && (
               <button type="button" className="btn small" style={{ marginTop: 8 }} onClick={() => setSelfOk(true)}>
-                La mia risposta e&apos; giusta lo stesso
+                La mia risposta è giusta lo stesso
               </button>
             )}
           </div>
@@ -225,6 +238,13 @@ export function ExerciseCard({ exercise, onDone, nextLabel = "Avanti", showWords
             <li key={i}><Ru>{x.ru}</Ru> = {x.it}</li>
           ))}
         </ul>
+      )}
+
+      {grade && !finalCorrect && showWords && lesson && (
+        <details className="review">
+          <summary>Rivedi la spiegazione: {lesson.title_it}</summary>
+          <Markdown source={lesson.explanation_md} />
+        </details>
       )}
 
       {grade && showWords && words.length > 0 && (
@@ -246,31 +266,41 @@ export function ExerciseCard({ exercise, onDone, nextLabel = "Avanti", showWords
 function Match({ exercise, pairs, done, onFinish }: { exercise: Exercise; pairs: { ru: string; it: string }[]; done: boolean; onFinish: (mistakes: number) => void }) {
   const left = useMemo(() => pairs.map((p, i) => ({ i, label: p.ru })), [pairs]);
   const right = useMemo(() => shuffle(pairs.map((p, i) => ({ i, label: p.it })), seededRng("m:" + exercise.id)), [pairs, exercise.id]);
-  const [sel, setSel] = useState<number | null>(null);
+  // Si puo' toccare prima una colonna o l'altra: quando ci sono due selezioni si confronta la coppia.
+  const [selL, setSelL] = useState<number | null>(null);
+  const [selR, setSelR] = useState<number | null>(null);
   const [matched, setMatched] = useState<Set<number>>(new Set());
   const [miss, setMiss] = useState<{ l: number; r: number } | null>(null);
   const [mistakes, setMistakes] = useState(0);
   const { say } = useApp();
 
-  const pickRight = (ri: number) => {
-    if (sel === null || matched.has(ri)) return;
-    if (sel === ri) {
-      const next = new Set(matched).add(ri);
+  const settle = (l: number, r: number) => {
+    if (l === r) {
+      const next = new Set(matched).add(l);
       setMatched(next);
-      setSel(null);
       setMiss(null);
       if (next.size === pairs.length) onFinish(mistakes);
     } else {
       setMistakes((m) => m + 1);
-      setMiss({ l: sel, r: ri });
-      setSel(null);
+      setMiss({ l, r });
       setTimeout(() => setMiss(null), 700);
     }
+    setSelL(null);
+    setSelR(null);
+  };
+  const pickLeft = (i: number) => {
+    say(left[i].label);
+    if (selR !== null) settle(i, selR);
+    else setSelL(i);
+  };
+  const pickRight = (i: number) => {
+    if (selL !== null) settle(selL, i);
+    else setSelR(i);
   };
 
   return (
     <div>
-      <p className="muted small">Tocca una parola russa, poi la sua traduzione. Errori: {mistakes}</p>
+      <p className="muted small">Tocca una parola russa e la sua traduzione (in qualsiasi ordine). Errori: {mistakes}</p>
       <div className="match">
         <div className="stack" role="group" aria-label="Parole russe">
           {left.map((l) => (
@@ -278,13 +308,10 @@ function Match({ exercise, pairs, done, onFinish }: { exercise: Exercise; pairs:
               key={l.i}
               type="button"
               lang="ru"
-              className={`btn ${matched.has(l.i) ? "done" : sel === l.i ? "sel" : miss?.l === l.i ? "miss" : ""}`}
+              className={`btn ${matched.has(l.i) ? "done" : selL === l.i ? "sel" : miss?.l === l.i ? "miss" : ""}`}
               disabled={matched.has(l.i) || done}
-              aria-pressed={sel === l.i}
-              onClick={() => {
-                setSel(l.i);
-                say(l.label);
-              }}
+              aria-pressed={selL === l.i}
+              onClick={() => pickLeft(l.i)}
             >
               <Ru>{l.label}</Ru>
             </button>
@@ -292,7 +319,14 @@ function Match({ exercise, pairs, done, onFinish }: { exercise: Exercise; pairs:
         </div>
         <div className="stack" role="group" aria-label="Traduzioni">
           {right.map((r) => (
-            <button key={r.i} type="button" className={`btn ${matched.has(r.i) ? "done" : miss?.r === r.i ? "miss" : ""}`} disabled={matched.has(r.i) || done || sel === null} onClick={() => pickRight(r.i)}>
+            <button
+              key={r.i}
+              type="button"
+              className={`btn ${matched.has(r.i) ? "done" : selR === r.i ? "sel" : miss?.r === r.i ? "miss" : ""}`}
+              disabled={matched.has(r.i) || done}
+              aria-pressed={selR === r.i}
+              onClick={() => pickRight(r.i)}
+            >
               {r.label}
             </button>
           ))}

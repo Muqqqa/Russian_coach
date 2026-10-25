@@ -248,7 +248,7 @@
     "suo (di cortesia)"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000296",
@@ -1184,7 +1184,7 @@
     "altro"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002014",
@@ -1211,7 +1211,7 @@
    ],
    "hint_it": "Che cos'è?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002015",
@@ -1241,7 +1241,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002016",
@@ -1269,7 +1269,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002017",
@@ -1301,6 +1301,6 @@
     "э́то друго́й"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

@@ -1,0 +1,378 @@
+[
+ {
+  "id": "l_zero_01",
+  "field": "explanation_md",
+  "current": "«Что́ э́то?» (Stò èto?) e «Где́ до́м?» (Gdè dòm?) nella sezione «Frasi per provare»",
+  "proposed": "usare solo А О К М Т Э Д С: «Э́то до́м.» (Èto dòm.) – Questa è una casa; «Кто́ э́то?» (Ktò èto?) – Chi è? (oppure aggiungere «Ч, Г, Е le vedrai presto»)",
+  "severity": "media",
+  "reason": "Le frasi usano Ч, Г, Е non ancora introdotte (3 lettere); anche 8 esercizi di zero_01 ne dipendono"
+ },
+ {
+  "id": "l_zero_02",
+  "field": "explanation_md",
+  "current": "«Где́ они́?» (Gdè onì?)",
+  "proposed": "sostituire con «Кто́ они́?» (Ktò onì?) – Chi sono? o segnalare che Г ed Е arrivano nella lezione successiva",
+  "severity": "media",
+  "reason": "Г ed Е non ancora introdotte"
+ },
+ {
+  "id": "l_zero_03",
+  "field": "explanation_md",
+  "current": "З з | z dolce | rosa, zero",
+  "proposed": "З з | s sonora | come la s di «rosa» (NON come la z di «zero»)",
+  "severity": "alta",
+  "reason": "In italiano «z dolce» e' /dz/ (zero, zona); la З russa e' /z/. Gli esercizi usano gia' «s sonora (come in rosa)»: allineare lezione, LETTERS in gen_data.py e Ж («s sonora come in rosa ma piu' forte»)"
+ },
+ {
+  "id": "l_zero_03",
+  "field": "explanation_md",
+  "current": "Ко́фе нет. (Kòfe net.)",
+  "proposed": "Ко́фе нет. (Kòfe nèt.)",
+  "severity": "bassa",
+  "reason": "Accento grave mancante (anche in zero_10, zero_12, a1_19)"
+ },
+ {
+  "id": "l_zero_03",
+  "field": "explanation_md",
+  "current": "«Где́ ты́?» (Gdè tỳ?) con ы / «ты́» prima di zero_05",
+  "proposed": "aggiungere nota «ы la impari tra due lezioni» o usare «Где́ о́н?»",
+  "severity": "bassa",
+  "reason": "Ы non ancora introdotta; ты e' parola nuova di zero_05"
+ },
+ {
+  "id": "l_zero_04",
+  "field": "explanation_md",
+  "current": "new_words: w_chay «ча́й (ciàj)» e testo con й",
+  "proposed": "spostare w_chay in zero_05 (dove si introduce Й) oppure aggiungere «й, suono breve i, la vedrai nella prossima lezione»",
+  "severity": "media",
+  "reason": "Incoerenza segnalata dal lead: ча́й contiene Й, introdotta in zero_05. Coinvolti anche gli esercizi di lettura/dettato di ча́й in zero_04 e il maschile in zero_08"
+ },
+ {
+  "id": "l_zero_04",
+  "field": "explanation_md",
+  "current": "«О́чень хорошо́!» e «Счёт, пожа́луйста» in Prova",
+  "proposed": "nota che пожа́луйста e о́чень sono parole di zero_05",
+  "severity": "bassa",
+  "reason": "Parole di lezioni successive nelle frasi di prova"
+ },
+ {
+  "id": "l_zero_05",
+  "field": "explanation_md",
+  "current": "«Большо́е спаси́бо!»",
+  "proposed": "nota: спаси́бо si studia in zero_07",
+  "severity": "bassa",
+  "reason": "Parola introdotta dopo"
+ },
+ {
+  "id": "l_zero_06",
+  "field": "explanation_md",
+  "current": "рестора́н suona circa *ristarán* (accento acuto)",
+  "proposed": "ristaràn (grave, come nel resto del corso)",
+  "severity": "bassa",
+  "reason": "Notazione incoerente con la convenzione grave e con gli esercizi"
+ },
+ {
+  "id": "l_zero_07",
+  "field": "explanation_md",
+  "current": "Si pronuncia *zdràstvuite*: la **в** iniziale non si sente.",
+  "proposed": "la prima **в** (quella di «-вств-», dopo «здра») non si sente: zdràstvuite",
+  "severity": "media",
+  "reason": "La lettera iniziale e' з, non в; il testo indica una lettera sbagliata"
+ },
+ {
+  "id": "l_zero_07",
+  "field": "explanation_md",
+  "current": "Presentarsi: solo «Меня́ зову́т ...»",
+  "proposed": "aggiungere «Тебя́ зову́т ...» (Ti chiami ...), «Его́ зову́т ...» (Lui si chiama ...), «Её зову́т ...» (Lei si chiama ...) oppure togliere queste forme dagli esercizi",
+  "severity": "media",
+  "reason": "Gli esercizi nuovi (e_002008, e_002011, e_002148-e_002152) richiedono forme non spiegate dalla lezione"
+ },
+ {
+  "id": "l_zero_10",
+  "field": "explanation_md",
+  "current": "«Жи́ли мы́ тру́дно.» (Vivevamo tra gli stenti.)",
+  "proposed": "eliminare (e togliere s_7433914 dal commento <!-- frasi -->)",
+  "severity": "media",
+  "reason": "Frase troppo alta per zero_10; l'id s_7433914 non esiste piu' in data/sentences"
+ },
+ {
+  "id": "l_zero_11",
+  "field": "explanation_md",
+  "current": "Le terminazioni -ю/-у, -ешь/-ишь, -ет/-ит, -ем/-им, -ете/-ите, -ют/-ут",
+  "proposed": "... -ют/-ут (1ª coniugazione), -ят/-ат (2ª: говоря́т)",
+  "severity": "media",
+  "reason": "La tabella mostra «говоря́т» ma l'elenco non cita -ят/-ат"
+ },
+ {
+  "id": "l_zero_12",
+  "field": "explanation_md",
+  "current": "у нас е́сть / у вас е́сть / у них е́сть (senza segno d'accento su нас, вас, них)",
+  "proposed": "у на́с е́сть, у ва́с е́сть, у ни́х е́сть",
+  "severity": "bassa",
+  "reason": "Convenzione: russo sempre accentato"
+ },
+ {
+  "id": "l_a1_01",
+  "field": "explanation_md",
+  "current": "«В среду́ я́ свобо́дна. (V sredù…)» ma subito sotto «в сре́ду (v srèdu)»",
+  "proposed": "«В сре́ду я́ свобо́дна. (V srèdu ià svobòdna.)» e correggere s_6712593 / w_sreda.forms.acc_sg",
+  "severity": "media",
+  "reason": "Incoerenza interna; la forma normativa e' «в сре́ду» (probabile, ~85%: incerto, verificare)"
+ },
+ {
+  "id": "l_a1_02",
+  "field": "explanation_md",
+  "current": "Lui è solo.. Per «due caffè»",
+  "proposed": "Lui è solo. Per «due caffè»",
+  "severity": "bassa",
+  "reason": "Doppio punto"
+ },
+ {
+  "id": "l_a1_02",
+  "field": "explanation_md",
+  "current": "**\"Кото́рый ча́с?\" — \"Де́сять\".** (comment frasi: s_796489)",
+  "proposed": "togliere il dialogo e l'id s_796489 (non piu' presente in data/sentences)",
+  "severity": "media",
+  "reason": "Riferimento a frase rimossa"
+ },
+ {
+  "id": "l_a1_07",
+  "field": "explanation_md",
+  "current": "Spesso conviene imparare insieme aggettivo e avverbio: **холо'дный → хо'лодно**.",
+  "proposed": "**холо́дный → хо́лодно**",
+  "severity": "media",
+  "reason": "Apici al posto dei segni d'accento: testo visibile come errore"
+ },
+ {
+  "id": "l_a1_08",
+  "field": "explanation_md",
+  "current": "**Я́ в маши́не.** (Ià v mascìne.) – Sono nella macchina.",
+  "proposed": "– Sono in macchina.",
+  "severity": "bassa",
+  "reason": "Allineare alla frase corretta in data (anche l_a1_20)"
+ },
+ {
+  "id": "l_a1_09",
+  "field": "explanation_md",
+  "current": "**ждут** (zhdut) nell'elenco di жда́ть",
+  "proposed": "**жду́т** (zhdùt)",
+  "severity": "bassa",
+  "reason": "Accento mancante"
+ },
+ {
+  "id": "l_a1_10",
+  "field": "explanation_md",
+  "current": "**учи́ть** – studiare (qualcosa)",
+  "proposed": "**учи́ть** – imparare (qualcosa); insegnare (a qualcuno)",
+  "severity": "media",
+  "reason": "Incoerenza con il glossario manuale/esercizi (ora «imparare»); «studiare» e' изучать/учи́ться"
+ },
+ {
+  "id": "l_a1_13",
+  "field": "explanation_md",
+  "current": "**Я́ зна́ю счёт.** – So il conto.",
+  "proposed": "**Я́ зна́ю сло́во.** (gia' presente) o «Я́ зна́ю пробле́му.»",
+  "severity": "bassa",
+  "reason": "Frase poco chiara (s_3898579 segnalata nell'audit dati)"
+ },
+ {
+  "id": "l_a1_14",
+  "field": "explanation_md",
+  "current": "**Я́ ко́шка.** – Sono una gatta. (sezione «Divertenti»)",
+  "proposed": "togliere",
+  "severity": "bassa",
+  "reason": "Frase strana (simile a «Я собака» rimossa dagli esercizi)"
+ },
+ {
+  "id": "l_a1_15",
+  "field": "explanation_md",
+  "current": "«Altre due preposizioni» seguito da tre voci (к, пе́ред, ме́жду); «senza orologio..»",
+  "proposed": "«Altre tre preposizioni»; correggere il doppio punto",
+  "severity": "bassa",
+  "reason": "Refuso"
+ },
+ {
+  "id": "l_a1_17",
+  "field": "explanation_md",
+  "current": "**Где́ до́ждь?** (Gdè dòzhd?) – Dov'è la pioggia? (s_643972)",
+  "proposed": "eliminare",
+  "severity": "media",
+  "reason": "Frase innaturale e id non piu' in data"
+ },
+ {
+  "id": "l_a1_17",
+  "field": "explanation_md",
+  "current": "In russo non si dice «piove» con un verbo proprio",
+  "proposed": "Di solito si usa идти́ («идёт до́ждь»), anche se esistono verbi come мороси́ть",
+  "severity": "bassa",
+  "reason": "Affermazione troppo assoluta"
+ },
+ {
+  "id": "l_a1_18",
+  "field": "explanation_md",
+  "current": "список: медленне́е (medlennèie) / esempio «ме́дленнее (mèdlenneie)»",
+  "proposed": "usare ovunque ме́дленнее",
+  "severity": "bassa",
+  "reason": "Accentazione incoerente nella stessa lezione"
+ },
+ {
+  "id": "l_a1_19",
+  "field": "explanation_md",
+  "current": "Де́ньги — ничто́. (Dènghi — nicitò.)",
+  "proposed": "(Dènghi — nistò.)",
+  "severity": "bassa",
+  "reason": "Trascrizione incoerente con nistò della tabella; nota: ничего́ si pronuncia nicevò"
+ },
+ {
+  "id": "l_a1_21",
+  "field": "explanation_md",
+  "current": "**О́н сказа́л.** – Lui ha parlato.",
+  "proposed": "– Lui ha detto.",
+  "severity": "media",
+  "reason": "Traduzione sbagliata (allineata al dato corretto)"
+ },
+ {
+  "id": "l_a1_23",
+  "field": "explanation_md",
+  "current": "**Коне́чно, да́!** (Konècino, dà!)",
+  "proposed": "(Konèsno, dà!)",
+  "severity": "bassa",
+  "reason": "Trascrizione incoerente con la tabella (konèsno)"
+ },
+ {
+  "id": "l_a1_24",
+  "field": "explanation_md",
+  "current": "**Вы́ сле́дующий.** – Siete il prossimo.",
+  "proposed": "– Lei è il prossimo. (e s_5885621/23 nei dati)",
+  "severity": "bassa",
+  "reason": "«Siete» plurale con soggetto singolare"
+ },
+ {
+  "id": "l_a1_25",
+  "field": "explanation_md",
+  "current": "new_words w_telefon, w_sistema (livello a2); l_a1_18 w_prostoy (a2)",
+  "proposed": "accettare, ma segnare nel curriculum",
+  "severity": "bassa",
+  "reason": "Parole di livello a2 in lezioni a1"
+ },
+ {
+  "id": "l_a2_02",
+  "field": "explanation_md",
+  "current": "**до́лжный** (dòlzhnyj) – devo, dovere (forme brevi: до́лжен ...)",
+  "proposed": "**до́лжен** (dòlzhen) m, **должна́**, **должно́**, **должны́** – devo, deve (forma breve; non si usa «должный» in questo senso)",
+  "severity": "media",
+  "reason": "«должный» significa «dovuto/adeguato»; l'esercizio e_001433 («dovuto» -> должный) insegna la forma rara"
+ },
+ {
+  "id": "l_a2_04",
+  "field": "explanation_md",
+  "current": "Coppie imperfettivo/perfettivo: ... **ходи́ть** / **пойти́**",
+  "proposed": "togliere la coppia (ходи́ть e' imperfettivo multidirezionale; пойти́ e' perfettivo di идти́)",
+  "severity": "media",
+  "reason": "Falsa coppia aspettuale"
+ },
+ {
+  "id": "l_a2_04",
+  "field": "explanation_md",
+  "current": "Никто́ не пришёл. – Non è venuto nessuno. (perfettivo: *non è venuto nessuno*)",
+  "proposed": "eliminare la parentesi ridondante",
+  "severity": "bassa",
+  "reason": "Ripetizione"
+ },
+ {
+  "id": "l_a2_05",
+  "field": "explanation_md",
+  "current": "«Verbi che vogliono il dativo»: **попроси́ть**",
+  "proposed": "spostare: попроси́ть у кого́ (da qualcuno) vuole «у + genitivo» o l'accusativo",
+  "severity": "media",
+  "reason": "Non regge il dativo; l'esempio non mostra comunque un dativo"
+ },
+ {
+  "id": "l_a2_06",
+  "field": "explanation_md",
+  "current": "**Он' рабо́тает врачо́м.** (On' rabòtaiet vraciòm.)",
+  "proposed": "**О́н рабо́тает врачо́м.** (Òn rabòtaiet vraciòm.)",
+  "severity": "media",
+  "reason": "Apostrofo al posto dell'accento, lettera O senza accento"
+ },
+ {
+  "id": "l_a2_06",
+  "field": "explanation_md",
+  "current": "Tabella strumentale, riga «neutro» vuota; **вра́ч** – medico (cortese)",
+  "proposed": "completare (сло́во → сло́вом, мо́ре → мо́рем); togliere «(cortese)»",
+  "severity": "bassa",
+  "reason": "Riga incompleta; l'etichetta «cortese» e' fuorviante"
+ },
+ {
+  "id": "l_a2_09",
+  "field": "explanation_md",
+  "current": "**Уже́ сплю́ давно́.** – Dormo già da un pezzo. (s_3543631)",
+  "proposed": "sostituire con «Давно́ не ви́дел.» o simile; togliere l'id dal commento",
+  "severity": "media",
+  "reason": "Russo innaturale; id non piu' in data"
+ },
+ {
+  "id": "l_a2_10",
+  "field": "explanation_md",
+  "current": "prepositivo speciale (в углу́, на полу́) senza «во дворе́»",
+  "proposed": "aggiungere «во дворе́» (nel cortile) vs «на дворе́» (fuori) e la forma «во»",
+  "severity": "media",
+  "reason": "L'esercizio corretto e_002125 usa «во»; «на дворе́» (vecchio) significava «fuori»"
+ },
+ {
+  "id": "l_a2_11",
+  "field": "explanation_md",
+  "current": "Preposizioni a due casi: за́, по́д, на́д ... «Direzione → accusativo»",
+  "proposed": "за e под: posizione = strumentale, direzione = accusativo; на́д regge solo lo strumentale",
+  "severity": "media",
+  "reason": "над non ha l'accusativo"
+ },
+ {
+  "id": "l_a2_12",
+  "field": "explanation_md",
+  "current": "**дво́е** (dvòie) – in due",
+  "proposed": "**дво́е** – due (persone, gruppo): Дво́е ушли́ = Due sono andati via",
+  "severity": "media",
+  "reason": "«in due» e' un'altra cosa (allineare al glossario)"
+ },
+ {
+  "id": "l_a2_13",
+  "field": "explanation_md",
+  "current": "Ты́ чита́ешь по губа́м? – Leggi le labbra?",
+  "proposed": "– Leggi il labiale?",
+  "severity": "bassa",
+  "reason": "Resa italiana innaturale"
+ },
+ {
+  "id": "l_a2_13",
+  "field": "explanation_md",
+  "current": "**гру́дь** – petto; plurale гру́ди",
+  "proposed": "evitare gli esercizi sul plurale «гру́ди» (seno)",
+  "severity": "bassa",
+  "reason": "Connotazione sessuale (vedi e_002139)"
+ },
+ {
+  "id": "tutte",
+  "field": "explanation_md",
+  "current": "Esempi con parole di lezioni successive (circa 70 casi: es. zero_09 сын/отец/стол, zero_10 хочу, a1_02 час, a1_03 снег)",
+  "proposed": "aggiungere «(vedi lezione X)» oppure sostituire con parole note",
+  "severity": "bassa",
+  "reason": "Ordine di introduzione"
+ },
+ {
+  "id": "tutte",
+  "field": "explanation_md",
+  "current": "Trascrizione: ш/ч davanti a consonante diventa «sci/ci» (kòsciki, dèvuscika, ciàscika)",
+  "proposed": "valutare convenzione senza vocale epentetica (es. «kòshka» o «kòscka» con regola)",
+  "severity": "bassa",
+  "reason": "L'italiano legge una sillaba in piu' (ko-sci-ka)"
+ },
+ {
+  "id": "l_zero_10, l_a1_02, l_a1_17, l_a2_09",
+  "field": "explanation_md",
+  "current": "commento <!-- frasi: ... --> con id non presenti (s_7433914, s_796489, s_643972, s_3543631)",
+  "proposed": "aggiornare i commenti dopo i rifiuti",
+  "severity": "media",
+  "reason": "Il generatore legge gli id dai commenti: gli id assenti sono scartati"
+ }
+]

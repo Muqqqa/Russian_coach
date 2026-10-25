@@ -623,7 +623,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001679",
@@ -655,7 +655,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001680",
@@ -683,7 +683,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001681",
@@ -747,7 +747,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001683",
@@ -775,7 +775,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001684",
@@ -1361,7 +1361,7 @@
     "largo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002114",
@@ -1391,7 +1391,7 @@
    ],
    "hint_it": "corto: concorda con «де́нь» (giorno, maschile)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002115",
@@ -1420,7 +1420,7 @@
    ],
    "hint_it": "È troppo corta."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002116",
@@ -1450,7 +1450,7 @@
    ],
    "hint_it": "alto: concorda con «до́м» (casa, maschile)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002117",
@@ -1479,7 +1479,7 @@
    ],
    "hint_it": "Questo è pulito."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002118",
@@ -1511,7 +1511,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002119",
@@ -1543,7 +1543,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002120",
@@ -1589,6 +1589,6 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

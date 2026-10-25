@@ -163,7 +163,14 @@ export function generateExercises(words: Word[], sentences: Sentence[]): Exercis
     const common = { level: s.level, topics: topicsFromWords, words: s.words, grammar_tags: ["frasi"] };
 
     // 6) Scelta multipla: traduzione corretta della frase
-    const pool = (sByLevel.get(s.level) ?? []).filter((x) => x.id !== s.id && Math.abs(x.ru.split(/\s+/).length - nWords) <= 2 && x.it !== s.it);
+    const seenIt = new Set<string>([s.it.trim().toLowerCase()]);
+    const pool = (sByLevel.get(s.level) ?? []).filter((x) => {
+      if (x.id === s.id || Math.abs(x.ru.split(/\s+/).length - nWords) > 2) return false;
+      const k = x.it.trim().toLowerCase();
+      if (seenIt.has(k)) return false; // niente opzioni uguali (frasi diverse con la stessa traduzione)
+      seenIt.add(k);
+      return true;
+    });
     const ds = sample(pool, 3, rng, () => false);
     if (ds.length === 3) {
       const mc = placeCorrect(s.it, ds.map((d) => d.it), rng);

@@ -63,7 +63,8 @@
     "voi lei e intelligente"
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "QA: riaperto, risposta accettata errata («Voi lei è…»)"
  },
  {
   "id": "e_000636",
@@ -583,7 +584,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000653",
@@ -641,7 +642,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000655",
@@ -732,7 +733,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000658",
@@ -1364,7 +1365,7 @@
    ],
    "hint_it": "vecchio: concorda con «до́м» (casa, maschile)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002031",
@@ -1423,7 +1424,7 @@
    ],
    "hint_it": "vecchio: concorda con «вино́» (vino, neutro)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002033",
@@ -1453,7 +1454,7 @@
    ],
    "hint_it": "Il cane è grande."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002034",
@@ -1484,7 +1485,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002035",
@@ -1514,6 +1515,6 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

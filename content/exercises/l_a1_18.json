@@ -655,7 +655,7 @@
    ],
    "hint_it": "Quanto a lungo?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001904",
@@ -799,7 +799,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001909",
@@ -888,7 +888,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001912",
@@ -916,7 +916,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001913",
@@ -1380,7 +1380,7 @@
     "male"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002058",
@@ -1446,7 +1446,7 @@
    ],
    "hint_it": "Comparativo di «пло́хо» (male)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002060",
@@ -1474,7 +1474,7 @@
    ],
    "hint_it": "In autobus è più economico."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002061",
@@ -1506,6 +1506,6 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

@@ -1,7 +1,7 @@
 // Caricamento dei dati statici (public/data/*.json, copiati da `npm run copy-data`).
 // Non e' un'API: sono file serviti staticamente insieme all'app.
 import type { Exercise, Lesson, Sentence, Word } from "./contract";
-import { buildBank, CURATED_MIN, type Bank } from "./bank";
+import { buildBank, levelsNeedingGenerator, type Bank } from "./bank";
 import { generateExercises } from "./generator";
 
 export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || "";
@@ -40,8 +40,9 @@ export async function loadBank(): Promise<Bank> {
     fetchJson<Exercise[]>("exercises.json", true),
   ]);
   const curated = (exercises ?? []).filter(isExercise).filter((e) => e.qa_status === "approved");
-  // Il generatore interno integra il banco curato finche' questo e' piccolo.
-  const generated = curated.length >= CURATED_MIN ? [] : generateExercises(words ?? [], sentences ?? []);
+  // Il generatore interno (esercizi non rivisti) si usa solo per i livelli senza abbastanza esercizi curati.
+  const need = levelsNeedingGenerator(curated, words ?? []);
+  const generated = need.length === 0 ? [] : generateExercises(words ?? [], sentences ?? []).filter((e) => need.includes(e.level));
   return buildBank({ words: words ?? [], sentences: sentences ?? [], lessons: (lessons ?? []).filter(isLesson), curated, generated });
 }
 

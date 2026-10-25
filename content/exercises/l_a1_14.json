@@ -148,7 +148,7 @@
     "un cane"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000961",
@@ -502,7 +502,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000973",
@@ -590,7 +590,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000976",
@@ -1184,7 +1184,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002048",
@@ -1228,7 +1228,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002049",
@@ -1264,6 +1264,6 @@
     "что́ у тебя́ с лицо́м"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

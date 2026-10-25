@@ -504,7 +504,7 @@
    ],
    "hint_it": "ancora, si legge «iessciò»"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000118",
@@ -1322,7 +1322,7 @@
     "un conto"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001988",
@@ -1379,7 +1379,7 @@
     "счет"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001990",
@@ -1438,7 +1438,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001992",
@@ -1470,7 +1470,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001993",
@@ -1500,7 +1500,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001994",
@@ -1574,7 +1574,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001996",
@@ -1621,7 +1621,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001997",
@@ -1673,7 +1673,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001998",
@@ -1706,7 +1706,7 @@
     "мне́ жа́рко"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001999",
@@ -1732,6 +1732,6 @@
     "тоже"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

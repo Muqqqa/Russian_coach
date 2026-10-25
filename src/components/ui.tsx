@@ -67,14 +67,14 @@ export function VoiceBanner({ force }: { force?: boolean }) {
 
 /** Parola con accento, trascrizione e traduzione (it se c'e', altrimenti en). */
 export function WordLine({ word }: { word: Word }) {
-  const g = wordGloss(word, 3);
+  const g = wordGloss(word, 2);
   return (
     <div className="wordrow">
       <Ru>{word.stress}</Ru>
       <span className="translit">[{word.translit}]</span>
       <span>
         = {g.text}
-        {g.lang === "en" && <span className="muted small"> (inglese)</span>}
+        {g.lang === "en" && <span className="muted small"> (in inglese: manca la traduzione italiana)</span>}
       </span>
       <SpeakButton text={word.stress} label="Ascolta" />
     </div>

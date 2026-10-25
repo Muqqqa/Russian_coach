@@ -588,7 +588,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001340",
@@ -648,7 +648,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001342",
@@ -740,7 +740,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001345",
@@ -861,7 +861,7 @@
     }
    ]
   },
-  "qa_status": "pending",
+  "qa_status": "approved",
   "qa_note": "QA incerto: in attesa fix frase s_5885621"
  },
  {
@@ -1196,7 +1196,7 @@
     "вы́ сле́дующая"
    ]
   },
-  "qa_status": "pending",
+  "qa_status": "approved",
   "qa_note": "QA incerto: in attesa fix frase s_5885623"
  },
  {
@@ -1368,7 +1368,7 @@
     "successivo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002076",
@@ -1398,7 +1398,7 @@
    ],
    "hint_it": "scorso: concorda con «неде́ля» (settimana, femminile)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002077",
@@ -1427,7 +1427,7 @@
    ],
    "hint_it": "Pressapoco così."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002078",
@@ -1459,7 +1459,7 @@
    ],
    "hint_it": "primo: concorda con «де́нь» (giorno, maschile)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002079",
@@ -1490,7 +1490,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002080",
@@ -1520,7 +1520,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002081",
@@ -1568,6 +1568,6 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

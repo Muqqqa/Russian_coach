@@ -4,8 +4,9 @@ import { stateWith } from "./fixtures";
 
 describe("obiettivi", () => {
   it("somma le ore dei salti di livello", () => {
-    expect(totalHoursBetween("zero", "a1")).toBe(70);
-    expect(totalHoursBetween("zero", "a2")).toBe(180);
+    expect(totalHoursBetween("zero", "a1")).toBe(100);
+    expect(totalHoursBetween("zero", "a2")).toBe(240);
+    expect(totalHoursBetween("zero", "b2")).toBe(710);
     expect(totalHoursBetween("a2", "a2")).toBe(0);
   });
 
@@ -17,27 +18,36 @@ describe("obiettivi", () => {
   });
 
   it("deriva minuti e lezioni dalle settimane rimanenti", () => {
-    // zero -> a1 = 70 ore = 4200 minuti; 40 settimane => 105 min/sett.
+    // zero -> a1 = 100 ore = 6000 minuti; 40 settimane => 150 min/sett.
     const p = deriveWeeklyPlan({ currentLevel: "zero", goal: { targetLevel: "a1", targetDate: "2027-07-31" }, today: "2026-10-24", dailyMinutes: 15 });
     expect(p.weeksLeft).toBe(40);
-    expect(p.requiredMinutes).toBe(105);
-    expect(p.minutesTarget).toBe(105);
-    expect(p.lessonsTarget).toBe(7);
+    expect(p.requiredMinutes).toBe(150);
+    expect(p.minutesTarget).toBe(150);
+    expect(p.lessonsTarget).toBe(10); // 150 / 15: coerente con i minuti
+    expect(p.minutesPerDay).toBe(22);
     expect(p.feasible).toBe(true);
     expect(p.maintenance).toBe(false);
   });
 
   it("con piu' minuti per lezione servono meno lezioni", () => {
     const p = deriveWeeklyPlan({ currentLevel: "zero", goal: { targetLevel: "a1", targetDate: "2027-07-31" }, today: "2026-10-24", dailyMinutes: 45 });
-    expect(p.minutesTarget).toBe(105);
-    expect(p.lessonsTarget).toBe(3);
+    expect(p.minutesTarget).toBe(150);
+    expect(p.lessonsTarget).toBe(4);
   });
 
   it("segnala un obiettivo non raggiungibile e limita i minuti", () => {
     const p = deriveWeeklyPlan({ currentLevel: "zero", goal: { targetLevel: "b2", targetDate: "2026-12-01" }, today: "2026-10-24", dailyMinutes: 30 });
     expect(p.feasible).toBe(false);
     expect(p.minutesTarget).toBe(MAX_WEEKLY_MINUTES);
-    expect(p.lessonsTarget).toBeLessThanOrEqual(7);
+    expect(p.lessonsTarget).toBeLessThanOrEqual(21);
+    expect(p.lessonsTarget * 30).toBeGreaterThanOrEqual(p.minutesTarget);
+  });
+
+  it("lezioni e minuti sono sempre coerenti: lezioni x durata copre i minuti (entro il tetto)", () => {
+    for (const dm of [15, 30, 45] as const) {
+      const p = deriveWeeklyPlan({ currentLevel: "a1", goal: { targetLevel: "a2", targetDate: "2027-10-24" }, today: "2026-10-24", dailyMinutes: dm });
+      expect(p.lessonsTarget * dm).toBeGreaterThanOrEqual(p.minutesTarget);
+    }
   });
 
   it("applica un minimo settimanale per obiettivi molto lontani", () => {

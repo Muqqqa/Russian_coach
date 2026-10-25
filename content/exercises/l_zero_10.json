@@ -1183,7 +1183,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002019",
@@ -1226,7 +1226,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002020",
@@ -1258,6 +1258,6 @@
     "и что́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

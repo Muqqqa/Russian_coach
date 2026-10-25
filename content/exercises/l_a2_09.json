@@ -476,7 +476,7 @@
    ],
    "hint_it": "Tra poco me ne vado."
   },
-  "qa_status": "pending",
+  "qa_status": "approved",
   "qa_note": "QA incerto: in attesa fix frase s_1749706; «сейчас» valido, hint condiviso"
  },
  {
@@ -626,7 +626,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending",
+  "qa_status": "approved",
   "qa_note": "QA incerto: in attesa fix frase s_1749706"
  },
  {
@@ -686,7 +686,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001722",
@@ -1349,7 +1349,7 @@
    ],
    "hint_it": "Sono spesso malato."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002122",
@@ -1400,7 +1400,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002123",
@@ -1445,7 +1445,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_002124",
@@ -1497,6 +1497,6 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

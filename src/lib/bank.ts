@@ -12,6 +12,8 @@ export interface Bank {
   exerciseById: Map<string, Exercise>;
   /** Quanti esercizi arrivano dal banco curato. */
   curatedCount: number;
+  /** Quanti esercizi generati (non rivisti) sono nel banco: 0 se il banco curato basta. */
+  generatedCount: number;
   /** Livelli per cui esiste almeno un esercizio. */
   levelsAvailable: Level[];
 }
@@ -42,9 +44,22 @@ export function buildBank(input: {
     exercises,
     exerciseById: new Map(exercises.map((e) => [e.id, e])),
     curatedCount: curated.length,
+    generatedCount: input.generated.length,
     levelsAvailable: [...levels].sort((a, b) => levelIndex(a) - levelIndex(b)),
   };
 }
 
-/** Sotto questa soglia di esercizi curati approvati, si aggiunge il generatore interno. */
+/**
+ * Soglia di esercizi curati approvati PER LIVELLO: sotto questa soglia, per quel livello, si aggiunge
+ * il generatore interno (esercizi NON rivisti da un umano). Dove il banco curato basta, il generatore
+ * non si usa mai: e' solo l'ultimo ripiego.
+ */
 export const CURATED_MIN = 60;
+
+/** Livelli per cui serve il generatore: hanno parole ma meno di CURATED_MIN esercizi curati approvati. */
+export function levelsNeedingGenerator(curated: readonly Exercise[], words: readonly Pick<Word, "level">[], min = CURATED_MIN): Level[] {
+  const perLevel = new Map<Level, number>();
+  for (const e of curated) if (e.qa_status === "approved") perLevel.set(e.level, (perLevel.get(e.level) ?? 0) + 1);
+  const withWords = new Set<Level>(words.map((w) => w.level));
+  return [...withWords].filter((l) => (perLevel.get(l) ?? 0) < min).sort((a, b) => levelIndex(a) - levelIndex(b));
+}
