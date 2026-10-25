@@ -1,0 +1,2192 @@
+[
+ {
+  "id": "e_000003",
+  "field": "lesson/contenuto",
+  "current": "l_zero_01",
+  "proposed": "spostare in lezione che introduce Ч o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (ч) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000005",
+  "field": "lesson/contenuto",
+  "current": "l_zero_01",
+  "proposed": "spostare in lezione che introduce Ч o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (ч) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000008",
+  "field": "sentenza s_2297643",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Dov'è la casa?»",
+  "severity": "bassa",
+  "reason": "IT «Dov'è casa?» senza articolo"
+ },
+ {
+  "id": "e_000008",
+  "field": "lesson/contenuto",
+  "current": "l_zero_01",
+  "proposed": "spostare in lezione che introduce Г,Е o usare solo parole con lettere note",
+  "severity": "media",
+  "reason": "Usa lettere russe non ancora introdotte (г,е) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000010",
+  "field": "lesson/contenuto",
+  "current": "l_zero_01",
+  "proposed": "spostare in lezione che introduce Ч o usare solo parole con lettere note",
+  "severity": "media",
+  "reason": "Usa lettere russe non ancora introdotte (ч) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000012",
+  "field": "lesson/contenuto",
+  "current": "l_zero_01",
+  "proposed": "spostare in lezione che introduce Ч o usare solo parole con lettere note",
+  "severity": "media",
+  "reason": "Usa lettere russe non ancora introdotte (ч) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000018",
+  "field": "lesson/contenuto",
+  "current": "l_zero_01",
+  "proposed": "spostare in lezione che introduce Ч o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (ч) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000026",
+  "field": "sentenza s_2297643",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Dov'è la casa?»",
+  "severity": "bassa",
+  "reason": "IT «Dov'è casa?» senza articolo"
+ },
+ {
+  "id": "e_000026",
+  "field": "lesson/contenuto",
+  "current": "l_zero_01",
+  "proposed": "spostare in lezione che introduce Г,Е o usare solo parole con lettere note",
+  "severity": "media",
+  "reason": "Usa lettere russe non ancora introdotte (г,е) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000029",
+  "field": "lesson/contenuto",
+  "current": "l_zero_01",
+  "proposed": "spostare in lezione che introduce Ч o usare solo parole con lettere note",
+  "severity": "media",
+  "reason": "Usa lettere russe non ancora introdotte (ч) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000038",
+  "field": "lesson/contenuto",
+  "current": "l_zero_02",
+  "proposed": "spostare in lezione che introduce Г,Е o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (г,е) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000045",
+  "field": "lesson/contenuto",
+  "current": "l_zero_02",
+  "proposed": "spostare in lezione che introduce Г,Е o usare solo parole con lettere note",
+  "severity": "media",
+  "reason": "Usa lettere russe non ancora introdotte (г,е) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000052",
+  "field": "grammar_tags",
+  "current": [
+   "alphabet-2",
+   "false-friends",
+   "gender"
+  ],
+  "proposed": [
+   "alphabet-2",
+   "false-friends"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (gender): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000052",
+  "field": "lesson",
+  "current": "l_zero_02",
+  "proposed": "spostare a >= l_zero_08",
+  "severity": "media",
+  "reason": "Il genere dei nomi e' spiegato in l_zero_08."
+ },
+ {
+  "id": "e_000057",
+  "field": "lesson/contenuto",
+  "current": "l_zero_02",
+  "proposed": "spostare in lezione che introduce Г,Е o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (г,е) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000063",
+  "field": "lesson/contenuto",
+  "current": "l_zero_02",
+  "proposed": "spostare in lezione che introduce Г,Е o usare solo parole con lettere note",
+  "severity": "media",
+  "reason": "Usa lettere russe non ancora introdotte (г,е) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000067",
+  "field": "payload.accepted",
+  "current": [
+   "la ristorante",
+   "una ristorante"
+  ],
+  "proposed": "rimuovere queste varianti",
+  "severity": "alta",
+  "reason": "Risposta italiana errata accettata: ristorante e' maschile. Causa: _articles() in gen_lib.py indovina il genere dalla desinenza."
+ },
+ {
+  "id": "e_000068",
+  "field": "sentenza s_2297643",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Dov'è la casa?»",
+  "severity": "bassa",
+  "reason": "IT «Dov'è casa?» senza articolo"
+ },
+ {
+  "id": "e_000074",
+  "field": "lesson/contenuto",
+  "current": "l_zero_03",
+  "proposed": "spostare in lezione che introduce Ы o usare solo parole con lettere note",
+  "severity": "media",
+  "reason": "Usa lettere russe non ancora introdotte (ы) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000075",
+  "field": "payload.hint_it/answer",
+  "current": "risposta non univoca",
+  "proposed": "е/э indistinguibili dalla trascrizione «nèt»",
+  "severity": "media",
+  "reason": "е/э indistinguibili dalla trascrizione «nèt»"
+ },
+ {
+  "id": "e_000079",
+  "field": "payload.hint_it/answer",
+  "current": "risposta non univoca",
+  "proposed": "е/э indistinguibili da «tualèt»",
+  "severity": "media",
+  "reason": "е/э indistinguibili da «tualèt»"
+ },
+ {
+  "id": "e_000087",
+  "field": "grammar_tags",
+  "current": [
+   "alphabet-3",
+   "hard-soft-vowels",
+   "gender"
+  ],
+  "proposed": [
+   "alphabet-3",
+   "hard-soft-vowels"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (gender): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000087",
+  "field": "lesson",
+  "current": "l_zero_03",
+  "proposed": "spostare a >= l_zero_08",
+  "severity": "media",
+  "reason": "Il genere dei nomi e' spiegato in l_zero_08."
+ },
+ {
+  "id": "e_000088",
+  "field": "payload (etichetta suono di З)",
+  "current": "z dolce",
+  "proposed": "s sonora (come in «rosa»)",
+  "severity": "media",
+  "reason": "In italiano \"z dolce\" e' /dz/ (zona); la З russa e' /z/ come la s di «rosa». Correggere anche gen_data.LETTERS e la lezione zero_03."
+ },
+ {
+  "id": "e_000089",
+  "field": "payload (etichetta suono di З)",
+  "current": "z dolce",
+  "proposed": "s sonora (come in «rosa»)",
+  "severity": "media",
+  "reason": "In italiano \"z dolce\" e' /dz/ (zona); la З russa e' /z/ come la s di «rosa». Correggere anche gen_data.LETTERS e la lezione zero_03."
+ },
+ {
+  "id": "e_000092",
+  "field": "lesson/contenuto",
+  "current": "l_zero_03",
+  "proposed": "spostare in lezione che introduce Ы o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (ы) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000092",
+  "field": "sentenza s_2297643",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Dov'è la casa?»",
+  "severity": "bassa",
+  "reason": "IT «Dov'è casa?» senza articolo"
+ },
+ {
+  "id": "e_000095",
+  "field": "lesson/contenuto",
+  "current": "l_zero_03",
+  "proposed": "spostare in lezione che introduce Ы o usare solo parole con lettere note",
+  "severity": "media",
+  "reason": "Usa lettere russe non ancora introdotte (ы) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000105",
+  "field": "lesson/contenuto",
+  "current": "l_zero_04",
+  "proposed": "spostare in lezione che introduce Ь o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (ь) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000106",
+  "field": "lesson/contenuto",
+  "current": "l_zero_04",
+  "proposed": "spostare in lezione che introduce Й o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (й) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000110",
+  "field": "sentenza s_407086",
+  "current": "Cos'altro?",
+  "proposed": "verificare; «Что ещё?» e' «Cos'altro?»",
+  "severity": "media",
+  "reason": "Idioma incerto"
+ },
+ {
+  "id": "e_000111",
+  "field": "payload.hint_it/answer",
+  "current": "risposta non univoca",
+  "proposed": "ц/з entrambe «z» nella trascrizione",
+  "severity": "bassa",
+  "reason": "ц/з entrambe «z» nella trascrizione"
+ },
+ {
+  "id": "e_000121",
+  "field": "sentenza s_407086",
+  "current": "Cos'altro?",
+  "proposed": "verificare; «Что ещё?» e' «Cos'altro?»",
+  "severity": "media",
+  "reason": "Idioma incerto"
+ },
+ {
+  "id": "e_000122",
+  "field": "lesson/contenuto",
+  "current": "l_zero_04",
+  "proposed": "spostare in lezione che introduce Й o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (й) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000123",
+  "field": "grammar_tags",
+  "current": [
+   "alphabet-4",
+   "sibilants",
+   "gender"
+  ],
+  "proposed": [
+   "alphabet-4",
+   "sibilants"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (gender): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000123",
+  "field": "lesson",
+  "current": "l_zero_04",
+  "proposed": "spostare a >= l_zero_08",
+  "severity": "media",
+  "reason": "Il genere dei nomi e' spiegato in l_zero_08."
+ },
+ {
+  "id": "e_000124",
+  "field": "lesson/contenuto",
+  "current": "l_zero_04",
+  "proposed": "spostare in lezione che introduce Ь o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (ь) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000125",
+  "field": "lesson/contenuto",
+  "current": "l_zero_04",
+  "proposed": "spostare in lezione che introduce Й o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (й) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000128",
+  "field": "lesson/contenuto",
+  "current": "l_zero_04",
+  "proposed": "spostare in lezione che introduce Й o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (й) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000130",
+  "field": "lesson/contenuto",
+  "current": "l_zero_04",
+  "proposed": "spostare in lezione che introduce Й o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (й) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000130",
+  "field": "sentenza s_407086",
+  "current": "Cos'altro?",
+  "proposed": "verificare; «Что ещё?» e' «Cos'altro?»",
+  "severity": "media",
+  "reason": "Idioma incerto"
+ },
+ {
+  "id": "e_000131",
+  "field": "lesson/contenuto",
+  "current": "l_zero_04",
+  "proposed": "spostare in lezione che introduce Й o usare solo parole con lettere note",
+  "severity": "bassa",
+  "reason": "Usa lettere russe non ancora introdotte (й) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000132",
+  "field": "sentenza s_407086",
+  "current": "Cos'altro?",
+  "proposed": "verificare; «Что ещё?» e' «Cos'altro?»",
+  "severity": "media",
+  "reason": "Idioma incerto"
+ },
+ {
+  "id": "e_000135",
+  "field": "lesson/contenuto",
+  "current": "l_zero_04",
+  "proposed": "spostare in lezione che introduce Й o usare solo parole con lettere note",
+  "severity": "media",
+  "reason": "Usa lettere russe non ancora introdotte (й) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000136",
+  "field": "lesson/contenuto",
+  "current": "l_zero_04",
+  "proposed": "spostare in lezione che introduce Й o usare solo parole con lettere note",
+  "severity": "media",
+  "reason": "Usa lettere russe non ancora introdotte (й) in un esercizio da digitare/leggere."
+ },
+ {
+  "id": "e_000149",
+  "field": "grammar_tags",
+  "current": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000149",
+  "field": "lesson",
+  "current": "l_zero_05",
+  "proposed": "spostare a >= l_a1_06",
+  "severity": "media",
+  "reason": "Accordo dell'aggettivo non ancora spiegato."
+ },
+ {
+  "id": "e_000150",
+  "field": "sentenza s_2134537",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Кто вы?»",
+  "severity": "bassa",
+  "reason": "«Вы кто?» brusco; «Voi chi siete?»"
+ },
+ {
+  "id": "e_000151",
+  "field": "payload.hint_it/answer",
+  "current": "risposta non univoca",
+  "proposed": "ь non ha suono: non ricavabile dall'aiuto",
+  "severity": "bassa",
+  "reason": "ь non ha suono: non ricavabile dall'aiuto"
+ },
+ {
+  "id": "e_000155",
+  "field": "payload.hint_it/answer",
+  "current": "risposta non univoca",
+  "proposed": "ь non ha suono: non ricavabile",
+  "severity": "bassa",
+  "reason": "ь non ha suono: non ricavabile"
+ },
+ {
+  "id": "e_000157",
+  "field": "grammar_tags",
+  "current": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "alphabet-5",
+   "soft-sign",
+   "y-sound",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000157",
+  "field": "lesson",
+  "current": "l_zero_05",
+  "proposed": "spostare a >= l_a1_06",
+  "severity": "media",
+  "reason": "Accordo dell'aggettivo non ancora spiegato."
+ },
+ {
+  "id": "e_000176",
+  "field": "sentenza s_2134537",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Кто вы?»",
+  "severity": "bassa",
+  "reason": "«Вы кто?» brusco; «Voi chi siete?»"
+ },
+ {
+  "id": "e_000180",
+  "field": "prompt_it",
+  "current": "come si pronuncia (ma risposta = trascrizione di lettura)",
+  "proposed": "distinguere: \"come si scrive in lettere latine\" vs \"pronuncia reale (con riduzione)\"",
+  "severity": "media",
+  "reason": "In l_zero_06 stessa parola con due convenzioni (rossìia vs Rassìia; mèdlenno vs mièdlenna)."
+ },
+ {
+  "id": "e_000185",
+  "field": "prompt_it",
+  "current": "come si pronuncia (ma risposta = trascrizione di lettura)",
+  "proposed": "distinguere: \"come si scrive in lettere latine\" vs \"pronuncia reale (con riduzione)\"",
+  "severity": "media",
+  "reason": "In l_zero_06 stessa parola con due convenzioni (rossìia vs Rassìia; mèdlenno vs mièdlenna)."
+ },
+ {
+  "id": "e_000186",
+  "field": "payload.accepted",
+  "current": [
+   "una russia"
+  ],
+  "proposed": "rimuovere queste varianti",
+  "severity": "media",
+  "reason": "Risposta italiana errata accettata: nome proprio: niente articolo indeterminativo. Causa: _articles() in gen_lib.py indovina il genere dalla desinenza."
+ },
+ {
+  "id": "e_000197",
+  "field": "payload.options",
+  "current": "ристарán (unica opzione con accento acuto)",
+  "proposed": "usare grave per tutte le opzioni: ristaràn/ristoràn/restoràn/ristarèn",
+  "severity": "media",
+  "reason": "La risposta e' riconoscibile dall'accento acuto diverso dalle altre (gen_data.L6_MC)."
+ },
+ {
+  "id": "e_000198",
+  "field": "prompt_it",
+  "current": "come si pronuncia (ma risposta = trascrizione di lettura)",
+  "proposed": "distinguere: \"come si scrive in lettere latine\" vs \"pronuncia reale (con riduzione)\"",
+  "severity": "media",
+  "reason": "In l_zero_06 stessa parola con due convenzioni (rossìia vs Rassìia; mèdlenno vs mièdlenna)."
+ },
+ {
+  "id": "e_000201",
+  "field": "grammar_tags",
+  "current": [
+   "stress",
+   "vowel-reduction",
+   "devoicing",
+   "gender"
+  ],
+  "proposed": [
+   "stress",
+   "vowel-reduction",
+   "devoicing"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (gender): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000201",
+  "field": "lesson",
+  "current": "l_zero_06",
+  "proposed": "spostare a >= l_zero_08",
+  "severity": "media",
+  "reason": "Il genere dei nomi e' spiegato in l_zero_08."
+ },
+ {
+  "id": "e_000205",
+  "field": "prompt_it",
+  "current": "come si pronuncia (ma risposta = trascrizione di lettura)",
+  "proposed": "distinguere: \"come si scrive in lettere latine\" vs \"pronuncia reale (con riduzione)\"",
+  "severity": "media",
+  "reason": "In l_zero_06 stessa parola con due convenzioni (rossìia vs Rassìia; mèdlenno vs mièdlenna)."
+ },
+ {
+  "id": "e_000210",
+  "field": "prompt_it",
+  "current": "come si pronuncia (ma risposta = trascrizione di lettura)",
+  "proposed": "distinguere: \"come si scrive in lettere latine\" vs \"pronuncia reale (con riduzione)\"",
+  "severity": "media",
+  "reason": "In l_zero_06 stessa parola con due convenzioni (rossìia vs Rassìia; mèdlenno vs mièdlenna)."
+ },
+ {
+  "id": "e_000291",
+  "field": "payload (accepted)",
+  "current": "una sola resa russa/italiana",
+  "proposed": "\"Dov'è?\" ambiguo (он/она/оно)",
+  "severity": "media",
+  "reason": "\"Dov'è?\" ambiguo (он/она/оно)"
+ },
+ {
+  "id": "e_000295",
+  "field": "payload.accepted",
+  "current": "vostro, suo",
+  "proposed": "vostro, Suo (cortesia)",
+  "severity": "bassa",
+  "reason": "«suo» confonde con его́/её"
+ },
+ {
+  "id": "e_000296",
+  "field": "grammar_tags",
+  "current": [
+   "eto",
+   "pronouns",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "eto",
+   "pronouns",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000296",
+  "field": "lesson",
+  "current": "l_zero_09",
+  "proposed": "spostare a >= l_a1_06",
+  "severity": "media",
+  "reason": "Accordo dell'aggettivo non ancora spiegato."
+ },
+ {
+  "id": "e_000303",
+  "field": "grammar_tags",
+  "current": [
+   "eto",
+   "pronouns",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "eto",
+   "pronouns",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000303",
+  "field": "lesson",
+  "current": "l_zero_09",
+  "proposed": "spostare a >= l_a1_06",
+  "severity": "media",
+  "reason": "Accordo dell'aggettivo non ancora spiegato."
+ },
+ {
+  "id": "e_000326",
+  "field": "payload (accepted)",
+  "current": "una sola resa russa/italiana",
+  "proposed": "IT sbagliato \"Quanto hanno?\"",
+  "severity": "media",
+  "reason": "IT sbagliato \"Quanto hanno?\""
+ },
+ {
+  "id": "e_000326",
+  "field": "sentenza s_5875099",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Quanti anni hanno?»",
+  "severity": "media",
+  "reason": "IT «Quanto hanno?» errato"
+ },
+ {
+  "id": "e_000334",
+  "field": "sentenza s_5875099",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Quanti anni hanno?»",
+  "severity": "media",
+  "reason": "IT «Quanto hanno?» errato"
+ },
+ {
+  "id": "e_000335",
+  "field": "sentenza s_5875099",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Quanti anni hanno?»",
+  "severity": "media",
+  "reason": "IT «Quanto hanno?» errato"
+ },
+ {
+  "id": "e_000346",
+  "field": "sentenza s_5875099",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Quanti anni hanno?»",
+  "severity": "media",
+  "reason": "IT «Quanto hanno?» errato"
+ },
+ {
+  "id": "e_000351",
+  "field": "sentenza s_7433914",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare o semplificare",
+  "severity": "media",
+  "reason": "«Vivevamo tra gli stenti» troppo alto per zero_10"
+ },
+ {
+  "id": "e_000353",
+  "field": "sentenza s_5875099",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Quanti anni hanno?»",
+  "severity": "media",
+  "reason": "IT «Quanto hanno?» errato"
+ },
+ {
+  "id": "e_000357",
+  "field": "sentenza s_5875092",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Quanti anni ha?»",
+  "severity": "media",
+  "reason": "IT «Quanto ha?» errato (ей = quanti anni)"
+ },
+ {
+  "id": "e_000367",
+  "field": "grammar_tags",
+  "current": [
+   "verbs-present",
+   "conjugation-intro",
+   "future-perfective"
+  ],
+  "proposed": [
+   "verbs-present",
+   "conjugation-intro"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (future-perfective): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000368",
+  "field": "sentenza s_7433914",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare o semplificare",
+  "severity": "media",
+  "reason": "«Vivevamo tra gli stenti» troppo alto per zero_10"
+ },
+ {
+  "id": "e_000369",
+  "field": "grammar_tags",
+  "current": [
+   "verbs-present",
+   "conjugation-intro",
+   "future-perfective"
+  ],
+  "proposed": [
+   "verbs-present",
+   "conjugation-intro"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (future-perfective): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000374",
+  "field": "sentenza s_7433914",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare o semplificare",
+  "severity": "media",
+  "reason": "«Vivevamo tra gli stenti» troppo alto per zero_10"
+ },
+ {
+  "id": "e_000406",
+  "field": "grammar_tags",
+  "current": [
+   "u-menya-est",
+   "prepositions",
+   "genitive"
+  ],
+  "proposed": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (genitive): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000408",
+  "field": "grammar_tags",
+  "current": [
+   "u-menya-est",
+   "prepositions",
+   "genitive"
+  ],
+  "proposed": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (genitive): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000413",
+  "field": "grammar_tags",
+  "current": [
+   "u-menya-est",
+   "prepositions",
+   "genitive"
+  ],
+  "proposed": [
+   "u-menya-est",
+   "prepositions"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (genitive): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000420",
+  "field": "payload.pairs",
+  "current": "coppie ambigue",
+  "proposed": "с anche «da»",
+  "severity": "bassa",
+  "reason": "с anche «da»"
+ },
+ {
+  "id": "e_000422",
+  "field": "payload.pairs",
+  "current": "coppie ambigue",
+  "proposed": "с anche «da»",
+  "severity": "bassa",
+  "reason": "с anche «da»"
+ },
+ {
+  "id": "e_000423",
+  "field": "payload.pairs",
+  "current": "coppie ambigue",
+  "proposed": "с anche «da»",
+  "severity": "bassa",
+  "reason": "с anche «da»"
+ },
+ {
+  "id": "e_000442",
+  "field": "grammar_tags",
+  "current": [
+   "days",
+   "copula-zero",
+   "accusative-time",
+   "accusative"
+  ],
+  "proposed": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (accusative): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000450",
+  "field": "grammar_tags",
+  "current": [
+   "days",
+   "copula-zero",
+   "accusative-time",
+   "accusative"
+  ],
+  "proposed": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (accusative): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000450",
+  "field": "payload.options/answer",
+  "current": "среду́",
+  "proposed": "сре́ду",
+  "severity": "media",
+  "reason": "Accento normativo: в сре́ду. Incerto (~85%); verificare anche w_sreda.forms.acc_sg e s_6712593."
+ },
+ {
+  "id": "e_000456",
+  "field": "grammar_tags",
+  "current": [
+   "days",
+   "copula-zero",
+   "accusative-time",
+   "accusative"
+  ],
+  "proposed": [
+   "days",
+   "copula-zero",
+   "accusative-time"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (accusative): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000479",
+  "field": "payload (accepted)",
+  "current": "una sola resa russa/italiana",
+  "proposed": "dialogo con virgolette: traduzione libera ingradabile",
+  "severity": "media",
+  "reason": "dialogo con virgolette: traduzione libera ingradabile"
+ },
+ {
+  "id": "e_000479",
+  "field": "sentenza s_796489",
+  "current": "(vedi data/sentences)",
+  "proposed": "solo MC/match",
+  "severity": "media",
+  "reason": "Dialogo con virgolette poco adatto a traduzione libera"
+ },
+ {
+  "id": "e_000483",
+  "field": "grammar_tags",
+  "current": [
+   "numbers",
+   "numbers-gender",
+   "genitive-after-numbers"
+  ],
+  "proposed": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (genitive-after-numbers): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000489",
+  "field": "grammar_tags",
+  "current": [
+   "numbers",
+   "numbers-gender",
+   "genitive-after-numbers"
+  ],
+  "proposed": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (genitive-after-numbers): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000491",
+  "field": "grammar_tags",
+  "current": [
+   "numbers",
+   "numbers-gender",
+   "genitive-after-numbers"
+  ],
+  "proposed": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (genitive-after-numbers): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000496",
+  "field": "grammar_tags",
+  "current": [
+   "numbers",
+   "numbers-gender",
+   "genitive-after-numbers"
+  ],
+  "proposed": [
+   "numbers",
+   "numbers-gender"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (genitive-after-numbers): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000514",
+  "field": "payload.accepted",
+  "current": [
+   "il notte",
+   "un notte"
+  ],
+  "proposed": "rimuovere queste varianti",
+  "severity": "alta",
+  "reason": "Risposta italiana errata accettata: notte e' femminile. Causa: _articles() in gen_lib.py indovina il genere dalla desinenza."
+ },
+ {
+  "id": "e_000521",
+  "field": "payload (accepted)",
+  "current": "una sola resa russa/italiana",
+  "proposed": "resa idiomatica non producibile (\"На часах два\")",
+  "severity": "media",
+  "reason": "resa idiomatica non producibile (\"На часах два\")"
+ },
+ {
+  "id": "e_000540",
+  "field": "sentenza s_796489",
+  "current": "(vedi data/sentences)",
+  "proposed": "solo MC/match",
+  "severity": "media",
+  "reason": "Dialogo con virgolette poco adatto a traduzione libera"
+ },
+ {
+  "id": "e_000555",
+  "field": "sentenza s_12783171",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Lei è padre?»",
+  "severity": "media",
+  "reason": "IT «Siete padre?» non grammaticale"
+ },
+ {
+  "id": "e_000561",
+  "field": "payload (accepted)",
+  "current": "una sola resa russa/italiana",
+  "proposed": "\"Siete padre?\" non grammaticale",
+  "severity": "media",
+  "reason": "\"Siete padre?\" non grammaticale"
+ },
+ {
+  "id": "e_000561",
+  "field": "sentenza s_12783171",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Lei è padre?»",
+  "severity": "media",
+  "reason": "IT «Siete padre?» non grammaticale"
+ },
+ {
+  "id": "e_000562",
+  "field": "payload.accepted",
+  "current": [
+   "il madre",
+   "un madre"
+  ],
+  "proposed": "rimuovere queste varianti",
+  "severity": "alta",
+  "reason": "Risposta italiana errata accettata: madre e' femminile. Causa: _articles() in gen_lib.py indovina il genere dalla desinenza."
+ },
+ {
+  "id": "e_000563",
+  "field": "sentenza s_2730378",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Come sta papà?»/«Come sta tuo padre?» con accepted «Как твой отец?»",
+  "severity": "bassa",
+  "reason": "IT aggiunge «sta tuo»; it_ru irraggiungibile"
+ },
+ {
+  "id": "e_000569",
+  "field": "sentenza s_2730378",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Come sta papà?»/«Come sta tuo padre?» con accepted «Как твой отец?»",
+  "severity": "bassa",
+  "reason": "IT aggiunge «sta tuo»; it_ru irraggiungibile"
+ },
+ {
+  "id": "e_000571",
+  "field": "payload.options",
+  "current": [
+   "Cosa avete che non va?",
+   "Siete padre?",
+   "Siete fratelli?",
+   "Sei padre?"
+  ],
+  "proposed": "sostituire il distrattore ambiguo",
+  "severity": "media",
+  "reason": "\"Siete padre?\" non grammaticale; \"Sei padre?\" fuorviante"
+ },
+ {
+  "id": "e_000571",
+  "field": "sentenza s_12783171",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Lei è padre?»",
+  "severity": "media",
+  "reason": "IT «Siete padre?» non grammaticale"
+ },
+ {
+  "id": "e_000583",
+  "field": "sentenza s_12783171",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Lei è padre?»",
+  "severity": "media",
+  "reason": "IT «Siete padre?» non grammaticale"
+ },
+ {
+  "id": "e_000585",
+  "field": "payload.pairs",
+  "current": "coppie ambigue",
+  "proposed": "отец~papà/мать~mamma",
+  "severity": "bassa",
+  "reason": "отец~papà/мать~mamma"
+ },
+ {
+  "id": "e_000592",
+  "field": "sentenza s_12783171",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Lei è padre?»",
+  "severity": "media",
+  "reason": "IT «Siete padre?» non grammaticale"
+ },
+ {
+  "id": "e_000608",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "«Sono bambini» = Э́то де́ти: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "«Sono bambini» = Э́то де́ти"
+ },
+ {
+  "id": "e_000643",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "agreement",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000644",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "«intelligente» vale m/f: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "«intelligente» vale m/f"
+ },
+ {
+  "id": "e_000645",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "agreement",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000647",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "agreement",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000648",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "«Ho fame!» vale m/f: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "«Ho fame!» vale m/f"
+ },
+ {
+  "id": "e_000649",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "agreement",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000651",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "agreement",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000656",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "agreement",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000677",
+  "field": "payload (accepted)",
+  "current": "una sola resa russa/italiana",
+  "proposed": "ambiguo ты/вы, m/f",
+  "severity": "media",
+  "reason": "ambiguo ты/вы, m/f"
+ },
+ {
+  "id": "e_000681",
+  "field": "payload (accepted)",
+  "current": "una sola resa russa/italiana",
+  "proposed": "\"piano\" ambiguo (lento/basso): accettare anche Говори́ ти́ше",
+  "severity": "media",
+  "reason": "\"piano\" ambiguo (lento/basso): accettare anche Говори́ ти́ше"
+ },
+ {
+  "id": "e_000684",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "adverbs-o",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000686",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "adverbs-o",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000688",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "adverbs-o",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000690",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "adverbs-o",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000692",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "adverbs-o",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000693",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "adverbs-o",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000698",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "adverbs-o",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "adverbs-o",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000703",
+  "field": "sentenza s_6480750",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Lei è sporco.»",
+  "severity": "media",
+  "reason": "IT «Siete sporco.» non grammaticale"
+ },
+ {
+  "id": "e_000719",
+  "field": "payload.accepted",
+  "current": [
+   "lo stazione",
+   "uno stazione"
+  ],
+  "proposed": "rimuovere queste varianti",
+  "severity": "alta",
+  "reason": "Risposta italiana errata accettata: stazione e' femminile. Causa: _articles() in gen_lib.py indovina il genere dalla desinenza."
+ },
+ {
+  "id": "e_000726",
+  "field": "payload (accepted)",
+  "current": "una sola resa russa/italiana",
+  "proposed": "\"О чём ты говоришь?\" e' piu' naturale e viene rifiutata",
+  "severity": "media",
+  "reason": "\"О чём ты говоришь?\" e' piu' naturale e viene rifiutata"
+ },
+ {
+  "id": "e_000728",
+  "field": "sentenza s_895391",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Sono in macchina.»",
+  "severity": "bassa",
+  "reason": "«Sono nella macchina.» non naturale; la risposta «Sono in macchina» viene rifiutata"
+ },
+ {
+  "id": "e_000730",
+  "field": "sentenza s_1774619",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Questo posto è libero?»",
+  "severity": "bassa",
+  "reason": "«vuoto» per свободно"
+ },
+ {
+  "id": "e_000748",
+  "field": "sentenza s_1774619",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Questo posto è libero?»",
+  "severity": "bassa",
+  "reason": "«vuoto» per свободно"
+ },
+ {
+  "id": "e_000787",
+  "field": "sentenza s_2343994",
+  "current": "(vedi data/sentences)",
+  "proposed": "accordare",
+  "severity": "bassa",
+  "reason": "«Ищите» plurale vs «Cerca» singolare; idioma"
+ },
+ {
+  "id": "e_000836",
+  "field": "payload.answer/accepted",
+  "current": "verso là",
+  "proposed": "là (accettare anche «laggiù»)",
+  "severity": "media",
+  "reason": "w_tuda: «verso là» innaturale; «là» e' valido"
+ },
+ {
+  "id": "e_000849",
+  "field": "grammar_tags",
+  "current": [
+   "motion-verbs",
+   "directions",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "motion-verbs",
+   "directions",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000852",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "идти́ valido: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "идти́ valido"
+ },
+ {
+  "id": "e_000853",
+  "field": "grammar_tags",
+  "current": [
+   "motion-verbs",
+   "directions",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "motion-verbs",
+   "directions",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_000855",
+  "field": "payload.options",
+  "current": [
+   "molto",
+   "là",
+   "non lontano",
+   "verso là"
+  ],
+  "proposed": "sostituire il distrattore ambiguo",
+  "severity": "media",
+  "reason": "\"là\" e' traduzione valida di туда́"
+ },
+ {
+  "id": "e_000923",
+  "field": "payload.accepted",
+  "current": "Люблю́ краси́вые ве́щи.",
+  "proposed": "aggiungere varianti con «Я»",
+  "severity": "bassa",
+  "reason": "Una risposta con soggetto espresso viene rifiutata"
+ },
+ {
+  "id": "e_000960",
+  "field": "payload.accepted",
+  "current": [
+   "la cane",
+   "una cane"
+  ],
+  "proposed": "rimuovere queste varianti",
+  "severity": "alta",
+  "reason": "Risposta italiana errata accettata: cane e' maschile. Causa: _articles() in gen_lib.py indovina il genere dalla desinenza."
+ },
+ {
+  "id": "e_000988",
+  "field": "sentenza s_3681529",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare la frase",
+  "severity": "media",
+  "reason": "«Я собака» («Sono un cane») semanticamente strana"
+ },
+ {
+  "id": "e_000995",
+  "field": "payload.accepted",
+  "current": [
+   "la paese",
+   "una paese"
+  ],
+  "proposed": "rimuovere queste varianti",
+  "severity": "alta",
+  "reason": "Risposta italiana errata accettata: paese e' maschile. Causa: _articles() in gen_lib.py indovina il genere dalla desinenza."
+ },
+ {
+  "id": "e_001000",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "Прости́те sinonimo: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "Прости́те sinonimo"
+ },
+ {
+  "id": "e_001002",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "Прости́те sinonimo: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "Прости́те sinonimo"
+ },
+ {
+  "id": "e_001040",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "«Ка́к ты́?» e' valido: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "«Ка́к ты́?» e' valido"
+ },
+ {
+  "id": "e_001066",
+  "field": "sentenza s_643972",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare la frase",
+  "severity": "media",
+  "reason": "«Где дождь?» innaturale"
+ },
+ {
+  "id": "e_001067",
+  "field": "payload.accepted",
+  "current": [
+   "la sole",
+   "una sole"
+  ],
+  "proposed": "rimuovere queste varianti",
+  "severity": "alta",
+  "reason": "Risposta italiana errata accettata: sole e' maschile. Causa: _articles() in gen_lib.py indovina il genere dalla desinenza."
+ },
+ {
+  "id": "e_001070",
+  "field": "sentenza s_643972",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare la frase",
+  "severity": "media",
+  "reason": "«Где дождь?» innaturale"
+ },
+ {
+  "id": "e_001072",
+  "field": "sentenza s_643972",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare la frase",
+  "severity": "media",
+  "reason": "«Где дождь?» innaturale"
+ },
+ {
+  "id": "e_001081",
+  "field": "sentenza s_643972",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare la frase",
+  "severity": "media",
+  "reason": "«Где дождь?» innaturale"
+ },
+ {
+  "id": "e_001090",
+  "field": "sentenza s_643972",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare la frase",
+  "severity": "media",
+  "reason": "«Где дождь?» innaturale"
+ },
+ {
+  "id": "e_001105",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "adverbs",
+   "comparative",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "adverbs",
+   "comparative",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001111",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "adverbs",
+   "comparative",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "adverbs",
+   "comparative",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001177",
+  "field": "payload (accepted)",
+  "current": "una sola resa russa/italiana",
+  "proposed": "costruzione dativa B1, nessuno la produrrebbe",
+  "severity": "media",
+  "reason": "costruzione dativa B1, nessuno la produrrebbe"
+ },
+ {
+  "id": "e_001177",
+  "field": "sentenza s_5690207",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare per a1",
+  "severity": "media",
+  "reason": "«Мне её не остановить» (B1) in a1_20"
+ },
+ {
+  "id": "e_001179",
+  "field": "grammar_tags",
+  "current": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix",
+   "future-perfective"
+  ],
+  "proposed": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (future-perfective): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001183",
+  "field": "grammar_tags",
+  "current": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix",
+   "future-perfective"
+  ],
+  "proposed": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (future-perfective): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001193",
+  "field": "grammar_tags",
+  "current": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix",
+   "future-perfective"
+  ],
+  "proposed": [
+   "transport",
+   "prepositional-transport",
+   "verbs-prefix"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (future-perfective): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001202",
+  "field": "sentenza s_5690207",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare per a1",
+  "severity": "media",
+  "reason": "«Мне её не остановить» (B1) in a1_20"
+ },
+ {
+  "id": "e_001213",
+  "field": "payload (accepted)",
+  "current": "una sola resa russa/italiana",
+  "proposed": "\"Lui ha parlato\" = сказал? No: \"ha detto\"",
+  "severity": "media",
+  "reason": "\"Lui ha parlato\" = сказал? No: \"ha detto\""
+ },
+ {
+  "id": "e_001213",
+  "field": "sentenza s_5897084",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Lui ha detto.»",
+  "severity": "media",
+  "reason": "IT «Lui ha parlato» per «сказал»"
+ },
+ {
+  "id": "e_001219",
+  "field": "grammar_tags",
+  "current": [
+   "past-tense",
+   "aspect",
+   "future-perfective"
+  ],
+  "proposed": [
+   "past-tense",
+   "aspect"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (future-perfective): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001220",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "ему́ valido: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "ему́ valido"
+ },
+ {
+  "id": "e_001221",
+  "field": "grammar_tags",
+  "current": [
+   "past-tense",
+   "aspect",
+   "future-perfective"
+  ],
+  "proposed": [
+   "past-tense",
+   "aspect"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (future-perfective): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001228",
+  "field": "grammar_tags",
+  "current": [
+   "past-tense",
+   "aspect",
+   "future-perfective"
+  ],
+  "proposed": [
+   "past-tense",
+   "aspect"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (future-perfective): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001230",
+  "field": "sentenza s_5897084",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Lui ha detto.»",
+  "severity": "media",
+  "reason": "IT «Lui ha parlato» per «сказал»"
+ },
+ {
+  "id": "e_001252",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "«А почему́?» valido: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "«А почему́?» valido"
+ },
+ {
+  "id": "e_001286",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "idioma non ricavabile: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "idioma non ricavabile"
+ },
+ {
+  "id": "e_001322",
+  "field": "sentenza s_5885623",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Lei è la prossima.»",
+  "severity": "media",
+  "reason": "IT «Siete la prossima.»"
+ },
+ {
+  "id": "e_001330",
+  "field": "grammar_tags",
+  "current": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001332",
+  "field": "grammar_tags",
+  "current": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001334",
+  "field": "grammar_tags",
+  "current": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001338",
+  "field": "grammar_tags",
+  "current": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001343",
+  "field": "grammar_tags",
+  "current": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "modal-nado",
+   "ordinals",
+   "indefinite-to",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001347",
+  "field": "sentenza s_2606166",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Sono la prima.»",
+  "severity": "bassa",
+  "reason": "IT «Sono prima.»"
+ },
+ {
+  "id": "e_001347",
+  "field": "sentenza s_5885621",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Lei è il prossimo.»",
+  "severity": "media",
+  "reason": "IT «Siete il prossimo.»"
+ },
+ {
+  "id": "e_001355",
+  "field": "sentenza s_5885623",
+  "current": "(vedi data/sentences)",
+  "proposed": "«Lei è la prossima.»",
+  "severity": "media",
+  "reason": "IT «Siete la prossima.»"
+ },
+ {
+  "id": "e_001399",
+  "field": "sentenza s_2503230",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare la frase",
+  "severity": "bassa",
+  "reason": "«Ты моя» («Sei mia»): tono possessivo"
+ },
+ {
+  "id": "e_001424",
+  "field": "sentenza s_2503230",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare la frase",
+  "severity": "bassa",
+  "reason": "«Ты моя» («Sei mia»): tono possessivo"
+ },
+ {
+  "id": "e_001426",
+  "field": "sentenza s_2503229",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare la frase",
+  "severity": "bassa",
+  "reason": "«Ты мой» («Sei mio»): tono possessivo, inadatto"
+ },
+ {
+  "id": "e_001441",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "шёл valido: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "шёл valido"
+ },
+ {
+  "id": "e_001448",
+  "field": "grammar_tags",
+  "current": [
+   "past-of-byt",
+   "modals",
+   "future-perfective"
+  ],
+  "proposed": [
+   "past-of-byt",
+   "modals"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (future-perfective): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001488",
+  "field": "payload.question",
+  "current": "ис́торию",
+  "proposed": "исто́рию",
+  "severity": "alta",
+  "reason": "Accento su consonante (U+0301 dopo \"с\"). Anche in gen_data.py ASPECT_TEMPLATES (2 righe)."
+ },
+ {
+  "id": "e_001525",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "пошёл/поехал validi: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "пошёл/поехал validi"
+ },
+ {
+  "id": "e_001534",
+  "field": "sentenza s_2736639",
+  "current": "(vedi data/sentences)",
+  "proposed": "facoltativo",
+  "severity": "bassa",
+  "reason": "Imperativo brusco «Vattene…»"
+ },
+ {
+  "id": "e_001540",
+  "field": "sentenza s_1749710",
+  "current": "(vedi data/sentences)",
+  "proposed": "differenziare",
+  "severity": "media",
+  "reason": "vedi s_1749706"
+ },
+ {
+  "id": "e_001543",
+  "field": "sentenza s_2736639",
+  "current": "(vedi data/sentences)",
+  "proposed": "facoltativo",
+  "severity": "bassa",
+  "reason": "Imperativo brusco «Vattene…»"
+ },
+ {
+  "id": "e_001560",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "сво́й valido: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "сво́й valido"
+ },
+ {
+  "id": "e_001562",
+  "field": "sentenza s_2233092",
+  "current": "(vedi data/sentences)",
+  "proposed": "rimappare words",
+  "severity": "media",
+  "reason": "«Пошли спать» mappata a w_poslat"
+ },
+ {
+  "id": "e_001574",
+  "field": "sentenza s_1618244",
+  "current": "(vedi data/sentences)",
+  "proposed": "rimappare words",
+  "severity": "media",
+  "reason": "«Пошли спать» mappata a w_poslat (è пойти): insegna il lessema sbagliato"
+ },
+ {
+  "id": "e_001589",
+  "field": "payload.accepted",
+  "current": "мужчи́на",
+  "proposed": "accettare anche челове́к",
+  "severity": "media",
+  "reason": "«uomo» vale uomo/essere umano"
+ },
+ {
+  "id": "e_001666",
+  "field": "payload (accepted)",
+  "current": "una sola resa russa/italiana",
+  "proposed": "\"È pulita.\" ambiguo",
+  "severity": "media",
+  "reason": "\"È pulita.\" ambiguo"
+ },
+ {
+  "id": "e_001669",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "Он/Оно/Это: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "Он/Оно/Это"
+ },
+ {
+  "id": "e_001675",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "Она/Это: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "Она/Это"
+ },
+ {
+  "id": "e_001677",
+  "field": "payload.options",
+  "current": [
+   "Questa è l'ultima.",
+   "Questo è un tavolo.",
+   "Questo è pulito.",
+   "È pulito."
+  ],
+  "proposed": "sostituire il distrattore ambiguo",
+  "severity": "media",
+  "reason": "\"È pulito.\" e' traduzione valida di \"Это чистое\""
+ },
+ {
+  "id": "e_001714",
+  "field": "sentenza s_1749706",
+  "current": "(vedi data/sentences)",
+  "proposed": "differenziare le IT",
+  "severity": "media",
+  "reason": "Stessa IT «Sto per andarmene.» di s_1749708/s_1749710: cloze ambigui"
+ },
+ {
+  "id": "e_001714",
+  "field": "payload.accepted",
+  "current": "una sola risposta",
+  "proposed": "«сейчас» valido, hint condiviso: ampliare accepted o precisare hint_it",
+  "severity": "media",
+  "reason": "«сейчас» valido, hint condiviso"
+ },
+ {
+  "id": "e_001715",
+  "field": "sentenza s_3543631",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare",
+  "severity": "bassa",
+  "reason": "Russo innaturale «Уже сплю давно»"
+ },
+ {
+  "id": "e_001719",
+  "field": "sentenza s_1749706",
+  "current": "(vedi data/sentences)",
+  "proposed": "differenziare le IT",
+  "severity": "media",
+  "reason": "Stessa IT «Sto per andarmene.» di s_1749708/s_1749710: cloze ambigui"
+ },
+ {
+  "id": "e_001728",
+  "field": "sentenza s_1749708",
+  "current": "(vedi data/sentences)",
+  "proposed": "differenziare",
+  "severity": "media",
+  "reason": "vedi s_1749706"
+ },
+ {
+  "id": "e_001739",
+  "field": "payload.accepted",
+  "current": [
+   "il parete",
+   "un parete"
+  ],
+  "proposed": "rimuovere queste varianti",
+  "severity": "alta",
+  "reason": "Risposta italiana errata accettata: parete e' femminile. Causa: _articles() in gen_lib.py indovina il genere dalla desinenza."
+ },
+ {
+  "id": "e_001750",
+  "field": "payload.text/answer",
+  "current": "Ма́ма на ___ -> дворе́",
+  "proposed": "Ма́ма во ___ -> дворе́ (oppure cambiare frase)",
+  "severity": "media",
+  "reason": "\"на дворе\" significa \"fuori (all'aperto)\", non \"nel cortile\"."
+ },
+ {
+  "id": "e_001781",
+  "field": "sentenza s_659795",
+  "current": "(vedi data/sentences)",
+  "proposed": "facoltativo",
+  "severity": "bassa",
+  "reason": "Tono ominoso"
+ },
+ {
+  "id": "e_001781",
+  "field": "payload (accepted)",
+  "current": "una sola resa russa/italiana",
+  "proposed": "\"Sono tra noi!\" ambiguo (я/они)",
+  "severity": "media",
+  "reason": "\"Sono tra noi!\" ambiguo (я/они)"
+ },
+ {
+  "id": "e_001808",
+  "field": "sentenza s_659795",
+  "current": "(vedi data/sentences)",
+  "proposed": "facoltativo",
+  "severity": "bassa",
+  "reason": "Tono ominoso"
+ },
+ {
+  "id": "e_001813",
+  "field": "sentenza s_6003224",
+  "current": "(vedi data/sentences)",
+  "proposed": "facoltativo",
+  "severity": "bassa",
+  "reason": "Tono ominoso («Sono già tra noi»)"
+ },
+ {
+  "id": "e_001843",
+  "field": "payload.options",
+  "current": [
+   "La classe è vuota.",
+   "È vuoto.",
+   "La tazza è vuota.",
+   "È vuota."
+  ],
+  "proposed": "sostituire il distrattore ambiguo",
+  "severity": "media",
+  "reason": "\"È vuoto.\"/\"È vuota.\" possibili"
+ },
+ {
+  "id": "e_001847",
+  "field": "payload.pairs",
+  "current": "дво́е=in due",
+  "proposed": "дво́е=due (persone)",
+  "severity": "media",
+  "reason": "«in due» e' un'altra cosa"
+ },
+ {
+  "id": "e_001859",
+  "field": "payload.accepted",
+  "current": [
+   "la cuore",
+   "una cuore"
+  ],
+  "proposed": "rimuovere queste varianti",
+  "severity": "alta",
+  "reason": "Risposta italiana errata accettata: cuore e' maschile. Causa: _articles() in gen_lib.py indovina il genere dalla desinenza."
+ },
+ {
+  "id": "e_001873",
+  "field": "sentenza s_1603183",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare la frase",
+  "severity": "alta",
+  "reason": "Commento sul seno di una donna: contenuto sessualizzato"
+ },
+ {
+  "id": "e_001880",
+  "field": "sentenza s_1603183",
+  "current": "(vedi data/sentences)",
+  "proposed": "scartare la frase",
+  "severity": "alta",
+  "reason": "Commento sul seno di una donna: contenuto sessualizzato"
+ },
+ {
+  "id": "e_001902",
+  "field": "grammar_tags",
+  "current": [
+   "adjectives",
+   "adverbs",
+   "comparative",
+   "adjectives-agreement"
+  ],
+  "proposed": [
+   "adjectives",
+   "adverbs",
+   "comparative",
+   "agreement"
+  ],
+  "severity": "bassa",
+  "reason": "Tag introdotto da una lezione successiva (adjectives-agreement): allineare al vocabolario dei tag della lezione."
+ },
+ {
+  "id": "e_001939",
+  "field": "payload.accepted",
+  "current": [
+   "la sistema",
+   "una sistema"
+  ],
+  "proposed": "rimuovere queste varianti",
+  "severity": "alta",
+  "reason": "Risposta italiana errata accettata: sistema e' maschile (aggiungere \"il sistema\",\"un sistema\"). Causa: _articles() in gen_lib.py indovina il genere dalla desinenza."
+ },
+ {
+  "id": "e_001949",
+  "field": "payload.options",
+  "current": [
+   "До́брый де́нь, чем я́ могу́ Ва́м помо́чь?",
+   "Я́ ду́маю, о́н плохо́й челове́к.",
+   "До́брый де́нь, я́ могу́ Ва́м помо́чь?",
+   "Мо́жешь говори́ть гро́мче? Я́ тебя́ не понима́ю."
+  ],
+  "proposed": "sostituire il distrattore ambiguo",
+  "severity": "media",
+  "reason": "due opzioni quasi equivalenti"
+ }
+]
