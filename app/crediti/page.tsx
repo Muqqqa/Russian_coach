@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
-import { loadCredits, type CreditSource } from "@/lib/data";
+import { loadCredits, loadSentenceAuthors, type CreditSource } from "@/lib/data";
 
 // Testo di riserva finché data/credits.json non è disponibile. Derivato da LICENSES.md.
 const FALLBACK: CreditSource[] = [
@@ -33,6 +33,7 @@ const FALLBACK: CreditSource[] = [
 export default function CreditsPage() {
   const [sources, setSources] = useState<CreditSource[]>();
   const [placeholder, setPlaceholder] = useState(false);
+  const [authors, setAuthors] = useState<{ name: string; count: number }[]>();
 
   useEffect(() => {
     loadCredits()
@@ -47,6 +48,7 @@ export default function CreditsPage() {
         setSources(FALLBACK);
         setPlaceholder(true);
       });
+    loadSentenceAuthors().then(setAuthors).catch(() => setAuthors([]));
   }, []);
 
   return (
@@ -75,10 +77,24 @@ export default function CreditsPage() {
           {s.url && <p style={{ margin: 0 }}><a href={s.url} target="_blank" rel="noopener noreferrer">{s.url}</a></p>}
         </section>
       ))}
+      {authors && authors.length > 0 && (
+        <section className="card stack" aria-labelledby="aut">
+          <h2 id="aut" style={{ margin: 0 }}>Autori delle frasi (Tatoeba)</h2>
+          <p className="muted small" style={{ margin: 0 }}>
+            Le frasi d&apos;esempio e le loro traduzioni sono scritte da volontari di <a href="https://tatoeba.org" target="_blank" rel="noopener noreferrer">Tatoeba</a>. Grazie a {authors.length} autori.
+          </p>
+          <details>
+            <summary style={{ cursor: "pointer", fontWeight: 600 }}>Mostra l&apos;elenco completo</summary>
+            <ul className="small" style={{ columns: "9em", margin: "8px 0 0", paddingLeft: "1.1rem" }}>
+              {authors.map((a) => <li key={a.name}>{a.name} <span className="muted">({a.count})</span></li>)}
+            </ul>
+          </details>
+        </section>
+      )}
       <section className="card stack">
         <h2 style={{ margin: 0 }}>Licenza dei dati del progetto</h2>
         <p style={{ margin: 0 }}>
-          I dati lessicali e le frasi sono distribuiti con licenza <strong>CC BY-SA 4.0</strong> (proposta, in attesa di conferma): puoi copiarli e modificarli citando le fonti e mantenendo la stessa licenza. Le frasi di Tatoeba conservano l&apos;attribuzione al singolo autore.
+          I dati lessicali e le frasi sono distribuiti con licenza <strong>CC BY-SA 4.0</strong>: puoi copiarli e modificarli citando le fonti e mantenendo la stessa licenza. Le frasi di Tatoeba conservano l&apos;attribuzione al singolo autore.
         </p>
       </section>
     </div>

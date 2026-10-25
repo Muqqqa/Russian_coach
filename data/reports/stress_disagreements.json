@@ -23,6 +23,15 @@
    ]
   },
   {
+   "id": "w_sreda",
+   "ru": "среда",
+   "key": "acc_sg",
+   "openrussian": "сре́ду",
+   "wiktextract": [
+    "среду́"
+   ]
+  },
+  {
    "id": "w_pora",
    "ru": "пора",
    "key": "dat_pl",

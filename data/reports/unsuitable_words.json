@@ -1,7 +1,7 @@
 {
  "generato_da": "scripts/filter_sentences.py",
  "nota": "Parole NON cancellate: segnalate per revisione (curriculum-writer / qa-russian).",
- "totale": 36,
+ "totale": 34,
  "parole": [
   {
    "id": "w_a",
@@ -30,18 +30,6 @@
    ]
   },
   {
-   "id": "w_mem",
-   "ru": "мем",
-   "level": "a1",
-   "pos": "noun",
-   "en": [
-    "meme"
-   ],
-   "motivi": [
-    "neologismo di internet, poco utile a un principiante"
-   ]
-  },
-  {
    "id": "w_vay_fay",
    "ru": "вай-фай",
    "level": "a1",
@@ -63,18 +51,6 @@
    ],
    "motivi": [
     "espressione composta fuori standard (non e' una parola singola)"
-   ]
-  },
-  {
-   "id": "w_neskolkie",
-   "ru": "несколькие",
-   "level": "a1",
-   "pos": "num",
-   "en": [
-    "several, some, a few"
-   ],
-   "motivi": [
-    "forma plurale rara di 'несколько'"
    ]
   },
   {

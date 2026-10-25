@@ -59,7 +59,7 @@ export default function PlacementPage() {
       <div className="stack">
         <h1>Test d&apos;ingresso</h1>
         <div className="row between small muted">
-          <span>Domanda {n + 1} di circa {Math.min(MAX_QUESTIONS, Math.max(MIN_QUESTIONS, n + 1))}</span>
+          <span>Domanda {n + 1} (di solito {MIN_QUESTIONS}-{MAX_QUESTIONS})</span>
           <button className="btn small" onClick={() => { setSession(undefined); setQuestion(undefined); }}>Interrompi</button>
         </div>
         <ProgressBar pct={(n / MIN_QUESTIONS) * 100} label="Avanzamento del test" />
@@ -116,6 +116,12 @@ export default function PlacementPage() {
         )}
         {state.placement?.done && <p className="muted small" style={{ margin: 0 }}>Ultimo test: {state.placement.date}, {state.placement.score}% corrette. Livello attuale: {LEVEL_LABEL[state.level]}.</p>}
         <p className="muted small" style={{ margin: 0 }}>Le risposte del test non modificano il ripasso delle parole.</p>
+        <div className="banner" role="note">
+          <strong>Non conosci nemmeno l&apos;alfabeto?</strong> Salta il test: scegli «Zero» qui sotto e la prima lezione ti insegna a leggere.
+          <div style={{ marginTop: 8 }}>
+            <Link className="btn primary" href="/lezione/" onClick={() => choose("zero", 0)}>Parto da zero</Link>
+          </div>
+        </div>
       </div>
 
       <section id="manuale" aria-labelledby="man">

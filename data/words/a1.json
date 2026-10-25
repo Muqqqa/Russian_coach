@@ -7188,7 +7188,7 @@
    "nom_sg": "среда́",
    "gen_sg": "среды́",
    "dat_sg": "среде́",
-   "acc_sg": "среду́",
+   "acc_sg": "сре́ду",
    "ins_sg": "средо́й, средо́ю",
    "prep_sg": "среде́",
    "nom_pl": "сре́ды",
@@ -8347,38 +8347,6 @@
   "ipa": "[ˈsparʐə]"
  },
  {
-  "id": "w_mem",
-  "ru": "мем",
-  "stress": "ме́м",
-  "translit": "mèm",
-  "en": [
-   "meme"
-  ],
-  "pos": "noun",
-  "level": "a1",
-  "topics": [],
-  "source": "openrussian",
-  "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0 | forme/genere/argomenti integrati da Wiktionary (en.wiktionary.org) via Wiktextract (kaikki.org), CC BY-SA 4.0",
-  "forms": {
-   "nom_pl": "ме́мы",
-   "gen_pl": "ме́мов",
-   "nom_sg": "ме́м",
-   "gen_sg": "ме́ма",
-   "dat_sg": "ме́му",
-   "dat_pl": "ме́мам",
-   "acc_sg": "ме́м",
-   "acc_pl": "ме́мы",
-   "ins_sg": "ме́мом",
-   "ins_pl": "ме́мами",
-   "prep_sg": "ме́ме",
-   "prep_pl": "ме́мах"
-  },
-  "gender": "m",
-  "animate": false,
-  "ipa": "[mʲem]"
- },
- {
   "id": "w_vay_fay",
   "ru": "вай-фай",
   "stress": "ва́й-фа́й",
@@ -8403,21 +8371,6 @@
    "credit card"
   ],
   "pos": "phrase",
-  "level": "a1",
-  "topics": [],
-  "source": "openrussian",
-  "license": "CC-BY-SA-4.0",
-  "attribution": "OpenRussian.org (en.openrussian.org), dati su https://github.com/Badestrand/russian-dictionary, CC BY-SA 4.0"
- },
- {
-  "id": "w_neskolkie",
-  "ru": "несколькие",
-  "stress": "не́сколькие",
-  "translit": "nèskolkiie",
-  "en": [
-   "several, some, a few"
-  ],
-  "pos": "num",
   "level": "a1",
   "topics": [],
   "source": "openrussian",

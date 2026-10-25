@@ -71,6 +71,10 @@ export default function GoalsPage() {
                 <div className="stat"><div className="n">{plan.minutesTarget}</div><div className="muted small">minuti a settimana</div></div>
                 <div className="stat"><div className="n">{plan.lessonsTarget}</div><div className="muted small">lezioni da {state.settings.dailyMinutes} min</div></div>
               </div>
+              <p className="muted small" style={{ margin: 0 }}>
+                Circa {plan.minutesPerDay} minuti al giorno, tutti i giorni.
+                {plan.lessonsTarget > 7 && " Sono più di una lezione al giorno: puoi farne due, oppure passare a lezioni più lunghe in Impostazioni."}
+              </p>
             </>
           )}
           {!plan.feasible && !plan.maintenance && (

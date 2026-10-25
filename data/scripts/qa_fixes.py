@@ -8,6 +8,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 REPO = os.path.dirname(ROOT)
 FIXES = json.load(open(os.path.join(HERE, "qa_fixes.json"), encoding="utf-8"))
+# correzioni successive all'audit (stesso formato), applicate dopo quelle dello snapshot
+_extra = os.path.join(HERE, "extra_fixes.json")
+if os.path.exists(_extra):
+    FIXES += json.load(open(_extra, encoding="utf-8"))
 
 # fix volutamente NON applicati
 SKIP = {("w_vay_fay", "stress")}  # QA: incerto, non approvare finche' non confermato

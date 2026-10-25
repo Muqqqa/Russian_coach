@@ -1855,35 +1855,10 @@
    "accent-a"
   ]
  },
- "w_mem": {
-  "forms_added": [
-   "acc_pl",
-   "acc_sg",
-   "dat_pl",
-   "dat_sg",
-   "gen_pl",
-   "gen_sg",
-   "ins_pl",
-   "ins_sg",
-   "nom_pl",
-   "nom_sg",
-   "prep_pl",
-   "prep_sg"
-  ],
-  "gender_from_wikt": true,
-  "animate_from_wikt": true,
-  "decl_class": [
-   "hard-stem",
-   "accent-a"
-  ]
- },
  "w_vay_fay": {
   "no_wiktionary_entry": true
  },
  "w_kreditnaya_karta": {
-  "no_wiktionary_entry": true
- },
- "w_neskolkie": {
   "no_wiktionary_entry": true
  },
  "w_byt": {

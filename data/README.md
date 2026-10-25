@@ -8,13 +8,13 @@ Licenza dei dati: CC BY-SA 4.0 (confermata; vedi `LICENSE.md`, `credits.json` pe
 | File | Record |
 |---|---|
 | `words/zero.json` | 89 parole |
-| `words/a1.json` | 233 parole |
+| `words/a1.json` | 231 parole |
 | `words/a2.json` | 484 parole |
 | `sentences/zero.json` | 88 frasi |
 | `sentences/a1.json` | 401 frasi |
 | `sentences/a2.json` | 1398 frasi |
 
-Totale 806 parole, 1887 frasi (dopo filtro e correzioni QA). Parole con almeno una frase d'esempio: zero 88/89, a1 218/233, a2 424/484 (`examples`, max 3 per parola).
+Totale 804 parole, 1887 frasi (dopo filtro e correzioni QA). Parole con almeno una frase d'esempio: zero 88/89, a1 218/231, a2 424/484 (`examples`, max 3 per parola).
 
 ## Come sono assegnati i livelli (mappa confermata)
 OpenRussian ha le liste A1 (89 voci), A2 (233), B1 (492), B2 (985)... L'elenco A1 e' troppo piccolo per essere un "A1" didattico, quindi:
@@ -55,14 +55,14 @@ Nome propri (Том, Мэри) e frasi con parole fuori vocabolario sono scartat
 ## Filtro contenuti sensibili (`scripts/filter_sentences.py`)
 Euristica a radici/espressioni regolari in russo (sui token) e in italiano (sulla traduzione): violenza/armi, morte, sesso, droga/alcol, politica, religione, insulti/razzismo (anche discriminazione sul corpo). Per cautela esclude anche falsi positivi (es. "Sono il vostro capitano" per la categoria politica/militare). Viene applicato al pool dei candidati in `build_sentences.py` PRIMA della selezione, cosi' le parole mantengono gli esempi; lo script da solo ricontrolla `data/sentences`, verifica che ogni parola delle frasi esista in `data/words` e ricalcola `examples`.
 - `reports/filtered_sentences.json`: 482 frasi escluse su 12824 candidate (id, motivo, termine, testo). Per motivo: morte 92, violenza/armi 80, droga/alcol 60, politica 32, religione 31, insulti/razzismo 24, nomi propri mappati male 142, rifiutate da qa 21. Dopo la revisione QA il filtro e' piu' preciso: `полиция` ammessa, radice `бой-` solo come sostantivo (non `не бойся`), `чёрт` solo con ё, niente `brutto/anima/prete` come sottostringhe, `в общих чертах` ammessa; piu' severo su urlare/gridare (`крич-`), bere (`пил/пьёт`), `небес-`. **Alcol: `пиво` e' ammesso** (adulti), il resto (ubriaco, vodka, bere in generale) resta escluso.
-- `reports/unsuitable_words.json`: 36 parole NON cancellate ma segnalate come inadatte a principianti (argomento sensibile, gergo, lemmi non standard). Le 8 rifiutate da QA e non citate in `content/` sono state rimosse (vedi sotto).
+- `reports/unsuitable_words.json`: 36 parole NON cancellate ma segnalate come inadatte a principianti (argomento sensibile, gergo, lemmi non standard). Le rifiutate da QA e non citate in `content/` sono state rimosse (vedi sotto).
 - Il filtro non e' garanzia assoluta: resta un campionamento QA.
 
 ## Correzioni di qa-russian (applicate)
 Fonte: `qa/data_fixes.json` (517 voci, snapshot in `scripts/qa_fixes.json`; `scripts/qa_fixes.py` le applica, richiamato da build_words, build_sentences ed enrich, quindi rigenerare riproduce tutto).
 - **Parole**: forme dei pronomi personali (paradigmi corretti, chiave extra `after_prep` con le forme con н-), accenti (происходить, среда, пора...), short_f/short_n di собственный, genere/animato mancanti, `plural_only` di ветер, aspetto di бежать, glosse EN, 72 `f_ins` senza parentesi, separatori `//` e `*` ripuliti, `aspect_partner: "-"` eliminati. Gia' applicati anche `pos: phrase` per `кредитная карта` e `ru: "меня зовут"` per `w_zovut` (stress `меня́ зову́т`).
 - **Non applicato**: l'accento di `w_vay_fay` (QA: incerto).
-- **Rimosse da data/words** (rifiutate da QA e NON citate in `content/`): w_pisat_verb, w_stringi, w_chyom, w_zh, w_bezoblachno, w_getero, w_sidushka, w_chlen. Elenco in `reports/removed_words.json`. Rifiutate da QA ma MANTENUTE perche' citate: w_neskolkie (l_a1_18), w_mem (l_a1_25); `w_vay_fay` e' citata (l_a1_25) e mantenuta.
+- **Rimosse da data/words** (rifiutate da QA e NON citate in `content/`): w_pisat_verb, w_stringi, w_chyom, w_zh, w_bezoblachno, w_getero, w_sidushka, w_chlen. Elenco in `reports/removed_words.json`. Rifiutate da QA ma MANTENUTE perche' citate: w_neskolkie e w_mem non sono piu' citate nelle lezioni (aggiornamento content del 2026-10-25) e vengono rimosse dal rigenerare; `w_vay_fay` e' citata (l_a1_25) e mantenuta.
 - **Glosse `it`**: applicate le 58 decisioni (22 correzioni alle esistenti, 36 per le `it_candidates`); `it` ora su 167 parole. Se la glossa viene dalla revisione QA, l'`attribution` lo indica.
 - **Translit**: regola `ч/ш/щ` davanti a consonante/ь/fine parola + `i` (`ci/sci/ssci`) in `common.py`, piu' eccezioni per `что`, `чтобы`, `ничто`, `что-то`, `коне́чно`; riproduce esattamente le 41 correzioni proposte.
 - **Topics**: ora solo dalle categorie del PRIMO senso Wiktionary (prima contaminate dai sensi secondari: мама era "tecnologia", кошка "abbigliamento"...), `numeri` solo per i numerali, piu' override manuali in `TOPIC_OVERRIDES` (`enrich_wiktextract.py`). 197 parole con topics; le altre sono coperte da `content/curriculum/word_topics.json` (slug del curriculum) tranne poche decine.

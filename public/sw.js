@@ -1,8 +1,10 @@
 /* Service worker semplice di Russian Coach.
  * - Pagine e risorse statiche: rete prima, cache come ripiego (l'app funziona offline dopo la prima visita).
  * - /data/*.json: cache prima con aggiornamento in background.
+ * - Al primo avvio l'app manda un messaggio "warm" con l'elenco di pagine e dati: il service worker li scarica
+ *   (e con essi i file /_next/static citati dall'HTML), cosi' l'app funziona offline anche per le pagine non ancora visitate.
  * Nessuna API: tutto e' statico. Cambiare VERSION per invalidare le cache. */
-const VERSION = "rc-v1";
+const VERSION = "rc-v2";
 const CORE = ["./", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", (event) => {
@@ -47,4 +49,35 @@ self.addEventListener("fetch", (event) => {
       })
       .catch(() => caches.match(req).then((hit) => hit || (req.mode === "navigate" ? caches.match("./") : undefined))),
   );
+});
+
+async function warm(urls) {
+  const cache = await caches.open(VERSION);
+  const assets = new Set();
+  for (const u of urls) {
+    try {
+      const res = await fetch(u, { cache: "reload" });
+      if (!res.ok) continue;
+      await cache.put(u, res.clone());
+      if ((res.headers.get("content-type") || "").includes("text/html")) {
+        const html = await res.text();
+        for (const m of html.matchAll(/["'(]([^"'()\s\\]*\/_next\/static\/[^"'()\s\\]+)/g)) assets.add(m[1]);
+      }
+    } catch (e) {
+      /* offline o file mancante: si riprova al prossimo avvio */
+    }
+  }
+  for (const a of assets) {
+    try {
+      if (await cache.match(a)) continue;
+      const r = await fetch(a);
+      if (r.ok) await cache.put(a, r);
+    } catch (e) {
+      /* ignorato */
+    }
+  }
+}
+
+self.addEventListener("message", (event) => {
+  if (event.data && event.data.type === "warm" && Array.isArray(event.data.urls)) event.waitUntil(warm(event.data.urls));
 });

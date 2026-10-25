@@ -1,0 +1,4 @@
+[
+  {"kind": "word", "id": "w_sreda", "field": "forms.acc_sg", "current": "среду́", "proposed": "сре́ду", "severity": "alta",
+   "reason": "Segnalato da qa-russian dopo l'audit: accusativo di среда (accento c): в сре́ду; le altre forme del paradigma sono gia' coerenti."}
+]

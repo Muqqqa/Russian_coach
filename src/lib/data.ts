@@ -3,6 +3,7 @@
 import type { Exercise, Lesson, Sentence, Word } from "./contract";
 import { buildBank, levelsNeedingGenerator, type Bank } from "./bank";
 import { generateExercises } from "./generator";
+import { collectAuthors } from "./credits";
 
 export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || "";
 
@@ -73,4 +74,10 @@ export async function loadCredits(): Promise<{ sources: CreditSource[]; raw?: un
       note: x.note ? String(x.note) : x.notes ? String(x.notes) : undefined,
     }));
   return { sources, raw: data };
+}
+
+/** Autori delle frasi Tatoeba (da data/sentences, gia' pubblicato in public/data). */
+export async function loadSentenceAuthors(): Promise<{ name: string; count: number }[]> {
+  const sentences = await fetchJson<{ attribution: string }[]>("sentences.json", true);
+  return collectAuthors(sentences ?? []);
 }
