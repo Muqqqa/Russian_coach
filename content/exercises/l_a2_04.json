@@ -451,7 +451,7 @@
     "пое́хал",
     "поехал"
    ],
-   "hint_it": "Sono andato a casa."
+   "hint_it": "Me ne sono andato a casa."
   },
   "qa_status": "pending",
   "qa_note": "QA incerto: пошёл/поехал validi"
@@ -562,14 +562,15 @@
    "type": "multiple_choice",
    "question": "Не уходи́.",
    "options": [
-    "Sto uscendo.",
+    "Non voglio.",
     "Non voglio!",
     "Non andartene.",
-    "Me ne vado adesso."
+    "Noi non verremo."
    ],
    "correct": 2
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001530",
@@ -592,12 +593,13 @@
    "options": [
     "verso qui",
     "molto",
-    "là",
-    "buono"
+    "anche",
+    "dappertutto"
    ],
    "correct": 0
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001531",
@@ -650,14 +652,15 @@
    "type": "multiple_choice",
    "question": "Come si dice «verso qui» in russo?",
    "options": [
-    "про́сто",
+    "пра́вильно",
     "мно́го",
-    "вчера́",
+    "сно́ва",
     "сюда́"
    ],
    "correct": 3
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001533",
@@ -710,10 +713,10 @@
    "type": "multiple_choice",
    "question": "Уходи́ пря́мо сейча́с.",
    "options": [
-    "Dobbiamo andarcene.",
-    "Ora vattene.",
+    "Quale mese è ora?",
+    "Lui è in albergo adesso.",
     "Vattene in questo esatto momento.",
-    "Me ne vado alle quattro."
+    "È l'una del pomeriggio."
    ],
    "correct": 2
   },
@@ -1376,7 +1379,7 @@
     },
     {
      "ru": "Кто́ с ва́ми ходи́л?",
-     "it": "Chi è venuto con voi?"
+     "it": "Chi è andato con voi?"
     },
     {
      "ru": "Я́ от ва́с ухожу́.",

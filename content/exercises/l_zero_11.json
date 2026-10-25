@@ -562,13 +562,14 @@
    "question": "Ты́ говори́шь по-ру́сски?",
    "options": [
     "Hai chiesto agli altri?",
-    "Voi parlate.",
+    "Anche tu?",
     "Parli russo?",
     "Dove sei?"
    ],
    "correct": 2
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000377",
@@ -620,14 +621,15 @@
    "type": "multiple_choice",
    "question": "O non vuoi?",
    "options": [
+    "Э́то о́н и́ли нет?",
+    "Не хо́лодно.",
     "Ча́й и́ли ко́фе?",
-    "Я́ хочу́ жи́ть.",
-    "Ча́ю хо́чешь?",
     "И́ли не хо́чешь?"
    ],
    "correct": 3
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000379",

@@ -77,11 +77,11 @@
   "payload": {
    "type": "translate",
    "direction": "it_ru",
-   "source": "dovuto",
-   "answer": "до́лжный",
+   "source": "deve",
+   "answer": "до́лжен",
    "accepted": [
-    "до́лжный",
-    "должный"
+    "до́лжен",
+    "должен"
    ]
   },
   "qa_status": "pending"
@@ -554,14 +554,15 @@
    "type": "multiple_choice",
    "question": "Вчера́ бы́л вто́рник.",
    "options": [
-    "Domani è martedì.",
-    "C'era silenzio dappertutto.",
+    "Oggi è martedì.",
     "Ieri stavo male.",
+    "Domani è martedì.",
     "Ieri era martedì."
    ],
    "correct": 3
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001450",
@@ -734,12 +735,13 @@
    "options": [
     "Ieri stavo male.",
     "Ieri era giovedì.",
-    "C'erano tutti.",
-    "C'era silenzio dappertutto."
+    "Oggi è giovedì.",
+    "Due caffè, per piacere."
    ],
    "correct": 1
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001456",
@@ -764,8 +766,8 @@
    "type": "match",
    "pairs": [
     {
-     "ru": "до́лжный",
-     "it": "dovuto"
+     "ru": "до́лжен",
+     "it": "deve"
     },
     {
      "ru": "уме́ть",
@@ -781,7 +783,8 @@
     }
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001457",
@@ -853,8 +856,8 @@
    "type": "match",
    "pairs": [
     {
-     "ru": "до́лжный",
-     "it": "dovuto"
+     "ru": "до́лжен",
+     "it": "deve"
     },
     {
      "ru": "ну́жный",
@@ -878,7 +881,8 @@
     }
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001459",
@@ -916,12 +920,13 @@
      "it": "avere voglia di"
     },
     {
-     "ru": "до́лжный",
-     "it": "dovuto"
+     "ru": "до́лжен",
+     "it": "deve"
     }
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001460",

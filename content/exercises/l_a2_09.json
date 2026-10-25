@@ -476,7 +476,7 @@
    ],
    "hint_it": "Tra poco me ne vado."
   },
-  "qa_status": "approved",
+  "qa_status": "pending",
   "qa_note": "QA incerto: in attesa fix frase s_1749706; «сейчас» valido, hint condiviso"
  },
  {
@@ -530,9 +530,9 @@
    "type": "multiple_choice",
    "question": "Сра́зу уходи́.",
    "options": [
-    "Ora vattene.",
-    "Non andartene!",
-    "Dobbiamo andarcene.",
+    "Questi sono nuovi.",
+    "Ce ne siamo andati immediatamente.",
+    "Lei venne immediatamente.",
     "Vattene subito."
    ],
    "correct": 3
@@ -626,7 +626,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "approved",
+  "qa_status": "pending",
   "qa_note": "QA incerto: in attesa fix frase s_1749706"
  },
  {
@@ -679,14 +679,15 @@
    "type": "multiple_choice",
    "question": "Она́ сра́зу пришла́.",
    "options": [
-    "Non è venuto nessuno.",
-    "Alla fine lui arrivò.",
+    "Cos'ha che non va?",
+    "Questo lo ha suggerito lei.",
     "Lei venne immediatamente.",
-    "Noi non verremo."
+    "Lei parla russo."
    ],
    "correct": 2
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001722",

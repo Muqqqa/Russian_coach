@@ -308,7 +308,7 @@
    ],
    "hint_it": "no, si legge «nèt»"
   },
-  "qa_status": "approved",
+  "qa_status": "pending",
   "qa_note": "QA incerto: е/э indistinguibili dalla trascrizione «nèt»"
  },
  {
@@ -424,7 +424,7 @@
    ],
    "hint_it": "bagno, si legge «tualèt»"
   },
-  "qa_status": "approved",
+  "qa_status": "pending",
   "qa_note": "QA incerto: е/э indistinguibili da «tualèt»"
  },
  {
@@ -478,9 +478,9 @@
    "question": "Come si legge la lettera «Я я»?",
    "options": [
     "ia",
-    "n",
-    "s sonora (come in «rosa»)",
-    "b"
+    "io",
+    "iu",
+    "ie"
    ],
    "correct": 0
   },
@@ -538,7 +538,7 @@
   "prompt_it": "Scegli la lettura giusta della parola.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Come si legge «кофе»?",
+   "question": "Come si legge «ко́фе»?",
    "options": [
     "pìvo",
     "privèt",
@@ -547,7 +547,8 @@
    ],
    "correct": 2
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000084",

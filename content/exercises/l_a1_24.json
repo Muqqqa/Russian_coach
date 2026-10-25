@@ -58,14 +58,7 @@
     "Siete la prossima.",
     "Siete la prossima",
     "siete la prossima",
-    "siete la prossima.",
-    "Voi lei è la prossima.",
-    "Voi lei è la prossima",
-    "voi lei è la prossima",
-    "voi lei è la prossima.",
-    "Voi lei e' la prossima.",
-    "voi lei e' la prossima",
-    "voi lei e la prossima"
+    "siete la prossima."
    ]
   },
   "qa_status": "pending",
@@ -641,14 +634,15 @@
    "type": "multiple_choice",
    "question": "Posso entrare?",
    "options": [
-    "Я́ вошёл.",
+    "Мо́жно мне́ три́?",
     "Мо́жно войти́?",
-    "Пожа́луйста, войди́те!",
-    "Мо́жно мне́ три́?"
+    "Помоги́ мне́!",
+    "Извини́те, к Ва́м мо́жно?"
    ],
    "correct": 1
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001342",
@@ -861,7 +855,7 @@
     }
    ]
   },
-  "qa_status": "approved",
+  "qa_status": "pending",
   "qa_note": "QA incerto: in attesa fix frase s_5885621"
  },
  {
@@ -1196,7 +1190,7 @@
     "вы́ сле́дующая"
    ]
   },
-  "qa_status": "approved",
+  "qa_status": "pending",
   "qa_note": "QA incerto: in attesa fix frase s_5885623"
  },
  {

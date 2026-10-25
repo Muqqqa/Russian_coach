@@ -317,7 +317,7 @@
    "question": "Mercoledì sono libera.",
    "options": [
     "В дере́вне его́ лю́бят.",
-    "В среду́ я́ свобо́дна.",
+    "В сре́ду я́ свобо́дна.",
     "У меня́ три́ сы́на.",
     "Я́ спа́л де́вять часо́в."
    ],
@@ -674,7 +674,7 @@
   "prompt_it": "Completa la frase con la parola mancante.",
   "payload": {
    "type": "cloze",
-   "text": "В среду́ я́ ___.",
+   "text": "В сре́ду я́ ___.",
    "answer": "свобо́дна",
    "accepted": [
     "свобо́дна",
@@ -911,12 +911,13 @@
    "options": [
     "velocemente",
     "correttamente",
-    "là",
+    "laggiù",
     "normale"
    ],
    "correct": 3
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001913",
@@ -1405,7 +1406,7 @@
   "payload": {
    "type": "translate",
    "direction": "ru_it",
-   "source": "В среду́ я́ свобо́дна.",
+   "source": "В сре́ду я́ свобо́дна.",
    "answer": "Mercoledì sono libera.",
    "accepted": [
     "Mercoledì sono libera.",

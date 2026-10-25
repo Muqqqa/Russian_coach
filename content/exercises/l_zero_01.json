@@ -114,9 +114,7 @@
    "answer": "та́м",
    "accepted": [
     "та́м",
-    "там",
-    "туда́",
-    "туда"
+    "там"
    ]
   },
   "qa_status": "pending"
@@ -483,7 +481,7 @@
   "prompt_it": "Scegli la lettura giusta della parola.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Come si legge «это»?",
+   "question": "Come si legge «э́то»?",
    "options": [
     "èto",
     "tàm",
@@ -492,7 +490,8 @@
    ],
    "correct": 0
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000017",

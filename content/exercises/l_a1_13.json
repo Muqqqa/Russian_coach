@@ -576,14 +576,15 @@
    "type": "multiple_choice",
    "question": "Ка́к иска́ть те́кст?",
    "options": [
-    "Cercate la donna!",
-    "Sto cercando un bancomat.",
+    "Hai chiesto agli altri?",
+    "Chi cucina per voi?",
     "Come cercare un testo?",
-    "Chi cucina per voi?"
+    "Non riesco a mangiare."
    ],
    "correct": 2
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000935",

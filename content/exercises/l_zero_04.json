@@ -529,14 +529,15 @@
    "type": "multiple_choice",
    "question": "Come si legge la lettera «Ё ё»?",
    "options": [
-    "c dolce",
+    "ie",
     "io",
-    "i",
-    "ia"
+    "ia",
+    "iu"
    ],
    "correct": 1
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000119",
@@ -1491,7 +1492,7 @@
   "prompt_it": "Scegli la lettura giusta della parola.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Come si legge «тоже»?",
+   "question": "Come si legge «то́же»?",
    "options": [
     "privèt",
     "nèt",
@@ -1500,7 +1501,8 @@
    ],
    "correct": 2
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001994",
@@ -1523,10 +1525,10 @@
    "type": "multiple_choice",
    "question": "Quale parola russa si legge «khorosciò»?",
    "options": [
-    "хорошо",
+    "хорошо́",
     "счёт",
-    "ресторан",
-    "пиво"
+    "рестора́н",
+    "пи́во"
    ],
    "correct": 0
   },

@@ -116,7 +116,7 @@
     "о́н сказа́л"
    ]
   },
-  "qa_status": "approved",
+  "qa_status": "pending",
   "qa_note": "QA incerto: in attesa fix frase s_5897084"
  },
  {
@@ -316,7 +316,7 @@
     "им",
     "и́м"
    ],
-   "hint_it": "Diteglielo."
+   "hint_it": "Ditele."
   },
   "qa_status": "pending",
   "qa_note": "QA incerto: ему́ valido"
@@ -645,7 +645,7 @@
     }
    ]
   },
-  "qa_status": "approved",
+  "qa_status": "pending",
   "qa_note": "QA incerto: in attesa fix frase s_5897084"
  },
  {

@@ -581,14 +581,15 @@
    "type": "multiple_choice",
    "question": "Gli uomini stanno andando.",
    "options": [
-    "Сне́г идёт?",
+    "Меня́ понима́ют?",
     "Мужчи́ны иду́т.",
-    "Иди́те ме́дленно.",
-    "Идёт сне́г."
+    "Да, понима́ю!",
+    "Э́то мужчи́на."
    ],
    "correct": 1
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001607",

@@ -621,14 +621,15 @@
    "type": "multiple_choice",
    "question": "Lo faccio subito.",
    "options": [
-    "Сде́лаем э́то.",
-    "Сде́лай ко́фе.",
-    "Сде́лайте ко́фе.",
+    "Како́й сейча́с ме́сяц?",
+    "О́н сейча́с в гости́нице.",
+    "Сейча́с ча́с.",
     "Сейча́с сде́лаю."
    ],
    "correct": 3
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001492",

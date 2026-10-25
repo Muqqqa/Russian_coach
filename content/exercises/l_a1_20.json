@@ -662,13 +662,14 @@
    "question": "Prego, entrate!",
    "options": [
     "Два́, пожа́луйста.",
+    "Говори́ ме́дленнее, пожа́луйста.",
     "Счёт, пожа́луйста!",
-    "Я́ вошёл.",
     "Пожа́луйста, войди́те!"
    ],
    "correct": 3
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001192",

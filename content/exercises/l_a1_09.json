@@ -553,12 +553,13 @@
    "options": [
     "Вы́ кто́?",
     "Кто́ зна́ет?",
-    "Я́ зна́л.",
-    "Не зна́ю."
+    "Кто́ ты́, подру́га?",
+    "Я́ рабо́таю!"
    ],
    "correct": 1
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000783",

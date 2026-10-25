@@ -625,7 +625,7 @@
   "prompt_it": "Scegli la lettura giusta della parola.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Come si legge «мы»?",
+   "question": "Come si legge «мы́»?",
    "options": [
     "ktò",
     "òn",
@@ -634,7 +634,8 @@
    ],
    "correct": 3
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000161",
@@ -1417,6 +1418,39 @@
     "лю́бим"
    ],
    "correct": 1
+  },
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
+ },
+ {
+  "id": "e_002153",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-5"
+  ],
+  "words": [
+   "w_lyubit"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il suono della lettera.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge la lettera «Ю ю»?",
+   "options": [
+    "ie",
+    "ia",
+    "iu",
+    "io"
+   ],
+   "correct": 2
   },
   "qa_status": "pending"
  }

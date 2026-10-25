@@ -14,6 +14,9 @@ OUT = os.path.join(ROOT, "content", "exercises")
 REG = os.path.join(OUT, "scripts", "id_registry.tsv")
 
 W = load_words()
+# aggettivo «должный»: la lezione insegna la forma breve «должен»
+W["w_dolzhnyy"]["stress"] = "до́лжен"
+W["w_dolzhnyy"]["ru"] = "должен"
 S = load_sentences()
 L = load_lessons()
 TOPIC_NAMES = json.load(open(os.path.join(ROOT, "content/curriculum/topics.json")))
@@ -250,7 +253,7 @@ def it_sentence_variants(s):
             if x not in v:
                 v.append(x)
     first = norm(split_core(s["stress"].split(" ")[0])[1]) if split_core(s["stress"].split(" ")[0]) else ""
-    if first in SUBJ and not s["it"].lower().startswith(SUBJ[first].lower() + " "):
+    if first in SUBJ and s["it"].split(" ")[0].lower() not in ("io", "tu", "lui", "lei", "noi", "voi", "loro", "egli", "ella", "essi", "esse"):
         pro = SUBJ[first]
         if first in ("он", "она", "они") and False:
             pass
@@ -352,6 +355,8 @@ def distract_sentences(ctx, s, k, mode):
         # niente parole in comune identiche: stessa lista di parole = quasi sinonimo
         if set(x["words"]) == set(s["words"]) or len(set(x["words"]) & set(s["words"])) >= 2:
             continue
+        if any(W[w]["pos"] == "verb" for w in set(x["words"]) & set(s["words"])):
+            continue
         seen.add(key)
         out.append(x)
         if len(out) == k:
@@ -387,7 +392,8 @@ def b_sent_mc(ctx):
 def word_distractors(ctx, wid, k, rnd, what):
     w = W[wid]
     mine = gl_set(wid)
-    cand = [x for x in ctx["K"] if x in G and x != wid and not (gl_set(x) & mine) and x not in UNS]
+    cand = [x for x in ctx["K"] if x in G and x != wid and not (gl_set(x) & mine) and x not in UNS
+            and frozenset((x, wid)) not in D.DISTRACT_BAN]
     same = [x for x in cand if W[x]["pos"] == w["pos"]]
     pool = same if len(same) >= k else cand
     pool = sorted(pool)
@@ -514,7 +520,7 @@ def g_verbs(ctx):
         if w["pos"] != "verb" or wid not in G:
             continue
         fs = w.get("forms") or {}
-        noconj = wid in NO_CONJ
+        noconj = wid in NO_CONJ or "verbs-present" not in cum_tags(ctx)
         keys = ["presfut_1sg", "presfut_2sg", "presfut_3sg", "presfut_1pl", "presfut_2pl", "presfut_3pl"]
         forms_ = [form(wid, k) for k in keys]
         if all(forms_) and not noconj:
@@ -546,7 +552,7 @@ def g_plurals(ctx):
         return items
     for wid in ctx["nw"]:
         w = W[wid]
-        if w["pos"] != "noun" or wid not in G:
+        if w["pos"] != "noun" or wid not in G or wid in D.NO_PLURAL:
             continue
         ans = form(wid, "nom_pl")
         if not ans or ans == form(wid, "nom_sg"):
@@ -746,7 +752,9 @@ def b_alpha(ctx):
             else:
                 look = []
             rnd.shuffle(ds)
-            ds = (look + ds)[:3]
+            sim = [x for x in D.SIMILAR.get(U, []) if x != snd]
+            ds = (look + sim + ds)[:3]
+            ds = list(dict.fromkeys(ds))
             if len(ds) == 3:
                 opts, ci = shuffle_options([snd] + ds, snd, rnd)
                 q = "Come si legge la lettera «%s %s»?" % (U, l_)
@@ -843,7 +851,7 @@ def b_alpha(ctx):
         if len(dd) == 3:
             opts, ci = shuffle_options([tr] + dd, tr, rnd)
             res["multiple_choice"].append(mkex(ctx, "multiple_choice", "read", wid, 1, "Scegli la lettura giusta della parola.",
-                                               {"type": "multiple_choice", "question": "Come si legge «%s»?" % plain(w["ru"]), "options": opts, "correct": ci},
+                                               {"type": "multiple_choice", "question": "Come si legge «%s»?" % w["stress"], "options": opts, "correct": ci},
                                                [wid], 12))
         # lettura inversa: dalla trascrizione alla parola russa
         oth_ru = [x for x in others if plain(W[x]["ru"]) != plain(w["ru"])]
@@ -851,12 +859,12 @@ def b_alpha(ctx):
         for x in oth_ru:
             if plain(W[x]["ru"]) not in seen2 and " " not in W[x]["ru"]:
                 seen2.add(plain(W[x]["ru"]))
-                dd2.append(plain(W[x]["ru"]))
+                dd2.append(W[x]["stress"])
             if len(dd2) == 3:
                 break
         if len(dd2) == 3 and " " not in w["ru"]:
             r4 = rng_for(SEED, ctx["id"], wid, "readrev")
-            opts4, ci4 = shuffle_options([plain(w["ru"])] + dd2, plain(w["ru"]), r4)
+            opts4, ci4 = shuffle_options([w["stress"]] + dd2, w["stress"], r4)
             res["multiple_choice"].append(mkex(ctx, "multiple_choice", "read_rev", wid, 1, "Scegli la parola russa che corrisponde alla lettura.",
                                                {"type": "multiple_choice", "question": "Quale parola russa si legge «%s»?" % tr, "options": opts4, "correct": ci4},
                                                [wid], 12))
@@ -1103,10 +1111,16 @@ def main():
         for c in chosen:
             e = finalize(ctx, c)
             o = old.get(e["id"])
-            if o and o.get("qa_status") in ("approved", "rejected"):
-                e["qa_status"] = o["qa_status"]
+            if o and o.get("qa_status") == "rejected":
+                e["qa_status"] = "rejected"
                 if o.get("qa_note"):
                     e["qa_note"] = o["qa_note"]
+            elif o and o.get("qa_status") == "approved":
+                if o["payload"] == e["payload"]:
+                    e["qa_status"] = "approved"
+                else:
+                    e["qa_status"] = "pending"
+                    e["qa_note"] = "Corretto dopo QA (batch 3): da ricontrollare."
             elif o and o.get("qa_note"):
                 e["qa_note"] = o["qa_note"]
             final_by_id[e["id"]] = e
@@ -1129,6 +1143,17 @@ def main():
             if eid in final_by_id and final_by_id[eid]["qa_status"] != "rejected":
                 final_by_id[eid]["qa_status"] = "pending"
                 final_by_id[eid]["qa_note"] = "QA incerto: " + "; ".join(reasons)
+    bp = os.path.join(ROOT, "qa", "exercises_batch3.json")
+    if os.path.exists(bp):
+        b3 = json.load(open(bp, encoding="utf-8"))
+        for x in b3.get("fix", []):
+            e = final_by_id.get(x["id"])
+            if e and e["qa_status"] != "rejected":
+                e["qa_status"] = "pending"
+        for eid in b3.get("incerto", []):
+            e = final_by_id.get(eid)
+            if e and e["qa_status"] != "rejected":
+                e["qa_status"] = "pending"
     by_lesson = collections.defaultdict(list)
     for e in final_by_id.values():
         by_lesson[e["lesson"]].append(e)

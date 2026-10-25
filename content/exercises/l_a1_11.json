@@ -18,15 +18,16 @@
    "type": "translate",
    "direction": "ru_it",
    "source": "туда́",
-   "answer": "là",
+   "answer": "laggiù",
    "accepted": [
-    "là",
-    "la",
     "laggiù",
-    "laggiu"
+    "laggiu",
+    "verso là",
+    "verso la"
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000837",
@@ -204,16 +205,15 @@
   "payload": {
    "type": "translate",
    "direction": "it_ru",
-   "source": "là",
+   "source": "laggiù",
    "answer": "туда́",
    "accepted": [
     "туда́",
-    "та́м",
-    "там",
     "туда"
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000843",
@@ -499,7 +499,7 @@
     "идти́",
     "идти"
    ],
-   "hint_it": "Il viaggio è lungo?"
+   "hint_it": "Ci vuole molto ad andare (in macchina)?"
   },
   "qa_status": "pending",
   "qa_note": "QA incerto: идти́ valido"
@@ -591,7 +591,7 @@
     "molto",
     "sottovoce",
     "non lontano",
-    "là"
+    "laggiù"
    ],
    "correct": 3
   },
@@ -621,12 +621,13 @@
    "options": [
     "Ва́м идёт.",
     "Вы́ рабо́таете?",
-    "Смотри́! Идёт!",
-    "Вы́ друзья́?"
+    "Вы́ друзья́?",
+    "Вы́ бра́тья?"
    ],
    "correct": 0
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000857",
@@ -636,10 +637,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tuda"
   ],
@@ -648,12 +646,12 @@
   "prompt_it": "Scegli la parola russa giusta.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Come si dice «verso là» in russo?",
+   "question": "Come si dice «laggiù» in russo?",
    "options": [
     "ма́ло",
     "туда́",
     "вку́сно",
-    "по-ру́сски"
+    "свобо́дно"
    ],
    "correct": 1
   },
@@ -790,11 +788,12 @@
     },
     {
      "ru": "туда́",
-     "it": "là"
+     "it": "laggiù"
     }
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000862",
@@ -1074,11 +1073,12 @@
     },
     {
      "ru": "туда́",
-     "it": "là"
+     "it": "laggiù"
     }
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000868",
@@ -1253,13 +1253,14 @@
   "payload": {
    "type": "dictation",
    "text": "туда́",
-   "translation_it": "là",
+   "translation_it": "laggiù",
    "accepted": [
     "туда́",
     "туда"
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000874",
@@ -1403,13 +1404,14 @@
    "type": "multiple_choice",
    "question": "Идём туда́!",
    "options": [
-    "Guarda! Sta arrivando!",
-    "Vai senza di me.",
+    "Mi piace il caffè.",
+    "Sta aspettando.",
     "Andiamo là!",
-    "Vi sta bene."
+    "Grazie mille!"
    ],
    "correct": 2
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  }
 ]

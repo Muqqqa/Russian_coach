@@ -479,13 +479,14 @@
    "question": "Е́сли хо́чешь говори́ть, говори́.",
    "options": [
     "Se vuoi parlare, parla.",
-    "Ho sete.",
-    "Volere è potere.",
-    "Volere vuol dire potere."
+    "Perché lui è così calmo?",
+    "Salve. Cosa posso fare per voi?",
+    "Funziona ancora a volte."
    ],
    "correct": 0
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001257",
@@ -541,12 +542,13 @@
    "options": [
     "Я́ зде́сь до́льше, чем ты́.",
     "Здра́вствуйте. Чем могу́ помо́чь?",
-    "Не могу́ ку́шать.",
-    "Ва́с ничто́ не мо́жет останови́ть."
+    "Я́ иду́ к ва́м.",
+    "Я́ никогда́ не боле́ю."
    ],
    "correct": 1
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001259",
@@ -660,14 +662,15 @@
    "type": "multiple_choice",
    "question": "Se vuoi parlare, parla.",
    "options": [
-    "Я́ пра́вильно говорю́?",
-    "Ты́ говори́шь по-ру́сски?",
-    "Вы́ говори́те по-ру́сски?",
+    "О́н сейча́с в гости́нице.",
+    "Без пяти́ мину́т четы́ре.",
+    "Почему́ о́н тако́й ти́хий?",
     "Е́сли хо́чешь говори́ть, говори́."
    ],
    "correct": 3
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001263",

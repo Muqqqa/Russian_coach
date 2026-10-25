@@ -396,8 +396,8 @@
 "ora"
 ],
 "w_tuda": [
-"là",
-"laggiù"
+"laggiù",
+"verso là"
 ],
 "w_syuda": [
 "verso qui"
@@ -444,8 +444,8 @@
 "essere"
 ],
 "w_dolzhnyy": [
-"dovuto",
-"che deve"
+"deve",
+"tenuto a"
 ],
 "w_nuzhnyy": [
 "necessario"

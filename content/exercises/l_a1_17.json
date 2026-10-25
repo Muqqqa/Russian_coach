@@ -1150,14 +1150,15 @@
    "type": "multiple_choice",
    "question": "Сне́г идёт?",
    "options": [
-    "Andiamo là!",
-    "Pioveva.",
-    "Camminate lentamente.",
+    "Dov'è il sole?",
+    "Lì fa freddo.",
+    "Lì nevica.",
     "Sta nevicando?"
    ],
    "correct": 3
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_002054",

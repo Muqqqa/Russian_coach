@@ -1402,7 +1402,8 @@
    ],
    "hint_it": "Plurale di «гру́дь» (petto)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_002140",
@@ -1561,7 +1562,7 @@
     },
     {
      "ru": "туда́",
-     "it": "là"
+     "it": "laggiù"
     },
     {
      "ru": "ребёнок",
@@ -1569,7 +1570,8 @@
     }
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_002144",
@@ -1615,5 +1617,34 @@
    ]
   },
   "qa_status": "approved"
+ },
+ {
+  "id": "e_002154",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative"
+  ],
+  "words": [
+   "w_serdtse"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "се́рдце → plurale (nominativo): ___",
+   "answer": "сердца́",
+   "accepted": [
+    "сердца́",
+    "сердца"
+   ],
+   "hint_it": "Plurale di «се́рдце» (cuore)."
+  },
+  "qa_status": "pending"
  }
 ]

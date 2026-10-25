@@ -247,15 +247,16 @@
    "type": "translate",
    "direction": "ru_it",
    "source": "Все́ вокру́г лю́бят меня́.",
-   "answer": "Piaccio a tutti qui intorno.",
+   "answer": "Tutti qui intorno mi vogliono bene.",
    "accepted": [
-    "Piaccio a tutti qui intorno.",
-    "Piaccio a tutti qui intorno",
-    "piaccio a tutti qui intorno",
-    "piaccio a tutti qui intorno."
+    "Tutti qui intorno mi vogliono bene.",
+    "Tutti qui intorno mi vogliono bene",
+    "tutti qui intorno mi vogliono bene",
+    "tutti qui intorno mi vogliono bene."
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001787",
@@ -578,11 +579,12 @@
     "Al gatto piace dormire accanto a me.",
     "Questo è il villaggio dove sono nata.",
     "Salve, posso aiutarVi?",
-    "Nel villaggio lo amano."
+    "Vorresti che me ne andassi?"
    ],
    "correct": 0
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001798",
@@ -1463,7 +1465,7 @@
     },
     {
      "ru": "Все́ вокру́г лю́бят меня́.",
-     "it": "Piaccio a tutti qui intorno."
+     "it": "Tutti qui intorno mi vogliono bene."
     }
    ]
   },

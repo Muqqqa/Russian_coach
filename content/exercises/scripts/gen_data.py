@@ -184,6 +184,16 @@ SENT_IT_FIX = {
     "s_1749706": "Tra poco me ne vado.",
     "s_1749708": "Me ne vado presto.",
     "s_1749710": "Me ne vado adesso.",
+    "s_7009662": "Ditele.",
+    "s_6830561": "Ecco come!",
+    "s_4440584": "Me ne sono andato a casa.",
+    "s_3291139": "Lui è pulito.",
+    "s_3291140": "Lei è pulita.",
+    "s_6950778": "Ci vuole molto ad andare (in macchina)?",
+    "s_7002338": "Mi si capisce?",
+    "s_6200280": "Mi fa male la mano.",
+    "s_5594776": "Chi è andato con voi?",
+    "s_5661124": "Tutti qui intorno mi vogliono bene.",
 }
 # varianti italiane aggiuntive accettate (oltre alla traduzione corretta)
 SENT_IT_ALT = {
@@ -192,6 +202,9 @@ SENT_IT_ALT = {
     "s_2343994": ["Cerca la donna!"],
     "s_1749706": ["Sto per andarmene."],
     "s_1749710": ["Sto per andarmene."],
+    "s_7009662": ["Diteglielo."], "s_6830561": ["Addirittura!"], "s_4440584": ["Sono andato a casa."],
+    "s_3291139": ["È pulito."], "s_3291140": ["È pulita."], "s_6950778": ["Il viaggio è lungo?"],
+    "s_6200280": ["Mi fa male un braccio.", "Mi fa male il braccio."], "s_5594776": ["Chi è venuto con voi?"],
     "s_5885621": ["Siete il prossimo."],
     "s_5885623": ["Siete la prossima."],
 }
@@ -204,6 +217,7 @@ IT_AMBIG_RE = r"^(È|Sono|Era|Erano|Siete|Sei|Ho|Dov'è|Dove sono|Eccolo|Eccola)
 EXTRA_CLOZE = {
     "___ де́ти.": ["Э́то", "Это", "это"],
     "Вы́ ___.": ["у́мный", "умный"],
+    "___, к Ва́м мо́жно?": ["Прости́те", "Простите", "простите"],
     "Я́ ___!": ["голо́дный", "голодный"],
     "До́лго ___?": ["идти́", "идти"],
     "___, я́ без часо́в.": ["Прости́те", "Простите", "простите"],
@@ -239,6 +253,7 @@ IT_GENDER["lavoro"] = "m"
 IT_GENDER["tempo atmosferico"] = "m"
 IT_GENDER["città"] = "f"
 IT_GENDER["labbro"] = "m"
+IT_GENDER["faccia"] = "f"
 
 # coppie aggettivo+nome per l'accordo (lezione, aggettivo, nome, genere del nome): cornice «Э́то ___ <nome>.»
 ADJ_PAIRS = [
@@ -277,3 +292,10 @@ TAG_OVERRIDE = {("l_zero_12", "genitive"): "u-menya-est", ("l_a1_01", "accusativ
                 ("l_a1_20", "prepositional-case"): "prepositional-transport", ("l_a1_15", "genitive"): "genitive",
                 ("l_a2_10", "prepositional-case"): "locative-u", ("l_a1_14", "accusative"): "accusative-animate",
                 ("l_a2_11", "genitive"): "prepositions-place", ("l_a2_11", "instrumental-case"): "instrumental-case"}
+
+# lettere con suoni vicini (distrattori plausibili per «Come si legge la lettera ...?»)
+SIMILAR = {"Я": ["ie", "io", "iu"], "Е": ["ia", "io", "iu"], "Ё": ["ia", "ie", "iu"], "Ю": ["ia", "ie", "io"],
+           "И": ["y (i all'indietro)", "ie", "j (i breve)"], "Э": ["ie", "a", "e chiusa"]}
+# coppie di parole che non vanno mai usate come distrattore l'una dell'altra (quasi sinonimi)
+DISTRACT_BAN = {frozenset(p) for p in [("w_tam", "w_tuda"), ("w_zdes", "w_syuda"), ("w_daleko", "w_dalyokiy"), ("w_nedaleko", "w_nedalyokiy")]}
+NO_PLURAL = {"w_grud"}

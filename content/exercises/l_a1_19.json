@@ -653,11 +653,12 @@
     "correttamente",
     "sempre",
     "così",
-    "là"
+    "laggiù"
    ],
    "correct": 1
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001156",

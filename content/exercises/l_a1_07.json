@@ -804,14 +804,15 @@
    "type": "multiple_choice",
    "question": "Говори́те ме́дленнее, пожа́луйста.",
    "options": [
-    "Parli russo?",
+    "Due, per favore.",
     "Due caffè, per piacere.",
-    "Lei parla russo.",
+    "Il conto, per favore.",
     "Parlate più piano, per favore."
    ],
    "correct": 3
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000700",
@@ -952,7 +953,7 @@
     }
    ]
   },
-  "qa_status": "approved",
+  "qa_status": "pending",
   "qa_note": "QA incerto: in attesa fix frase s_6480750"
  },
  {

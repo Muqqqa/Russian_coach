@@ -55,14 +55,7 @@
     "lei è padre?",
     "Lei e' padre?",
     "lei e' padre",
-    "lei e padre",
-    "Voi lei è padre?",
-    "Voi lei è padre",
-    "voi lei è padre",
-    "voi lei è padre?",
-    "Voi lei e' padre?",
-    "voi lei e' padre",
-    "voi lei e padre"
+    "lei e padre"
    ]
   },
   "qa_status": "pending",
@@ -982,7 +975,7 @@
     }
    ]
   },
-  "qa_status": "approved",
+  "qa_status": "pending",
   "qa_note": "QA incerto: in attesa fix frase s_12783171"
  },
  {
@@ -1288,7 +1281,7 @@
     "вы́ оте́ц"
    ]
   },
-  "qa_status": "approved",
+  "qa_status": "pending",
   "qa_note": "QA incerto: in attesa fix frase s_12783171"
  },
  {

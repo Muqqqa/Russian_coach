@@ -220,11 +220,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona",
    "w_chistyy"
@@ -235,7 +231,7 @@
   "payload": {
    "type": "translate",
    "direction": "it_ru",
-   "source": "È pulita.",
+   "source": "Lei è pulita.",
    "answer": "Она́ чи́стая.",
    "accepted": [
     "Она́ чи́стая.",
@@ -338,7 +334,7 @@
     "это",
     "э́то"
    ],
-   "hint_it": "È pulito."
+   "hint_it": "Lui è pulito."
   },
   "qa_status": "pending",
   "qa_note": "QA incerto: Он/Оно/Это"
@@ -399,9 +395,10 @@
     "чи́стый",
     "чистый"
    ],
-   "hint_it": "È pulito."
+   "hint_it": "Lui è pulito."
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001672",
@@ -527,7 +524,7 @@
     "это",
     "э́то"
    ],
-   "hint_it": "È pulita."
+   "hint_it": "Lei è pulita."
   },
   "qa_status": "pending",
   "qa_note": "QA incerto: Она/Это"
@@ -1123,7 +1120,7 @@
   "payload": {
    "type": "dictation",
    "text": "О́н чи́стый.",
-   "translation_it": "È pulito.",
+   "translation_it": "Lui è pulito.",
    "accepted": [
     "О́н чи́стый.",
     "О́н чи́стый",
@@ -1134,7 +1131,8 @@
     "о́н чи́стый"
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001692",
@@ -1536,14 +1534,15 @@
    "type": "multiple_choice",
    "question": "О́чередь была́ дли́нной.",
    "options": [
-    "Di notte c'è stata neve.",
+    "Ho scritto questo.",
     "La coda era lunga.",
-    "Ieri era domenica.",
-    "Ieri era mercoledì."
+    "Ho i biglietti.",
+    "Questo lo ha suggerito lei."
    ],
    "correct": 1
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_002120",

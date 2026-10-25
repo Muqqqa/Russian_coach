@@ -665,14 +665,15 @@
    "type": "multiple_choice",
    "question": "Кто́ принёс пи́во?",
    "options": [
-    "Ho portato del vino.",
-    "Chi ha portato la birra?",
     "Gli piace la birra?",
-    "Chi sei, amica?"
+    "Chi ha portato la birra?",
+    "Chi sei, amica?",
+    "Chi cucina per voi?"
    ],
    "correct": 1
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001573",

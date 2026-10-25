@@ -1139,11 +1139,12 @@
     },
     {
      "ru": "туда́",
-     "it": "là"
+     "it": "laggiù"
     }
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_001959",

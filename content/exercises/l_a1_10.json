@@ -552,14 +552,15 @@
    "type": "multiple_choice",
    "question": "Loro pagano bene.",
    "options": [
-    "Где́ они́?",
-    "И́м пла́тят?",
+    "Они́ ма́ленькие.",
+    "Они́ де́ти.",
     "Они́ хорошо́ пла́тят.",
-    "Ско́лько тебе́ пла́тят?"
+    "Где́ они́?"
    ],
    "correct": 2
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000819",
@@ -639,14 +640,15 @@
    "type": "multiple_choice",
    "question": "Ко́шка спи́т.",
    "options": [
-    "Dormiamo.",
-    "Lui dorme?",
-    "Dormivo.",
+    "Questa è acqua.",
+    "Vuoi una mano?",
+    "Sono malato.",
     "Il gatto sta dormendo."
    ],
    "correct": 3
   },
-  "qa_status": "approved"
+  "qa_status": "pending",
+  "qa_note": "Corretto dopo QA (batch 3): da ricontrollare."
  },
  {
   "id": "e_000822",
