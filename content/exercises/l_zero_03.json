@@ -1364,6 +1364,37 @@
     "э́то я́"
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
+ },
+ {
+  "id": "e_002161",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3"
+  ],
+  "words": [
+   "w_ya"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 10,
+  "prompt_it": "Ascolta e scrivi la sillaba in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ху́",
+   "translation_it": "sillaba «khu»",
+   "accepted": [
+    "ху",
+    "ху́",
+    "ХУ",
+    "Ху"
+   ]
+  },
+  "qa_status": "pending"
  }
 ]
