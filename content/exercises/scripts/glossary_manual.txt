@@ -497,7 +497,8 @@
 "qualcosa"
 ],
 "w_dvoe": [
-"due (persone)"
+"due (persone)",
+"due persone"
 ],
 "w_oba": [
 "entrambi"

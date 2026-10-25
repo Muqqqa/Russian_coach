@@ -74,7 +74,7 @@ export function WordLine({ word }: { word: Word }) {
       <span className="translit">[{word.translit}]</span>
       <span>
         = {g.text}
-        {g.lang === "en" && <span className="muted small"> (in inglese: manca la traduzione italiana)</span>}
+        {g.lang === "en" && <span className="muted small"> (in inglese)</span>}
       </span>
       <SpeakButton text={word.stress} label="Ascolta" />
     </div>
