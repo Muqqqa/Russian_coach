@@ -7,10 +7,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_serdtse"
   ],
@@ -25,9 +22,7 @@
    "accepted": [
     "cuore",
     "il cuore",
-    "un cuore",
-    "la cuore",
-    "una cuore"
+    "un cuore"
    ]
   },
   "qa_status": "pending"
@@ -42,10 +37,7 @@
    "azioni",
    "direzioni"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_lezhat",
@@ -70,7 +62,7 @@
     "lui e sdraiato sulla schiena"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001861",
@@ -80,10 +72,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_plecho"
   ],
@@ -100,7 +89,7 @@
     "плечо"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001862",
@@ -110,10 +99,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u",
    "w_koshka",
@@ -138,7 +124,7 @@
     "у ко́шек два́ у́ха"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001863",
@@ -148,10 +134,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_grud"
   ],
@@ -169,7 +152,7 @@
     "un petto"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001864",
@@ -179,10 +162,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_na",
    "w_ruka",
@@ -204,7 +184,7 @@
     "la mano ha cinque dita."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001865",
@@ -214,10 +194,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_spina"
   ],
@@ -234,7 +211,7 @@
     "спина"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001866",
@@ -276,7 +253,8 @@
     "у меня темные волосы"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001867",
@@ -286,10 +264,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ukho"
   ],
@@ -307,7 +282,7 @@
     "un orecchio"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001868",
@@ -318,8 +293,6 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "plural-irregular",
    "plural-nominative"
   ],
   "words": [
@@ -338,7 +311,7 @@
    ],
    "hint_it": "Plurale di «но́с» (naso)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001869",
@@ -348,10 +321,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ukho"
   ],
@@ -368,7 +338,7 @@
    ],
    "hint_it": "I gatti hanno due orecchie."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001870",
@@ -379,8 +349,6 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "plural-irregular",
    "plural-nominative"
   ],
   "words": [
@@ -399,7 +367,7 @@
    ],
    "hint_it": "Plurale di «плечо́» (spalla)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001871",
@@ -409,10 +377,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_volos"
   ],
@@ -429,7 +394,7 @@
    ],
    "hint_it": "I suoi capelli sono lunghi."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001872",
@@ -440,8 +405,6 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "plural-irregular",
    "plural-nominative"
   ],
   "words": [
@@ -460,7 +423,7 @@
    ],
    "hint_it": "Plurale di «спина́» (schiena)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001873",
@@ -490,7 +453,8 @@
    ],
    "hint_it": "Lei ha un grande seno."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: Commento sul seno di una donna: contenuto sessualizzato"
  },
  {
   "id": "e_001874",
@@ -501,8 +465,6 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "plural-irregular",
    "plural-nominative"
   ],
   "words": [
@@ -521,7 +483,7 @@
    ],
    "hint_it": "Plurale di «па́лец» (dito)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001875",
@@ -531,10 +493,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ruka"
   ],
@@ -551,7 +510,7 @@
    ],
    "hint_it": "La mano ha cinque dita."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001876",
@@ -562,8 +521,6 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "plural-irregular",
    "plural-nominative"
   ],
   "words": [
@@ -582,7 +539,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001877",
@@ -594,10 +551,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u",
    "w_ona",
@@ -612,7 +566,7 @@
    "question": "У неё дли́нные во́лосы.",
    "options": [
     "I suoi capelli sono lunghi.",
-    "Non riesco a fermarla.",
+    "Oggi è giovedì.",
     "Mi fanno male le orecchie.",
     "Qual è il Vostro hobby?"
    ],
@@ -628,10 +582,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nos"
   ],
@@ -642,9 +593,9 @@
    "type": "multiple_choice",
    "question": "Che cosa significa «но́с»?",
    "options": [
-    "albergo",
-    "angolo",
-    "sabato",
+    "uscita",
+    "classe",
+    "tempesta",
     "naso"
    ],
    "correct": 3
@@ -660,8 +611,6 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "plural-irregular",
    "gender"
   ],
   "words": [
@@ -680,7 +629,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001880",
@@ -716,7 +665,8 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: Commento sul seno di una donna: contenuto sessualizzato"
  },
  {
   "id": "e_001881",
@@ -726,10 +676,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ukho"
   ],
@@ -740,9 +687,9 @@
    "type": "multiple_choice",
    "question": "Come si dice «orecchio» in russo?",
    "options": [
-    "рабо́та",
-    "число́",
-    "метро́",
+    "гру́дь",
+    "дво́р",
+    "во́лос",
     "у́хо"
    ],
    "correct": 3
@@ -758,8 +705,6 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "plural-irregular",
    "plural-nominative"
   ],
   "words": [
@@ -779,7 +724,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001883",
@@ -790,10 +735,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_u",
@@ -809,9 +751,9 @@
    "question": "Что́ у Ва́с за спино́й?",
    "options": [
     "Cosa avete dietro la schiena?",
-    "Cosa avete contro di lei?",
-    "Lei ha i capelli fino alle spalle.",
-    "Per noi tutto come al solito."
+    "Per noi tutto come al solito.",
+    "Salve, posso aiutarVi?",
+    "Siete ancora in piedi?"
    ],
    "correct": 0
   },
@@ -825,10 +767,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_plecho",
    "w_nos",
@@ -864,7 +803,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001885",
@@ -912,7 +851,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001886",
@@ -966,7 +906,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001887",
@@ -976,10 +917,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zub",
    "w_grud",
@@ -1010,7 +948,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001888",
@@ -1058,7 +996,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001889",
@@ -1113,7 +1052,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001890",
@@ -1123,10 +1063,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_serdtse",
    "w_spina",
@@ -1162,7 +1099,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001891",
@@ -1171,12 +1108,10 @@
   "difficulty": 5,
   "topics": [
    "direzioni",
-   "grammatica"
+   "grammatica",
+   "salute"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u",
    "w_ya",
@@ -1200,7 +1135,7 @@
     "у меня́ боли́т зу́б"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001892",
@@ -1210,10 +1145,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nos"
   ],
@@ -1229,7 +1161,7 @@
     "нос"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001893",
@@ -1238,12 +1170,10 @@
   "difficulty": 5,
   "topics": [
    "direzioni",
-   "grammatica"
+   "grammatica",
+   "salute"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u",
    "w_ya",
@@ -1267,7 +1197,7 @@
     "у меня́ боля́т у́ши"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001894",
@@ -1277,10 +1207,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_volos"
   ],
@@ -1296,7 +1223,7 @@
     "волос"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001895",
@@ -1306,10 +1233,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u",
    "w_koshka",
@@ -1333,7 +1257,7 @@
     "у ко́шек два́ у́ха"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001896",
@@ -1343,10 +1267,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zub"
   ],
@@ -1362,7 +1283,7 @@
     "зуб"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001897",
@@ -1373,10 +1294,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_u",
@@ -1401,7 +1319,7 @@
     "что́ у ва́с за спино́й"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001898",
@@ -1411,10 +1329,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "plural-irregular"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ukho"
   ],
@@ -1428,6 +1343,275 @@
    "accepted": [
     "у́хо",
     "ухо"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002138",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_nos"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "но́с",
+   "answer": "naso",
+   "accepted": [
+    "naso",
+    "il naso",
+    "un naso"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002139",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative"
+  ],
+  "words": [
+   "w_grud"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "гру́дь → plurale (nominativo): ___",
+   "answer": "гру́ди",
+   "accepted": [
+    "гру́ди",
+    "груди"
+   ],
+   "hint_it": "Plurale di «гру́дь» (petto)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002140",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "plural-nominative"
+  ],
+  "words": [
+   "w_ukho"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 14,
+  "prompt_it": "Scegli il nominativo plurale.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "у́хо → plurale (nominativo): ___ — Plurale di «у́хо» (orecchio).",
+   "options": [
+    "у́хо",
+    "у́ши",
+    "уше́й",
+    "у́ха"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002141",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_serdtse",
+   "w_spina",
+   "w_palets",
+   "w_zub"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "се́рдце",
+     "it": "cuore"
+    },
+    {
+     "ru": "спина́",
+     "it": "schiena"
+    },
+    {
+     "ru": "па́лец",
+     "it": "dito"
+    },
+    {
+     "ru": "зу́б",
+     "it": "dente"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002142",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "colori"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_u",
+   "w_ona",
+   "w_belyy",
+   "w_zub",
+   "w_slushat",
+   "w_svoy"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "У неё бе́лые зу́бы.",
+     "it": "Ha i denti bianchi."
+    },
+    {
+     "ru": "Слу́шайте своё се́рдце.",
+     "it": "Ascoltate il vostro cuore."
+    },
+    {
+     "ru": "У ко́шек два́ у́ха.",
+     "it": "I gatti hanno due orecchie."
+    },
+    {
+     "ru": "У меня́ боля́т у́ши.",
+     "it": "Mi fanno male le orecchie."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002143",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_volos",
+   "w_grud",
+   "w_zub",
+   "w_nosok",
+   "w_tuda",
+   "w_rebyonok"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "во́лос",
+     "it": "capello"
+    },
+    {
+     "ru": "гру́дь",
+     "it": "petto"
+    },
+    {
+     "ru": "зу́б",
+     "it": "dente"
+    },
+    {
+     "ru": "носо́к",
+     "it": "calzino"
+    },
+    {
+     "ru": "туда́",
+     "it": "là"
+    },
+    {
+     "ru": "ребёнок",
+     "it": "bambino"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002144",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "natura"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_kak",
+   "w_plecho",
+   "w_serdtse",
+   "w_ne",
+   "w_kamen",
+   "w_u"
+  ],
+  "lesson": "l_a2_13",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Ка́к плечо́?",
+     "it": "Come sta la spalla?"
+    },
+    {
+     "ru": "Се́рдце не ка́мень.",
+     "it": "Il cuore non è di pietra."
+    },
+    {
+     "ru": "У него́ дли́нные во́лосы.",
+     "it": "I suoi capelli sono lunghi."
+    },
+    {
+     "ru": "У меня́ тёмные во́лосы.",
+     "it": "Ho i capelli scuri."
+    }
    ]
   },
   "qa_status": "pending"

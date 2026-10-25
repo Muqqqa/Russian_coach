@@ -7,11 +7,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pyatnitsa"
   ],
@@ -30,7 +26,7 @@
     "venerdi"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000434",
@@ -40,11 +36,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_segodnya",
    "w_sreda"
@@ -67,7 +59,7 @@
     "oggi e mercoledi"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000435",
@@ -77,11 +69,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vtornik"
   ],
@@ -98,7 +86,7 @@
     "вторник"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000436",
@@ -108,11 +96,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zavtra",
    "w_ponedelnik"
@@ -135,7 +119,7 @@
     "за́втра понеде́льник"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000437",
@@ -145,11 +129,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zavtra"
   ],
@@ -165,7 +145,7 @@
     "domani"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000438",
@@ -175,11 +155,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_segodnya",
    "w_voskresene"
@@ -202,7 +178,7 @@
     "oggi e domenica"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000439",
@@ -212,11 +188,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chetverg"
   ],
@@ -233,7 +205,7 @@
     "четверг"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000440",
@@ -270,7 +242,8 @@
     "сего́дня суббо́та"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000441",
@@ -280,11 +253,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_voskresene"
   ],
@@ -302,7 +271,7 @@
     "una domenica"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000442",
@@ -313,10 +282,7 @@
    "tempo"
   ],
   "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time",
-   "accusative"
+   "accusative-time"
   ],
   "words": [
    "w_pyatnitsa"
@@ -334,7 +300,7 @@
    ],
    "hint_it": "Lavoriamo il venerdì."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000443",
@@ -344,11 +310,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_subbota"
   ],
@@ -365,7 +327,7 @@
    ],
    "hint_it": "È sabato oggi."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000444",
@@ -375,11 +337,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_segodnya"
   ],
@@ -398,7 +356,7 @@
    ],
    "hint_it": "Oggi è mercoledì."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000445",
@@ -408,11 +366,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sreda"
   ],
@@ -429,7 +383,7 @@
    ],
    "hint_it": "Oggi è mercoledì."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000446",
@@ -439,11 +393,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zavtra"
   ],
@@ -462,7 +412,7 @@
    ],
    "hint_it": "Domani è lunedì."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000447",
@@ -472,11 +422,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_segodnya"
   ],
@@ -495,7 +441,7 @@
    ],
    "hint_it": "Oggi è giovedì."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000448",
@@ -505,11 +451,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zavtra"
   ],
@@ -528,7 +470,7 @@
    ],
    "hint_it": "Domani è martedì."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000449",
@@ -538,11 +480,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_segodnya"
   ],
@@ -561,7 +499,7 @@
    ],
    "hint_it": "È sabato oggi."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000450",
@@ -572,10 +510,7 @@
    "tempo"
   ],
   "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time",
-   "accusative"
+   "accusative-time"
   ],
   "words": [
    "w_sreda"
@@ -594,7 +529,8 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: accento di \"в среду\": standard \"в сре́ду\" (stress sul tema); il dato ha \"среду́\" (probabile errore, ~85%)"
  },
  {
   "id": "e_000451",
@@ -604,11 +540,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_segodnya",
    "w_subbota"
@@ -620,10 +552,10 @@
    "type": "multiple_choice",
    "question": "Сего́дня суббо́та.",
    "options": [
-    "Oggi è venerdì.",
-    "Oggi fa caldo.",
+    "Domani è sabato?",
+    "Domani è sabato.",
     "È sabato oggi.",
-    "Oggi è martedì."
+    "Oggi è mercoledì."
    ],
    "correct": 2
   },
@@ -637,11 +569,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vchera"
   ],
@@ -659,7 +587,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000453",
@@ -670,9 +598,6 @@
    "tempo"
   ],
   "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time",
    "gender"
   ],
   "words": [
@@ -691,7 +616,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000454",
@@ -701,11 +626,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_segodnya",
    "w_chetverg"
@@ -717,10 +638,10 @@
    "type": "multiple_choice",
    "question": "Oggi è giovedì.",
    "options": [
-    "Сего́дня понеде́льник.",
     "Сего́дня среда́.",
+    "Сего́дня понеде́льник.",
     "Сего́дня четве́рг.",
-    "Сего́дня жа́рко."
+    "Сего́дня пя́тница."
    ],
    "correct": 2
   },
@@ -734,11 +655,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ponedelnik"
   ],
@@ -756,7 +673,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000456",
@@ -767,10 +684,7 @@
    "tempo"
   ],
   "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time",
-   "accusative"
+   "accusative-time"
   ],
   "words": [
    "w_subbota"
@@ -789,7 +703,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000457",
@@ -799,11 +713,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zavtra",
    "w_ponedelnik"
@@ -815,10 +725,10 @@
    "type": "multiple_choice",
    "question": "За́втра понеде́льник.",
    "options": [
+    "Domani è sabato?",
     "Oggi è lunedì.",
-    "Domani è sabato.",
     "Domani è lunedì.",
-    "Domani è sabato?"
+    "Domani è martedì."
    ],
    "correct": 2
   },
@@ -832,11 +742,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_subbota",
    "w_sreda",
@@ -862,7 +768,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000459",
@@ -872,11 +778,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zavtra",
    "w_vtornik",
@@ -907,7 +809,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000460",
@@ -917,11 +819,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ponedelnik",
    "w_subbota",
@@ -962,7 +860,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000461",
@@ -972,11 +870,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vtornik",
    "w_nedelya",
@@ -1012,7 +906,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000462",
@@ -1022,11 +916,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_segodnya",
    "w_ponedelnik",
@@ -1057,7 +947,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000463",
@@ -1068,11 +958,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pyatnitsa",
    "w_zavtra",
@@ -1113,7 +999,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000464",
@@ -1123,11 +1009,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chetverg",
    "w_vchera",
@@ -1158,7 +1040,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000465",
@@ -1168,11 +1050,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zavtra",
    "w_subbota"
@@ -1194,7 +1072,7 @@
     "за́втра суббо́та"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000466",
@@ -1204,11 +1082,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ponedelnik"
   ],
@@ -1224,7 +1098,7 @@
     "понедельник"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000467",
@@ -1234,11 +1108,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_segodnya",
    "w_sreda"
@@ -1260,7 +1130,7 @@
     "сего́дня среда́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000468",
@@ -1270,11 +1140,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vtornik"
   ],
@@ -1290,7 +1156,7 @@
     "вторник"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000469",
@@ -1300,11 +1166,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zavtra",
    "w_subbota"
@@ -1326,7 +1188,7 @@
     "за́втра суббо́та"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000470",
@@ -1336,11 +1198,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sreda"
   ],
@@ -1356,7 +1214,7 @@
     "среда"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000471",
@@ -1368,11 +1226,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_segodnya",
    "w_u",
@@ -1396,7 +1250,7 @@
     "сего́дня у на́с четве́рг"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000472",
@@ -1406,11 +1260,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chetverg"
   ],
@@ -1426,7 +1276,7 @@
     "четверг"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000473",
@@ -1436,11 +1286,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "days",
-   "copula-zero",
-   "accusative-time"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_den"
   ],
@@ -1458,6 +1304,6 @@
     "un giorno"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

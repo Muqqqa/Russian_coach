@@ -9,10 +9,7 @@
    "direzioni",
    "casa"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stantsiya"
   ],
@@ -26,8 +23,6 @@
    "answer": "stazione",
    "accepted": [
     "stazione",
-    "lo stazione",
-    "uno stazione",
     "la stazione",
     "una stazione",
     "fermata",
@@ -46,10 +41,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_seychas",
@@ -74,7 +66,7 @@
     "lui e in albergo adesso"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000721",
@@ -84,10 +76,7 @@
   "topics": [
    "luoghi"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_derevnya"
   ],
@@ -104,7 +93,7 @@
     "деревня"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000722",
@@ -114,10 +103,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_krasivyy",
    "w_komnata"
@@ -140,7 +126,7 @@
     "краси́вая ко́мната"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000723",
@@ -150,10 +136,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_na"
   ],
@@ -171,7 +154,7 @@
     "a"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000724",
@@ -183,10 +166,7 @@
    "direzioni",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_na",
@@ -211,7 +191,7 @@
     "tu sei al lavoro?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000725",
@@ -223,10 +203,7 @@
    "direzioni",
    "casa"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_krovat"
   ],
@@ -243,7 +220,7 @@
     "кровать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000726",
@@ -253,10 +230,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_o",
    "w_chto",
@@ -279,7 +253,25 @@
     "о чём ты",
     "о чём ты́",
     "О чем ты?",
-    "о чем ты"
+    "о чем ты",
+    "О чём ты говори́шь?",
+    "О чём ты говори́шь",
+    "О чём ты говоришь?",
+    "О чём ты говоришь",
+    "о чём ты говоришь?",
+    "о чём ты говоришь",
+    "о чём ты говори́шь",
+    "О чем ты говоришь?",
+    "о чем ты говоришь",
+    "О чём вы говори́те?",
+    "О чём вы говори́те",
+    "О чём вы говорите?",
+    "О чём вы говорите",
+    "о чём вы говорите?",
+    "о чём вы говорите",
+    "о чём вы говори́те",
+    "О чем вы говорите?",
+    "о чем вы говорите"
    ]
   },
   "qa_status": "pending"
@@ -294,10 +286,7 @@
    "direzioni",
    "casa"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_komnata"
   ],
@@ -318,7 +307,7 @@
     "una camera"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000728",
@@ -329,10 +318,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_v",
@@ -345,16 +331,20 @@
    "type": "translate",
    "direction": "ru_it",
    "source": "Я́ в маши́не.",
-   "answer": "Sono nella macchina.",
+   "answer": "Sono in macchina.",
    "accepted": [
+    "Sono in macchina.",
+    "Sono in macchina",
+    "sono in macchina",
+    "sono in macchina.",
     "Sono nella macchina.",
     "Sono nella macchina",
     "sono nella macchina",
     "sono nella macchina.",
-    "Io sono nella macchina.",
-    "Io sono nella macchina",
-    "io sono nella macchina",
-    "io sono nella macchina."
+    "Io sono in macchina.",
+    "Io sono in macchina",
+    "io sono in macchina",
+    "io sono in macchina."
    ]
   },
   "qa_status": "pending"
@@ -370,8 +360,7 @@
    "casa"
   ],
   "grammar_tags": [
-   "prepositional-case",
-   "locations"
+   "prepositional-case"
   ],
   "words": [
    "w_stantsiya"
@@ -389,7 +378,7 @@
    ],
    "hint_it": "Siamo alla stazione."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000730",
@@ -399,10 +388,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -419,7 +405,7 @@
     "это",
     "э́то"
    ],
-   "hint_it": "Questo posto è vuoto?"
+   "hint_it": "Questo posto è libero?"
   },
   "qa_status": "pending"
  },
@@ -432,8 +418,7 @@
    "luoghi"
   ],
   "grammar_tags": [
-   "prepositional-case",
-   "locations"
+   "prepositional-case"
   ],
   "words": [
    "w_derevnya"
@@ -451,7 +436,7 @@
    ],
    "hint_it": "Lei è in campagna."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000732",
@@ -461,10 +446,7 @@
   "topics": [
    "luoghi"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mesto"
   ],
@@ -481,7 +463,7 @@
    ],
    "hint_it": "Tutti al loro posto?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000733",
@@ -492,8 +474,7 @@
    "luoghi"
   ],
   "grammar_tags": [
-   "prepositional-case",
-   "locations"
+   "prepositional-case"
   ],
   "words": [
    "w_gorod"
@@ -511,7 +492,7 @@
    ],
    "hint_it": "Sono in città."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000734",
@@ -521,10 +502,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_na"
   ],
@@ -540,7 +518,7 @@
    ],
    "hint_it": "Siete al lavoro?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000735",
@@ -553,8 +531,7 @@
    "casa"
   ],
   "grammar_tags": [
-   "prepositional-case",
-   "locations"
+   "prepositional-case"
   ],
   "words": [
    "w_komnata"
@@ -572,7 +549,7 @@
    ],
    "hint_it": "Siamo in camera."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000736",
@@ -582,10 +559,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gryaznyy"
   ],
@@ -602,7 +576,7 @@
    ],
    "hint_it": "Il tavolo è sporco?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000737",
@@ -615,8 +589,7 @@
    "casa"
   ],
   "grammar_tags": [
-   "prepositional-case",
-   "locations"
+   "prepositional-case"
   ],
   "words": [
    "w_stol"
@@ -634,7 +607,7 @@
    ],
    "hint_it": "Il vino è sul tavolo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000738",
@@ -647,8 +620,7 @@
    "casa"
   ],
   "grammar_tags": [
-   "prepositional-case",
-   "locations"
+   "prepositional-case"
   ],
   "words": [
    "w_gostinitsa"
@@ -667,7 +639,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000739",
@@ -678,10 +650,7 @@
    "luoghi",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gorod",
    "w_bolshoy"
@@ -693,10 +662,10 @@
    "type": "multiple_choice",
    "question": "Го́род большо́й.",
    "options": [
-    "Il conto, per favore!",
+    "Oggi è venerdì.",
     "Grazie mille!",
     "La città è grande.",
-    "Sei buono."
+    "Siete fratelli?"
    ],
    "correct": 2
   },
@@ -710,10 +679,7 @@
   "topics": [
    "luoghi"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_derevnya"
   ],
@@ -731,7 +697,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000741",
@@ -744,8 +710,6 @@
    "casa"
   ],
   "grammar_tags": [
-   "prepositional-case",
-   "locations",
    "gender"
   ],
   "words": [
@@ -764,7 +728,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000742",
@@ -774,10 +738,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_o",
    "w_da"
@@ -789,9 +750,9 @@
    "type": "multiple_choice",
    "question": "Oh, sì!",
    "options": [
-    "Да, э́то вино́.",
     "Да, понима́ю!",
     "Да, пожа́луйста.",
+    "Да, э́то вино́.",
     "О, да!"
    ],
    "correct": 3
@@ -806,10 +767,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stul"
   ],
@@ -827,7 +785,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000744",
@@ -840,8 +798,7 @@
    "casa"
   ],
   "grammar_tags": [
-   "prepositional-case",
-   "locations"
+   "prepositional-case"
   ],
   "words": [
    "w_restoran"
@@ -860,7 +817,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000745",
@@ -871,10 +828,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vse",
    "w_na",
@@ -887,10 +841,10 @@
    "type": "multiple_choice",
    "question": "Все́ на у́лице.",
    "options": [
-    "Sei al lavoro?",
+    "Sono al lavoro.",
     "Tutti sono per strada.",
     "Siete al lavoro?",
-    "Tutti al loro posto?"
+    "Tutti sono lì."
    ],
    "correct": 1
   },
@@ -904,10 +858,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_o"
   ],
@@ -925,7 +876,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000747",
@@ -937,10 +888,7 @@
    "casa",
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stul",
    "w_gorod",
@@ -971,7 +919,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000748",
@@ -983,10 +931,7 @@
    "luoghi",
    "avverbi"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_o",
    "w_da",
@@ -1007,7 +952,7 @@
     },
     {
      "ru": "Э́то ме́сто свобо́дно?",
-     "it": "Questo posto è vuoto?"
+     "it": "Questo posto è libero?"
     },
     {
      "ru": "Они́ все́ в ба́ре.",
@@ -1030,10 +975,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_krovat",
    "w_stol",
@@ -1074,7 +1016,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000750",
@@ -1084,10 +1026,7 @@
   "topics": [
    "luoghi"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stantsiya",
    "w_derevnya",
@@ -1118,7 +1057,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000751",
@@ -1130,10 +1069,7 @@
    "descrizioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stol",
    "w_gryaznyy",
@@ -1166,7 +1102,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000752",
@@ -1178,10 +1114,7 @@
    "luoghi",
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stantsiya",
    "w_stul",
@@ -1218,7 +1151,7 @@
     },
     {
      "ru": "вку́сный",
-     "it": "gustoso"
+     "it": "buono"
     }
    ]
   },
@@ -1234,10 +1167,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_komnata",
    "w_v",
@@ -1273,7 +1203,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000754",
@@ -1285,10 +1215,7 @@
    "direzioni",
    "luoghi"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vse",
    "w_na",
@@ -1321,7 +1248,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000755",
@@ -1333,10 +1260,7 @@
    "luoghi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_v",
    "w_derevnya",
@@ -1360,7 +1284,7 @@
     "в дере́вне его́ лю́бят"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000756",
@@ -1370,10 +1294,7 @@
   "topics": [
    "luoghi"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mesto"
   ],
@@ -1389,7 +1310,7 @@
     "место"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000757",
@@ -1400,10 +1321,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vse",
    "w_na",
@@ -1426,7 +1344,7 @@
     "все́ на у́лице"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000758",
@@ -1436,10 +1354,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stul"
   ],
@@ -1455,7 +1370,7 @@
     "стул"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000759",
@@ -1466,10 +1381,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni",
    "w_vse",
@@ -1493,7 +1405,7 @@
     "они́ все́ в ба́ре"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000760",
@@ -1505,10 +1417,7 @@
    "direzioni",
    "casa"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ulitsa"
   ],
@@ -1524,7 +1433,7 @@
     "улица"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000761",
@@ -1535,10 +1444,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_v",
    "w_komnata",
@@ -1561,7 +1467,7 @@
     "в ко́мнате жа́рко"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000762",
@@ -1573,10 +1479,7 @@
    "direzioni",
    "casa"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stantsiya"
   ],
@@ -1592,7 +1495,7 @@
     "станция"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000763",
@@ -1604,10 +1507,7 @@
    "direzioni",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "prepositional-case",
-   "locations"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_na",
@@ -1630,6 +1530,6 @@
     "ты́ на рабо́те"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

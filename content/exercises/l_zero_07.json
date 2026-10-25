@@ -7,10 +7,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_po_russki"
   ],
@@ -26,7 +23,7 @@
     "in russo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000220",
@@ -37,10 +34,7 @@
    "ristorante",
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_schyot",
    "w_pozhaluysta"
@@ -60,7 +54,7 @@
     "il conto, per favore."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000221",
@@ -70,10 +64,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_do_svidaniya"
   ],
@@ -90,7 +81,7 @@
     "до свидания"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000222",
@@ -101,10 +92,7 @@
    "descrizioni",
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bolshoy",
    "w_spasibo"
@@ -127,7 +115,7 @@
     "большо́е спаси́бо"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000223",
@@ -137,10 +125,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_do_svidaniya"
   ],
@@ -156,7 +141,7 @@
     "arrivederci"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000224",
@@ -168,10 +153,7 @@
    "comunicazione",
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_govorit",
@@ -196,7 +178,7 @@
     "voi parla russo?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000225",
@@ -206,10 +188,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_po_russki"
   ],
@@ -226,7 +205,7 @@
     "по-русски"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000226",
@@ -238,10 +217,7 @@
    "comunicazione",
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_govorit",
@@ -265,7 +241,7 @@
     "вы́ говори́те по-ру́сски"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000227",
@@ -275,10 +251,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy"
   ],
@@ -297,7 +270,7 @@
    ],
    "hint_it": "Parla russo?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000228",
@@ -307,10 +280,7 @@
   "topics": [
    "ristorante"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_schyot"
   ],
@@ -329,7 +299,7 @@
    ],
    "hint_it": "Il conto, per favore."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000229",
@@ -339,10 +309,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pozhaluysta"
   ],
@@ -359,7 +326,7 @@
    ],
    "hint_it": "Il conto, per favore."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000230",
@@ -369,10 +336,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bolshoy"
   ],
@@ -391,7 +355,7 @@
    ],
    "hint_it": "Grazie mille!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000231",
@@ -401,10 +365,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_po_russki"
   ],
@@ -421,7 +382,7 @@
    ],
    "hint_it": "Parla russo?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000232",
@@ -431,10 +392,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_spasibo"
   ],
@@ -451,7 +409,7 @@
    ],
    "hint_it": "Grazie mille!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000233",
@@ -461,10 +419,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_do_svidaniya"
   ],
@@ -482,7 +437,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000234",
@@ -492,10 +447,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_davay"
   ],
@@ -513,7 +465,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000235",
@@ -524,10 +476,7 @@
    "ristorante",
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_schyot",
    "w_pozhaluysta"
@@ -546,7 +495,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000236",
@@ -556,10 +505,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_po_russki"
   ],
@@ -577,7 +523,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000237",
@@ -589,10 +535,7 @@
    "comunicazione",
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_govorit",
@@ -612,7 +555,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000238",
@@ -622,10 +565,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_izvinite"
   ],
@@ -643,7 +583,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000239",
@@ -653,10 +593,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_do_svidaniya"
   ],
@@ -674,7 +611,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000240",
@@ -684,10 +621,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_do_svidaniya",
    "w_davay",
@@ -723,7 +657,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000241",
@@ -735,10 +669,7 @@
    "ristorante",
    "grammatica"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_schyot",
    "w_pozhaluysta",
@@ -771,7 +702,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000242",
@@ -827,7 +758,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000243",
@@ -881,7 +813,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000244",
@@ -937,7 +870,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000245",
@@ -992,7 +926,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000246",
@@ -1002,10 +937,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_do_svidaniya"
   ],
@@ -1026,7 +958,7 @@
     "до свида́ния"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000247",
@@ -1036,10 +968,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_davay"
   ],
@@ -1055,7 +984,7 @@
     "давай"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000248",
@@ -1065,10 +994,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_do_svidaniya"
   ],
@@ -1089,7 +1015,7 @@
     "до свида́ния"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000249",
@@ -1099,10 +1025,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_po_russki"
   ],
@@ -1118,7 +1041,7 @@
     "по-русски"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000250",
@@ -1130,10 +1053,7 @@
    "comunicazione",
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_govorit",
@@ -1156,7 +1076,7 @@
     "вы́ говори́те по-ру́сски"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000251",
@@ -1166,10 +1086,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_izvinite"
   ],
@@ -1185,7 +1102,7 @@
     "извините"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000252",
@@ -1195,10 +1112,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "greetings",
-   "politeness"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_do_svidaniya"
   ],
@@ -1212,6 +1126,438 @@
    "accepted": [
     "до свида́ния",
     "до свидания"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002007",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zovut"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 12,
+  "prompt_it": "Completa l'espressione per presentarti.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ зову́т ...",
+   "answer": "Меня́",
+   "accepted": [
+    "Меня́",
+    "Меня",
+    "меня",
+    "меня́"
+   ],
+   "hint_it": "Mi chiamo ..."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002008",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zovut"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 28,
+  "prompt_it": "Abbina le espressioni russe al significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Меня́ зову́т ...",
+     "it": "Mi chiamo ..."
+    },
+    {
+     "ru": "Тебя́ зову́т ...",
+     "it": "Ti chiami ..."
+    },
+    {
+     "ru": "Его́ зову́т ...",
+     "it": "Lui si chiama ..."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002009",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zovut",
+   "w_do_svidaniya",
+   "w_po_russki"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "меня́ зову́т",
+     "it": "mi chiamo"
+    },
+    {
+     "ru": "до свида́ния",
+     "it": "arrivederci"
+    },
+    {
+     "ru": "по-ру́сски",
+     "it": "in russo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002010",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "saluti",
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_po_russki",
+   "w_spasibo",
+   "w_davay",
+   "w_privet",
+   "w_ty",
+   "w_tam"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "по-ру́сски",
+     "it": "in russo"
+    },
+    {
+     "ru": "спаси́бо",
+     "it": "grazie"
+    },
+    {
+     "ru": "дава́й",
+     "it": "dai"
+    },
+    {
+     "ru": "приве́т",
+     "it": "ciao"
+    },
+    {
+     "ru": "ты́",
+     "it": "tu"
+    },
+    {
+     "ru": "та́м",
+     "it": "là"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002011",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zovut"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 32,
+  "prompt_it": "Abbina le espressioni russe al significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Меня́ зову́т ...",
+     "it": "Mi chiamo ..."
+    },
+    {
+     "ru": "Тебя́ зову́т ...",
+     "it": "Ti chiami ..."
+    },
+    {
+     "ru": "Его́ зову́т ...",
+     "it": "Lui si chiama ..."
+    },
+    {
+     "ru": "Её зову́т ...",
+     "it": "Lei si chiama ..."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002145",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zovut"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano l'espressione russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Меня́ зову́т ...",
+   "answer": "Mi chiamo ...",
+   "accepted": [
+    "Mi chiamo ...",
+    "Mi chiamo",
+    "mi chiamo",
+    "Il mio nome è ...",
+    "Il mio nome è",
+    "Mi chiamano ..."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002146",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zovut"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 18,
+  "prompt_it": "Traduci in russo (completa con puntini «...» al posto del nome).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "Mi chiamo ...",
+   "answer": "Меня́ зову́т ...",
+   "accepted": [
+    "Меня́ зову́т ...",
+    "Меня́ зову́т",
+    "Меня зовут ...",
+    "Меня зовут",
+    "меня зовут ...",
+    "меня зовут",
+    "меня́ зову́т"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002147",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zovut"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 12,
+  "prompt_it": "Completa l'espressione per presentarti.",
+  "payload": {
+   "type": "cloze",
+   "text": "Меня́ ___ ...",
+   "answer": "зову́т",
+   "accepted": [
+    "зову́т",
+    "зовут"
+   ],
+   "hint_it": "Mi chiamo ..."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002148",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zovut"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 12,
+  "prompt_it": "Scegli la risposta giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si dice «Mi chiamo ...» in russo?",
+   "options": [
+    "Меня́ зову́т ...",
+    "Тебя́ зову́т ...",
+    "Его́ зову́т ...",
+    "Её зову́т ..."
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002149",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zovut"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 12,
+  "prompt_it": "Scegli la risposta giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «Тебя́ зову́т ...»?",
+   "options": [
+    "Mi chiamo ...",
+    "Ti chiami ...",
+    "Si chiama (lei) ...",
+    "Si chiama (lui) ..."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002150",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zovut"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 12,
+  "prompt_it": "Scegli la risposta giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «Меня́ зову́т ...»?",
+   "options": [
+    "Si chiama (lui) ...",
+    "Ti chiami ...",
+    "Mi chiamo ...",
+    "Si chiamano ..."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002151",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zovut"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 16,
+  "prompt_it": "Ascolta e scrivi l'espressione in russo (al posto del nome puoi scrivere «...»).",
+  "payload": {
+   "type": "dictation",
+   "text": "Меня́ зову́т",
+   "translation_it": "Mi chiamo (segue il nome)",
+   "accepted": [
+    "Меня́ зову́т",
+    "Меня зовут",
+    "меня зовут",
+    "меня́ зову́т"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002152",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "saluti",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zovut"
+  ],
+  "lesson": "l_zero_07",
+  "est_seconds": 16,
+  "prompt_it": "Ascolta e scrivi l'espressione in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Тебя́ зову́т",
+   "translation_it": "Ti chiami (segue il nome)",
+   "accepted": [
+    "Тебя́ зову́т",
+    "Тебя зовут",
+    "тебя зовут",
+    "тебя́ зову́т"
    ]
   },
   "qa_status": "pending"

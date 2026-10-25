@@ -7,11 +7,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skolko"
   ],
@@ -28,7 +24,7 @@
     "quanti"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000324",
@@ -38,11 +34,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kofe",
    "w_net"
@@ -65,7 +57,7 @@
     "non c'e caffe"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000325",
@@ -75,11 +67,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_segodnya"
   ],
@@ -96,7 +84,7 @@
     "сегодня"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000326",
@@ -106,11 +94,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skolko",
    "w_on"
@@ -121,7 +105,7 @@
   "payload": {
    "type": "translate",
    "direction": "it_ru",
-   "source": "Quanto hanno?",
+   "source": "Quanti anni hanno?",
    "answer": "Ско́лько и́м?",
    "accepted": [
     "Ско́лько и́м?",
@@ -130,10 +114,18 @@
     "Сколько им",
     "сколько им?",
     "сколько им",
-    "ско́лько и́м"
+    "ско́лько и́м",
+    "Ско́лько и́м ле́т?",
+    "Ско́лько и́м ле́т",
+    "Сколько им лет?",
+    "Сколько им лет",
+    "сколько им лет?",
+    "сколько им лет",
+    "ско́лько и́м ле́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: IT sbagliato \"Quanto hanno?\"; IT «Quanto hanno?» errato"
  },
  {
   "id": "e_000327",
@@ -143,11 +135,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ili"
   ],
@@ -163,7 +151,7 @@
     "o"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000328",
@@ -173,11 +161,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_on",
@@ -202,7 +186,7 @@
     "e lui o no"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000329",
@@ -214,11 +198,7 @@
    "tempo",
    "avverbi"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_potom"
   ],
@@ -235,7 +215,7 @@
     "потом"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000330",
@@ -246,11 +226,7 @@
    "tempo",
    "avverbi"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_segodnya",
    "w_zharko"
@@ -273,7 +249,7 @@
     "сего́дня жа́рко"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000331",
@@ -283,11 +259,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto"
   ],
@@ -304,7 +276,7 @@
    ],
    "hint_it": "E quindi?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000332",
@@ -314,11 +286,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ili"
   ],
@@ -335,7 +303,7 @@
    ],
    "hint_it": "Tè o caffè?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000333",
@@ -345,11 +313,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_net"
   ],
@@ -365,7 +329,7 @@
    ],
    "hint_it": "Nemmeno io."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000334",
@@ -375,11 +339,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on"
   ],
@@ -394,9 +354,10 @@
     "и́м",
     "им"
    ],
-   "hint_it": "Quanto hanno?"
+   "hint_it": "Quanti anni hanno?"
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: IT «Quanto hanno?» errato"
  },
  {
   "id": "e_000335",
@@ -406,11 +367,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skolko"
   ],
@@ -427,9 +384,10 @@
     "сколько",
     "ско́лько"
    ],
-   "hint_it": "Quanto hanno?"
+   "hint_it": "Quanti anni hanno?"
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: IT «Quanto hanno?» errato"
  },
  {
   "id": "e_000336",
@@ -439,11 +397,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zharko"
   ],
@@ -460,7 +414,7 @@
    ],
    "hint_it": "Oggi fa caldo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000337",
@@ -470,11 +424,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_net"
   ],
@@ -490,7 +440,7 @@
    ],
    "hint_it": "Non c'è caffè."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000338",
@@ -500,11 +450,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eshchyo",
    "w_net"
@@ -523,7 +469,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000339",
@@ -535,11 +481,7 @@
    "tempo",
    "avverbi"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_potom"
   ],
@@ -557,7 +499,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000340",
@@ -567,11 +509,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_potom"
@@ -590,7 +528,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000341",
@@ -602,11 +540,7 @@
    "tempo",
    "avverbi"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_potom"
   ],
@@ -624,7 +558,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000342",
@@ -634,11 +568,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_potom"
@@ -657,7 +587,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000343",
@@ -667,11 +597,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skolko"
   ],
@@ -689,7 +615,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000344",
@@ -699,11 +625,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kofe",
    "w_net"
@@ -722,7 +644,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000345",
@@ -733,11 +655,7 @@
    "grammatica",
    "tempo"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_segodnya",
    "w_ne",
@@ -763,7 +681,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000346",
@@ -807,7 +725,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: IT «Quanto hanno?» errato"
  },
  {
   "id": "e_000347",
@@ -819,11 +738,7 @@
    "saluti",
    "tempo"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ne",
    "w_segodnya",
@@ -864,7 +779,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000348",
@@ -875,11 +790,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ili",
    "w_trudno",
@@ -910,7 +821,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000349",
@@ -956,7 +867,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000350",
@@ -966,11 +878,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skolko",
    "w_i",
@@ -1011,7 +919,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000351",
@@ -1050,7 +958,8 @@
     "жи́ли мы́ тру́дно"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Vivevamo tra gli stenti» troppo alto per zero_10"
  },
  {
   "id": "e_000352",
@@ -1060,11 +969,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skolko"
   ],
@@ -1080,7 +985,7 @@
     "сколько"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000353",
@@ -1090,11 +995,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skolko",
    "w_on"
@@ -1105,7 +1006,7 @@
   "payload": {
    "type": "dictation",
    "text": "Ско́лько и́м?",
-   "translation_it": "Quanto hanno?",
+   "translation_it": "Quanti anni hanno?",
    "accepted": [
     "Ско́лько и́м?",
     "Ско́лько и́м",
@@ -1116,7 +1017,8 @@
     "ско́лько и́м"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: IT «Quanto hanno?» errato"
  },
  {
   "id": "e_000354",
@@ -1126,11 +1028,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ili"
   ],
@@ -1146,7 +1044,7 @@
     "или"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000355",
@@ -1156,11 +1054,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chay",
    "w_ili",
@@ -1183,7 +1077,7 @@
     "ча́й и́ли ко́фе"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000356",
@@ -1193,11 +1087,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_trudno"
   ],
@@ -1213,7 +1103,7 @@
     "трудно"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000357",
@@ -1223,11 +1113,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "questions",
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skolko",
    "w_ona"
@@ -1238,7 +1124,7 @@
   "payload": {
    "type": "dictation",
    "text": "Ско́лько е́й?",
-   "translation_it": "Quanto ha?",
+   "translation_it": "Quanti anni ha?",
    "accepted": [
     "Ско́лько е́й?",
     "Ско́лько е́й",
@@ -1247,6 +1133,129 @@
     "сколько ей?",
     "сколько ей",
     "ско́лько е́й"
+   ]
+  },
+  "qa_status": "rejected",
+  "qa_note": "QA: IT «Quanto ha?» errato (ей = quanti anni)"
+ },
+ {
+  "id": "e_002018",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "tempo"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_segodnya",
+   "w_ne",
+   "w_potom",
+   "w_ili",
+   "w_skolko"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сего́дня",
+     "it": "oggi"
+    },
+    {
+     "ru": "не́",
+     "it": "non"
+    },
+    {
+     "ru": "пото́м",
+     "it": "poi"
+    },
+    {
+     "ru": "и́ли",
+     "it": "o"
+    },
+    {
+     "ru": "ско́лько",
+     "it": "quanto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002019",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_i",
+   "w_ya",
+   "w_net",
+   "w_skolko",
+   "w_ona",
+   "w_kofe"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "И я́ нет.",
+     "it": "Nemmeno io."
+    },
+    {
+     "ru": "Ско́лько е́й?",
+     "it": "Quanti anni ha?"
+    },
+    {
+     "ru": "Ко́фе нет.",
+     "it": "Non c'è caffè."
+    },
+    {
+     "ru": "И что́?",
+     "it": "E quindi?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002020",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_i",
+   "w_chto"
+  ],
+  "lesson": "l_zero_10",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "И что́?",
+   "translation_it": "E quindi?",
+   "accepted": [
+    "И что́?",
+    "И что́",
+    "И что?",
+    "И что",
+    "и что?",
+    "и что",
+    "и что́"
    ]
   },
   "qa_status": "pending"

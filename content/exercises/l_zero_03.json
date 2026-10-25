@@ -27,7 +27,8 @@
     "kòfe"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000067",
@@ -38,10 +39,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_restoran"
   ],
@@ -56,9 +54,7 @@
    "accepted": [
     "ristorante",
     "il ristorante",
-    "un ristorante",
-    "la ristorante",
-    "una ristorante"
+    "un ristorante"
    ]
   },
   "qa_status": "pending"
@@ -71,10 +67,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gde",
    "w_dom"
@@ -86,8 +79,15 @@
    "type": "translate",
    "direction": "ru_it",
    "source": "Где́ до́м?",
-   "answer": "Dov'è casa?",
+   "answer": "Dov'è la casa?",
    "accepted": [
+    "Dov'è la casa?",
+    "Dov'è la casa",
+    "dov'è la casa",
+    "dov'è la casa?",
+    "Dov'e' la casa?",
+    "dov'e' la casa",
+    "dov'e la casa",
     "Dov'è casa?",
     "Dov'è casa",
     "dov'è casa",
@@ -108,10 +108,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kofe"
   ],
@@ -128,7 +125,7 @@
     "кофе"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000070",
@@ -138,10 +135,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kofe",
    "w_net"
@@ -164,7 +158,7 @@
     "ко́фе нет"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000071",
@@ -194,7 +188,8 @@
     "tualèt"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000072",
@@ -204,10 +199,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya"
   ],
@@ -223,7 +215,7 @@
     "io"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000073",
@@ -233,10 +225,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gde",
    "w_tualet"
@@ -259,7 +248,7 @@
     "dov'e il bagno"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000074",
@@ -289,7 +278,8 @@
    ],
    "hint_it": "Dove sei?"
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000075",
@@ -300,8 +290,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
+   "alphabet-3"
   ],
   "words": [
    "w_net"
@@ -311,15 +300,16 @@
   "prompt_it": "Completa la parola con la lettera mancante.",
   "payload": {
    "type": "cloze",
-   "text": "н___т",
-   "answer": "е",
+   "text": "___ет",
+   "answer": "н",
    "accepted": [
-    "е",
-    "Е"
+    "н",
+    "Н"
    ],
    "hint_it": "no, si legge «nèt»"
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: е/э indistinguibili dalla trascrizione «nèt»"
  },
  {
   "id": "e_000076",
@@ -329,10 +319,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni"
   ],
@@ -349,7 +336,7 @@
    ],
    "hint_it": "Dove sono?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000077",
@@ -360,8 +347,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
+   "alphabet-3"
   ],
   "words": [
    "w_gde"
@@ -379,7 +365,7 @@
    ],
    "hint_it": "dove, si legge «gdè»"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000078",
@@ -389,10 +375,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -411,7 +394,7 @@
    ],
    "hint_it": "Sono io."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000079",
@@ -423,8 +406,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
+   "alphabet-3"
   ],
   "words": [
    "w_tualet"
@@ -434,15 +416,16 @@
   "prompt_it": "Completa la parola con la lettera mancante.",
   "payload": {
    "type": "cloze",
-   "text": "туал___т",
-   "answer": "е",
+   "text": "туа___ет",
+   "answer": "л",
    "accepted": [
-    "е",
-    "Е"
+    "л",
+    "Л"
    ],
    "hint_it": "bagno, si legge «tualèt»"
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: е/э indistinguibili da «tualèt»"
  },
  {
   "id": "e_000080",
@@ -452,10 +435,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gde"
   ],
@@ -474,7 +454,7 @@
    ],
    "hint_it": "Dov'è il bagno?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000081",
@@ -485,8 +465,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
+   "alphabet-3"
   ],
   "words": [
    "w_ya"
@@ -500,7 +479,7 @@
    "options": [
     "ia",
     "n",
-    "s sorda",
+    "s sonora (come in «rosa»)",
     "b"
    ],
    "correct": 0
@@ -517,8 +496,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
+   "alphabet-3"
   ],
   "words": [
    "w_net",
@@ -538,7 +516,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000083",
@@ -550,8 +528,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
+   "alphabet-3"
   ],
   "words": [
    "w_kofe"
@@ -570,7 +547,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000084",
@@ -582,8 +559,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
+   "alphabet-3"
   ],
   "words": [
    "w_kofe"
@@ -602,7 +578,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000085",
@@ -612,10 +588,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_ya"
@@ -627,7 +600,7 @@
    "type": "multiple_choice",
    "question": "Э́то я́.",
    "options": [
-    "Dov'è casa?",
+    "Dov'è la casa?",
     "Sono io.",
     "Questa è acqua.",
     "Sì, questo è vino."
@@ -644,10 +617,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_net"
   ],
@@ -665,7 +635,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000087",
@@ -697,7 +667,8 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: genere grammaticale chiesto prima di zero_08"
  },
  {
   "id": "e_000088",
@@ -708,8 +679,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
+   "alphabet-3"
   ],
   "words": [
    "w_ya"
@@ -726,7 +696,7 @@
     },
     {
      "ru": "З з",
-     "it": "z dolce"
+     "it": "s sonora (come in «rosa»)"
     },
     {
      "ru": "Ф ф",
@@ -749,8 +719,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
+   "alphabet-3"
   ],
   "words": [
    "w_ya"
@@ -763,7 +732,7 @@
    "pairs": [
     {
      "ru": "З з",
-     "it": "z dolce"
+     "it": "s sonora (come in «rosa»)"
     },
     {
      "ru": "Х х",
@@ -790,8 +759,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
+   "alphabet-3"
   ],
   "words": [
    "w_restoran",
@@ -823,7 +791,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000091",
@@ -834,10 +802,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kofe",
    "w_tualet",
@@ -868,7 +833,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000092",
@@ -913,7 +878,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000093",
@@ -923,10 +889,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_restoran",
    "w_tualet",
@@ -967,7 +930,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000094",
@@ -978,8 +941,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
+   "alphabet-3"
   ],
   "words": [
    "w_gde"
@@ -998,7 +960,7 @@
     "Го"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000095",
@@ -1034,7 +996,8 @@
     "где́ ты́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000096",
@@ -1045,10 +1008,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kofe"
   ],
@@ -1064,7 +1024,7 @@
     "кофе"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000097",
@@ -1096,7 +1056,8 @@
     "Ля"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000098",
@@ -1106,10 +1067,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gde",
    "w_tualet"
@@ -1131,7 +1089,7 @@
     "где́ туале́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000099",
@@ -1141,10 +1099,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gde"
   ],
@@ -1160,7 +1115,7 @@
     "где"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000100",
@@ -1172,8 +1127,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-3",
-   "hard-soft-vowels"
+   "alphabet-3"
   ],
   "words": [
    "w_kofe"
@@ -1190,6 +1144,223 @@
     "фа́",
     "ФА",
     "Фа"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_001980",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_net"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "не́т",
+   "answer": "no",
+   "accepted": [
+    "no",
+    "non c'è",
+    "non c'e"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001981",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_gde",
+   "w_oni"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Где́ они́?",
+   "answer": "Dove sono?",
+   "accepted": [
+    "Dove sono?",
+    "Dove sono",
+    "dove sono",
+    "dove sono?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001982",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_tualet"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Где́ ___?",
+   "answer": "туале́т",
+   "accepted": [
+    "туале́т",
+    "туалет"
+   ],
+   "hint_it": "Dov'è il bagno?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001983",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3"
+  ],
+  "words": [
+   "w_gde"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il suono della lettera.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge la lettera «Г г»?",
+   "options": [
+    "u",
+    "s sonora (come in «rosa»)",
+    "ie",
+    "g dura"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001984",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-3"
+  ],
+  "words": [
+   "w_ya"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 24,
+  "prompt_it": "Abbina ogni lettera russa al suo suono.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Х х",
+     "it": "kh"
+    },
+    {
+     "ru": "Г г",
+     "it": "g dura"
+    },
+    {
+     "ru": "Л л",
+     "it": "l"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001985",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-3"
+  ],
+  "words": [
+   "w_net",
+   "w_gde"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 10,
+  "prompt_it": "Ascolta e scrivi la sillaba in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "бе́",
+   "translation_it": "sillaba «bie»",
+   "accepted": [
+    "бе",
+    "бе́",
+    "БЕ",
+    "Бе"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001986",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_eto",
+   "w_ya"
+  ],
+  "lesson": "l_zero_03",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то я́.",
+   "translation_it": "Sono io.",
+   "accepted": [
+    "Э́то я́.",
+    "Э́то я́",
+    "Это я.",
+    "Это я",
+    "это я.",
+    "это я",
+    "э́то я́"
    ]
   },
   "qa_status": "pending"

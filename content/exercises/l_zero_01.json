@@ -26,7 +26,8 @@
     "ktò"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000002",
@@ -36,10 +37,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -55,7 +53,7 @@
     "questo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000003",
@@ -91,7 +89,8 @@
     "che cos'e"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000004",
@@ -101,10 +100,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tam"
   ],
@@ -118,7 +114,9 @@
    "answer": "та́м",
    "accepted": [
     "та́м",
-    "там"
+    "там",
+    "туда́",
+    "туда"
    ]
   },
   "qa_status": "pending"
@@ -157,7 +155,8 @@
     "что́ э́то"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000006",
@@ -187,7 +186,8 @@
     "dòm"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000007",
@@ -198,10 +198,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dom"
   ],
@@ -219,7 +216,7 @@
     "una casa"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000008",
@@ -250,7 +247,8 @@
    ],
    "hint_it": "Dov'è casa?"
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000009",
@@ -262,8 +260,7 @@
    "direzioni"
   ],
   "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
+   "alphabet-1"
   ],
   "words": [
    "w_dom"
@@ -281,7 +278,7 @@
    ],
    "hint_it": "casa, si legge «dòm»"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000010",
@@ -311,7 +308,8 @@
    ],
    "hint_it": "Che cos'è?"
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000011",
@@ -322,8 +320,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
+   "alphabet-1"
   ],
   "words": [
    "w_kto"
@@ -341,7 +338,7 @@
    ],
    "hint_it": "chi, si legge «ktò»"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000012",
@@ -373,7 +370,8 @@
    ],
    "hint_it": "Che cos'è?"
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000013",
@@ -384,8 +382,7 @@
    "direzioni"
   ],
   "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
+   "alphabet-1"
   ],
   "words": [
    "w_tam"
@@ -403,7 +400,7 @@
    ],
    "hint_it": "là, si legge «tàm»"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000014",
@@ -414,8 +411,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
+   "alphabet-1"
   ],
   "words": [
    "w_eto",
@@ -435,7 +431,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000015",
@@ -446,8 +442,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
+   "alphabet-1"
   ],
   "words": [
    "w_eto",
@@ -467,7 +462,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000016",
@@ -478,8 +473,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
+   "alphabet-1"
   ],
   "words": [
    "w_eto"
@@ -498,7 +492,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000017",
@@ -509,8 +503,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
+   "alphabet-1"
   ],
   "words": [
    "w_kto"
@@ -529,7 +522,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000018",
@@ -561,7 +554,8 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000019",
@@ -571,10 +565,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kto"
   ],
@@ -592,7 +583,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000020",
@@ -603,8 +594,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
+   "alphabet-1"
   ],
   "words": [
    "w_da"
@@ -633,7 +623,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000021",
@@ -645,8 +635,7 @@
    "direzioni"
   ],
   "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
+   "alphabet-1"
   ],
   "words": [
    "w_eto",
@@ -678,7 +667,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000022",
@@ -689,10 +678,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tam",
    "w_dom",
@@ -728,7 +714,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000023",
@@ -739,8 +725,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
+   "alphabet-1"
   ],
   "words": [
    "w_eto",
@@ -770,7 +755,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000024",
@@ -781,10 +766,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kto",
    "w_tam",
@@ -820,7 +802,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000025",
@@ -831,8 +813,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
+   "alphabet-1"
   ],
   "words": [
    "w_kto"
@@ -851,7 +832,7 @@
     "Ко"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000026",
@@ -886,7 +867,8 @@
     "где́ до́м"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000027",
@@ -896,10 +878,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -915,7 +894,7 @@
     "это"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000028",
@@ -926,8 +905,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
+   "alphabet-1"
   ],
   "words": [
    "w_da",
@@ -947,7 +925,7 @@
     "Дэ"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000029",
@@ -982,7 +960,8 @@
     "что́ э́то"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000030",
@@ -992,10 +971,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "alphabet-1",
-   "stress-mark"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tam"
   ],
@@ -1009,6 +985,232 @@
    "accepted": [
     "та́м",
     "там"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_001965",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_kto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "кто́",
+   "answer": "chi",
+   "accepted": [
+    "chi"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001966",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_dom"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "casa",
+   "answer": "до́м",
+   "accepted": [
+    "до́м",
+    "дом"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001967",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_da"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "да́",
+   "answer": "sì",
+   "accepted": [
+    "sì",
+    "si"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001968",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_tam"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "та́м",
+   "answer": "là",
+   "accepted": [
+    "là",
+    "la"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001969",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1"
+  ],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 12,
+  "prompt_it": "Completa la parola con la lettera mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "э___о",
+   "answer": "т",
+   "accepted": [
+    "т",
+    "Т"
+   ],
+   "hint_it": "questo, si legge «èto»"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001970",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "alphabet-1"
+  ],
+  "words": [
+   "w_tam",
+   "w_dom"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il suono della lettera.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge la lettera «М м»?",
+   "options": [
+    "k",
+    "t",
+    "s sorda",
+    "m"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001971",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni",
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-1"
+  ],
+  "words": [
+   "w_tam",
+   "w_eto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 10,
+  "prompt_it": "Ascolta e scrivi la sillaba in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "та́",
+   "translation_it": "sillaba «ta»",
+   "accepted": [
+    "та",
+    "та́",
+    "ТА",
+    "Та"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001972",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_kto"
+  ],
+  "lesson": "l_zero_01",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "кто́",
+   "translation_it": "chi",
+   "accepted": [
+    "кто́",
+    "кто"
    ]
   },
   "qa_status": "pending"

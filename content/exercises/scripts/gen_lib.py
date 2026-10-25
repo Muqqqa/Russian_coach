@@ -71,26 +71,18 @@ def it_variants(text):
     return out
 
 
-def _articles(g):
-    """articoli plausibili per un nome italiano (euristica sulla desinenza)"""
-    g = g.lower()
-    w0 = g.split(" ")[0]
+def _articles(g, gender):
+    """articoli per un nome italiano di genere noto ('m' o 'f'); il genere viene dalla tabella IT_GENDER, mai dalla desinenza"""
+    w0 = g.lower().split(" ")[0]
     vow = w0[0] in "aeiouàèéìòù"
-    last = w0[-1]
-    fem = last in "aàù" or w0.endswith("ione")
-    both = last == "e"
     lo = bool(re.match(r"^(s[^aeiou]|z|gn|ps|x|y)", w0))
-    out = []
-    if not fem or both:
+    if gender == "m":
         if vow:
-            out += ["l'", "un "]
-        else:
-            out += ["lo ", "uno "] if lo else ["il ", "un "]
-    if fem or both:
-        out += ["l'", "un'"] if vow else ["la ", "una "]
-    return out
+            return ["l'", "un "]
+        return ["lo ", "uno "] if lo else ["il ", "un "]
+    return ["l'", "un'"] if vow else ["la ", "una "]
 
-def gloss_variants(glosses, pos=None):
+def gloss_variants(glosses, pos=None, it_gender=None):
     out = []
     def add(x):
         x = x.strip()
@@ -100,9 +92,13 @@ def gloss_variants(glosses, pos=None):
         g = g.strip()
         add(g)
         add(g.lower())
-        if pos == "noun" and " " not in g.strip():
-            for art in _articles(g):
-                add(art + g.lower())
+        if pos == "noun" and it_gender is not None:
+            gen_ = it_gender.get(g.lower())
+            if gen_ in ("m", "f"):
+                for art in _articles(g, gen_):
+                    add(art + g.lower())
+            elif gen_ == "pn":
+                add(("l'" if g[0].lower() in "aeiou" else ("la " if g.lower().endswith("a") else "il ")) + g.lower())
         add(strip_diacritics(g.lower()))
     return out
 

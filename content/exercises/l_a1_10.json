@@ -7,11 +7,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pomnit"
   ],
@@ -27,7 +23,7 @@
     "ricordare"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000801",
@@ -38,11 +34,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_spat"
@@ -66,7 +58,7 @@
     "io dormivo."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000802",
@@ -76,11 +68,7 @@
   "topics": [
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_uchit"
   ],
@@ -90,7 +78,7 @@
   "payload": {
    "type": "translate",
    "direction": "it_ru",
-   "source": "studiare",
+   "source": "imparare",
    "answer": "учи́ть",
    "accepted": [
     "учи́ть",
@@ -105,13 +93,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "grammatica"
+   "grammatica",
+   "cibo-bevande"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_lyubit",
@@ -135,7 +120,7 @@
     "я́ люблю́ гото́вить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000804",
@@ -143,15 +128,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "azioni",
-   "mente",
-   "lavoro-scuola"
+   "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_videt"
   ],
@@ -167,7 +146,7 @@
     "vedere"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000805",
@@ -178,11 +157,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_nravitsya"
@@ -202,7 +177,7 @@
     "ti piace?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000806",
@@ -212,11 +187,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nravitsya"
   ],
@@ -233,7 +204,7 @@
     "нравиться"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000807",
@@ -241,13 +212,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "grammatica"
+   "grammatica",
+   "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_videt"
@@ -270,7 +238,7 @@
     "ты́ ви́дишь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000808",
@@ -281,9 +249,7 @@
    "lavoro-scuola"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
+   "verbs-present"
   ],
   "words": [
    "w_uchit"
@@ -299,7 +265,7 @@
     "у́чишь",
     "учишь"
    ],
-   "hint_it": "studiare: tu"
+   "hint_it": "imparare: tu"
   },
   "qa_status": "pending"
  },
@@ -311,11 +277,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty"
   ],
@@ -334,7 +296,7 @@
    ],
    "hint_it": "Hai visto?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000810",
@@ -342,14 +304,10 @@
   "level": "a1",
   "difficulty": 3,
   "topics": [
-   "azioni",
-   "mente",
-   "lavoro-scuola"
+   "cibo-bevande"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
+   "verbs-present"
   ],
   "words": [
    "w_gotovit"
@@ -367,7 +325,7 @@
    ],
    "hint_it": "cucinare: io"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000811",
@@ -377,11 +335,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nravitsya"
   ],
@@ -398,7 +352,7 @@
    ],
    "hint_it": "Ci piace!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000812",
@@ -409,9 +363,7 @@
    "lavoro-scuola"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
+   "verbs-present"
   ],
   "words": [
    "w_uchit"
@@ -427,7 +379,7 @@
     "у́чите",
     "учите"
    ],
-   "hint_it": "studiare: voi"
+   "hint_it": "imparare: voi"
   },
   "qa_status": "pending"
  },
@@ -439,11 +391,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty"
   ],
@@ -462,7 +410,7 @@
    ],
    "hint_it": "Vedi?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000814",
@@ -473,9 +421,7 @@
    "mente"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
+   "verbs-present"
   ],
   "words": [
    "w_pomnit"
@@ -493,7 +439,7 @@
    ],
    "hint_it": "ricordare: lui"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000815",
@@ -501,14 +447,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "azioni",
-   "mente",
-   "lavoro-scuola"
+   "cibo-bevande"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
+   "verbs-present"
   ],
   "words": [
    "w_gotovit"
@@ -527,7 +469,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000816",
@@ -538,11 +480,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_spat"
@@ -554,9 +492,9 @@
    "type": "multiple_choice",
    "question": "Я́ спала́.",
    "options": [
-    "Ero malato.",
-    "Sto lavorando.",
-    "Anch'io.",
+    "Aiutami tu!",
+    "Sono io.",
+    "Sono bello.",
     "Dormivo."
    ],
    "correct": 3
@@ -571,11 +509,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_spat"
   ],
@@ -593,7 +527,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000818",
@@ -605,11 +539,7 @@
    "avverbi",
    "soldi"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni",
    "w_khorosho",
@@ -622,8 +552,8 @@
    "type": "multiple_choice",
    "question": "Loro pagano bene.",
    "options": [
-    "Они́ дороги́е.",
-    "Они́ ма́ленькие.",
+    "Где́ они́?",
+    "И́м пла́тят?",
     "Они́ хорошо́ пла́тят.",
     "Ско́лько тебе́ пла́тят?"
    ],
@@ -639,11 +569,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nravitsya"
   ],
@@ -661,7 +587,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000820",
@@ -672,9 +598,7 @@
    "azioni"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
+   "verbs-present"
   ],
   "words": [
    "w_smotret"
@@ -693,7 +617,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000821",
@@ -703,11 +627,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_koshka",
    "w_spat"
@@ -719,8 +639,8 @@
    "type": "multiple_choice",
    "question": "Ко́шка спи́т.",
    "options": [
-    "Lui dorme?",
     "Dormiamo.",
+    "Lui dorme?",
     "Dormivo.",
     "Il gatto sta dormendo."
    ],
@@ -737,11 +657,7 @@
    "azioni",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nravitsya",
    "w_videt",
@@ -763,7 +679,7 @@
     },
     {
      "ru": "учи́ть",
-     "it": "studiare"
+     "it": "imparare"
     }
    ]
   },
@@ -775,13 +691,11 @@
   "level": "a1",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "grammatica",
+   "cibo-bevande",
+   "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_lyubit",
@@ -813,7 +727,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000824",
@@ -822,13 +736,10 @@
   "difficulty": 2,
   "topics": [
    "azioni",
+   "cibo-bevande",
    "avverbi"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_spat",
    "w_gotovit",
@@ -869,7 +780,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000825",
@@ -879,11 +790,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_videt",
    "w_smotret",
@@ -914,7 +821,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000826",
@@ -926,11 +833,7 @@
    "azioni",
    "luoghi"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_spat",
@@ -963,7 +866,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000827",
@@ -975,11 +878,7 @@
    "grammatica",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_smotret",
    "w_spat",
@@ -1004,7 +903,7 @@
     },
     {
      "ru": "учи́ть",
-     "it": "studiare"
+     "it": "imparare"
     },
     {
      "ru": "э́то",
@@ -1029,14 +928,10 @@
   "difficulty": 2,
   "topics": [
    "mente",
-   "lavoro-scuola",
-   "soldi"
+   "cibo-bevande",
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pomnit",
    "w_gotovit",
@@ -1059,7 +954,7 @@
     },
     {
      "ru": "учи́ть",
-     "it": "studiare"
+     "it": "imparare"
     },
     {
      "ru": "плати́ть",
@@ -1078,11 +973,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_nravitsya"
@@ -1104,7 +995,7 @@
     "мне́ нра́вится"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000830",
@@ -1112,15 +1003,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "azioni",
-   "mente",
-   "lavoro-scuola"
+   "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_videt"
   ],
@@ -1136,7 +1021,7 @@
     "видеть"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000831",
@@ -1147,11 +1032,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_nravitsya"
@@ -1173,7 +1054,7 @@
     "тебе́ нра́вится"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000832",
@@ -1183,11 +1064,7 @@
   "topics": [
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_uchit"
   ],
@@ -1197,7 +1074,7 @@
   "payload": {
    "type": "dictation",
    "text": "учи́ть",
-   "translation_it": "studiare",
+   "translation_it": "imparare",
    "accepted": [
     "учи́ть",
     "учить"
@@ -1213,11 +1090,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_koshka",
    "w_spat"
@@ -1239,7 +1112,7 @@
     "ко́шка спи́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000834",
@@ -1247,15 +1120,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "azioni",
-   "mente",
-   "lavoro-scuola"
+   "cibo-bevande"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gotovit"
   ],
@@ -1271,7 +1138,7 @@
     "готовить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000835",
@@ -1282,11 +1149,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-2",
-   "reflexive"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_spat",
@@ -1310,6 +1173,6 @@
     "я́ спа́л де́вять часо́в"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

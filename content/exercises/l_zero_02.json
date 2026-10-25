@@ -26,7 +26,8 @@
     "taksì"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000032",
@@ -36,10 +37,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bar"
   ],
@@ -57,7 +55,7 @@
     "un bar"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000033",
@@ -67,10 +65,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_voda"
@@ -93,7 +88,7 @@
     "questa e acqua"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000034",
@@ -103,10 +98,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bar"
   ],
@@ -125,7 +117,7 @@
     "кафе"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000035",
@@ -135,10 +127,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_da",
    "w_eto",
@@ -162,7 +151,7 @@
     "да э́то вино́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000036",
@@ -191,7 +180,8 @@
     "pìvo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000037",
@@ -201,10 +191,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_voda"
   ],
@@ -222,7 +209,7 @@
     "un'acqua"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000038",
@@ -256,7 +243,8 @@
     "dove sono?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000039",
@@ -266,10 +254,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -286,7 +271,7 @@
    ],
    "hint_it": "Sì, questo è vino."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000040",
@@ -297,8 +282,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
+   "alphabet-2"
   ],
   "words": [
    "w_vino"
@@ -316,7 +300,7 @@
    ],
    "hint_it": "vino, si legge «vinò»"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000041",
@@ -326,10 +310,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vino"
   ],
@@ -346,7 +327,7 @@
    ],
    "hint_it": "Sì, questo è vino."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000042",
@@ -357,8 +338,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
+   "alphabet-2"
   ],
   "words": [
    "w_pivo"
@@ -376,7 +356,7 @@
    ],
    "hint_it": "birra, si legge «pìvo»"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000043",
@@ -386,10 +366,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -408,7 +385,7 @@
    ],
    "hint_it": "Questa è acqua."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000044",
@@ -419,8 +396,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
+   "alphabet-2"
   ],
   "words": [
    "w_oni"
@@ -438,7 +414,7 @@
    ],
    "hint_it": "loro, si legge «onì»"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000045",
@@ -470,7 +446,8 @@
    ],
    "hint_it": "Dove sono?"
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000046",
@@ -481,8 +458,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
+   "alphabet-2"
   ],
   "words": [
    "w_bar"
@@ -501,7 +477,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000047",
@@ -512,8 +488,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
+   "alphabet-2"
   ],
   "words": [
    "w_on"
@@ -532,7 +507,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000048",
@@ -543,8 +518,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
+   "alphabet-2"
   ],
   "words": [
    "w_taksi"
@@ -563,7 +537,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000049",
@@ -574,8 +548,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
+   "alphabet-2"
   ],
   "words": [
    "w_pivo"
@@ -594,7 +567,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000050",
@@ -604,10 +577,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_voda"
@@ -626,7 +596,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000051",
@@ -636,10 +606,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni"
   ],
@@ -657,7 +624,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000052",
@@ -688,7 +655,8 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: genere grammaticale chiesto prima di zero_08"
  },
  {
   "id": "e_000053",
@@ -699,8 +667,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
+   "alphabet-2"
   ],
   "words": [
    "w_vino",
@@ -726,7 +693,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000054",
@@ -737,8 +704,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
+   "alphabet-2"
   ],
   "words": [
    "w_pivo"
@@ -767,7 +733,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000055",
@@ -778,8 +744,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
+   "alphabet-2"
   ],
   "words": [
    "w_pivo",
@@ -811,7 +776,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000056",
@@ -821,10 +786,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni",
    "w_ona",
@@ -850,7 +812,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000057",
@@ -892,7 +854,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000058",
@@ -902,10 +865,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bar",
    "w_voda",
@@ -946,7 +906,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000059",
@@ -957,8 +917,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
+   "alphabet-2"
   ],
   "words": [
    "w_vino",
@@ -978,7 +937,7 @@
     "Ви"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000060",
@@ -988,10 +947,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_da",
    "w_eto",
@@ -1014,7 +970,7 @@
     "да э́то вино́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000061",
@@ -1024,10 +980,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vino"
   ],
@@ -1043,7 +996,7 @@
     "вино"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000062",
@@ -1054,8 +1007,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
+   "alphabet-2"
   ],
   "words": [
    "w_oni",
@@ -1075,7 +1027,7 @@
     "Ки"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000063",
@@ -1111,7 +1063,8 @@
     "где́ они́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000064",
@@ -1121,10 +1074,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona"
   ],
@@ -1140,7 +1090,7 @@
     "она"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000065",
@@ -1151,8 +1101,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-2",
-   "false-friends"
+   "alphabet-2"
   ],
   "words": [
    "w_pivo"
@@ -1169,6 +1118,222 @@
     "па́",
     "ПА",
     "Па"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_001973",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_ona"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "она́",
+   "answer": "lei",
+   "accepted": [
+    "lei"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001974",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_da",
+   "w_eto",
+   "w_vino"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Да, э́то вино́.",
+   "answer": "Sì, questo è vino.",
+   "accepted": [
+    "Sì, questo è vino.",
+    "Sì questo è vino",
+    "sì questo è vino",
+    "sì, questo è vino.",
+    "Si', questo e' vino.",
+    "si' questo e' vino",
+    "si questo e vino"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001975",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_vino"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "vino",
+   "answer": "вино́",
+   "accepted": [
+    "вино́",
+    "вино"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001976",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_voda"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___.",
+   "answer": "вода́",
+   "accepted": [
+    "вода́",
+    "вода"
+   ],
+   "hint_it": "Questa è acqua."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001977",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2"
+  ],
+  "words": [
+   "w_on"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il suono della lettera.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge la lettera «У у»?",
+   "options": [
+    "u",
+    "v",
+    "y",
+    "m"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001978",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2"
+  ],
+  "words": [
+   "w_oni",
+   "w_vino"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 28,
+  "prompt_it": "Abbina ogni lettera russa al suo suono.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "И и",
+     "it": "i"
+    },
+    {
+     "ru": "Б б",
+     "it": "b"
+    },
+    {
+     "ru": "Р р",
+     "it": "r"
+    },
+    {
+     "ru": "У у",
+     "it": "u"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001979",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [
+   "alphabet-2"
+  ],
+  "words": [
+   "w_oni",
+   "w_vino"
+  ],
+  "lesson": "l_zero_02",
+  "est_seconds": 10,
+  "prompt_it": "Ascolta e scrivi la sillaba in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ди́",
+   "translation_it": "sillaba «di»",
+   "accepted": [
+    "ди",
+    "ди́",
+    "ДИ",
+    "Ди"
    ]
   },
   "qa_status": "pending"

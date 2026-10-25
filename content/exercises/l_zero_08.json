@@ -7,10 +7,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dver"
   ],
@@ -28,7 +25,7 @@
     "una porta"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000254",
@@ -38,10 +35,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_chelovek"
@@ -61,7 +55,7 @@
     "queste sono persone."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000255",
@@ -71,10 +65,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dver"
   ],
@@ -91,7 +82,7 @@
     "дверь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000256",
@@ -101,10 +92,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my",
    "w_chelovek"
@@ -127,7 +115,7 @@
     "мы́ лю́ди"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000257",
@@ -137,10 +125,7 @@
   "topics": [
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rabota"
   ],
@@ -158,7 +143,7 @@
     "un lavoro"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000258",
@@ -168,10 +153,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_zhenshchina"
@@ -195,7 +177,7 @@
     "io sono una donna."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000259",
@@ -206,10 +188,7 @@
    "lavoro-scuola",
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chelovek"
   ],
@@ -226,7 +205,7 @@
     "человек"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000260",
@@ -236,10 +215,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_voda"
@@ -262,7 +238,7 @@
     "э́то вода́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000261",
@@ -272,10 +248,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -294,7 +267,7 @@
    ],
    "hint_it": "Questa è la sua ragazza."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000262",
@@ -305,10 +278,7 @@
    "lavoro-scuola",
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chelovek"
   ],
@@ -325,7 +295,7 @@
    ],
    "hint_it": "Io sono umano."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000263",
@@ -335,10 +305,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my"
   ],
@@ -357,7 +324,7 @@
    ],
    "hint_it": "Siamo persone."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000264",
@@ -368,10 +335,7 @@
    "lavoro-scuola",
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chelovek"
   ],
@@ -388,7 +352,7 @@
    ],
    "hint_it": "Siamo persone."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000265",
@@ -399,10 +363,7 @@
    "lavoro-scuola",
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_devushka"
   ],
@@ -419,7 +380,7 @@
    ],
    "hint_it": "Questa è la sua ragazza."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000266",
@@ -430,10 +391,7 @@
    "lavoro-scuola",
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zhenshchina"
   ],
@@ -450,7 +408,7 @@
    ],
    "hint_it": "Sono una donna."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000267",
@@ -460,10 +418,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -482,7 +437,7 @@
    ],
    "hint_it": "Queste sono persone."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000268",
@@ -492,10 +447,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_zhenshchina"
@@ -514,7 +466,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000269",
@@ -525,10 +477,7 @@
    "lavoro-scuola",
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chelovek"
   ],
@@ -546,7 +495,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000270",
@@ -558,8 +507,7 @@
    "casa"
   ],
   "grammar_tags": [
-   "gender",
-   "nouns"
+   "gender"
   ],
   "words": [
    "w_nosok"
@@ -577,7 +525,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000271",
@@ -609,7 +557,8 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000272",
@@ -620,10 +569,7 @@
    "lavoro-scuola",
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chelovek"
   ],
@@ -641,7 +587,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000273",
@@ -651,10 +597,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_chelovek"
@@ -673,7 +616,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000274",
@@ -683,10 +626,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dver"
   ],
@@ -704,7 +644,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000275",
@@ -714,10 +654,7 @@
   "topics": [
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chelovek",
    "w_nosok",
@@ -753,7 +690,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000276",
@@ -763,10 +700,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_chelovek",
@@ -797,7 +731,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000277",
@@ -809,10 +743,7 @@
    "lavoro-scuola",
    "saluti"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nosok",
    "w_dver",
@@ -853,7 +784,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000278",
@@ -864,10 +795,7 @@
    "lavoro-scuola",
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nosok",
    "w_devushka",
@@ -908,7 +836,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000279",
@@ -919,10 +847,7 @@
    "avverbi",
    "saluti"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chelovek",
    "w_rubl",
@@ -963,7 +888,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000280",
@@ -974,10 +899,7 @@
    "grammatica",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rubl",
    "w_devushka",
@@ -1018,7 +940,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000281",
@@ -1028,10 +950,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_chelovek"
@@ -1053,7 +972,7 @@
     "э́то лю́ди"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000282",
@@ -1064,10 +983,7 @@
    "lavoro-scuola",
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nosok"
   ],
@@ -1083,7 +999,7 @@
     "носок"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000283",
@@ -1093,10 +1009,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_voda"
@@ -1118,7 +1031,7 @@
     "э́то вода́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000284",
@@ -1129,10 +1042,7 @@
    "lavoro-scuola",
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chelovek"
   ],
@@ -1148,7 +1058,7 @@
     "человек"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000285",
@@ -1158,10 +1068,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_ona",
@@ -1186,7 +1093,7 @@
     "это ее девушка"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000286",
@@ -1197,10 +1104,7 @@
    "lavoro-scuola",
    "casa"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rubl"
   ],
@@ -1216,7 +1120,7 @@
     "рубль"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000287",
@@ -1226,10 +1130,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "gender",
-   "nouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_chelovek"
@@ -1250,6 +1151,35 @@
     "я человек",
     "я́ челове́к"
    ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002012",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_ya",
+   "w_chelovek"
+  ],
+  "lesson": "l_zero_08",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ челове́к.",
+   "options": [
+    "Ho freddo.",
+    "Siamo persone.",
+    "Sono io.",
+    "Io sono umano."
+   ],
+   "correct": 3
   },
   "qa_status": "pending"
  }

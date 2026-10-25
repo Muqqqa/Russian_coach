@@ -7,10 +7,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_neskolko"
   ],
@@ -27,7 +24,7 @@
     "diversi"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000595",
@@ -37,10 +34,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my",
    "w_semya"
@@ -64,7 +58,7 @@
     "noi siamo una famiglia."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000596",
@@ -76,10 +70,7 @@
    "avverbi",
    "famiglia"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_semya"
   ],
@@ -96,7 +87,7 @@
     "семья"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000597",
@@ -140,7 +131,8 @@
     "где́ роди́тели"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000598",
@@ -152,10 +144,7 @@
    "avverbi",
    "famiglia"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_semya"
   ],
@@ -173,7 +162,7 @@
     "una famiglia"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000599",
@@ -183,10 +172,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_zhenshchina"
@@ -210,7 +196,7 @@
     "tu sei una donna."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000600",
@@ -220,10 +206,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_neskolko"
   ],
@@ -240,7 +223,7 @@
     "несколько"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000601",
@@ -276,7 +259,8 @@
     "где́ же́нщина"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000602",
@@ -286,10 +270,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mnogo"
   ],
@@ -306,7 +287,7 @@
     "tanto"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000603",
@@ -319,8 +300,7 @@
    "famiglia"
   ],
   "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
+   "plural-nominative"
   ],
   "words": [
    "w_zhenshchina"
@@ -338,7 +318,7 @@
    ],
    "hint_it": "Plurale di «же́нщина» (donna)."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000604",
@@ -350,10 +330,7 @@
    "avverbi",
    "famiglia"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_semya"
   ],
@@ -370,7 +347,7 @@
    ],
    "hint_it": "È una famiglia!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000605",
@@ -380,10 +357,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -402,7 +376,7 @@
    ],
    "hint_it": "È molto!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000606",
@@ -412,10 +386,7 @@
   "topics": [
    "persone"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_podruga"
   ],
@@ -432,7 +403,7 @@
    ],
    "hint_it": "Chi sei, amica?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000607",
@@ -442,10 +413,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tam"
   ],
@@ -462,7 +430,7 @@
    ],
    "hint_it": "Tutti sono lì."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000608",
@@ -472,10 +440,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni"
   ],
@@ -490,11 +455,16 @@
     "Они́",
     "Они",
     "они",
-    "они́"
+    "они́",
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
    ],
    "hint_it": "Sono bambini."
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: «Sono bambini» = Э́то де́ти"
  },
  {
   "id": "e_000609",
@@ -504,10 +474,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -526,7 +493,7 @@
    ],
    "hint_it": "È una famiglia!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000610",
@@ -536,10 +503,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vse"
   ],
@@ -558,7 +522,7 @@
    ],
    "hint_it": "Tutti stanno aspettando."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000611",
@@ -569,8 +533,7 @@
    "persone"
   ],
   "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
+   "plural-nominative"
   ],
   "words": [
    "w_podruga"
@@ -589,7 +552,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000612",
@@ -599,10 +562,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_brat"
@@ -615,9 +575,9 @@
    "question": "Вы́ бра́тья?",
    "options": [
     "Può.",
-    "Voi parlate.",
+    "Lei è padre?",
     "Siete fratelli?",
-    "Voi chi siete?"
+    "Siamo fratelli."
    ],
    "correct": 2
   },
@@ -631,10 +591,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mnogo"
   ],
@@ -652,7 +609,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000614",
@@ -665,8 +622,6 @@
    "famiglia"
   ],
   "grammar_tags": [
-   "plural-nominative",
-   "quantifiers",
    "gender"
   ],
   "words": [
@@ -685,7 +640,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000615",
@@ -695,10 +650,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my",
    "w_semya"
@@ -710,9 +662,9 @@
    "type": "multiple_choice",
    "question": "Siamo una famiglia.",
    "options": [
-    "Мы́ подру́ги.",
-    "Мы́ лю́ди.",
+    "Э́то семья́?",
     "Где́ мы́?",
+    "Мы́ бра́тья.",
     "Мы́ семья́."
    ],
    "correct": 3
@@ -729,10 +681,7 @@
    "avverbi",
    "famiglia"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_semya"
   ],
@@ -750,7 +699,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000617",
@@ -763,8 +712,7 @@
    "famiglia"
   ],
   "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
+   "plural-nominative"
   ],
   "words": [
    "w_semya"
@@ -783,7 +731,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000618",
@@ -794,10 +742,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u",
    "w_on",
@@ -812,9 +757,9 @@
    "question": "У него́ де́сять дете́й.",
    "options": [
     "Lui ha dieci figli.",
-    "È lui o no?",
-    "Ho otto fratelli.",
-    "\"Che ore sono adesso?\" \"Sono le dieci.\""
+    "Ho chiesto a lui.",
+    "Quanti anni hanno?",
+    "Oggi è giovedì."
    ],
    "correct": 0
   },
@@ -829,10 +774,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zhenshchina",
    "w_mnogo",
@@ -868,7 +810,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000620",
@@ -879,10 +821,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni",
    "w_rebyonok",
@@ -914,7 +853,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000621",
@@ -926,10 +865,7 @@
    "famiglia",
    "saluti"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_neskolko",
    "w_rebyonok",
@@ -970,7 +906,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000622",
@@ -980,10 +916,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rebyonok",
    "w_drug",
@@ -1014,7 +947,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000623",
@@ -1026,10 +959,7 @@
    "famiglia",
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gde",
    "w_roditel",
@@ -1060,7 +990,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000624",
@@ -1071,10 +1001,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_drug",
    "w_vse",
@@ -1115,7 +1042,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000625",
@@ -1127,10 +1054,7 @@
    "famiglia",
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_podruga",
    "w_roditel",
@@ -1156,7 +1080,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000626",
@@ -1166,10 +1090,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zdes",
    "w_rebyonok"
@@ -1191,7 +1112,7 @@
     "зде́сь де́ти"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000627",
@@ -1201,10 +1122,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_malo"
   ],
@@ -1220,7 +1138,7 @@
     "мало"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000628",
@@ -1230,10 +1148,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_semya"
@@ -1255,7 +1170,7 @@
     "э́то семья́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000629",
@@ -1265,10 +1180,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_neskolko"
   ],
@@ -1284,7 +1196,7 @@
     "несколько"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000630",
@@ -1292,12 +1204,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "grammatica"
+   "grammatica",
+   "azioni"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vse",
    "w_zhdat"
@@ -1319,7 +1229,7 @@
     "все́ жду́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000631",
@@ -1329,10 +1239,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mnogo"
   ],
@@ -1348,7 +1255,7 @@
     "много"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000632",
@@ -1359,10 +1266,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u",
    "w_ona",
@@ -1388,7 +1292,7 @@
     "у нее десять детей"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000633",
@@ -1398,10 +1302,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "plural-nominative",
-   "quantifiers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kazhdyy"
   ],
@@ -1415,6 +1316,69 @@
    "accepted": [
     "ка́ждый",
     "каждый"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002028",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "famiglia"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zhenshchina"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "же́нщина",
+   "answer": "donna",
+   "accepted": [
+    "donna",
+    "la donna",
+    "una donna"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002029",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_eto",
+   "w_semya"
+  ],
+  "lesson": "l_a1_05",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Э́то семья́!",
+   "answer": "È una famiglia!",
+   "accepted": [
+    "È una famiglia!",
+    "È una famiglia",
+    "è una famiglia",
+    "è una famiglia!",
+    "E' una famiglia!",
+    "e' una famiglia",
+    "e una famiglia"
    ]
   },
   "qa_status": "pending"

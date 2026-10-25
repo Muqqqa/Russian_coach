@@ -7,9 +7,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poetomu"
   ],
@@ -27,7 +25,7 @@
     "per questo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001242",
@@ -39,9 +37,7 @@
    "mente",
    "azioni"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zdravstvuyte",
    "w_chem",
@@ -63,7 +59,7 @@
     "salve. cosa posso fare per voi?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001243",
@@ -73,9 +69,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poetomu"
   ],
@@ -92,7 +86,7 @@
     "поэтому"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001244",
@@ -104,9 +98,7 @@
    "mente",
    "azioni"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zdravstvuyte",
    "w_chem",
@@ -131,7 +123,7 @@
     "здра́вствуйте чем могу́ помо́чь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001245",
@@ -141,9 +133,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_no"
   ],
@@ -159,7 +149,7 @@
     "ma"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001246",
@@ -170,9 +160,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_zdes",
@@ -205,7 +193,7 @@
     "io sono qui da piu tempo di te"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001247",
@@ -216,9 +204,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_no",
    "w_pochemu"
@@ -241,7 +227,7 @@
     "но почему́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001248",
@@ -251,9 +237,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khotya"
   ],
@@ -269,7 +253,7 @@
     "sebbene"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001249",
@@ -279,9 +263,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khotet"
   ],
@@ -298,7 +280,7 @@
    ],
    "hint_it": "Se vuoi parlare, parla."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001250",
@@ -309,9 +291,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zdravstvuyte"
   ],
@@ -330,7 +310,7 @@
    ],
    "hint_it": "Salve. Cosa posso fare per voi?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001251",
@@ -340,9 +320,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chem"
   ],
@@ -359,7 +337,7 @@
    ],
    "hint_it": "Salve. Cosa posso fare per voi?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001252",
@@ -369,9 +347,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_no"
   ],
@@ -384,11 +360,16 @@
    "answer": "Но",
    "accepted": [
     "Но",
-    "но"
+    "но",
+    "А",
+    "а",
+    "А́",
+    "а́"
    ],
    "hint_it": "Ma perché?"
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: «А почему́?» valido"
  },
  {
   "id": "e_001253",
@@ -398,9 +379,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_esli"
   ],
@@ -419,7 +398,7 @@
    ],
    "hint_it": "Se vuoi parlare, parla."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001254",
@@ -429,9 +408,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pochemu"
   ],
@@ -448,7 +425,7 @@
    ],
    "hint_it": "Ma perché?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001255",
@@ -459,9 +436,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dolgiy"
   ],
@@ -478,7 +453,7 @@
    ],
    "hint_it": "Sono qui da più tempo di te."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001256",
@@ -490,9 +465,7 @@
    "mente",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_esli",
    "w_khotet",
@@ -507,8 +480,8 @@
    "options": [
     "Se vuoi parlare, parla.",
     "Ho sete.",
-    "Parla più piano, per favore.",
-    "Volere è potere."
+    "Volere è potere.",
+    "Volere vuol dire potere."
    ],
    "correct": 0
   },
@@ -522,9 +495,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_esli"
   ],
@@ -542,7 +513,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001258",
@@ -554,9 +525,7 @@
    "mente",
    "azioni"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zdravstvuyte",
    "w_chem",
@@ -570,10 +539,10 @@
    "type": "multiple_choice",
    "question": "Salve. Cosa posso fare per voi?",
    "options": [
-    "Хоте́ть зна́чит мо́чь.",
+    "Я́ зде́сь до́льше, чем ты́.",
     "Здра́вствуйте. Чем могу́ помо́чь?",
     "Не могу́ ку́шать.",
-    "Хоте́ть - зна́чит мо́чь."
+    "Ва́с ничто́ не мо́жет останови́ть."
    ],
    "correct": 1
   },
@@ -587,9 +556,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poetomu"
   ],
@@ -607,7 +574,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001260",
@@ -618,9 +585,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_zdes",
@@ -635,10 +600,10 @@
    "type": "multiple_choice",
    "question": "Я́ зде́сь до́льше, чем ты́.",
    "options": [
-    "Quali sono le bibite che non ti piacciono?",
+    "Siamo qui dal mese di ottobre.",
     "Sono qui da più tempo di te.",
-    "Vieni da noi, qui è libero.",
-    "Questo è il villaggio dove sono nata."
+    "Non ti ricordi il mio nome?",
+    "Che ti è successo alla faccia?"
    ],
    "correct": 1
   },
@@ -652,9 +617,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_no"
   ],
@@ -666,7 +629,7 @@
    "question": "Che cosa significa «но́»?",
    "options": [
     "se",
-    "di",
+    "che",
     "ma",
     "per"
    ],
@@ -684,9 +647,7 @@
    "mente",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_esli",
    "w_khotet",
@@ -699,9 +660,9 @@
    "type": "multiple_choice",
    "question": "Se vuoi parlare, parla.",
    "options": [
-    "Она́ говори́т по-ру́сски.",
+    "Я́ пра́вильно говорю́?",
     "Ты́ говори́шь по-ру́сски?",
-    "Я́ пи́ть хочу́.",
+    "Вы́ говори́те по-ру́сски?",
     "Е́сли хо́чешь говори́ть, говори́."
    ],
    "correct": 3
@@ -717,9 +678,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poetomu",
    "w_no",
@@ -755,7 +714,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001264",
@@ -767,9 +726,7 @@
    "mente",
    "azioni"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zdravstvuyte",
    "w_chem",
@@ -798,7 +755,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001265",
@@ -853,7 +810,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001266",
@@ -864,9 +822,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khotya",
    "w_no",
@@ -903,7 +859,7 @@
     },
     {
      "ru": "че́м",
-     "it": "di"
+     "it": "che"
     }
    ]
   },
@@ -962,7 +918,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001268",
@@ -1017,7 +974,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001269",
@@ -1029,9 +987,7 @@
    "mente",
    "azioni"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zdravstvuyte",
    "w_chem",
@@ -1055,7 +1011,7 @@
     "здра́вствуйте чем могу́ помо́чь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001270",
@@ -1065,9 +1021,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chtoby"
   ],
@@ -1083,7 +1037,7 @@
     "чтобы"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001271",
@@ -1095,9 +1049,7 @@
    "mente",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_esli",
    "w_khotet",
@@ -1120,7 +1072,7 @@
     "е́сли хо́чешь говори́ть говори́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001272",
@@ -1130,9 +1082,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khotya"
   ],
@@ -1148,7 +1098,7 @@
     "хотя"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001273",
@@ -1159,9 +1109,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_no",
    "w_pochemu"
@@ -1183,7 +1131,7 @@
     "но почему́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001274",
@@ -1193,9 +1141,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_esli"
   ],
@@ -1211,7 +1157,7 @@
     "если"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001275",
@@ -1221,9 +1167,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "conjunctions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poetomu"
   ],
@@ -1237,6 +1181,164 @@
    "accepted": [
     "поэ́тому",
     "поэтому"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002071",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "soldi",
+   "azioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_chem",
+   "w_no",
+   "w_esli",
+   "w_kupit",
+   "w_zhdat",
+   "w_dumat"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "че́м",
+     "it": "che"
+    },
+    {
+     "ru": "но́",
+     "it": "ma"
+    },
+    {
+     "ru": "е́сли",
+     "it": "se"
+    },
+    {
+     "ru": "купи́ть",
+     "it": "comprare"
+    },
+    {
+     "ru": "жда́ть",
+     "it": "aspettare"
+    },
+    {
+     "ru": "ду́мать",
+     "it": "pensare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002072",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_esli",
+   "w_no",
+   "w_chem",
+   "w_salat",
+   "w_tikhiy",
+   "w_gromkiy"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "е́сли",
+     "it": "se"
+    },
+    {
+     "ru": "но́",
+     "it": "ma"
+    },
+    {
+     "ru": "че́м",
+     "it": "che"
+    },
+    {
+     "ru": "сала́т",
+     "it": "insalata"
+    },
+    {
+     "ru": "ти́хий",
+     "it": "silenzioso"
+    },
+    {
+     "ru": "гро́мкий",
+     "it": "rumoroso"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002073",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_poetomu",
+   "w_no",
+   "w_esli",
+   "w_bez",
+   "w_muzh",
+   "w_staryy"
+  ],
+  "lesson": "l_a1_22",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "поэ́тому",
+     "it": "perciò"
+    },
+    {
+     "ru": "но́",
+     "it": "ma"
+    },
+    {
+     "ru": "е́сли",
+     "it": "se"
+    },
+    {
+     "ru": "бе́з",
+     "it": "senza"
+    },
+    {
+     "ru": "му́ж",
+     "it": "marito"
+    },
+    {
+     "ru": "ста́рый",
+     "it": "vecchio"
+    }
    ]
   },
   "qa_status": "pending"

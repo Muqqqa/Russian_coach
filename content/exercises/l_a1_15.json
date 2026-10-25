@@ -7,10 +7,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_posle"
   ],
@@ -26,7 +23,7 @@
     "dopo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000992",
@@ -38,10 +35,7 @@
    "movimento",
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_idti",
@@ -67,7 +61,7 @@
     "io sto venendo da voi."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000993",
@@ -77,10 +71,7 @@
   "topics": [
    "luoghi"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_strana"
   ],
@@ -97,7 +88,7 @@
     "страна"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000994",
@@ -109,10 +100,7 @@
    "movimento",
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_idti",
@@ -137,7 +125,7 @@
     "я́ иду́ к ва́м"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000995",
@@ -147,10 +135,7 @@
   "topics": [
    "luoghi"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_strana"
   ],
@@ -165,9 +150,7 @@
    "accepted": [
     "paese",
     "il paese",
-    "un paese",
-    "la paese",
-    "una paese"
+    "un paese"
    ]
   },
   "qa_status": "pending"
@@ -180,10 +163,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_s",
    "w_den",
@@ -207,7 +187,7 @@
     "buona festa del papa"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000997",
@@ -219,10 +199,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_izvinite",
    "w_k",
@@ -254,7 +231,7 @@
     "извини́те мо́жно войти́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000998",
@@ -264,10 +241,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pered"
   ],
@@ -284,7 +258,7 @@
     "prima di"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000999",
@@ -295,8 +269,7 @@
    "luoghi"
   ],
   "grammar_tags": [
-   "genitive",
-   "prepositions"
+   "genitive"
   ],
   "words": [
    "w_gorod"
@@ -314,7 +287,7 @@
    ],
    "hint_it": "Lui viene dalla città."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001000",
@@ -324,10 +297,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_izvinite"
   ],
@@ -342,11 +312,16 @@
     "Извини́те",
     "Извините",
     "извините",
-    "извини́те"
+    "извини́те",
+    "Прости́те",
+    "Простите",
+    "простите",
+    "прости́те"
    ],
    "hint_it": "Scusate, sono senza orologio."
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: Прости́те sinonimo"
  },
  {
   "id": "e_001001",
@@ -357,8 +332,7 @@
    "luoghi"
   ],
   "grammar_tags": [
-   "genitive",
-   "prepositions"
+   "genitive"
   ],
   "words": [
    "w_gorod"
@@ -376,7 +350,7 @@
    ],
    "hint_it": "Fino alla città è lontano."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001002",
@@ -386,10 +360,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_izvinite"
   ],
@@ -408,7 +379,8 @@
    ],
    "hint_it": "Scusate, posso entrare?"
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: Прости́те sinonimo"
  },
  {
   "id": "e_001003",
@@ -420,8 +392,7 @@
    "luoghi"
   ],
   "grammar_tags": [
-   "genitive",
-   "prepositions"
+   "genitive"
   ],
   "words": [
    "w_mama"
@@ -439,7 +410,7 @@
    ],
    "hint_it": "Questo è per la mamma."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001004",
@@ -449,10 +420,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dlya"
   ],
@@ -468,7 +436,7 @@
    ],
    "hint_it": "Questo è per te."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001005",
@@ -480,8 +448,7 @@
    "luoghi"
   ],
   "grammar_tags": [
-   "genitive",
-   "prepositions"
+   "genitive"
   ],
   "words": [
    "w_sestra"
@@ -499,7 +466,7 @@
    ],
    "hint_it": "Questo è per mia sorella."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001006",
@@ -510,8 +477,7 @@
    "luoghi"
   ],
   "grammar_tags": [
-   "genitive",
-   "prepositions"
+   "genitive"
   ],
   "words": [
    "w_rossiya"
@@ -529,7 +495,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001007",
@@ -540,10 +506,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_dlya",
@@ -556,9 +519,9 @@
    "type": "multiple_choice",
    "question": "Э́то для тебя́!",
    "options": [
+    "Sei molto intelligente.",
+    "Questo posto è libero?",
     "Questo è vostro figlio?",
-    "Vai anche tu?",
-    "Questa è una domanda complessa.",
     "Questo è per te."
    ],
    "correct": 3
@@ -573,10 +536,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_k"
   ],
@@ -594,7 +554,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001009",
@@ -605,8 +565,6 @@
    "luoghi"
   ],
   "grammar_tags": [
-   "genitive",
-   "prepositions",
    "gender"
   ],
   "words": [
@@ -625,7 +583,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001010",
@@ -637,10 +595,7 @@
    "movimento",
    "grammatica"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_idti",
    "w_k",
@@ -656,9 +611,9 @@
    "question": "Vieni da noi, qui è libero.",
    "options": [
     "Иди́ к на́м, зде́сь свобо́дно.",
-    "Мы́ идём в ба́р.",
-    "Сего́дня у на́с четве́рг.",
-    "Мы́ зде́сь с октября́ ме́сяца."
+    "Я́ иду́ бы́стро.",
+    "Мы́ с тобо́й!",
+    "Мы́ е́хали не́сколько часо́в."
    ],
    "correct": 0
   },
@@ -672,10 +627,7 @@
   "topics": [
    "luoghi"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_strana"
   ],
@@ -693,7 +645,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001012",
@@ -704,8 +656,7 @@
    "luoghi"
   ],
   "grammar_tags": [
-   "genitive",
-   "prepositions"
+   "genitive"
   ],
   "words": [
    "w_derevnya"
@@ -724,7 +675,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001013",
@@ -734,10 +685,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mezhdu",
    "w_do",
@@ -773,7 +721,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001014",
@@ -783,10 +731,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chelovek",
    "w_bez",
@@ -818,7 +763,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001015",
@@ -830,10 +775,7 @@
    "luoghi",
    "cibo-bevande"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mezhdu",
    "w_dlya",
@@ -874,7 +816,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001016",
@@ -885,10 +827,7 @@
    "direzioni",
    "luoghi"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pered",
    "w_strana",
@@ -919,7 +858,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001017",
@@ -931,10 +870,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_s",
    "w_den",
@@ -967,7 +903,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001018",
@@ -979,10 +915,7 @@
    "luoghi",
    "mente"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mezhdu",
    "w_k",
@@ -1023,7 +956,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001019",
@@ -1033,10 +966,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dlya",
    "w_ot",
@@ -1067,7 +997,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001020",
@@ -1078,10 +1008,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_i",
    "w_dlya",
@@ -1104,7 +1031,7 @@
     "и для чего́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001021",
@@ -1114,10 +1041,7 @@
   "topics": [
    "luoghi"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_strana"
   ],
@@ -1133,7 +1057,7 @@
     "страна"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001022",
@@ -1145,10 +1069,7 @@
    "movimento",
    "grammatica"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_idti",
    "w_k",
@@ -1173,7 +1094,7 @@
     "иди́ к на́м зде́сь свобо́дно"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001023",
@@ -1183,10 +1104,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dlya"
   ],
@@ -1202,7 +1120,7 @@
     "для"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001024",
@@ -1212,10 +1130,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_s",
    "w_den",
@@ -1240,7 +1155,7 @@
     "с днем отца"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001025",
@@ -1250,10 +1165,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mezhdu"
   ],
@@ -1269,7 +1181,7 @@
     "между"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001026",
@@ -1278,12 +1190,10 @@
   "difficulty": 4,
   "topics": [
    "grammatica",
+   "descrizioni",
    "luoghi"
   ],
-  "grammar_tags": [
-   "genitive",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_svobodnyy",
@@ -1306,6 +1216,6 @@
     "э́то свобо́дная страна́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

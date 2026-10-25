@@ -27,7 +27,8 @@
     "pozhàlujsta"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000141",
@@ -37,11 +38,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bolshoy"
   ],
@@ -58,7 +55,7 @@
     "grosso"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000142",
@@ -69,11 +66,7 @@
    "ristorante",
    "saluti"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_schyot",
    "w_pozhaluysta"
@@ -93,7 +86,7 @@
     "il conto, per favore!"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000143",
@@ -105,11 +98,7 @@
    "avverbi",
    "direzioni"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_lyubit"
   ],
@@ -126,7 +115,7 @@
     "любить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000144",
@@ -137,11 +126,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_zdes"
@@ -164,7 +149,7 @@
     "что́ зде́сь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000145",
@@ -196,7 +181,8 @@
     "liubìt"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000146",
@@ -206,11 +192,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tolko"
   ],
@@ -227,7 +209,7 @@
     "soltanto"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000147",
@@ -237,11 +219,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_lyubit",
@@ -266,7 +244,7 @@
     "io la amo."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000148",
@@ -276,11 +254,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ochen"
   ],
@@ -299,7 +273,7 @@
     "очень"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000149",
@@ -331,7 +305,8 @@
    ],
    "hint_it": "grande: concorda con «acqua» (femminile)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: accordo aggettivo prima della lezione che lo spiega (a1_06); famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000150",
@@ -341,11 +316,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kto"
   ],
@@ -362,7 +333,7 @@
    ],
    "hint_it": "Voi chi siete?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000151",
@@ -373,9 +344,7 @@
    "descrizioni"
   ],
   "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
+   "alphabet-5"
   ],
   "words": [
    "w_bolshoy"
@@ -385,11 +354,11 @@
   "prompt_it": "Completa la parola con la lettera mancante.",
   "payload": {
    "type": "cloze",
-   "text": "бол___шой",
-   "answer": "ь",
+   "text": "большо___",
+   "answer": "й",
    "accepted": [
-    "ь",
-    "Ь"
+    "й",
+    "Й"
    ],
    "hint_it": "grande, si legge «bolsciòj»"
   },
@@ -405,11 +374,7 @@
    "avverbi",
    "direzioni"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_lyubit"
   ],
@@ -428,7 +393,7 @@
    ],
    "hint_it": "Mi piace il caffè."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000153",
@@ -439,9 +404,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
+   "alphabet-5"
   ],
   "words": [
    "w_bystro"
@@ -459,7 +422,7 @@
    ],
    "hint_it": "velocemente, si legge «bỳstro»"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000154",
@@ -469,11 +432,7 @@
   "topics": [
    "ristorante"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_schyot"
   ],
@@ -492,7 +451,7 @@
    ],
    "hint_it": "Il conto, per favore!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000155",
@@ -503,9 +462,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
+   "alphabet-5"
   ],
   "words": [
    "w_ochen"
@@ -515,11 +472,11 @@
   "prompt_it": "Completa la parola con la lettera mancante.",
   "payload": {
    "type": "cloze",
-   "text": "очен___",
-   "answer": "ь",
+   "text": "о___ень",
+   "answer": "ч",
    "accepted": [
-    "ь",
-    "Ь"
+    "ч",
+    "Ч"
    ],
    "hint_it": "molto, si legge «òcen»"
   },
@@ -533,11 +490,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona"
   ],
@@ -554,7 +507,7 @@
    ],
    "hint_it": "La amo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000157",
@@ -587,7 +540,8 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: accordo aggettivo prima della lezione che lo spiega (a1_06); famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000158",
@@ -598,9 +552,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
+   "alphabet-5"
   ],
   "words": [
    "w_vy",
@@ -620,7 +572,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000159",
@@ -632,9 +584,7 @@
    "descrizioni"
   ],
   "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
+   "alphabet-5"
   ],
   "words": [
    "w_pozhaluysta",
@@ -654,7 +604,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000160",
@@ -665,9 +615,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
+   "alphabet-5"
   ],
   "words": [
    "w_my"
@@ -686,7 +634,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000161",
@@ -696,11 +644,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_ty"
@@ -719,7 +663,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000162",
@@ -729,11 +673,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tolko"
   ],
@@ -751,7 +691,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000163",
@@ -762,11 +702,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_zdes"
@@ -785,7 +721,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000164",
@@ -795,11 +731,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zdes"
   ],
@@ -817,7 +749,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000165",
@@ -830,9 +762,7 @@
    "direzioni"
   ],
   "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
+   "alphabet-5"
   ],
   "words": [
    "w_lyubit"
@@ -857,7 +787,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000166",
@@ -870,9 +800,7 @@
    "direzioni"
   ],
   "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
+   "alphabet-5"
   ],
   "words": [
    "w_lyubit"
@@ -901,7 +829,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000167",
@@ -914,9 +842,7 @@
    "descrizioni"
   ],
   "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
+   "alphabet-5"
   ],
   "words": [
    "w_ty",
@@ -948,7 +874,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000168",
@@ -960,11 +886,7 @@
    "direzioni",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_lyubit",
@@ -1000,7 +922,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000169",
@@ -1012,11 +934,7 @@
    "ristorante",
    "saluti"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_lyubit",
    "w_kofe",
@@ -1049,7 +967,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000170",
@@ -1061,11 +979,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_my",
@@ -1106,7 +1020,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000171",
@@ -1118,9 +1032,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
+   "alphabet-5"
   ],
   "words": [
    "w_my",
@@ -1152,7 +1064,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000172",
@@ -1162,11 +1074,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_lyubit",
@@ -1191,7 +1099,7 @@
     "я люблю ее"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000173",
@@ -1201,11 +1109,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bystro"
   ],
@@ -1221,7 +1125,7 @@
     "быстро"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000174",
@@ -1232,11 +1136,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_zdes"
@@ -1258,7 +1158,7 @@
     "я́ зде́сь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000175",
@@ -1268,11 +1168,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zdes"
   ],
@@ -1288,7 +1184,7 @@
     "здесь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000176",
@@ -1298,11 +1194,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_kto"
@@ -1324,7 +1216,7 @@
     "вы́ кто́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000177",
@@ -1336,11 +1228,7 @@
    "avverbi",
    "direzioni"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_lyubit"
   ],
@@ -1356,7 +1244,7 @@
     "любить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000178",
@@ -1367,11 +1255,7 @@
    "descrizioni",
    "saluti"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bolshoy",
    "w_spasibo"
@@ -1393,7 +1277,7 @@
     "большо́е спаси́бо"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000179",
@@ -1403,11 +1287,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "alphabet-5",
-   "soft-sign",
-   "y-sound"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pozhaluysta"
   ],
@@ -1422,6 +1302,121 @@
     "пожа́луйста",
     "пожалуйста"
    ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002000",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_bystro"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "бы́стро",
+   "answer": "velocemente",
+   "accepted": [
+    "velocemente",
+    "in fretta"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002001",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_gde",
+   "w_my"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Где́ мы́?",
+   "answer": "Dove siamo?",
+   "accepted": [
+    "Dove siamo?",
+    "Dove siamo",
+    "dove siamo",
+    "dove siamo?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002002",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zdes"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Они́ ___.",
+   "answer": "зде́сь",
+   "accepted": [
+    "зде́сь",
+    "здесь"
+   ],
+   "hint_it": "Sono qui."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002003",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi",
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_lyubit"
+  ],
+  "lesson": "l_zero_05",
+  "est_seconds": 14,
+  "prompt_it": "Coniuga il verbo: scegli la forma giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Я́ ___ (люби́ть). — amare: io",
+   "options": [
+    "лю́бит",
+    "люблю́",
+    "лю́бишь",
+    "лю́бим"
+   ],
+   "correct": 1
   },
   "qa_status": "pending"
  }

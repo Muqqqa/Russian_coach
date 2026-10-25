@@ -7,9 +7,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kogda"
   ],
@@ -25,7 +23,7 @@
     "quando"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001028",
@@ -36,9 +34,7 @@
    "comunicazione",
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vopros",
    "w_pochemu"
@@ -61,7 +57,7 @@
     "la domanda e perche"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001029",
@@ -71,9 +67,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tak"
   ],
@@ -92,7 +86,7 @@
     "такой"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001030",
@@ -103,9 +97,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_privet",
    "w_ty",
@@ -129,7 +121,7 @@
     "приве́т ты́ ка́к"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001031",
@@ -139,9 +131,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tak"
   ],
@@ -158,7 +148,7 @@
     "cosi"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001032",
@@ -169,9 +159,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_otkuda",
    "w_vy"
@@ -191,7 +179,7 @@
     "di dove siete?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001033",
@@ -201,9 +189,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak"
   ],
@@ -220,7 +206,7 @@
     "как"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001034",
@@ -230,9 +216,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak",
    "w_rebyonok"
@@ -255,7 +239,7 @@
     "ка́к де́ти"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001035",
@@ -265,9 +249,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_otkuda"
   ],
@@ -286,7 +268,7 @@
    ],
    "hint_it": "Di dove sono?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001036",
@@ -296,9 +278,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tak"
   ],
@@ -317,7 +297,7 @@
    ],
    "hint_it": "Così rapido!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001037",
@@ -327,9 +307,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khorosho"
   ],
@@ -346,7 +324,7 @@
    ],
    "hint_it": "Bene così."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001038",
@@ -356,9 +334,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -377,7 +353,7 @@
    ],
    "hint_it": "È così."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001039",
@@ -387,9 +363,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni"
   ],
@@ -402,7 +376,11 @@
    "answer": "они́",
    "accepted": [
     "они́",
-    "они"
+    "они",
+    "ты́",
+    "ты",
+    "вы́",
+    "вы"
    ],
    "hint_it": "Come stanno?"
   },
@@ -416,9 +394,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zhit"
   ],
@@ -431,11 +407,16 @@
    "answer": "живёшь",
    "accepted": [
     "живёшь",
-    "живешь"
+    "живешь",
+    "ты́",
+    "ты",
+    "вы́",
+    "вы"
    ],
    "hint_it": "Come stai?"
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: «Ка́к ты́?» e' valido"
  },
  {
   "id": "e_001041",
@@ -445,9 +426,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tak"
   ],
@@ -466,7 +445,7 @@
    ],
    "hint_it": "Così va meglio?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001042",
@@ -477,9 +456,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_tak"
@@ -492,9 +469,9 @@
    "question": "Э́то та́к.",
    "options": [
     "È così.",
+    "È un problema.",
     "Sei tu.",
-    "Bene così.",
-    "Questo è l'altro."
+    "È molto!"
    ],
    "correct": 0
   },
@@ -508,9 +485,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_otkuda"
   ],
@@ -528,7 +503,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001044",
@@ -538,9 +513,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kakoy",
    "w_stol"
@@ -553,9 +526,9 @@
    "question": "Quale tavolo?",
    "options": [
     "Како́й сто́л?",
-    "Како́й на́ш?",
-    "Како́й о́н?",
-    "Сто́л гря́зный?"
+    "Э́то сто́л.",
+    "Сто́л гря́зный?",
+    "Како́й на́ш?"
    ],
    "correct": 0
   },
@@ -569,9 +542,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak"
   ],
@@ -589,7 +560,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001046",
@@ -600,9 +571,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_otkuda",
    "w_vy"
@@ -614,10 +583,10 @@
    "type": "multiple_choice",
    "question": "Отку́да вы́?",
    "options": [
-    "Siete belli.",
-    "Siete sporchi.",
+    "Vi aiuto?",
+    "Siete amici?",
     "Di dove siete?",
-    "Siete sporco."
+    "Siete sporchi."
    ],
    "correct": 2
   },
@@ -631,9 +600,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tak"
   ],
@@ -651,7 +618,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001048",
@@ -662,9 +629,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kogda",
    "w_ty",
@@ -677,10 +642,10 @@
    "type": "multiple_choice",
    "question": "Quando sei nato?",
    "options": [
-    "Ско́лько тебе́ пла́тят?",
+    "Кто́ ты́, подру́га?",
     "Когда́ ты́ роди́лся?",
-    "Э́то для тебя́!",
-    "Приве́т, ты́ ка́к?"
+    "Ты́ други́х спроси́л?",
+    "Ты́ говори́шь по-ру́сски?"
    ],
    "correct": 1
   },
@@ -695,9 +660,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak",
    "w_potomu_chto",
@@ -733,7 +696,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001050",
@@ -744,9 +707,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_da",
    "w_ya",
@@ -779,7 +740,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001051",
@@ -791,9 +752,7 @@
    "grammatica",
    "cibo-bevande"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_otkuda",
    "w_pochemu",
@@ -834,7 +793,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001052",
@@ -845,9 +804,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kakoy",
    "w_otkuda",
@@ -878,7 +835,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001053",
@@ -890,9 +847,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_tak",
@@ -925,7 +880,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001054",
@@ -936,9 +891,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak",
    "w_pochemu",
@@ -979,7 +932,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001055",
@@ -990,9 +943,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_takoy",
    "w_kogda",
@@ -1018,7 +969,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001056",
@@ -1028,9 +979,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kakoy",
    "w_on"
@@ -1052,7 +1001,7 @@
     "како́й о́н"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001057",
@@ -1062,9 +1011,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kogda"
   ],
@@ -1080,7 +1027,7 @@
     "когда"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001058",
@@ -1091,9 +1038,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_otkuda",
    "w_ty"
@@ -1115,7 +1060,7 @@
     "отку́да ты́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001059",
@@ -1125,9 +1070,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pochemu"
   ],
@@ -1143,7 +1086,7 @@
     "почему"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001060",
@@ -1153,9 +1096,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kakoy",
    "w_seychas",
@@ -1178,7 +1119,7 @@
     "како́й сейча́с ме́сяц"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001061",
@@ -1188,9 +1129,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak"
   ],
@@ -1206,7 +1145,7 @@
     "как"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001062",
@@ -1216,9 +1155,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "question-words"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kakoy",
    "w_nash"
@@ -1240,6 +1177,6 @@
     "како́й на́ш"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

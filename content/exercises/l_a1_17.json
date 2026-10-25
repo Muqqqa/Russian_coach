@@ -7,10 +7,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dozhd"
   ],
@@ -28,7 +25,7 @@
     "una pioggia"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001064",
@@ -39,10 +36,7 @@
    "descrizioni",
    "movimento"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_proshlyy",
    "w_noch",
@@ -67,7 +61,7 @@
     "la scorsa notte e nevicato"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001065",
@@ -77,10 +71,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sneg"
   ],
@@ -97,7 +88,7 @@
     "снег"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001066",
@@ -133,7 +124,8 @@
     "где́ до́ждь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Где дождь?» innaturale"
  },
  {
   "id": "e_001067",
@@ -143,10 +135,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_solntse"
   ],
@@ -161,9 +150,7 @@
    "accepted": [
     "sole",
     "il sole",
-    "un sole",
-    "la sole",
-    "una sole"
+    "un sole"
    ]
   },
   "qa_status": "pending"
@@ -177,10 +164,7 @@
    "avverbi",
    "direzioni"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak",
    "w_tam",
@@ -204,7 +188,7 @@
     "com'e il tempo li"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001069",
@@ -214,10 +198,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pogoda"
   ],
@@ -234,7 +215,7 @@
     "погода"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001070",
@@ -266,7 +247,8 @@
    ],
    "hint_it": "Dov'è la pioggia?"
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Где дождь?» innaturale"
  },
  {
   "id": "e_001071",
@@ -276,10 +258,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sneg"
   ],
@@ -296,7 +275,7 @@
    ],
    "hint_it": "La scorsa notte è nevicato."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001072",
@@ -326,7 +305,8 @@
    ],
    "hint_it": "Dov'è la pioggia?"
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Где дождь?» innaturale"
  },
  {
   "id": "e_001073",
@@ -336,10 +316,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_komnata"
   ],
@@ -356,7 +333,7 @@
    ],
    "hint_it": "In camera c'è caldo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001074",
@@ -366,10 +343,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_slishkom"
   ],
@@ -388,7 +362,7 @@
    ],
    "hint_it": "È troppo caldo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001075",
@@ -398,10 +372,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pogoda"
   ],
@@ -418,7 +389,7 @@
    ],
    "hint_it": "Com'è il tempo lì?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001076",
@@ -429,10 +400,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kakoy",
    "w_tam",
@@ -447,8 +415,8 @@
    "options": [
     "Com'è il tempo lì?",
     "Quale mese è ora?",
-    "Che tempo fa?",
-    "Tutti sono lì."
+    "Quali sono le bibite che non ti piacciono?",
+    "Che tempo fa?"
    ],
    "correct": 0
   },
@@ -462,10 +430,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_solntse"
   ],
@@ -483,7 +448,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001078",
@@ -494,8 +459,6 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "weather",
-   "impersonal",
    "gender"
   ],
   "words": [
@@ -514,7 +477,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001079",
@@ -546,7 +509,8 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001080",
@@ -556,10 +520,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sneg"
   ],
@@ -577,7 +538,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001081",
@@ -609,7 +570,8 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Где дождь?» innaturale"
  },
  {
   "id": "e_001082",
@@ -619,10 +581,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_solntse",
    "w_shtorm",
@@ -658,7 +617,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001083",
@@ -670,10 +629,7 @@
    "descrizioni",
    "movimento"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_slishkom",
    "w_zharko",
@@ -706,7 +662,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001084",
@@ -718,10 +674,7 @@
    "mente",
    "movimento"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_shtorm",
    "w_pogoda",
@@ -762,7 +715,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001085",
@@ -772,10 +725,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sneg",
    "w_solntse",
@@ -811,7 +761,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001086",
@@ -858,7 +808,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001087",
@@ -870,10 +821,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sneg",
    "w_pogoda",
@@ -914,7 +862,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001088",
@@ -924,10 +872,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_idti",
    "w_sneg"
@@ -951,7 +896,7 @@
     "идет снег"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001089",
@@ -961,10 +906,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_shtorm"
   ],
@@ -980,7 +922,7 @@
     "шторм"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001090",
@@ -1015,7 +957,8 @@
     "где́ до́ждь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Где дождь?» innaturale"
  },
  {
   "id": "e_001091",
@@ -1025,10 +968,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sneg"
   ],
@@ -1044,7 +984,7 @@
     "снег"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001092",
@@ -1055,10 +995,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kakoy",
    "w_tam",
@@ -1081,7 +1018,7 @@
     "кака́я та́м пого́да"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001093",
@@ -1091,10 +1028,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "weather",
-   "impersonal"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pogoda"
   ],
@@ -1108,6 +1042,224 @@
    "accepted": [
     "пого́да",
     "погода"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002050",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_shtorm"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "што́рм",
+   "answer": "tempesta",
+   "accepted": [
+    "tempesta",
+    "la tempesta",
+    "una tempesta"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002051",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_sneg"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ идёт?",
+   "answer": "Сне́г",
+   "accepted": [
+    "Сне́г",
+    "Снег",
+    "снег",
+    "сне́г"
+   ],
+   "hint_it": "Sta nevicando?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002052",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_idti"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Сне́г ___?",
+   "answer": "идёт",
+   "accepted": [
+    "идёт",
+    "идет"
+   ],
+   "hint_it": "Sta nevicando?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002053",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_sneg",
+   "w_idti"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Сне́г идёт?",
+   "options": [
+    "Andiamo là!",
+    "Pioveva.",
+    "Camminate lentamente.",
+    "Sta nevicando?"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002054",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_dozhd"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «до́ждь»?",
+   "options": [
+    "tè",
+    "pioggia",
+    "ottobre",
+    "giacca"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002055",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "avverbi",
+   "movimento"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_gde",
+   "w_solntse",
+   "w_kak",
+   "w_pogoda",
+   "w_vyyti"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Где́ со́лнце?",
+     "it": "Dov'è il sole?"
+    },
+    {
+     "ru": "Ка́к пого́да?",
+     "it": "Che tempo fa?"
+    },
+    {
+     "ru": "Вы́шло со́лнце.",
+     "it": "È uscito il sole."
+    },
+    {
+     "ru": "Сне́г идёт?",
+     "it": "Sta nevicando?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002056",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_idti",
+   "w_dozhd"
+  ],
+  "lesson": "l_a1_17",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Шёл до́ждь.",
+   "translation_it": "Pioveva.",
+   "accepted": [
+    "Шёл до́ждь.",
+    "Шёл до́ждь",
+    "Шёл дождь.",
+    "Шёл дождь",
+    "шёл дождь.",
+    "шёл дождь",
+    "шёл до́ждь",
+    "Шел дождь.",
+    "шел дождь"
    ]
   },
   "qa_status": "pending"

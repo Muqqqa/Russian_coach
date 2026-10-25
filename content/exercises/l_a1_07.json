@@ -7,10 +7,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pravilnyy"
   ],
@@ -27,7 +24,7 @@
     "giusto"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000675",
@@ -38,10 +35,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_v",
    "w_komnata",
@@ -65,7 +59,7 @@
     "in camera c'e caldo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000676",
@@ -75,10 +69,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_medlennyy"
   ],
@@ -95,7 +86,7 @@
     "медленный"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000677",
@@ -132,7 +123,8 @@
     "ты́ гря́зный"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000678",
@@ -142,10 +134,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tikhiy"
   ],
@@ -162,7 +151,7 @@
     "tranquillo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000679",
@@ -172,10 +161,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eda",
    "w_vkusnyy"
@@ -198,7 +184,7 @@
     "il cibo e delizioso"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000680",
@@ -208,10 +194,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bystryy"
   ],
@@ -228,7 +211,7 @@
     "быстрый"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000681",
@@ -240,10 +223,7 @@
    "descrizioni",
    "saluti"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_govorit",
    "w_medlennyy",
@@ -264,7 +244,14 @@
     "Говори медленнее пожалуйста",
     "говори медленнее, пожалуйста.",
     "говори медленнее пожалуйста",
-    "говори́ ме́дленнее пожа́луйста"
+    "говори́ ме́дленнее пожа́луйста",
+    "Говори́ ти́ше, пожа́луйста.",
+    "Говори́ ти́ше пожа́луйста",
+    "Говори тише, пожалуйста.",
+    "Говори тише пожалуйста",
+    "говори тише, пожалуйста.",
+    "говори тише пожалуйста",
+    "говори́ ти́ше пожа́луйста"
    ]
   },
   "qa_status": "pending"
@@ -277,10 +264,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_trudnyy"
   ],
@@ -296,7 +280,7 @@
     "difficile"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000683",
@@ -308,10 +292,7 @@
    "mente",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_moch",
    "w_govorit",
@@ -339,7 +320,7 @@
     "puoi parlare piu forte non ti sto capendo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000684",
@@ -370,7 +351,8 @@
    ],
    "hint_it": "forte: concorda con «vino» (neutro)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000685",
@@ -378,13 +360,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "descrizioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_medlenno"
   ],
@@ -401,7 +379,7 @@
    ],
    "hint_it": "Leggo lentamente."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000686",
@@ -432,7 +410,8 @@
    ],
    "hint_it": "gustoso: concorda con «acqua» (femminile)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000687",
@@ -442,10 +421,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty"
   ],
@@ -464,7 +440,7 @@
    ],
    "hint_it": "Sei sporco."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000688",
@@ -495,7 +471,8 @@
    ],
    "hint_it": "corretto: concorda con «case» (plurale)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000689",
@@ -505,10 +482,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dumat"
   ],
@@ -527,7 +501,7 @@
    ],
    "hint_it": "Pensa più velocemente!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000690",
@@ -558,7 +532,8 @@
    ],
    "hint_it": "silenzioso: concorda con «casa» (maschile)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000691",
@@ -568,10 +543,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_govorit"
   ],
@@ -590,7 +562,7 @@
    ],
    "hint_it": "Abbassa la voce."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000692",
@@ -621,7 +593,8 @@
    ],
    "hint_it": "sporco: concorda con «case» (plurale)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000693",
@@ -653,7 +626,8 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000694",
@@ -662,12 +636,10 @@
   "difficulty": 2,
   "topics": [
    "grammatica",
+   "avverbi",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_medlenno",
@@ -681,9 +653,9 @@
    "question": "Я́ ме́дленно чита́ю.",
    "options": [
     "Leggo lentamente.",
+    "Vengo dalla Russia.",
     "L'ho comprata.",
-    "Voglio vivere.",
-    "Ho chiesto a lui."
+    "Sono un uomo semplice."
    ],
    "correct": 0
   },
@@ -697,10 +669,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zharkiy"
   ],
@@ -714,7 +683,7 @@
     "freddo",
     "corretto",
     "caldo",
-    "gustoso"
+    "buono"
    ],
    "correct": 2
   },
@@ -729,10 +698,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_v",
    "w_komnata",
@@ -745,10 +711,10 @@
    "type": "multiple_choice",
    "question": "In camera c'è caldo.",
    "options": [
-    "Та́м жа́рко?",
-    "В ко́мнате жа́рко.",
     "Мне́ жа́рко.",
-    "Сего́дня жа́рко."
+    "В ко́мнате жа́рко.",
+    "Сего́дня жа́рко.",
+    "Та́м жа́рко?"
    ],
    "correct": 1
   },
@@ -762,10 +728,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gryaznyy"
   ],
@@ -783,7 +746,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000698",
@@ -815,7 +778,8 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000699",
@@ -827,10 +791,7 @@
    "descrizioni",
    "saluti"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_govorit",
    "w_medlennyy",
@@ -843,9 +804,9 @@
    "type": "multiple_choice",
    "question": "Говори́те ме́дленнее, пожа́луйста.",
    "options": [
-    "Dico bene?",
+    "Parli russo?",
     "Due caffè, per piacere.",
-    "Due, per favore.",
+    "Lei parla russo.",
     "Parlate più piano, per favore."
    ],
    "correct": 3
@@ -860,10 +821,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tikho"
   ],
@@ -877,7 +835,7 @@
     "in russo",
     "domani",
     "molto",
-    "piano"
+    "sottovoce"
    ],
    "correct": 3
   },
@@ -892,10 +850,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tam",
    "w_kholodno"
@@ -907,8 +862,8 @@
    "type": "multiple_choice",
    "question": "Lì fa freddo.",
    "options": [
-    "Все́ та́м.",
     "Та́м жа́рко?",
+    "Все́ та́м.",
     "Та́м хо́лодно.",
     "Не хо́лодно."
    ],
@@ -925,10 +880,7 @@
    "descrizioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tikho",
    "w_gromkiy",
@@ -943,11 +895,11 @@
    "pairs": [
     {
      "ru": "ти́хо",
-     "it": "piano"
+     "it": "sottovoce"
     },
     {
      "ru": "гро́мкий",
-     "it": "forte"
+     "it": "rumoroso"
     },
     {
      "ru": "тру́дный",
@@ -968,13 +920,10 @@
   "difficulty": 2,
   "topics": [
    "grammatica",
-   "comunicazione",
-   "descrizioni"
+   "avverbi",
+   "comunicazione"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_medlenno",
@@ -995,7 +944,7 @@
     },
     {
      "ru": "Вы́ гря́зный.",
-     "it": "Siete sporco."
+     "it": "Lei è sporco."
     },
     {
      "ru": "Ду́май быстре́е!",
@@ -1003,7 +952,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: in attesa fix frase s_6480750"
  },
  {
   "id": "e_000704",
@@ -1014,10 +964,7 @@
    "descrizioni",
    "soldi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bystryy",
    "w_zharkiy",
@@ -1058,7 +1005,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000705",
@@ -1069,10 +1016,7 @@
    "descrizioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gromko",
    "w_medlennyy",
@@ -1104,7 +1048,7 @@
     },
     {
      "ru": "вку́сный",
-     "it": "gustoso"
+     "it": "buono"
     }
    ]
   },
@@ -1120,10 +1064,7 @@
    "descrizioni",
    "saluti"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_govorit",
    "w_medlennyy",
@@ -1155,7 +1096,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000707",
@@ -1167,10 +1108,7 @@
    "casa",
    "grammatica"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gryaznyy",
    "w_pravilnyy",
@@ -1211,7 +1149,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000708",
@@ -1221,10 +1159,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bystryy",
    "w_vkusnyy",
@@ -1243,7 +1178,7 @@
     },
     {
      "ru": "вку́сный",
-     "it": "gustoso"
+     "it": "buono"
     },
     {
      "ru": "гря́зный",
@@ -1266,10 +1201,7 @@
    "descrizioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_gryaznyy",
@@ -1302,7 +1234,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000710",
@@ -1312,10 +1244,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_slishkom",
    "w_zharko"
@@ -1337,7 +1266,7 @@
     "сли́шком жа́рко"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000711",
@@ -1347,10 +1276,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vkusnyy"
   ],
@@ -1360,7 +1286,7 @@
   "payload": {
    "type": "dictation",
    "text": "вку́сный",
-   "translation_it": "gustoso",
+   "translation_it": "buono",
    "accepted": [
     "вку́сный",
     "вкусный"
@@ -1378,10 +1304,7 @@
    "mente",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_moch",
    "w_govorit",
@@ -1408,7 +1331,7 @@
     "мо́жешь говори́ть гро́мче я́ тебя́ не понима́ю"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000713",
@@ -1418,10 +1341,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gryaznyy"
   ],
@@ -1437,7 +1357,7 @@
     "грязный"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000714",
@@ -1448,10 +1368,7 @@
    "comunicazione",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_govorit",
    "w_tikhiy"
@@ -1473,7 +1390,7 @@
     "говори́ ти́ше"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000715",
@@ -1483,10 +1400,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kholodnyy"
   ],
@@ -1502,7 +1416,7 @@
     "холодный"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000716",
@@ -1513,10 +1427,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_gryaznyy"
@@ -1538,7 +1449,7 @@
     "вы́ гря́зные"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000717",
@@ -1548,10 +1459,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gromkiy"
   ],
@@ -1561,7 +1469,7 @@
   "payload": {
    "type": "dictation",
    "text": "гро́мкий",
-   "translation_it": "forte",
+   "translation_it": "rumoroso",
    "accepted": [
     "гро́мкий",
     "громкий"
@@ -1577,10 +1485,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "adverbs-o"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_voda",
    "w_kholodnyy"
@@ -1601,6 +1506,240 @@
     "вода холодная",
     "вода́ холо́дная"
    ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002036",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_gromkiy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "гро́мкий",
+   "answer": "rumoroso",
+   "accepted": [
+    "rumoroso",
+    "forte"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002037",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_trudnyy",
+   "w_rabota"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ рабо́та.",
+   "answer": "тру́дная",
+   "accepted": [
+    "тру́дная",
+    "трудная"
+   ],
+   "hint_it": "difficile: concorda con «рабо́та» (lavoro, femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002038",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_tikhiy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Говори́ ___.",
+   "answer": "ти́ше",
+   "accepted": [
+    "ти́ше",
+    "тише"
+   ],
+   "hint_it": "Abbassa la voce."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002039",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_gryaznyy",
+   "w_voda"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вода́.",
+   "answer": "гря́зная",
+   "accepted": [
+    "гря́зная",
+    "грязная"
+   ],
+   "hint_it": "sporco: concorda con «вода́» (acqua, femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002040",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_govorit"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ме́дленнее, пожа́луйста.",
+   "answer": "Говори́те",
+   "accepted": [
+    "Говори́те",
+    "Говорите",
+    "говорите",
+    "говори́те"
+   ],
+   "hint_it": "Parlate più piano, per favore."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002041",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_zharkiy",
+   "w_den"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ де́нь.",
+   "answer": "жа́ркий",
+   "accepted": [
+    "жа́ркий",
+    "жаркий"
+   ],
+   "hint_it": "caldo: concorda con «де́нь» (giorno, maschile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002042",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_bystryy",
+   "w_taksi"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «бы́стрый» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ такси́. — veloce: concorda con «такси́» (taxi, neutro).",
+   "options": [
+    "бы́страя",
+    "бы́стрый",
+    "бы́строе",
+    "бы́стрые"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002043",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_voda",
+   "w_kholodnyy"
+  ],
+  "lesson": "l_a1_07",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вода́ холо́дная.",
+   "options": [
+    "Il tè è freddo.",
+    "Questa è acqua.",
+    "Sono costosi.",
+    "L'acqua è fredda."
+   ],
+   "correct": 3
   },
   "qa_status": "pending"
  }

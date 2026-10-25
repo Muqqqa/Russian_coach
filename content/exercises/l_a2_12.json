@@ -5,12 +5,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oba"
   ],
@@ -26,7 +23,7 @@
     "entrambi"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001820",
@@ -34,12 +31,9 @@
   "level": "a2",
   "difficulty": 4,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pyat",
    "w_dvadtsat"
@@ -59,7 +53,7 @@
     "cinque per cinque fa venticinque."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001821",
@@ -67,12 +61,9 @@
   "level": "a2",
   "difficulty": 4,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tretiy"
   ],
@@ -89,7 +80,7 @@
     "третий"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001822",
@@ -127,7 +118,8 @@
     "мне́ два́дцать четы́ре го́да"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001823",
@@ -135,12 +127,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sto"
   ],
@@ -156,7 +145,7 @@
     "cento"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001824",
@@ -167,10 +156,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kakoy",
    "w_krasivyy",
@@ -191,7 +177,7 @@
     "che bel numero."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001825",
@@ -199,12 +185,9 @@
   "level": "a2",
   "difficulty": 4,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chislo"
   ],
@@ -223,7 +206,7 @@
     "номер"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001826",
@@ -261,7 +244,8 @@
     "мне́ два́дцать три́ го́да"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001827",
@@ -269,12 +253,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tysyacha"
   ],
@@ -290,7 +271,7 @@
     "mille"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001828",
@@ -298,11 +279,9 @@
   "level": "a2",
   "difficulty": 5,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
   "grammar_tags": [
-   "numbers-high",
-   "ordinals",
    "genitive-after-numbers"
   ],
   "words": [
@@ -321,7 +300,7 @@
    ],
    "hint_it": "Cinque rubli."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001829",
@@ -331,10 +310,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kakoy"
   ],
@@ -353,7 +329,7 @@
    ],
    "hint_it": "Che giorno è oggi?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001830",
@@ -361,11 +337,9 @@
   "level": "a2",
   "difficulty": 5,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
   "grammar_tags": [
-   "numbers-high",
-   "ordinals",
    "genitive-after-numbers"
   ],
   "words": [
@@ -384,7 +358,7 @@
    ],
    "hint_it": "Cento rubli."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001831",
@@ -394,10 +368,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya"
   ],
@@ -416,7 +387,7 @@
    ],
    "hint_it": "Ho ventitré anni."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001832",
@@ -424,11 +395,9 @@
   "level": "a2",
   "difficulty": 5,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
   "grammar_tags": [
-   "numbers-high",
-   "ordinals",
    "genitive-after-numbers"
   ],
   "words": [
@@ -447,7 +416,7 @@
    ],
    "hint_it": "Due rubli."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001833",
@@ -457,10 +426,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gde"
   ],
@@ -479,7 +445,7 @@
    ],
    "hint_it": "Dov'è l'altro calzino?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001834",
@@ -487,11 +453,9 @@
   "level": "a2",
   "difficulty": 5,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
   "grammar_tags": [
-   "numbers-high",
-   "ordinals",
    "genitive-after-numbers"
   ],
   "words": [
@@ -510,7 +474,7 @@
    ],
    "hint_it": "Due anni."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001835",
@@ -520,10 +484,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khotet"
   ],
@@ -542,7 +503,7 @@
    ],
    "hint_it": "Vuoi il mio numero?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001836",
@@ -550,11 +511,9 @@
   "level": "a2",
   "difficulty": 5,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
   "grammar_tags": [
-   "numbers-high",
-   "ordinals",
    "genitive-after-numbers"
   ],
   "words": [
@@ -573,7 +532,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001837",
@@ -583,10 +542,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_sto",
@@ -599,10 +555,10 @@
    "type": "multiple_choice",
    "question": "Ему́ сто́ ле́т.",
    "options": [
-    "Queste sono le sue cose.",
-    "Lasciate loro un secondo.",
+    "Che cosa sta facendo?",
+    "Lui sta cercando qualcosa?",
     "Ha cento anni.",
-    "L'ho trovato io."
+    "Queste sono le sue cose."
    ],
    "correct": 2
   },
@@ -614,12 +570,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tretiy"
   ],
@@ -637,7 +590,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001839",
@@ -645,11 +598,9 @@
   "level": "a2",
   "difficulty": 4,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
   "grammar_tags": [
-   "numbers-high",
-   "ordinals",
    "gender"
   ],
   "words": [
@@ -668,7 +619,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001840",
@@ -679,10 +630,7 @@
    "grammatica",
    "tempo"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kakoy",
    "w_segodnya",
@@ -696,9 +644,9 @@
    "question": "Che giorno è oggi?",
    "options": [
     "Како́е сего́дня число́?",
+    "Сего́дня жа́рко.",
     "Кака́я та́м пого́да?",
-    "О́н сего́дня спро́сит.",
-    "Како́е краси́вое число́."
+    "Како́й на́ш?"
    ],
    "correct": 0
   },
@@ -710,12 +658,9 @@
   "level": "a2",
   "difficulty": 4,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sto"
   ],
@@ -733,7 +678,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001842",
@@ -741,11 +686,9 @@
   "level": "a2",
   "difficulty": 5,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
   "grammar_tags": [
-   "numbers-high",
-   "ordinals",
    "genitive-after-numbers"
   ],
   "words": [
@@ -765,7 +708,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001843",
@@ -773,12 +716,10 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
+   "lavoro-scuola",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_klass",
    "w_pustoy"
@@ -791,13 +732,14 @@
    "question": "Кла́сс пусто́й.",
    "options": [
     "La classe è vuota.",
-    "È vuoto.",
     "La tazza è vuota.",
+    "Questa tazza è vuota.",
     "È vuota."
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: \"È vuoto.\"/\"È vuota.\" possibili"
  },
  {
   "id": "e_001844",
@@ -805,12 +747,9 @@
   "level": "a2",
   "difficulty": 4,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dvadtsat",
    "w_chislo",
@@ -846,7 +785,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001845",
@@ -894,7 +833,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001846",
@@ -905,10 +845,7 @@
    "grammatica",
    "casa"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oba",
    "w_nomer",
@@ -949,7 +886,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001847",
@@ -957,12 +894,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chislo",
    "w_tysyacha",
@@ -985,7 +919,7 @@
     },
     {
      "ru": "дво́е",
-     "it": "in due"
+     "it": "due (persone)"
     },
     {
      "ru": "два́дцать",
@@ -1041,7 +975,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001849",
@@ -1096,7 +1031,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001850",
@@ -1104,12 +1040,9 @@
   "level": "a2",
   "difficulty": 4,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oba",
    "w_tretiy",
@@ -1150,7 +1083,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001851",
@@ -1158,12 +1091,10 @@
   "level": "a2",
   "difficulty": 4,
   "topics": [
+   "lavoro-scuola",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_klass",
    "w_pustoy"
@@ -1185,7 +1116,7 @@
     "кла́сс пусто́й"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001852",
@@ -1193,12 +1124,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tysyacha"
   ],
@@ -1214,7 +1142,7 @@
     "тысяча"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001853",
@@ -1225,10 +1153,7 @@
    "grammatica",
    "tempo"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kakoy",
    "w_segodnya",
@@ -1251,7 +1176,7 @@
     "како́е сего́дня число́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001854",
@@ -1259,12 +1184,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_klass"
   ],
@@ -1280,7 +1202,7 @@
     "класс"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001855",
@@ -1289,12 +1211,10 @@
   "difficulty": 5,
   "topics": [
    "grammatica",
-   "direzioni"
+   "direzioni",
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_odin",
@@ -1318,7 +1238,7 @@
     "я́ оди́н в кла́ссе"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001856",
@@ -1326,12 +1246,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nomer"
   ],
@@ -1347,7 +1264,7 @@
     "номер"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001857",
@@ -1358,10 +1275,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u",
    "w_ya",
@@ -1385,7 +1299,7 @@
     "у меня́ дво́е дете́й"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001858",
@@ -1393,12 +1307,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "numbers-high",
-   "ordinals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sto"
   ],
@@ -1412,6 +1323,205 @@
    "accepted": [
     "сто́",
     "сто"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002133",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_chislo"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "число́",
+   "answer": "numero",
+   "accepted": [
+    "numero",
+    "il numero",
+    "un numero",
+    "data"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002134",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "mente",
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_khotet",
+   "w_moy",
+   "w_nomer"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 17,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Хо́чешь мо́й но́мер?",
+   "answer": "Vuoi il mio numero?",
+   "accepted": [
+    "Vuoi il mio numero?",
+    "Vuoi il mio numero",
+    "vuoi il mio numero",
+    "vuoi il mio numero?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002135",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_nomer",
+   "w_dvoe",
+   "w_klass",
+   "w_tretiy",
+   "w_sto"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "но́мер",
+     "it": "numero"
+    },
+    {
+     "ru": "дво́е",
+     "it": "due (persone)"
+    },
+    {
+     "ru": "кла́сс",
+     "it": "classe"
+    },
+    {
+     "ru": "тре́тий",
+     "it": "terzo"
+    },
+    {
+     "ru": "сто́",
+     "it": "cento"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002136",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni",
+   "lavoro-scuola"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_ya",
+   "w_v",
+   "w_klass",
+   "w_nravitsya",
+   "w_etot"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 40,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ в кла́ссе.",
+     "it": "Io sono in classe."
+    },
+    {
+     "ru": "Мне́ нра́вятся э́ти дво́е.",
+     "it": "Mi piacciono questi due."
+    },
+    {
+     "ru": "Где́ второ́й носо́к?",
+     "it": "Dov'è l'altro calzino?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002137",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "azioni",
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_chislo",
+   "w_tretiy",
+   "w_sto",
+   "w_devochka",
+   "w_zhdat",
+   "w_iz"
+  ],
+  "lesson": "l_a2_12",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "число́",
+     "it": "numero"
+    },
+    {
+     "ru": "тре́тий",
+     "it": "terzo"
+    },
+    {
+     "ru": "сто́",
+     "it": "cento"
+    },
+    {
+     "ru": "де́вочка",
+     "it": "bambina"
+    },
+    {
+     "ru": "жда́ть",
+     "it": "aspettare"
+    },
+    {
+     "ru": "и́з",
+     "it": "da"
+    }
    ]
   },
   "qa_status": "pending"

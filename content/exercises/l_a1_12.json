@@ -7,10 +7,7 @@
   "topics": [
    "cibo-bevande"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chashka"
   ],
@@ -28,7 +25,7 @@
     "una tazza"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000877",
@@ -38,10 +35,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khotet",
    "w_sup"
@@ -61,7 +55,7 @@
     "vuoi della minestra?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000878",
@@ -71,10 +65,7 @@
   "topics": [
    "cibo-bevande"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kushat"
   ],
@@ -91,7 +82,7 @@
     "кушать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000879",
@@ -101,10 +92,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eda",
    "w_vkusnyy"
@@ -127,7 +115,7 @@
     "еда́ вку́сная"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000880",
@@ -138,10 +126,7 @@
    "cibo-bevande",
    "tempo-libero"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eda"
   ],
@@ -157,9 +142,7 @@
     "cibo",
     "il cibo",
     "un cibo",
-    "pasto",
-    "il pasto",
-    "un pasto"
+    "pasto"
    ]
   },
   "qa_status": "pending"
@@ -172,10 +155,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vot",
    "w_pivo"
@@ -195,7 +175,7 @@
     "ecco la birra."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000882",
@@ -206,10 +186,7 @@
    "cibo-bevande",
    "tempo-libero"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_salat"
   ],
@@ -226,7 +203,7 @@
     "салат"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000883",
@@ -236,10 +213,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vot",
    "w_pivo"
@@ -262,7 +236,7 @@
     "вот пи́во"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000884",
@@ -273,10 +247,7 @@
    "cibo-bevande",
    "tempo-libero"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kafe"
   ],
@@ -297,7 +268,7 @@
     "un bar"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000885",
@@ -308,10 +279,7 @@
    "cibo-bevande",
    "tempo-libero"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_lyubit"
   ],
@@ -328,7 +296,7 @@
    ],
    "hint_it": "Non mi piacciono altre bevande."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000886",
@@ -338,10 +306,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak"
   ],
@@ -360,7 +325,7 @@
    ],
    "hint_it": "Com'è l'insalata?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000887",
@@ -371,10 +336,7 @@
    "cibo-bevande",
    "tempo-libero"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chay"
   ],
@@ -393,7 +355,7 @@
    ],
    "hint_it": "Tè o caffè?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000888",
@@ -403,10 +365,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khotet"
   ],
@@ -425,7 +384,7 @@
    ],
    "hint_it": "Vuoi della minestra?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000889",
@@ -435,10 +394,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vot"
   ],
@@ -455,7 +411,7 @@
    ],
    "hint_it": "Ecco la birra."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000890",
@@ -465,10 +421,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vkusnyy"
   ],
@@ -485,7 +438,7 @@
    ],
    "hint_it": "Il cibo è delizioso."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000891",
@@ -496,10 +449,7 @@
    "cibo-bevande",
    "tempo-libero"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_napitok"
   ],
@@ -516,7 +466,7 @@
    ],
    "hint_it": "Non mi piacciono altre bevande."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000892",
@@ -527,10 +477,7 @@
    "cibo-bevande",
    "tempo-libero"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kofe"
   ],
@@ -547,7 +494,7 @@
    ],
    "hint_it": "Due caffè, per piacere."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000893",
@@ -558,8 +505,6 @@
    "cibo-bevande"
   ],
   "grammar_tags": [
-   "food",
-   "verb-eat",
    "verbs-present"
   ],
   "words": [
@@ -579,7 +524,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000894",
@@ -587,13 +532,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "cibo-bevande",
-   "tempo-libero"
+   "soldi"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eda",
    "w_dorogoy"
@@ -607,8 +548,8 @@
    "options": [
     "Il cibo è costoso.",
     "Cari amici!",
-    "Il tempo è prezioso.",
-    "Sono costosi."
+    "Il cibo è delizioso.",
+    "Il tempo è prezioso."
    ],
    "correct": 0
   },
@@ -622,10 +563,7 @@
   "topics": [
    "cibo-bevande"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kushat"
   ],
@@ -643,7 +581,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000896",
@@ -655,8 +593,6 @@
    "tempo-libero"
   ],
   "grammar_tags": [
-   "food",
-   "verb-eat",
    "gender"
   ],
   "words": [
@@ -675,7 +611,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000897",
@@ -685,10 +621,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_ne",
@@ -703,9 +636,9 @@
    "type": "multiple_choice",
    "question": "Non mi piacciono altre bevande.",
    "options": [
-    "Здра́вствуйте, я́ могу́ Ва́м помо́чь?",
+    "Не ду́маю, что́ они́ плохи́е лю́ди.",
     "Я́ не люблю́ други́е напи́тки.",
-    "У меня́ во́семь бра́тьев.",
+    "Я́ спа́л де́вять часо́в.",
     "Я́ ду́маю, о́н плохо́й челове́к."
    ],
    "correct": 1
@@ -721,10 +654,7 @@
    "cibo-bevande",
    "tempo-libero"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kafe"
   ],
@@ -742,7 +672,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000899",
@@ -753,8 +683,6 @@
    "cibo-bevande"
   ],
   "grammar_tags": [
-   "food",
-   "verb-eat",
    "verbs-present"
   ],
   "words": [
@@ -774,7 +702,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000900",
@@ -785,10 +713,7 @@
    "grammatica",
    "soldi"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_kupit",
@@ -801,10 +726,10 @@
    "type": "multiple_choice",
    "question": "Ты́ купи́л арбу́з?",
    "options": [
-    "Quanto ti pagano?",
-    "Chi sei, amica?",
+    "Ti piace la città?",
+    "Cosa studi?",
     "Hai comprato un cocomero?",
-    "Ti piace la città?"
+    "Parli russo?"
    ],
    "correct": 2
   },
@@ -818,10 +743,7 @@
   "topics": [
    "cibo-bevande"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eda",
    "w_kushat",
@@ -857,7 +779,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000902",
@@ -868,10 +790,7 @@
    "mente",
    "saluti"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khotet",
    "w_sup",
@@ -904,7 +823,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000903",
@@ -915,10 +834,7 @@
    "cibo-bevande",
    "grammatica"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sparzha",
    "w_menyu",
@@ -959,7 +875,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000904",
@@ -969,10 +885,7 @@
   "topics": [
    "cibo-bevande"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_salat",
    "w_arbuz",
@@ -1003,7 +916,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000905",
@@ -1011,12 +924,10 @@
   "level": "a1",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "grammatica",
+   "soldi"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eda",
    "w_dorogoy",
@@ -1049,7 +960,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000906",
@@ -1061,10 +972,7 @@
    "grammatica",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chashka",
    "w_kushat",
@@ -1105,7 +1013,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000907",
@@ -1116,10 +1024,7 @@
    "cibo-bevande",
    "tempo-libero"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kafe",
    "w_salat",
@@ -1155,7 +1060,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000908",
@@ -1166,10 +1071,7 @@
    "grammatica",
    "soldi"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_kupit",
@@ -1192,7 +1094,7 @@
     "ты́ купи́л арбу́з"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000909",
@@ -1203,10 +1105,7 @@
    "cibo-bevande",
    "tempo-libero"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_arbuz"
   ],
@@ -1222,7 +1121,7 @@
     "арбуз"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000910",
@@ -1232,10 +1131,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khotet",
    "w_sup"
@@ -1257,7 +1153,7 @@
     "хо́чешь су́п"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000911",
@@ -1267,10 +1163,7 @@
   "topics": [
    "cibo-bevande"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kushat"
   ],
@@ -1286,7 +1179,7 @@
     "кушать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000912",
@@ -1298,10 +1191,7 @@
    "mente",
    "cibo-bevande"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ne",
    "w_moch",
@@ -1324,7 +1214,7 @@
     "не могу́ ку́шать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000913",
@@ -1334,10 +1224,7 @@
   "topics": [
    "cibo-bevande"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sparzha"
   ],
@@ -1353,7 +1240,7 @@
     "спаржа"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000914",
@@ -1363,10 +1250,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_ne",
@@ -1391,7 +1275,7 @@
     "я́ не люблю́ други́е напи́тки"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000915",
@@ -1402,10 +1286,7 @@
    "cibo-bevande",
    "tempo-libero"
   ],
-  "grammar_tags": [
-   "food",
-   "verb-eat"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eda"
   ],
@@ -1421,6 +1302,6 @@
     "еда"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

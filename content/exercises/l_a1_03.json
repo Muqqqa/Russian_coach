@@ -5,13 +5,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_noch"
   ],
@@ -25,8 +22,6 @@
    "answer": "notte",
    "accepted": [
     "notte",
-    "il notte",
-    "un notte",
     "la notte",
     "una notte"
    ]
@@ -39,13 +34,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sem",
    "w_chas"
@@ -65,7 +57,7 @@
     "sono le sette."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000516",
@@ -73,13 +65,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_noch"
   ],
@@ -96,7 +85,7 @@
     "ночь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000517",
@@ -106,11 +95,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kotoryy",
    "w_chas"
@@ -133,7 +118,7 @@
     "кото́рый ча́с"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000518",
@@ -141,13 +126,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sekunda"
   ],
@@ -165,7 +147,7 @@
     "un secondo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000519",
@@ -175,11 +157,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eshchyo",
    "w_pyat",
@@ -200,7 +178,7 @@
     "ancora cinque minuti!"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000520",
@@ -208,13 +186,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vremya"
   ],
@@ -231,7 +206,7 @@
     "время"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000521",
@@ -241,11 +216,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_na",
    "w_chas",
@@ -269,7 +240,8 @@
     "на часа́х два́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: resa idiomatica non producibile (\"На часах два\")"
  },
  {
   "id": "e_000522",
@@ -277,13 +249,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_seychas"
   ],
@@ -299,7 +268,7 @@
     "adesso"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000523",
@@ -307,11 +276,10 @@
   "level": "a1",
   "difficulty": 3,
   "topics": [
+   "numeri",
    "grammatica"
   ],
   "grammar_tags": [
-   "time",
-   "numbers",
    "genitive-after-numbers"
   ],
   "words": [
@@ -330,7 +298,7 @@
    ],
    "hint_it": "Cinque giorni."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000524",
@@ -338,13 +306,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chas"
   ],
@@ -361,7 +326,7 @@
    ],
    "hint_it": "L'orologio segna le due."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000525",
@@ -369,11 +334,10 @@
   "level": "a1",
   "difficulty": 3,
   "topics": [
+   "numeri",
    "grammatica"
   ],
   "grammar_tags": [
-   "time",
-   "numbers",
    "genitive-after-numbers"
   ],
   "words": [
@@ -391,7 +355,7 @@
    ],
    "hint_it": "Due giorni."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000526",
@@ -399,13 +363,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sem"
   ],
@@ -424,7 +385,7 @@
    ],
    "hint_it": "Sono le sette."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000527",
@@ -432,11 +393,10 @@
   "level": "a1",
   "difficulty": 3,
   "topics": [
+   "numeri",
    "grammatica"
   ],
   "grammar_tags": [
-   "time",
-   "numbers",
    "genitive-after-numbers"
   ],
   "words": [
@@ -455,7 +415,7 @@
    ],
    "hint_it": "Tre settimane."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000528",
@@ -463,13 +423,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_seychas"
   ],
@@ -488,7 +445,7 @@
    ],
    "hint_it": "È l'una del pomeriggio."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000529",
@@ -496,11 +453,10 @@
   "level": "a1",
   "difficulty": 3,
   "topics": [
+   "numeri",
    "grammatica"
   ],
   "grammar_tags": [
-   "time",
-   "numbers",
    "genitive-after-numbers"
   ],
   "words": [
@@ -519,7 +475,7 @@
    ],
    "hint_it": "Cinque mesi."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000530",
@@ -529,11 +485,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_proshlyy"
   ],
@@ -552,7 +504,7 @@
    ],
    "hint_it": "La scorsa notte è nevicato."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000531",
@@ -562,11 +514,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eshchyo",
    "w_pyat",
@@ -582,7 +530,7 @@
     "Ancora cinque minuti!",
     "Non ancora.",
     "Lei ha cinque anni.",
-    "Sono le quattro meno cinque."
+    "Cos'altro?"
    ],
    "correct": 0
   },
@@ -594,13 +542,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sekunda"
   ],
@@ -618,7 +563,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000533",
@@ -626,12 +571,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
   "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers",
    "gender"
   ],
   "words": [
@@ -650,7 +593,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000534",
@@ -660,11 +603,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skolko",
    "w_on",
@@ -677,10 +616,10 @@
    "type": "multiple_choice",
    "question": "Quanti anni hanno?",
    "options": [
-    "О́н сего́дня спро́сит.",
     "О́н лю́бит пи́во?",
+    "Я́ его́ купи́л.",
     "Ско́лько и́м ле́т?",
-    "Ско́лько сто́ило?"
+    "О́н сего́дня спро́сит."
    ],
    "correct": 2
   },
@@ -692,13 +631,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_god"
   ],
@@ -716,7 +652,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000536",
@@ -726,11 +662,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_na",
    "w_chas",
@@ -743,10 +675,10 @@
    "type": "multiple_choice",
    "question": "На часа́х два́.",
    "options": [
-    "Che ore sono?",
+    "È l'una.",
     "L'orologio segna le due.",
-    "Due, per favore.",
-    "È l'una del pomeriggio."
+    "Scusate, sono senza orologio.",
+    "Che ore sono?"
    ],
    "correct": 1
   },
@@ -758,13 +690,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_minuta"
   ],
@@ -782,7 +711,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000538",
@@ -790,12 +719,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
   "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers",
    "gender"
   ],
   "words": [
@@ -814,7 +741,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000539",
@@ -822,13 +749,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "grammatica"
+   "grammatica",
+   "numeri"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kotoryy",
    "w_mesyats",
@@ -864,7 +788,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000540",
@@ -910,7 +834,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000541",
@@ -918,13 +843,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sekunda",
    "w_chas",
@@ -965,7 +887,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000542",
@@ -975,11 +897,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vremya",
    "w_kotoryy",
@@ -1020,7 +938,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000543",
@@ -1069,7 +987,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000544",
@@ -1077,13 +996,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_minuta",
    "w_chas",
@@ -1124,7 +1040,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000545",
@@ -1132,13 +1048,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_god",
    "w_noch",
@@ -1174,7 +1087,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000546",
@@ -1185,11 +1098,7 @@
    "descrizioni",
    "movimento"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_proshlyy",
    "w_noch",
@@ -1215,7 +1124,7 @@
     "прошлой ночью шел снег"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000547",
@@ -1223,13 +1132,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_minuta"
   ],
@@ -1245,7 +1151,7 @@
     "минута"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000548",
@@ -1253,13 +1159,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_seychas",
    "w_chas",
@@ -1282,7 +1185,7 @@
     "сейча́с ча́с дня"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000549",
@@ -1292,11 +1195,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kotoryy"
   ],
@@ -1312,7 +1211,7 @@
     "который"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000550",
@@ -1322,11 +1221,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skolko",
    "w_on",
@@ -1349,7 +1244,7 @@
     "ско́лько и́м ле́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000551",
@@ -1357,13 +1252,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sekunda"
   ],
@@ -1379,7 +1271,7 @@
     "секунда"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000552",
@@ -1389,11 +1281,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bez",
    "w_pyat",
@@ -1417,7 +1305,7 @@
     "без пяти́ мину́т четы́ре"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000553",
@@ -1425,13 +1313,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "time",
-   "numbers",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_noch"
   ],
@@ -1445,6 +1330,88 @@
    "accepted": [
     "но́чь",
     "ночь"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002026",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_raz",
+   "w_mesyats",
+   "w_minuta",
+   "w_chas"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ра́з",
+     "it": "volta"
+    },
+    {
+     "ru": "ме́сяц",
+     "it": "mese"
+    },
+    {
+     "ru": "мину́та",
+     "it": "minuto"
+    },
+    {
+     "ru": "ча́с",
+     "it": "ora"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002027",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "descrizioni",
+   "movimento"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_na",
+   "w_chas",
+   "w_dva",
+   "w_proshlyy",
+   "w_noch",
+   "w_idti"
+  ],
+  "lesson": "l_a1_03",
+  "est_seconds": 40,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "На часа́х два́.",
+     "it": "L'orologio segna le due."
+    },
+    {
+     "ru": "Про́шлой но́чью шёл сне́г.",
+     "it": "La scorsa notte è nevicato."
+    },
+    {
+     "ru": "Сейча́с ча́с дня.",
+     "it": "È l'una del pomeriggio."
+    }
    ]
   },
   "qa_status": "pending"

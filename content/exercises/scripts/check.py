@@ -9,9 +9,11 @@ W = load_words(); S = load_sentences(); L = load_lessons()
 LID = {l["id"]: l for l in L}
 UNS = {x["id"] for x in json.load(open(ROOT + "/data/reports/unsuitable_words.json"))["parole"]}
 TOP = json.load(open(ROOT + "/content/curriculum/topics.json"))
-ex = []
+allex = []
 for f in sorted(glob.glob(ROOT + "/content/exercises/*.json")):
-    ex += json.load(open(f, encoding="utf-8"))
+    allex += json.load(open(f, encoding="utf-8"))
+ex = [e for e in allex if e["qa_status"] != "rejected"]   # i controlli di qualita' valgono per gli esercizi non rifiutati
+print("stati:", dict(collections.Counter(e["qa_status"] for e in allex)))
 probs = []
 def P(e, msg): probs.append((e["id"], e["lesson"], msg))
 ids = set()
@@ -27,7 +29,7 @@ for e in ex:
         if w in UNS: P(e, "parola non adatta " + w)
     for t in e["topics"]:
         if t not in TOP: P(e, "topic sconosciuto " + t)
-    if e["qa_status"] != "pending": P(e, "qa_status")
+    if e["qa_status"] not in ("pending", "approved"): P(e, "qa_status")
     if not (10 <= e["est_seconds"] <= 45): P(e, "est_seconds")
     p = e["payload"]
     t = e["type"]
@@ -110,6 +112,34 @@ for e in ex:
 for k, v in qa.items():
     if k[0] == "tr" and all(a in ACC[k[1:]] for a in v): continue
     if len(v) > 1: probs.append(("-", "-", "stessa domanda con risposte diverse: %s -> %s" % (k, v)))
+
+# regole QA
+import gen_data as D
+BAD_ART = re.compile(r"^(la|una|il|un|lo|uno) (ristorante|notte|madre|stazione|cane|paese|sole|parete|cuore|sistema|russia)$")
+LETT = {}
+acc_ = set()
+for k in sorted(D.LETTERS):
+    acc_ |= {x[1] for x in D.LETTERS[k]}; LETT[k] = set(acc_)
+GOODART = {"ristorante": "il", "notte": "la", "madre": "la", "stazione": "la", "cane": "il", "paese": "il", "sole": "il", "cuore": "il", "sistema": "il"}
+cumtags = {}
+_c = set()
+for l in L:
+    _c |= set(l["grammar_tags"]); cumtags[l["id"]] = set(_c)
+for e in ex:
+    p = e["payload"]
+    if e["type"] == "translate" and p["direction"] == "ru_it":
+        for a in p["accepted"]:
+            if a.lower() in ("la ristorante", "una ristorante", "il notte", "un notte", "il madre", "un madre", "lo stazione", "uno stazione", "la cane", "una cane",
+                             "la paese", "una paese", "la sole", "una sole", "il parete", "un parete", "la cuore", "una cuore", "la sistema", "una sistema", "una russia"):
+                P(e, "articolo errato accettato: " + a)
+    for t in e["grammar_tags"]:
+        if t not in cumtags[e["lesson"]]: P(e, "tag di lezione successiva: " + t)
+    if e["lesson"] in LETT and e["lesson"] != "l_zero_05":
+        txt = json.dumps({k: v for k, v in p.items() if k != "accepted"}, ensure_ascii=False)
+        for ch in txt:
+            if cyr.match(ch) and ch.lower() not in LETT[e["lesson"]]:
+                P(e, "lettera non ancora introdotta: " + ch); break
+    if e["type"] == "translate" and "Leggi la parola russa" in e["prompt_it"]: P(e, "translate di lettura ancora presente")
 
 # conteggi
 c_type = collections.Counter(e["type"] for e in ex)

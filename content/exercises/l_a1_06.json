@@ -7,10 +7,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khoroshiy"
   ],
@@ -26,7 +23,7 @@
     "buono"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000635",
@@ -36,10 +33,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_umnyy"
@@ -69,7 +63,7 @@
     "voi lei e intelligente"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000636",
@@ -80,10 +74,7 @@
    "descrizioni",
    "soldi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_umnyy"
   ],
@@ -100,7 +91,7 @@
     "умный"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000637",
@@ -108,12 +99,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "grammatica"
+   "grammatica",
+   "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_plokhoy",
@@ -137,7 +126,7 @@
     "я́ плохо́й челове́к"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000638",
@@ -147,10 +136,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_krasivyy"
   ],
@@ -166,7 +152,7 @@
     "bello"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000639",
@@ -177,10 +163,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_golodnyy"
@@ -204,7 +187,7 @@
     "io ho fame!"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000640",
@@ -212,13 +195,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "descrizioni",
    "soldi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dorogoy"
   ],
@@ -235,7 +214,7 @@
     "дорогой"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000641",
@@ -246,10 +225,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_ne",
@@ -273,7 +249,7 @@
     "я́ не ста́рая"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000642",
@@ -283,10 +259,7 @@
   "topics": [
    "soldi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_deshyovyy"
   ],
@@ -302,7 +275,7 @@
     "economico"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000643",
@@ -333,7 +306,8 @@
    ],
    "hint_it": "nuovo: concorda con «acqua» (femminile)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000644",
@@ -344,10 +318,7 @@
    "descrizioni",
    "soldi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_umnyy"
   ],
@@ -360,11 +331,14 @@
    "answer": "у́мная",
    "accepted": [
     "у́мная",
-    "умная"
+    "умная",
+    "у́мный",
+    "умный"
    ],
    "hint_it": "Sei intelligente."
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: «intelligente» vale m/f"
  },
  {
   "id": "e_000645",
@@ -395,7 +369,8 @@
    ],
    "hint_it": "giovane: concorda con «casa» (maschile)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000646",
@@ -405,10 +380,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty"
   ],
@@ -427,7 +399,7 @@
    ],
    "hint_it": "Sei buona."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000647",
@@ -458,7 +430,8 @@
    ],
    "hint_it": "economico: concorda con «vino» (neutro)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000648",
@@ -468,10 +441,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_golodnyy"
   ],
@@ -484,11 +454,14 @@
    "answer": "голо́дная",
    "accepted": [
     "голо́дная",
-    "голодная"
+    "голодная",
+    "голо́дный",
+    "голодный"
    ],
    "hint_it": "Ho fame!"
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: «Ho fame!» vale m/f"
  },
  {
   "id": "e_000649",
@@ -519,7 +492,8 @@
    ],
    "hint_it": "buono: concorda con «case» (plurale)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000650",
@@ -529,10 +503,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_staryy"
   ],
@@ -549,7 +520,7 @@
    ],
    "hint_it": "È vecchio."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000651",
@@ -581,7 +552,8 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000652",
@@ -592,10 +564,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_khoroshiy"
@@ -607,10 +576,10 @@
    "type": "multiple_choice",
    "question": "Ты́ хоро́шая.",
    "options": [
-    "Bel lavoro!",
+    "Vuoi una mano?",
     "Sei buona.",
-    "Sei padre?",
-    "Parli russo?"
+    "Capisci?",
+    "Sei una donna."
    ],
    "correct": 1
   },
@@ -625,10 +594,7 @@
    "descrizioni",
    "soldi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_umnyy"
   ],
@@ -646,7 +612,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000654",
@@ -656,10 +622,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sobaka",
    "w_bolshoy"
@@ -673,8 +636,8 @@
    "options": [
     "Большо́е спаси́бо!",
     "Соба́ка больша́я.",
-    "Не хочу́!",
-    "Е́й пя́ть."
+    "Что́ э́то?",
+    "Два́, пожа́луйста."
    ],
    "correct": 1
   },
@@ -688,10 +651,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_novyy"
   ],
@@ -709,7 +669,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000656",
@@ -742,7 +702,8 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000657",
@@ -752,10 +713,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_umnyy"
@@ -767,10 +725,10 @@
    "type": "multiple_choice",
    "question": "Вы́ у́мная.",
    "options": [
-    "Può.",
+    "Voi chi siete?",
     "Sei intelligente.",
-    "Siete amici?",
-    "Sono brillante."
+    "Lei è padre?",
+    "Siete belli."
    ],
    "correct": 1
   },
@@ -784,10 +742,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_staryy"
   ],
@@ -805,7 +760,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000659",
@@ -813,12 +768,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "descrizioni"
+   "descrizioni",
+   "soldi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dorogoy",
    "w_molodoy",
@@ -854,7 +807,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000660",
@@ -865,10 +818,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_umnyy",
@@ -901,7 +851,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000661",
@@ -912,10 +862,7 @@
    "descrizioni",
    "direzioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_molodoy",
    "w_novyy",
@@ -956,7 +903,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000662",
@@ -967,10 +914,7 @@
    "descrizioni",
    "soldi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_umnyy",
    "w_plokhoy",
@@ -1011,7 +955,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000663",
@@ -1020,12 +964,10 @@
   "difficulty": 3,
   "topics": [
    "grammatica",
+   "soldi",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eda",
    "w_dorogoy",
@@ -1058,7 +1000,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000664",
@@ -1070,10 +1012,7 @@
    "soldi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_krasivyy",
    "w_plokhoy",
@@ -1114,7 +1053,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000665",
@@ -1125,10 +1064,7 @@
    "descrizioni",
    "soldi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_deshyovyy",
    "w_khoroshiy",
@@ -1164,7 +1100,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000666",
@@ -1172,13 +1108,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "descrizioni",
    "soldi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dorogoy",
    "w_drug"
@@ -1200,7 +1132,7 @@
     "дороги́е друзья́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000667",
@@ -1210,10 +1142,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_molodoy"
   ],
@@ -1229,7 +1158,7 @@
     "молодой"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000668",
@@ -1237,13 +1166,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "descrizioni",
    "soldi"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vremya",
    "w_dorogoy"
@@ -1265,7 +1190,7 @@
     "вре́мя до́рого"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000669",
@@ -1275,10 +1200,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_krasivyy"
   ],
@@ -1294,7 +1216,7 @@
     "красивый"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000670",
@@ -1305,10 +1227,7 @@
    "descrizioni",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khoroshiy",
    "w_rabota"
@@ -1330,7 +1249,7 @@
     "хоро́шая рабо́та"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000671",
@@ -1340,10 +1259,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_novyy"
   ],
@@ -1359,7 +1275,7 @@
     "новый"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000672",
@@ -1370,10 +1286,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_khoroshiy"
@@ -1395,7 +1308,7 @@
     "я́ хоро́ший"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000673",
@@ -1405,10 +1318,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "agreement"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_staryy"
   ],
@@ -1423,6 +1333,186 @@
     "ста́рый",
     "старый"
    ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002030",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_staryy",
+   "w_dom"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ до́м.",
+   "answer": "ста́рый",
+   "accepted": [
+    "ста́рый",
+    "старый"
+   ],
+   "hint_it": "vecchio: concorda con «до́м» (casa, maschile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002031",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_on"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ мо́лод.",
+   "answer": "О́н",
+   "accepted": [
+    "О́н",
+    "Он",
+    "он",
+    "о́н"
+   ],
+   "hint_it": "Lui è giovane."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002032",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_staryy",
+   "w_vino"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ вино́.",
+   "answer": "ста́рое",
+   "accepted": [
+    "ста́рое",
+    "старое"
+   ],
+   "hint_it": "vecchio: concorda con «вино́» (vino, neutro)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002033",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni",
+   "soldi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_sobaka"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ больша́я.",
+   "answer": "Соба́ка",
+   "accepted": [
+    "Соба́ка",
+    "Собака",
+    "собака",
+    "соба́ка"
+   ],
+   "hint_it": "Il cane è grande."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002034",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "soldi"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_deshyovyy",
+   "w_pivo"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «дешёвый» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ пи́во. — economico: concorda con «пи́во» (birra, neutro).",
+   "options": [
+    "дешёвая",
+    "дешёвое",
+    "дешёвый",
+    "дешёвые"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002035",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_on",
+   "w_molodoy"
+  ],
+  "lesson": "l_a1_06",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "О́н мо́лод.",
+   "options": [
+    "Lui è solo.",
+    "Sei giovane.",
+    "Quanto ha?",
+    "Lui è giovane."
+   ],
+   "correct": 3
   },
   "qa_status": "pending"
  }

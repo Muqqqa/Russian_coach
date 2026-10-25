@@ -26,7 +26,8 @@
     "mòzhno"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000102",
@@ -36,10 +37,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tozhe"
   ],
@@ -55,7 +53,7 @@
     "anche"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000103",
@@ -65,10 +63,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eshchyo",
    "w_net"
@@ -88,7 +83,7 @@
     "non ancora."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000104",
@@ -98,10 +93,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khorosho"
   ],
@@ -120,7 +112,7 @@
     "нормально"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000105",
@@ -156,7 +148,8 @@
     "о́чень хорошо́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000106",
@@ -187,7 +180,8 @@
     "ciàj"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000107",
@@ -197,10 +191,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mozhno"
   ],
@@ -219,7 +210,7 @@
     "e permesso"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000108",
@@ -230,10 +221,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_tozhe"
@@ -257,7 +245,7 @@
     "io anch'io."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000109",
@@ -267,10 +255,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mozhno"
   ],
@@ -287,7 +272,7 @@
     "можно"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000110",
@@ -297,10 +282,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eshchyo"
   ],
@@ -319,7 +301,8 @@
    ],
    "hint_it": "Cos'altro?"
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: «Ещё чего?» = «Cos'altro?»: idioma («Ma figurati!»), incerto"
  },
  {
   "id": "e_000111",
@@ -351,7 +334,8 @@
    ],
    "hint_it": "albergo, si legge «gostìniza»"
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000112",
@@ -361,10 +345,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya"
   ],
@@ -383,7 +364,7 @@
    ],
    "hint_it": "Ho caldo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000113",
@@ -394,8 +375,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
+   "alphabet-4"
   ],
   "words": [
    "w_tozhe"
@@ -413,7 +393,7 @@
    ],
    "hint_it": "anche, si legge «tòzhe»"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000114",
@@ -423,10 +403,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zharko"
   ],
@@ -443,7 +420,7 @@
    ],
    "hint_it": "Ho caldo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000115",
@@ -454,8 +431,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
+   "alphabet-4"
   ],
   "words": [
    "w_mozhno"
@@ -473,7 +449,7 @@
    ],
    "hint_it": "si può, si legge «mòzhno»"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000116",
@@ -483,10 +459,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_net"
   ],
@@ -502,7 +475,7 @@
    ],
    "hint_it": "Non ancora."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000117",
@@ -513,8 +486,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
+   "alphabet-4"
   ],
   "words": [
    "w_eshchyo"
@@ -524,11 +496,11 @@
   "prompt_it": "Completa la parola con la lettera mancante.",
   "payload": {
    "type": "cloze",
-   "text": "ещ___",
-   "answer": "ё",
+   "text": "е___ё",
+   "answer": "щ",
    "accepted": [
-    "ё",
-    "Ё"
+    "щ",
+    "Щ"
    ],
    "hint_it": "ancora, si legge «iessciò»"
   },
@@ -544,8 +516,7 @@
    "ristorante"
   ],
   "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
+   "alphabet-4"
   ],
   "words": [
    "w_eshchyo",
@@ -565,7 +536,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000119",
@@ -576,8 +547,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
+   "alphabet-4"
   ],
   "words": [
    "w_zharko",
@@ -597,7 +567,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000120",
@@ -608,8 +578,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
+   "alphabet-4"
   ],
   "words": [
    "w_eshchyo"
@@ -628,7 +597,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000121",
@@ -638,10 +607,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eshchyo",
    "w_chto"
@@ -660,7 +626,8 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: «Ещё чего?» = «Cos'altro?»: idioma («Ma figurati!»), incerto"
  },
  {
   "id": "e_000122",
@@ -693,7 +660,8 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000123",
@@ -724,7 +692,8 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: genere grammaticale chiesto prima di zero_08"
  },
  {
   "id": "e_000124",
@@ -756,7 +725,8 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000125",
@@ -789,7 +759,8 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000126",
@@ -800,8 +771,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
+   "alphabet-4"
   ],
   "words": [
    "w_zharko",
@@ -839,7 +809,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000127",
@@ -850,8 +820,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
+   "alphabet-4"
   ],
   "words": [
    "w_eshchyo"
@@ -880,7 +849,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000128",
@@ -925,7 +894,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000129",
@@ -936,10 +906,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gostinitsa",
    "w_chto",
@@ -970,7 +937,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000130",
@@ -1018,7 +985,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000131",
@@ -1073,7 +1041,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000132",
@@ -1083,10 +1052,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eshchyo",
    "w_chto"
@@ -1110,7 +1076,8 @@
     "еще чего"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: «Ещё чего?» = «Cos'altro?»: idioma («Ma figurati!»), incerto"
  },
  {
   "id": "e_000133",
@@ -1122,10 +1089,7 @@
    "grammatica",
    "ristorante"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gostinitsa"
   ],
@@ -1141,7 +1105,7 @@
     "гостиница"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000134",
@@ -1152,10 +1116,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tam",
    "w_zharko"
@@ -1177,7 +1138,7 @@
     "та́м жа́рко"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000135",
@@ -1208,7 +1169,8 @@
     "чай"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000136",
@@ -1246,7 +1208,8 @@
     "счет пожалуйста"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000137",
@@ -1256,10 +1219,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khorosho"
   ],
@@ -1275,7 +1235,7 @@
     "хорошо"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000138",
@@ -1286,10 +1246,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_tozhe"
@@ -1311,7 +1268,7 @@
     "я́ то́же"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000139",
@@ -1321,10 +1278,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "alphabet-4",
-   "sibilants"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mozhno"
   ],
@@ -1338,6 +1292,444 @@
    "accepted": [
     "мо́жно",
     "можно"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_001987",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "ristorante"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_schyot"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "счёт",
+   "answer": "conto",
+   "accepted": [
+    "conto",
+    "il conto",
+    "un conto"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001988",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_eshchyo",
+   "w_chto"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Ещё чего́?",
+   "answer": "Cos'altro?",
+   "accepted": [
+    "Cos'altro?",
+    "Cos'altro",
+    "cos'altro",
+    "cos'altro?"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001989",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "ristorante"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_schyot"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
+  "payload": {
+   "type": "translate",
+   "direction": "it_ru",
+   "source": "conto",
+   "answer": "счёт",
+   "accepted": [
+    "счёт",
+    "счет"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001990",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_chto"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ещё ___?",
+   "answer": "чего́",
+   "accepted": [
+    "чего́",
+    "чего"
+   ],
+   "hint_it": "Cos'altro?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001991",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-4"
+  ],
+  "words": [
+   "w_gostinitsa"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il suono della lettera.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge la lettera «Ц ц»?",
+   "options": [
+    "v",
+    "o",
+    "z sorda",
+    "e aperta"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001992",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica",
+   "ristorante"
+  ],
+  "grammar_tags": [
+   "alphabet-4"
+  ],
+  "words": [
+   "w_gostinitsa"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 10,
+  "prompt_it": "Scegli la lettera russa che corrisponde al suono.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Quale lettera russa si legge «z sorda»?",
+   "options": [
+    "М м",
+    "Ц ц",
+    "Ф ф",
+    "Г г"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001993",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4"
+  ],
+  "words": [
+   "w_tozhe"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Scegli la lettura giusta della parola.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come si legge «тоже»?",
+   "options": [
+    "privèt",
+    "nèt",
+    "tòzhe",
+    "zhàrko"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001994",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4"
+  ],
+  "words": [
+   "w_khorosho"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Scegli la parola russa che corrisponde alla lettura.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Quale parola russa si legge «khorosciò»?",
+   "options": [
+    "хорошо",
+    "счёт",
+    "ресторан",
+    "пиво"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001995",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "alphabet-4"
+  ],
+  "words": [
+   "w_chto",
+   "w_tozhe",
+   "w_eshchyo",
+   "w_gostinitsa"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa alla sua lettura.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "что́",
+     "it": "stò"
+    },
+    {
+     "ru": "то́же",
+     "it": "tòzhe"
+    },
+    {
+     "ru": "ещё",
+     "it": "iessciò"
+    },
+    {
+     "ru": "гости́ница",
+     "it": "gostìniza"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001996",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_eshchyo",
+   "w_zharko",
+   "w_mozhno",
+   "w_khorosho",
+   "w_gostinitsa"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ещё",
+     "it": "ancora"
+    },
+    {
+     "ru": "жа́рко",
+     "it": "fa caldo"
+    },
+    {
+     "ru": "мо́жно",
+     "it": "si può"
+    },
+    {
+     "ru": "хорошо́",
+     "it": "bene"
+    },
+    {
+     "ru": "гости́ница",
+     "it": "albergo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001997",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi",
+   "ristorante"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_khorosho",
+   "w_schyot",
+   "w_mozhno",
+   "w_pivo",
+   "w_taksi",
+   "w_tualet"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "хорошо́",
+     "it": "bene"
+    },
+    {
+     "ru": "счёт",
+     "it": "conto"
+    },
+    {
+     "ru": "мо́жно",
+     "it": "si può"
+    },
+    {
+     "ru": "пи́во",
+     "it": "birra"
+    },
+    {
+     "ru": "такси́",
+     "it": "taxi"
+    },
+    {
+     "ru": "туале́т",
+     "it": "bagno"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001998",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_ya",
+   "w_zharko"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Мне́ жа́рко.",
+   "translation_it": "Ho caldo.",
+   "accepted": [
+    "Мне́ жа́рко.",
+    "Мне́ жа́рко",
+    "Мне жарко.",
+    "Мне жарко",
+    "мне жарко.",
+    "мне жарко",
+    "мне́ жа́рко"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_001999",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_tozhe"
+  ],
+  "lesson": "l_zero_04",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "то́же",
+   "translation_it": "anche",
+   "accepted": [
+    "то́же",
+    "тоже"
    ]
   },
   "qa_status": "pending"

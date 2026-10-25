@@ -7,10 +7,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ukhodit"
   ],
@@ -27,7 +24,7 @@
     "partire"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001512",
@@ -39,10 +36,7 @@
    "movimento",
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my",
    "w_priyti",
@@ -74,7 +68,7 @@
     "noi verremo venerdi"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001513",
@@ -84,10 +78,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_prikhodit"
   ],
@@ -106,7 +97,7 @@
     "прийти"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001514",
@@ -117,10 +108,7 @@
    "avverbi",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_prosto",
    "w_ukhodit"
@@ -143,7 +131,7 @@
     "про́сто уходи́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001515",
@@ -153,10 +141,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vernutsya"
   ],
@@ -172,7 +157,7 @@
     "tornare"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001516",
@@ -183,10 +168,7 @@
    "descrizioni",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mnogie",
    "w_uyti"
@@ -206,7 +188,7 @@
     "molti se ne sono andati."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001517",
@@ -216,10 +198,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_priekhat"
   ],
@@ -236,7 +215,7 @@
     "приехать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001518",
@@ -247,10 +226,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_potom",
@@ -274,7 +250,7 @@
     "я́ пото́м верну́сь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001519",
@@ -282,13 +258,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "movimento",
-   "direzioni"
+   "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khodit"
   ],
@@ -305,7 +277,7 @@
     "camminare"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001520",
@@ -316,8 +288,6 @@
    "movimento"
   ],
   "grammar_tags": [
-   "motion-prefix",
-   "aspect",
    "past-tense"
   ],
   "words": [
@@ -336,7 +306,7 @@
    ],
    "hint_it": "venire (ieri): lui"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001521",
@@ -346,10 +316,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_moch"
   ],
@@ -368,7 +335,7 @@
    ],
    "hint_it": "Puoi andare."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001522",
@@ -379,8 +346,6 @@
    "movimento"
   ],
   "grammar_tags": [
-   "motion-prefix",
-   "aspect",
    "past-tense"
   ],
   "words": [
@@ -399,7 +364,7 @@
    ],
    "hint_it": "tornare (ieri): loro"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001523",
@@ -409,10 +374,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty"
   ],
@@ -431,7 +393,7 @@
    ],
    "hint_it": "Sei già arrivato?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001524",
@@ -442,8 +404,6 @@
    "movimento"
   ],
   "grammar_tags": [
-   "motion-prefix",
-   "aspect",
    "past-tense"
   ],
   "words": [
@@ -462,7 +422,7 @@
    ],
    "hint_it": "arrivare con un mezzo (ieri): loro"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001525",
@@ -472,10 +432,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_uyti"
   ],
@@ -488,11 +445,16 @@
    "answer": "ушёл",
    "accepted": [
     "ушёл",
-    "ушел"
+    "ушел",
+    "пошёл",
+    "пошел",
+    "пое́хал",
+    "поехал"
    ],
    "hint_it": "Sono andato a casa."
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: пошёл/поехал validi"
  },
  {
   "id": "e_001526",
@@ -503,8 +465,6 @@
    "movimento"
   ],
   "grammar_tags": [
-   "motion-prefix",
-   "aspect",
    "past-tense"
   ],
   "words": [
@@ -523,7 +483,7 @@
    ],
    "hint_it": "arrivare con un mezzo (ieri): lei"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001527",
@@ -533,10 +493,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_prikhodit"
   ],
@@ -553,7 +510,7 @@
    ],
    "hint_it": "Vieni anche tu."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001528",
@@ -561,12 +518,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "movimento",
-   "direzioni"
+   "movimento"
   ],
   "grammar_tags": [
-   "motion-prefix",
-   "aspect",
    "past-tense"
   ],
   "words": [
@@ -585,7 +539,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001529",
@@ -596,10 +550,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ne",
    "w_ukhodit"
@@ -611,10 +562,10 @@
    "type": "multiple_choice",
    "question": "Не уходи́.",
    "options": [
-    "Dobbiamo andarcene.",
-    "Non fa freddo.",
+    "Sto uscendo.",
+    "Non voglio!",
     "Non andartene.",
-    "Ora vattene."
+    "Me ne vado adesso."
    ],
    "correct": 2
   },
@@ -628,10 +579,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_syuda"
   ],
@@ -645,7 +593,7 @@
     "verso qui",
     "molto",
     "là",
-    "gustoso"
+    "buono"
    ],
    "correct": 0
   },
@@ -660,10 +608,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_uyti",
@@ -678,8 +623,8 @@
    "question": "Lui se n'è andato un minuto fa.",
    "options": [
     "Без пяти́ мину́т четы́ре.",
-    "Я́ всё ему́ рассказа́л.",
-    "О́н ушёл ча́с наза́д.",
+    "У него́ де́сять дете́й.",
+    "В дере́вне его́ лю́бят.",
     "О́н ушёл мину́ту наза́д."
    ],
    "correct": 3
@@ -694,10 +639,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_syuda"
   ],
@@ -715,7 +657,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001533",
@@ -726,8 +668,6 @@
    "movimento"
   ],
   "grammar_tags": [
-   "motion-prefix",
-   "aspect",
    "past-tense"
   ],
   "words": [
@@ -746,7 +686,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001534",
@@ -757,10 +697,7 @@
    "movimento",
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ukhodit",
    "w_pryamo",
@@ -773,10 +710,10 @@
    "type": "multiple_choice",
    "question": "Уходи́ пря́мо сейча́с.",
    "options": [
-    "Puoi andartene se vuoi.",
-    "Sto uscendo.",
+    "Dobbiamo andarcene.",
+    "Ora vattene.",
     "Vattene in questo esatto momento.",
-    "È l'una del pomeriggio."
+    "Me ne vado alle quattro."
    ],
    "correct": 2
   },
@@ -790,10 +727,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_priyti"
   ],
@@ -811,7 +745,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001536",
@@ -822,10 +756,7 @@
    "movimento",
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_syuda",
    "w_domoy",
@@ -857,7 +788,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001537",
@@ -905,7 +836,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001538",
@@ -917,10 +849,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poyti",
    "w_domoy",
@@ -957,7 +886,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001539",
@@ -967,10 +896,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_uyti",
    "w_priyti",
@@ -998,7 +924,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001540",
@@ -1045,7 +971,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001541",
@@ -1057,10 +984,7 @@
    "descrizioni",
    "saluti"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_prikhodit",
    "w_uyti",
@@ -1101,7 +1025,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001542",
@@ -1111,10 +1035,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khodit",
    "w_poyti",
@@ -1141,7 +1062,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001543",
@@ -1152,10 +1073,7 @@
    "movimento",
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ukhodit",
    "w_pryamo",
@@ -1178,7 +1096,7 @@
     "уходи́ пря́мо сейча́с"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001544",
@@ -1188,10 +1106,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_syuda"
   ],
@@ -1207,7 +1122,7 @@
     "сюда"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001545",
@@ -1218,10 +1133,7 @@
    "avverbi",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nado",
    "w_ukhodit"
@@ -1243,7 +1155,7 @@
     "на́до уходи́ть"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001546",
@@ -1253,10 +1165,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_priyti"
   ],
@@ -1272,7 +1181,7 @@
     "прийти"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001547",
@@ -1283,10 +1192,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_ukhodit"
@@ -1308,7 +1214,7 @@
     "я́ ухожу́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001548",
@@ -1318,10 +1224,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_prikhodit"
   ],
@@ -1337,7 +1240,7 @@
     "приходить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001549",
@@ -1346,12 +1249,10 @@
   "difficulty": 3,
   "topics": [
    "grammatica",
+   "movimento",
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_khodit",
@@ -1375,7 +1276,7 @@
     "о́н хо́дит в шко́лу"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001550",
@@ -1383,13 +1284,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "movimento",
-   "direzioni"
+   "movimento"
   ],
-  "grammar_tags": [
-   "motion-prefix",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khodit"
   ],
@@ -1403,6 +1300,119 @@
    "accepted": [
     "ходи́ть",
     "ходить"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002094",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_prikhodit",
+   "w_ukhodit",
+   "w_priekhat",
+   "w_domoy"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "приходи́ть",
+     "it": "venire"
+    },
+    {
+     "ru": "уходи́ть",
+     "it": "andare via"
+    },
+    {
+     "ru": "прие́хать",
+     "it": "arrivare con un mezzo"
+    },
+    {
+     "ru": "домо́й",
+     "it": "a casa"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002095",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_my",
+   "w_ne",
+   "w_priyti",
+   "w_kto",
+   "w_s",
+   "w_vy"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Мы́ не придём.",
+     "it": "Noi non verremo."
+    },
+    {
+     "ru": "Кто́ с ва́ми ходи́л?",
+     "it": "Chi è venuto con voi?"
+    },
+    {
+     "ru": "Я́ от ва́с ухожу́.",
+     "it": "Vi sto lasciando."
+    },
+    {
+     "ru": "Уже́ прие́хали?",
+     "it": "Sono già arrivati?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002096",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "movimento"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_poekhat"
+  ],
+  "lesson": "l_a2_04",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "пое́хать",
+   "answer": "andare con un mezzo",
+   "accepted": [
+    "andare con un mezzo",
+    "partire"
    ]
   },
   "qa_status": "pending"

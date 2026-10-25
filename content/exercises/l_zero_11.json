@@ -7,10 +7,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pomoch"
   ],
@@ -26,7 +23,7 @@
     "aiutare"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000359",
@@ -37,10 +34,7 @@
    "grammatica",
    "soldi"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_on",
@@ -65,7 +59,7 @@
     "io l'ho comprato."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000360",
@@ -75,10 +69,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_moch"
   ],
@@ -95,7 +86,7 @@
     "мочь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000361",
@@ -107,10 +98,7 @@
    "tempo",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_segodnya",
@@ -134,7 +122,7 @@
     "о́н сего́дня спро́сит"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000362",
@@ -144,10 +132,7 @@
   "topics": [
    "soldi"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stoit"
   ],
@@ -163,7 +148,7 @@
     "costare"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000363",
@@ -174,10 +159,7 @@
    "grammatica",
    "soldi"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_ona",
@@ -202,7 +184,7 @@
     "io l'ho comprata."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000364",
@@ -212,10 +194,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zhit"
   ],
@@ -232,7 +211,7 @@
     "жить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000365",
@@ -244,10 +223,7 @@
    "avverbi",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_pravilno",
@@ -271,7 +247,7 @@
     "я́ пра́вильно говорю́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000366",
@@ -281,10 +257,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zhit"
   ],
@@ -301,7 +274,7 @@
     "abitare"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000367",
@@ -311,11 +284,7 @@
   "topics": [
    "soldi"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kupit"
   ],
@@ -332,7 +301,7 @@
    ],
    "hint_it": "comprare: io (domani)"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000368",
@@ -364,7 +333,8 @@
    ],
    "hint_it": "Vivevamo tra gli stenti."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Vivevamo tra gli stenti» troppo alto per zero_10"
  },
  {
   "id": "e_000369",
@@ -374,11 +344,7 @@
   "topics": [
    "soldi"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kupit"
   ],
@@ -395,7 +361,7 @@
    ],
    "hint_it": "comprare: tu (domani)"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000370",
@@ -405,10 +371,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_govorit"
   ],
@@ -425,7 +388,7 @@
    ],
    "hint_it": "Le persone stanno parlando."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000371",
@@ -436,8 +399,7 @@
    "mente"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
+   "verbs-present"
   ],
   "words": [
    "w_khotet"
@@ -455,7 +417,7 @@
    ],
    "hint_it": "volere: voi"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000372",
@@ -465,10 +427,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_moch"
   ],
@@ -481,7 +440,9 @@
    "answer": "мо́жете",
    "accepted": [
     "мо́жете",
-    "можете"
+    "можете",
+    "у́мный",
+    "умный"
    ],
    "hint_it": "Può."
   },
@@ -496,8 +457,7 @@
    "comunicazione"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
+   "verbs-present"
   ],
   "words": [
    "w_govorit"
@@ -515,7 +475,7 @@
    ],
    "hint_it": "parlare: io"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000374",
@@ -545,7 +505,8 @@
    ],
    "hint_it": "Vivevamo tra gli stenti."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Vivevamo tra gli stenti» troppo alto per zero_10"
  },
  {
   "id": "e_000375",
@@ -556,8 +517,7 @@
    "comunicazione"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
+   "verbs-present"
   ],
   "words": [
    "w_govorit"
@@ -576,7 +536,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000376",
@@ -588,10 +548,7 @@
    "comunicazione",
    "saluti"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_govorit",
@@ -611,7 +568,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000377",
@@ -621,10 +578,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ponimat"
   ],
@@ -642,7 +596,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000378",
@@ -653,10 +607,7 @@
    "grammatica",
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ili",
    "w_ne",
@@ -669,9 +620,9 @@
    "type": "multiple_choice",
    "question": "O non vuoi?",
    "options": [
+    "Ча́й и́ли ко́фе?",
     "Я́ хочу́ жи́ть.",
     "Ча́ю хо́чешь?",
-    "Ча́й и́ли ко́фе?",
     "И́ли не хо́чешь?"
    ],
    "correct": 3
@@ -686,10 +637,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_moch"
   ],
@@ -707,7 +655,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000380",
@@ -718,8 +666,7 @@
    "mente"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
+   "verbs-present"
   ],
   "words": [
    "w_ponimat"
@@ -738,7 +685,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000381",
@@ -750,10 +697,7 @@
    "mente",
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_khotet",
@@ -773,7 +717,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000382",
@@ -783,10 +727,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sprosit"
   ],
@@ -804,7 +745,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000383",
@@ -816,10 +757,7 @@
    "comunicazione",
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_moch",
    "w_khotet",
@@ -855,7 +793,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000384",
@@ -900,7 +838,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000385",
@@ -912,10 +851,7 @@
    "grammatica",
    "soldi"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ponimat",
    "w_moch",
@@ -956,7 +892,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000386",
@@ -968,10 +904,7 @@
    "soldi",
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stoit",
    "w_ponimat",
@@ -1002,7 +935,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000387",
@@ -1050,7 +983,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000388",
@@ -1062,10 +996,7 @@
    "comunicazione",
    "avverbi"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stoit",
    "w_kupit",
@@ -1106,7 +1037,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000389",
@@ -1118,10 +1049,7 @@
    "soldi",
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_govorit",
    "w_sprosit",
@@ -1157,7 +1085,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000390",
@@ -1169,10 +1097,7 @@
    "mente",
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_khotet",
@@ -1195,7 +1120,7 @@
     "я́ хочу́ жи́ть"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000391",
@@ -1205,10 +1130,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khotet"
   ],
@@ -1224,7 +1146,7 @@
     "хотеть"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000392",
@@ -1235,10 +1157,7 @@
    "grammatica",
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ili",
    "w_ne",
@@ -1261,7 +1180,7 @@
     "и́ли не хо́чешь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000393",
@@ -1271,10 +1190,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zhit"
   ],
@@ -1290,7 +1206,7 @@
     "жить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000394",
@@ -1300,10 +1216,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chelovek",
    "w_govorit"
@@ -1325,7 +1238,7 @@
     "лю́ди говоря́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000395",
@@ -1335,10 +1248,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_moch"
   ],
@@ -1354,7 +1264,7 @@
     "мочь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000396",
@@ -1365,10 +1275,7 @@
    "grammatica",
    "soldi"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_ty",
@@ -1391,7 +1298,7 @@
     "что́ ты́ купи́л"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000397",
@@ -1401,10 +1308,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-intro"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sprosit"
   ],
@@ -1418,6 +1322,152 @@
    "accepted": [
     "спроси́ть",
     "спросить"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002021",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "mente"
+  ],
+  "grammar_tags": [
+   "verbs-present"
+  ],
+  "words": [
+   "w_khotet"
+  ],
+  "lesson": "l_zero_11",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ (хоте́ть).",
+   "answer": "хочу́",
+   "accepted": [
+    "хочу́",
+    "хочу"
+   ],
+   "hint_it": "volere: io"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002022",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_chto"
+  ],
+  "lesson": "l_zero_11",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ ты́ купи́л?",
+   "answer": "Что́",
+   "accepted": [
+    "Что́",
+    "Что",
+    "что",
+    "что́"
+   ],
+   "hint_it": "Che hai comprato?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002023",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "soldi",
+   "comunicazione",
+   "azioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_stoit",
+   "w_govorit",
+   "w_pomoch",
+   "w_ponimat"
+  ],
+  "lesson": "l_zero_11",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сто́ить",
+     "it": "costare"
+    },
+    {
+     "ru": "говори́ть",
+     "it": "parlare"
+    },
+    {
+     "ru": "помо́чь",
+     "it": "aiutare"
+    },
+    {
+     "ru": "понима́ть",
+     "it": "capire"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002024",
+  "type": "match",
+  "level": "zero",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "soldi",
+   "mente"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_chto",
+   "w_ty",
+   "w_kupit",
+   "w_ne",
+   "w_khotet",
+   "w_vy"
+  ],
+  "lesson": "l_zero_11",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Что́ ты́ купи́л?",
+     "it": "Che hai comprato?"
+    },
+    {
+     "ru": "Не хочу́!",
+     "it": "Non voglio!"
+    },
+    {
+     "ru": "Вы́ говори́те по-ру́сски?",
+     "it": "Parla russo?"
+    },
+    {
+     "ru": "И́ли не хо́чешь?",
+     "it": "O non vuoi?"
+    }
    ]
   },
   "qa_status": "pending"

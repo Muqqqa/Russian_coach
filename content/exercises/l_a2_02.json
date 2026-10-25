@@ -7,10 +7,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nuzhnyy"
   ],
@@ -26,7 +23,7 @@
     "necessario"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001432",
@@ -37,10 +34,7 @@
    "comunicazione",
    "avverbi"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_govorit",
    "w_nelzya"
@@ -63,7 +57,7 @@
     "non si puo parlare"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001433",
@@ -73,10 +67,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dolzhnyy"
   ],
@@ -86,7 +77,7 @@
   "payload": {
    "type": "translate",
    "direction": "it_ru",
-   "source": "tenuto a",
+   "source": "dovuto",
    "answer": "до́лжный",
    "accepted": [
     "до́лжный",
@@ -133,7 +124,8 @@
     "э́то бы́ло та́к краси́во"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001435",
@@ -143,10 +135,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_imet"
   ],
@@ -163,7 +152,7 @@
     "possedere"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001436",
@@ -175,10 +164,7 @@
    "azioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_v",
    "w_restoran",
@@ -200,7 +186,7 @@
     "c'era silenzio al ristorante."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001437",
@@ -210,10 +196,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nelzya"
   ],
@@ -230,7 +213,7 @@
     "нельзя"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001438",
@@ -241,10 +224,7 @@
    "descrizioni",
    "azioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nuzhnyy",
    "w_ostanovitsya"
@@ -267,7 +247,7 @@
     "ну́жно останови́ться"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001439",
@@ -279,10 +259,7 @@
    "descrizioni",
    "mente"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pora"
   ],
@@ -299,7 +276,7 @@
     "e ora di"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001440",
@@ -310,8 +287,6 @@
    "mente"
   ],
   "grammar_tags": [
-   "past-of-byt",
-   "modals",
    "past-tense"
   ],
   "words": [
@@ -330,7 +305,7 @@
    ],
    "hint_it": "saper fare (ieri): loro"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001441",
@@ -340,10 +315,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_byt"
   ],
@@ -356,11 +328,14 @@
    "answer": "бы́л",
    "accepted": [
     "бы́л",
-    "был"
+    "был",
+    "шёл",
+    "шел"
    ],
    "hint_it": "Di notte c'è stata neve."
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: шёл valido"
  },
  {
   "id": "e_001442",
@@ -371,8 +346,6 @@
    "azioni"
   ],
   "grammar_tags": [
-   "past-of-byt",
-   "modals",
    "past-tense"
   ],
   "words": [
@@ -391,7 +364,7 @@
    ],
    "hint_it": "essere (ieri): loro"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001443",
@@ -399,14 +372,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "azioni",
-   "descrizioni",
-   "mente"
+   "comunicazione"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_slushat"
   ],
@@ -423,7 +391,7 @@
    ],
    "hint_it": "Io so ascoltare."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001444",
@@ -434,8 +402,6 @@
    "mente"
   ],
   "grammar_tags": [
-   "past-of-byt",
-   "modals",
    "past-tense"
   ],
   "words": [
@@ -454,7 +420,7 @@
    ],
    "hint_it": "saper fare (ieri): lui"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001445",
@@ -464,10 +430,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_umet"
   ],
@@ -484,7 +447,7 @@
    ],
    "hint_it": "Io so ascoltare."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001446",
@@ -495,8 +458,6 @@
    "azioni"
   ],
   "grammar_tags": [
-   "past-of-byt",
-   "modals",
    "past-tense"
   ],
   "words": [
@@ -515,7 +476,7 @@
    ],
    "hint_it": "avere (ieri): lei"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001447",
@@ -525,10 +486,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dolzhnyy"
   ],
@@ -545,7 +503,7 @@
    ],
    "hint_it": "Devi aiutare tua madre!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001448",
@@ -555,11 +513,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_smoch"
   ],
@@ -577,7 +531,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001449",
@@ -587,10 +541,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vchera",
    "w_byt",
@@ -603,7 +554,7 @@
    "type": "multiple_choice",
    "question": "Вчера́ бы́л вто́рник.",
    "options": [
-    "Ieri era giovedì.",
+    "Domani è martedì.",
     "C'era silenzio dappertutto.",
     "Ieri stavo male.",
     "Ieri era martedì."
@@ -620,10 +571,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nelzya"
   ],
@@ -641,7 +589,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001451",
@@ -654,8 +602,6 @@
    "mente"
   ],
   "grammar_tags": [
-   "past-of-byt",
-   "modals",
    "gender"
   ],
   "words": [
@@ -674,7 +620,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001452",
@@ -683,12 +629,10 @@
   "difficulty": 3,
   "topics": [
    "grammatica",
-   "mente"
+   "mente",
+   "comunicazione"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_umet",
@@ -702,9 +646,9 @@
    "question": "Io so ascoltare.",
    "options": [
     "Я́ уме́ю слу́шать.",
-    "О́н у́чит меня́.",
-    "Мне́ до́лго жда́ть?",
-    "Я́ ста́рая подру́га."
+    "Я́ плохо́й челове́к.",
+    "Иди́ без меня́.",
+    "Мо́жно мне́ три́?"
    ],
    "correct": 0
   },
@@ -718,10 +662,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_imet"
   ],
@@ -739,7 +680,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001454",
@@ -750,8 +691,6 @@
    "azioni"
   ],
   "grammar_tags": [
-   "past-of-byt",
-   "modals",
    "past-tense"
   ],
   "words": [
@@ -770,7 +709,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001455",
@@ -780,10 +719,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vchera",
    "w_byt",
@@ -796,10 +732,10 @@
    "type": "multiple_choice",
    "question": "Вчера́ бы́л четве́рг.",
    "options": [
-    "Ieri era martedì.",
-    "Ieri era giovedì.",
     "Ieri stavo male.",
-    "Sii sempre te stesso!"
+    "Ieri era giovedì.",
+    "C'erano tutti.",
+    "C'era silenzio dappertutto."
    ],
    "correct": 1
   },
@@ -814,10 +750,7 @@
    "mente",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dolzhnyy",
    "w_umet",
@@ -832,7 +765,7 @@
    "pairs": [
     {
      "ru": "до́лжный",
-     "it": "tenuto a"
+     "it": "dovuto"
     },
     {
      "ru": "уме́ть",
@@ -860,10 +793,7 @@
    "azioni",
    "concetti"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_byt",
    "w_dozhd",
@@ -895,7 +825,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001458",
@@ -907,10 +837,7 @@
    "azioni",
    "mente"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dolzhnyy",
    "w_nuzhnyy",
@@ -927,7 +854,7 @@
    "pairs": [
     {
      "ru": "до́лжный",
-     "it": "tenuto a"
+     "it": "dovuto"
     },
     {
      "ru": "ну́жный",
@@ -963,10 +890,7 @@
    "azioni",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_umet",
    "w_pora",
@@ -993,7 +917,7 @@
     },
     {
      "ru": "до́лжный",
-     "it": "tenuto a"
+     "it": "dovuto"
     }
    ]
   },
@@ -1009,10 +933,7 @@
    "mente",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_ne",
@@ -1045,7 +966,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001461",
@@ -1101,7 +1022,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001462",
@@ -1113,10 +1035,7 @@
    "avverbi",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_imet",
    "w_byt",
@@ -1152,7 +1071,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001463",
@@ -1162,10 +1081,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_spat",
    "w_khotetsya"
@@ -1187,7 +1103,7 @@
     "спа́ть хо́чется"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001464",
@@ -1199,10 +1115,7 @@
    "descrizioni",
    "mente"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pora"
   ],
@@ -1218,7 +1131,7 @@
     "пора"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001465",
@@ -1230,10 +1143,7 @@
    "descrizioni",
    "azioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_dolzhnyy",
@@ -1257,7 +1167,7 @@
     "вы́ должны́ помо́чь ма́тери"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001466",
@@ -1267,10 +1177,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nuzhnyy"
   ],
@@ -1286,7 +1193,7 @@
     "нужный"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001467",
@@ -1298,10 +1205,7 @@
    "descrizioni",
    "movimento"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_dolzhnyy",
@@ -1324,7 +1228,7 @@
     "я́ до́лжен идти́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001468",
@@ -1334,10 +1238,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_imet"
   ],
@@ -1353,7 +1254,7 @@
     "иметь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001469",
@@ -1364,10 +1265,7 @@
    "descrizioni",
    "azioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nuzhnyy",
    "w_ostanovitsya"
@@ -1389,7 +1287,7 @@
     "ну́жно останови́ться"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001470",
@@ -1399,10 +1297,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-of-byt",
-   "modals"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_byt"
   ],
@@ -1416,6 +1311,80 @@
    "accepted": [
     "бы́ть",
     "быть"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002089",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_byt"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "бы́ть",
+   "answer": "essere",
+   "accepted": [
+    "essere"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002090",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "mente",
+   "descrizioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_smoch",
+   "w_nuzhnyy",
+   "w_byt",
+   "w_nelzya",
+   "w_imet"
+  ],
+  "lesson": "l_a2_02",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "смо́чь",
+     "it": "riuscire a"
+    },
+    {
+     "ru": "ну́жный",
+     "it": "necessario"
+    },
+    {
+     "ru": "бы́ть",
+     "it": "essere"
+    },
+    {
+     "ru": "нельзя́",
+     "it": "non si può"
+    },
+    {
+     "ru": "име́ть",
+     "it": "avere"
+    }
    ]
   },
   "qa_status": "pending"

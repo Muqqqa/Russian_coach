@@ -7,10 +7,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ono"
   ],
@@ -26,7 +23,7 @@
     "esso"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000289",
@@ -37,10 +34,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_chelovek",
@@ -65,7 +59,7 @@
     "io sono un uomo semplice."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000290",
@@ -75,10 +69,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_malenkiy"
   ],
@@ -97,7 +88,7 @@
     "малый"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000291",
@@ -134,7 +125,8 @@
     "где́ оно́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: \"Dov'è?\" ambiguo (он/она/оно)"
  },
  {
   "id": "e_000292",
@@ -144,10 +136,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_malenkiy"
   ],
@@ -163,7 +152,7 @@
     "piccolo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000293",
@@ -174,10 +163,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gde",
    "w_ono"
@@ -200,7 +186,7 @@
     "dov'e"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000294",
@@ -210,10 +196,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_vash",
@@ -237,7 +220,7 @@
     "э́то ва́ш сы́н"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000295",
@@ -247,10 +230,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vash"
   ],
@@ -264,7 +244,8 @@
    "answer": "vostro",
    "accepted": [
     "vostro",
-    "suo"
+    "Suo (di cortesia)",
+    "suo (di cortesia)"
    ]
   },
   "qa_status": "pending"
@@ -298,7 +279,8 @@
    ],
    "hint_it": "piccolo: concorda con «vino» (neutro)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: accordo aggettivo prima della lezione che lo spiega (a1_06); famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000297",
@@ -308,10 +290,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gde"
   ],
@@ -330,7 +309,7 @@
    ],
    "hint_it": "Dov'è?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000298",
@@ -340,10 +319,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -362,7 +338,7 @@
    ],
    "hint_it": "Questo è un tavolo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000299",
@@ -372,10 +348,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vash"
   ],
@@ -392,7 +365,7 @@
    ],
    "hint_it": "Lui è vostro padre."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000300",
@@ -403,10 +376,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chelovek"
   ],
@@ -423,7 +393,7 @@
    ],
    "hint_it": "Sono un uomo semplice."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000301",
@@ -433,10 +403,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty"
   ],
@@ -453,7 +420,7 @@
    ],
    "hint_it": "Sei tu."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000302",
@@ -464,10 +431,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dom"
   ],
@@ -486,7 +450,7 @@
    ],
    "hint_it": "La casa è piccola."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000303",
@@ -518,7 +482,8 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: accordo aggettivo prima della lezione che lo spiega (a1_06); famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000304",
@@ -528,10 +493,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_stol"
@@ -550,7 +512,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000305",
@@ -560,10 +522,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_malenkiy"
   ],
@@ -581,7 +540,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000306",
@@ -615,7 +574,8 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000307",
@@ -625,10 +585,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_drugoy"
@@ -647,7 +604,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000308",
@@ -657,10 +614,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nash"
   ],
@@ -678,7 +632,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000309",
@@ -688,10 +642,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_drugoy"
@@ -710,7 +661,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000310",
@@ -721,10 +672,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_drugoy",
    "w_nash",
@@ -760,7 +708,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000311",
@@ -770,10 +718,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_drugoy",
@@ -804,7 +749,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000312",
@@ -816,10 +761,7 @@
    "descrizioni",
    "saluti"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vash",
    "w_malenkiy",
@@ -856,7 +798,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000313",
@@ -867,10 +809,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ikh",
    "w_malenkiy",
@@ -911,7 +850,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000314",
@@ -922,10 +861,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_ya",
@@ -958,7 +894,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000315",
@@ -970,10 +906,7 @@
    "avverbi",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ikh",
    "w_ono",
@@ -1014,7 +947,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000316",
@@ -1049,7 +982,8 @@
     "э́то я́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000317",
@@ -1059,10 +993,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nash"
   ],
@@ -1078,7 +1009,7 @@
     "наш"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000318",
@@ -1089,10 +1020,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni",
    "w_malenkiy"
@@ -1114,7 +1042,7 @@
     "они́ ма́ленькие"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000319",
@@ -1124,10 +1052,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_drugoy"
   ],
@@ -1143,7 +1068,7 @@
     "другой"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000320",
@@ -1153,10 +1078,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_stol"
@@ -1178,7 +1100,7 @@
     "э́то сто́л"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000321",
@@ -1188,10 +1110,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ono"
   ],
@@ -1207,7 +1126,7 @@
     "оно"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000322",
@@ -1217,10 +1136,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "eto",
-   "pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dom",
    "w_malenkiy"
@@ -1240,6 +1156,149 @@
     "дом маленький.",
     "дом маленький",
     "до́м ма́ленький"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002013",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_drugoy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "друго́й",
+   "answer": "altro",
+   "accepted": [
+    "altro"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002014",
+  "type": "cloze",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Что́ ___?",
+   "answer": "э́то",
+   "accepted": [
+    "э́то",
+    "это"
+   ],
+   "hint_it": "Che cos'è?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002015",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_eto",
+   "w_vash",
+   "w_syn"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ва́ш сы́н?",
+   "options": [
+    "Sì, questo è vino.",
+    "Questo è vostro figlio?",
+    "Questo è l'altro.",
+    "Sono io."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002016",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_ono"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 10,
+  "prompt_it": "Scegli il significato giusto.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Che cosa significa «оно́»?",
+   "options": [
+    "che cosa",
+    "loro",
+    "lei",
+    "esso"
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002017",
+  "type": "dictation",
+  "level": "zero",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_eto",
+   "w_drugoy"
+  ],
+  "lesson": "l_zero_09",
+  "est_seconds": 19,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Э́то друго́й.",
+   "translation_it": "Questo è l'altro.",
+   "accepted": [
+    "Э́то друго́й.",
+    "Э́то друго́й",
+    "Это другой.",
+    "Это другой",
+    "это другой.",
+    "это другой",
+    "э́то друго́й"
    ]
   },
   "qa_status": "pending"

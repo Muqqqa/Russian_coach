@@ -7,10 +7,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tuda"
   ],
@@ -21,10 +18,12 @@
    "type": "translate",
    "direction": "ru_it",
    "source": "туда́",
-   "answer": "verso là",
+   "answer": "là",
    "accepted": [
-    "verso là",
-    "verso la"
+    "là",
+    "la",
+    "laggiù",
+    "laggiu"
    ]
   },
   "qa_status": "pending"
@@ -35,12 +34,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "movimento"
+   "movimento",
+   "avverbi"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_idti",
    "w_medlenno"
@@ -60,7 +57,7 @@
     "camminate lentamente."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000838",
@@ -70,10 +67,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ekhat"
   ],
@@ -92,7 +86,7 @@
     "поехать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000839",
@@ -103,10 +97,7 @@
    "avverbi",
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak",
    "w_daleko"
@@ -129,7 +120,7 @@
     "ка́к далеко́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000840",
@@ -140,10 +131,7 @@
    "direzioni",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nazad"
   ],
@@ -159,7 +147,7 @@
     "indietro"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000841",
@@ -171,10 +159,7 @@
    "movimento",
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_ekhat",
@@ -199,7 +184,7 @@
     "lui e andato con la metro"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000842",
@@ -209,10 +194,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tuda"
   ],
@@ -222,10 +204,12 @@
   "payload": {
    "type": "translate",
    "direction": "it_ru",
-   "source": "verso là",
+   "source": "là",
    "answer": "туда́",
    "accepted": [
     "туда́",
+    "та́м",
+    "там",
     "туда"
    ]
   },
@@ -239,10 +223,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zdes",
    "w_napravo"
@@ -265,7 +246,7 @@
     "зде́сь напра́во"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000844",
@@ -275,10 +256,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_daleko"
   ],
@@ -294,7 +272,7 @@
     "lontano"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000845",
@@ -305,8 +283,6 @@
    "movimento"
   ],
   "grammar_tags": [
-   "motion-verbs",
-   "directions",
    "verbs-present"
   ],
   "words": [
@@ -325,7 +301,7 @@
    ],
    "hint_it": "andare a piedi: lui"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000846",
@@ -335,10 +311,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bystro"
   ],
@@ -355,7 +328,7 @@
    ],
    "hint_it": "Vado veloce."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000847",
@@ -366,8 +339,6 @@
    "movimento"
   ],
   "grammar_tags": [
-   "motion-verbs",
-   "directions",
    "verbs-present"
   ],
   "words": [
@@ -386,7 +357,7 @@
    ],
    "hint_it": "andare a piedi: voi"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000848",
@@ -394,13 +365,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "direzioni",
-   "movimento"
+   "avverbi"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_medlenno"
   ],
@@ -417,7 +384,7 @@
    ],
    "hint_it": "Camminate lentamente."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000849",
@@ -448,7 +415,8 @@
    ],
    "hint_it": "lontano: concorda con «casa» (maschile)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000850",
@@ -458,10 +426,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_idti"
   ],
@@ -478,7 +443,7 @@
    ],
    "hint_it": "Stiamo andando al bar."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000851",
@@ -488,10 +453,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zdes"
   ],
@@ -510,7 +472,7 @@
    ],
    "hint_it": "Qui a destra."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000852",
@@ -520,10 +482,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ekhat"
   ],
@@ -536,11 +495,14 @@
    "answer": "е́хать",
    "accepted": [
     "е́хать",
-    "ехать"
+    "ехать",
+    "идти́",
+    "идти"
    ],
    "hint_it": "Il viaggio è lungo?"
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: идти́ valido"
  },
  {
   "id": "e_000853",
@@ -572,7 +534,8 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_000854",
@@ -583,10 +546,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my",
    "w_ekhat",
@@ -600,10 +560,10 @@
    "type": "multiple_choice",
    "question": "Мы́ е́хали не́сколько часо́в.",
    "options": [
-    "Vai anche tu?",
-    "Siamo andati per qualche ora.",
     "Ho dormito nove ore.",
-    "Andavo veloce?"
+    "Siamo andati per qualche ora.",
+    "Siamo qui da ottobre.",
+    "Scusate, sono senza orologio."
    ],
    "correct": 1
   },
@@ -617,10 +577,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tuda"
   ],
@@ -632,13 +589,14 @@
    "question": "Che cosa significa «туда́»?",
    "options": [
     "molto",
-    "là",
+    "sottovoce",
     "non lontano",
-    "verso là"
+    "là"
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: \"là\" e' traduzione valida di туда́"
  },
  {
   "id": "e_000856",
@@ -649,10 +607,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_idti"
@@ -665,9 +620,9 @@
    "question": "Vi sta bene.",
    "options": [
     "Ва́м идёт.",
-    "Они́ иду́т.",
-    "Вы́ мо́жете.",
-    "Вы́ кто́?"
+    "Вы́ рабо́таете?",
+    "Смотри́! Идёт!",
+    "Вы́ друзья́?"
    ],
    "correct": 0
   },
@@ -702,7 +657,8 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000858",
@@ -713,8 +669,6 @@
    "movimento"
   ],
   "grammar_tags": [
-   "motion-verbs",
-   "directions",
    "verbs-present"
   ],
   "words": [
@@ -734,7 +688,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000859",
@@ -745,10 +699,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_idti"
@@ -760,9 +711,9 @@
    "type": "multiple_choice",
    "question": "Ва́м идёт.",
    "options": [
-    "Andiamo là!",
-    "Lei è intelligente.",
-    "Siete sporco.",
+    "Siete amici?",
+    "Vi aiuto?",
+    "Siete sporchi.",
     "Vi sta bene."
    ],
    "correct": 3
@@ -777,10 +728,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dalyokiy"
   ],
@@ -798,7 +746,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000861",
@@ -809,10 +757,7 @@
    "direzioni",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nalevo",
    "w_dalyokiy",
@@ -845,7 +790,7 @@
     },
     {
      "ru": "туда́",
-     "it": "verso là"
+     "it": "là"
     }
    ]
   },
@@ -861,10 +806,7 @@
    "azioni",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zdes",
    "w_napravo",
@@ -897,7 +839,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000863",
@@ -908,10 +850,7 @@
    "movimento",
    "soldi"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ekhat",
    "w_nalevo",
@@ -952,7 +891,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000864",
@@ -963,10 +902,7 @@
    "direzioni",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_napravo",
    "w_daleko",
@@ -998,7 +934,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000865",
@@ -1010,10 +946,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona",
    "w_daleko",
@@ -1045,7 +978,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000866",
@@ -1057,10 +990,7 @@
    "movimento",
    "grammatica"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_daleko",
    "w_nedaleko",
@@ -1101,7 +1031,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000867",
@@ -1112,10 +1042,7 @@
    "direzioni",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ekhat",
    "w_nazad",
@@ -1147,7 +1074,7 @@
     },
     {
      "ru": "туда́",
-     "it": "verso là"
+     "it": "là"
     }
    ]
   },
@@ -1162,10 +1089,7 @@
    "avverbi",
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak",
    "w_daleko"
@@ -1187,7 +1111,7 @@
     "ка́к далеко́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000869",
@@ -1197,10 +1121,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dalyokiy"
   ],
@@ -1216,7 +1137,7 @@
     "далекий"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000870",
@@ -1228,10 +1149,7 @@
    "direzioni",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vse",
    "w_tuda",
@@ -1254,7 +1172,7 @@
     "все́ туда́ иду́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000871",
@@ -1264,10 +1182,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_idti"
   ],
@@ -1283,7 +1198,7 @@
     "идти"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000872",
@@ -1295,10 +1210,7 @@
    "avverbi",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_bystro",
@@ -1321,7 +1233,7 @@
     "я́ бы́стро е́хал"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000873",
@@ -1331,10 +1243,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tuda"
   ],
@@ -1344,7 +1253,7 @@
   "payload": {
    "type": "dictation",
    "text": "туда́",
-   "translation_it": "verso là",
+   "translation_it": "là",
    "accepted": [
     "туда́",
     "туда"
@@ -1361,10 +1270,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni",
    "w_idti"
@@ -1386,7 +1292,7 @@
     "они́ иду́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000875",
@@ -1397,10 +1303,7 @@
    "direzioni",
    "movimento"
   ],
-  "grammar_tags": [
-   "motion-verbs",
-   "directions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nazad"
   ],
@@ -1415,6 +1318,97 @@
     "наза́д",
     "назад"
    ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002044",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_smotret"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___! Идёт!",
+   "answer": "Смотри́",
+   "accepted": [
+    "Смотри́",
+    "Смотри",
+    "смотри",
+    "смотри́"
+   ],
+   "hint_it": "Guarda! Sta arrivando!"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002045",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "luoghi"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_dalyokiy",
+   "w_gorod"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «далёкий» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ го́род. — lontano: concorda con «го́род» (città, maschile).",
+   "options": [
+    "далёкое",
+    "далёкий",
+    "далёкие",
+    "далёкая"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002046",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_idti",
+   "w_tuda"
+  ],
+  "lesson": "l_a1_11",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Идём туда́!",
+   "options": [
+    "Guarda! Sta arrivando!",
+    "Vai senza di me.",
+    "Andiamo là!",
+    "Vi sta bene."
+   ],
+   "correct": 2
   },
   "qa_status": "pending"
  }

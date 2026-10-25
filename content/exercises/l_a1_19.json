@@ -7,11 +7,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nikogda"
   ],
@@ -27,7 +23,7 @@
     "mai"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001135",
@@ -38,11 +34,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nichego",
    "w_ne",
@@ -66,7 +58,7 @@
     "non funzionera"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001136",
@@ -78,11 +70,7 @@
    "tempo",
    "direzioni"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_obychno"
   ],
@@ -99,7 +87,7 @@
     "обычно"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001137",
@@ -110,11 +98,7 @@
    "grammatica",
    "tempo"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kogda",
    "w_nikogda"
@@ -137,7 +121,7 @@
     "когда́ - никогда́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001138",
@@ -147,11 +131,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nikto"
   ],
@@ -167,7 +147,7 @@
     "nessuno"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001139",
@@ -177,11 +157,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dengi",
    "w_nichto"
@@ -201,7 +177,7 @@
     "i soldi non sono niente."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001140",
@@ -211,11 +187,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nigde"
   ],
@@ -232,7 +204,7 @@
     "нигде"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001141",
@@ -242,11 +214,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dengi",
    "w_nichto"
@@ -269,7 +237,7 @@
     "де́ньги ничто́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001142",
@@ -281,9 +249,7 @@
    "comunicazione"
   ],
   "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
+   "negation"
   ],
   "words": [
    "w_nikogda",
@@ -302,7 +268,7 @@
    ],
    "hint_it": "Lui non parla mai."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001143",
@@ -314,11 +280,7 @@
    "tempo",
    "direzioni"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dengi"
   ],
@@ -337,7 +299,7 @@
    ],
    "hint_it": "I soldi non sono niente."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001144",
@@ -349,9 +311,7 @@
    "azioni"
   ],
   "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
+   "negation"
   ],
   "words": [
    "w_nigde",
@@ -370,7 +330,7 @@
    ],
    "hint_it": "Non vivo da nessuna parte."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001145",
@@ -380,11 +340,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_da"
   ],
@@ -401,7 +357,7 @@
    ],
    "hint_it": "Non fa niente!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001146",
@@ -413,9 +369,7 @@
    "mente"
   ],
   "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
+   "negation"
   ],
   "words": [
    "w_nichego",
@@ -434,7 +388,7 @@
    ],
    "hint_it": "Non so niente."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001147",
@@ -444,11 +398,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nichego"
   ],
@@ -465,7 +415,7 @@
    ],
    "hint_it": "Non fa niente!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001148",
@@ -477,9 +427,7 @@
    "mente"
   ],
   "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
+   "negation"
   ],
   "words": [
    "w_nikto",
@@ -500,7 +448,7 @@
    ],
    "hint_it": "Nessuno sa."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001149",
@@ -511,9 +459,7 @@
    "lavoro-scuola"
   ],
   "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
+   "negation"
   ],
   "words": [
    "w_vsegda",
@@ -533,7 +479,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001150",
@@ -544,11 +490,7 @@
    "grammatica",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_inogda",
    "w_eto",
@@ -562,10 +504,10 @@
    "type": "multiple_choice",
    "question": "Иногда́ э́то ещё рабо́тает.",
    "options": [
-    "È ancora più economico.",
+    "Sono dei bambini normali.",
     "Funziona ancora a volte.",
-    "Questo è vostro figlio?",
-    "Sono dei bambini normali."
+    "Sì, questo è vino.",
+    "Questo è un paese libero?"
    ],
    "correct": 1
   },
@@ -579,11 +521,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nichto"
   ],
@@ -601,7 +539,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001152",
@@ -611,11 +549,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_da",
    "w_nichego"
@@ -627,9 +561,9 @@
    "type": "multiple_choice",
    "question": "Non fa niente!",
    "options": [
-    "Да, понима́ю!",
     "Ду́маю, да.",
-    "Да, я́ така́я.",
+    "Да, пожа́луйста.",
+    "О, да!",
     "Да ничего́!"
    ],
    "correct": 3
@@ -646,11 +580,7 @@
    "tempo",
    "direzioni"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_obychno"
   ],
@@ -668,7 +598,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001154",
@@ -678,11 +608,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dengi",
    "w_nichto"
@@ -694,10 +620,10 @@
    "type": "multiple_choice",
    "question": "Де́ньги — ничто́.",
    "options": [
-    "La gente è senza soldi.",
-    "Tutti ci stanno andando.",
+    "Da dove arrivano questi soldi?",
+    "Questo è per te.",
     "I soldi non sono niente.",
-    "Da dove arrivano questi soldi?"
+    "La gente è senza soldi."
    ],
    "correct": 2
   },
@@ -713,11 +639,7 @@
    "tempo",
    "direzioni"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vsegda"
   ],
@@ -731,7 +653,7 @@
     "correttamente",
     "sempre",
     "così",
-    "verso là"
+    "là"
    ],
    "correct": 1
   },
@@ -746,11 +668,7 @@
    "grammatica",
    "tempo"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nichto",
    "w_nichego",
@@ -782,7 +700,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001157",
@@ -793,11 +711,7 @@
    "grammatica",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_inogda",
    "w_eto",
@@ -830,7 +744,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001158",
@@ -886,7 +800,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001159",
@@ -897,11 +812,7 @@
    "grammatica",
    "tempo"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vsegda",
    "w_nichto",
@@ -932,7 +843,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001160",
@@ -941,13 +852,10 @@
   "difficulty": 4,
   "topics": [
    "grammatica",
+   "salute",
    "tempo"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nikto",
    "w_ne",
@@ -979,7 +887,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001161",
@@ -1032,7 +940,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001162",
@@ -1042,11 +951,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nigde",
    "w_inogda",
@@ -1072,7 +977,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001163",
@@ -1083,11 +988,7 @@
    "grammatica",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_inogda",
    "w_eto",
@@ -1113,7 +1014,7 @@
     "иногда это еще работает"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001164",
@@ -1125,11 +1026,7 @@
    "tempo",
    "direzioni"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_inogda"
   ],
@@ -1145,7 +1042,7 @@
     "иногда"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001165",
@@ -1155,11 +1052,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dengi",
    "w_nichto"
@@ -1181,7 +1074,7 @@
     "де́ньги ничто́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001166",
@@ -1191,11 +1084,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nichego"
   ],
@@ -1211,7 +1100,7 @@
     "ничего"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001167",
@@ -1220,13 +1109,10 @@
   "difficulty": 4,
   "topics": [
    "grammatica",
-   "tempo"
+   "tempo",
+   "salute"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_nikogda",
@@ -1250,7 +1136,7 @@
     "я́ никогда́ не боле́ю"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001168",
@@ -1260,11 +1146,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nichto"
   ],
@@ -1280,7 +1162,7 @@
     "ничто"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001169",
@@ -1290,11 +1172,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "negation",
-   "negative-pronouns",
-   "frequency"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_vsegda",
@@ -1315,6 +1193,100 @@
     "я всегда один.",
     "я всегда один",
     "я́ всегда́ оди́н"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002062",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_nigde",
+   "w_nikto",
+   "w_nichego",
+   "w_inogda"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "нигде́",
+     "it": "da nessuna parte"
+    },
+    {
+     "ru": "никто́",
+     "it": "nessuno"
+    },
+    {
+     "ru": "ничего́",
+     "it": "niente"
+    },
+    {
+     "ru": "иногда́",
+     "it": "a volte"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002063",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "tempo"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_nikogda",
+   "w_nikto",
+   "w_nichto",
+   "w_noga",
+   "w_takoy",
+   "w_rubl"
+  ],
+  "lesson": "l_a1_19",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "никогда́",
+     "it": "mai"
+    },
+    {
+     "ru": "никто́",
+     "it": "nessuno"
+    },
+    {
+     "ru": "ничто́",
+     "it": "niente"
+    },
+    {
+     "ru": "нога́",
+     "it": "gamba"
+    },
+    {
+     "ru": "тако́й",
+     "it": "tale"
+    },
+    {
+     "ru": "ру́бль",
+     "it": "rublo"
+    }
    ]
   },
   "qa_status": "pending"

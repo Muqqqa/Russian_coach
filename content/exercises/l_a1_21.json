@@ -7,10 +7,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skazat"
   ],
@@ -26,7 +23,7 @@
     "dire"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001211",
@@ -36,10 +33,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nayti",
    "w_koshka"
@@ -59,7 +53,7 @@
     "trova il gatto."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001212",
@@ -69,10 +63,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skazat"
   ],
@@ -91,7 +82,7 @@
     "сказать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001213",
@@ -102,10 +93,7 @@
    "grammatica",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_skazat"
@@ -116,7 +104,7 @@
   "payload": {
    "type": "translate",
    "direction": "it_ru",
-   "source": "Lui ha parlato.",
+   "source": "Lui ha detto.",
    "answer": "О́н сказа́л.",
    "accepted": [
     "О́н сказа́л.",
@@ -128,7 +116,8 @@
     "о́н сказа́л"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: in attesa fix frase s_5897084"
  },
  {
   "id": "e_001214",
@@ -138,10 +127,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_roditsya"
   ],
@@ -157,7 +143,7 @@
     "nascere"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001215",
@@ -168,10 +154,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_nayti",
@@ -192,7 +175,7 @@
     "l'ho trovato io."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001216",
@@ -202,10 +185,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nayti"
   ],
@@ -222,7 +202,7 @@
     "найти"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001217",
@@ -233,8 +213,7 @@
    "azioni"
   ],
   "grammar_tags": [
-   "past-tense",
-   "aspect"
+   "past-tense"
   ],
   "words": [
    "w_nayti"
@@ -252,7 +231,7 @@
    ],
    "hint_it": "trovare (ieri): loro"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001218",
@@ -262,10 +241,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty"
   ],
@@ -284,7 +260,7 @@
    ],
    "hint_it": "Eri malato."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001219",
@@ -294,11 +270,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nachat"
   ],
@@ -315,7 +287,7 @@
    ],
    "hint_it": "iniziare: voi (domani)"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001220",
@@ -325,10 +297,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona"
   ],
@@ -341,11 +310,16 @@
    "answer": "е́й",
    "accepted": [
     "е́й",
-    "ей"
+    "ей",
+    "ему́",
+    "ему",
+    "им",
+    "и́м"
    ],
    "hint_it": "Diteglielo."
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: ему́ valido"
  },
  {
   "id": "e_001221",
@@ -355,11 +329,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skazat"
   ],
@@ -376,7 +346,7 @@
    ],
    "hint_it": "dire: voi (domani)"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001222",
@@ -387,10 +357,7 @@
    "azioni",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_koshka"
   ],
@@ -407,7 +374,7 @@
    ],
    "hint_it": "Trovi il gatto."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001223",
@@ -418,8 +385,7 @@
    "azioni"
   ],
   "grammar_tags": [
-   "past-tense",
-   "aspect"
+   "past-tense"
   ],
   "words": [
    "w_nayti"
@@ -437,7 +403,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001224",
@@ -448,10 +414,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_tolko",
@@ -465,9 +428,9 @@
    "question": "Э́то то́лько на́чало.",
    "options": [
     "Questo è solamente l'inizio.",
-    "Questa è la sua ragazza.",
-    "Dov'è questo posto?",
-    "Queste sono le sue cose."
+    "Questa è una grande città.",
+    "Queste sono le sue cose.",
+    "Questa è una domanda complessa."
    ],
    "correct": 0
   },
@@ -481,10 +444,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_znachit"
   ],
@@ -502,7 +462,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001226",
@@ -537,7 +497,8 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001227",
@@ -547,10 +508,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nayti"
   ],
@@ -568,7 +526,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001228",
@@ -578,11 +536,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nayti"
   ],
@@ -600,7 +554,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001229",
@@ -611,10 +565,7 @@
    "azioni",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_roditsya",
    "w_skazat",
@@ -650,7 +601,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001230",
@@ -662,10 +613,7 @@
    "comunicazione",
    "mente"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_skazat",
@@ -681,7 +629,7 @@
    "pairs": [
     {
      "ru": "О́н сказа́л.",
-     "it": "Lui ha parlato."
+     "it": "Lui ha detto."
     },
     {
      "ru": "Э́то ка́ждый мо́жет сказа́ть!",
@@ -697,7 +645,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: in attesa fix frase s_5897084"
  },
  {
   "id": "e_001231",
@@ -706,12 +655,10 @@
   "difficulty": 4,
   "topics": [
    "azioni",
-   "tempo"
+   "tempo",
+   "soldi"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nayti",
    "w_nachat",
@@ -752,7 +699,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001232",
@@ -763,10 +710,7 @@
    "azioni",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nachat",
    "w_skazat",
@@ -802,7 +746,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001233",
@@ -814,10 +758,7 @@
    "azioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_eto",
@@ -850,7 +791,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001234",
@@ -906,7 +847,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001235",
@@ -917,10 +859,7 @@
    "mente",
    "azioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khotet",
    "w_znachit",
@@ -943,7 +882,7 @@
     "хоте́ть зна́чит мо́чь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001236",
@@ -953,10 +892,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_roditsya"
   ],
@@ -972,7 +908,7 @@
     "родиться"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001237",
@@ -983,10 +919,7 @@
    "azioni",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khoroshiy",
    "w_nachat"
@@ -1008,7 +941,7 @@
     "хоро́шее на́чало"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001238",
@@ -1018,10 +951,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_znachit"
   ],
@@ -1037,7 +967,7 @@
     "значить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001239",
@@ -1049,10 +979,7 @@
    "luoghi",
    "avverbi"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_derevnya",
@@ -1077,7 +1004,7 @@
     "э́то дере́вня где́ я́ родила́сь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001240",
@@ -1087,10 +1014,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "past-tense",
-   "aspect"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nayti"
   ],
@@ -1104,6 +1028,80 @@
    "accepted": [
     "найти́",
     "найти"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002069",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "past-tense"
+  ],
+  "words": [
+   "w_roditsya"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma del passato giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вчера́ они́ ___ (роди́ться). — nascere (ieri): loro",
+   "options": [
+    "роди́лся",
+    "родила́сь",
+    "родили́сь"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002070",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "azioni",
+   "comunicazione",
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_nayti",
+   "w_koshka",
+   "w_privet",
+   "w_skazat",
+   "w_ya",
+   "w_idti"
+  ],
+  "lesson": "l_a1_21",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Найди́ ко́шку.",
+     "it": "Trova il gatto."
+    },
+    {
+     "ru": "\"Приве́т\", - сказа́л я́.",
+     "it": "\"Ciao\", ho detto."
+    },
+    {
+     "ru": "Шёл до́ждь.",
+     "it": "Pioveva."
+    },
+    {
+     "ru": "Э́то то́лько на́чало.",
+     "it": "Questo è solamente l'inizio."
+    }
    ]
   },
   "qa_status": "pending"

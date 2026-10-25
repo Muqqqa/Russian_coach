@@ -7,10 +7,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dumat"
   ],
@@ -26,7 +23,7 @@
     "pensare"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000765",
@@ -37,10 +34,7 @@
    "grammatica",
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kto",
    "w_znat"
@@ -60,7 +54,7 @@
     "chi sa?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000766",
@@ -68,14 +62,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "mente",
-   "lavoro-scuola",
-   "comunicazione"
+   "salute"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bolet"
   ],
@@ -92,7 +81,7 @@
     "болеть"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000767",
@@ -103,10 +92,7 @@
    "grammatica",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_rabotat"
@@ -129,7 +115,7 @@
     "я́ рабо́таю"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000768",
@@ -137,14 +123,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "mente",
-   "lavoro-scuola",
-   "comunicazione"
+   "salute"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bolet"
   ],
@@ -160,7 +141,7 @@
     "essere malato"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000769",
@@ -168,12 +149,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "grammatica"
+   "grammatica",
+   "salute"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_bolet"
@@ -197,7 +176,7 @@
     "io ero malato."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000770",
@@ -207,10 +186,7 @@
   "topics": [
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rabotat"
   ],
@@ -227,7 +203,7 @@
     "работать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000771",
@@ -236,12 +212,10 @@
   "difficulty": 2,
   "topics": [
    "grammatica",
+   "avverbi",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_medlenno",
@@ -265,7 +239,7 @@
     "я́ ме́дленно чита́ю"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000772",
@@ -276,8 +250,7 @@
    "mente"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
+   "verbs-present"
   ],
   "words": [
    "w_dumat"
@@ -295,7 +268,7 @@
    ],
    "hint_it": "pensare: lui"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000773",
@@ -303,14 +276,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "mente",
-   "lavoro-scuola",
-   "comunicazione"
+   "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zhdat"
   ],
@@ -327,7 +295,7 @@
    ],
    "hint_it": "Tutti aspettano?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000774",
@@ -338,8 +306,7 @@
    "azioni"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
+   "verbs-present"
   ],
   "words": [
    "w_iskat"
@@ -357,7 +324,7 @@
    ],
    "hint_it": "cercare: lui"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000775",
@@ -365,14 +332,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "mente",
-   "lavoro-scuola",
-   "comunicazione"
+   "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zhdat"
   ],
@@ -389,7 +351,7 @@
    ],
    "hint_it": "Sta aspettando."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000776",
@@ -397,13 +359,10 @@
   "level": "a1",
   "difficulty": 3,
   "topics": [
-   "mente",
-   "lavoro-scuola",
-   "comunicazione"
+   "azioni"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
+   "verbs-present"
   ],
   "words": [
    "w_zhdat"
@@ -421,7 +380,7 @@
    ],
    "hint_it": "aspettare: io"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000777",
@@ -431,10 +390,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_iskat"
   ],
@@ -451,7 +407,7 @@
    ],
    "hint_it": "Sto cercando un bancomat."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000778",
@@ -462,8 +418,7 @@
    "mente"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
+   "verbs-present"
   ],
   "words": [
    "w_dumat"
@@ -481,7 +436,7 @@
    ],
    "hint_it": "pensare: io"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000779",
@@ -490,12 +445,11 @@
   "difficulty": 2,
   "topics": [
    "mente",
-   "lavoro-scuola",
-   "comunicazione"
+   "azioni",
+   "lavoro-scuola"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
+   "verbs-present"
   ],
   "words": [
    "w_pit"
@@ -514,7 +468,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000780",
@@ -523,12 +477,10 @@
   "difficulty": 2,
   "topics": [
    "grammatica",
+   "avverbi",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_medlenno",
@@ -541,10 +493,10 @@
    "type": "multiple_choice",
    "question": "Я́ ме́дленно чита́ю.",
    "options": [
-    "Posso averne tre?",
+    "Sto cercando un bancomat.",
     "Leggo lentamente.",
-    "Ieri stavo male.",
-    "Nemmeno io."
+    "Sono una vecchia amica.",
+    "Posso averne tre?"
    ],
    "correct": 1
   },
@@ -558,10 +510,7 @@
   "topics": [
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rabotat"
   ],
@@ -579,7 +528,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000782",
@@ -590,10 +539,7 @@
    "grammatica",
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kto",
    "w_znat"
@@ -605,9 +551,9 @@
    "type": "multiple_choice",
    "question": "Chi sa?",
    "options": [
-    "Я́ зна́л.",
+    "Вы́ кто́?",
     "Кто́ зна́ет?",
-    "Кто́ ты́, подру́га?",
+    "Я́ зна́л.",
     "Не зна́ю."
    ],
    "correct": 1
@@ -622,10 +568,7 @@
   "topics": [
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rabotat"
   ],
@@ -643,7 +586,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000784",
@@ -651,13 +594,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "mente",
-   "lavoro-scuola",
-   "comunicazione"
+   "azioni"
   ],
   "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
+   "verbs-present"
   ],
   "words": [
    "w_zhdat"
@@ -676,7 +616,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000785",
@@ -684,12 +624,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "grammatica"
+   "grammatica",
+   "salute"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_bolet"
@@ -702,9 +640,9 @@
    "question": "Я́ боле́л.",
    "options": [
     "Ero malato.",
-    "Sono una donna.",
+    "Sto lavorando.",
     "Anch'io.",
-    "Aiutami tu!"
+    "Sono qua."
    ],
    "correct": 0
   },
@@ -720,10 +658,7 @@
    "comunicazione",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chitat",
    "w_dumat",
@@ -754,7 +689,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000787",
@@ -766,10 +701,7 @@
    "azioni",
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_iskat",
    "w_zhenshchina",
@@ -786,7 +718,7 @@
    "pairs": [
     {
      "ru": "Ищи́те же́нщину!",
-     "it": "Cerca la donna!"
+     "it": "Cercate la donna!"
     },
     {
      "ru": "Кто́ зна́ет?",
@@ -810,13 +742,11 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
+   "salute",
    "mente",
    "avverbi"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bolet",
    "w_pit",
@@ -857,7 +787,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000789",
@@ -869,10 +799,7 @@
    "mente",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rabotat",
    "w_dumat",
@@ -898,7 +825,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000790",
@@ -907,12 +834,10 @@
   "difficulty": 3,
   "topics": [
    "grammatica",
-   "mente"
+   "mente",
+   "salute"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_znat",
@@ -943,7 +868,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000791",
@@ -952,13 +877,10 @@
   "difficulty": 2,
   "topics": [
    "azioni",
-   "descrizioni",
-   "saluti"
+   "salute",
+   "descrizioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bolet",
    "w_iskat",
@@ -999,7 +921,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000792",
@@ -1007,12 +929,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "azioni"
+   "azioni",
+   "salute"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bolet",
    "w_zhdat",
@@ -1043,7 +963,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000793",
@@ -1054,10 +974,7 @@
    "grammatica",
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_pit",
@@ -1080,7 +997,7 @@
     "я́ пи́ть хочу́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000794",
@@ -1090,10 +1007,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chitat"
   ],
@@ -1109,7 +1023,7 @@
     "читать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000795",
@@ -1117,12 +1031,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "grammatica"
+   "grammatica",
+   "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona",
    "w_zhdat"
@@ -1146,7 +1058,7 @@
     "она ждет"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000796",
@@ -1156,10 +1068,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_iskat"
   ],
@@ -1175,7 +1084,7 @@
     "искать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000797",
@@ -1184,12 +1093,10 @@
   "difficulty": 3,
   "topics": [
    "grammatica",
-   "mente"
+   "mente",
+   "descrizioni"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ne",
    "w_dumat",
@@ -1215,7 +1122,7 @@
     "не ду́маю что́ они́ плохи́е лю́ди"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000798",
@@ -1225,10 +1132,7 @@
   "topics": [
    "mente"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_znat"
   ],
@@ -1244,7 +1148,7 @@
     "знать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000799",
@@ -1255,10 +1159,7 @@
    "grammatica",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "verbs-present",
-   "conjugation-1"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_rabotat"
@@ -1280,6 +1181,6 @@
     "я́ рабо́таю"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

@@ -20,12 +20,13 @@ TOPIC_NAMES = json.load(open(os.path.join(ROOT, "content/curriculum/topics.json"
 WTOP = json.load(open(os.path.join(ROOT, "content/curriculum/word_topics.json")))
 UNS = {x["id"] for x in json.load(open(os.path.join(ROOT, "data/reports/unsuitable_words.json")))["parole"]}
 # per prudenza si escludono anche le parole che le versioni precedenti del report segnalavano come inadatte
-UNS |= set("w_zovut w_politsiya w_chyom w_chlen w_cherta w_getero w_sidushka w_zh w_bezoblachno w_krichat".split())
+UNS |= set("w_politsiya w_chyom w_chlen w_cherta w_getero w_sidushka w_zh w_bezoblachno w_krichat".split())
 # verbi/aggettivi per cui la coniugazione/accordo meccanico darebbe frasi innaturali
 NO_CONJ = {"w_est", "w_byt", "w_nravitsya", "w_khotetsya", "w_stoit", "w_znachit", "w_roditsya", "w_pora", "w_nado", "w_nelzya"}
 NO_ADJ = {"w_dolzhnyy", "w_nuzhnyy", "w_mnogie", "w_neskolkie", "w_malyy"}
 G, GSRC = build_glossary(W, L)
 G["w_kafe"] = ["caffetteria", "bar"]
+AMBIG_IT = re.compile(D.IT_AMBIG_RE)
 G["w_ono"] = ["esso"]
 for u in UNS:
     G.pop(u, None)
@@ -95,10 +96,12 @@ if os.path.exists(REG):
         if k:
             registry[k] = v
 next_id = max([int(v[2:]) for v in registry.values()] + [0]) + 1
+OLD_KEYS = set(registry)
+import glob
 
 # ---------------------------------------------------------------- struttura esercizio
 def mkex(ctx, typ, sub, ident, pts, prompt, payload, words, est, tags=None):
-    return {"_sub": sub, "_ident": ident, "_pts": pts, "_est": est, "type": typ, "prompt_it": prompt, "payload": payload,
+    return {"_key": "%s|%s|%s|%s" % (ctx["id"], typ, sub, ident), "_sub": sub, "_ident": ident, "_pts": pts, "_est": est, "type": typ, "prompt_it": prompt, "payload": payload,
             "words": [w for w in dict.fromkeys(words)], "_tags": tags or [], "lesson": ctx["id"]}
 
 def diff_for(ctx, pts):
@@ -132,6 +135,48 @@ for l in L:
     CTX[l["id"]] = {"id": l["id"], "lesson": l, "level": l["level"], "order": l["order"], "nw": nw, "K": set(known_acc) - UNS,
                     "pool": pool, "drange": drange(l), "tags": l["grammar_tags"],
                     "bump": 1 if (l["level"] == "a1" and l["order"] >= 13) or (l["level"] == "a2" and l["order"] >= 5) or (l["level"] == "zero" and l["order"] >= 9) else 0}
+
+# lettere gia' introdotte: nelle lezioni zero 01-04 gli esercizi usano solo quelle (l'alfabeto si completa in zero_05)
+ALLOWED = {}
+_acc = set()
+for _k in sorted(D.LETTERS):
+    _acc |= {x[1] for x in D.LETTERS[_k]}
+    ALLOWED[_k] = set(_acc)
+_cyr = re.compile("[А-Яа-яЁё]")
+
+def ru_texts(c):
+    p = c["payload"]
+    t = c["type"]
+    out = []
+    if t == "translate":
+        out += [p["source"], p["answer"]]
+    elif t == "cloze":
+        out += [p["text"], p["answer"]]
+    elif t == "multiple_choice":
+        out += [p["question"]] + p["options"]
+    elif t == "match":
+        out += [x["ru"] for x in p["pairs"]]
+    elif t == "dictation":
+        out += [p["text"]]
+    return out
+
+def letters_ok(ctx, c):
+    al = ALLOWED.get(ctx["id"])
+    if al is None or ctx["id"] == "l_zero_05":
+        return True
+    for t in ru_texts(c):
+        for ch in t:
+            if _cyr.match(ch) and ch.lower() not in al:
+                return False
+    return True
+
+def cum_tags(ctx):
+    out = set()
+    for l in L:
+        out |= set(l["grammar_tags"])
+        if l["id"] == ctx["id"]:
+            break
+    return out
 
 def topics_for(ctx, wids):
     cnt = collections.Counter()
@@ -173,7 +218,7 @@ def b_word_translate(ctx):
             continue
         w = W[wid]
         g = G[wid]
-        acc = gloss_variants(g, w["pos"])
+        acc = gloss_variants(g, w["pos"], D.IT_GENDER)
         out.append(mkex(ctx, "translate", "w_ru_it", wid, 0, "Traduci in italiano la parola russa.",
                         {"type": "translate", "direction": "ru_it", "source": w["stress"], "answer": g[0], "accepted": acc},
                         [wid], 10))
@@ -187,6 +232,10 @@ def b_word_translate(ctx):
                             acc_ru.append(v)
                 ans = W[wid]["stress"]
                 acc_ru = [ans] + [x for x in acc_ru if x != ans]
+                for ex_ in D.EXTRA_TR.get(g[0], []):
+                    for v in ru_variants(ex_):
+                        if v not in acc_ru:
+                            acc_ru.append(v)
                 out.append(mkex(ctx, "translate", "w_it_ru", wid, 1, "Traduci in russo la parola italiana (scrivi con l'accento, se puoi).",
                                 {"type": "translate", "direction": "it_ru", "source": g[0], "answer": ans, "accepted": acc_ru},
                                 [wid], 14))
@@ -196,6 +245,10 @@ SUBJ = {"я": "Io", "ты": "Tu", "мы": "Noi", "вы": "Voi", "он": "Lui", "
 
 def it_sentence_variants(s):
     v = it_variants(s["it"])
+    for alt in D.SENT_IT_ALT.get(s["id"], []):
+        for x in it_variants(alt):
+            if x not in v:
+                v.append(x)
     first = norm(split_core(s["stress"].split(" ")[0])[1]) if split_core(s["stress"].split(" ")[0]) else ""
     if first in SUBJ and not s["it"].lower().startswith(SUBJ[first].lower() + " "):
         pro = SUBJ[first]
@@ -216,10 +269,16 @@ def b_sent_translate(ctx):
         out.append(mkex(ctx, "translate", "s_ru_it", s["id"], tp, "Traduci in italiano la frase russa.",
                         {"type": "translate", "direction": "ru_it", "source": s["stress"], "answer": s["it"], "accepted": it_sentence_variants(s)},
                         s["words"], 8 + 3 * n))
+        if AMBIG_IT.match(s["it"].strip()):
+            continue
         same = [x for x in SENT_OK.values() if x["it"].strip().lower() == s["it"].strip().lower()]
         acc = []
         for x in sorted(same, key=lambda x: (x["id"] != s["id"], x["id"])):
             for v in ru_variants(x["stress"]):
+                if v not in acc:
+                    acc.append(v)
+        for ex_ in D.EXTRA_TR.get(s["it"], []):
+            for v in ru_variants(ex_):
                 if v not in acc:
                     acc.append(v)
         out.append(mkex(ctx, "translate", "s_it_ru", s["id"], tp + 1, "Traduci in russo la frase italiana (scrivi con l'accento, se puoi).",
@@ -262,6 +321,8 @@ def b_sent_cloze(ctx):
             accepted = ru_variants(core)
             if core[0].isupper():
                 accepted += [x.lower() for x in accepted if x.lower() not in accepted]
+            for ex_ in D.EXTRA_CLOZE.get(text, []):
+                accepted += ru_variants(ex_)
             out.append(mkex(ctx, "cloze", "s_cloze", "%s#%d" % (s["id"], i), tp, "Completa la frase con la parola mancante.",
                             {"type": "cloze", "text": text, "answer": core, "accepted": list(dict.fromkeys(accepted)), "hint_it": s["it"]},
                             [wid], 10 + 2 * n))
@@ -289,7 +350,7 @@ def distract_sentences(ctx, s, k, mode):
         if key in seen:
             continue
         # niente parole in comune identiche: stessa lista di parole = quasi sinonimo
-        if set(x["words"]) == set(s["words"]):
+        if set(x["words"]) == set(s["words"]) or len(set(x["words"]) & set(s["words"])) >= 2:
             continue
         seen.add(key)
         out.append(x)
@@ -314,7 +375,7 @@ def b_sent_mc(ctx):
                                 {"type": "multiple_choice", "question": s["stress"], "options": opts, "correct": ci},
                                 s["words"], 10 + 2 * n))
         d = distract_sentences(ctx, s, 3, "it_ru")
-        if len(d) == 3:
+        if len(d) == 3 and not AMBIG_IT.match(s["it"].strip()):
             rnd = rng_for(SEED, ctx["id"], s["id"], "mc2")
             opts, ci = shuffle_options([s["stress"]] + [x["stress"] for x in d], s["stress"], rnd)
             if len(set(opts)) == 4:
@@ -374,6 +435,8 @@ GENDER_IT = {"m": "maschile", "f": "femminile", "n": "neutro"}
 
 def b_gender_mc(ctx):
     out = []
+    if ctx["level"] == "zero" and ctx["order"] < 8:
+        return out
     for wid in ctx["nw"]:
         w = W[wid]
         if w["pos"] != "noun" or w.get("gender") not in GENDER_IT:
@@ -499,24 +562,20 @@ def g_plurals(ctx):
     return items
 
 def g_adj(ctx):
+    """accordo aggettivo-nome con coppie sensate (D.ADJ_PAIRS): solo da a1_06 in poi"""
     items = []
-    nouns = {"m": ("до́м", "casa", "Э́то ___ до́м."), "f": ("вода́", "acqua", "Э́то ___ вода́."), "n": ("вино́", "vino", "Э́то ___ вино́."), "pl": ("дома́", "case", "Э́то ___ дома́.")}
-    for wid in ctx["nw"]:
-        w = W[wid]
-        if w["pos"] != "adj" or wid not in G or wid in NO_ADJ:
+    gname = {"m": "maschile", "f": "femminile", "n": "neutro"}
+    for (lesson, aid, nid, g) in D.ADJ_PAIRS:
+        if lesson != ctx["id"] or aid not in W or nid not in W or aid in UNS or nid not in ctx["K"] or aid not in G or nid not in G:
             continue
-        fm = {k: form(wid, k + "_nom") for k in ("m", "f", "n", "pl")}
+        fm = {k: form(aid, k + "_nom") for k in ("m", "f", "n", "pl")}
         if not all(fm.values()) or len(set(fm.values())) < 4:
             continue
-        rnd = rng_for(SEED, ctx["id"], wid, "adj")
-        ks = ["m", "f", "n", "pl"]
-        rnd.shuffle(ks)
-        for k in ks[:2]:
-            _, nit, frame = nouns[k]
-            gname = {"m": "maschile", "f": "femminile", "n": "neutro", "pl": "plurale"}[k]
-            ds = [fm[x] for x in ("m", "f", "n", "pl") if x != k]
-            items.append(gram_item(ctx, "adj:%s:%s" % (wid, k), frame, fm[k], ds, "%s: concorda con «%s» (%s)." % (G[wid][0], nit, gname),
-                                   "Accorda l'aggettivo «%s» con il nome." % w["stress"], [wid], ["adjectives-agreement"], 2))
+        ds = [fm[x] for x in ("m", "f", "n", "pl") if x != g]
+        frame = "Э́то ___ %s." % W[nid]["stress"]
+        items.append(gram_item(ctx, "adj2:%s:%s" % (aid, nid), frame, fm[g], ds,
+                               "%s: concorda con «%s» (%s, %s)." % (G[aid][0], W[nid]["stress"], prim(nid), gname[g]),
+                               "Accorda l'aggettivo «%s» con il nome." % W[aid]["stress"], [aid, nid], ["agreement"], 2))
     return items
 
 def g_comp(ctx):
@@ -738,7 +797,7 @@ def b_alpha(ctx):
             for c in allc:
                 for v in allv:
                     if c in new or v in new:
-                        if c == "Г" and v in "ЕИ":
+                        if (c == "Г" and v in "ЕИЯ") or (c == "Х" and v == "Я"):
                             continue
                         syl.append((c, v))
             rnd.shuffle(syl)
@@ -769,9 +828,6 @@ def b_alpha(ctx):
         acc = [tr, plain(tr), tr.lower(), plain(tr).lower()]
         # accento acuto/grave alternativo
         acc.append(tr.replace("̀", "́"))
-        res["translate"].append(mkex(ctx, "translate", "read", wid, 1, "Leggi la parola russa e scrivila con lettere italiane (come si pronuncia).",
-                                     {"type": "translate", "direction": "ru_it", "source": w["stress"], "answer": tr, "accepted": list(dict.fromkeys(acc))},
-                                     [wid], 12))
         rnd = rng_for(SEED, ctx["id"], wid, "read")
         others = [x for x in cand if x != wid and W[x]["translit"] != tr and abs(len(plain(W[x]["ru"])) - len(plain(w["ru"]))) <= 2]
         others = sorted(set(others))
@@ -789,12 +845,28 @@ def b_alpha(ctx):
             res["multiple_choice"].append(mkex(ctx, "multiple_choice", "read", wid, 1, "Scegli la lettura giusta della parola.",
                                                {"type": "multiple_choice", "question": "Come si legge «%s»?" % plain(w["ru"]), "options": opts, "correct": ci},
                                                [wid], 12))
+        # lettura inversa: dalla trascrizione alla parola russa
+        oth_ru = [x for x in others if plain(W[x]["ru"]) != plain(w["ru"])]
+        dd2, seen2 = [], {plain(w["ru"])}
+        for x in oth_ru:
+            if plain(W[x]["ru"]) not in seen2 and " " not in W[x]["ru"]:
+                seen2.add(plain(W[x]["ru"]))
+                dd2.append(plain(W[x]["ru"]))
+            if len(dd2) == 3:
+                break
+        if len(dd2) == 3 and " " not in w["ru"]:
+            r4 = rng_for(SEED, ctx["id"], wid, "readrev")
+            opts4, ci4 = shuffle_options([plain(w["ru"])] + dd2, plain(w["ru"]), r4)
+            res["multiple_choice"].append(mkex(ctx, "multiple_choice", "read_rev", wid, 1, "Scegli la parola russa che corrisponde alla lettura.",
+                                               {"type": "multiple_choice", "question": "Quale parola russa si legge «%s»?" % tr, "options": opts4, "correct": ci4},
+                                               [wid], 12))
         # cloze: lettera mancante
         ru_ = plain(w["ru"])
         if len(ru_) >= 3 and " " not in ru_ and "-" not in ru_:
             lettersset = {x[1] for x in all_letters_upto(lid)} if lid in D.LETTERS else set()
-            idxs = [i for i, ch in enumerate(ru_) if ch.lower() in lettersset and ch.lower() in "".join(x[1] for x in D.LETTERS.get(lid, []))] or \
-                   [i for i, ch in enumerate(ru_) if ch.lower() in lettersset]
+            AMB = "еэцзьъё"
+            idxs = [i for i, ch in enumerate(ru_) if ch.lower() in lettersset and ch.lower() not in AMB and ch.lower() in "".join(x[1] for x in D.LETTERS.get(lid, []))] or \
+                   [i for i, ch in enumerate(ru_) if ch.lower() in lettersset and ch.lower() not in AMB]
             if idxs and ru_.lower().count(ru_[idxs[0]].lower()) >= 1:
                 i = idxs[stable_int(wid) % len(idxs)]
                 ch = ru_[i]
@@ -840,6 +912,36 @@ def b_alpha(ctx):
                                                    [wid], 13, ["stress-mark"]))
     return res
 
+def b_zovut(ctx):
+    res = {"translate": [], "cloze": [], "multiple_choice": [], "match": [], "dictation": []}
+    if ctx["id"] != D.ZOVUT_LESSON or "w_zovut" not in W:
+        return res
+    wz = ["w_zovut"]
+    res["translate"].append(mkex(ctx, "translate", "zovut", "tr1", 1, "Traduci in italiano l'espressione russa.",
+                                 {"type": "translate", "direction": "ru_it", "source": "Меня́ зову́т ...", "answer": "Mi chiamo ...",
+                                  "accepted": ["Mi chiamo ...", "Mi chiamo", "mi chiamo", "Il mio nome è ...", "Il mio nome è", "Mi chiamano ..."]}, wz, 14))
+    res["translate"].append(mkex(ctx, "translate", "zovut", "tr2", 2, "Traduci in russo (completa con puntini «...» al posto del nome).",
+                                 {"type": "translate", "direction": "it_ru", "source": "Mi chiamo ...", "answer": "Меня́ зову́т ...",
+                                  "accepted": ru_variants("Меня́ зову́т ...") + ["Меня́ зову́т", "Меня зовут"]}, wz, 18))
+    res["cloze"].append(mkex(ctx, "cloze", "zovut", "cz1", 1, "Completa l'espressione per presentarti.",
+                             {"type": "cloze", "text": "Меня́ ___ ...", "answer": "зову́т", "accepted": ru_variants("зову́т"), "hint_it": "Mi chiamo ..."}, wz, 12))
+    res["cloze"].append(mkex(ctx, "cloze", "zovut", "cz2", 1, "Completa l'espressione per presentarti.",
+                             {"type": "cloze", "text": "___ зову́т ...", "answer": "Меня́", "accepted": ru_variants("Меня́"), "hint_it": "Mi chiamo ..."}, wz, 12))
+    for i, (q, ans, ds) in enumerate(D.ZOVUT_MC):
+        r = rng_for(SEED, ctx["id"], "zmc", i)
+        opts, ci = shuffle_options([ans] + ds, ans, r)
+        res["multiple_choice"].append(mkex(ctx, "multiple_choice", "zovut", "mc%d" % i, 1, "Scegli la risposta giusta.",
+                                           {"type": "multiple_choice", "question": q, "options": opts, "correct": ci}, wz, 12))
+    res["match"].append(mkex(ctx, "match", "zovut", "m1", 1, "Abbina le espressioni russe al significato.",
+                             {"type": "match", "pairs": [{"ru": a, "it": b} for a, b in D.ZOVUT_MATCH[:3]]}, wz, 28))
+    res["match"].append(mkex(ctx, "match", "zovut", "m2", 1, "Abbina le espressioni russe al significato.",
+                             {"type": "match", "pairs": [{"ru": a, "it": b} for a, b in D.ZOVUT_MATCH]}, wz, 32))
+    res["dictation"].append(mkex(ctx, "dictation", "zovut", "d1", 1, "Ascolta e scrivi l'espressione in russo (al posto del nome puoi scrivere «...»).",
+                                 {"type": "dictation", "text": "Меня́ зову́т", "translation_it": "Mi chiamo (segue il nome)", "accepted": ru_variants("Меня́ зову́т")}, wz, 16))
+    res["dictation"].append(mkex(ctx, "dictation", "zovut", "d2", 1, "Ascolta e scrivi l'espressione in russo.",
+                                 {"type": "dictation", "text": "Тебя́ зову́т", "translation_it": "Ti chiami (segue il nome)", "accepted": ru_variants("Тебя́ зову́т")}, wz, 16))
+    return res
+
 def b_l6(ctx):
     res = {"multiple_choice": [], "match": []}
     for i, (q, ans, ds, wid) in enumerate(D.L6_MC):
@@ -857,11 +959,11 @@ def b_l6(ctx):
 
 # ================================================================ selezione
 SUB_ORDER = {
-    "translate": ["read", "w_ru_it", "s_ru_it", "w_it_ru", "s_it_ru"],
-    "cloze": ["gram", "s_cloze", "letter"],
-    "multiple_choice": ["gram", "letter_sound", "sound_letter", "l6", "read", "syllable", "s_ru_it", "w_ru_it", "gender", "s_it_ru", "w_it_ru", "stress"],
-    "match": ["letters", "letters_rev", "w_read", "l6", "w_new", "s_pairs", "w_rev"],
-    "dictation": ["syllable", "s_dict", "w_dict"],
+    "translate": ["zovut", "w_ru_it", "s_ru_it", "w_it_ru", "s_it_ru"],
+    "cloze": ["zovut", "gram", "s_cloze", "letter"],
+    "multiple_choice": ["zovut", "gram", "letter_sound", "sound_letter", "l6", "read", "read_rev", "syllable", "s_ru_it", "w_ru_it", "gender", "s_it_ru", "w_it_ru", "stress"],
+    "match": ["zovut", "letters", "letters_rev", "w_read", "l6", "w_new", "s_pairs", "w_rev"],
+    "dictation": ["zovut", "syllable", "s_dict", "w_dict"],
 }
 MINS = {"translate": 4, "cloze": 3, "multiple_choice": 3, "match": 2, "dictation": 2}
 
@@ -888,6 +990,19 @@ def select(ctx, typ, cands):
         lst.sort(key=lambda c: c["_ident"])
         r.shuffle(lst)
     chosen, used = [], set()
+    # prima gli esercizi gia' esistenti (id stabili) che restano validi
+    pre = [c for lst in groups.values() for c in lst if c["_key"] in OLD_KEYS or c["_sub"] == "zovut"]
+    pre.sort(key=lambda c: (registry.get(c["_key"], "e_999999"), c["_key"]))
+    for c in pre:
+        k = (c["_sub"], c["_ident"])
+        if k in used or sig_of(c) in SEEN_SIG:
+            continue
+        used.add(k)
+        SEEN_SIG.add(sig_of(c))
+        chosen.append(c)
+    for lst in groups.values():
+        lst[:] = [c for c in lst if (c["_sub"], c["_ident"]) not in used]
+    cap = max(cap, len(chosen))
     while len(chosen) < cap:
         progress = False
         for sub, lst in groups.items():
@@ -905,13 +1020,28 @@ def select(ctx, typ, cands):
             break
     return chosen
 
+ALPHA_SUBS = {"letter_sound", "sound_letter", "syllable", "letters", "letters_rev", "w_read", "read", "read_rev", "letter"}
+
+def final_tags(ctx, c):
+    if c["_sub"] in ALPHA_SUBS and ctx["tags"]:
+        return [ctx["tags"][0]]
+    cum = cum_tags(ctx)
+    out = []
+    for t in c["_tags"]:
+        t = D.TAG_OVERRIDE.get((ctx["id"], t), t)
+        if t in cum and t not in out:
+            out.append(t)
+    return out
+
 def finalize(ctx, c):
     global next_id
     p = c["payload"]
+    if "accepted" in p:
+        p["accepted"] = list(dict.fromkeys(p["accepted"]))
     w = [x for x in c["words"] if x in W]
     topics = topics_for(ctx, w)
-    tags = list(dict.fromkeys(list(ctx["tags"]) + c["_tags"]))
-    key = "%s|%s|%s|%s" % (ctx["id"], c["type"], c["_sub"], c["_ident"])
+    tags = final_tags(ctx, c)
+    key = c["_key"]
     if key not in registry:
         registry[key] = "e_%06d" % next_id
         next_id += 1
@@ -922,8 +1052,17 @@ def finalize(ctx, c):
         "prompt_it": c["prompt_it"], "payload": p, "qa_status": "pending",
     }
 
+def load_old():
+    old = {}
+    for f in sorted(glob.glob(os.path.join(OUT, "l_*.json"))):
+        for e in json.load(open(f, encoding="utf-8")):
+            old[e["id"]] = e
+    return old
+
 def main():
     allx = []
+    old = load_old()
+    final_by_id = {}
     for l in L:
         ctx = CTX[l["id"]]
         alpha = ctx["level"] == "zero" and ctx["order"] <= 6
@@ -944,6 +1083,11 @@ def main():
             a = b_l6(ctx)
             for t, lst in a.items():
                 cand[t] += lst
+        a = b_zovut(ctx)
+        for t, lst in a.items():
+            cand[t] += lst
+        for t in cand:
+            cand[t] = [c for c in cand[t] if letters_ok(ctx, c)]
         chosen = []
         for t in ["translate", "cloze", "multiple_choice", "match", "dictation"]:
             chosen += select(ctx, t, cand[t])
@@ -956,13 +1100,46 @@ def main():
                         chosen.append(c)
                         covered.add(wid)
                         break
-        out = [finalize(ctx, c) for c in chosen]
-        json.dump(out, open(os.path.join(OUT, l["id"] + ".json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-        allx += out
+        for c in chosen:
+            e = finalize(ctx, c)
+            o = old.get(e["id"])
+            if o and o.get("qa_status") in ("approved", "rejected"):
+                e["qa_status"] = o["qa_status"]
+                if o.get("qa_note"):
+                    e["qa_note"] = o["qa_note"]
+            elif o and o.get("qa_note"):
+                e["qa_note"] = o["qa_note"]
+            final_by_id[e["id"]] = e
+    # esercizi precedenti che le nuove regole non generano piu': restano nel file, rifiutati
+    for oid, o in old.items():
+        if oid not in final_by_id:
+            o = dict(o)
+            o["qa_status"] = "rejected"
+            o["qa_note"] = o.get("qa_note") or "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
+            final_by_id[oid] = o
+    # verdetti di qa-russian
+    vp = os.path.join(ROOT, "qa", "exercises_verdicts.json")
+    if os.path.exists(vp):
+        v = json.load(open(vp, encoding="utf-8"))
+        for eid, reasons in v.get("reject", {}).items():
+            if eid in final_by_id:
+                final_by_id[eid]["qa_status"] = "rejected"
+                final_by_id[eid]["qa_note"] = "QA: " + "; ".join(reasons)
+        for eid, reasons in v.get("incerto", {}).items():
+            if eid in final_by_id and final_by_id[eid]["qa_status"] != "rejected":
+                final_by_id[eid]["qa_status"] = "pending"
+                final_by_id[eid]["qa_note"] = "QA incerto: " + "; ".join(reasons)
+    by_lesson = collections.defaultdict(list)
+    for e in final_by_id.values():
+        by_lesson[e["lesson"]].append(e)
+    for l in L:
+        lst = sorted(by_lesson.get(l["id"], []), key=lambda e: e["id"])
+        json.dump(lst, open(os.path.join(OUT, l["id"] + ".json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+        allx += lst
     with open(REG, "w", encoding="utf-8") as f:
         for k in sorted(registry, key=lambda k: registry[k]):
             f.write("%s\t%s\n" % (k, registry[k]))
-    print("scritti", len(allx), "esercizi")
+    print("scritti", len(allx), "esercizi;", collections.Counter(e["qa_status"] for e in allx))
 
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)

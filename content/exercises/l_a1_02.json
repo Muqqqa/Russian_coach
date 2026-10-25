@@ -7,10 +7,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_odin"
   ],
@@ -27,7 +24,7 @@
     "solo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000475",
@@ -37,10 +34,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_na",
    "w_chas",
@@ -61,7 +55,7 @@
     "l'orologio segna le due."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000476",
@@ -71,10 +65,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chetyre"
   ],
@@ -91,7 +82,7 @@
     "четыре"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000477",
@@ -101,10 +92,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona",
    "w_pyat"
@@ -127,7 +115,7 @@
     "е́й пя́ть"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000478",
@@ -137,10 +125,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dva"
   ],
@@ -156,7 +141,7 @@
     "due"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000479",
@@ -190,7 +175,8 @@
     "\"che ore sono adesso?\" \"sono le dieci.\""
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000480",
@@ -200,10 +186,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_desyat"
   ],
@@ -220,7 +203,7 @@
     "десять"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000481",
@@ -230,10 +213,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dva",
    "w_pozhaluysta"
@@ -256,7 +236,7 @@
     "два́ пожа́луйста"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000482",
@@ -266,10 +246,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vosem"
   ],
@@ -285,7 +262,7 @@
     "otto"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000483",
@@ -295,11 +272,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chas"
   ],
@@ -316,7 +289,7 @@
    ],
    "hint_it": "Un'ora."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000484",
@@ -326,10 +299,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pyat"
   ],
@@ -346,7 +316,7 @@
    ],
    "hint_it": "Lei ha cinque anni."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000485",
@@ -357,7 +327,6 @@
    "numeri"
   ],
   "grammar_tags": [
-   "numbers",
    "numbers-gender"
   ],
   "words": [
@@ -377,7 +346,7 @@
    ],
    "hint_it": "Due minuti."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000486",
@@ -387,10 +356,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mozhno"
   ],
@@ -409,7 +375,7 @@
    ],
    "hint_it": "Posso averne tre?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000487",
@@ -420,7 +386,6 @@
    "numeri"
   ],
   "grammar_tags": [
-   "numbers",
    "numbers-gender"
   ],
   "words": [
@@ -440,7 +405,7 @@
    ],
    "hint_it": "Due settimane."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000488",
@@ -450,10 +415,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty"
   ],
@@ -472,7 +434,7 @@
    ],
    "hint_it": "Sei da solo?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000489",
@@ -482,11 +444,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_minuta"
   ],
@@ -503,7 +461,7 @@
    ],
    "hint_it": "Tre minuti."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000490",
@@ -513,10 +471,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_odin"
   ],
@@ -533,7 +488,7 @@
    ],
    "hint_it": "Lui è solo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000491",
@@ -543,11 +498,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sekunda"
   ],
@@ -564,7 +515,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000492",
@@ -574,10 +525,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_odin"
@@ -589,9 +537,9 @@
    "type": "multiple_choice",
    "question": "О́н оди́н.",
    "options": [
-    "Sei da solo?",
+    "Quanti anni hanno?",
     "Quanto ha?",
-    "Quanto hanno?",
+    "Oggi chiederà lui.",
     "Lui è solo."
    ],
    "correct": 3
@@ -606,10 +554,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dva"
   ],
@@ -627,7 +572,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000494",
@@ -637,10 +582,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_na",
    "w_chas",
@@ -656,7 +598,7 @@
     "Два́ ко́фе, пожа́луйста.",
     "На часа́х два́.",
     "Два́, пожа́луйста.",
-    "Она́ говори́т по-ру́сски."
+    "Я́ люблю́ её."
    ],
    "correct": 1
   },
@@ -670,10 +612,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pyat"
   ],
@@ -691,7 +630,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000496",
@@ -701,11 +640,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender",
-   "genitive-after-numbers"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_minuta"
   ],
@@ -722,7 +657,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000497",
@@ -733,10 +668,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mozhno",
    "w_ya",
@@ -749,10 +681,10 @@
    "type": "multiple_choice",
    "question": "Мо́жно мне́ три́?",
    "options": [
-    "L'ho comprato.",
+    "L'ho comprata.",
     "Posso averne tre?",
-    "Sono un uomo semplice.",
-    "La amo."
+    "Voglio vivere.",
+    "MI si capisce?"
    ],
    "correct": 1
   },
@@ -766,10 +698,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_odin"
   ],
@@ -787,7 +716,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000499",
@@ -797,10 +726,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sem",
    "w_odin",
@@ -841,7 +767,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000500",
@@ -852,10 +778,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mozhno",
    "w_ya",
@@ -888,7 +811,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000501",
@@ -898,10 +821,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_desyat",
    "w_chetyre",
@@ -942,7 +862,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000502",
@@ -952,10 +872,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dva",
    "w_desyat",
@@ -991,7 +908,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000503",
@@ -1002,10 +919,7 @@
    "saluti",
    "direzioni"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dva",
    "w_kofe",
@@ -1037,7 +951,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000504",
@@ -1049,10 +963,7 @@
    "numeri",
    "grammatica"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_desyat",
    "w_vosem",
@@ -1093,7 +1004,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000505",
@@ -1103,10 +1014,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_odin",
    "w_pyat",
@@ -1142,7 +1050,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000506",
@@ -1152,10 +1060,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_odin"
@@ -1177,7 +1082,7 @@
     "ты́ оди́н"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000507",
@@ -1187,10 +1092,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sem"
   ],
@@ -1206,7 +1108,7 @@
     "семь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000508",
@@ -1216,10 +1118,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sem",
    "w_chas"
@@ -1241,7 +1140,7 @@
     "се́мь часо́в"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000509",
@@ -1251,10 +1150,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chetyre"
   ],
@@ -1270,7 +1166,7 @@
     "четыре"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000510",
@@ -1280,10 +1176,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_na",
    "w_chas",
@@ -1306,7 +1199,7 @@
     "на часа́х два́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000511",
@@ -1316,10 +1209,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_desyat"
   ],
@@ -1335,7 +1225,7 @@
     "десять"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000512",
@@ -1345,10 +1235,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_odin"
@@ -1370,7 +1257,7 @@
     "о́н оди́н"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000513",
@@ -1380,10 +1267,7 @@
   "topics": [
    "numeri"
   ],
-  "grammar_tags": [
-   "numbers",
-   "numbers-gender"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vosem"
   ],
@@ -1397,6 +1281,32 @@
    "accepted": [
     "во́семь",
     "восемь"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002025",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "numeri"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_sem"
+  ],
+  "lesson": "l_a1_02",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "се́мь",
+   "answer": "sette",
+   "accepted": [
+    "sette"
    ]
   },
   "qa_status": "pending"

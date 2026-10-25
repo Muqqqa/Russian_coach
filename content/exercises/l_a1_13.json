@@ -7,10 +7,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vopros"
   ],
@@ -28,7 +25,7 @@
     "una domanda"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000917",
@@ -40,10 +37,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bilet",
    "w_u",
@@ -64,7 +58,7 @@
     "ho i biglietti."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000918",
@@ -76,10 +70,7 @@
    "concetti",
    "trasporti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dengi"
   ],
@@ -96,7 +87,7 @@
     "деньги"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000919",
@@ -107,10 +98,7 @@
    "grammatica",
    "trasporti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vash",
    "w_bilet"
@@ -133,7 +121,7 @@
     "ва́ш биле́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000920",
@@ -145,10 +133,7 @@
    "concetti",
    "trasporti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_botinok"
   ],
@@ -163,7 +148,8 @@
    "accepted": [
     "stivaletto",
     "lo stivaletto",
-    "uno stivaletto"
+    "uno stivaletto",
+    "scarpa"
    ]
   },
   "qa_status": "pending"
@@ -178,10 +164,7 @@
    "descrizioni",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_trudnyy",
@@ -205,7 +188,7 @@
     "questa e una domanda complessa"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000922",
@@ -215,10 +198,7 @@
   "topics": [
    "trasporti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bilet"
   ],
@@ -235,7 +215,7 @@
     "билет"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000923",
@@ -246,10 +226,7 @@
    "descrizioni",
    "concetti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_lyubit",
    "w_krasivyy",
@@ -270,10 +247,18 @@
     "Люблю красивые вещи",
     "люблю красивые вещи.",
     "люблю красивые вещи",
-    "люблю́ краси́вые ве́щи"
+    "люблю́ краси́вые ве́щи",
+    "Я́ люблю́ краси́вые ве́щи.",
+    "Я́ люблю́ краси́вые ве́щи",
+    "Я люблю красивые вещи.",
+    "Я люблю красивые вещи",
+    "я люблю красивые вещи.",
+    "я люблю красивые вещи",
+    "я́ люблю́ краси́вые ве́щи"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: manca variante con «Я»"
  },
  {
   "id": "e_000924",
@@ -281,14 +266,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "comunicazione",
-   "concetti",
-   "trasporti"
+   "soldi"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_paket"
   ],
@@ -304,9 +284,7 @@
     "sacchetto",
     "il sacchetto",
     "un sacchetto",
-    "pacco",
-    "il pacco",
-    "un pacco"
+    "pacco"
    ]
   },
   "qa_status": "pending"
@@ -322,8 +300,7 @@
    "trasporti"
   ],
   "grammar_tags": [
-   "accusative",
-   "nouns-things"
+   "accusative"
   ],
   "words": [
    "w_kurtka"
@@ -341,7 +318,7 @@
    ],
    "hint_it": "Cerco una giacca."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000926",
@@ -351,10 +328,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vopros"
   ],
@@ -371,7 +345,7 @@
    ],
    "hint_it": "Questa è una domanda?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000927",
@@ -384,8 +358,7 @@
    "trasporti"
   ],
   "grammar_tags": [
-   "accusative",
-   "nouns-things"
+   "accusative"
   ],
   "words": [
    "w_kurtka"
@@ -403,7 +376,7 @@
    ],
    "hint_it": "Cerchiamo la giacca."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000928",
@@ -415,10 +388,7 @@
    "concetti",
    "trasporti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chelovek"
   ],
@@ -437,7 +407,7 @@
    ],
    "hint_it": "La gente è senza soldi."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000929",
@@ -447,10 +417,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -469,7 +436,7 @@
    ],
    "hint_it": "È un problema?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000930",
@@ -479,10 +446,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vopros"
   ],
@@ -499,7 +463,7 @@
    ],
    "hint_it": "Questa è una domanda complessa."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000931",
@@ -509,10 +473,7 @@
   "topics": [
    "concetti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_problema"
   ],
@@ -529,7 +490,7 @@
    ],
    "hint_it": "Nessun problema."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000932",
@@ -539,10 +500,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vash"
   ],
@@ -561,7 +519,7 @@
    ],
    "hint_it": "Il Vostro biglietto!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000933",
@@ -574,8 +532,7 @@
    "trasporti"
   ],
   "grammar_tags": [
-   "accusative",
-   "nouns-things"
+   "accusative"
   ],
   "words": [
    "w_mama"
@@ -594,7 +551,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000934",
@@ -606,10 +563,7 @@
    "azioni",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak",
    "w_iskat",
@@ -622,10 +576,10 @@
    "type": "multiple_choice",
    "question": "Ка́к иска́ть те́кст?",
    "options": [
+    "Cercate la donna!",
     "Sto cercando un bancomat.",
-    "Cerca la donna!",
     "Come cercare un testo?",
-    "Tè o caffè?"
+    "Chi cucina per voi?"
    ],
    "correct": 2
   },
@@ -639,10 +593,7 @@
   "topics": [
    "concetti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_veshch"
   ],
@@ -660,7 +611,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000936",
@@ -671,8 +622,6 @@
    "concetti"
   ],
   "grammar_tags": [
-   "accusative",
-   "nouns-things",
    "gender"
   ],
   "words": [
@@ -691,7 +640,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000937",
@@ -703,10 +652,7 @@
    "grammatica",
    "concetti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_v",
    "w_chto",
@@ -719,10 +665,10 @@
    "type": "multiple_choice",
    "question": "Qual è il problema?",
    "options": [
+    "Что́ ты́ купи́л?",
     "О чём ты́?",
-    "В ко́мнате жа́рко.",
     "В чём пробле́ма?",
-    "Что́ пото́м?"
+    "Что́ с не́й?"
    ],
    "correct": 2
   },
@@ -738,10 +684,7 @@
    "concetti",
    "trasporti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dengi"
   ],
@@ -759,7 +702,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000939",
@@ -770,8 +713,7 @@
    "concetti"
   ],
   "grammar_tags": [
-   "accusative",
-   "nouns-things"
+   "accusative"
   ],
   "words": [
    "w_problema"
@@ -790,7 +732,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000940",
@@ -802,10 +744,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bilet",
    "w_u",
@@ -818,10 +757,10 @@
    "type": "multiple_choice",
    "question": "Биле́ты у меня́.",
    "options": [
-    "Nemmeno io.",
-    "Ho sete.",
+    "Sono una vecchia amica.",
+    "Sto cercando un bancomat.",
     "Ho i biglietti.",
-    "Vai senza di me."
+    "Non sono vecchia."
    ],
    "correct": 2
   },
@@ -836,10 +775,7 @@
    "concetti",
    "trasporti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_veshch",
    "w_kurtka",
@@ -875,7 +811,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000942",
@@ -887,10 +823,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_problema",
@@ -919,7 +852,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000943",
@@ -931,10 +864,7 @@
    "descrizioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bilet",
    "w_dengi",
@@ -975,7 +905,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000944",
@@ -987,10 +917,7 @@
    "concetti",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bilet",
    "w_veshch",
@@ -1021,7 +948,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000945",
@@ -1033,10 +960,7 @@
    "soldi",
    "trasporti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_kupit",
@@ -1068,7 +992,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000946",
@@ -1080,10 +1004,7 @@
    "trasporti",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_problema",
    "w_bilet",
@@ -1124,7 +1045,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000947",
@@ -1133,12 +1054,10 @@
   "difficulty": 3,
   "topics": [
    "comunicazione",
-   "lavoro-scuola"
+   "lavoro-scuola",
+   "soldi"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tekst",
    "w_dengi",
@@ -1174,7 +1093,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000948",
@@ -1186,10 +1105,7 @@
    "soldi",
    "trasporti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_kupit",
@@ -1212,7 +1128,7 @@
     "я́ купи́л биле́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000949",
@@ -1222,10 +1138,7 @@
   "topics": [
    "concetti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_veshch"
   ],
@@ -1241,7 +1154,7 @@
     "вещь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000950",
@@ -1252,10 +1165,7 @@
    "grammatica",
    "concetti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_problema"
@@ -1277,7 +1187,7 @@
     "э́то пробле́ма"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000951",
@@ -1287,10 +1197,7 @@
   "topics": [
    "concetti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_problema"
   ],
@@ -1306,7 +1213,7 @@
     "проблема"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000952",
@@ -1318,10 +1225,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bilet",
    "w_u",
@@ -1344,7 +1248,7 @@
     "биле́ты у меня́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000953",
@@ -1356,10 +1260,7 @@
    "concetti",
    "trasporti"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_botinok"
   ],
@@ -1375,7 +1276,7 @@
     "ботинок"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000954",
@@ -1386,10 +1287,7 @@
    "descrizioni",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khoroshiy",
    "w_vopros"
@@ -1411,7 +1309,7 @@
     "хоро́ший вопро́с"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000955",
@@ -1421,10 +1319,7 @@
   "topics": [
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "accusative",
-   "nouns-things"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tekst"
   ],
@@ -1440,6 +1335,6 @@
     "текст"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

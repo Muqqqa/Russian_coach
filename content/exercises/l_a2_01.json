@@ -7,11 +7,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_svoy"
   ],
@@ -27,7 +23,7 @@
     "proprio"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001396",
@@ -38,11 +34,7 @@
    "grammatica",
    "casa"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skolko",
    "w_ves",
@@ -63,7 +55,7 @@
     "quante sono le sedie?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001397",
@@ -74,11 +66,7 @@
    "mente",
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_khotet",
    "w_etot"
@@ -101,7 +89,7 @@
     "хочу́ э́ту"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001398",
@@ -111,11 +99,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ves"
   ],
@@ -132,7 +116,7 @@
     "intero"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001399",
@@ -170,7 +154,8 @@
     "tu sei mia."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Ты моя» («Sei mia»): tono possessivo"
  },
  {
   "id": "e_001400",
@@ -180,11 +165,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vot",
    "w_tvoy",
@@ -208,7 +189,7 @@
     "вот тво́й напи́ток"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001401",
@@ -218,11 +199,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tot"
   ],
@@ -238,7 +215,7 @@
     "quello"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001402",
@@ -250,11 +227,7 @@
    "cibo-bevande",
    "direzioni"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tvoy",
    "w_chashka",
@@ -279,7 +252,7 @@
     "la tua tazza e sul tavolo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001403",
@@ -289,11 +262,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_novyy"
   ],
@@ -310,7 +279,7 @@
    ],
    "hint_it": "Tutto è nuovo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001404",
@@ -320,11 +289,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_moy"
   ],
@@ -341,7 +306,7 @@
    ],
    "hint_it": "Questo ristorante è di mia madre."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001405",
@@ -351,11 +316,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kazhdyy"
   ],
@@ -372,7 +333,7 @@
    ],
    "hint_it": "Ogni volta sono sempre meno."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001406",
@@ -380,13 +341,9 @@
   "level": "a2",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "soldi"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_paket"
   ],
@@ -403,7 +360,7 @@
    ],
    "hint_it": "Questo pacchetto è per voi."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001407",
@@ -413,11 +370,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skolko"
   ],
@@ -436,7 +389,7 @@
    ],
    "hint_it": "Quante sono le sedie?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001408",
@@ -446,11 +399,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_drug"
   ],
@@ -467,7 +416,7 @@
    ],
    "hint_it": "Amici tuoi?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001409",
@@ -477,11 +426,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ves"
   ],
@@ -498,7 +443,7 @@
    ],
    "hint_it": "Per noi tutto come al solito."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001410",
@@ -509,11 +454,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_prinesti",
@@ -527,9 +468,9 @@
    "question": "Я́ принёс свою́.",
    "options": [
     "Ho portato la mia.",
-    "Ho comprato il biglietto.",
-    "Vai senza di me.",
-    "Nemmeno io."
+    "Devo aspettare tanto?",
+    "Vengo dalla Russia.",
+    "Lui mi sta insegnando."
    ],
    "correct": 0
   },
@@ -543,11 +484,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tot"
   ],
@@ -565,7 +502,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001412",
@@ -598,7 +535,8 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001413",
@@ -608,11 +546,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_brat",
    "w_moy"
@@ -624,10 +558,10 @@
    "type": "multiple_choice",
    "question": "Бра́тья мои́!",
    "options": [
-    "È mio?",
+    "Ecco la mia stanza.",
     "Fratelli miei!",
-    "Mi fa male un braccio.",
-    "Questo posto è mio."
+    "Questo posto è mio.",
+    "Mio marito sta male."
    ],
    "correct": 1
   },
@@ -641,11 +575,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ves"
   ],
@@ -663,7 +593,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001415",
@@ -675,11 +605,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u",
    "w_my",
@@ -694,9 +620,9 @@
    "type": "multiple_choice",
    "question": "Per noi tutto come al solito.",
    "options": [
-    "Мы́ зде́сь с октября́ ме́сяца.",
-    "Мы́ идём в ба́р.",
-    "У ва́с о́чень краси́вая до́чка.",
+    "Вы́ всё ещё на нога́х?",
+    "Что́ у тебя́ с лицо́м?",
+    "Иди́ к на́м, зде́сь свобо́дно.",
     "У на́с всё ка́к обы́чно."
    ],
    "correct": 3
@@ -712,11 +638,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_etot",
    "w_chay",
@@ -729,10 +651,10 @@
    "type": "multiple_choice",
    "question": "Э́тот ча́й вку́сный.",
    "options": [
-    "Il cibo è delizioso.",
+    "Questi sono nuovi.",
     "Questo tè è delizioso.",
-    "Tè o caffè?",
-    "Voglio questi tre."
+    "Voglio questa.",
+    "Questi non sono economici."
    ],
    "correct": 1
   },
@@ -746,11 +668,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sebya",
    "w_etot",
@@ -786,7 +704,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001418",
@@ -833,7 +751,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001419",
@@ -890,7 +809,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001420",
@@ -900,11 +820,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ves",
    "w_etot",
@@ -935,7 +851,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001421",
@@ -983,7 +899,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001422",
@@ -994,11 +911,7 @@
    "grammatica",
    "tempo"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tot",
    "w_sebya",
@@ -1039,7 +952,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001423",
@@ -1049,11 +962,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tvoy",
    "w_sebya",
@@ -1084,7 +993,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001424",
@@ -1120,7 +1029,8 @@
     "ты́ моя́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Ты моя» («Sei mia»): tono possessivo"
  },
  {
   "id": "e_001425",
@@ -1130,11 +1040,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tvoy"
   ],
@@ -1150,7 +1056,7 @@
     "твой"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001426",
@@ -1186,7 +1092,8 @@
     "ты́ мо́й"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Ты мой» («Sei mio»): tono possessivo, inadatto"
  },
  {
   "id": "e_001427",
@@ -1196,11 +1103,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sebya"
   ],
@@ -1216,7 +1119,7 @@
     "себя"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001428",
@@ -1227,11 +1130,7 @@
    "grammatica",
    "numeri"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_moy",
    "w_syn",
@@ -1255,7 +1154,7 @@
     "моему́ сы́ну во́семь ле́т"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001429",
@@ -1265,11 +1164,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_svoy"
   ],
@@ -1285,7 +1180,7 @@
     "свой"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001430",
@@ -1295,11 +1190,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "possessives",
-   "demonstratives",
-   "reflexive-svoy"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_restoran",
@@ -1321,6 +1212,253 @@
     "это ресторан моей матери.",
     "это ресторан моей матери",
     "э́то рестора́н мое́й ма́тери"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002082",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_moy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "мо́й",
+   "answer": "mio",
+   "accepted": [
+    "mio"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002083",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_tvoy",
+   "w_plokhoy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Твоя́ ху́же.",
+   "options": [
+    "Qual è il tuo?",
+    "È tuo?",
+    "Qual è la tua?",
+    "La tua è peggio."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002084",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_tot",
+   "w_sam",
+   "w_ves"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "то́т",
+     "it": "quello"
+    },
+    {
+     "ru": "са́м",
+     "it": "stesso"
+    },
+    {
+     "ru": "ве́сь",
+     "it": "tutto"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002085",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "descrizioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_tvoy",
+   "w_drug",
+   "w_ves",
+   "w_novyy",
+   "w_tot",
+   "w_moy"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Твои́ друзья́?",
+     "it": "Amici tuoi?"
+    },
+    {
+     "ru": "Всё но́вое.",
+     "it": "Tutto è nuovo."
+    },
+    {
+     "ru": "Те - мои́.",
+     "it": "Quelli sono miei."
+    },
+    {
+     "ru": "Моя́ рука́ боли́т.",
+     "it": "Mi fa male un braccio."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002086",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_ves",
+   "w_tot",
+   "w_svoy",
+   "w_vezde",
+   "w_restoran",
+   "w_salat"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ве́сь",
+     "it": "tutto"
+    },
+    {
+     "ru": "то́т",
+     "it": "quello"
+    },
+    {
+     "ru": "сво́й",
+     "it": "proprio"
+    },
+    {
+     "ru": "везде́",
+     "it": "dappertutto"
+    },
+    {
+     "ru": "рестора́н",
+     "it": "ristorante"
+    },
+    {
+     "ru": "сала́т",
+     "it": "insalata"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002087",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_vot",
+   "w_moy",
+   "w_komnata"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Вот моя́ ко́мната.",
+   "translation_it": "Ecco la mia stanza.",
+   "accepted": [
+    "Вот моя́ ко́мната.",
+    "Вот моя́ ко́мната",
+    "Вот моя комната.",
+    "Вот моя комната",
+    "вот моя комната.",
+    "вот моя комната",
+    "вот моя́ ко́мната"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002088",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_ves"
+  ],
+  "lesson": "l_a2_01",
+  "est_seconds": 12,
+  "prompt_it": "Ascolta e scrivi la parola in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "ве́сь",
+   "translation_it": "tutto",
+   "accepted": [
+    "ве́сь",
+    "весь"
    ]
   },
   "qa_status": "pending"

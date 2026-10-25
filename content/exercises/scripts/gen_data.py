@@ -8,7 +8,7 @@ LETTERS = {
     "l_zero_02": [("Н", "н", "n", "notte"), ("В", "в", "v", "vino"), ("Р", "р", "r", "rosa"), ("У", "у", "u", "luna"),
                   ("И", "и", "i", "vino"), ("П", "п", "p", "pane"), ("Б", "б", "b", "bello")],
     "l_zero_03": [("Е", "е", "ie", "ieri"), ("Я", "я", "ia", "iato"), ("Л", "л", "l", "luna"), ("Г", "г", "g dura", "gatto"),
-                  ("Ф", "ф", "f", "fiore"), ("З", "з", "z dolce", "rosa"), ("Х", "х", "kh", "Bach")],
+                  ("Ф", "ф", "f", "fiore"), ("З", "з", "s sonora (come in «rosa»)", "rosa"), ("Х", "х", "kh", "Bach")],
     "l_zero_04": [("Ж", "ж", "zh", "jour"), ("Ш", "ш", "sc", "scia"), ("Ч", "ч", "c dolce", "ciao"),
                   ("Щ", "щ", "ssc", "pesce"), ("Ц", "ц", "z sorda", "pizza"), ("Ё", "ё", "io", "iodio")],
     "l_zero_05": [("Ы", "ы", "y (i all'indietro)", ""), ("Й", "й", "j (i breve)", "mai"), ("Ю", "ю", "iu", "più"),
@@ -77,7 +77,7 @@ CASE_TEMPLATES = [
     ("l_a2_10", "Они́ в ___.", "w_zal", "prep_sg", ["nom_sg", "gen_sg", "dat_sg", "ins_sg"], "Sono nella sala.", P_IN),
     ("l_a2_10", "Мы́ в ___.", "w_koridor", "prep_sg", ["nom_sg", "gen_sg", "dat_sg", "ins_sg"], "Siamo nel corridoio.", P_IN),
     ("l_a2_10", "Ко́шка на ___.", "w_pol", "prep_sg", ["nom_sg", "gen_sg", "dat_sg", "ins_sg"], "Il gatto è sul pavimento.", P_IN),
-    ("l_a2_10", "Ма́ма на ___.", "w_dvor", "prep_sg", ["nom_sg", "gen_sg", "dat_sg", "ins_sg"], "La mamma è nel cortile.", P_IN),
+    ("l_a2_10", "Ма́ма во ___.", "w_dvor", "prep_sg", ["nom_sg", "gen_sg", "dat_sg", "ins_sg"], "La mamma è nel cortile.", P_IN),
     ("l_a2_11", "Ко́шка под ___.", "w_stol", "ins_sg", ["nom_sg", "gen_sg", "dat_sg", "prep_sg"], "Il gatto è sotto il tavolo.", "Scegli la forma giusta (posizione: dove?)."),
     ("l_a2_11", "Соба́ка за ___.", "w_dom", "ins_sg", ["nom_sg", "gen_sg", "dat_sg", "prep_sg"], "Il cane è dietro la casa.", "Scegli la forma giusta (posizione: dove?)."),
     ("l_a2_11", "Маши́на пе́ред ___.", "w_dom", "ins_sg", ["nom_sg", "gen_sg", "dat_sg", "prep_sg"], "L'auto è davanti alla casa.", "Scegli la forma giusta (posizione: dove?)."),
@@ -122,13 +122,13 @@ ASPECT_TEMPLATES = [
     ("Вчера́ я́ весь ве́чер ___ те́кст. (Ci ho lavorato a lungo.)", "писа́л", ["написа́л", "пишу́", "напишу́"], "Ieri ho scritto il testo tutta la sera.", ["w_pisat", "w_napisat"]),
     ("Я́ уже́ ___ рабо́ту. (Ho finito.)", "сде́лал", ["де́лал", "де́лаю", "сде́лаю"], "Ho già fatto il lavoro.", ["w_sdelat", "w_delat"]),
     ("Вчера́ он до́лго ___ рабо́ту. (Processo lungo.)", "де́лал", ["сде́лал", "де́лает", "сде́лает"], "Ieri ha fatto il lavoro a lungo.", ["w_delat", "w_sdelat"]),
-    ("За́втра я́ ___ рабо́ту. (La finirò.)", "сде́лаю", ["де́лал", "сде́лал", "де́лаю"], "Domani farò (finirò) il lavoro.", ["w_sdelat", "w_delat"]),
+    ("За́втра я́ ___ рабо́ту. (La finirò.)", "сде́лаю", ["де́лал", "сде́лал", "сде́лаешь"], "Domani farò (finirò) il lavoro.", ["w_sdelat", "w_delat"]),
     ("Он ___ на вопро́с. (Ha dato la risposta, una volta.)", "отве́тил", ["отвеча́л", "отвеча́ет", "отве́чу"], "Lui ha risposto alla domanda.", ["w_otvetit", "w_otvechat"]),
     ("Она́ ча́сто ___ на вопро́сы. (Ripetuto, abitudine.)", "отвеча́ла", ["отве́тила", "отве́тит", "отве́чу"], "Lei rispondeva spesso alle domande.", ["w_otvechat", "w_otvetit"]),
     ("Вчера́ я́ ___ фильм. (L'ho guardato tutto.)", "посмотре́л", ["смотре́л", "смотрю́", "посмотрю́"], "Ieri ho guardato il film.", ["w_posmotret", "w_smotret"]),
-    ("Мы́ весь ве́чер ___ . (Per ore.)", "смотре́ли", ["посмотре́ли", "смо́трим", "посмо́трим"], "Abbiamo guardato per tutta la sera.", ["w_smotret", "w_posmotret"]),
-    ("Я́ ___ ему́ ис́торию. (La racconto adesso, in corso.)", "расска́зываю", ["рассказа́л", "расскажу́", "расска́зывал"], "Gli sto raccontando una storia.", ["w_rasskazyvat", "w_rasskazat"]),
-    ("За́втра я́ ___ ему́ ис́торию. (La racconterò per intero.)", "расскажу́", ["расска́зываю", "рассказа́л", "расска́зывал"], "Domani gli racconterò la storia.", ["w_rasskazat", "w_rasskazyvat"]),
+    ("Мы́ весь ве́чер ___. (Per ore.)", "смотре́ли", ["посмотре́ли", "смо́трим", "посмо́трим"], "Abbiamo guardato per tutta la sera.", ["w_smotret", "w_posmotret"]),
+    ("Я́ ___ ему́ исто́рию. (In corso, adesso.)", "расска́зываю", ["рассказа́л", "расскажу́", "расска́зывал"], "Gli sto raccontando una storia.", ["w_rasskazyvat", "w_rasskazat"]),
+    ("За́втра я́ ___ ему́ исто́рию. (La racconterò per intero.)", "расскажу́", ["расска́зываю", "рассказа́л", "расска́зывал"], "Domani gli racconterò la storia.", ["w_rasskazat", "w_rasskazyvat"]),
 ]
 
 # sillabe/parole di lettura e riconoscimento del suono (lezione 6): (domanda, risposta, distrattori, parola)
@@ -137,11 +137,11 @@ L6_MC = [
     ("Come suona circa «Росси́я» (rossìia) con la riduzione?", "Rassìia", ["Rossìia", "Russìia", "Rassèia"], "w_rossiya"),
     ("Come suona circa «ме́дленно» (mèdlenno) con la riduzione?", "mièdlenna", ["mèdlenno", "mièdlenno", "mèdlenna"], "w_medlenno"),
     ("Come suona circa «пра́вильно» (pràvilno)?", "pràvilna", ["pràvilno", "pràvelno", "pròvilna"], "w_pravilno"),
-    ("Come suona circa «рестора́н» (restoràn)?", "ristarán", ["restoràn", "ristoràn", "ristarèn"], "w_restoran"),
+    ("Come suona circa «рестора́н» (restoràn)?", "ristaràn", ["restoràn", "ristoràn", "ristarèn"], "w_restoran"),
     ("Come si legge «клу́б» (b finale)?", "klup", ["klub", "glup", "kluf"], "w_klub"),
     ("Come si legge «вхо́д» (v e d)?", "fkhòt", ["vkhòd", "fkhòd", "vkhòt"], "w_vkhod"),
     ("Una vocale non accentata «о» si pronuncia come una...", "a debole", ["o chiusa", "u lunga", "e aperta"], "w_khorosho"),
-    ("In russo le consonanti sonore a fine parola diventano...", "sorde", ["più sonore", "doppie", "mute"], "w_klub"),
+    ("In russo le consonanti sonore a fine parola diventano...", "sorde", ["più sonore", "doppie", "aspirate"], "w_klub"),
     ("Quale vocale è sempre pronunciata chiaramente in una parola russa?", "quella accentata", ["la prima", "l'ultima", "nessuna"], "w_rossiya"),
 ]
 L6_MATCH = [
@@ -152,3 +152,128 @@ L6_MATCH = [
     ("вхо́д", "si legge «fkhòt»", "w_vkhod"),
     ("хорошо́", "si pronuncia circa «kharashò»", "w_khorosho"),
 ]
+
+
+# ================================================================ correzioni QA (audit 2026-10-25)
+# Frasi escluse da tutti gli esercizi (contenuto inadatto, innaturale, troppo difficile o ambiguo)
+SENT_SKIP = {
+    "s_1603183",  # commento sessualizzato
+    "s_3681529",  # «Я собака»
+    "s_643972",   # «Где дождь?»
+    "s_2503230", "s_2503229",  # «Ты моя/мой»
+    "s_5690207",  # B1 in a1_20
+    "s_7433914",  # «Vivevamo tra gli stenti»
+    "s_3543631",  # russo innaturale
+    "s_659795", "s_6003224",   # tono ominoso
+    "s_796489",   # dialogo con virgolette
+}
+# Italiano corretto (i dati non vengono modificati: la correzione vale solo per gli esercizi)
+SENT_IT_FIX = {
+    "s_2297643": "Dov'è la casa?",
+    "s_5875099": "Quanti anni hanno?",
+    "s_5875092": "Quanti anni ha?",
+    "s_12783171": "Lei è padre?",
+    "s_6480750": "Lei è sporco.",
+    "s_5885621": "Lei è il prossimo.",
+    "s_5885623": "Lei è la prossima.",
+    "s_2606166": "Sono la prima.",
+    "s_5897084": "Lui ha detto.",
+    "s_895391": "Sono in macchina.",
+    "s_1774619": "Questo posto è libero?",
+    "s_2343994": "Cercate la donna!",
+    "s_1749706": "Tra poco me ne vado.",
+    "s_1749708": "Me ne vado presto.",
+    "s_1749710": "Me ne vado adesso.",
+}
+# varianti italiane aggiuntive accettate (oltre alla traduzione corretta)
+SENT_IT_ALT = {
+    "s_2297643": ["Dov'è casa?"],
+    "s_895391": ["Sono nella macchina."],
+    "s_2343994": ["Cerca la donna!"],
+    "s_1749706": ["Sto per andarmene."],
+    "s_1749710": ["Sto per andarmene."],
+    "s_5885621": ["Siete il prossimo."],
+    "s_5885623": ["Siete la prossima."],
+}
+# parole mappate male nei dati (omografi): sostituzione negli esercizi
+SENT_WORDS_FIX = {"s_1618244": {"w_poslat": "w_poyti"}, "s_2233092": {"w_poslat": "w_poyti"}}
+# frasi con IT ambigua (soggetto/genere non ricavabile): usabili solo da ru->it, non come prompt italiano
+IT_AMBIG_RE = r"^(È|Sono|Era|Erano|Siete|Sei|Ho|Dov'è|Dove sono|Eccolo|Eccola)\b[^,;]{0,22}[.!?]$"
+
+# accettate aggiuntive (cloze: chiave testo; translate it_ru: chiave testo italiano)
+EXTRA_CLOZE = {
+    "___ де́ти.": ["Э́то", "Это", "это"],
+    "Вы́ ___.": ["у́мный", "умный"],
+    "Я́ ___!": ["голо́дный", "голодный"],
+    "До́лго ___?": ["идти́", "идти"],
+    "___, я́ без часо́в.": ["Прости́те", "Простите", "простите"],
+    "Ка́к ___?": ["ты́", "ты", "вы́", "вы"],
+    "Скажи́те ___.": ["ему́", "ему", "им", "и́м"],
+    "___ почему́?": ["А", "а", "А́"],
+    "Но́чью ___ сне́г.": ["шёл", "шел"],
+    "Я́ ___ домо́й.": ["пошёл", "пошел", "пое́хал", "поехал"],
+    "Я́ принёс ___.": ["сво́й", "свой"],
+    "___ чи́стый.": ["Э́то", "Это", "это"],
+    "___ чи́стая.": ["Э́то", "Это", "это"],
+    "Я́ ___ ухожу́.": ["сейча́с", "сейчас"],
+    "Ка́к ___ оте́ц?": [],
+}
+EXTRA_TR = {
+    "Sei sporco.": ["Ты́ гря́зная", "Вы́ гря́зный", "Вы́ гря́зная"],
+    "Parla più piano, per favore.": ["Говори́ ти́ше, пожа́луйста."],
+    "Di che parli?": ["О чём ты говори́шь?", "О чём вы говори́те?"],
+    "Amo le cose belle.": ["Я́ люблю́ краси́вые ве́щи."],
+    "Come sta tuo padre?": ["Как твой оте́ц?", "Ка́к твой оте́ц?"],
+    "uomo": ["челове́к"],
+}
+
+# genere italiano dei nomi usati nelle glosse (m, f, pn=nome proprio con solo articolo determinativo, x=nessun articolo)
+IT_GENDER = {k: v for v, ks in {
+    "m": "vino taxi bar caffè ristorante bagno tè conto albergo supermercato ottobre bancomat lavoro rublo calzino lunedì martedì mercoledì giovedì venerdì sabato giorno secondo tempo anno mese papà padre fratello figlio marito genitore bambino amico villaggio posto letto tavolo cibo menù picnic biglietto sacchetto stivaletto testo problema denaro occhio viso faccia cane gatto paese tempo atmosferico sole autobus club hobby fitness telefono sistema medico dottore uomo ragazzo capo direttore appartamento muro pavimento corridoio studio ufficio cortile angolo numero cuore naso orecchio dito dente capello petto cocomero".split(),
+    "f": "casa birra acqua ragazza porta persona domenica settimana ora minuto notte volta mamma madre sorella figlia moglie famiglia amica donna stanza camera città strada stazione fermata sedia zuppa insalata bevanda tazza giacca domanda parola cosa testa mano gamba polizia pioggia neve tempesta metropolitana macchina automobile entrata uscita bambina mattina sera finestra sala scuola classe aula schiena spalla caffetteria".split(),
+}.items() for k in ks}
+IT_GENDER["scala mobile"] = "f"
+IT_GENDER["carta di credito"] = "f"
+IT_GENDER["russia"] = "pn"
+IT_GENDER["lavoro"] = "m"
+IT_GENDER["tempo atmosferico"] = "m"
+IT_GENDER["città"] = "f"
+IT_GENDER["labbro"] = "m"
+
+# coppie aggettivo+nome per l'accordo (lezione, aggettivo, nome, genere del nome): cornice «Э́то ___ <nome>.»
+ADJ_PAIRS = [
+    ("l_a1_06", "w_khoroshiy", "w_restoran", "m"), ("l_a1_06", "w_khoroshiy", "w_semya", "f"), ("l_a1_06", "w_plokhoy", "w_kofe", "m"),
+    ("l_a1_06", "w_novyy", "w_dom", "m"), ("l_a1_06", "w_novyy", "w_gostinitsa", "f"), ("l_a1_06", "w_staryy", "w_dom", "m"),
+    ("l_a1_06", "w_staryy", "w_vino", "n"), ("l_a1_06", "w_molodoy", "w_chelovek", "m"), ("l_a1_06", "w_krasivyy", "w_devushka", "f"),
+    ("l_a1_06", "w_umnyy", "w_dochka", "f"), ("l_a1_06", "w_dorogoy", "w_vino", "n"), ("l_a1_06", "w_deshyovyy", "w_pivo", "n"),
+    ("l_a1_06", "w_golodnyy", "w_brat", "m"),
+    ("l_a1_07", "w_kholodnyy", "w_chay", "m"), ("l_a1_07", "w_zharkiy", "w_den", "m"), ("l_a1_07", "w_tikhiy", "w_bar", "m"),
+    ("l_a1_07", "w_bystryy", "w_taksi", "n"), ("l_a1_07", "w_vkusnyy", "w_chay", "m"), ("l_a1_07", "w_vkusnyy", "w_pivo", "n"),
+    ("l_a1_07", "w_gryaznyy", "w_voda", "f"), ("l_a1_07", "w_trudnyy", "w_rabota", "f"), ("l_a1_07", "w_pravilnyy", "w_schyot", "m"),
+    ("l_a1_11", "w_dalyokiy", "w_gorod", "m"),
+    ("l_a1_18", "w_normalnyy", "w_rabota", "f"), ("l_a1_18", "w_svobodnyy", "w_mesto", "n"), ("l_a1_18", "w_uyutnyy", "w_komnata", "f"),
+    ("l_a1_18", "w_dolgiy", "w_noch", "f"),
+    ("l_a1_24", "w_pervyy", "w_den", "m"), ("l_a1_24", "w_posledniy", "w_den", "m"), ("l_a1_24", "w_sleduyushchiy", "w_nedelya", "f"),
+    ("l_a1_24", "w_proshlyy", "w_nedelya", "f"),
+    ("l_a2_07", "w_belyy", "w_mashina", "f"), ("l_a2_07", "w_chyornyy", "w_chay", "m"), ("l_a2_07", "w_krasnyy", "w_vino", "n"),
+    ("l_a2_07", "w_zelyonyy", "w_chay", "m"), ("l_a2_07", "w_zhyoltyy", "w_kurtka", "f"), ("l_a2_07", "w_seryy", "w_dom", "m"),
+    ("l_a2_07", "w_zolotoy", "w_solntse", "n"), ("l_a2_07", "w_tyomnyy", "w_komnata", "f"),
+    ("l_a2_08", "w_vysokiy", "w_dom", "m"), ("l_a2_08", "w_dlinnyy", "w_ulitsa", "f"), ("l_a2_08", "w_korotkiy", "w_den", "m"),
+    ("l_a2_08", "w_shirokiy", "w_ulitsa", "f"), ("l_a2_08", "w_tyazhyolyy", "w_rabota", "f"), ("l_a2_08", "w_pustoy", "w_komnata", "f"),
+    ("l_a2_08", "w_polnyy", "w_chashka", "f"), ("l_a2_08", "w_chistyy", "w_voda", "f"),
+]
+
+# «Меня́ зову́т ...» (l_zero_07): (tipo, dati)
+ZOVUT_LESSON = "l_zero_07"
+ZOVUT_MC = [
+    ("Come si dice «Mi chiamo ...» in russo?", "Меня́ зову́т ...", ["Тебя́ зову́т ...", "Его́ зову́т ...", "Её зову́т ..."]),
+    ("Che cosa significa «Тебя́ зову́т ...»?", "Ti chiami ...", ["Mi chiamo ...", "Si chiama (lui) ...", "Si chiama (lei) ..."]),
+    ("Che cosa significa «Меня́ зову́т ...»?", "Mi chiamo ...", ["Ti chiami ...", "Si chiama (lui) ...", "Si chiamano ..."]),
+]
+ZOVUT_MATCH = [("Меня́ зову́т ...", "Mi chiamo ..."), ("Тебя́ зову́т ...", "Ti chiami ..."), ("Его́ зову́т ...", "Lui si chiama ..."), ("Её зову́т ...", "Lei si chiama ...")]
+
+# tag grammaticali specifici -> tag effettivo usato dalle lezioni (mappa per lezione dove il tag generico non esiste ancora)
+TAG_OVERRIDE = {("l_zero_12", "genitive"): "u-menya-est", ("l_a1_01", "accusative"): "accusative-time",
+                ("l_a1_20", "prepositional-case"): "prepositional-transport", ("l_a1_15", "genitive"): "genitive",
+                ("l_a2_10", "prepositional-case"): "locative-u", ("l_a1_14", "accusative"): "accusative-animate",
+                ("l_a2_11", "genitive"): "prepositions-place", ("l_a2_11", "instrumental-case"): "instrumental-case"}

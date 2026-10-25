@@ -54,8 +54,8 @@
 "tranquillo"
 ],
 "w_gromkiy": [
-"forte",
-"rumoroso"
+"rumoroso",
+"forte"
 ],
 "w_bystryy": [
 "veloce",
@@ -65,15 +65,15 @@
 "lento"
 ],
 "w_vkusnyy": [
-"gustoso",
-"buono"
+"buono",
+"saporito"
 ],
 "w_gryaznyy": [
 "sporco"
 ],
 "w_tikho": [
-"piano",
-"in silenzio"
+"sottovoce",
+"piano"
 ],
 "w_gromko": [
 "ad alta voce",
@@ -136,7 +136,8 @@
 "pacco"
 ],
 "w_botinok": [
-"stivaletto"
+"stivaletto",
+"scarpa"
 ],
 "w_tekst": [
 "testo"
@@ -370,7 +371,7 @@
 ],
 "w_vash": [
 "vostro",
-"suo"
+"Suo (di cortesia)"
 ],
 "w_ne": [
 "non"
@@ -395,7 +396,8 @@
 "ora"
 ],
 "w_tuda": [
-"verso là"
+"là",
+"laggiù"
 ],
 "w_syuda": [
 "verso qui"
@@ -442,8 +444,8 @@
 "essere"
 ],
 "w_dolzhnyy": [
-"tenuto a",
-"obbligato a"
+"dovuto",
+"che deve"
 ],
 "w_nuzhnyy": [
 "necessario"
@@ -470,7 +472,7 @@
 "pieno"
 ],
 "w_chem": [
-"di",
+"che",
 "rispetto a"
 ],
 "w_izvinite": [
@@ -482,8 +484,8 @@
 "che"
 ],
 "w_vkusno": [
-"gustoso",
-"buono"
+"buono",
+"saporito"
 ],
 "w_vtoroy": [
 "secondo"
@@ -495,7 +497,7 @@
 "qualcosa"
 ],
 "w_dvoe": [
-"in due"
+"due (persone)"
 ],
 "w_oba": [
 "entrambi"
@@ -541,5 +543,16 @@
 "w_zdes": [
 "qui",
 "qua"
+],
+"w_uchit": [
+"imparare",
+"insegnare"
+],
+"w_zovut": [
+"mi chiamo"
+],
+"w_mimo": [
+"oltre",
+"accanto a"
 ]
 }

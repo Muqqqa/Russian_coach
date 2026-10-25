@@ -7,10 +7,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_prosto"
   ],
@@ -27,7 +24,7 @@
     "solo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001277",
@@ -38,10 +35,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_slishkom"
@@ -64,7 +58,7 @@
     "questo e troppo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001278",
@@ -74,10 +68,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_slishkom"
   ],
@@ -94,7 +85,7 @@
     "слишком"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001279",
@@ -104,10 +95,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_togda",
    "w_kto"
@@ -130,7 +118,7 @@
     "тогда́ кто́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001280",
@@ -141,10 +129,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_teper"
   ],
@@ -161,7 +146,7 @@
     "adesso"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001281",
@@ -171,10 +156,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_togda",
    "w_kto"
@@ -194,7 +176,7 @@
     "allora chi?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001282",
@@ -204,10 +186,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_luchshe"
   ],
@@ -224,7 +203,7 @@
     "лучше"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001283",
@@ -234,10 +213,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_teper",
    "w_luchshe"
@@ -260,7 +236,7 @@
     "тепе́рь лу́чше"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001284",
@@ -270,10 +246,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_konechno"
   ],
@@ -290,7 +263,7 @@
     "naturalmente"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001285",
@@ -298,12 +271,10 @@
   "level": "a1",
   "difficulty": 3,
   "topics": [
-   "grammatica"
+   "grammatica",
+   "descrizioni"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_dazhe",
@@ -327,7 +298,7 @@
     "e perfino peggio"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001286",
@@ -337,10 +308,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak"
   ],
@@ -357,7 +325,8 @@
    ],
    "hint_it": "Addirittura!"
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: idioma non ricavabile"
  },
  {
   "id": "e_001287",
@@ -367,10 +336,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skazat"
   ],
@@ -389,7 +355,7 @@
    ],
    "hint_it": "Di' \"ciao\"!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001288",
@@ -399,10 +365,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_luchshe"
   ],
@@ -419,7 +382,7 @@
    ],
    "hint_it": "Ora va meglio."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001289",
@@ -429,10 +392,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty"
   ],
@@ -449,7 +409,7 @@
    ],
    "hint_it": "Di nuovo tu."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001290",
@@ -459,10 +419,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vot"
   ],
@@ -479,7 +436,7 @@
    ],
    "hint_it": "Eccolo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001291",
@@ -489,10 +446,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zharko"
   ],
@@ -509,7 +463,7 @@
    ],
    "hint_it": "È troppo caldo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001292",
@@ -519,10 +473,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kto"
   ],
@@ -539,7 +490,7 @@
    ],
    "hint_it": "Allora chi?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001293",
@@ -549,10 +500,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my"
   ],
@@ -569,7 +517,7 @@
    ],
    "hint_it": "Perfino noi siamo persone."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001294",
@@ -579,10 +527,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni"
   ],
@@ -599,7 +544,7 @@
    ],
    "hint_it": "Eccoli."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001295",
@@ -609,10 +554,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dazhe",
    "w_my",
@@ -626,9 +568,9 @@
    "question": "Да́же мы́ - лю́ди.",
    "options": [
     "Perfino noi siamo persone.",
-    "Siamo qui da ottobre.",
-    "Siamo andati per qualche ora.",
-    "Abbiamo dei gatti."
+    "Stiamo andando al bar.",
+    "Oggi è giovedì.",
+    "Siamo qui da ottobre."
    ],
    "correct": 0
   },
@@ -642,10 +584,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poka"
   ],
@@ -663,7 +602,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001297",
@@ -674,10 +613,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_konechno",
    "w_ya",
@@ -691,9 +627,9 @@
    "type": "multiple_choice",
    "question": "Certo che la amo.",
    "options": [
-    "\"Приве́т\", - сказа́л я́.",
     "Я́ иду́ к ва́м.",
-    "У меня́ боли́т нога́.",
+    "У неё де́сять дете́й.",
+    "Где́ у меня́ голова́?",
     "Коне́чно, я́ её люблю́."
    ],
    "correct": 3
@@ -708,10 +644,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_prosto"
   ],
@@ -729,7 +662,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001299",
@@ -740,10 +673,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_luchshe",
    "w_vy"
@@ -755,10 +685,10 @@
    "type": "multiple_choice",
    "question": "Лу́чше вы́.",
    "options": [
-    "Voi parlate.",
-    "Meglio voi.",
     "Di dove siete?",
-    "Così va meglio?"
+    "Meglio voi.",
+    "Lei è sporco.",
+    "Siete amici?"
    ],
    "correct": 1
   },
@@ -772,10 +702,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_uzhe"
   ],
@@ -793,7 +720,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001301",
@@ -804,10 +731,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_luchshe",
    "w_ty"
@@ -819,9 +743,9 @@
    "type": "multiple_choice",
    "question": "Meglio tu.",
    "options": [
-    "Тебе́ нра́вится?",
-    "Тепе́рь лу́чше.",
-    "Ты́ мо́лод.",
+    "Ты́ свобо́ден?",
+    "Где́ ты́?",
+    "Ты́ оди́н?",
     "Лу́чше ты́."
    ],
    "correct": 3
@@ -836,10 +760,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poka"
   ],
@@ -857,7 +778,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001303",
@@ -868,10 +789,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dazhe",
    "w_tak"
@@ -883,10 +801,10 @@
    "type": "multiple_choice",
    "question": "Да́же та́к!",
    "options": [
-    "È così.",
-    "Così rapido!",
+    "Così va meglio?",
+    "Bene così.",
     "Persino così!",
-    "Bene così."
+    "È così."
    ],
    "correct": 2
   },
@@ -901,10 +819,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_luchshe",
    "w_konechno",
@@ -935,7 +850,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001305",
@@ -947,10 +862,7 @@
    "avverbi",
    "azioni"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vot",
    "w_on",
@@ -983,7 +895,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001306",
@@ -1038,7 +950,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001307",
@@ -1049,10 +962,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vot",
    "w_togda",
@@ -1083,7 +993,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001308",
@@ -1095,10 +1005,7 @@
    "avverbi",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nachat",
    "w_snova",
@@ -1131,7 +1038,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001309",
@@ -1140,12 +1047,10 @@
   "difficulty": 4,
   "topics": [
    "avverbi",
+   "descrizioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pochti",
    "w_konechno",
@@ -1186,7 +1091,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001310",
@@ -1197,10 +1102,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_snova",
    "w_poka",
@@ -1231,7 +1133,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001311",
@@ -1240,12 +1142,10 @@
   "difficulty": 4,
   "topics": [
    "grammatica",
-   "avverbi"
+   "avverbi",
+   "descrizioni"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poka",
    "w_net",
@@ -1278,7 +1178,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001312",
@@ -1289,10 +1189,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_konechno",
    "w_ya",
@@ -1318,7 +1215,7 @@
     "конечно я ее люблю"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001313",
@@ -1329,10 +1226,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_teper"
   ],
@@ -1348,7 +1242,7 @@
     "теперь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001314",
@@ -1358,10 +1252,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dazhe",
    "w_my",
@@ -1384,7 +1275,7 @@
     "да́же мы́ - лю́ди"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001315",
@@ -1395,10 +1286,7 @@
    "avverbi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_togda"
   ],
@@ -1414,7 +1302,7 @@
     "тогда"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001316",
@@ -1424,10 +1312,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vot",
    "w_on"
@@ -1449,7 +1334,7 @@
     "вот о́н"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001317",
@@ -1459,10 +1344,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pochti"
   ],
@@ -1478,7 +1360,7 @@
     "почти"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001318",
@@ -1488,10 +1370,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vot",
    "w_ono"
@@ -1513,7 +1392,7 @@
     "вот оно́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001319",
@@ -1523,10 +1402,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_luchshe"
   ],
@@ -1542,7 +1418,7 @@
     "лучше"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001320",
@@ -1553,10 +1429,7 @@
    "comunicazione",
    "avverbi"
   ],
-  "grammar_tags": [
-   "adverbs",
-   "particles"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skazat",
    "w_poka"
@@ -1576,6 +1449,53 @@
     "скажи \"пока\"!",
     "скажи пока",
     "скажи́ пока́"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002074",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_slishkom",
+   "w_uzhe",
+   "w_vot",
+   "w_konechno",
+   "w_dazhe"
+  ],
+  "lesson": "l_a1_23",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сли́шком",
+     "it": "troppo"
+    },
+    {
+     "ru": "уже́",
+     "it": "già"
+    },
+    {
+     "ru": "во́т",
+     "it": "ecco"
+    },
+    {
+     "ru": "коне́чно",
+     "it": "certo"
+    },
+    {
+     "ru": "да́же",
+     "it": "perfino"
+    }
    ]
   },
   "qa_status": "pending"

@@ -27,7 +27,8 @@
     "vkùsno"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000181",
@@ -38,11 +39,7 @@
    "avverbi",
    "luoghi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bankomat"
   ],
@@ -60,7 +57,7 @@
     "un bancomat"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000182",
@@ -72,11 +69,7 @@
    "direzioni",
    "luoghi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_iz",
@@ -101,7 +94,7 @@
     "io vengo dalla russia."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000183",
@@ -111,11 +104,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kholodno"
   ],
@@ -132,7 +121,7 @@
     "холодно"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000184",
@@ -140,13 +129,10 @@
   "level": "zero",
   "difficulty": 1,
   "topics": [
-   "comunicazione"
+   "comunicazione",
+   "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_govorit",
    "w_medlenno"
@@ -169,7 +155,7 @@
     "говори́ ме́дленно"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000185",
@@ -199,7 +185,8 @@
     "rossìia"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000186",
@@ -209,11 +196,7 @@
   "topics": [
    "luoghi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rossiya"
   ],
@@ -228,8 +211,7 @@
    "accepted": [
     "Russia",
     "russia",
-    "la russia",
-    "una russia"
+    "la russia"
    ]
   },
   "qa_status": "pending"
@@ -243,11 +225,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tam",
    "w_kholodno"
@@ -270,7 +248,7 @@
     "li fa freddo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000188",
@@ -281,11 +259,7 @@
    "avverbi",
    "luoghi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oktyabr"
   ],
@@ -302,7 +276,7 @@
     "октябрь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000189",
@@ -312,11 +286,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_govorit"
   ],
@@ -335,7 +305,7 @@
    ],
    "hint_it": "Parla lentamente."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000190",
@@ -343,14 +313,9 @@
   "level": "zero",
   "difficulty": 1,
   "topics": [
-   "avverbi",
-   "luoghi"
+   "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_medlenno"
   ],
@@ -367,7 +332,7 @@
    ],
    "hint_it": "Parla lentamente."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000191",
@@ -377,11 +342,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tam"
   ],
@@ -400,7 +361,7 @@
    ],
    "hint_it": "Lì fa freddo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000192",
@@ -410,11 +371,7 @@
   "topics": [
    "luoghi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rossiya"
   ],
@@ -433,7 +390,7 @@
    ],
    "hint_it": "Vengo dalla Russia."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000193",
@@ -443,11 +400,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya"
   ],
@@ -466,7 +419,7 @@
    ],
    "hint_it": "Ho freddo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000194",
@@ -476,11 +429,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_iz"
   ],
@@ -496,7 +445,7 @@
    ],
    "hint_it": "Vengo dalla Russia."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000195",
@@ -506,11 +455,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kholodno"
   ],
@@ -527,7 +472,7 @@
    ],
    "hint_it": "Lì fa freddo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000196",
@@ -537,11 +482,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kholodno"
   ],
@@ -558,7 +499,7 @@
    ],
    "hint_it": "Ho freddo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000197",
@@ -570,9 +511,7 @@
    "luoghi"
   ],
   "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
+   "vowel-reduction"
   ],
   "words": [
    "w_restoran"
@@ -585,7 +524,7 @@
    "question": "Come suona circa «рестора́н» (restoràn)?",
    "options": [
     "ristarèn",
-    "ristarán",
+    "ristaràn",
     "ristoràn",
     "restoràn"
    ],
@@ -602,9 +541,7 @@
    "luoghi"
   ],
   "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
+   "stress"
   ],
   "words": [
    "w_rossiya"
@@ -635,11 +572,7 @@
    "direzioni",
    "luoghi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_iz",
@@ -659,7 +592,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000200",
@@ -669,11 +602,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kholodno"
   ],
@@ -691,7 +620,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000201",
@@ -724,7 +653,8 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: genere grammaticale chiesto prima di zero_08"
  },
  {
   "id": "e_000202",
@@ -735,11 +665,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tam",
    "w_kholodno"
@@ -758,7 +684,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000203",
@@ -769,11 +695,7 @@
    "avverbi",
    "luoghi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bankomat"
   ],
@@ -791,7 +713,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000204",
@@ -802,9 +724,6 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing",
    "stress-mark"
   ],
   "words": [
@@ -823,7 +742,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000205",
@@ -835,9 +754,7 @@
    "luoghi"
   ],
   "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
+   "stress"
   ],
   "words": [
    "w_medlenno",
@@ -877,13 +794,12 @@
   "level": "zero",
   "difficulty": 1,
   "topics": [
+   "avverbi",
    "luoghi",
    "trasporti"
   ],
   "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
+   "vowel-reduction"
   ],
   "words": [
    "w_medlenno",
@@ -910,7 +826,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000207",
@@ -921,11 +837,7 @@
    "avverbi",
    "luoghi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_medlenno",
    "w_kholodno",
@@ -949,7 +861,7 @@
     },
     {
      "ru": "вку́сно",
-     "it": "gustoso"
+     "it": "buono"
     },
     {
      "ru": "Росси́я",
@@ -973,11 +885,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_kholodno",
@@ -1009,7 +917,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000209",
@@ -1021,11 +929,7 @@
    "luoghi",
    "grammatica"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kholodno",
    "w_medlenno",
@@ -1066,7 +970,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000210",
@@ -1077,9 +981,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
+   "stress"
   ],
   "words": [
    "w_oktyabr",
@@ -1122,11 +1024,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tam",
    "w_kholodno"
@@ -1148,7 +1046,7 @@
     "та́м хо́лодно"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000212",
@@ -1158,11 +1056,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_krasivo"
   ],
@@ -1178,7 +1072,7 @@
     "красиво"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000213",
@@ -1189,11 +1083,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_kholodno"
@@ -1215,7 +1105,7 @@
     "мне́ хо́лодно"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000214",
@@ -1226,11 +1116,7 @@
    "avverbi",
    "luoghi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bankomat"
   ],
@@ -1246,7 +1132,7 @@
     "банкомат"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000215",
@@ -1258,11 +1144,7 @@
    "direzioni",
    "luoghi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_iz",
@@ -1285,7 +1167,7 @@
     "я́ из росси́и"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000216",
@@ -1295,11 +1177,7 @@
   "topics": [
    "luoghi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rossiya"
   ],
@@ -1317,7 +1195,7 @@
     "росси́я"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000217",
@@ -1325,13 +1203,10 @@
   "level": "zero",
   "difficulty": 1,
   "topics": [
-   "comunicazione"
+   "comunicazione",
+   "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_govorit",
    "w_medlenno"
@@ -1353,7 +1228,7 @@
     "говори́ ме́дленно"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000218",
@@ -1363,11 +1238,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "stress",
-   "vowel-reduction",
-   "devoicing"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pravilno"
   ],
@@ -1382,6 +1253,94 @@
     "пра́вильно",
     "правильно"
    ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002004",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_vkusno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "вку́сно",
+   "answer": "buono",
+   "accepted": [
+    "buono",
+    "saporito"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002005",
+  "type": "translate",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_ya",
+   "w_kholodno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Мне́ хо́лодно.",
+   "answer": "Ho freddo.",
+   "accepted": [
+    "Ho freddo.",
+    "Ho freddo",
+    "ho freddo",
+    "ho freddo."
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002006",
+  "type": "multiple_choice",
+  "level": "zero",
+  "difficulty": 1,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [
+   "vowel-reduction"
+  ],
+  "words": [
+   "w_pravilno"
+  ],
+  "lesson": "l_zero_06",
+  "est_seconds": 15,
+  "prompt_it": "Scegli la risposta giusta su accento e pronuncia.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Come suona circa «пра́вильно» (pràvilno)?",
+   "options": [
+    "pràvilno",
+    "pròvilna",
+    "pràvilna",
+    "pràvelno"
+   ],
+   "correct": 2
   },
   "qa_status": "pending"
  }

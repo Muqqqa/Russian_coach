@@ -7,10 +7,18 @@ def load_words():
     for f in sorted(glob.glob(ROOT+'/data/words/*.json')):
         for w in json.load(open(f)): W[w['id']]=w
     return W
-def load_sentences():
+def load_sentences(fix=True):
+    """frasi di data/ con le correzioni QA applicate in memoria (data/ non viene modificato)"""
+    import gen_data as D
     S={}
     for f in sorted(glob.glob(ROOT+'/data/sentences/*.json')):
         for s in json.load(open(f)): S[s['id']]=s
+    if fix:
+        for sid,it in D.SENT_IT_FIX.items():
+            if sid in S: S[sid]['it']=it
+        for sid,m in D.SENT_WORDS_FIX.items():
+            if sid in S: S[sid]['words']=[m.get(w,w) for w in S[sid]['words']]
+        for sid in D.SENT_SKIP: S.pop(sid,None)
     return S
 def load_lessons():
     L=[]

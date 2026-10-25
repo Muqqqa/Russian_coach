@@ -7,10 +7,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nad"
   ],
@@ -26,7 +23,7 @@
     "sopra"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001780",
@@ -37,10 +34,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_za",
@@ -65,7 +59,7 @@
     "tu sei venuto per me?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001781",
@@ -103,7 +97,8 @@
     "они́ среди́ на́с"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: \"Sono tra noi!\" ambiguo (я/они)"
  },
  {
   "id": "e_001782",
@@ -113,10 +108,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vokrug"
   ],
@@ -132,7 +124,7 @@
     "intorno a"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001783",
@@ -144,10 +136,7 @@
    "direzioni",
    "casa"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona",
    "w_pod",
@@ -171,7 +160,7 @@
     "lei e sotto la sedia"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001784",
@@ -182,10 +171,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_eto",
@@ -210,7 +196,7 @@
     "что́ э́то за су́п"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001785",
@@ -220,10 +206,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pod"
   ],
@@ -239,7 +222,7 @@
     "sotto"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001786",
@@ -250,10 +233,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vse",
    "w_vokrug",
@@ -275,7 +255,7 @@
     "piaccio a tutti qui intorno."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001787",
@@ -287,10 +267,7 @@
    "movimento",
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_ukhodit",
@@ -315,7 +292,7 @@
     "я́ ухожу́ че́рез ча́с"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001788",
@@ -326,9 +303,7 @@
    "direzioni"
   ],
   "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case",
-   "genitive"
+   "prepositions-place"
   ],
   "words": [
    "w_krovat"
@@ -346,7 +321,7 @@
    ],
    "hint_it": "Il gatto è vicino al letto."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001789",
@@ -356,10 +331,7 @@
   "topics": [
    "natura"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nebo"
   ],
@@ -378,7 +350,7 @@
    ],
    "hint_it": "Il cielo è sopra la testa."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001790",
@@ -389,7 +361,6 @@
    "direzioni"
   ],
   "grammar_tags": [
-   "prepositions-place",
    "instrumental-case"
   ],
   "words": [
@@ -408,7 +379,7 @@
    ],
    "hint_it": "Il cane è dietro la casa."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001791",
@@ -418,10 +389,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my"
   ],
@@ -438,7 +406,7 @@
    ],
    "hint_it": "A noi."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001792",
@@ -449,9 +417,7 @@
    "direzioni"
   ],
   "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case",
-   "genitive"
+   "prepositions-place"
   ],
   "words": [
    "w_dom"
@@ -469,7 +435,7 @@
    ],
    "hint_it": "Il cane è vicino alla casa."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001793",
@@ -479,10 +445,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_lyubit"
   ],
@@ -499,7 +462,7 @@
    ],
    "hint_it": "Al gatto piace dormire accanto a me."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001794",
@@ -510,7 +473,6 @@
    "casa"
   ],
   "grammar_tags": [
-   "prepositions-place",
    "instrumental-case"
   ],
   "words": [
@@ -529,7 +491,7 @@
    ],
    "hint_it": "Il gatto è davanti alla sedia."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001795",
@@ -539,10 +501,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vokrug"
   ],
@@ -559,7 +518,7 @@
    ],
    "hint_it": "Guardati attorno."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001796",
@@ -570,7 +529,6 @@
    "direzioni"
   ],
   "grammar_tags": [
-   "prepositions-place",
    "instrumental-case"
   ],
   "words": [
@@ -590,7 +548,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001797",
@@ -602,10 +560,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_koshka",
    "w_lyubit",
@@ -621,9 +576,9 @@
    "question": "Ко́шка лю́бит спа́ть во́зле меня́.",
    "options": [
     "Al gatto piace dormire accanto a me.",
-    "Penso che lui sia una brutta persona.",
-    "Nel villaggio non lo amano.",
-    "Faccio questo ogni settimana."
+    "Questo è il villaggio dove sono nata.",
+    "Salve, posso aiutarVi?",
+    "Nel villaggio lo amano."
    ],
    "correct": 0
   },
@@ -637,10 +592,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_za"
   ],
@@ -658,7 +610,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001799",
@@ -669,10 +621,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_za",
    "w_my"
@@ -684,9 +633,9 @@
    "type": "multiple_choice",
    "question": "A noi.",
    "options": [
-    "Мы́ лю́ди.",
+    "Где́ мы́?",
     "За на́с.",
-    "Мы́ пое́дем.",
+    "Мы́ придём.",
     "Мы́ семья́."
    ],
    "correct": 1
@@ -702,10 +651,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_za",
    "w_my"
@@ -717,9 +663,9 @@
    "type": "multiple_choice",
    "question": "За на́с.",
    "options": [
-    "Ci piace!",
+    "Siamo fratelli.",
     "Noi stiamo scrivendo.",
-    "Dove siamo?",
+    "Siamo amiche.",
     "A noi."
    ],
    "correct": 3
@@ -734,10 +680,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pod"
   ],
@@ -755,7 +698,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001802",
@@ -766,10 +709,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_ne",
@@ -783,10 +723,10 @@
    "type": "multiple_choice",
    "question": "Non sono contrario, sono a favore.",
    "options": [
-    "В дере́вне его́ не лю́бят.",
+    "Э́то дере́вня, где́ я́ родила́сь.",
     "Я́ не про́тив, я́ — за.",
-    "Сле́дующего ра́за мо́жет и не бы́ть.",
-    "Не ду́маю, что́ они́ плохи́е лю́ди."
+    "Не ду́маю, что́ они́ плохи́е лю́ди.",
+    "Каки́е напи́тки тебе́ не нра́вятся?"
    ],
    "correct": 1
   },
@@ -802,10 +742,7 @@
    "direzioni",
    "azioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_vy",
@@ -820,10 +757,10 @@
    "type": "multiple_choice",
    "question": "Что́ вы́ про́тив неё име́ете?",
    "options": [
-    "Non siamo riusciti a trovarla.",
+    "Che ti è successo alla faccia?",
     "Cosa avete contro di lei?",
-    "Niente può fermarvi.",
-    "Cosa fate dopo la scuola?"
+    "Niente può fermarla.",
+    "Siete ancora in piedi?"
    ],
    "correct": 1
   },
@@ -837,10 +774,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mimo",
    "w_nad",
@@ -876,7 +810,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001805",
@@ -924,7 +858,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001806",
@@ -980,7 +915,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001807",
@@ -990,10 +926,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_okolo",
    "w_pod",
@@ -1024,7 +957,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001808",
@@ -1072,7 +1005,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001809",
@@ -1128,7 +1062,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001810",
@@ -1138,10 +1073,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sredi",
    "w_pri",
@@ -1167,7 +1099,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001811",
@@ -1179,10 +1111,7 @@
    "direzioni",
    "azioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_vy",
@@ -1209,7 +1138,7 @@
     "что вы против нее имеете"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001812",
@@ -1219,10 +1148,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_okolo"
   ],
@@ -1238,7 +1164,7 @@
     "около"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001813",
@@ -1276,7 +1202,8 @@
     "они́ уже́ среди́ на́с"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001814",
@@ -1286,10 +1213,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_protiv"
   ],
@@ -1305,7 +1229,7 @@
     "против"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001815",
@@ -1315,10 +1239,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pod",
    "w_krovat",
@@ -1341,7 +1262,7 @@
     "под крова́тью ко́шка"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001816",
@@ -1351,10 +1272,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vozle"
   ],
@@ -1370,7 +1288,7 @@
     "возле"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001817",
@@ -1382,10 +1300,7 @@
    "movimento",
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_ukhodit",
@@ -1409,7 +1324,7 @@
     "я́ ухожу́ че́рез ча́с"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001818",
@@ -1419,10 +1334,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "prepositions-place",
-   "instrumental-case"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pod"
   ],
@@ -1436,6 +1348,252 @@
    "accepted": [
     "по́д",
     "под"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002127",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_protiv"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "про́тив",
+   "answer": "contro",
+   "accepted": [
+    "contro"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002128",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_pod",
+   "w_za",
+   "w_sredi",
+   "w_okolo",
+   "w_vokrug"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "по́д",
+     "it": "sotto"
+    },
+    {
+     "ru": "за́",
+     "it": "dietro"
+    },
+    {
+     "ru": "среди́",
+     "it": "tra"
+    },
+    {
+     "ru": "о́коло",
+     "it": "vicino a"
+    },
+    {
+     "ru": "вокру́г",
+     "it": "intorno a"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002129",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni",
+   "azioni",
+   "casa"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_posmotret",
+   "w_vokrug",
+   "w_stul",
+   "w_pod",
+   "w_derevo",
+   "w_ya"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Посмотри́ вокру́г.",
+     "it": "Guardati attorno."
+    },
+    {
+     "ru": "Сту́лья под де́ревом.",
+     "it": "Le sedie sono sotto l'albero."
+    },
+    {
+     "ru": "Я́ ухожу́ че́рез ча́с.",
+     "it": "Me ne vado tra un'ora."
+    },
+    {
+     "ru": "Все́ вокру́г лю́бят меня́.",
+     "it": "Piaccio a tutti qui intorno."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002130",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "direzioni",
+   "descrizioni",
+   "azioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_pod",
+   "w_pri",
+   "w_za",
+   "w_zharkiy",
+   "w_videt",
+   "w_nikto"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "по́д",
+     "it": "sotto"
+    },
+    {
+     "ru": "при́",
+     "it": "presso"
+    },
+    {
+     "ru": "за́",
+     "it": "dietro"
+    },
+    {
+     "ru": "жа́ркий",
+     "it": "caldo"
+    },
+    {
+     "ru": "ви́деть",
+     "it": "vedere"
+    },
+    {
+     "ru": "никто́",
+     "it": "nessuno"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002131",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_vokrug",
+   "w_nad",
+   "w_za",
+   "w_mimo"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "вокру́г",
+     "it": "intorno a"
+    },
+    {
+     "ru": "на́д",
+     "it": "sopra"
+    },
+    {
+     "ru": "за́",
+     "it": "dietro"
+    },
+    {
+     "ru": "ми́мо",
+     "it": "oltre"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002132",
+  "type": "dictation",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_on",
+   "w_pryamo",
+   "w_za",
+   "w_ya"
+  ],
+  "lesson": "l_a2_11",
+  "est_seconds": 26,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "О́н пря́мо за мно́й.",
+   "translation_it": "Lui è proprio dietro di me.",
+   "accepted": [
+    "О́н пря́мо за мно́й.",
+    "О́н пря́мо за мно́й",
+    "Он прямо за мной.",
+    "Он прямо за мной",
+    "он прямо за мной.",
+    "он прямо за мной",
+    "о́н пря́мо за мно́й"
    ]
   },
   "qa_status": "pending"

@@ -7,10 +7,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bez"
   ],
@@ -26,7 +23,7 @@
     "senza"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000399",
@@ -37,10 +34,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_s",
@@ -61,7 +55,7 @@
     "cos'ha che non va?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000400",
@@ -72,10 +66,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_est"
   ],
@@ -92,7 +83,7 @@
     "есть"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000401",
@@ -103,10 +94,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my",
    "w_zdes",
@@ -131,7 +119,7 @@
     "мы́ зде́сь с октября́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000402",
@@ -141,10 +129,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u"
   ],
@@ -161,7 +146,7 @@
     "vicino a"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000403",
@@ -172,10 +157,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my",
    "w_s",
@@ -200,7 +182,7 @@
     "noi siamo con te!"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000404",
@@ -210,10 +192,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_svobodno"
   ],
@@ -230,7 +209,7 @@
     "свободно"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000405",
@@ -242,10 +221,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_izvinite",
    "w_ya",
@@ -270,7 +246,7 @@
     "извини́те я́ без часо́в"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000406",
@@ -282,9 +258,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "u-menya-est",
-   "prepositions",
-   "genitive"
+   "u-menya-est"
   ],
   "words": [
    "w_brat"
@@ -302,7 +276,7 @@
    ],
    "hint_it": "Mio fratello ha del vino."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000407",
@@ -312,10 +286,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy"
   ],
@@ -334,7 +305,7 @@
    ],
    "hint_it": "Cosa avete che non va?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000408",
@@ -346,9 +317,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "u-menya-est",
-   "prepositions",
-   "genitive"
+   "u-menya-est"
   ],
   "words": [
    "w_zhena"
@@ -366,7 +335,7 @@
    ],
    "hint_it": "Mia moglie ha del caffè."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000409",
@@ -376,10 +345,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty"
   ],
@@ -396,7 +362,7 @@
    ],
    "hint_it": "Siamo con te!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000410",
@@ -406,10 +372,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bez"
   ],
@@ -425,7 +388,7 @@
    ],
    "hint_it": "Scusate, sono senza orologio."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000411",
@@ -435,10 +398,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zdes"
   ],
@@ -455,7 +415,7 @@
    ],
    "hint_it": "Siamo qui da ottobre."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000412",
@@ -465,10 +425,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona"
   ],
@@ -485,7 +442,7 @@
    ],
    "hint_it": "Cos'ha che non va?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000413",
@@ -497,9 +454,7 @@
    "avverbi"
   ],
   "grammar_tags": [
-   "u-menya-est",
-   "prepositions",
-   "genitive"
+   "u-menya-est"
   ],
   "words": [
    "w_mama"
@@ -518,7 +473,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000414",
@@ -529,10 +484,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_s",
@@ -552,7 +504,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000415",
@@ -563,10 +515,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_est"
   ],
@@ -584,7 +533,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000416",
@@ -594,10 +543,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kofe",
    "w_net"
@@ -611,8 +557,8 @@
    "options": [
     "Ещё нет.",
     "Ко́фе нет.",
-    "Люблю́ ко́фе.",
-    "И я́ нет."
+    "И я́ нет.",
+    "Ча́й и́ли ко́фе?"
    ],
    "correct": 1
   },
@@ -627,10 +573,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_est"
   ],
@@ -648,7 +591,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000418",
@@ -658,10 +601,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kofe",
    "w_net"
@@ -680,7 +620,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000419",
@@ -690,10 +630,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_iz"
   ],
@@ -711,7 +648,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000420",
@@ -721,10 +658,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_est",
    "w_u",
@@ -760,7 +694,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000421",
@@ -772,10 +706,7 @@
    "direzioni",
    "luoghi"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_iz",
@@ -808,7 +739,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000422",
@@ -820,10 +751,7 @@
    "avverbi",
    "soldi"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_s",
    "w_svobodno",
@@ -864,7 +792,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000423",
@@ -875,10 +803,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_svobodno",
    "w_iz",
@@ -919,7 +844,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000424",
@@ -930,10 +855,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my",
    "w_s",
@@ -961,7 +883,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000425",
@@ -972,10 +894,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_est",
    "w_u",
@@ -1004,7 +923,7 @@
     },
     {
      "ru": "вку́сно",
-     "it": "gustoso"
+     "it": "buono"
     },
     {
      "ru": "банкома́т",
@@ -1028,10 +947,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_izvinite",
    "w_ya",
@@ -1055,7 +971,7 @@
     "извини́те я́ без часо́в"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000427",
@@ -1065,10 +981,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_svobodno"
   ],
@@ -1084,7 +997,7 @@
     "свободно"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000428",
@@ -1095,10 +1008,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_s",
@@ -1121,7 +1031,7 @@
     "что́ с ва́ми"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000429",
@@ -1132,10 +1042,7 @@
    "direzioni",
    "avverbi"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_est"
   ],
@@ -1151,7 +1058,7 @@
     "есть"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000430",
@@ -1162,10 +1069,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my",
    "w_zdes",
@@ -1189,7 +1093,7 @@
     "мы́ зде́сь с октября́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000431",
@@ -1199,10 +1103,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bez"
   ],
@@ -1218,7 +1119,7 @@
     "без"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000432",
@@ -1229,10 +1130,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "u-menya-est",
-   "prepositions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_s",
@@ -1255,6 +1153,6 @@
     "что́ с не́й"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

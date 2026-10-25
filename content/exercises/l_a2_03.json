@@ -7,10 +7,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rasskazyvat"
   ],
@@ -26,7 +23,7 @@
     "raccontare"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001472",
@@ -37,10 +34,7 @@
    "grammatica",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_ty",
@@ -71,7 +65,7 @@
     "io te lo raccontero"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001473",
@@ -81,10 +75,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_napisat"
   ],
@@ -103,7 +94,7 @@
     "писать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001474",
@@ -115,10 +106,7 @@
    "comunicazione",
    "lavoro-scuola"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_pisat",
@@ -142,7 +130,7 @@
     "я́ пишу́ письмо́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001475",
@@ -152,10 +140,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rasskazat"
   ],
@@ -171,7 +156,7 @@
     "raccontare"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001476",
@@ -181,10 +166,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sdelat",
    "w_kofe"
@@ -207,7 +189,7 @@
     "fate un caffe"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001477",
@@ -217,10 +199,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_posmotret"
   ],
@@ -239,7 +218,7 @@
     "смотреть"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001478",
@@ -249,10 +228,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_devushka",
    "w_pisat"
@@ -282,7 +258,7 @@
     "де́вочка пи́шет"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001479",
@@ -292,10 +268,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pisat"
   ],
@@ -311,7 +284,7 @@
     "scrivere"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001480",
@@ -322,8 +295,6 @@
    "comunicazione"
   ],
   "grammar_tags": [
-   "aspect",
-   "future-perfective",
    "verbs-present"
   ],
   "words": [
@@ -342,7 +313,7 @@
    ],
    "hint_it": "chiedere: loro"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001481",
@@ -352,10 +323,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sdelat"
   ],
@@ -372,7 +340,7 @@
    ],
    "hint_it": "Farò quello che posso."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001482",
@@ -383,8 +351,6 @@
    "azioni"
   ],
   "grammar_tags": [
-   "aspect",
-   "future-perfective",
    "past-tense"
   ],
   "words": [
@@ -403,7 +369,7 @@
    ],
    "hint_it": "fare (ieri): lui"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001483",
@@ -413,10 +379,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pisat"
   ],
@@ -433,7 +396,7 @@
    ],
    "hint_it": "La ragazza sta scrivendo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001484",
@@ -444,8 +407,6 @@
    "comunicazione"
   ],
   "grammar_tags": [
-   "aspect",
-   "future-perfective",
    "verbs-present"
   ],
   "words": [
@@ -464,7 +425,7 @@
    ],
    "hint_it": "scrivere: lui"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001485",
@@ -474,10 +435,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -494,7 +452,7 @@
    ],
    "hint_it": "Ho scritto questo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001486",
@@ -505,8 +463,6 @@
    "azioni"
   ],
   "grammar_tags": [
-   "aspect",
-   "future-perfective",
    "past-tense"
   ],
   "words": [
@@ -525,7 +481,7 @@
    ],
    "hint_it": "fare (ieri): lei"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001487",
@@ -535,10 +491,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_delat"
   ],
@@ -555,7 +508,7 @@
    ],
    "hint_it": "Cosa stavate facendo?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001488",
@@ -587,7 +540,8 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001489",
@@ -598,10 +552,7 @@
    "grammatica",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_otvetit"
@@ -614,9 +565,9 @@
    "question": "О́н и́м отве́тил.",
    "options": [
     "Lui ha risposto loro.",
-    "Ho chiesto a lui.",
-    "Gli piace la birra?",
-    "Lui mi sta insegnando."
+    "L'ho trovato io.",
+    "Lui stava male da una settimana.",
+    "Lui è qui da qualche parte."
    ],
    "correct": 0
   },
@@ -630,10 +581,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rasskazat"
   ],
@@ -651,7 +599,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001491",
@@ -661,10 +609,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_seychas",
    "w_sdelat"
@@ -677,8 +622,8 @@
    "question": "Lo faccio subito.",
    "options": [
     "Сде́лаем э́то.",
-    "Сейча́с ча́с дня.",
-    "Сейча́с ча́с.",
+    "Сде́лай ко́фе.",
+    "Сде́лайте ко́фе.",
     "Сейча́с сде́лаю."
    ],
    "correct": 3
@@ -694,8 +639,6 @@
    "azioni"
   ],
   "grammar_tags": [
-   "aspect",
-   "future-perfective",
    "past-tense"
   ],
   "words": [
@@ -714,7 +657,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001493",
@@ -725,10 +668,7 @@
    "grammatica",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_napisat",
@@ -741,10 +681,10 @@
    "type": "multiple_choice",
    "question": "Я́ написа́л э́то.",
    "options": [
-    "Ho sete.",
-    "Sono dei bambini normali.",
+    "L'ho comprata.",
+    "Devo aspettare tanto?",
     "Ho scritto questo.",
-    "Questo posto è vuoto?"
+    "Questo è solamente l'inizio."
    ],
    "correct": 2
   },
@@ -758,10 +698,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rasskazyvat"
   ],
@@ -779,7 +716,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001495",
@@ -790,10 +727,7 @@
    "grammatica",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_otvetit"
@@ -806,9 +740,9 @@
    "question": "Lui ha risposto loro.",
    "options": [
     "О́н и́м отве́тил.",
-    "Чем о́н пи́шет?",
-    "Э́то его́ ве́щи.",
-    "Его́ нашёл я́."
+    "О́н что́-то и́щет?",
+    "О́н где́-то зде́сь.",
+    "Э́то его́ ве́щи."
    ],
    "correct": 0
   },
@@ -823,10 +757,7 @@
    "comunicazione",
    "azioni"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sdelat",
    "w_rasskazyvat",
@@ -858,7 +789,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001497",
@@ -870,10 +801,7 @@
    "azioni",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sdelat",
    "w_kofe",
@@ -905,7 +833,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001498",
@@ -957,7 +885,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001499",
@@ -968,10 +897,7 @@
    "azioni",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_posmotret",
    "w_napisat",
@@ -1002,7 +928,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001500",
@@ -1013,10 +939,7 @@
    "grammatica",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_papa",
    "w_ne",
@@ -1049,7 +972,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001501",
@@ -1105,7 +1028,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001502",
@@ -1116,10 +1040,7 @@
    "comunicazione",
    "azioni"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_delat",
    "w_napisat",
@@ -1151,7 +1072,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001503",
@@ -1161,10 +1082,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sdelat",
    "w_kofe"
@@ -1186,7 +1104,7 @@
     "сде́лай ко́фе"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001504",
@@ -1196,10 +1114,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sdelat"
   ],
@@ -1215,7 +1130,7 @@
     "сделать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001505",
@@ -1227,10 +1142,7 @@
    "avverbi",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_plokho",
@@ -1253,7 +1165,7 @@
     "я́ пло́хо пишу́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001506",
@@ -1263,10 +1175,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_rasskazyvat"
   ],
@@ -1282,7 +1191,7 @@
     "рассказывать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001507",
@@ -1294,10 +1203,7 @@
    "direzioni",
    "casa"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_posmotret",
    "w_v",
@@ -1320,7 +1226,7 @@
     "посмотри́ в окно́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001508",
@@ -1330,10 +1236,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_otvechat"
   ],
@@ -1349,7 +1252,7 @@
     "отвечать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001509",
@@ -1360,10 +1263,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_delat",
@@ -1388,7 +1288,7 @@
     "я́ де́лаю э́то ка́ждую неде́лю"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001510",
@@ -1398,10 +1298,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "aspect",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sprashivat"
   ],
@@ -1415,6 +1312,126 @@
    "accepted": [
     "спра́шивать",
     "спрашивать"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002091",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione"
+  ],
+  "grammar_tags": [
+   "past-tense"
+  ],
+  "words": [
+   "w_pisat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la forma del passato giusta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Вчера́ они́ ___ (писа́ть). — scrivere (ieri): loro",
+   "options": [
+    "писа́л",
+    "писа́ла",
+    "писа́ли"
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002092",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "comunicazione",
+   "azioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_rasskazat",
+   "w_otvechat",
+   "w_sdelat",
+   "w_sprashivat",
+   "w_pisat",
+   "w_rasskazyvat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "рассказа́ть",
+     "it": "raccontare"
+    },
+    {
+     "ru": "отвеча́ть",
+     "it": "rispondere"
+    },
+    {
+     "ru": "сде́лать",
+     "it": "fare"
+    },
+    {
+     "ru": "спра́шивать",
+     "it": "chiedere"
+    },
+    {
+     "ru": "писа́ть",
+     "it": "scrivere"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002093",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione",
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_ya",
+   "w_plokho",
+   "w_pisat",
+   "w_otvechat"
+  ],
+  "lesson": "l_a2_03",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ пло́хо пишу́.",
+     "it": "Scrivo male."
+    },
+    {
+     "ru": "Я́ отвеча́ла.",
+     "it": "Ho risposto."
+    },
+    {
+     "ru": "Я́ написа́ла э́то.",
+     "it": "Ho scritto questo."
+    },
+    {
+     "ru": "Я́ уме́ю э́то де́лать.",
+     "it": "So fare questo."
+    }
    ]
   },
   "qa_status": "pending"

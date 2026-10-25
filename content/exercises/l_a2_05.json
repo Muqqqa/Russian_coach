@@ -7,10 +7,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_davat"
   ],
@@ -26,7 +23,7 @@
     "dare"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001552",
@@ -37,10 +34,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_prinesti",
@@ -65,7 +59,7 @@
     "io ho portato la mia."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001553",
@@ -75,10 +69,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dat"
   ],
@@ -97,7 +88,7 @@
     "давать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001554",
@@ -108,10 +99,7 @@
    "saluti",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pozhaluysta",
    "w_obyasnit"
@@ -134,7 +122,7 @@
     "пожа́луйста объясни́те"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001555",
@@ -144,10 +132,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_predlozhit"
   ],
@@ -163,7 +148,7 @@
     "proporre"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001556",
@@ -174,10 +159,7 @@
    "saluti",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pozhaluysta",
    "w_obyasnit"
@@ -197,7 +179,7 @@
     "spiegati, per favore."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001557",
@@ -207,10 +189,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poslat"
   ],
@@ -227,7 +206,7 @@
     "послать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001558",
@@ -276,7 +255,8 @@
     "я принес мою"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001559",
@@ -288,8 +268,7 @@
    "comunicazione"
   ],
   "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
+   "dative-case"
   ],
   "words": [
    "w_syn"
@@ -307,7 +286,7 @@
    ],
    "hint_it": "Spiegherò la parola a mio figlio."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001560",
@@ -317,10 +296,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_moy"
   ],
@@ -333,11 +309,14 @@
    "answer": "мо́й",
    "accepted": [
     "мо́й",
-    "мой"
+    "мой",
+    "сво́й",
+    "свой"
    ],
    "hint_it": "Ho portato il mio."
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: сво́й valido"
  },
  {
   "id": "e_001561",
@@ -348,8 +327,6 @@
    "comunicazione"
   ],
   "grammar_tags": [
-   "dative-case",
-   "dative-pronouns",
    "future-perfective"
   ],
   "words": [
@@ -368,7 +345,7 @@
    ],
    "hint_it": "chiedere: io (domani)"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001562",
@@ -398,7 +375,8 @@
    ],
    "hint_it": "Andiamo a dormire."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Пошли спать» mappata a w_poslat"
  },
  {
   "id": "e_001563",
@@ -410,8 +388,7 @@
    "comunicazione"
   ],
   "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
+   "dative-case"
   ],
   "words": [
    "w_brat"
@@ -429,7 +406,7 @@
    ],
    "hint_it": "Lei dà il caffè al fratello."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001564",
@@ -439,10 +416,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pozhaluysta"
   ],
@@ -461,7 +435,7 @@
    ],
    "hint_it": "Spiegati, per favore."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001565",
@@ -472,8 +446,6 @@
    "comunicazione"
   ],
   "grammar_tags": [
-   "dative-case",
-   "dative-pronouns",
    "future-perfective"
   ],
   "words": [
@@ -492,7 +464,7 @@
    ],
    "hint_it": "chiedere: loro (domani)"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001566",
@@ -503,8 +475,6 @@
    "comunicazione"
   ],
   "grammar_tags": [
-   "dative-case",
-   "dative-pronouns",
    "future-perfective"
   ],
   "words": [
@@ -524,7 +494,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001567",
@@ -535,10 +505,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_prinesti",
@@ -551,10 +518,10 @@
    "type": "multiple_choice",
    "question": "Я́ принёс вино́.",
    "options": [
-    "Io devo andare.",
     "Te lo racconterò.",
+    "Tornerò dopo.",
     "Ho portato del vino.",
-    "L'ho comprata."
+    "Nemmeno io."
    ],
    "correct": 2
   },
@@ -568,10 +535,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poprosit"
   ],
@@ -589,7 +553,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001569",
@@ -600,10 +564,7 @@
    "saluti",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pozhaluysta",
    "w_obyasnit"
@@ -615,10 +576,10 @@
    "type": "multiple_choice",
    "question": "Spiegati, per favore.",
    "options": [
-    "Счёт, пожа́луйста!",
-    "Два́, пожа́луйста.",
+    "Два́ ко́фе, пожа́луйста.",
+    "Пожа́луйста, войди́те!",
     "Пожа́луйста, объясни́.",
-    "Пожа́луйста, войди́те!"
+    "Счёт, пожа́луйста."
    ],
    "correct": 2
   },
@@ -632,10 +593,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_obyasnit"
   ],
@@ -653,7 +611,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001571",
@@ -664,8 +622,6 @@
    "azioni"
   ],
   "grammar_tags": [
-   "dative-case",
-   "dative-pronouns",
    "future-perfective"
   ],
   "words": [
@@ -685,7 +641,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001572",
@@ -696,10 +652,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kto",
    "w_prinesti",
@@ -712,10 +665,10 @@
    "type": "multiple_choice",
    "question": "Кто́ принёс пи́во?",
    "options": [
-    "Gli piace la birra?",
+    "Ho portato del vino.",
     "Chi ha portato la birra?",
-    "Ho portato la mia.",
-    "Chi cucina per voi?"
+    "Gli piace la birra?",
+    "Chi sei, amica?"
    ],
    "correct": 1
   },
@@ -730,10 +683,7 @@
    "azioni",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_predlozhit",
    "w_davat",
@@ -764,7 +714,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001574",
@@ -811,7 +761,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Пошли спать» mappata a w_poslat (è пойти): insegna il lessema sbagliato"
  },
  {
   "id": "e_001575",
@@ -867,7 +818,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001576",
@@ -878,10 +830,7 @@
    "comunicazione",
    "azioni"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poslat",
    "w_predlozhit",
@@ -907,7 +856,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001577",
@@ -955,7 +904,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001578",
@@ -1011,7 +961,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001579",
@@ -1022,10 +973,7 @@
    "azioni",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poslat",
    "w_dat",
@@ -1056,7 +1004,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001580",
@@ -1067,10 +1015,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_prinesti",
@@ -1095,7 +1040,7 @@
     "я принес мои"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001581",
@@ -1105,10 +1050,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_prinesti"
   ],
@@ -1124,7 +1066,7 @@
     "принести"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001582",
@@ -1135,10 +1077,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_prinesti",
@@ -1163,7 +1102,7 @@
     "я принес мой"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001583",
@@ -1173,10 +1112,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poslat"
   ],
@@ -1192,7 +1128,7 @@
     "послать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001584",
@@ -1203,10 +1139,7 @@
    "azioni",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dat",
    "w_skazat"
@@ -1228,7 +1161,7 @@
     "да́йте сказа́ть"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001585",
@@ -1238,10 +1171,7 @@
   "topics": [
    "comunicazione"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poprosit"
   ],
@@ -1257,7 +1187,7 @@
     "попросить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001586",
@@ -1268,10 +1198,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "dative-case",
-   "dative-pronouns"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_prinesti",
@@ -1294,6 +1221,247 @@
     "я́ принёс сво́й",
     "Я принес свой.",
     "я принес свой"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002097",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_poslat"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "посла́ть",
+   "answer": "mandare",
+   "accepted": [
+    "mandare"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002098",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "azioni"
+  ],
+  "grammar_tags": [
+   "future-perfective"
+  ],
+  "words": [
+   "w_prinesti"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "За́втра ты́ ___ (принести́).",
+   "answer": "принесёшь",
+   "accepted": [
+    "принесёшь",
+    "принесешь"
+   ],
+   "hint_it": "portare: tu (domani)"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002099",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "azioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_poprosit",
+   "w_dat",
+   "w_davat",
+   "w_prinesti",
+   "w_pokazat"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "попроси́ть",
+     "it": "chiedere"
+    },
+    {
+     "ru": "да́ть",
+     "it": "dare"
+    },
+    {
+     "ru": "принести́",
+     "it": "portare"
+    },
+    {
+     "ru": "показа́ть",
+     "it": "mostrare"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002100",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni",
+   "comunicazione"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_davat",
+   "w_ty",
+   "w_slovo",
+   "w_ya",
+   "w_prinesti",
+   "w_moy"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Даю́ тебе́ сло́во.",
+     "it": "Ti do la mia parola."
+    },
+    {
+     "ru": "Я́ принёс мои́.",
+     "it": "Ho portato i miei."
+    },
+    {
+     "ru": "Сейча́с покажу́.",
+     "it": "Ora ti mostro."
+    },
+    {
+     "ru": "Да́йте и́м секу́нду.",
+     "it": "Lasciate loro un secondo."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002101",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "comunicazione",
+   "azioni",
+   "persone"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_poslat",
+   "w_obyasnit",
+   "w_predlozhit",
+   "w_podruga",
+   "w_sistema",
+   "w_sprosit"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "посла́ть",
+     "it": "mandare"
+    },
+    {
+     "ru": "объясни́ть",
+     "it": "spiegare"
+    },
+    {
+     "ru": "предложи́ть",
+     "it": "proporre"
+    },
+    {
+     "ru": "подру́га",
+     "it": "amica"
+    },
+    {
+     "ru": "систе́ма",
+     "it": "sistema"
+    },
+    {
+     "ru": "спроси́ть",
+     "it": "chiedere"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002102",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "azioni",
+   "tempo-libero"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_davat",
+   "w_igrat",
+   "w_obyasnit",
+   "w_ya",
+   "w_eto",
+   "w_pozhaluysta"
+  ],
+  "lesson": "l_a2_05",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Дава́йте игра́ть.",
+     "it": "Giochiamo."
+    },
+    {
+     "ru": "Объясни́ мне́ э́то!",
+     "it": "Spiegamelo tu!"
+    },
+    {
+     "ru": "Пожа́луйста, объясни́.",
+     "it": "Spiegati, per favore."
+    },
+    {
+     "ru": "Они́ пошли́ в ба́р.",
+     "it": "Sono andati al bar."
+    }
    ]
   },
   "qa_status": "pending"

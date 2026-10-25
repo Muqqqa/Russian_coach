@@ -7,10 +7,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_malchik"
   ],
@@ -26,9 +23,7 @@
     "bambino",
     "il bambino",
     "un bambino",
-    "ragazzino",
-    "il ragazzino",
-    "un ragazzino"
+    "ragazzino"
    ]
   },
   "qa_status": "pending"
@@ -41,10 +36,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_paren",
    "w_vernutsya"
@@ -67,7 +59,7 @@
     "il ragazzo e tornato"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001589",
@@ -77,10 +69,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_muzhchina"
   ],
@@ -94,7 +83,9 @@
    "answer": "мужчи́на",
    "accepted": [
     "мужчи́на",
-    "мужчина"
+    "мужчина",
+    "челове́к",
+    "человек"
    ]
   },
   "qa_status": "pending"
@@ -107,10 +98,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_paren",
    "w_vernutsya"
@@ -133,7 +121,7 @@
     "па́рень верну́лся"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001591",
@@ -143,10 +131,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_devochka"
   ],
@@ -164,7 +149,7 @@
     "una bambina"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001592",
@@ -174,10 +159,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_nachalnik"
@@ -201,7 +183,7 @@
     "io sono il capo."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001593",
@@ -211,10 +193,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_direktor"
   ],
@@ -231,7 +210,7 @@
     "директор"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001594",
@@ -241,10 +220,7 @@
   "topics": [
    "saluti"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_spasibo",
    "w_doktor"
@@ -267,7 +243,7 @@
     "спаси́бо до́ктор"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001595",
@@ -278,8 +254,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "instrumental-case",
-   "professions"
+   "instrumental-case"
   ],
   "words": [
    "w_vrach"
@@ -297,7 +272,7 @@
    ],
    "hint_it": "Lavoro come medico."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001596",
@@ -307,10 +282,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on"
   ],
@@ -329,7 +301,7 @@
    ],
    "hint_it": "Lui non è un dottore."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001597",
@@ -340,8 +312,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "instrumental-case",
-   "professions"
+   "instrumental-case"
   ],
   "words": [
    "w_drug"
@@ -359,7 +330,7 @@
    ],
    "hint_it": "Lei va con un amico."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001598",
@@ -369,10 +340,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_malchik"
   ],
@@ -389,7 +357,7 @@
    ],
    "hint_it": "Questo è un ragazzo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001599",
@@ -399,10 +367,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_muzhchina"
   ],
@@ -421,7 +386,7 @@
    ],
    "hint_it": "Gli uomini stanno andando."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001600",
@@ -431,10 +396,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto"
   ],
@@ -453,7 +415,7 @@
    ],
    "hint_it": "Questo è un ragazzo."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001601",
@@ -463,10 +425,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_doktor"
   ],
@@ -483,7 +442,7 @@
    ],
    "hint_it": "Lui non è un dottore."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001602",
@@ -494,8 +453,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "instrumental-case",
-   "professions"
+   "instrumental-case"
   ],
   "words": [
    "w_direktor"
@@ -514,7 +472,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001603",
@@ -524,10 +482,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_ne",
@@ -540,8 +495,8 @@
    "type": "multiple_choice",
    "question": "О́н не до́ктор.",
    "options": [
-    "Non leggo.",
-    "Lei è sua moglie?",
+    "Lui è vostro padre.",
+    "Lui stava male da una settimana.",
     "Noi non verremo.",
     "Lui non è un dottore."
    ],
@@ -557,10 +512,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_devochka"
   ],
@@ -578,7 +530,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001605",
@@ -589,8 +541,6 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "instrumental-case",
-   "professions",
    "gender"
   ],
   "words": [
@@ -609,7 +559,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001606",
@@ -619,10 +569,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_muzhchina",
    "w_idti"
@@ -636,7 +583,7 @@
    "options": [
     "Сне́г идёт?",
     "Мужчи́ны иду́т.",
-    "Шёл до́ждь.",
+    "Иди́те ме́дленно.",
     "Идёт сне́г."
    ],
    "correct": 1
@@ -651,10 +598,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nachalnik"
   ],
@@ -665,8 +609,8 @@
    "type": "multiple_choice",
    "question": "Come si dice «capo» in russo?",
    "options": [
-    "нога́",
-    "ребёнок",
+    "носо́к",
+    "рестора́н",
     "нача́льник",
     "воскресе́нье"
    ],
@@ -683,8 +627,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "instrumental-case",
-   "professions"
+   "instrumental-case"
   ],
   "words": [
    "w_brat"
@@ -703,7 +646,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001609",
@@ -713,10 +656,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nachalnik",
    "w_malchik",
@@ -752,7 +692,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001610",
@@ -763,10 +703,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_muzhchina",
    "w_vysokiy",
@@ -799,7 +736,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001611",
@@ -854,7 +791,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001612",
@@ -864,10 +802,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vrach",
    "w_devochka",
@@ -898,7 +833,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001613",
@@ -910,10 +845,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gde",
    "w_malchik",
@@ -945,7 +877,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001614",
@@ -1000,7 +932,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001615",
@@ -1010,10 +943,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_direktor",
    "w_devochka",
@@ -1039,7 +969,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001616",
@@ -1049,10 +979,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_vrach"
@@ -1074,7 +1001,7 @@
     "вы́ врачи́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001617",
@@ -1084,10 +1011,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vrach"
   ],
@@ -1103,7 +1027,7 @@
     "врач"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001618",
@@ -1113,10 +1037,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_vrach"
@@ -1138,7 +1059,7 @@
     "я́ вра́ч"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001619",
@@ -1148,10 +1069,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_muzhchina"
   ],
@@ -1167,7 +1085,7 @@
     "мужчина"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001620",
@@ -1177,10 +1095,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_paren",
    "w_vernutsya"
@@ -1202,7 +1117,7 @@
     "па́рень верну́лся"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001621",
@@ -1212,10 +1127,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_malchik"
   ],
@@ -1231,7 +1143,7 @@
     "мальчик"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001622",
@@ -1241,10 +1153,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "instrumental-case",
-   "professions"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_muzhchina",
    "w_vysokiy"
@@ -1264,6 +1173,86 @@
     "мужчина высокий.",
     "мужчина высокий",
     "мужчи́на высо́кий"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002103",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_muzhchina",
+   "w_malchik",
+   "w_nachalnik",
+   "w_direktor"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "мужчи́на",
+     "it": "uomo"
+    },
+    {
+     "ru": "ма́льчик",
+     "it": "bambino"
+    },
+    {
+     "ru": "нача́льник",
+     "it": "capo"
+    },
+    {
+     "ru": "дире́ктор",
+     "it": "direttore"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002104",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "avverbi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_ya",
+   "w_nachalnik",
+   "w_gde",
+   "w_devochka",
+   "w_direktor"
+  ],
+  "lesson": "l_a2_06",
+  "est_seconds": 40,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ нача́льник.",
+     "it": "Sono il capo."
+    },
+    {
+     "ru": "Где́ де́вочки?",
+     "it": "Dove sono le bambine?"
+    },
+    {
+     "ru": "Где́ дире́ктор?",
+     "it": "Dov'è il direttore?"
+    }
    ]
   },
   "qa_status": "pending"

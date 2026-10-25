@@ -7,10 +7,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mama"
   ],
@@ -28,7 +25,7 @@
     "una mamma"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000555",
@@ -38,10 +35,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_otets"
@@ -53,19 +47,26 @@
    "type": "translate",
    "direction": "ru_it",
    "source": "Вы́ оте́ц?",
-   "answer": "Siete padre?",
+   "answer": "Lei è padre?",
    "accepted": [
-    "Siete padre?",
-    "Siete padre",
-    "siete padre",
-    "siete padre?",
-    "Voi siete padre?",
-    "Voi siete padre",
-    "voi siete padre",
-    "voi siete padre?"
+    "Lei è padre?",
+    "Lei è padre",
+    "lei è padre",
+    "lei è padre?",
+    "Lei e' padre?",
+    "lei e' padre",
+    "lei e padre",
+    "Voi lei è padre?",
+    "Voi lei è padre",
+    "voi lei è padre",
+    "voi lei è padre?",
+    "Voi lei e' padre?",
+    "voi lei e' padre",
+    "voi lei e padre"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: in attesa fix frase s_12783171"
  },
  {
   "id": "e_000556",
@@ -75,10 +76,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_otets"
   ],
@@ -95,7 +93,7 @@
     "отец"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000557",
@@ -105,10 +103,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_s",
    "w_den",
@@ -134,7 +129,7 @@
     "с днем отца"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000558",
@@ -144,10 +139,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_syn"
   ],
@@ -165,7 +157,7 @@
     "un figlio"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000559",
@@ -175,10 +167,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_brat"
@@ -202,7 +191,7 @@
     "voi siete fratelli?"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000560",
@@ -212,10 +201,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dochka"
   ],
@@ -232,7 +218,7 @@
     "дочка"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000561",
@@ -242,10 +228,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_otets"
@@ -256,7 +239,7 @@
   "payload": {
    "type": "translate",
    "direction": "it_ru",
-   "source": "Siete padre?",
+   "source": "Lei è padre?",
    "answer": "Вы́ оте́ц?",
    "accepted": [
     "Вы́ оте́ц?",
@@ -268,7 +251,8 @@
     "вы́ оте́ц"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: \"Siete padre?\" non grammaticale"
  },
  {
   "id": "e_000562",
@@ -278,10 +262,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mat"
   ],
@@ -295,8 +276,6 @@
    "answer": "madre",
    "accepted": [
     "madre",
-    "il madre",
-    "un madre",
     "la madre",
     "una madre",
     "mamma",
@@ -314,10 +293,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_otets"
   ],
@@ -330,7 +306,11 @@
    "answer": "оте́ц",
    "accepted": [
     "оте́ц",
-    "отец"
+    "отец",
+    "ты́",
+    "ты",
+    "вы́",
+    "вы"
    ],
    "hint_it": "Come sta tuo padre?"
   },
@@ -344,10 +324,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mama"
   ],
@@ -366,7 +343,7 @@
    ],
    "hint_it": "La mamma è qui?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000565",
@@ -376,10 +353,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_otets"
   ],
@@ -396,7 +370,7 @@
    ],
    "hint_it": "Buona festa del papà!"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000566",
@@ -406,10 +380,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_syn"
   ],
@@ -426,7 +397,7 @@
    ],
    "hint_it": "Ho tre figli."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000567",
@@ -436,10 +407,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_syn"
   ],
@@ -456,7 +424,7 @@
    ],
    "hint_it": "Questo è vostro figlio?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000568",
@@ -466,10 +434,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_brat"
   ],
@@ -486,7 +451,7 @@
    ],
    "hint_it": "Siete fratelli?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000569",
@@ -496,10 +461,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak"
   ],
@@ -518,7 +480,7 @@
    ],
    "hint_it": "Come sta tuo padre?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000570",
@@ -528,10 +490,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my"
   ],
@@ -550,7 +509,7 @@
    ],
    "hint_it": "Siamo fratelli."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000571",
@@ -560,10 +519,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_otets"
@@ -575,14 +531,15 @@
    "type": "multiple_choice",
    "question": "Вы́ оте́ц?",
    "options": [
-    "Cosa avete che non va?",
-    "Siete padre?",
     "Siete fratelli?",
-    "Sei padre?"
+    "Lei è padre?",
+    "Sei padre?",
+    "Può."
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: \"Siete padre?\" non grammaticale; \"Sei padre?\" fuorviante"
  },
  {
   "id": "e_000572",
@@ -592,10 +549,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mat"
   ],
@@ -613,7 +567,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000573",
@@ -624,8 +578,6 @@
    "famiglia"
   ],
   "grammar_tags": [
-   "family",
-   "nouns-nominative",
    "gender"
   ],
   "words": [
@@ -644,7 +596,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000574",
@@ -655,10 +607,7 @@
    "grammatica",
    "numeri"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_syn",
@@ -673,9 +622,9 @@
    "question": "Suo figlio ha otto anni.",
    "options": [
     "Его́ сы́ну во́семь ле́т.",
-    "Она́ его́ жена́?",
-    "У меня́ во́семь бра́тьев.",
-    "Я́ его́ купи́л."
+    "Э́то о́н и́ли нет?",
+    "У меня́ три́ сы́на.",
+    "У меня́ во́семь бра́тьев."
    ],
    "correct": 0
   },
@@ -689,10 +638,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_otets"
   ],
@@ -710,7 +656,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000576",
@@ -721,10 +667,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u",
    "w_ya",
@@ -738,9 +681,9 @@
    "type": "multiple_choice",
    "question": "У меня́ три́ сы́на.",
    "options": [
-    "Scusate, sono senza orologio.",
+    "Ho chiesto a lui.",
     "Ho tre figli.",
-    "L'ho comprato.",
+    "Scusate, sono senza orologio.",
     "Suo figlio ha otto anni."
    ],
    "correct": 1
@@ -755,10 +698,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mama"
   ],
@@ -776,7 +716,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000578",
@@ -787,8 +727,6 @@
    "famiglia"
   ],
   "grammar_tags": [
-   "family",
-   "nouns-nominative",
    "gender"
   ],
   "words": [
@@ -807,7 +745,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000579",
@@ -817,10 +755,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_syn",
    "w_brat",
@@ -856,7 +791,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000580",
@@ -866,10 +801,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona",
    "w_on",
@@ -902,7 +834,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000581",
@@ -914,10 +846,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_brat",
    "w_sestra",
@@ -958,7 +887,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000582",
@@ -968,10 +897,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sestra",
    "w_mat",
@@ -1012,7 +938,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000583",
@@ -1023,10 +949,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my",
    "w_brat",
@@ -1047,7 +970,7 @@
     },
     {
      "ru": "Вы́ оте́ц?",
-     "it": "Siete padre?"
+     "it": "Lei è padre?"
     },
     {
      "ru": "С Днём отца́!",
@@ -1059,7 +982,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: in attesa fix frase s_12783171"
  },
  {
   "id": "e_000584",
@@ -1070,10 +994,7 @@
    "avverbi",
    "soldi"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_otets",
    "w_zhena",
@@ -1114,7 +1035,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000585",
@@ -1124,10 +1045,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_papa",
    "w_mama",
@@ -1163,7 +1081,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000586",
@@ -1173,10 +1091,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_brat"
@@ -1198,7 +1113,7 @@
     "вы́ бра́тья"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000587",
@@ -1208,10 +1123,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mama"
   ],
@@ -1227,7 +1139,7 @@
     "мама"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000588",
@@ -1237,10 +1149,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_vash",
@@ -1263,7 +1172,7 @@
     "о́н ва́ш оте́ц"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000589",
@@ -1273,10 +1182,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mat"
   ],
@@ -1292,7 +1198,7 @@
     "мать"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000590",
@@ -1302,10 +1208,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_papa",
    "w_zdes"
@@ -1327,7 +1230,7 @@
     "па́па зде́сь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000591",
@@ -1337,10 +1240,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_brat"
   ],
@@ -1356,7 +1256,7 @@
     "брат"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000592",
@@ -1366,10 +1266,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_otets"
@@ -1380,7 +1277,7 @@
   "payload": {
    "type": "dictation",
    "text": "Вы́ оте́ц?",
-   "translation_it": "Siete padre?",
+   "translation_it": "Lei è padre?",
    "accepted": [
     "Вы́ оте́ц?",
     "Вы́ оте́ц",
@@ -1391,7 +1288,8 @@
     "вы́ оте́ц"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: in attesa fix frase s_12783171"
  },
  {
   "id": "e_000593",
@@ -1401,10 +1299,7 @@
   "topics": [
    "famiglia"
   ],
-  "grammar_tags": [
-   "family",
-   "nouns-nominative"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sestra"
   ],
@@ -1420,6 +1315,6 @@
     "сестра"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  }
 ]

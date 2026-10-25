@@ -7,11 +7,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vysokiy"
   ],
@@ -27,7 +23,7 @@
     "alto"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001660",
@@ -38,11 +34,7 @@
    "concetti",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zhizn",
    "w_korotkiy"
@@ -65,7 +57,7 @@
     "la vita e breve"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001661",
@@ -75,11 +67,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dlinnyy"
   ],
@@ -98,7 +86,7 @@
     "долгий"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001662",
@@ -108,11 +96,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ulitsa",
    "w_pustoy"
@@ -135,7 +119,7 @@
     "у́лицы пусты́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001663",
@@ -145,11 +129,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_korotkiy"
   ],
@@ -166,7 +146,7 @@
     "breve"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001664",
@@ -178,11 +158,7 @@
    "cibo-bevande",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_etot",
    "w_chashka",
@@ -206,7 +182,7 @@
     "questa tazza e vuota"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001665",
@@ -216,11 +192,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tyazhyolyy"
   ],
@@ -237,7 +209,7 @@
     "тяжелый"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001666",
@@ -275,7 +247,8 @@
     "она́ чи́стая"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: \"È pulita.\" ambiguo"
  },
  {
   "id": "e_001667",
@@ -285,11 +258,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pustoy"
   ],
@@ -305,7 +274,7 @@
     "vuoto"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001668",
@@ -337,7 +306,8 @@
    ],
    "hint_it": "vuoto: concorda con «case» (plurale)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001669",
@@ -347,11 +317,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on"
   ],
@@ -366,11 +332,16 @@
     "О́н",
     "Он",
     "он",
-    "о́н"
+    "о́н",
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
    ],
    "hint_it": "È pulito."
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: Он/Оно/Это"
  },
  {
   "id": "e_001670",
@@ -402,7 +373,8 @@
    ],
    "hint_it": "corto: concorda con «vino» (neutro)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001671",
@@ -412,11 +384,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chistyy"
   ],
@@ -433,7 +401,7 @@
    ],
    "hint_it": "È pulito."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001672",
@@ -465,7 +433,8 @@
    ],
    "hint_it": "leggero: concorda con «acqua» (femminile)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001673",
@@ -475,11 +444,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_etot"
   ],
@@ -498,7 +463,7 @@
    ],
    "hint_it": "Questa tazza è vuota."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001674",
@@ -530,7 +495,8 @@
    ],
    "hint_it": "pulito: concorda con «vino» (neutro)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001675",
@@ -540,11 +506,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona"
   ],
@@ -559,11 +521,16 @@
     "Она́",
     "Она",
     "она",
-    "она́"
+    "она́",
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
    ],
    "hint_it": "È pulita."
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: Она/Это"
  },
  {
   "id": "e_001676",
@@ -596,7 +563,8 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001677",
@@ -607,11 +575,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_chistyy"
@@ -623,14 +587,15 @@
    "type": "multiple_choice",
    "question": "Э́то чи́стое.",
    "options": [
-    "Questa è l'ultima.",
-    "Questo è un tavolo.",
+    "Questo è nuovo?",
+    "Sei tu.",
     "Questo è pulito.",
-    "È pulito."
+    "È una famiglia?"
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: \"È pulito.\" e' traduzione valida di \"Это чистое\""
  },
  {
   "id": "e_001678",
@@ -640,11 +605,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_shirokiy"
   ],
@@ -655,10 +616,10 @@
    "type": "multiple_choice",
    "question": "Che cosa significa «широ́кий»?",
    "options": [
-    "scorso",
+    "rumoroso",
     "largo",
-    "cattivo",
-    "corto"
+    "grande",
+    "piccolo"
    ],
    "correct": 1
   },
@@ -674,11 +635,7 @@
    "cibo-bevande",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_etot",
    "w_chashka",
@@ -691,8 +648,8 @@
    "type": "multiple_choice",
    "question": "Questa tazza è vuota.",
    "options": [
-    "Э́та крова́ть тяжёлая.",
-    "Э́тот паке́т для ва́с.",
+    "Э́ти не дешёвые.",
+    "Твоя́ ча́шка на столе́.",
     "Э́та ча́шка пуста́я.",
     "Э́тот ча́й вку́сный."
    ],
@@ -708,11 +665,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_shirokiy"
   ],
@@ -723,9 +676,9 @@
    "type": "multiple_choice",
    "question": "Come si dice «largo» in russo?",
    "options": [
-    "кра́сный",
+    "у́мный",
+    "тру́дный",
     "после́дний",
-    "дешёвый",
     "широ́кий"
    ],
    "correct": 3
@@ -763,7 +716,8 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001682",
@@ -774,11 +728,7 @@
    "avverbi",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_slishkom",
    "w_korotkiy"
@@ -791,9 +741,9 @@
    "question": "Сли́шком коро́ткий.",
    "options": [
     "È troppo forte.",
-    "È troppo caldo.",
+    "Questo è troppo!",
     "È troppo corto.",
-    "Questo è troppo!"
+    "È troppo caldo."
    ],
    "correct": 2
   },
@@ -807,11 +757,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_polnyy"
   ],
@@ -822,12 +768,12 @@
    "type": "multiple_choice",
    "question": "Che cosa significa «по́лный»?",
    "options": [
-    "scuro",
-    "pulito",
-    "prossimo",
-    "pieno"
+    "lento",
+    "pieno",
+    "necessario",
+    "prossimo"
    ],
-   "correct": 3
+   "correct": 1
   },
   "qa_status": "pending"
  },
@@ -839,11 +785,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_polnyy",
    "w_tyazhyolyy",
@@ -874,7 +816,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001685",
@@ -886,11 +828,7 @@
    "grammatica",
    "azioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_chistyy",
@@ -922,7 +860,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001686",
@@ -933,11 +871,7 @@
    "descrizioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chistyy",
    "w_polnyy",
@@ -978,7 +912,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001687",
@@ -988,11 +922,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chistyy",
    "w_vysokiy",
@@ -1023,7 +953,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001688",
@@ -1035,11 +965,7 @@
    "avverbi",
    "concetti"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_slishkom",
    "w_korotkiy",
@@ -1071,7 +997,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001689",
@@ -1128,7 +1054,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001690",
@@ -1138,11 +1065,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pustoy",
    "w_tyazhyolyy",
@@ -1178,7 +1101,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001691",
@@ -1189,11 +1112,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_chistyy"
@@ -1215,7 +1134,7 @@
     "о́н чи́стый"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001692",
@@ -1225,11 +1144,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chistyy"
   ],
@@ -1245,7 +1160,7 @@
     "чистый"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001693",
@@ -1255,11 +1170,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_voda",
    "w_chistyy"
@@ -1281,7 +1192,7 @@
     "вода́ чи́стая"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001694",
@@ -1291,11 +1202,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_polnyy"
   ],
@@ -1311,7 +1218,7 @@
     "полный"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001695",
@@ -1321,11 +1228,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_papa",
    "w_vysokiy"
@@ -1347,7 +1250,7 @@
     "па́па высо́кий"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001696",
@@ -1357,11 +1260,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vysokiy"
   ],
@@ -1377,7 +1276,7 @@
     "высокий"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001697",
@@ -1388,11 +1287,7 @@
    "avverbi",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_slishkom",
    "w_korotkiy"
@@ -1414,7 +1309,7 @@
     "сли́шком коро́ткий"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001698",
@@ -1424,11 +1319,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "adjectives",
-   "antonyms",
-   "short-adjectives"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pustoy"
   ],
@@ -1442,6 +1333,260 @@
    "accepted": [
     "пусто́й",
     "пустой"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002113",
+  "type": "translate",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_shirokiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "широ́кий",
+   "answer": "largo",
+   "accepted": [
+    "largo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002114",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_korotkiy",
+   "w_den"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ де́нь.",
+   "answer": "коро́ткий",
+   "accepted": [
+    "коро́ткий",
+    "короткий"
+   ],
+   "hint_it": "corto: concorda con «де́нь» (giorno, maschile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002115",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "avverbi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_slishkom"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ коро́ткая.",
+   "answer": "Сли́шком",
+   "accepted": [
+    "Сли́шком",
+    "Слишком",
+    "слишком",
+    "сли́шком"
+   ],
+   "hint_it": "È troppo corta."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002116",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_vysokiy",
+   "w_dom"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ до́м.",
+   "answer": "высо́кий",
+   "accepted": [
+    "высо́кий",
+    "высокий"
+   ],
+   "hint_it": "alto: concorda con «до́м» (casa, maschile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002117",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_eto"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ чи́стое.",
+   "answer": "Э́то",
+   "accepted": [
+    "Э́то",
+    "Это",
+    "это",
+    "э́то"
+   ],
+   "hint_it": "Questo è pulito."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002118",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "descrizioni",
+   "cibo-bevande"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_polnyy",
+   "w_chashka"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «по́лный» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ ча́шка. — pieno: concorda con «ча́шка» (tazza, femminile).",
+   "options": [
+    "по́лный",
+    "по́лная",
+    "по́лные",
+    "по́лное"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002119",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "societa",
+   "azioni",
+   "descrizioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_ochered",
+   "w_byt",
+   "w_dlinnyy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 16,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "О́чередь была́ дли́нной.",
+   "options": [
+    "Di notte c'è stata neve.",
+    "La coda era lunga.",
+    "Ieri era domenica.",
+    "Ieri era mercoledì."
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002120",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_pustoy",
+   "w_lyogkiy",
+   "w_dlinnyy",
+   "w_korotkiy",
+   "w_vysokiy"
+  ],
+  "lesson": "l_a2_08",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "пусто́й",
+     "it": "vuoto"
+    },
+    {
+     "ru": "лёгкий",
+     "it": "leggero"
+    },
+    {
+     "ru": "дли́нный",
+     "it": "lungo"
+    },
+    {
+     "ru": "коро́ткий",
+     "it": "corto"
+    },
+    {
+     "ru": "высо́кий",
+     "it": "alto"
+    }
    ]
   },
   "qa_status": "pending"

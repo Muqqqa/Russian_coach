@@ -7,11 +7,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stena"
   ],
@@ -25,10 +21,6 @@
    "answer": "parete",
    "accepted": [
     "parete",
-    "il parete",
-    "un parete",
-    "la parete",
-    "una parete",
     "muro",
     "il muro",
     "un muro"
@@ -45,11 +37,7 @@
    "casa",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_okno",
    "w_gryaznyy"
@@ -72,7 +60,7 @@
     "la finestra e sporca"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001741",
@@ -82,11 +70,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ugol"
   ],
@@ -103,7 +87,7 @@
     "угол"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001742",
@@ -114,11 +98,7 @@
    "casa",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_okno",
    "w_gryaznyy"
@@ -141,7 +121,7 @@
     "окно́ гря́зное"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001743",
@@ -151,11 +131,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kvartira"
   ],
@@ -173,7 +149,7 @@
     "un appartamento"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001744",
@@ -184,11 +160,7 @@
    "casa",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dvor",
    "w_bystryy"
@@ -208,7 +180,7 @@
     "dal cortile si fa prima."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001745",
@@ -218,11 +190,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dvor"
   ],
@@ -239,7 +207,7 @@
     "двор"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001746",
@@ -250,11 +218,7 @@
    "movimento",
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_poyti",
    "w_dvor"
@@ -279,7 +243,7 @@
     "пойдем дворами"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001747",
@@ -289,11 +253,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zal"
   ],
@@ -311,7 +271,7 @@
     "una sala"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001748",
@@ -322,10 +282,7 @@
    "casa"
   ],
   "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u",
-   "prepositional-case"
+   "locative-u"
   ],
   "words": [
    "w_pol"
@@ -343,7 +300,7 @@
    ],
    "hint_it": "Il gatto è sul pavimento."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001749",
@@ -353,11 +310,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_shkola"
   ],
@@ -374,7 +327,7 @@
    ],
    "hint_it": "State andando a scuola?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001750",
@@ -406,7 +359,8 @@
    ],
    "hint_it": "La mamma è nel cortile."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: \"на дворе\" = all'aperto; per \"nel cortile\" serve \"во дворе\""
  },
  {
   "id": "e_001751",
@@ -416,11 +370,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bystryy"
   ],
@@ -437,7 +387,7 @@
    ],
    "hint_it": "Dal cortile si fa prima."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001752",
@@ -448,10 +398,7 @@
    "casa"
   ],
   "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u",
-   "prepositional-case"
+   "locative-u"
   ],
   "words": [
    "w_kvartira"
@@ -469,7 +416,7 @@
    ],
    "hint_it": "Sono in appartamento."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001753",
@@ -479,11 +426,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kvartira"
   ],
@@ -500,7 +443,7 @@
    ],
    "hint_it": "Questo è il mio appartamento."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001754",
@@ -511,10 +454,7 @@
    "casa"
   ],
   "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u",
-   "prepositional-case"
+   "locative-u"
   ],
   "words": [
    "w_zal"
@@ -532,7 +472,7 @@
    ],
    "hint_it": "Sono nella sala."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001755",
@@ -542,11 +482,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on"
   ],
@@ -565,7 +501,7 @@
    ],
    "hint_it": "Lui è a scuola."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001756",
@@ -576,10 +512,7 @@
    "casa"
   ],
   "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u",
-   "prepositional-case"
+   "locative-u"
   ],
   "words": [
    "w_kabinet"
@@ -598,7 +531,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001757",
@@ -609,11 +542,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_v",
@@ -626,7 +555,7 @@
    "type": "multiple_choice",
    "question": "О́н в шко́ле.",
    "options": [
-    "L'ho comprato.",
+    "Lui se n'è andato per ultimo.",
     "Lui è a scuola.",
     "Con cosa sta scrivendo?",
     "Qual è il problema?"
@@ -643,11 +572,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ugol"
   ],
@@ -658,12 +583,12 @@
    "type": "multiple_choice",
    "question": "Che cosa significa «у́гол»?",
    "options": [
-    "stanza",
-    "cosa",
-    "ciao",
-    "angolo"
+    "angolo",
+    "menù",
+    "dottore",
+    "mamma"
    ],
-   "correct": 3
+   "correct": 0
   },
   "qa_status": "pending"
  },
@@ -676,9 +601,6 @@
    "casa"
   ],
   "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u",
    "gender"
   ],
   "words": [
@@ -697,7 +619,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001760",
@@ -708,11 +630,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_v",
@@ -725,10 +643,10 @@
    "type": "multiple_choice",
    "question": "State andando a scuola?",
    "options": [
-    "В ко́мнате жа́рко.",
-    "Ва́м туда́ нельзя́.",
+    "Вы́ на рабо́те?",
+    "Посмотри́ в окно́.",
     "Вы́ в шко́лу?",
-    "Ка́к вы́, па́рни?"
+    "В ко́мнате жа́рко."
    ],
    "correct": 2
   },
@@ -742,11 +660,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ugol"
   ],
@@ -758,8 +672,8 @@
    "question": "Come si dice «angolo» in russo?",
    "options": [
     "у́гол",
-    "по́л",
-    "клу́б",
+    "вто́рник",
+    "оте́ц",
     "дере́вня"
    ],
    "correct": 0
@@ -775,10 +689,7 @@
    "casa"
   ],
   "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u",
-   "prepositional-case"
+   "locative-u"
   ],
   "words": [
    "w_koridor"
@@ -797,7 +708,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001763",
@@ -808,11 +719,7 @@
    "casa",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_okno",
    "w_gryaznyy"
@@ -824,8 +731,8 @@
    "type": "multiple_choice",
    "question": "Окно́ гря́зное.",
    "options": [
-    "Siete sporco.",
-    "Guarda fuori dalla finestra.",
+    "Siete sporchi.",
+    "Sei sporco.",
     "La finestra è sporca.",
     "Il tavolo è sporco?"
    ],
@@ -841,11 +748,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_okno",
    "w_kabinet",
@@ -881,7 +784,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001765",
@@ -893,11 +796,7 @@
    "azioni",
    "direzioni"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_posmotret",
    "w_v",
@@ -930,7 +829,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001766",
@@ -986,7 +885,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001767",
@@ -996,11 +896,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stena",
    "w_shkola",
@@ -1031,7 +927,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001768",
@@ -1043,11 +939,7 @@
    "direzioni",
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_v",
@@ -1079,7 +971,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001769",
@@ -1091,11 +983,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dvor",
    "w_zal",
@@ -1136,7 +1024,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001770",
@@ -1146,11 +1034,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ugol",
    "w_dvor",
@@ -1186,7 +1070,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001771",
@@ -1197,11 +1081,7 @@
    "avverbi",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kak",
    "w_novyy",
@@ -1224,7 +1104,7 @@
     "ка́к но́вая кварти́ра"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001772",
@@ -1234,11 +1114,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_dvor"
   ],
@@ -1254,7 +1130,7 @@
     "двор"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001773",
@@ -1266,11 +1142,7 @@
    "azioni",
    "direzioni"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_sidet",
@@ -1294,7 +1166,7 @@
     "я́ сиде́л в углу́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001774",
@@ -1304,11 +1176,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stena"
   ],
@@ -1324,7 +1192,7 @@
     "стена"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001775",
@@ -1335,11 +1203,7 @@
    "casa",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_okno",
    "w_gryaznyy"
@@ -1361,7 +1225,7 @@
     "окно́ гря́зное"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001776",
@@ -1371,11 +1235,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ugol"
   ],
@@ -1391,7 +1251,7 @@
     "угол"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001777",
@@ -1402,11 +1262,7 @@
    "movimento",
    "direzioni"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_srazu",
    "w_posle",
@@ -1431,7 +1287,7 @@
     "сра́зу по́сле шко́лы иди́те домо́й"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001778",
@@ -1441,11 +1297,7 @@
   "topics": [
    "casa"
   ],
-  "grammar_tags": [
-   "home",
-   "locations",
-   "locative-u"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_shkola"
   ],
@@ -1459,6 +1311,86 @@
    "accepted": [
     "шко́ла",
     "школа"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002125",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [
+   "locative-u"
+  ],
+  "words": [
+   "w_dvor"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Ма́ма во ___.",
+   "answer": "дворе́",
+   "accepted": [
+    "дворе́",
+    "дворе"
+   ],
+   "hint_it": "La mamma è nel cortile."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002126",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_dvor",
+   "w_okno",
+   "w_ugol",
+   "w_kabinet",
+   "w_pol",
+   "w_zal"
+  ],
+  "lesson": "l_a2_10",
+  "est_seconds": 42,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "дво́р",
+     "it": "cortile"
+    },
+    {
+     "ru": "окно́",
+     "it": "finestra"
+    },
+    {
+     "ru": "у́гол",
+     "it": "angolo"
+    },
+    {
+     "ru": "кабине́т",
+     "it": "studio"
+    },
+    {
+     "ru": "по́л",
+     "it": "pavimento"
+    },
+    {
+     "ru": "за́л",
+     "it": "sala"
+    }
    ]
   },
   "qa_status": "pending"

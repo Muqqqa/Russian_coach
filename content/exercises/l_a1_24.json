@@ -7,11 +7,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_posledniy"
   ],
@@ -27,7 +23,7 @@
     "ultimo"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001322",
@@ -38,11 +34,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_sleduyushchiy"
@@ -54,19 +46,30 @@
    "type": "translate",
    "direction": "ru_it",
    "source": "Вы́ сле́дующая.",
-   "answer": "Siete la prossima.",
+   "answer": "Lei è la prossima.",
    "accepted": [
+    "Lei è la prossima.",
+    "Lei è la prossima",
+    "lei è la prossima",
+    "lei è la prossima.",
+    "Lei e' la prossima.",
+    "lei e' la prossima",
+    "lei e la prossima",
     "Siete la prossima.",
     "Siete la prossima",
     "siete la prossima",
     "siete la prossima.",
-    "Voi siete la prossima.",
-    "Voi siete la prossima",
-    "voi siete la prossima",
-    "voi siete la prossima."
+    "Voi lei è la prossima.",
+    "Voi lei è la prossima",
+    "voi lei è la prossima",
+    "voi lei è la prossima.",
+    "Voi lei e' la prossima.",
+    "voi lei e' la prossima",
+    "voi lei e la prossima"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: in attesa fix frase s_5885623"
  },
  {
   "id": "e_001323",
@@ -76,11 +79,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sleduyushchiy"
   ],
@@ -97,7 +96,7 @@
     "следующий"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001324",
@@ -108,11 +107,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona",
    "w_gde_to",
@@ -136,7 +131,7 @@
     "она́ где́-то зде́сь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001325",
@@ -146,11 +141,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto_to"
   ],
@@ -166,7 +157,7 @@
     "qualcosa"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001326",
@@ -177,11 +168,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni",
    "w_vezde"
@@ -205,7 +192,7 @@
     "loro sono dappertutto!"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001327",
@@ -215,11 +202,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nado"
   ],
@@ -236,7 +219,7 @@
     "надо"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001328",
@@ -273,7 +256,8 @@
     "ты́ пе́рвая"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001329",
@@ -283,11 +267,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kto_to"
   ],
@@ -303,7 +283,7 @@
     "qualcuno"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001330",
@@ -335,7 +315,8 @@
    ],
    "hint_it": "prossimo: concorda con «case» (plurale)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001331",
@@ -345,11 +326,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on"
   ],
@@ -368,7 +345,7 @@
    ],
    "hint_it": "Lui è qui da qualche parte."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001332",
@@ -400,7 +377,8 @@
    ],
    "hint_it": "ultimo: concorda con «acqua» (femminile)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001333",
@@ -410,11 +388,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty"
   ],
@@ -433,7 +407,7 @@
    ],
    "hint_it": "Sei la prima."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001334",
@@ -465,7 +439,8 @@
    ],
    "hint_it": "scorso: concorda con «case» (plurale)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001335",
@@ -475,11 +450,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tak"
   ],
@@ -496,7 +467,7 @@
    ],
    "hint_it": "Pressapoco così."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001336",
@@ -508,11 +479,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pervyy"
   ],
@@ -529,7 +496,7 @@
    ],
    "hint_it": "Sei la prima."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001337",
@@ -539,11 +506,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gde_to"
   ],
@@ -560,7 +523,7 @@
    ],
    "hint_it": "Lei è qui da qualche parte."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001338",
@@ -593,7 +556,8 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001339",
@@ -604,11 +568,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_gde_to",
@@ -622,9 +582,9 @@
    "question": "О́н где́-то зде́сь.",
    "options": [
     "Lui è qui da qualche parte.",
-    "Queste sono le sue cose.",
-    "Come è bello qui!",
-    "Lui non è una macchina."
+    "L'ho comprato.",
+    "Lui mi sta insegnando.",
+    "Queste sono le sue cose."
    ],
    "correct": 0
   },
@@ -640,11 +600,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pervyy"
   ],
@@ -662,7 +618,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001341",
@@ -670,13 +626,10 @@
   "level": "a1",
   "difficulty": 3,
   "topics": [
-   "avverbi"
+   "avverbi",
+   "movimento"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mozhno",
    "w_voyti"
@@ -690,8 +643,8 @@
    "options": [
     "Я́ вошёл.",
     "Мо́жно войти́?",
-    "Мо́жно мне́ три́?",
-    "Пожа́луйста, войди́те!"
+    "Пожа́луйста, войди́те!",
+    "Мо́жно мне́ три́?"
    ],
    "correct": 1
   },
@@ -705,11 +658,7 @@
   "topics": [
    "direzioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vezde"
   ],
@@ -727,7 +676,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001343",
@@ -760,7 +709,8 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001344",
@@ -771,11 +721,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni",
    "w_vezde"
@@ -787,10 +733,10 @@
    "type": "multiple_choice",
    "question": "Они́ везде́.",
    "options": [
-    "Come stanno?",
+    "Sono qui.",
     "Loro stanno cucinando.",
     "Loro sono dappertutto.",
-    "Sono qui."
+    "Come stanno?"
    ],
    "correct": 2
   },
@@ -804,11 +750,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto_to"
   ],
@@ -826,7 +768,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001346",
@@ -838,11 +780,7 @@
    "grammatica",
    "avverbi"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kto_to",
    "w_sleduyushchiy",
@@ -878,7 +816,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001347",
@@ -890,11 +828,7 @@
    "descrizioni",
    "movimento"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_pervyy",
@@ -911,7 +845,7 @@
    "pairs": [
     {
      "ru": "Я́ пе́рвая.",
-     "it": "Sono prima."
+     "it": "Sono la prima."
     },
     {
      "ru": "Про́шлой но́чью шёл сне́г.",
@@ -923,11 +857,12 @@
     },
     {
      "ru": "Вы́ сле́дующий.",
-     "it": "Siete il prossimo."
+     "it": "Lei è il prossimo."
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: in attesa fix frase s_5885621"
  },
  {
   "id": "e_001348",
@@ -984,7 +919,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001349",
@@ -996,11 +932,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vezde",
    "w_gde_to",
@@ -1031,7 +963,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001350",
@@ -1043,11 +975,7 @@
    "descrizioni",
    "azioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_posledniy",
@@ -1080,7 +1008,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001351",
@@ -1092,11 +1020,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_posledniy",
    "w_sleduyushchiy",
@@ -1137,7 +1061,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001352",
@@ -1148,11 +1072,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto_to",
    "w_gde_to",
@@ -1183,7 +1103,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001353",
@@ -1194,11 +1114,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_on",
    "w_gde_to",
@@ -1221,7 +1137,7 @@
     "о́н где́-то зде́сь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001354",
@@ -1231,11 +1147,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_kto_to"
   ],
@@ -1251,7 +1163,7 @@
     "кто-то"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001355",
@@ -1262,11 +1174,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_sleduyushchiy"
@@ -1277,7 +1185,7 @@
   "payload": {
    "type": "dictation",
    "text": "Вы́ сле́дующая.",
-   "translation_it": "Siete la prossima.",
+   "translation_it": "Lei è la prossima.",
    "accepted": [
     "Вы́ сле́дующая.",
     "Вы́ сле́дующая",
@@ -1288,7 +1196,8 @@
     "вы́ сле́дующая"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: in attesa fix frase s_5885623"
  },
  {
   "id": "e_001356",
@@ -1298,11 +1207,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_proshlyy"
   ],
@@ -1318,7 +1223,7 @@
     "прошлый"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001357",
@@ -1329,11 +1234,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_oni",
    "w_vezde"
@@ -1355,7 +1256,7 @@
     "они́ везде́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001358",
@@ -1365,11 +1266,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nado"
   ],
@@ -1385,7 +1282,7 @@
     "надо"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001359",
@@ -1396,11 +1293,7 @@
    "grammatica",
    "descrizioni"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_sleduyushchiy"
@@ -1422,7 +1315,7 @@
     "ты́ сле́дующая"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001360",
@@ -1432,11 +1325,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "modal-nado",
-   "ordinals",
-   "indefinite-to"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto_to"
   ],
@@ -1450,6 +1339,233 @@
    "accepted": [
     "что́-то",
     "что-то"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002075",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_sleduyushchiy"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "сле́дующий",
+   "answer": "prossimo",
+   "accepted": [
+    "prossimo",
+    "successivo"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002076",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_proshlyy",
+   "w_nedelya"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ неде́ля.",
+   "answer": "про́шлая",
+   "accepted": [
+    "про́шлая",
+    "прошлая"
+   ],
+   "hint_it": "scorso: concorda con «неде́ля» (settimana, femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002077",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_gde_to"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "___ та́к.",
+   "answer": "Где́-то",
+   "accepted": [
+    "Где́-то",
+    "Где-то",
+    "где-то",
+    "где́-то"
+   ],
+   "hint_it": "Pressapoco così."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002078",
+  "type": "cloze",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni",
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_pervyy",
+   "w_den"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ де́нь.",
+   "answer": "пе́рвый",
+   "accepted": [
+    "пе́рвый",
+    "первый"
+   ],
+   "hint_it": "primo: concorda con «де́нь» (giorno, maschile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002079",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "descrizioni"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_sleduyushchiy",
+   "w_nedelya"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «сле́дующий» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ неде́ля. — prossimo: concorda con «неде́ля» (settimana, femminile).",
+   "options": [
+    "сле́дующая",
+    "сле́дующий",
+    "сле́дующее",
+    "сле́дующие"
+   ],
+   "correct": 0
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002080",
+  "type": "multiple_choice",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_gde_to",
+   "w_tak"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Где́-то та́к.",
+   "options": [
+    "Così va meglio?",
+    "E allora?",
+    "È così.",
+    "Pressapoco così."
+   ],
+   "correct": 3
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002081",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "descrizioni",
+   "avverbi",
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_nado",
+   "w_posledniy",
+   "w_pervyy",
+   "w_proshlyy",
+   "w_kto_to"
+  ],
+  "lesson": "l_a1_24",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "на́до",
+     "it": "bisogna"
+    },
+    {
+     "ru": "после́дний",
+     "it": "ultimo"
+    },
+    {
+     "ru": "пе́рвый",
+     "it": "primo"
+    },
+    {
+     "ru": "про́шлый",
+     "it": "scorso"
+    },
+    {
+     "ru": "кто́-то",
+     "it": "qualcuno"
+    }
    ]
   },
   "qa_status": "pending"

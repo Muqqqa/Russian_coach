@@ -7,11 +7,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ostanovit"
   ],
@@ -27,7 +23,7 @@
     "fermare"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001171",
@@ -35,13 +31,10 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "trasporti"
+   "trasporti",
+   "descrizioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vkhod",
    "w_svobodnyy"
@@ -61,7 +54,7 @@
     "ingresso libero."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001172",
@@ -71,11 +64,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vyyti"
   ],
@@ -92,7 +81,7 @@
     "выйти"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001173",
@@ -130,7 +119,8 @@
     "где́ вхо́д"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001174",
@@ -142,11 +132,7 @@
    "movimento",
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_avtobus"
   ],
@@ -164,7 +150,7 @@
     "un autobus"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001175",
@@ -176,11 +162,7 @@
    "mente",
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vy",
    "w_nichto",
@@ -206,7 +188,7 @@
     "niente puo fermarvi"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001176",
@@ -216,11 +198,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ostanovit"
   ],
@@ -237,7 +215,7 @@
     "остановить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001177",
@@ -279,7 +257,8 @@
     "мне ее не остановить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: costruzione dativa B1, nessuno la produrrebbe; «Мне её не остановить» (B1) in a1_20"
  },
  {
   "id": "e_001178",
@@ -291,11 +270,7 @@
    "movimento",
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_metro"
   ],
@@ -313,7 +288,7 @@
     "una metropolitana"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001179",
@@ -323,12 +298,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vyyti"
   ],
@@ -345,7 +315,7 @@
    ],
    "hint_it": "uscire: voi (domani)"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001180",
@@ -357,11 +327,7 @@
    "movimento",
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_solntse"
   ],
@@ -378,7 +344,7 @@
    ],
    "hint_it": "È uscito il sole."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001181",
@@ -391,10 +357,7 @@
    "azioni"
   ],
   "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix",
-   "prepositional-case"
+   "prepositional-transport"
   ],
   "words": [
    "w_mashina"
@@ -412,7 +375,7 @@
    ],
    "hint_it": "Andiamo in macchina."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001182",
@@ -422,11 +385,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ostanovit"
   ],
@@ -443,7 +402,7 @@
    ],
    "hint_it": "Non mi fermerà."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001183",
@@ -453,12 +412,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ostanovit"
   ],
@@ -475,7 +429,7 @@
    ],
    "hint_it": "fermare: io (domani)"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001184",
@@ -485,11 +439,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gde"
   ],
@@ -508,7 +458,7 @@
    ],
    "hint_it": "Dov'è l'entrata?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001185",
@@ -520,11 +470,7 @@
    "movimento",
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_avtobus"
   ],
@@ -541,7 +487,7 @@
    ],
    "hint_it": "L'autobus è qui."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001186",
@@ -553,11 +499,7 @@
    "movimento",
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_metro"
   ],
@@ -574,7 +516,7 @@
    ],
    "hint_it": "Lui è andato con la metro."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001187",
@@ -587,10 +529,7 @@
    "azioni"
   ],
   "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix",
-   "prepositional-case"
+   "prepositional-transport"
   ],
   "words": [
    "w_avtobus"
@@ -609,7 +548,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001188",
@@ -617,15 +556,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "trasporti",
-   "movimento",
-   "azioni"
+   "soldi"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mashina",
    "w_dorogoy"
@@ -637,9 +570,9 @@
    "type": "multiple_choice",
    "question": "Маши́ны дороги́е.",
    "options": [
-    "Il cibo è costoso.",
     "Cari amici!",
-    "Sono costosi.",
+    "Che costoso!",
+    "Il cibo è costoso.",
     "Le macchine sono care."
    ],
    "correct": 3
@@ -656,11 +589,7 @@
    "movimento",
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mashina"
   ],
@@ -678,7 +607,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001190",
@@ -691,9 +620,6 @@
    "azioni"
   ],
   "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix",
    "gender"
   ],
   "words": [
@@ -712,7 +638,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001191",
@@ -720,13 +646,10 @@
   "level": "a1",
   "difficulty": 3,
   "topics": [
-   "saluti"
+   "saluti",
+   "movimento"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pozhaluysta",
    "w_voyti"
@@ -738,9 +661,9 @@
    "type": "multiple_choice",
    "question": "Prego, entrate!",
    "options": [
-    "Да, пожа́луйста.",
-    "Мо́жно войти́?",
+    "Два́, пожа́луйста.",
     "Счёт, пожа́луйста!",
+    "Я́ вошёл.",
     "Пожа́луйста, войди́те!"
    ],
    "correct": 3
@@ -757,11 +680,7 @@
    "movimento",
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_avtobus"
   ],
@@ -779,7 +698,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001193",
@@ -787,16 +706,9 @@
   "level": "a1",
   "difficulty": 4,
   "topics": [
-   "trasporti",
-   "movimento",
-   "azioni"
+   "movimento"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix",
-   "future-perfective"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_voyti"
   ],
@@ -814,7 +726,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001194",
@@ -825,11 +737,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_uzhe",
@@ -843,9 +751,9 @@
    "type": "multiple_choice",
    "question": "Я́ уже́ в метро́.",
    "options": [
-    "Mercoledì sono libera.",
+    "Mi fa male la gamba.",
+    "Ho otto fratelli.",
     "Ho tre figli.",
-    "Ho dormito nove ore.",
     "Sono già in metro."
    ],
    "correct": 3
@@ -861,11 +769,7 @@
    "trasporti",
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_metro",
    "w_avtobus",
@@ -896,7 +800,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001196",
@@ -906,13 +810,9 @@
   "topics": [
    "avverbi",
    "grammatica",
-   "trasporti"
+   "movimento"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_voyti",
@@ -945,7 +845,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001197",
@@ -1002,7 +902,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001198",
@@ -1010,14 +911,10 @@
   "level": "a1",
   "difficulty": 3,
   "topics": [
-   "azioni",
-   "movimento"
+   "movimento",
+   "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_avtobus",
    "w_ostanovit",
@@ -1048,7 +945,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001199",
@@ -1056,15 +953,11 @@
   "level": "a1",
   "difficulty": 4,
   "topics": [
+   "soldi",
    "grammatica",
-   "movimento",
-   "direzioni"
+   "movimento"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mashina",
    "w_dorogoy",
@@ -1097,7 +990,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001200",
@@ -1154,7 +1047,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001201",
@@ -1164,11 +1058,7 @@
   "topics": [
    "trasporti"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vykhod",
    "w_eskalator",
@@ -1204,7 +1094,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001202",
@@ -1245,7 +1135,8 @@
     "мне ее не остановить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Мне её не остановить» (B1) in a1_20"
  },
  {
   "id": "e_001203",
@@ -1255,11 +1146,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ostanovit"
   ],
@@ -1275,7 +1162,7 @@
     "остановить"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001204",
@@ -1284,13 +1171,10 @@
   "difficulty": 4,
   "topics": [
    "saluti",
-   "avverbi"
+   "avverbi",
+   "movimento"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_izvinite",
    "w_mozhno",
@@ -1313,7 +1197,7 @@
     "извини́те мо́жно войти́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001205",
@@ -1323,11 +1207,7 @@
   "topics": [
    "trasporti"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vykhod"
   ],
@@ -1343,7 +1223,7 @@
     "выход"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001206",
@@ -1353,11 +1233,7 @@
   "topics": [
    "avverbi"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_gde",
    "w_avtobus"
@@ -1379,7 +1255,7 @@
     "где́ авто́бус"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001207",
@@ -1387,15 +1263,9 @@
   "level": "a1",
   "difficulty": 2,
   "topics": [
-   "trasporti",
-   "movimento",
-   "azioni"
+   "movimento"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_voyti"
   ],
@@ -1411,7 +1281,7 @@
     "войти"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001208",
@@ -1422,11 +1292,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ty",
    "w_ne",
@@ -1449,7 +1315,7 @@
     "ты́ не вы́шла"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001209",
@@ -1461,11 +1327,7 @@
    "movimento",
    "azioni"
   ],
-  "grammar_tags": [
-   "transport",
-   "prepositional-transport",
-   "verbs-prefix"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_mashina"
   ],
@@ -1479,6 +1341,190 @@
    "accepted": [
     "маши́на",
     "машина"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002064",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "trasporti"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_vkhod"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "вхо́д",
+   "answer": "entrata",
+   "accepted": [
+    "entrata",
+    "l'entrata",
+    "un'entrata"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002065",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "saluti",
+   "movimento"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_pozhaluysta",
+   "w_voyti"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 14,
+  "prompt_it": "Traduci in italiano la frase russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "Пожа́луйста, войди́те!",
+   "answer": "Prego, entrate!",
+   "accepted": [
+    "Prego, entrate!",
+    "Prego entrate",
+    "prego entrate",
+    "prego, entrate!"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002066",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "movimento",
+   "trasporti"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_vyyti",
+   "w_vykhod",
+   "w_mashina",
+   "w_voyti",
+   "w_eskalator"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "вы́йти",
+     "it": "uscire"
+    },
+    {
+     "ru": "вы́ход",
+     "it": "uscita"
+    },
+    {
+     "ru": "маши́на",
+     "it": "macchina"
+    },
+    {
+     "ru": "войти́",
+     "it": "entrare"
+    },
+    {
+     "ru": "эскала́тор",
+     "it": "scala mobile"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002067",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "avverbi",
+   "direzioni",
+   "soldi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_gde",
+   "w_avtobus",
+   "w_na",
+   "w_deshyovyy",
+   "w_vkhod"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Где́ авто́бус?",
+     "it": "Dov'è l'autobus?"
+    },
+    {
+     "ru": "На авто́бусе деше́вле.",
+     "it": "In autobus è più economico."
+    },
+    {
+     "ru": "Вхо́д свобо́дный.",
+     "it": "Ingresso libero."
+    },
+    {
+     "ru": "Где́ вхо́д?",
+     "it": "Dov'è l'entrata?"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002068",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "movimento"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_nichego",
+   "w_ne",
+   "w_vyyti"
+  ],
+  "lesson": "l_a1_20",
+  "est_seconds": 22,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Ничего́ не вы́йдет.",
+   "translation_it": "Non funzionerà.",
+   "accepted": [
+    "Ничего́ не вы́йдет.",
+    "Ничего́ не вы́йдет",
+    "Ничего не выйдет.",
+    "Ничего не выйдет",
+    "ничего не выйдет.",
+    "ничего не выйдет",
+    "ничего́ не вы́йдет"
    ]
   },
   "qa_status": "pending"

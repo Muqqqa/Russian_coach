@@ -7,11 +7,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_litso"
   ],
@@ -28,8 +24,8 @@
     "il viso",
     "un viso",
     "faccia",
-    "la faccia",
-    "una faccia"
+    "il faccia",
+    "un faccia"
    ]
   },
   "qa_status": "pending"
@@ -42,11 +38,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_lyubit",
    "w_koshka"
@@ -66,7 +58,7 @@
     "amo i gatti."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000958",
@@ -76,11 +68,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ruka"
   ],
@@ -97,7 +85,7 @@
     "рука"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000959",
@@ -108,11 +96,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u",
    "w_my",
@@ -136,7 +120,7 @@
     "у на́с ко́шки"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000960",
@@ -146,11 +130,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sobaka"
   ],
@@ -165,9 +145,7 @@
    "accepted": [
     "cane",
     "il cane",
-    "un cane",
-    "la cane",
-    "una cane"
+    "un cane"
    ]
   },
   "qa_status": "pending"
@@ -180,11 +158,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sobaka",
    "w_golodnyy"
@@ -204,7 +178,7 @@
     "il cane ha fame."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000962",
@@ -214,11 +188,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_koshka"
   ],
@@ -235,7 +205,7 @@
     "кошка"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000963",
@@ -245,11 +215,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_glaz"
@@ -272,7 +238,7 @@
     "э́то гла́з"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000964",
@@ -283,10 +249,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate",
-   "accusative"
+   "accusative-animate"
   ],
   "words": [
    "w_koshka"
@@ -304,7 +267,7 @@
    ],
    "hint_it": "Vedo una gatta."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000965",
@@ -314,11 +277,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto"
   ],
@@ -337,7 +296,7 @@
    ],
    "hint_it": "Che ti è successo alla faccia?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000966",
@@ -348,10 +307,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate",
-   "accusative"
+   "accusative-animate"
   ],
   "words": [
    "w_sobaka"
@@ -369,7 +325,7 @@
    ],
    "hint_it": "Lei ama il cane."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000967",
@@ -379,11 +335,7 @@
   "topics": [
    "descrizioni"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_golodnyy"
   ],
@@ -400,7 +352,7 @@
    ],
    "hint_it": "Il cane ha fame."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000968",
@@ -411,10 +363,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate",
-   "accusative"
+   "accusative-animate"
   ],
   "words": [
    "w_sobaka"
@@ -432,7 +381,7 @@
    ],
    "hint_it": "Vediamo il cane."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000969",
@@ -442,11 +391,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sobaka"
   ],
@@ -465,7 +410,7 @@
    ],
    "hint_it": "Il cane ha fame."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000970",
@@ -476,10 +421,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate",
-   "accusative"
+   "accusative-animate"
   ],
   "words": [
    "w_brat"
@@ -497,7 +439,7 @@
    ],
    "hint_it": "Vedo mio fratello."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000971",
@@ -508,10 +450,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate",
-   "accusative"
+   "accusative-animate"
   ],
   "words": [
    "w_golova"
@@ -530,7 +469,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000972",
@@ -539,13 +478,10 @@
   "difficulty": 3,
   "topics": [
    "direzioni",
-   "grammatica"
+   "grammatica",
+   "salute"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u",
    "w_ya",
@@ -559,10 +495,10 @@
    "type": "multiple_choice",
    "question": "У меня́ боли́т нога́.",
    "options": [
-    "Ho dormito nove ore.",
+    "Scusate, sono senza orologio.",
     "Mi fa male la gamba.",
     "Ho sete.",
-    "Dove tengo la testa?"
+    "Oggi è giovedì."
    ],
    "correct": 1
   },
@@ -576,11 +512,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_golova"
   ],
@@ -598,7 +530,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000974",
@@ -609,9 +541,6 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate",
    "gender"
   ],
   "words": [
@@ -630,7 +559,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000975",
@@ -641,11 +570,7 @@
    "direzioni",
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_u",
    "w_my",
@@ -658,10 +583,10 @@
    "type": "multiple_choice",
    "question": "Abbiamo dei gatti.",
    "options": [
-    "Мы́ лю́ди.",
+    "У меня́ во́семь бра́тьев.",
     "У на́с ко́шки.",
-    "Жи́ли мы́ тру́дно.",
-    "Мы́ смо́трим."
+    "Мы́ подру́ги.",
+    "Где́ мы́?"
    ],
    "correct": 1
   },
@@ -675,11 +600,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_litso"
   ],
@@ -697,7 +618,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000977",
@@ -708,10 +629,7 @@
    "grammatica"
   ],
   "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate",
-   "accusative"
+   "accusative-animate"
   ],
   "words": [
    "w_ruka"
@@ -730,7 +648,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000978",
@@ -740,11 +658,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_koshka",
    "w_sobaka",
@@ -775,7 +689,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000979",
@@ -824,7 +738,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000980",
@@ -835,11 +750,7 @@
    "grammatica",
    "direzioni"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_glaz",
    "w_ruka",
@@ -880,7 +791,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000981",
@@ -890,11 +801,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ruka",
    "w_sobaka",
@@ -930,7 +837,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000982",
@@ -978,7 +885,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000983",
@@ -988,11 +896,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ruka",
    "w_litso",
@@ -1033,7 +937,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000984",
@@ -1043,11 +947,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nayti",
    "w_koshka"
@@ -1069,7 +969,7 @@
     "найди́ ко́шку"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000985",
@@ -1079,11 +979,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_litso"
   ],
@@ -1099,7 +995,7 @@
     "лицо"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000986",
@@ -1109,11 +1005,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_sobaka"
@@ -1135,7 +1027,7 @@
     "э́то соба́ка"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000987",
@@ -1145,11 +1037,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_glaz"
   ],
@@ -1165,7 +1053,7 @@
     "глаз"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000988",
@@ -1201,7 +1089,8 @@
     "я́ соба́ка"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: «Я собака» («Sono un cane») semanticamente strana"
  },
  {
   "id": "e_000989",
@@ -1211,11 +1100,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ruka"
   ],
@@ -1231,7 +1116,7 @@
     "рука"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_000990",
@@ -1241,11 +1126,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "body",
-   "animals",
-   "accusative-animate"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_eto",
    "w_koshka"
@@ -1265,6 +1146,122 @@
     "это кошка.",
     "это кошка",
     "э́то ко́шка"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002047",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_litso",
+   "w_glaz",
+   "w_ruka"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "лицо́",
+     "it": "viso"
+    },
+    {
+     "ru": "гла́з",
+     "it": "occhio"
+    },
+    {
+     "ru": "рука́",
+     "it": "mano"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002048",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_u",
+   "w_my",
+   "w_koshka",
+   "w_eto",
+   "w_glaz",
+   "w_lyubit"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "У на́с ко́шки.",
+     "it": "Abbiamo dei gatti."
+    },
+    {
+     "ru": "Э́то гла́з.",
+     "it": "Questo è un occhio."
+    },
+    {
+     "ru": "Люблю́ ко́шек.",
+     "it": "Amo i gatti."
+    },
+    {
+     "ru": "Соба́ка больша́я.",
+     "it": "Il cane è grande."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002049",
+  "type": "dictation",
+  "level": "a1",
+  "difficulty": 4,
+  "topics": [
+   "grammatica",
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_chto",
+   "w_u",
+   "w_ty",
+   "w_s",
+   "w_litso"
+  ],
+  "lesson": "l_a1_14",
+  "est_seconds": 30,
+  "prompt_it": "Ascolta e scrivi la frase in russo.",
+  "payload": {
+   "type": "dictation",
+   "text": "Что́ у тебя́ с лицо́м?",
+   "translation_it": "Che ti è successo alla faccia?",
+   "accepted": [
+    "Что́ у тебя́ с лицо́м?",
+    "Что́ у тебя́ с лицо́м",
+    "Что у тебя с лицом?",
+    "Что у тебя с лицом",
+    "что у тебя с лицом?",
+    "что у тебя с лицом",
+    "что́ у тебя́ с лицо́м"
    ]
   },
   "qa_status": "pending"

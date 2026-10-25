@@ -7,10 +7,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chasto"
   ],
@@ -26,7 +23,7 @@
     "spesso"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001700",
@@ -37,10 +34,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_poyti",
@@ -72,7 +66,7 @@
     "io ci andro domani mattina"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001701",
@@ -82,10 +76,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_opyat"
   ],
@@ -104,7 +95,7 @@
     "снова"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001702",
@@ -114,10 +105,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skoro",
    "w_pyatnitsa"
@@ -140,7 +128,7 @@
     "ско́ро пя́тница"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001703",
@@ -150,10 +138,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skoro"
   ],
@@ -170,7 +155,7 @@
     "fra poco"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001704",
@@ -180,10 +165,7 @@
   "topics": [
    "azioni"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nachat",
    "w_zavtra",
@@ -204,7 +186,7 @@
     "cominceremo domani mattina."
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001705",
@@ -214,10 +196,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_utro"
   ],
@@ -234,7 +213,7 @@
     "утро"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001706",
@@ -246,10 +225,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nakonets",
    "w_on",
@@ -275,7 +251,7 @@
     "наконец он пришел"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001707",
@@ -285,10 +261,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_utro"
   ],
@@ -306,7 +279,7 @@
     "una mattina"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001708",
@@ -316,10 +289,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_my"
   ],
@@ -338,7 +308,7 @@
    ],
    "hint_it": "Ce ne siamo andati immediatamente."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001709",
@@ -348,10 +318,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_priyti"
   ],
@@ -368,7 +335,7 @@
    ],
    "hint_it": "Verrò di sera."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001710",
@@ -378,10 +345,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chelovek"
   ],
@@ -400,7 +364,7 @@
    ],
    "hint_it": "Alla fine la persona se n'è andata."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001711",
@@ -410,10 +374,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pyatnitsa"
   ],
@@ -430,7 +391,7 @@
    ],
    "hint_it": "Presto è venerdì."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001712",
@@ -440,10 +401,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nakonets"
   ],
@@ -460,7 +418,7 @@
    ],
    "hint_it": "Finalmente me ne sono andato."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001713",
@@ -470,10 +428,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nakonets"
   ],
@@ -492,7 +447,7 @@
    ],
    "hint_it": "Alla fine lui arrivò."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001714",
@@ -502,10 +457,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skoro"
   ],
@@ -518,11 +470,14 @@
    "answer": "ско́ро",
    "accepted": [
     "ско́ро",
-    "скоро"
+    "скоро",
+    "сейча́с",
+    "сейчас"
    ],
-   "hint_it": "Sto per andarmene."
+   "hint_it": "Tra poco me ne vado."
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: in attesa fix frase s_1749706; «сейчас» valido, hint condiviso"
  },
  {
   "id": "e_001715",
@@ -552,7 +507,8 @@
    ],
    "hint_it": "Dormo già da un pezzo."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001716",
@@ -562,10 +518,7 @@
   "topics": [
    "movimento"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_srazu",
    "w_ukhodit"
@@ -577,14 +530,15 @@
    "type": "multiple_choice",
    "question": "Сра́зу уходи́.",
    "options": [
-    "Dobbiamo andarcene.",
-    "Semplicemente vattene.",
     "Ora vattene.",
+    "Non andartene!",
+    "Dobbiamo andarcene.",
     "Vattene subito."
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: distrattori \"Ora vattene.\"/\"Vattene subito.\" quasi sinonimi"
  },
  {
   "id": "e_001717",
@@ -594,10 +548,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vecher"
   ],
@@ -615,7 +566,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001718",
@@ -626,8 +577,6 @@
    "tempo"
   ],
   "grammar_tags": [
-   "time-adverbs",
-   "sequence",
    "gender"
   ],
   "words": [
@@ -646,7 +595,7 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001719",
@@ -657,10 +606,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_skoro",
@@ -671,16 +617,17 @@
   "prompt_it": "Scegli la traduzione russa corretta.",
   "payload": {
    "type": "multiple_choice",
-   "question": "Sto per andarmene.",
+   "question": "Tra poco me ne vado.",
    "options": [
-    "Уходи́ пря́мо сейча́с.",
-    "Я́ челове́к ма́ленький.",
+    "Я́ наконе́ц ушёл.",
+    "Уйди́те от меня́.",
     "Я́ ско́ро ухожу́.",
-    "Я́ её купи́л."
+    "Я́ ушёл домо́й."
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "pending",
+  "qa_note": "QA incerto: in attesa fix frase s_1749706"
  },
  {
   "id": "e_001720",
@@ -690,10 +637,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nakonets"
   ],
@@ -711,7 +655,7 @@
    ],
    "correct": 3
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001721",
@@ -722,10 +666,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona",
    "w_srazu",
@@ -738,10 +679,10 @@
    "type": "multiple_choice",
    "question": "Она́ сра́зу пришла́.",
    "options": [
-    "Lei se n'è andata per ultima.",
-    "Lei sta cercando qualcosa?",
+    "Non è venuto nessuno.",
+    "Alla fine lui arrivò.",
     "Lei venne immediatamente.",
-    "L'ho comprata."
+    "Noi non verremo."
    ],
    "correct": 2
   },
@@ -755,10 +696,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nakonets"
   ],
@@ -776,7 +714,7 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001723",
@@ -787,8 +725,6 @@
    "tempo"
   ],
   "grammar_tags": [
-   "time-adverbs",
-   "sequence",
    "gender"
   ],
   "words": [
@@ -807,7 +743,7 @@
    ],
    "correct": 0
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001724",
@@ -817,10 +753,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_skoro",
    "w_srazu",
@@ -856,7 +789,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001725",
@@ -902,7 +835,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001726",
@@ -957,7 +891,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001727",
@@ -967,10 +902,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_utro",
    "w_vdrug",
@@ -1006,7 +938,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001728",
@@ -1053,7 +985,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001729",
@@ -1064,10 +997,7 @@
    "avverbi",
    "comunicazione"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_utro",
    "w_srazu",
@@ -1108,7 +1038,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001730",
@@ -1118,10 +1048,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_srazu",
    "w_vdrug",
@@ -1152,7 +1079,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001731",
@@ -1160,12 +1087,10 @@
   "level": "a2",
   "difficulty": 5,
   "topics": [
-   "grammatica"
+   "grammatica",
+   "azioni"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_chasto",
@@ -1189,7 +1114,7 @@
     "я́ ча́сто и́х ви́жу"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001732",
@@ -1199,10 +1124,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nakonets"
   ],
@@ -1218,7 +1140,7 @@
     "наконец"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001733",
@@ -1228,10 +1150,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_opyat",
    "w_dozhd"
@@ -1253,7 +1172,7 @@
     "опя́ть до́ждь"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001734",
@@ -1263,10 +1182,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_snachala"
   ],
@@ -1282,7 +1198,7 @@
     "сначала"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001735",
@@ -1294,10 +1210,7 @@
    "tempo",
    "movimento"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_nakonets",
@@ -1322,7 +1235,7 @@
     "я наконец ушел"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001736",
@@ -1332,10 +1245,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vdrug"
   ],
@@ -1351,7 +1261,7 @@
     "вдруг"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001737",
@@ -1362,10 +1272,7 @@
    "grammatica",
    "movimento"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ya",
    "w_poyti",
@@ -1389,7 +1296,7 @@
     "я́ пойду́ за́втра у́тром"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001738",
@@ -1399,10 +1306,7 @@
   "topics": [
    "tempo"
   ],
-  "grammar_tags": [
-   "time-adverbs",
-   "sequence"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_vecher"
   ],
@@ -1416,6 +1320,181 @@
    "accepted": [
     "ве́чер",
     "вечер"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002121",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_chasto"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 16,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Я́ ___ боле́ю.",
+   "answer": "ча́сто",
+   "accepted": [
+    "ча́сто",
+    "часто"
+   ],
+   "hint_it": "Sono spesso malato."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002122",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_utro",
+   "w_opyat",
+   "w_skoro",
+   "w_chasto",
+   "w_nakonets",
+   "w_davno"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 42,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "у́тро",
+     "it": "mattina"
+    },
+    {
+     "ru": "опя́ть",
+     "it": "di nuovo"
+    },
+    {
+     "ru": "ско́ро",
+     "it": "presto"
+    },
+    {
+     "ru": "ча́сто",
+     "it": "spesso"
+    },
+    {
+     "ru": "наконе́ц",
+     "it": "finalmente"
+    },
+    {
+     "ru": "давно́",
+     "it": "da molto tempo"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002123",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica",
+   "movimento",
+   "direzioni"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_ya",
+   "w_vecher",
+   "w_priyti",
+   "w_davno",
+   "w_vy",
+   "w_tam"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Я́ ве́чером приду́.",
+     "it": "Verrò di sera."
+    },
+    {
+     "ru": "Давно́ вы́ та́м?",
+     "it": "Da quanto siete lì?"
+    },
+    {
+     "ru": "Я́ ча́сто и́х ви́жу.",
+     "it": "Li vedo spesso."
+    },
+    {
+     "ru": "Ско́ро пя́тница.",
+     "it": "Presto è venerdì."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002124",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "azioni",
+   "soldi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_vecher",
+   "w_srazu",
+   "w_utro",
+   "w_ostanovit",
+   "w_smotret",
+   "w_dorogoy"
+  ],
+  "lesson": "l_a2_09",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "ве́чер",
+     "it": "sera"
+    },
+    {
+     "ru": "сра́зу",
+     "it": "subito"
+    },
+    {
+     "ru": "у́тро",
+     "it": "mattina"
+    },
+    {
+     "ru": "останови́ть",
+     "it": "fermare"
+    },
+    {
+     "ru": "смотре́ть",
+     "it": "guardare"
+    },
+    {
+     "ru": "дорого́й",
+     "it": "caro"
+    }
    ]
   },
   "qa_status": "pending"

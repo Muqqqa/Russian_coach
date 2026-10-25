@@ -7,11 +7,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_seryy"
   ],
@@ -27,7 +23,7 @@
     "grigio"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001624",
@@ -37,11 +33,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_sobaka",
    "w_chyornyy"
@@ -64,7 +56,7 @@
     "il cane e nero"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001625",
@@ -74,11 +66,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_belyy"
   ],
@@ -95,7 +83,7 @@
     "белый"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001626",
@@ -105,11 +93,7 @@
   "topics": [
    "natura"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nebo",
    "w_seryy"
@@ -132,7 +116,7 @@
     "не́бо се́рое"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001627",
@@ -142,11 +126,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_tyomnyy"
   ],
@@ -162,7 +142,7 @@
     "scuro"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001628",
@@ -172,11 +152,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_voda",
    "w_zelyonyy"
@@ -199,7 +175,7 @@
     "l'acqua e verde"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001629",
@@ -209,11 +185,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chyornyy"
   ],
@@ -230,7 +202,7 @@
     "черный"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001630",
@@ -239,13 +211,10 @@
   "difficulty": 5,
   "topics": [
    "grammatica",
-   "direzioni"
+   "direzioni",
+   "soldi"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chto",
    "w_v",
@@ -270,7 +239,7 @@
     "что́ в кра́сном паке́те"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001631",
@@ -301,7 +270,8 @@
    ],
    "hint_it": "nero: concorda con «acqua» (femminile)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001632",
@@ -311,11 +281,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zhyoltyy"
   ],
@@ -332,7 +298,7 @@
    ],
    "hint_it": "Lui abita in quella casa gialla."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001633",
@@ -363,7 +329,8 @@
    ],
    "hint_it": "d'oro: concorda con «acqua» (femminile)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001634",
@@ -373,11 +340,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_voda"
   ],
@@ -396,7 +359,7 @@
    ],
    "hint_it": "L'acqua è verde."
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001635",
@@ -427,7 +390,8 @@
    ],
    "hint_it": "grigio: concorda con «acqua» (femminile)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001636",
@@ -437,11 +401,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_seryy"
   ],
@@ -458,7 +418,7 @@
    ],
    "hint_it": "Il gatto è grigio?"
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001637",
@@ -489,7 +449,8 @@
    ],
    "hint_it": "bianco: concorda con «acqua» (femminile)."
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001638",
@@ -521,7 +482,8 @@
    ],
    "correct": 2
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001639",
@@ -531,11 +493,7 @@
   "topics": [
    "natura"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nebo",
    "w_seryy"
@@ -547,9 +505,9 @@
    "type": "multiple_choice",
    "question": "Не́бо се́рое.",
    "options": [
-    "Le persone stanno parlando.",
+    "È uscito il sole.",
     "Il cielo è grigio.",
-    "Dov'è l'uscita?",
+    "Domani è sabato.",
     "Il gatto è grigio?"
    ],
    "correct": 1
@@ -564,11 +522,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_krasnyy"
   ],
@@ -579,7 +533,7 @@
    "type": "multiple_choice",
    "question": "Che cosa significa «кра́сный»?",
    "options": [
-    "silenzioso",
+    "libero",
     "nuovo",
     "rosso",
     "nero"
@@ -596,11 +550,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_derevo",
    "w_zelyonyy"
@@ -613,9 +563,9 @@
    "question": "Gli alberi sono verdi.",
    "options": [
     "Дере́вья зелёные.",
-    "Вода́ зелёная.",
+    "Оно́ зелёное.",
     "Она́ зелёная.",
-    "Оно́ зелёное."
+    "Вода́ зелёная."
    ],
    "correct": 0
   },
@@ -629,11 +579,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zhyoltyy"
   ],
@@ -644,7 +590,7 @@
    "type": "multiple_choice",
    "question": "Come si dice «giallo» in russo?",
    "options": [
-    "ну́жный",
+    "плохо́й",
     "тёмный",
     "жёлтый",
     "хоро́ший"
@@ -683,7 +629,8 @@
    ],
    "correct": 1
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "QA: famiglia gram/adj: cornice fissa Э́то ___ вода́/до́м/вино́/дома́ semanticamente innaturale"
  },
  {
   "id": "e_001644",
@@ -694,11 +641,7 @@
    "avverbi",
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pochti",
    "w_tyomnyy"
@@ -710,10 +653,10 @@
    "type": "multiple_choice",
    "question": "Почти́ темно́.",
    "options": [
-    "Avete quasi finito?",
-    "È ancora buio.",
+    "Hai quasi finito?",
+    "È così buio.",
     "È quasi buio.",
-    "È così buio."
+    "Era scuro."
    ],
    "correct": 2
   },
@@ -727,11 +670,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chyornyy",
    "w_zhyoltyy",
@@ -762,7 +701,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001646",
@@ -774,11 +713,7 @@
    "avverbi",
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_nebo",
    "w_seryy",
@@ -811,7 +746,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001647",
@@ -868,7 +803,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001648",
@@ -878,11 +814,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zolotoy",
    "w_chyornyy",
@@ -918,7 +850,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001649",
@@ -929,11 +861,7 @@
    "grammatica",
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ona",
    "w_belyy",
@@ -966,7 +894,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001650",
@@ -1023,7 +951,8 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_001651",
@@ -1033,11 +962,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_belyy",
    "w_seryy",
@@ -1068,7 +993,7 @@
     }
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001652",
@@ -1079,11 +1004,7 @@
    "avverbi",
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_pochti",
    "w_tyomnyy"
@@ -1105,7 +1026,7 @@
     "почти́ темно́"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001653",
@@ -1115,11 +1036,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zhyoltyy"
   ],
@@ -1135,7 +1052,7 @@
     "желтый"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001654",
@@ -1145,11 +1062,7 @@
   "topics": [
    "grammatica"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_ono",
    "w_zelyonyy"
@@ -1173,7 +1086,7 @@
     "оно зеленое"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001655",
@@ -1183,11 +1096,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_chyornyy"
   ],
@@ -1203,7 +1112,7 @@
     "черный"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001656",
@@ -1214,11 +1123,7 @@
    "lavoro-scuola",
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_bumaga",
    "w_belyy"
@@ -1240,7 +1145,7 @@
     "бума́га бе́лая"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001657",
@@ -1250,11 +1155,7 @@
   "topics": [
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_zolotoy"
   ],
@@ -1270,7 +1171,7 @@
     "золотой"
    ]
   },
-  "qa_status": "pending"
+  "qa_status": "approved"
  },
  {
   "id": "e_001658",
@@ -1281,11 +1182,7 @@
    "azioni",
    "colori"
   ],
-  "grammar_tags": [
-   "colors",
-   "adjectives-agreement",
-   "spelling-rule"
-  ],
+  "grammar_tags": [],
   "words": [
    "w_stanovitsya",
    "w_tyomnyy"
@@ -1305,6 +1202,259 @@
     "становится темно.",
     "становится темно",
     "стано́вится темно́"
+   ]
+  },
+  "qa_status": "approved"
+ },
+ {
+  "id": "e_002105",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_zelyonyy",
+   "w_chay"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ ча́й.",
+   "answer": "зелёный",
+   "accepted": [
+    "зелёный",
+    "зеленый"
+   ],
+   "hint_it": "verde: concorda con «ча́й» (tè, maschile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002106",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_krasnyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 18,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Что́ в ___ паке́те?",
+   "answer": "кра́сном",
+   "accepted": [
+    "кра́сном",
+    "красном"
+   ],
+   "hint_it": "Cosa c'è nel pacchetto rosso?"
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002107",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_tyomnyy",
+   "w_komnata"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 16,
+  "prompt_it": "Completa con la forma corretta.",
+  "payload": {
+   "type": "cloze",
+   "text": "Э́то ___ ко́мната.",
+   "answer": "тёмная",
+   "accepted": [
+    "тёмная",
+    "темная"
+   ],
+   "hint_it": "scuro: concorda con «ко́мната» (stanza, femminile)."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002108",
+  "type": "cloze",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zelyonyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 14,
+  "prompt_it": "Completa la frase con la parola mancante.",
+  "payload": {
+   "type": "cloze",
+   "text": "Вода́ ___.",
+   "answer": "зелёная",
+   "accepted": [
+    "зелёная",
+    "зеленая"
+   ],
+   "hint_it": "L'acqua è verde."
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002109",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [
+   "agreement"
+  ],
+  "words": [
+   "w_krasnyy",
+   "w_vino"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 14,
+  "prompt_it": "Accorda l'aggettivo «кра́сный» con il nome.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Э́то ___ вино́. — rosso: concorda con «вино́» (vino, neutro).",
+   "options": [
+    "кра́сный",
+    "кра́сное",
+    "кра́сная",
+    "кра́сные"
+   ],
+   "correct": 1
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002110",
+  "type": "multiple_choice",
+  "level": "a2",
+  "difficulty": 3,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_oni",
+   "w_krasnyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 14,
+  "prompt_it": "Scegli la traduzione italiana corretta.",
+  "payload": {
+   "type": "multiple_choice",
+   "question": "Они́ кра́сные.",
+   "options": [
+    "Sono dappertutto!",
+    "Loro sono dappertutto.",
+    "Sono rossi.",
+    "Sono qui."
+   ],
+   "correct": 2
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002111",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 4,
+  "topics": [
+   "colori"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zhyoltyy",
+   "w_tyomnyy",
+   "w_seryy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 27,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "жёлтый",
+     "it": "giallo"
+    },
+    {
+     "ru": "тёмный",
+     "it": "scuro"
+    },
+    {
+     "ru": "се́рый",
+     "it": "grigio"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002112",
+  "type": "match",
+  "level": "a2",
+  "difficulty": 5,
+  "topics": [
+   "grammatica"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_voda",
+   "w_zelyonyy",
+   "w_moy",
+   "w_chyornyy",
+   "w_ona",
+   "w_krasnyy"
+  ],
+  "lesson": "l_a2_07",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Вода́ зелёная.",
+     "it": "L'acqua è verde."
+    },
+    {
+     "ru": "Моя́ чёрная.",
+     "it": "La mia è nera."
+    },
+    {
+     "ru": "Она́ кра́сная.",
+     "it": "È rossa."
+    },
+    {
+     "ru": "Что́ в кра́сном паке́те?",
+     "it": "Cosa c'è nel pacchetto rosso?"
+    }
    ]
   },
   "qa_status": "pending"
