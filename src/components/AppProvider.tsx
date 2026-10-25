@@ -21,9 +21,9 @@ interface Ctx {
   bank: Bank | undefined;
   bankError: string | undefined;
   voiceStatus: VoiceStatus;
-  /** Pronuncia testo russo. Falso se non c'e' voce o l'audio e' disattivato. */
+  /** Pronuncia testo russo. Falso se non c'è voce o l'audio è disattivato. */
   say: (text: string, rate?: number) => boolean;
-  /** Vero se l'audio e' attivo nelle impostazioni E la voce russa e' disponibile. */
+  /** Vero se l'audio è attivo nelle impostazioni E la voce russa è disponibile. */
   audioOk: boolean;
   storageOk: boolean;
 }

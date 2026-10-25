@@ -49,7 +49,7 @@ const INSTALL_HELP = (
   </>
 );
 
-/** Avviso quando manca la voce russa. Non compare se l'audio e' disattivato o la voce c'e'. */
+/** Avviso quando manca la voce russa. Non compare se l'audio è disattivato o la voce c'è. */
 export function VoiceBanner({ force }: { force?: boolean }) {
   const { voiceStatus, state } = useApp();
   if (!force && !state.settings.audioEnabled) return null;
@@ -59,13 +59,13 @@ export function VoiceBanner({ force }: { force?: boolean }) {
       <strong>{voiceStatus === "unsupported" ? "Audio non supportato." : "Voce russa non trovata."}</strong>{" "}
       {voiceStatus === "unsupported"
         ? "Questo browser non ha la sintesi vocale. Puoi usare l'app senza audio: i dettati non vengono proposti."
-        : "Sul tuo dispositivo non c'e' una voce russa installata, quindi non posso leggere le parole ad alta voce. Puoi continuare senza audio: i dettati non vengono proposti."}
+        : "Sul tuo dispositivo non c'è una voce russa installata, quindi non posso leggere le parole ad alta voce. Puoi continuare senza audio: i dettati non vengono proposti."}
       {voiceStatus === "missing" && <details><summary>Come installare la voce</summary>{INSTALL_HELP}</details>}
     </div>
   );
 }
 
-/** Parola con accento, trascrizione e traduzione (it se c'e', altrimenti en). */
+/** Parola con accento, trascrizione e traduzione (it se c'è, altrimenti en). */
 export function WordLine({ word }: { word: Word }) {
   const g = wordGloss(word, 2);
   return (

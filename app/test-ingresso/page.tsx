@@ -78,7 +78,7 @@ export default function PlacementPage() {
           <p style={{ margin: 0 }}>Livello consigliato</p>
           <div className="stat"><div className="n">{LEVEL_LABEL[sug]}</div><div className="muted">{LEVEL_DESC[sug]}</div></div>
           <p className="muted" style={{ margin: 0 }}>Hai risposto correttamente al {result.score}% delle {session?.answers.length} domande.</p>
-          {result.capped && <div className="banner">Hai superato tutte le domande disponibili: i contenuti oltre {LEVEL_LABEL[sug]} non sono ancora nel banco, quindi questo e' il massimo che posso assegnare.</div>}
+          {result.capped && <div className="banner">Hai superato tutte le domande disponibili: i contenuti oltre {LEVEL_LABEL[sug]} non sono ancora nel banco, quindi questo è il massimo che posso assegnare.</div>}
           <table className="t">
             <thead><tr><th>Livello</th><th>Domande</th><th>Corrette</th></tr></thead>
             <tbody>
@@ -108,7 +108,7 @@ export default function PlacementPage() {
     <div className="stack">
       <h1>Test d&apos;ingresso</h1>
       <div className="card stack">
-        <p style={{ margin: 0 }}>Da 10 a 15 domande che si adattano alle tue risposte: se vai bene diventano piu' difficili, se sbagli si semplificano. Dura circa 5 minuti e non serve prepararsi.</p>
+        <p style={{ margin: 0 }}>Da 10 a 15 domande che si adattano alle tue risposte: se vai bene diventano più difficili, se sbagli si semplificano. Dura circa 5 minuti e non serve prepararsi.</p>
         {bank.exercises.length === 0 ? (
           <div className="banner err">Nessuna domanda disponibile: i dati non sono stati caricati.</div>
         ) : (

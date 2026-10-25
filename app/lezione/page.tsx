@@ -133,7 +133,7 @@ export default function LessonPage() {
             <div className="stat"><div className="n">{summary.streak}</div><div className="muted small">giorni di fila</div></div>
           </div>
           <p style={{ margin: 0 }}>
-            {pct >= 85 ? "Ottimo lavoro!" : pct >= 60 ? "Buon lavoro: gli errori torneranno nei prossimi ripassi." : "Non preoccuparti: gli errori che hai fatto torneranno presto, e ripetere e' il modo migliore per ricordare."}
+            {pct >= 85 ? "Ottimo lavoro!" : pct >= 60 ? "Buon lavoro: gli errori torneranno nei prossimi ripassi." : "Non preoccuparti: gli errori che hai fatto torneranno presto, e ripetere è il modo migliore per ricordare."}
           </p>
           {summary.lesson && (
             <p className="chip" style={{ alignSelf: "flex-start", margin: 0 }}>
@@ -251,10 +251,10 @@ function Runner({
   );
 
   if (!ex) {
-    // esercizi non piu' nel banco: chiude la lezione con i risultati ottenuti
+    // esercizi non più nel banco: chiude la lezione con i risultati ottenuti
     return (
       <div className="stack">
-        <p>Questa lezione non e' piu' disponibile.</p>
+        <p>Questa lezione non è più disponibile.</p>
         <button className="btn primary" onClick={() => onFinish(results)}>Chiudi</button>
       </div>
     );

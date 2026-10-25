@@ -33,16 +33,16 @@ export interface LessonOptions {
   seed: string;
   /** Includere i dettati (richiede audio e voce russa). */
   allowDictation?: boolean;
-  /** Esercizi gia' proposti oggi: penalizzati. */
+  /** Esercizi già proposti oggi: penalizzati. */
   excludeIds?: readonly string[];
   /**
    * Rapporto fra tempo reale e `est_seconds` (>= 1). Il budget in secondi stimati diventa minuti*60/timeFactor,
-   * cosi' una lezione "da 15 minuti" dura davvero circa 15 minuti. Default 1 (stime prese alla lettera).
+   * così una lezione "da 15 minuti" dura davvero circa 15 minuti. Default 1 (stime prese alla lettera).
    */
   timeFactor?: number;
 }
 
-/** Fattore prudente per chi non ha ancora una cronologia: scrivere in cirillico e leggere il feedback costa piu' di est_seconds. */
+/** Fattore prudente per chi non ha ancora una cronologia: scrivere in cirillico e leggere il feedback costa più di est_seconds. */
 export const DEFAULT_TIME_FACTOR = 1.4;
 /** Media di est_seconds degli esercizi scelti nelle lezioni (misurata sul banco curato): base per la calibrazione. */
 export const AVG_EST_SECONDS = 16;
@@ -129,7 +129,7 @@ export function buildLesson(o: LessonOptions): LessonPlan {
   const curriculumLesson = nextCurriculumLesson(o.bank.lessons, state);
   const curId = curriculumLesson?.id;
 
-  // Pool: livelli fino a quello dell'utente. Se vuoto (livello senza esercizi) si prende il piu' vicino.
+  // Pool: livelli fino a quello dell'utente. Se vuoto (livello senza esercizi) si prende il più vicino.
   let pool = o.bank.exercises.filter((e) => levelIndex(e.level) <= userIdx && (o.allowDictation || e.type !== "dictation"));
   if (pool.length === 0) {
     const all = o.bank.exercises.filter((e) => o.allowDictation || e.type !== "dictation");
@@ -150,7 +150,7 @@ export function buildLesson(o: LessonOptions): LessonPlan {
   const adjusted = (s: Scored, primary: (s: Scored) => number): number => {
     let v = primary(s);
     v += rng() * 0.6; // variazione
-    v -= (typeCount[s.ex.type] ?? 0) * 0.5; // varieta' di tipi
+    v -= (typeCount[s.ex.type] ?? 0) * 0.5; // varietà di tipi
     for (const w of s.ex.words) v -= (wordCount[w] ?? 0) * 1.5; // non martellare la stessa parola
     if (used.has(s.ex.id)) v -= 4;
     if (s.fresh > 0) {
@@ -197,8 +197,8 @@ export function buildLesson(o: LessonOptions): LessonPlan {
     (s) => s.fresh * 2 + (s.lessonLink ? 3 : 0) + (s.ex.level === state.level ? 1 : 0) - Math.abs(s.ex.difficulty - (base + 0.5)) * 0.3,
     () => "nuovo",
   );
-  // Fase C: completa il tempo con il resto (ripasso leggero di cio' che e' gia' noto, poi altro)
-  // (se mancano esercizi su parole gia' note, il limite di parole nuove si allarga fino a 3 volte pur di riempire il tempo)
+  // Fase C: completa il tempo con il resto (ripasso leggero di ciò che è già noto, poi altro)
+  // (se mancano esercizi su parole già note, il limite di parole nuove si allarga fino a 3 volte pur di riempire il tempo)
   phase(
     budget,
     newCap * 3,
@@ -207,7 +207,7 @@ export function buildLesson(o: LessonOptions): LessonPlan {
     (s) => (s.fresh > 0 ? "nuovo" : "mix"),
   );
 
-  // Ordine: salita graduale di difficolta' con un po' di casualita'
+  // Ordine: salita graduale di difficoltà con un po' di casualità
   const ordered = chosen
     .map((c) => ({ c, k: c.s.ex.difficulty + rng() * 1.2 }))
     .sort((a, b) => a.k - b.k)

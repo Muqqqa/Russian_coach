@@ -32,7 +32,7 @@ export function overdueDays(entry: SrsEntry, today: string): number {
   return Math.max(0, diffDays(entry.due, today));
 }
 
-/** Id delle parole da ripassare oggi, le piu' in ritardo (e di box piu' basso) per prime. */
+/** Id delle parole da ripassare oggi, le più in ritardo (e di box più basso) per prime. */
 export function dueWords(srs: UserState["srs"], today: string): string[] {
   return Object.entries(srs)
     .filter(([, e]) => isDue(e, today))

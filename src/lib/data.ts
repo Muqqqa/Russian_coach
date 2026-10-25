@@ -1,5 +1,5 @@
 // Caricamento dei dati statici (public/data/*.json, copiati da `npm run copy-data`).
-// Non e' un'API: sono file serviti staticamente insieme all'app.
+// Non è un'API: sono file serviti staticamente insieme all'app.
 import type { Exercise, Lesson, Sentence, Word } from "./contract";
 import { buildBank, levelsNeedingGenerator, type Bank } from "./bank";
 import { generateExercises } from "./generator";

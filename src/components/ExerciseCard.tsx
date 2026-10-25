@@ -266,7 +266,7 @@ export function ExerciseCard({ exercise, onDone, nextLabel = "Avanti", showWords
 function Match({ exercise, pairs, done, onFinish }: { exercise: Exercise; pairs: { ru: string; it: string }[]; done: boolean; onFinish: (mistakes: number) => void }) {
   const left = useMemo(() => pairs.map((p, i) => ({ i, label: p.ru })), [pairs]);
   const right = useMemo(() => shuffle(pairs.map((p, i) => ({ i, label: p.it })), seededRng("m:" + exercise.id)), [pairs, exercise.id]);
-  // Si puo' toccare prima una colonna o l'altra: quando ci sono due selezioni si confronta la coppia.
+  // Si può toccare prima una colonna o l'altra: quando ci sono due selezioni si confronta la coppia.
   const [selL, setSelL] = useState<number | null>(null);
   const [selR, setSelR] = useState<number | null>(null);
   const [matched, setMatched] = useState<Set<number>>(new Set());

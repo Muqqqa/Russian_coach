@@ -33,10 +33,10 @@ export function diffDays(a: string, b: string): number {
   return Math.round((db.getTime() - da.getTime()) / 86400000);
 }
 
-/** Lunedi' della settimana che contiene `iso`. */
+/** Lunedì della settimana che contiene `iso`. */
 export function weekStart(iso: string): string {
   const d = parseISO(iso);
-  const dow = (d.getDay() + 6) % 7; // lunedi' = 0
+  const dow = (d.getDay() + 6) % 7; // lunedì = 0
   d.setDate(d.getDate() - dow);
   return toISO(d);
 }

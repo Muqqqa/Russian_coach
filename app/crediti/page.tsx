@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import { loadCredits, type CreditSource } from "@/lib/data";
 
-// Testo di riserva finche' data/credits.json non e' disponibile. Derivato da LICENSES.md.
+// Testo di riserva finché data/credits.json non è disponibile. Derivato da LICENSES.md.
 const FALLBACK: CreditSource[] = [
   {
     name: "OpenRussian.org",
@@ -14,7 +14,7 @@ const FALLBACK: CreditSource[] = [
     name: "Tatoeba",
     license: "CC BY 2.0 FR (alcune frasi CC0)",
     url: "https://tatoeba.org",
-    attribution: "Frasi di esempio e traduzioni italiane dai contributori di Tatoeba.org. L'autore di ogni frase e' indicato nei dati.",
+    attribution: "Frasi di esempio e traduzioni italiane dai contributori di Tatoeba.org. L'autore di ogni frase è indicato nei dati.",
   },
   {
     name: "Wiktionary (Wiktextract / kaikki.org)",
@@ -57,7 +57,7 @@ export default function CreditsPage() {
       </p>
       {placeholder && (
         <div className="banner" role="status">
-          <strong>Elenco provvisorio.</strong> L&apos;elenco completo dei crediti (data/credits.json) non e' ancora disponibile: questo riepilogo e' tratto da LICENSES.md.
+          <strong>Elenco provvisorio.</strong> L&apos;elenco completo dei crediti (data/credits.json) non è ancora disponibile: questo riepilogo è tratto da LICENSES.md.
         </div>
       )}
       {!sources && <p className="muted">Caricamento...</p>}

@@ -61,7 +61,7 @@ export default function GoalsPage() {
         <div className="card soft stack" aria-live="polite">
           <h3>Il tuo piano settimanale</h3>
           {plan.maintenance ? (
-            <p style={{ margin: 0 }}>Hai gia' questo livello (o piu' alto): ti propongo un mantenimento di <strong>{plan.lessonsTarget} lezioni</strong> e <strong>{plan.minutesTarget} minuti</strong> a settimana.</p>
+            <p style={{ margin: 0 }}>Hai già questo livello (o più alto): ti propongo un mantenimento di <strong>{plan.lessonsTarget} lezioni</strong> e <strong>{plan.minutesTarget} minuti</strong> a settimana.</p>
           ) : (
             <>
               <p style={{ margin: 0 }}>
@@ -75,7 +75,7 @@ export default function GoalsPage() {
           )}
           {!plan.feasible && !plan.maintenance && (
             <div className="banner" role="alert">
-              <strong>Obiettivo molto ambizioso.</strong> Servirebbero circa {plan.requiredMinutes} minuti a settimana; il piano e' limitato a {MAX_WEEKLY_MINUTES}. Considera una data piu' lontana o un livello piu' basso.
+              <strong>Obiettivo molto ambizioso.</strong> Servirebbero circa {plan.requiredMinutes} minuti a settimana; il piano è limitato a {MAX_WEEKLY_MINUTES}. Considera una data più lontana o un livello più basso.
             </div>
           )}
           {bank && !levelsInBank.has(target) && target !== "zero" && (

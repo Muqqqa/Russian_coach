@@ -31,7 +31,7 @@ export function buildBank(input: {
   curated: Exercise[];
   generated: Exercise[];
 }): Bank {
-  // Solo esercizi approvati arrivano all'utente (difesa in profondita': copy-data filtra gia').
+  // Solo esercizi approvati arrivano all'utente (difesa in profondità: copy-data filtra già).
   const curated = input.curated.filter((e) => e.qa_status === "approved");
   const exercises = [...curated, ...input.generated];
   const wordById = new Map(input.words.map((w) => [w.id, w]));
@@ -52,7 +52,7 @@ export function buildBank(input: {
 /**
  * Soglia di esercizi curati approvati PER LIVELLO: sotto questa soglia, per quel livello, si aggiunge
  * il generatore interno (esercizi NON rivisti da un umano). Dove il banco curato basta, il generatore
- * non si usa mai: e' solo l'ultimo ripiego.
+ * non si usa mai: è solo l'ultimo ripiego.
  */
 export const CURATED_MIN = 60;
 

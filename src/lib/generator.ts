@@ -1,5 +1,5 @@
-// Generatore interno di esercizi dai dati (parole e frasi). Serve finche' il banco curato
-// (content/exercises) non e' abbastanza ricco. Produce gli stessi tipi del contratto, con id
+// Generatore interno di esercizi dai dati (parole e frasi). Serve finché il banco curato
+// (content/exercises) non è abbastanza ricco. Produce gli stessi tipi del contratto, con id
 // "g_..." deterministici. Nessuna AI: solo regole.
 import type { Difficulty, Exercise, Level, Sentence, Word } from "./contract";
 import { levelIndex } from "./levels";
@@ -175,7 +175,7 @@ export function generateExercises(words: Word[], sentences: Sentence[]): Exercis
     if (ds.length === 3) {
       const mc = placeCorrect(s.it, ds.map((d) => d.it), rng);
       out.push(mk({ ...common, id: `g_smc_${s.id}`, type: "multiple_choice", difficulty: clampDiff(base + 1), est_seconds: 18,
-        prompt_it: "Qual e' la traduzione della frase?",
+        prompt_it: "Qual è la traduzione della frase?",
         payload: { type: "multiple_choice", question: s.stress, options: mc.options, correct: mc.correct } }));
     }
 

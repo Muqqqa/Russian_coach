@@ -43,7 +43,7 @@ export function updateStreak(streak: UserState["streak"], today: string): UserSt
   return { current, best: Math.max(streak.best, current), lastDay: today };
 }
 
-/** Streak da mostrare oggi: se ieri e' stato saltato, e' gia' spezzato. */
+/** Streak da mostrare oggi: se ieri è stato saltato, è già spezzato. */
 export function displayStreak(streak: UserState["streak"], today: string): number {
   if (!streak.lastDay) return 0;
   const gap = diffDays(streak.lastDay, today);

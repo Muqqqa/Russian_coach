@@ -6,16 +6,16 @@ import { LEVELS, levelIndex } from "./levels";
 /**
  * Ore di studio indicative per passare al livello successivo. Sono ordini di grandezza, non promesse.
  * Revisione del supervisor: i valori precedenti (70/110/160/220, cumulati 70/180/340/560) erano
- * al limite basso delle ore "guidate" usate di solito per lingue europee piu' facili
+ * al limite basso delle ore "guidate" usate di solito per lingue europee più facili
  * (circa 90-100 per A1, 180-200 per A2, 350-400 per B1, 500-600 per B2). Il russo, per un italofono,
- * richiede di piu' (nuovo alfabeto, casi, aspetto verbale). I nuovi valori (100/140/200/270, cumulati
+ * richiede di più (nuovo alfabeto, casi, aspetto verbale). I nuovi valori (100/140/200/270, cumulati
  * 100/240/440/710) restano una stima, da rivedere con i dati d'uso reali.
  */
 export const HOURS_TO_NEXT: Record<Level, number> = { zero: 100, a1: 140, a2: 200, b1: 270, b2: 0 };
 
 export const MIN_WEEKLY_MINUTES = 30;
 export const MAX_WEEKLY_MINUTES = 420; // 1 ora al giorno
-/** Massimo di lezioni a settimana nel piano (3 al giorno): oltre non e' realistico. */
+/** Massimo di lezioni a settimana nel piano (3 al giorno): oltre non è realistico. */
 export const MAX_WEEKLY_LESSONS = 21;
 
 export interface WeeklyPlan {
@@ -26,9 +26,9 @@ export interface WeeklyPlan {
   requiredMinutes: number;
   /** Minuti al giorno (su 7 giorni) per raggiungere il target settimanale. */
   minutesPerDay: number;
-  /** Falso se servirebbero piu' di MAX_WEEKLY_MINUTES a settimana. */
+  /** Falso se servirebbero più di MAX_WEEKLY_MINUTES a settimana. */
   feasible: boolean;
-  /** Vero se l'obiettivo e' gia' raggiunto (o e' un mantenimento). */
+  /** Vero se l'obiettivo è già raggiunto (o è un mantenimento). */
   maintenance: boolean;
   totalHours: number;
 }
@@ -64,7 +64,7 @@ export function deriveWeeklyPlan(input: { currentLevel: Level; goal: { targetLev
     totalHours: 0,
     ...extra,
   });
-  // Senza obiettivo, o gia' raggiunto: mantenimento = 5 lezioni a settimana.
+  // Senza obiettivo, o già raggiunto: mantenimento = 5 lezioni a settimana.
   if (!goal || levelIndex(goal.targetLevel) <= levelIndex(currentLevel)) {
     return base(dailyMinutes * 5);
   }

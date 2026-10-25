@@ -97,7 +97,7 @@ export default function SettingsPage() {
           <button
             className="btn danger"
             onClick={() => {
-              if (window.confirm("Cancellare tutti i progressi da questo browser? L'operazione non si puo' annullare (esporta prima una copia).")) {
+              if (window.confirm("Cancellare tutti i progressi da questo browser? L'operazione non si può annullare (esporta prima una copia).")) {
                 clearAll();
                 replaceAll(defaultState(), defaultExtra());
               }

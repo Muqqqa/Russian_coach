@@ -28,7 +28,7 @@ export interface PlacementSession {
 export function createPlacement(levels: readonly Level[]): PlacementSession {
   const sorted = [...new Set(levels)].sort((a, b) => levelIndex(a) - levelIndex(b));
   if (sorted.length === 0) throw new Error("Nessun livello disponibile per il test");
-  // si parte da A1 (o dal livello piu' vicino disponibile)
+  // si parte da A1 (o dal livello più vicino disponibile)
   const start = Math.max(0, sorted.findIndex((l) => l === "a1"));
   return { levels: sorted, position: Math.min(start, sorted.length - 1), answers: [] };
 }
@@ -53,7 +53,7 @@ function converged(s: PlacementSession): boolean {
 export function isPlacementFinished(s: PlacementSession): boolean {
   const n = s.answers.length;
   if (n >= MAX_QUESTIONS) return true;
-  // con un solo livello disponibile non c'e' nulla da esplorare
+  // con un solo livello disponibile non c'è nulla da esplorare
   if (n >= MIN_QUESTIONS && (converged(s) || s.levels.length === 1)) return true;
   return false;
 }
@@ -63,11 +63,11 @@ export interface PlacementResult {
   /** Percentuale di risposte corrette (0-100). */
   score: number;
   perLevel: { level: Level; asked: number; correct: number }[];
-  /** Vero se ha superato il livello piu' alto disponibile ma esistono livelli superiori senza domande. */
+  /** Vero se ha superato il livello più alto disponibile ma esistono livelli superiori senza domande. */
   capped: boolean;
 }
 
-/** Livello assegnato: il piu' alto superato (almeno 70% con almeno 2 domande); altrimenti Zero. */
+/** Livello assegnato: il più alto superato (almeno 70% con almeno 2 domande); altrimenti Zero. */
 export function placementResult(s: PlacementSession): PlacementResult {
   const perLevel = s.levels.map((level) => {
     const a = s.answers.filter((x) => x.level === level);
@@ -104,7 +104,7 @@ export function pickPlacementQuestion(s: PlacementSession, pool: readonly Exerci
   };
   let cands = attempt(target);
   if (cands.length === 0) {
-    // livello esaurito: il piu' vicino disponibile
+    // livello esaurito: il più vicino disponibile
     const order = [...s.levels].sort((a, b) => Math.abs(levelIndex(a) - levelIndex(target)) - Math.abs(levelIndex(b) - levelIndex(target)));
     for (const l of order) {
       cands = attempt(l);
@@ -120,7 +120,7 @@ export function pickPlacementQuestion(s: PlacementSession, pool: readonly Exerci
   if (typed.length === 0) typed = cands;
   const varied = typed.filter((e) => e.type !== prevType);
   const from = varied.length > 0 ? varied : typed;
-  // difficolta' medio-bassa per il livello: evita i casi piu' difficili all'inizio
+  // difficoltà medio-bassa per il livello: evita i casi più difficili all'inizio
   const sorted = from.slice().sort((a, b) => a.difficulty - b.difficulty);
   const window = sorted.slice(0, Math.max(5, Math.ceil(sorted.length * 0.6)));
   return window[Math.floor(rng() * window.length)];

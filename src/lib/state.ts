@@ -41,9 +41,9 @@ export interface ActiveSession {
 export interface AppExtra {
   history: Record<string, DayStats>;
   active?: ActiveSession;
-  /** Esercizi gia' proposti oggi: nelle lezioni successive dello stesso giorno si evitano. */
+  /** Esercizi già proposti oggi: nelle lezioni successive dello stesso giorno si evitano. */
   usedToday: { day: string; ids: string[] };
-  /** Lezioni del percorso di cui l'utente ha gia' iniziato una sessione: la spiegazione si apre da sola la prima volta. */
+  /** Lezioni del percorso di cui l'utente ha già iniziato una sessione: la spiegazione si apre da sola la prima volta. */
   seenLessons?: string[];
 }
 
@@ -62,7 +62,7 @@ export function validateState(raw: unknown): Validation {
   const errors: string[] = [];
   if (!isObj(raw)) return { ok: false, errors: ["Il file non contiene un oggetto di stato."] };
   if (!isNum(raw.schemaVersion)) errors.push("schemaVersion mancante o non numerico.");
-  else if (raw.schemaVersion > SCHEMA_VERSION) errors.push(`Il file e' di una versione piu' recente (${raw.schemaVersion}) di quella supportata (${SCHEMA_VERSION}).`);
+  else if (raw.schemaVersion > SCHEMA_VERSION) errors.push(`Il file è di una versione più recente (${raw.schemaVersion}) di quella supportata (${SCHEMA_VERSION}).`);
   else if (raw.schemaVersion < 1) errors.push("schemaVersion non valido.");
   if (!isLevel(raw.level)) errors.push("Livello non valido.");
 
@@ -170,7 +170,7 @@ export function importState(text: string): ImportResult {
   try {
     data = JSON.parse(text);
   } catch {
-    return { ok: false, errors: ["Il file non e' un JSON valido."] };
+    return { ok: false, errors: ["Il file non è un JSON valido."] };
   }
   if (isObj(data) && data.app !== undefined && data.app !== EXPORT_APP) return { ok: false, errors: ["Il file non proviene da Russian Coach."] };
   const rawState = isObj(data) && isObj(data.state) ? data.state : data;

@@ -46,7 +46,7 @@ export default function ProgressPage() {
       setMsg({ ok: false, text: ["Importazione non riuscita:", ...r.errors] });
       return;
     }
-    if (!window.confirm("Importare questo file sostituira' i progressi attuali. Continuare?")) return;
+    if (!window.confirm("Importare questo file sostituirà i progressi attuali. Continuare?")) return;
     replaceAll(r.state, { history: r.history, usedToday: { day: "", ids: [] } });
     setMsg({ ok: true, text: [`Importati i progressi (livello ${LEVEL_LABEL[r.state.level]}, ${Object.keys(r.state.srs).length} parole).`] });
   };
@@ -69,12 +69,12 @@ export default function ProgressPage() {
             return <div key={d} className={s === 0 ? "zero" : ""} style={{ height: `${Math.max(4, (s / maxSec) * 100)}%` }} title={`${d}: ${Math.round(s / 60)} min`} />;
           })}
         </div>
-        <p className="muted small" style={{ margin: 0 }}>Ogni colonna e' un giorno; l'ultima e' oggi.</p>
+        <p className="muted small" style={{ margin: 0 }}>Ogni colonna è un giorno; l'ultima è oggi.</p>
       </section>
 
       <section className="card stack" aria-labelledby="srs">
         <h2 id="srs">Lessico (ripetizione dilazionata)</h2>
-        <p className="muted small" style={{ margin: 0 }}>{total} parole incontrate. Piu' sali di scatola, piu' tempo passa tra i ripassi (1, 2, 4, 8, 16 giorni).</p>
+        <p className="muted small" style={{ margin: 0 }}>{total} parole incontrate. Più sali di scatola, più tempo passa tra i ripassi (1, 2, 4, 8, 16 giorni).</p>
         {([1, 2, 3, 4, 5] as const).map((b) => (
           <div key={b}>
             <div className="row between small"><span>Scatola {b}</span><span>{boxes[b]}</span></div>
