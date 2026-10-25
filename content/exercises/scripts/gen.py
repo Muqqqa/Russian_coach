@@ -986,7 +986,7 @@ SEEN_SIG = set()
 def sig_of(c):
     return (c["type"], json.dumps(c["payload"], sort_keys=True, ensure_ascii=False))
 
-def select(ctx, typ, cands):
+def select(ctx, typ, cands, pre_chosen):
     cap = max(caps(ctx)[typ], MINS[typ])
     groups = collections.OrderedDict()
     for sub in SUB_ORDER[typ]:
@@ -998,15 +998,9 @@ def select(ctx, typ, cands):
         lst.sort(key=lambda c: c["_ident"])
         r.shuffle(lst)
     chosen, used = [], set()
-    # prima gli esercizi gia' esistenti (id stabili) che restano validi
-    pre = [c for lst in groups.values() for c in lst if c["_key"] in OLD_KEYS or c["_sub"] == "zovut"]
-    pre.sort(key=lambda c: (registry.get(c["_key"], "e_999999"), c["_key"]))
-    for c in pre:
-        k = (c["_sub"], c["_ident"])
-        if k in used or sig_of(c) in SEEN_SIG:
-            continue
-        used.add(k)
-        SEEN_SIG.add(sig_of(c))
+    # prima gli esercizi gia' esistenti (id stabili) che restano validi, scelti globalmente in ordine di id
+    for c in pre_chosen:
+        used.add((c["_sub"], c["_ident"]))
         chosen.append(c)
     for lst in groups.values():
         lst[:] = [c for c in lst if (c["_sub"], c["_ident"]) not in used]
@@ -1071,6 +1065,7 @@ def main():
     allx = []
     old = load_old()
     final_by_id = {}
+    CANDS = {}
     for l in L:
         ctx = CTX[l["id"]]
         alpha = ctx["level"] == "zero" and ctx["order"] <= 6
@@ -1096,9 +1091,30 @@ def main():
             cand[t] += lst
         for t in cand:
             cand[t] = [c for c in cand[t] if letters_ok(ctx, c)]
+        CANDS[l["id"]] = cand
+    # passata 1: gli esercizi esistenti validi, in ordine di id globale (cosi' le deduplicazioni favoriscono gli id piu' bassi)
+    PRE = collections.defaultdict(list)
+    allpre = []
+    for l in L:
+        for t, lst in CANDS[l["id"]].items():
+            for c in lst:
+                if c["_key"] in OLD_KEYS or c["_sub"] == "zovut":
+                    allpre.append((registry.get(c["_key"], "e_999999"), c["_key"], l["id"], t, c))
+    allpre.sort(key=lambda x: (x[0], x[1]))
+    usedk = set()
+    for _, _, lid, t, c in allpre:
+        k = (lid, t, c["_sub"], c["_ident"])
+        if k in usedk or sig_of(c) in SEEN_SIG:
+            continue
+        usedk.add(k)
+        SEEN_SIG.add(sig_of(c))
+        PRE[(lid, t)].append(c)
+    for l in L:
+        ctx = CTX[l["id"]]
+        cand = CANDS[l["id"]]
         chosen = []
         for t in ["translate", "cloze", "multiple_choice", "match", "dictation"]:
-            chosen += select(ctx, t, cand[t])
+            chosen += select(ctx, t, cand[t], PRE[(l["id"], t)])
         covered = {w for c in chosen for w in c["words"]}
         for wid in ctx["nw"]:
             if wid not in covered and wid in G:

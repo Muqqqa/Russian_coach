@@ -2092,3 +2092,9 @@ l_zero_07|dictation|zovut|d1	e_002151
 l_zero_07|dictation|zovut|d2	e_002152
 l_zero_05|multiple_choice|letter_sound|Ю	e_002153
 l_a2_13|cloze|gram|pl:w_serdtse	e_002154
+l_a1_01|match|w_new|g1:w_den,w_nedelya,w_pyatnitsa,w_zavtra	e_002155
+l_a1_01|match|s_pairs|sg4:s_2484149,s_3313440,s_468424,s_5500023	e_002156
+l_a1_08|translate|w_ru_it|w_stul	e_002157
+l_a1_08|match|w_new|h1:w_gorod,w_stantsiya,w_stol,w_stul,w_ulitsa	e_002158
+l_a1_08|match|s_pairs|sg16:s_1774619,s_5586120,s_6785772	e_002159
+l_a1_08|match|w_rev|r1:w_derevnya,w_i,w_novyy,w_stol,w_tikho,w_v	e_002160

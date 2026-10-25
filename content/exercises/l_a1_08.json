@@ -347,7 +347,8 @@
     "io sono in macchina."
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000729",
@@ -964,7 +965,8 @@
     }
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000749",
@@ -1102,7 +1104,8 @@
     }
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000752",
@@ -1248,7 +1251,8 @@
     }
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000755",
@@ -1531,5 +1535,174 @@
    ]
   },
   "qa_status": "approved"
+ },
+ {
+  "id": "e_002157",
+  "type": "translate",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "casa"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_stul"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 10,
+  "prompt_it": "Traduci in italiano la parola russa.",
+  "payload": {
+   "type": "translate",
+   "direction": "ru_it",
+   "source": "сту́л",
+   "answer": "sedia",
+   "accepted": [
+    "sedia",
+    "la sedia",
+    "una sedia"
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002158",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi",
+   "casa"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_gorod",
+   "w_stol",
+   "w_stul",
+   "w_stantsiya",
+   "w_ulitsa"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 37,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "го́род",
+     "it": "città"
+    },
+    {
+     "ru": "сто́л",
+     "it": "tavolo"
+    },
+    {
+     "ru": "сту́л",
+     "it": "sedia"
+    },
+    {
+     "ru": "ста́нция",
+     "it": "stazione"
+    },
+    {
+     "ru": "у́лица",
+     "it": "strada"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002159",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "grammatica",
+   "luoghi",
+   "avverbi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_eto",
+   "w_mesto",
+   "w_svobodno",
+   "w_v",
+   "w_derevnya",
+   "w_on"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 40,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Э́то ме́сто свобо́дно?",
+     "it": "Questo posto è libero?"
+    },
+    {
+     "ru": "В дере́вне его́ лю́бят.",
+     "it": "Nel villaggio lo amano."
+    },
+    {
+     "ru": "На часа́х два́.",
+     "it": "L'orologio segna le due."
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002160",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "luoghi",
+   "direzioni",
+   "avverbi"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_stol",
+   "w_derevnya",
+   "w_v",
+   "w_tikho",
+   "w_novyy",
+   "w_i"
+  ],
+  "lesson": "l_a1_08",
+  "est_seconds": 42,
+  "prompt_it": "Abbina le parole russe al significato (ripasso).",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "сто́л",
+     "it": "tavolo"
+    },
+    {
+     "ru": "дере́вня",
+     "it": "villaggio"
+    },
+    {
+     "ru": "в",
+     "it": "in"
+    },
+    {
+     "ru": "ти́хо",
+     "it": "sottovoce"
+    },
+    {
+     "ru": "но́вый",
+     "it": "nuovo"
+    },
+    {
+     "ru": "и́",
+     "it": "e"
+    }
+   ]
+  },
+  "qa_status": "pending"
  }
 ]

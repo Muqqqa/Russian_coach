@@ -809,7 +809,8 @@
     }
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000460",
@@ -947,7 +948,8 @@
     }
    ]
   },
-  "qa_status": "approved"
+  "qa_status": "rejected",
+  "qa_note": "Escluso dopo l'audit QA: non piu' generato dalle regole aggiornate (lettere non ancora introdotte, frase o glossa corretta, famiglia sostituita, lettura convertita in scelta multipla)."
  },
  {
   "id": "e_000463",
@@ -1305,5 +1307,87 @@
    ]
   },
   "qa_status": "approved"
+ },
+ {
+  "id": "e_002155",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 2,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_zavtra",
+   "w_den",
+   "w_nedelya",
+   "w_pyatnitsa"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 32,
+  "prompt_it": "Abbina ogni parola russa al suo significato.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "за́втра",
+     "it": "domani"
+    },
+    {
+     "ru": "де́нь",
+     "it": "giorno"
+    },
+    {
+     "ru": "неде́ля",
+     "it": "settimana"
+    },
+    {
+     "ru": "пя́тница",
+     "it": "venerdì"
+    }
+   ]
+  },
+  "qa_status": "pending"
+ },
+ {
+  "id": "e_002156",
+  "type": "match",
+  "level": "a1",
+  "difficulty": 3,
+  "topics": [
+   "tempo"
+  ],
+  "grammar_tags": [],
+  "words": [
+   "w_segodnya",
+   "w_vtornik",
+   "w_sreda",
+   "w_subbota"
+  ],
+  "lesson": "l_a1_01",
+  "est_seconds": 45,
+  "prompt_it": "Abbina ogni frase russa alla sua traduzione.",
+  "payload": {
+   "type": "match",
+   "pairs": [
+    {
+     "ru": "Сего́дня вто́рник.",
+     "it": "Oggi è martedì."
+    },
+    {
+     "ru": "Сего́дня среда́.",
+     "it": "Oggi è mercoledì."
+    },
+    {
+     "ru": "Сего́дня суббо́та.",
+     "it": "È sabato oggi."
+    },
+    {
+     "ru": "За́втра вто́рник.",
+     "it": "Domani è martedì."
+    }
+   ]
+  },
+  "qa_status": "pending"
  }
 ]
